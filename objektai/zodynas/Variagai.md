@@ -120,6 +120,5 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 ### Susiję objektai
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/autoriai/Ibrahim ibn Jakūb]]
 - [[objektai/asmenys/Aleksandras Balinskis]]

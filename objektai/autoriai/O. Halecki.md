@@ -301,5 +301,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/unija]]
+- [[objektai/posakiai/prieš vėją nepapūs]]

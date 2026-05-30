@@ -149,7 +149,7 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Unitai]]
+- [[objektai/zodynas/bajorija]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

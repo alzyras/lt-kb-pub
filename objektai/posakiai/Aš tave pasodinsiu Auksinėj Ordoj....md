@@ -115,7 +115,6 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/saar]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
 - [[objektai/grupes/Totoriai]]

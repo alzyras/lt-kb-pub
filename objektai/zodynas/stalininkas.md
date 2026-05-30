@@ -84,6 +84,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - [[objektai/asmenys/Druzigeris]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
 - [[objektai/asmenys/Henrikas iš Lichtenšteino]]
 - [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]

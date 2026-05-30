@@ -169,6 +169,7 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/asmenys/Gerlachas Rudasis]]
 - [[objektai/asmenys/Hartmanas iš Heldrungeno]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

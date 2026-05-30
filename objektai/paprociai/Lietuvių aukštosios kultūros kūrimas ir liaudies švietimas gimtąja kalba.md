@@ -2,12 +2,8 @@
 tipas: paprotys
 pavadinimas: "Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba"
 sukurta: '2026-05-14'
-variantai:
-  - 'Kandidatas 55 Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba'
-  - 'Kandidatas Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba'
-aliases:
-  - 'Kandidatas 55 Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba'
-  - 'Kandidatas Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba'
+variantai: []
+aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -66,6 +62,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -97,6 +97,38 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Parašytas ir išleistas tiems lai-
+    kams novatoriškas elementorius
+    lietuvių kalba (žemaičių tarme),
+    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
+    buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
+    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
+    vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
+    parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
+    plito nuorašais. Vėliau S. Daukantas persikėlė į Sankt Peterburgą, įsidar-
+    bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų
+    Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietu-
+    vos istorijos knygas, išleido plačią beletrizuotą etninių lietuvių kultūros
+    studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
+    Simonas Daukantas. Dail. J. Zenkevičius,
+    1850 m.
+
+    L I E T U V O S  I S T O R I J A
+    112
+    raštingiems valstiečiams ūkininkams skirtų knygelių. Rengė žodynus,
+    netgi parašė lietuvių kalba vadovėlį vidurinėms mokykloms.
+    Būtent S.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

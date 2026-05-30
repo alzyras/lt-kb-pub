@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -17,45 +18,65 @@ tags:
 
 ## Santrauka
 
-Protestantizmas labai greitai pasiekė Lietuvą. XVI amžiuje užplūdusi protestantizmo banga išjudino iš pamatų katalikybę Lietuvoje. Apskritai karalių Vazų laikais jau visiškai paaiškėjo, kad protestantizmas Lietuvoje išnyks.
+Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos didikų tarpe labiausiai buvo įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo- rijos tarpe — liuteranizmas. protestantizmas: xVI am- žiuje užplūdusi protestantizmo banga išjudino iš pamatų kata- likybę Lietuvoje. Beveik visos didžiųjų ponų šeimos buvo išvir- tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų pastangomis katalikybė ėmė atsigauti, ir daugelis.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Protestantizmas greitai pasiekė Lietuvą: 1525 m. jį priėmė Lietuvos pašonėje buvęs Kryžiuočių ordino magistras ir dauguma brolių.'
+  teiginys: 'Protestantizmas labai greitai pa- siekė Lietuvą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: 'XVI a. protestantizmo banga smarkiai susilpnino katalikybę Lietuvoje, bet amžiaus pabaigoje jėzuitų pastangomis katalikybė ėmė atsigauti.'
+  teiginys: 'protestantizmas: lietuvos didikų tarpe labiausiai buvo įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo- rijos tarpe — liuteranizmas.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-003
-  teiginys: 'Vazų laikais protestantizmo padėtis Lietuvoje ypač pablogėjo išmirus protestantiškajai Radvilų šakai.'
+  teiginys: 'protestantizmas: xVI am- žiuje užplūdusi protestantizmo banga išjudino iš pamatų kata- likybę Lietuvoje. Beveik visos didžiųjų ponų šeimos buvo išvir- tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų pastangomis katalikybė ėmė atsigauti, ir daugelis.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-004
+  teiginys: 'Apskritai karalių Vazų laikais jau visiškai paaiškėjo, kad protestantizmas Lietuvoje išnyks.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Protestantizmas greitai pasiekė Lietuvą: 1525 m. jį priėmė Lietuvos pašonėje buvęs Kryžiuočių ordino magistras ir dauguma brolių.'
+  santrauka: 'Protestantizmas labai greitai pa- siekė Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Protestantizmas labai greitai pa-
     siekė Lietuvą. 1525 m. Lietuvos pašonėje priėmė protestantizmą
     kryžiuočių ordino magistras ir daugumas brolių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'XVI a. protestantizmo banga smarkiai susilpnino katalikybę Lietuvoje, bet amžiaus pabaigoje jėzuitų pastangomis katalikybė ėmė atsigauti.'
+  santrauka: 'protestantizmas: lietuvos didikų tarpe labiausiai buvo įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo- rijos tarpe — liuteranizmas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos didikų tarpe labiausiai buvo
+    įsigalėjęs kalvinizmas, o miestuose ir kai kur vidutinės bajo-
+    rijos tarpe — liuteranizmas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'protestantizmas: xVI am- žiuje užplūdusi protestantizmo banga išjudino iš pamatų kata- likybę Lietuvoje. Beveik visos didžiųjų ponų šeimos buvo išvir- tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų pastangomis katalikybė ėmė atsigauti, ir daugelis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XVI am-
@@ -64,15 +85,15 @@ Protestantizmas labai greitai pasiekė Lietuvą. XVI amžiuje užplūdusi protes
     tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų
     pastangomis katalikybė ėmė atsigauti, ir daugelis didžiųjų
     ponų šeimų sugrįžo atgal į katalikybę (žiūr. 253, 290 psl.).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Vazų laikais protestantizmo padėtis Lietuvoje ypač pablogėjo išmirus protestantiškajai Radvilų šakai.'
+    - t-003
+- c-004
+  santrauka: 'Apskritai karalių Vazų laikais jau visiškai paaiškėjo, kad protestantizmas Lietuvoje išnyks.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Apskritai karalių Vazų laikais jau visiškai paaiškėjo, kad
@@ -82,13 +103,13 @@ Protestantizmas labai greitai pasiekė Lietuvą. XVI amžiuje užplūdusi protes
     tantizmui laikytis buvo neįmanoma. Todėl iki mūsų laikų Lie-
     tuvoje protestantų išliko tik mažos salelės apie buvusius Rad-
     vilų centrus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

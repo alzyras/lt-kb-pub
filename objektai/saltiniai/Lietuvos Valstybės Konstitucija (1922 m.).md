@@ -6,18 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1922 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1922'
-date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -34,30 +22,36 @@ Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įt
 
 ## Teiginiai
 - t-001
-  teiginys: 'Svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai ir lygioms teisėms, bet neteikė privilegijų.'
+  teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai ir lygioms teisėms, bet neteikė privilegijų.'
+  santrauka: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    čiausiąją valdžią ir užėmė išskirtinę padėtį šalyje). Lietuvių kalba pirmą
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant
-    1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei auto-
-    nomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad
-
-    L I E T U V O S  I S T O R I J A
-    168
-    nesusidarytų valstybė valstybėje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002

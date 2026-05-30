@@ -22,17 +22,21 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus akademijos įkūrimo privilegiją karalius suteikė jėzuitams būdamas Lenkijoje.'
+  teiginys: 'Privilegiją jėzuitams karalius davė būdamas Lenkijoje.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
-
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vilniaus akademijos įkūrimo privilegiją karalius suteikė jėzuitams būdamas Lenkijoje.'
+  santrauka: 'Privilegiją jėzuitams karalius davė būdamas Lenkijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Privilegiją** jėzuitams karalius davė būdamas Lenkijoje. Kai
@@ -40,10 +44,25 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
     priėmimą jėzuitai, tarpininkaujant vyskupams ir katalikams didžiū-
     nams, paprašė patvirtinti ją iškilmingu aktu. Karalius tatai padarė,
     grįžęs iš karo žygio.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl kai 1578 m. Vilniaus jėzuitai per vysk. Protasevičių ir J. Radvilą paprašė jį leisti
+    įkurti Vilniuje akademiją, Stp. Batoras labai mielai sutiko ir
+    davė privilegijos raštą, kurį jis antrą kartą iškilmingai patvirtino
+    atvykęs į Lietuvą (1579 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

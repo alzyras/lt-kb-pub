@@ -29,24 +29,44 @@ tags:
 Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, o Fondo valdybos pirmininkai minimi kaip prisiėmę finansinę naštą autoriui įgyvendinant leidinio sumanymą.
 
 ## Teiginiai
+
 - t-003
   teiginys: 'Lietuvių Fondo lėšomis buvo apmokėta dalis leidinio spaustuvės išlaidų.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-004
   teiginys: 'Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją lietuvių kalba.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-005
   teiginys: '### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # RINKTINIAI RAŠTAI I Tomas ## LIETUVOS ISTORIJA Iki Vytauto Didžiojo mirties ### ROMA 1978 ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # LIETUVOS ISTORIJA ### IKI VYTAUTO DIDŽIOJO.'
   pagrindžia:
     - c-003
 
+- t-001
+  teiginys: 'Lietuvių Fondas prisidėjo prie leidinio spaudos išlaidų apmokėjimo.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją gimtąja kalba.'
+  pagrindžia:
+    - c-004
+    - c-003
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Lietuvių Fondo lėšomis buvo apmokėta dalis leidinio spaustuvės išlaidų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -60,6 +80,7 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją lietuvių kalba.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -78,6 +99,7 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: '### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # RINKTINIAI RAŠTAI I Tomas ## LIETUVOS ISTORIJA Iki Vytauto Didžiojo mirties ### ROMA 1978 ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # LIETUVOS ISTORIJA ### IKI VYTAUTO DIDŽIOJO.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -132,6 +154,25 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+- c-004
+  santrauka: Lietuvių Fondas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Baigdamas nuoširdžiai dėkoju Lietuvių Fondo Valdybos pir­
+    mininkams (pp. Dr. A. Razmai, Dr. K. Ambrozaičiui), kad jie
+    pasiimdami Fondui finansinę naštą, įgalino mane realizuoti šią
+    mano gyvenimo testamentinę svajonę — duoti savo tautai gimtąja
+    kalba Lietuvos istoriją, kaip aš ją iš savo ilgamečių kitų tyrinėji­
+    mų studijų, atitinkamų šaltinių ir dėstymo aukštosiose mokyklose
+    esu apčiuopęs.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

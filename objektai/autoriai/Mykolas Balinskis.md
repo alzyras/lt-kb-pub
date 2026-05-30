@@ -102,13 +102,19 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Mykolo Balinskio publicistikai priskiriami „Gazeta Warszawska“ spausdinti „Laiškai nuo Kražantės upės kranto“.'
+  teiginys: "Balinskio publicistikai priskiriami „Laiškai nuo Kražantės upės kranto“, spausdinti „Gazeta Warszawska“."
   pagrindžia:
     - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: "Balinskis siejamas su „Opisanie Statyst. Wilna“."
+  pagrindžia:
+    - c-009
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
 - t-013
-  teiginys: 'Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. lietuviškas leidimas verstas iš 1836–1837 m. Vilniuje spausdinto „Historya Miasta Wilna“.'
+  teiginys: "2007 m. lietuviškas leidimas verstas iš Michała Balińskiego „Historya Miasta Wilna“, spausdinto Vilniuje 1836-1837 m."
   pagrindžia:
     - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -119,8 +125,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   santrauka: Balinskio leidybinė, biografinė ir istorinių tekstų rengimo veikla.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Neturėdamas pakankamai pragy­
-    venimo lėšų, M. Balinskis persikėlė gyventi į Varšuvą. Šie vie­
+    Šie vie­
     nuolika (1836-1847) metų buvo bene kūrybingiausias jo moks­
     linės veiklos laikotarpis. 1841 m. jis tapo vienu iš enciklopedinio
     pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A. ir
@@ -140,10 +145,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   santrauka: Balinskio dokumentų rinkimas ir svarbiausi istorijos darbai.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Čia jis kurį laiką dirbo Edukacinėje teismo ko­
-    misijoje, aktyviai bendradarbiavo Vilniaus periodinėje spaudo­
-    je rašydamas švietėjiško - pažintinio pobūdžio straipsnius ir fel­
-    jetonus. Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
+    Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
     rinkti su miesto istorija susijusius dokumentus. M. Balinskis pa­
     liko nemažai istorinių darbų ir apybraižų, dalis jų - rankraš­
     čiuose. Bene garsiausias istoriko darbas - tai Vilniaus akademijos
@@ -166,8 +168,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     mui Leleveliui M. Balinskis prisipažįsta, kad Vilniaus miesto is­
     torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje. Į J. Lele­
     velio skatinimą parašyti daugiatomę miesto istoriją atsakė manąs
-    parašyti „tris, o gal keturis tomus"4. Tačiau vis nauji dokumen­
-    tai vertė tolydžio perrašinėti ir taisyti rankraščio tekstą.
+    parašyti „tris, o gal keturis tomus"4.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -190,9 +191,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     padėjusia ateinančioms kartoms formuoti istorinės savimonės
     pagrindus. M. Balinskis buvo kruopštus, pedantiškas istorikas,
     kitaip nei Teodoras Narbutas, be atitinkamos faktografinės ba­
-    zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį. Jis nebuvo
-    toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­
-    veik tuo pat metu rašė savo Vilniaus miesto istoriją.
+    zės vengdavęs rašyti apie vieną ar kitą istorinį įvykį.
   citata_rodoma: ""
   teiginio_tipas: vertinimas
   patikimumo_lygis: vidutinis
@@ -210,10 +209,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
     formos kūrimas - lėmė gana vėlyvą istorinių veikalų pasirody­
     mą. 1835 m. pasirodė T. Narbuto istorijos pirmasis tomas, kitais
-    metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis. Lie­
-    tuvos visuomenė tiesiog alsavo praeitimi: istorikų darbai buvo
-    aptarinėjami bajorų pobūviuose, buvo kaupiamos privačios ar­
-    cheologinių radinių ir meno kolekcijos.
+    metais - pirmoji M. Balinskio Vilniaus miesto istorijos dalis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -231,10 +227,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
     tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
     nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
-    Malevskiui už gausius išrašus iš Lietuvos Metrikos. P. Malev-
-    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
-    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
-    kas.
+    Malevskiui už gausius išrašus iš Lietuvos Metrikos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -243,7 +236,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   pagrindžia:
     - t-008
 - c-007
-  santrauka: 'Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. lietuviškas leidimas verstas iš 1836–1837 m. Vilniuje spausdinto „Historya Miasta Wilna“.'
+  santrauka: Lietuviško leidimo originalas ir 1836-1837 m. spaudos duomenys.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     UDK 947.45
@@ -272,8 +265,6 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     © Vertimas į lietuvių kalbą,
     Jūratė Dalia Baronienė, 2007
     © Romas Dubonis, apipavidalinimas,
-    2007
-    © MINTIS, 2007
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -282,7 +273,7 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
   pagrindžia:
     - t-013
 - c-008
-  santrauka: 'Mykolo Balinskio publicistikai priskiriami „Gazeta Warszawska“ spausdinti „Laiškai nuo Kražantės upės kranto“.'
+  santrauka: Balinskio publicistiniai tekstai „Gazeta Warszawska“ puslapiuose.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     užrašais ir asmeninėmis pastabomis, už ką jiems kuo nuošir­
@@ -292,17 +283,38 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     straipsniai, pavadinti Laiškais nuo Kražantės upės kranto, - tai ver­
     tingas istorinis šaltinis, padedantis suprasti visuomeninį-kultū-
     rinį pagyvėjimą Lenkijoje ir Lietuvoje penktame-šeštame XIX a.
-    dešimtmetyje. Aleksandro II atėjimas į sostą buvo liberalių re­
-    formų pradžia: atgaivino visuomenės siekimus atgauti tai, kas
-    buvo prarasta po 1830-1831 m. sukilimo, o gal net iškovoti daug
-    daugiau - nepriklausomybę arba bent autonomiją.
+    dešimtmetyje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Pastraipa tiesiogiai sieja M. Balinskį su publicistika ir straipsnių pavadinimu."
+  pagrindžia:
+    - t-010
+- c-009
+  santrauka: Išnaša sieja Balinskį su „Opisanie Statyst. Wilna“.
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Sūnėnų tvirtas laidavimo žo­
+    dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
+    sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo
+    vienas vėliau buvo Trakų vaivada,
+    o jo sūnus - Jonas Hanulaitis - Lie­
+    tuvos vėliavininkas; pastarasis Žy­
+    gimanto Kęstutaičio laikais pasižy­
+    mėjo mūšyje prie Pabaisko, iš jo
+    paėjo vadinami Daugėlos (nes jis po
+    šios pergalės buvo lietuviškai pra­
+    mintas Dauggalis - galingas, didis.
+    Žr. B a 1  i n s k i o Opisanie Statyst.
+    Wilna, 1. 177.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai apibūdina Balinskio publicistinius tekstus laikraštyje Gazeta Warszawska."
+  patikimumo_pagrindimas: "Išnašos nuoroda tiesiogiai pateikia Balinskio pavardę ir veikalo pavadinimą."
   pagrindžia:
-    - t-010
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai

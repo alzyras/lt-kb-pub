@@ -21,28 +21,39 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkijos sukilėlių vyriausybė grąžino „raudonuosius“ į Lietuvos sukilimo vadovybę ir jos vadovu paskyrė Konstantiną Kalinauską.'
+  teiginys: 'Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstantinas Kalinauskas), sukilimas ėmė blėsti.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkijos sukilėlių vyriausybė grąžino „raudonuosius“ į Lietuvos sukilimo vadovybę ir jos vadovu paskyrė Konstantiną Kalinauską.'
+  santrauka: 'Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną paskelbė sukilimo pradžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lenkijos sukilėlių vyriausybė į Lietu-
-    vos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas
-    Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstan-
-    tinas Kalinauskas), sukilimas ėmė blėsti.
-  citata_rodoma: ""
+    lumo Lenkijos sukilėlių vadovybė sukilimui Lietuvoje vadovauti pavedė
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas Lietuvos patriotas ir baltarusių tautinio atgimimo šalininkas Konstantinas Kalinauskas), sukilimas ėmė blėsti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    vos sukilimo vadovybę grąžino „raudonuosius“ (vadovu paskirtas karštas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

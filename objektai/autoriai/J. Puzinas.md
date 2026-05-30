@@ -11,6 +11,7 @@ saltiniai:
 laikotarpis: '1938 m.; 1948 m.; 1950 m.'
 datos:
   - '1938 m.'
+  - '1948 m.'
   - '1950 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
@@ -48,33 +49,50 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 
 ## Teiginiai
 - t-001
-  teiginys: 'J. Puzinas buvo vadinamas specialistu, parengusiu atskirą išsamų veikalą.'
+  teiginys: 'Puzinas, Vorgeschichtsforschung u.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'J. Puzinas 1938 m. Kaune paskelbė veikalą „Naujausių Proistorinių Tyrinėjimų Duomens“.'
+  teiginys: 'J. Puzinas pristatomas kaip specialistas, duodantis atskirą išsamų veikalą.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“.'
+  teiginys: 'J. Puzinas parašė Naujausių Proistorinių Tyrinėjimų Duomens.'
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'J. Puzinas 1950 m. paskelbė darbą „Die Flügelfibeln in Litauen und ihre Bedeutung für die Handelsgeschichte“.'
+  teiginys: 'J. Puzinas parašė Aisčiai istorinių šaltinių šviesoje.'
   pagrindžia:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: 'J. Puzinas parašė Die Flügelfibeln in Litauen und ihre Bedeutung für die Handelsgeschichte.'
+  pagrindžia:
+    - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'J. Puzinas buvo vadinamas specialistu, parengusiu atskirą išsamų veikalą.'
+  santrauka: 'Puzinas, Vorgeschichtsforschung u.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _J. Puzinas,_ Vorgeschichtsforschung u. Natio-
+    nalbewustsein in L. (1935; liet. parafr.: „Archeolog, tyrinėjimai Liet.", Se-
+    novė I); — Poledinio Liet. gyventojo kultūra (N. Rom. 1935, Nr. 12—13);
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: J. Puzinas tiesiogiai įvardijamas specialistu
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Reikia džiaugtis,
@@ -85,9 +103,9 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'J. Puzinas 1938 m. Kaune paskelbė veikalą „Naujausių Proistorinių Tyrinėjimų Duomens“.'
+    - t-002
+- c-003
+  santrauka: Santrumpų sąrašas susieja J. Puziną su veikalu Naujausių Proistorinių Tyrinėjimų Duomens
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     PuPrT = Puzinas, J. : Naujausių Proistorinių Tyrinėjimų Duomens,
@@ -98,9 +116,9 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“.'
+    - t-003
+- c-004
+  santrauka: Bibliografinė nuoroda susieja J. Puziną su darbu apie aisčius istorinių šaltinių šviesoje
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Puzinas, J. :
@@ -111,25 +129,19 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'J. Puzinas 1950 m. paskelbė darbą „Die Flügelfibeln in Litauen und ihre Bedeutung für die Handelsgeschichte“.'
+    - t-004
+- c-005
+  santrauka: J. Puzinas bibliografiškai susiejamas su darbu apie sparnines seges Lietuvoje
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Puzinas, J. :
-    _Aisčiai istorinių šaltinių šviesoje,_ Aidai, nr. 12, 1948, 97-103 p. — (”)
-
-
-    (^106) I SKYRIUS: LIETUVOS PROISTORĖ
-    _Ankstyvojo geležies amžiaus kapas, surastas Kurmaičiuose, Kretingos vls.,_
-    Vytauto D. Kultūros Muziejaus Metraštis, I, 1941, 19-27 p. -— (”) _Dvi­
-    gubas IV a. kapas Veršvuose,_ (ten pat, 28-42 p.). — (”) _Die Flügelfibeln
-    in Litauen und ihre Bedeutung für die Handelsgeschichte_ , Festschrift Wah­
-    le, 1950, 189-199 p
+    _Die Flügelfibeln
+    in Litauen und ihre Bedeutung für die Handelsgeschichte_ , Festschrift Wah-
+    le, 1950, 189-199 p.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005

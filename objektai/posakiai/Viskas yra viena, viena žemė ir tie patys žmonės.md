@@ -35,7 +35,7 @@ tags: []
 
 ## Santrauka
 
-Ši formuluotė pateikiama kaip Vytauto argumentas, kuriuo žemaičiai nusakomi kaip ta pati lietuvių tautos dalis. Balińskio cituojamame vertime Žemaitijos ir Lietuvos tapatumas grindžiamas bendra kalba, ta pačia žeme ir tais pačiais žmonėmis.
+Ši formuluotė pateikiama kaip Vytauto argumentas, kuriuo žemaičiai nusakomi kaip ta pati lietuvių tautos dalis. Balińskio cituojamame 1420 m. laiško kontekste tapatumas grindžiamas bendra kalba, ta pačia žeme ir tais pačiais žmonėmis.
 
 ## Forma
 
@@ -48,8 +48,18 @@ tags: []
 - totum unum est, terra una et homines uni
 
 ## Teiginiai
+- t-002
+  teiginys: 'Vytautas laiške teigė, kad žemaičiai yra ta pati lietuvių tautos dalis: „viskas yra viena, viena žemė ir tie patys žmonės“.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys žmonės »^14.'
+  pagrindžia:
+    - c-002
 - t-004
-  teiginys: 'Formulėje teigiama, kad Žemaitija ir Lietuva yra viena žemė ir tie patys žmonės.'
+  teiginys: "Balińskio pateiktame 1420 m. Vytauto laiško kontekste Žemaitijos ir Lietuvos tapatumas grindžiamas viena kalba ir tais pačiais žmonėmis."
   pagrindžia:
     - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -78,6 +88,24 @@ tags: []
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-002
+  santrauka: 'Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys žmonės »^14.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pus­
+    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
+    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
+    Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati
+    lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
+    žmonės »^14. Jis pabrėžė, jog Žemaičiai nuo senovės didžiųjų kuni­
+    gaikščių esą valdomi paveldėjimo teise.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 - c-004

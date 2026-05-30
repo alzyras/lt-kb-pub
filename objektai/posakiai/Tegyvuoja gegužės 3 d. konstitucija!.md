@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -18,33 +19,51 @@ tags:
 
 ## Santrauka
 
-Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Tegyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio seimo konstitucija lenkų ir Lietuvos bajorijos buvo laikoma siektinu idealu ir laisvės garantija).
+Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te- gyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio seimo konstitucija lenkų ir Lietuvos bajorijos buvo laiko- ma siektinu idealu ir laisvės garantija). Tegyvuoja gegužės 3 d. konstitucija!: tuojau po to prasi- dėjo kratos ir areštai mokinių ir studentų tarpe.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šūkį „Tegyvuoja gegužės 3 d. konstitucija!“ vienas Vilniaus gimnazijos mokinys užrašė ant lentos, nes ši konstitucija laikyta siektinu idealu ir laisvės garantija.'
+  teiginys: 'Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te- gyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio seimo konstitucija lenkų ir Lietuvos bajorijos buvo laiko- ma siektinu idealu ir laisvės garantija).'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Tegyvuoja gegužės 3 d. konstitucija!: tuojau po to prasi- dėjo kratos ir areštai mokinių ir studentų tarpe.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šūkį „Tegyvuoja gegužės 3 d. konstitucija!“ vienas Vilniaus gimnazijos mokinys užrašė ant lentos, nes ši konstitucija laikyta siektinu idealu ir laisvės garantija.'
+  santrauka: 'Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te- gyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio seimo konstitucija lenkų ir Lietuvos bajorijos buvo laiko- ma siektinu idealu ir laisvės garantija).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tik visai netikėtai beplintantį judėjimą 1823 m. išardė rusai.
     Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te-
     gyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio
     seimo konstitucija lenkų ir Lietuvos bajorijos buvo laiko-
     ma siektinu idealu ir laisvės garantija).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tegyvuoja gegužės 3 d. konstitucija!: tuojau po to prasi- dėjo kratos ir areštai mokinių ir studentų tarpe.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuojau po to prasi-
+    dėjo kratos ir areštai mokinių ir studentų tarpe.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

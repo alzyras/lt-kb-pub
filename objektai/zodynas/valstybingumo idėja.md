@@ -77,6 +77,12 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Viena Lietuvos istorijos periodizacija remiasi valstybingumo idėja.'
+  pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 - t-005
   teiginys: 'Ši schema išskiria valstybės išsivystymą, sustiprėjimą, silpnėjimą, žlugimą ir atstatymą.'
   pagrindžia:
@@ -89,18 +95,16 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Lietuvių tauta prieš pusę šimtmečio įgyvendino Lietuvos valstybingumo idealą
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei­
-    ties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid­
+    Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei-
+    ties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid-
     menį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų
-
-
-    (^2) PRATARMĖ
-    padėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty­
+    padėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty-
     bingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą
     idealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų
     buvo suklota ir vis tebekovojama laisvame pasaulyje.
@@ -116,7 +120,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos
-    ribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme­
+    ribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme-
     čius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_
     lietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo
     ir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo
@@ -134,9 +138,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   santrauka: Viena Lietuvos istorijos periodizacija remiasi valstybingumo idėja
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Bet jų periodizacija yra svetima
-    lietuvių tautos istorijos faktams. Ji net užtenkamai neatsižvelgia
-    į pačios liaudies socialinius, kultūrinius bei ūkinius santykius.
     Žinoma, komunistiniai istorikai turėjo atmesti periodizaciją,
     kurios pagrindan yra dedama lietuvių tautos valstybingumo
     idėja, t. y., Lietuvos valstybės išsivystymas (iki 1385), jos susti­
@@ -148,6 +149,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-004
     - t-005
 - c-004
   santrauka: Naujaisiais laikais šiai periodizacijai svarbiausia valstybingumo idėja
@@ -166,6 +168,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
 ## Pastabos
 
 - `valstybingumo idealas` čia veikia kaip artima to paties koncepto forma, o ne atskira sąvoka; terminas čia veikia kaip istoriografinė schema, o ne kaip savarankiškai apibrėžta politinė sąvoka.

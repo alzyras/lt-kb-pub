@@ -1,22 +1,15 @@
 ---
 tipas: asmuo
 pavadinimas: 'Julijona'
-sukurta: '2026-05-20'
-variantai: []
+sukurta: '2026-04-25'
+variantai:
+  - 'Julijonos'
 aliases: []
 saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1418 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-date_start: '1418'
-date_end: ''
 patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - karas
@@ -27,33 +20,81 @@ tags:
 
 ## Santrauka
 
-Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs. Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva butų pakrikštyta lotynų apeigomis.
+Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algirdo žmona ir Jogailos motina. Ivinskio tekste ji vadinama kunigaikščio Aleksandro dukterimi, o ankstesniame šaltinyje minima kaip Tverės kunigaikščio sesuo; abiem atvejais pabrėžiama jos vieta Jogailos ankstyvojoje politikoje.
 
 ## Teiginiai
-- t-006
-  teiginys: 'Julijona buvo Jogailos brolių Kaributo, Karigailos, Lengvenio, Vygando ir Švitrigailos motina.'
+- t-001
+  teiginys: 'Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos — pastangomis.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Remiantis Torno analais, Jogaila galėjo atsisakyti vykti pas magistrą Julijonos įtakoje.'
+- t-002
+  teiginys: 'Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Jogaila, pritariant motinai Julijonai ir broliams, pasižadėjo ketverius metus laikytis taikos su Ordinais.'
+- t-003
+  teiginys: 'Julijona buvo Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.'
   pagrindžia:
     - c-003
-- t-009
-  teiginys: 'Po Onos mirties Vytautas nusprendė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono Algimantaičio dukterį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Julijona buvo Jogailos motina ir minima Žemaičių dovanojimo dokumento aplinkoje.'
   pagrindžia:
     - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą.'
+  pagrindžia:
+    - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Julijona buvo Jogailos brolių Kaributo, Karigailos, Lengvenio, Vygando ir Švitrigailos motina.'
+  santrauka: 'Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos — pastangomis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Šita Jogailos sutartis, nukreipta prieš dėdę, buvo sudaryta
+    ne tiek Jogailos, kiek giminių — brolių ir motinos Julijonos —
+    pastangomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Norėdamas turėti sąjungininką prieš Maskvą,
+    jis vedė Tverės kunigaikščio seserį Julijoną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tada jis jau buvo našlys, ir iš Maskvos kunigaikščio Simano ir
+    metropolito Teognosto gavo leidimą (1349 ar 1350) vesti Tverės
+    kunigaikščio Aleksandro dukterį Julijoną^15.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Julijona apibrėžiama per savo sūnus ir paminėjimą dokumento aplinkoje
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visose trijose Jogailos ir
@@ -62,76 +103,30 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
     Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
     bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
-    Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais
-    tariant, nebeturėjo «nei žemės, nei žmonių », buvo geras įrankis
-    Jogailą priversti nesitraukti nuo didelių pažadų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-006
-- c-002
-  santrauka: 'Remiantis Torno analais, Jogaila galėjo atsisakyti vykti pas magistrą Julijonos įtakoje.'
+    - t-004
+- c-005
+  santrauka: Julijonos įtaka pasitelkiama aiškinant Jogailos sprendimą nevykti pas magistrą
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jogailos politikos nauja kryptis, t. y. jo savarankiška laikysena
-    ir užsispyrimas nevykti į Skirsnemunę, gali būti tuo paaiškintas,
-    kad jis jau 1383 m. pavasarį bus žinojęs apie projektus kviesti jį
-    Lenkijos karaliumi ir sutuokti su Jadvyga. Remiantis Torno analų
+    Remiantis Torno analų
     žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis
     pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva
     butų pakrikštyta lotynų apeigomis.
-    Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
-    turėjo labiau susidomėti Vytautu ir jį palaikyti.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-007
-- c-003
-  santrauka: 'Jogaila, pritariant motinai Julijonai ir broliams, pasižadėjo ketverius metus laikytis taikos su Ordinais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
-    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
-    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
-    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
-    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
-    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos. Ordi­
-    nas gi pasižadėjo duoti Jogailai per tuos 4 met.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-004
-  santrauka: 'Po Onos mirties Vytautas nusprendė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono Algimantaičio dukterį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kai
-    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
-    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
-    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
-    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
-    Algimantaičio dukterį. Tačiau Vilniaus vyskupas Petras tam
-    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
-    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
-    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
-    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
-    ti, ir kuris palaimino tą santuoką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

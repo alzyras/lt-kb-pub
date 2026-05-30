@@ -77,4 +77,5 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sembai]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]

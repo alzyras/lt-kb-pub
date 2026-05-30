@@ -1,22 +1,13 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)'
-sukurta: '2026-05-18'
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1939 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-date_start: '1939'
-date_end: ''
 patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
 ---
@@ -24,7 +15,7 @@ tags:
 
 ## Santrauka
 
-Tik Vilniaus, Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga) L I E T U V O S I S T O R I J A 186 istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus.
+Tik Vilniaus, Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga). Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -40,33 +31,39 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1939 m. spalio pabaigoje Lietuvos kariuomenei įžengus į Vilnių, istorinės sostinės atgavimas buvo vertintas kaip šviesesnis momentas, bet Lietuva tapo priklausoma nuo SSRS.'
+  teiginys: 'Tik Vilniaus, Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1939 m. spalio pabaigoje Lietuvos kariuomenei įžengus į Vilnių, istorinės sostinės atgavimas buvo vertintas kaip šviesesnis momentas, bet Lietuva tapo priklausoma nuo SSRS.'
+  santrauka: 'Tik Vilniaus, Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tik Vilniaus,
     Lietuvos kariuomenė įžengia į Vilnių
-    (1939 m. spalio pabaiga)
-
-    L I E T U V O S  I S T O R I J A
-    186
-    istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
-    o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
-    sakis „Vilnius mūsų, o mes rusų“).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lietuvos kariuomenė įžengia į Vilnių (1939 m. spalio pabaiga).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos kariuomenė įžengia į Vilnių
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

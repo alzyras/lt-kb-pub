@@ -35,32 +35,38 @@ tags:
 Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-002
   teiginys: 'Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-003
   teiginys: 'Didžioji Maskvos kunigaikštija, kurioje nuo 1425 m. viešpatavo Vytauto globojamas anūkas Vosylius, nerodė atsparumo.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią.'
   pagrindžia:
     - c-004
+
 - t-005
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   pagrindžia:
     - c-005
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -81,6 +87,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -99,6 +106,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Didžioji Maskvos kunigaikštija, kurioje nuo 1425 m. viešpatavo Vytauto globojamas anūkas Vosylius, nerodė atsparumo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -119,6 +127,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -140,6 +149,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -163,13 +173,42 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   pagrindžia:
     - t-005
 
+- c-006
+  santrauka: Maskvos kunigaikštystė papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kad ir po didelių pastangų, bet į gyvenimo galą
+    jam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­
+    gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo
+    nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
+    sūnus Vosylius, atsparumo nerodė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+
+- c-007
+  santrauka: Maskvos kunigaikštystė papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad Algirdas ir Maskvos kunigaikščiai tapo nesutaikomi priešai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/saar]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Maskvos kunigaikštija]]

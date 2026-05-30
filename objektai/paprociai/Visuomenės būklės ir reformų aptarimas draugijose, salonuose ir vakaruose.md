@@ -54,31 +54,48 @@ Nenurodyta
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: "Po Napoleono sutriuškinimo Rusijoje salonuose, vakaruose ir draugijose atvirai aptarinėtos socialinės, politinės problemos, valdžios reformavimo ir baudžiavos paveldo klausimai."
+  pagrindžia:
+    - c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: "Filantropinių susivienijimų nariai aptardavo visuomenės būklę ir tikslus."
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Legaliai veikė įvai­
+    kultūros židiniu visoje Rusijos imperijoje. Legaliai veikė įvai­
     rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
     tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
     spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
     Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
     universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
-    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
-    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
-    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
-    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
-    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
-    viu.
+    ventojai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata tiesiogiai nurodo filantropinių organizacijų ir susivienijimų narių aptarimus."
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: "Draugijos, salonai ir vakarai buvo socialinių bei politinių problemų aptarimo erdvės."
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas
+    visuomeninio gyvenimo pagyvėjimas. Buvo kuriamos legalios
+    ir pusiau legalios draugijos, salonuose ir vakaruose atvirai ap­
+    tarinėjamos socialinės, politinės problemos. Drąsiau keliami val­
+    džios reformavimo, baudžiavos paveldo klausimai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

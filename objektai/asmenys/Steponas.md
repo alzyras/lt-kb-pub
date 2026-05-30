@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos: []
 periodas: ''
 periodo_grupes: []
@@ -27,11 +28,21 @@ tags:
 Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė žmonėse didžių stebuklingų ženklų“.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad apie didingus ženklus „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė žmonėse didžių stebuklingų ženklų“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -49,6 +60,23 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+- c-001
+  santrauka: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Adalberto misija Prūsijoje (997), Norvegijos
+    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
+    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
+    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
+    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

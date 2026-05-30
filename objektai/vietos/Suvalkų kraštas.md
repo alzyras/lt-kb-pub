@@ -1,24 +1,12 @@
 ---
 tipas: vieta
-pavadinimas: 'Suvalkų kraštas (kraštas)'
+pavadinimas: 'Suvalkų kraštas'
 sukurta: '2026-04-25'
-variantai:
-  - 'Suvalkų kraštas'
-aliases:
-  - 'Suvalkų kraštas'
+variantai: []
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1936'
-date_end: '2026'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -27,51 +15,81 @@ tags:
   - kunigaikštis
   - vieta
 ---
-# Suvalkų kraštas (kraštas)
+# Suvalkų kraštas
 
 ## Santrauka
 
-Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė.
+Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti. visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre- tingos ir Telšių apskričių dalys. Suvalkų kraštas: lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž. vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Suvalkų kraštas šaltinyje tapatinamas su Užnemune, kurios tikėjosi gauti minimas veikėjas.'
+  teiginys: 'Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: 'Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė.'
+  teiginys: 'visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre- tingos ir Telšių apskričių dalys.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-003
-  teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
+  teiginys: 'Suvalkų kraštas: lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž. vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-004
-  teiginys: 'Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė vienkiemiais XIX amž.'
+  teiginys: 'Suvalkų kraštas: užnemunė Prūsų karalystėje. Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais. Jos visos buvo padalintos į Plocko ir Balstogės departamentus. Lietuviškoji Užnemunė priklausė Balstogės departamentui.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-005
+  teiginys: 'Suvalkų kraštas: užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje. 1807 m. Prūsija buvo Napoleono užimta. Tais pačiais metais Užnemunė buvo priskirta prie Varšuvos kunigaikštystės. Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na- poleono kodeksas.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-006
+  teiginys: 'Suvalkų kraštas: žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek- sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Suvalkų kraštas šaltinyje tapatinamas su Užnemune, kurios tikėjosi gauti minimas veikėjas.'
+  santrauka: 'Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
     daugiau nesitikėjo gauti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė.'
+  santrauka: 'visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre- tingos ir Telšių apskričių dalys.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Antai ištisa didžiulė giria buvo kryžiuočių pasienis, t. y.
+    visas dabartinis Suvalkų kraštas, didesniosios Tauragės, Kre-
+    tingos ir Telšių apskričių dalys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Suvalkų kraštas: lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž. vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
@@ -79,22 +97,6 @@ Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Že
     savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
     vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
     mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Suvalkų kraštas
-    tada buvo beveik negyvenamas, apaugęs tankiais miškais
-    (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai
-    priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto
-    dvarų juose buvo mažiau.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -103,17 +105,13 @@ Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Že
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė vienkiemiais XIX amž.'
+  santrauka: 'Suvalkų kraštas: užnemunė Prūsų karalystėje. Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais. Jos visos buvo padalintos į Plocko ir Balstogės departamentus. Lietuviškoji Užnemunė priklausė Balstogės departamentui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pati
-    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
-    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
-    srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien
-    savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
-    vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
-    mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
-    vienkiemiais XIX amž.
+    **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą
+    gautąsias žemes pavadino Naujaisiais Rytprūsiais.
+    Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
+    Lietuviškoji Užnemunė priklausė Balstogės departamentui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -121,3 +119,35 @@ Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Že
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Suvalkų kraštas: užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje. 1807 m. Prūsija buvo Napoleono užimta. Tais pačiais metais Užnemunė buvo priskirta prie Varšuvos kunigaikštystės. Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na- poleono kodeksas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje.
+    1807 m. Prūsija buvo Napoleono užimta. Tais pačiais metais
+    Užnemunė buvo priskirta prie Varšuvos kunigaikštystės. Kaip
+    visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na-
+    poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
+    vos, tik be žemės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Suvalkų kraštas: žuvus Napoleono galybei, Užnemunė taip pat pasiliko Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek- sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Žuvus Napoleono galybei, Užnemunė taip pat pasiliko
+    Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko
+    ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek-
+    sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

@@ -1,49 +1,62 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'laisvasis Rygos miestas (miestas)'
+pavadinimas: 'laisvasis Rygos miestas'
 sukurta: '2026-04-25'
-variantai:
-  - 'laisvasis Rygos miestas'
-aliases:
-  - 'laisvasis Rygos miestas'
+variantai: []
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - miestas
   - sąvoka
 ---
-# laisvasis Rygos miestas (miestas)
+# laisvasis Rygos miestas
 
 ## Santrauka
 
-Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autoritetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.
+Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas. su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką miestą.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Laisvasis Rygos miestas buvo labai praturtėjęs.'
+  teiginys: 'Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką miestą.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Laisvasis Rygos miestas buvo labai praturtėjęs.'
+  santrauka: 'Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Livonijoje tebeėjo smarkios varžytynės tarp arkivyskupo ir
-    ordino, kurs nenorėjo^2 /з nukariauto krašto atiduoti arkivysku-
-    pui, stengdamasis pasidaryti viso krašto viešpačiu. Tam labai
-    priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori-
+    Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori-
     tetas Livonijoj, ir jau labai praturtėjęs laisvasis Rygos miestas.
-    Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu,
-    pasikvietė Į talką Vytenį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką miestą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    su savo viršininku arkivyskupu ir spaudžia laisvąjį krikščionišką
+    miestą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

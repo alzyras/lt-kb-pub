@@ -46,17 +46,19 @@ Po nesėkmingo Ragainės puolimo lietuviai pasitraukė nuniokoję apylinkių lau
 Ragainė ir Christmemelis išliko nepaimti.
 
 ## Teiginiai
-- t-001
-  teiginys: '1315 m. rugpjūtį lietuviai iš Žemaičių puolė Ragainės pilį, o rugsėjį Vytenis 17 dienų apgulė Christmemelį.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos užpuolė Ragainės pilį, nukovė brolį Joną Pope ir pasitraukdami sunaikino Ragainės bei Skalvių laukų pasėlius.'
   pagrindžia:
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  statusas: patvirtinta
+
+- t-001
+  teiginys: '1315 m. rugpjūtį lietuviai iš Žemaičių puolė Ragainės pilį, o rugsėjį Vytenis 17 dienų apgulė Christmemelį.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -77,7 +79,6 @@ Ragainė ir Christmemelis išliko nepaimti.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Dusburgietis tiksliau datuoja Ragainės puolimą ir pažymi Jono Pope žūtį bei pasėlių sunaikinimą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -102,7 +103,7 @@ Ragainė ir Christmemelis išliko nepaimti.
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Traidenis]]
-- [[objektai/asmenys/Vytenis]]
+- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Skalviai]]

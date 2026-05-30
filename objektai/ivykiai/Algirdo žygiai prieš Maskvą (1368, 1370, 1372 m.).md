@@ -14,28 +14,21 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1368, 1370, 1372 m.'
+datos:
+  - '1368, 1370, 1372 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - '[]'
+amziai:
+  - 'XIV'
+date_start: '1368'
+date_end: '1372'
 vaidmenys:
   - '[]'
 dalyviai:
   - '[]'
 susije_irasai:
   - '[]'
-datos:
-  - '1368 m.'
-  - '1370 m.'
-  - '1372 m.'
-  - '1978 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XX'
-  - 'XXI'
-date_start: '1368'
-date_end: '2026'
 patikimumas: 'aukstas'
 atnaujinta: '2026-04-28'
 tags:
@@ -61,66 +54,47 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-007
-  teiginys: 'Algirdas surengė tris karo žygius į Maskvą 1368, 1370 ir 1372 m.'
+- t-001
+  teiginys: '1368, 1370 ir 1372 m. Algirdas tris kartus žygiavo prieš Maskvą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Po Algirdo žygių Maskvos pretenzijos į lietuvių valdomas rusėnų teritorijas buvo užkardytos.'
+- t-002
+  teiginys: '1368 m. rudenį Algirdo žygyje prieš Maskvą dalyvavo Kęstutis, jaunas Vytautas, visi lietuvių kunigaikščiai ir Smolensko jėga.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Pirmojo žygio metu lietuviai pasiekė Maskvos vartus, tačiau Algirdas nebuvo pasirengęs ilgam apgulimui.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Žymiau­ sia kova dėl įtakos tarp Vilniaus ir Maskvos prasidėjo Tverės ku­ nigaikštijoje.'
+- t-004
+  teiginys: '1370 m. rudenį Algirdas po dešimties dienų prie Maskvos sudarė paliaubas su Dimitru Doniečiu.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-005
+  teiginys: 'Algirdas surengė tris karo žygius į Maskvą 1368, 1370 ir 1372 m.'
   pagrindžia:
     - c-003
-- t-010
-  teiginys: 'Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis » ir nuteriojęs apylinkę, jis grįžo atgal^17.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Algirdo žygiai sustabdė Maskvos pretenzijas į lietuvių valdomas rusėnų teritorijas.'
   pagrindžia:
     - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Algirdas surengė tris karo žygius į Maskvą 1368, 1370 ir 1372 m.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
-    sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
-    (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai),
-    gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
-    sios Rusios kunigaikštijų. Tai reiškė, kad Maskva tapo nauju nuo
-    Lietuvos nepriklausiusių rusėnų žemių centru. Algirdas suvokė,
-    kad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-
-    rengė į ją tris karo žygius (1368; 1370; 1372).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-002
-  santrauka: 'Po Algirdo žygių Maskvos pretenzijos į lietuvių valdomas rusėnų teritorijas buvo užkardytos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tai reiškė, kad Maskva tapo nauju nuo
-    Lietuvos nepriklausiusių rusėnų žemių centru. Algirdas suvokė,
-    kad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-
-    rengė į ją tris karo žygius (1368; 1370; 1372). Nors Maskvos krem-
-    liaus užimti nepavyko, tačiau Maskvos pretenzijos į lietuvių
-    valdomas rusėnų teritorijas buvo užkardytos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-003
-  santrauka: 'Žymiau­ sia kova dėl įtakos tarp Vilniaus ir Maskvos prasidėjo Tverės ku­ nigaikštijoje.'
+  santrauka: '1368, 1370 ir 1372 m. Algirdas surengė tris žygius prieš Maskvą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Žymiau­
@@ -136,13 +110,14 @@ Nenurodyta
     žiemos sąlygomis pats Algirdas nebuvo pasiruošęs ilgam apgulimui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
-- c-004
-  santrauka: 'Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis » ir nuteriojęs apylinkę, jis grįžo atgal^17.'
+    - t-001
+    - t-002
+- c-002
+  santrauka: '1368, 1370 ir 1372 m. Algirdas surengė tris žygius prieš Maskvą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis »
@@ -159,11 +134,41 @@ Nenurodyta
     paliaubas.
   citata_rodoma: ''
   teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+    - t-004
+
+- c-003
+  santrauka: Algirdas surengė tris karo žygius į Maskvą 1368, 1370 ir 1372 m.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Algirdas suvokė,
+    kad Maskva gali ateityje kelti grėsmę Lietuvos interesams ir su-
+    rengė į ją tris karo žygius (1368; 1370; 1372).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-010
+    - t-005
+- c-004
+  santrauka: Algirdo žygiai sustabdė Maskvos pretenzijas į lietuvių valdomas rusėnų teritorijas.
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Nors Maskvos krem-
+    liaus užimti nepavyko, tačiau Maskvos pretenzijos į lietuvių
+    valdomas rusėnų teritorijas buvo užkardytos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

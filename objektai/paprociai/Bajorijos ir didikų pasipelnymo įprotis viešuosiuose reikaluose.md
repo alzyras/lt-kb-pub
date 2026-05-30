@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -17,7 +18,7 @@ tags:
 
 ## Santrauka
 
-Bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipelnyti.
+Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel- nyti. Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: užtat daugumas mokykloms skirtų pinigų žūdavo visokių agentų kišenėse, ir mokyklos pradėjo skursti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,27 +37,43 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'To meto bajorija ir didikai buvo įpratę pasipelnyti visur, kur tik prisidėdavo.'
+  teiginys: 'Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel- nyti.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: užtat daugumas mokykloms skirtų pinigų žūdavo visokių agentų kišenėse, ir mokyklos pradėjo skursti.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'To meto bajorija ir didikai buvo įpratę pasipelnyti visur, kur tik prisidėdavo.'
+  santrauka: 'Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: bet to meto bajorija ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel- nyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
-    pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
-    valstybė. Iš to būtų galėję išeiti nemaža naudos, jei žmonės, kurie
-    stovėjo prie to darbo, būtų buvę sąžiningesni. Bet to meto bajorija
+    Bet to meto bajorija
     ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
     nyti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose: užtat daugumas mokykloms skirtų pinigų žūdavo visokių agentų kišenėse, ir mokyklos pradėjo skursti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Užtat daugumas mokykloms skirtų pinigų žūdavo visokių
+    agentų kišenėse, ir mokyklos pradėjo skursti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

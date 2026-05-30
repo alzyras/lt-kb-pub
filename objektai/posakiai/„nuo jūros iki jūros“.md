@@ -1,13 +1,23 @@
 ---
 tipas: posakis
 pavadinimas: '„nuo jūros iki jūros“'
-sukurta: '2026-05-14'
-variantai: []
+sukurta: '2026-05-18'
+variantai:
+  - 'nuo Baltijos iki Juodosios'
 aliases: []
+datos:
+  - '1919 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1919'
+date_end: '1919'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+patikimumas: 'aukstas'
+atnaujinta: '2026-05-18'
 tags:
   - posakis
 ---
@@ -15,11 +25,23 @@ tags:
 
 ## Santrauka
 
-Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo užtrenktos, nes Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ (nuo Baltijos iki Juodosios) planą, ypač Rusijos iširimo atveju.
+Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijos iki Juodosios jūros. Ištraukoje šis planas siejamas su Prancūzijos laikysena ir Lietuvos tarptautinio pripažinimo sunkumais po Pirmojo pasaulinio karo.
 
 ## Teiginiai
+- t-001
+  teiginys: 'Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ planą.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Šaltinis formulę paaiškina kaip teritorinę projekciją nuo Baltijos iki Juodosios jūros.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Prancūzijos parama didelės Lenkijos „nuo jūros iki jūros“ planui stabdė Lietuvos pripažinimą.'
+  teiginys: 'Šis planas siejamas su Lietuvos pripažinimo reikalų strigimu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +49,7 @@ Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo už
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prancūzijos parama didelės Lenkijos „nuo jūros iki jūros“ planui stabdė Lietuvos pripažinimą.'
+  santrauka: Ištrauka pateikia formulę, jos geografinį paaiškinimą ir politinį kontekstą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovos veiksmai su raudonaisiais
@@ -39,12 +61,14 @@ Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo už
     Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo
     užtrenktos, nes Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“
     (nuo Baltijos iki Juodosios) planą, ypač Rusijos iširimo atveju.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
+    - t-001
+    - t-002
     - t-003
 
 ## Ryšiai

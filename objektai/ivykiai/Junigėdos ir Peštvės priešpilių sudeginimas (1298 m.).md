@@ -46,23 +46,26 @@ Kunonas su didele kariuomene puolė Junigėdos ir Pieštvės pilis, sudegino jų
 Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
 
 ## Teiginiai
-- t-001
-  teiginys: '1298 m. Brandenburgo komtūras su gausiu būriu sudegino Junigėdos ir Peštvės priešpilius.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Dusburgietis rašo, kad Kunonas su didele kariuomene užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.'
   pagrindžia:
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-003
   teiginys: 'Dusburgiečio pasakojimu, grįžtant nuo šio žygio kova su pilėnais atsinaujino ir pareikalavo nuostolių abiejose pusėse.'
   pagrindžia:
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  statusas: patvirtinta
+
+- t-001
+  teiginys: '1298 m. Brandenburgo komtūras su gausiu būriu sudegino Junigėdos ir Peštvės priešpilius.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -85,7 +88,6 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Dusburgietis Junigėdos ir Pieštvės papilių sudeginimą sieja su Kunono žygiu ir grįžtant atsinaujinusia kova su pilėnais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -110,6 +112,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
 - [[objektai/zodynas/žygis]]

@@ -2,17 +2,20 @@
 tipas: posakis
 pavadinimas: '„jeigu Sacharos dykumoje būtų įvestas socializmas...“'
 sukurta: '2026-05-18'
-variantai: []
+variantai:
+  - 'jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas'
 aliases: []
-saltiniai:
-  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
+periodas: 'Sovietmetis'
+periodo_grupes:
+  - 'okupacijos'
+amziai:
+  - 'XX'
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+patikimumas: 'aukstas'
 atnaujinta: '2026-05-18'
 tags:
   - posakis
@@ -21,11 +24,17 @@ tags:
 
 ## Santrauka
 
-Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...
+Šis niūrus juokas pašiepa komandinės, planinės ekonomikos neefektyvumą. Ištraukoje jis pateikiamas po aprašymo apie apytuštes parduotuves, talonus, eiles ir plataus masto deficitą SSRS.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...'
+- t-001
+  teiginys: 'Komandinės, planinės ekonomikos neefektyvumas buvo pašiepiamas formule apie socializmą Sacharos dykumoje ir smėlio deficitą.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Posakis siejamas su apytuštėmis parduotuvėmis, talonais ir plataus masto prekių trūkumu SSRS.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -33,7 +42,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šaipantis iš komandinės, planinės ekonomikos neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas socializmas, netrukus ten atsirastų smėlio deficitas...'
+  santrauka: Ištrauka pateikia posakį kaip juoką ir paaiškina deficito ekonomikos aplinką.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau tai nereiškė
@@ -44,13 +53,14 @@ tags:
     tiškai viskas buvo deficitas. Šaipantis iš komandinės, planinės ekonomikos
     neefektyvumo niūriai juokauta, kad jeigu Sacharos dykumoje būtų įvestas
     socializmas, netrukus ten atsirastų smėlio deficitas...
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

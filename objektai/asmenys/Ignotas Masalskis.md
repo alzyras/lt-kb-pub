@@ -1,24 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ignotas Masalskis (vyskupas, XVIII–XIX a.)'
+pavadinimas: 'Ignotas Masalskis'
 sukurta: '2026-05-14'
-variantai:
-  - 'Ignotas Masalskis'
-aliases:
-  - 'Ignotas Masalskis'
+variantai: []
+aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1740 m.'
-  - '1821 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
-  - 'XIX'
-date_start: '1740'
-date_end: '1821'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -26,7 +13,7 @@ tags:
   - sukilimas
   - vyskupas
 ---
-# Ignotas Masalskis (vyskupas, XVIII–XIX a.)
+# Ignotas Masalskis
 
 ## Santrauka
 
@@ -34,50 +21,59 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo pirmosios Europoje švietimo ministerijos tipo įstaigos, Edukacinės komisijos, pirmininku.'
+  teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Vilniaus vyskupui Ignotui Masalskiui architektas Martynas Knakfusas 1769 m. pradėjo statyti rūmus Verkiuose.'
+  teiginys: 'Masalskis.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Masalskis ir Livonijos vyskupas J.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniaus vyskupas Ignotas Masalskis 1773 m. tapo pirmosios Europoje švietimo ministerijos tipo įstaigos, Edukacinės komisijos, pirmininku.'
+  santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
-    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
-    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
-    švietimo sistemą.
-  citata_rodoma: ""
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vilniaus vyskupui Ignotui Masalskiui architektas Martynas Knakfusas 1769 m. pradėjo statyti rūmus Verkiuose.'
+  santrauka: 'Masalskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1769 m. vienas iš klasicizmo architektūros
-
-    L I E T U V O S  I S T O R I J A
-    90
-    pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740–
-    1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus
-    vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus
-    Verkiuose, vieną iš ryškiausių klasicizmo paminklų.
-  citata_rodoma: ""
+    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
+    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
+    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
+    ir Vilniaus vyskupas I. Masalskis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Masalskis ir Livonijos vyskupas J.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
+    lio 28 dieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

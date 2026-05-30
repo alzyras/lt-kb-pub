@@ -1,27 +1,12 @@
 ---
 tipas: grupe
-pavadinimas: 'Gardino seimas (seimas)'
+pavadinimas: 'Gardino seimas'
 sukurta: '2026-04-25'
-variantai:
-  - 'Gardino seimas'
-aliases:
-  - 'Gardino seimas'
+variantai: []
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1793 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
-amziai:
-  - 'XVIII'
-  - 'XX'
-  - 'XXI'
-date_start: '1793'
-date_end: '2026'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -29,64 +14,52 @@ tags:
   - seimas
   - sutartis
 ---
-# Gardino seimas (seimas)
+# Gardino seimas
 
 ## Santrauka
 
-Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.
+Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį. Tam tikslui Gardine buvo sušauktas seimas. Gardino seimas: taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti. Gardino seimas: buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gardino seimas buvo sušauktas naujai taikos sutarčiai su apkarpyta Respublika sudaryti.'
+  teiginys: 'Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį. Tam tikslui Gardine buvo sušauktas seimas.'
   pagrindžia:
-    - c-002
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: ', iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.'
+  teiginys: 'Gardino seimas: taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-003
+  teiginys: 'Gardino seimas: buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gardino seimas buvo sušauktas naujai taikos sutarčiai su apkarpyta Respublika sudaryti.'
+  santrauka: 'Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį. Tam tikslui Gardine buvo sušauktas seimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
     Tam tikslui Gardine buvo sušauktas seimas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Gardino seimas buvo sušauktas naujai taikos sutarčiai su apkarpyta Respublika sudaryti.'
+  santrauka: 'Gardino seimas: taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Buvo atgaivinta Nuolatinė Taryba ir
-    tada veikusios karo ir iždo komisijos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-003
-  santrauka: ', iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    , iš
-    karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą;
-    su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
-    Tam tikslui Gardine buvo sušauktas seimas. Jis dar bandė prie-
-    šintis, bet priešintis buvo sunku: Kotrynos atstovas Ziversas
-    _(Siewers)_ keletą atstovų areštavo, o kai kurių atstovų sunaikino
-    dvarus; pagaliau visą seimą apstatęs kariuomene ir į salę su-
-    vedęs rusų karininkus, privertė viską patvirtinti.
+    Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
+    padaryti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -94,6 +67,19 @@ Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Gardino seimas: buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Buvo atgaivinta Nuolatinė Taryba ir
+    tada veikusios karo ir iždo komisijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

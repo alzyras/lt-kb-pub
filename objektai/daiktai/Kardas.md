@@ -6,20 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1917 m.'
-  - '1920 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1917'
-date_end: '2026'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -32,7 +19,7 @@ tags:
 
 ## Santrauka
 
-Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai). Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo. Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių.
+Višniaveckis jį nu- sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai- sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai). Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo. Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -51,53 +38,70 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kautynės pirmiausia prasidėjo ietimis, o vėliau buvo naudojami kirviai, kardai ir kiti ginklai.'
+  teiginys: 'Višniaveckis jį nu- sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai- sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai).'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-002
-  teiginys: 'Arklys šoko per griovį, o lenkas dūrė kardu.'
+  teiginys: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-003
-  teiginys: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
+  teiginys: 'Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-004
-  teiginys: 'Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­ viai, kardai ir kiti ginklai.'
+  teiginys: 'vidurio prasidėjo planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10 patrankų ir 200 kardų (raitelių).'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-005
+  teiginys: 'Kai Mykolas Sapiega pasidavė, bajo- rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-006
+  teiginys: 'buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di- džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su- kapoti.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kautynės pirmiausia prasidėjo ietimis, o vėliau buvo naudojami kirviai, kardai ir kiti ginklai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Višniaveckis jį nu- sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai- sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš priešin­
-    gų pusių nuo kalnelių ėmė leistis kariuomenės ir tuoj susitiko.
-    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
-    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
-    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
-    gininkų kariuomenėj nesukėlė.
-  citata_rodoma: ""
+    Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
+      Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti
+
+      Sapiegos, vos prasidėjus kautynėms, pabėgo į Vilnių) va-
+      karop buvo apsuptas ir turėjo pasiduoti. Višniaveckis jį nu-
+      sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-
+      sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
+      buvo sukapoti dar du belaisviai).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Arklys šoko per griovį, o lenkas dūrė kardu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Arklys šoko per griovį, o lenkas dūrė kardu. Lenkas apsisuko ir
-
-    vėl puolė, ir taip kartojo jis kelis kartus.
-    Mat, arklys vis smarkiai šokdavo
-
-    per griovį, ir raitelis nieko negalėjo padaryti, tačiau vis dėl to du kar-
-    tus šiek tiek įdūrė žvalgui.
+    Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
+      nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
+      šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
+      vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -106,15 +110,13 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    “
-
-    1917 m. modelio lenkiškas kardas, skirtas ulonų,
-    artilerijos ir gurguolės puskarininkiams
-
-    1920 m.
+    Tuojau po to žiauraus darbo ta pati bajorija užkapojo kardais
+      bandžiusį pabėgti belaisvį Voiną ir jį gynusį Kuravičių. Jų visų
+      lavonai ištisas 3 dienas išgulėjo kieme, nes, bijodami būti įtarti Sa-
+      piegų bičiuliais, niekas nedrįso atiduoti jiems paskutinės paslaugos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -123,13 +125,13 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­ viai, kardai ir kiti ginklai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'vidurio prasidėjo planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10 patrankų ir 200 kardų (raitelių).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
-    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
-    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
-    gininkų kariuomenėj nesukėlė.
+    Nuo 1919 m. gegužės mėn. vidurio prasidėjo
+      planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
+      tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
+      patrankų ir 200 kardų (raitelių).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -137,6 +139,34 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Kai Mykolas Sapiega pasidavė, bajo- rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kai Mykolas Sapiega pasidavė, bajo-
+      rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
+      Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di- džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su- kapoti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    buvo areštuoti visi karininkai, o 5 karininkai ir 3 kareiviai di-
+      džiausiam Sibiro speige buvo nurengti ir pusplikiai kardais su-
+      kapoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

@@ -42,17 +42,19 @@ Bisenės įgula buvo užklupta sargybos kaitos metu. Po trumpo susidūrimo pilis
 Pilis sudeginta ir liko apleista.
 
 ## Teiginiai
-- t-001
-  teiginys: '1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino.'
   pagrindžia:
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  statusas: patvirtinta
+
+- t-001
+  teiginys: '1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -72,7 +74,6 @@ Pilis sudeginta ir liko apleista.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Dusburgietis datuoja Bisenės sudeginimą balandžio 4 d. ir sieja jį su sargybos kaitos momentu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

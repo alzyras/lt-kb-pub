@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -17,19 +18,25 @@ tags:
 
 ## Santrauka
 
-„Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija.
+„Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija. Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bajorija šaukė posakį „Mužikus nori padaryti bajorais, o mus — mužikais“, priešindamasi valstiečiams duodamiems palengvinimams.'
+  teiginys: '„Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bajorija šaukė posakį „Mužikus nori padaryti bajorais, o mus — mužikais“, priešindamasi valstiečiams duodamiems palengvinimams.'
+  santrauka: '„Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jame buvo nuostatų, palengvinančių valstiečių būklę
@@ -39,10 +46,23 @@ tags:
     svarstę. Atmetė jį svarbiausia dėl valstiečiams
     duodamųjų palengvinimų. „Mužikus nori padaryti
     bajorais, o mus — mužikais", — šaukė bajorija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jame buvo nuostatų, palengvinančių valstiečių būklę
+    ir paimančių juos įstatymo globon.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

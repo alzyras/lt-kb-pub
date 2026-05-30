@@ -19,24 +19,28 @@ tags:
 Šio proceso ankstyvąja apraiška laikoma šaltiniuose minima Nadruvos Romuva ir jos krivis. Šis leidinys papildomai išryškina Romuvos vardo variantų šeimą, jos kaip baltų religinio centro apibūdinimą ir lokalizacijos nebeatsekamumą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Šio leidimo komentare `Romovė`, `Romuva`, `Romow`, `Rômowe` ir `Romava` siejamos su prūsų, lietuvių ir kitų baltų religiniu kulto centru.'
   pagrindžia:
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-003
   teiginys: 'Šio leidimo komentare pabrėžiama, kad Nadruvos Romovės vieta laikoma nebeatsekama.'
   pagrindžia:
     - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
+- t-001
+  teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
@@ -53,7 +57,6 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
 - c-002
   santrauka: Komentare išvardijami Romuvos vardo variantai ir ji apibrėžiama kaip baltų religinio kulto centras.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

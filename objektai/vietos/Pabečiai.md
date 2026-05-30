@@ -60,6 +60,10 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
     - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių.'
+  pagrindžia:
+    - c-005
 - t-006
   teiginys: 'Dusburgietis teigia, kad apie brolių pergalę prieš sembus Bečių valsčiuje Sembos žemėje yra valsčius, vardu Bečiai381, kur gyveno žiaurūs žmonės, be to, tokie galingi, kad vienas kaimas galėjęs duoti penkis šimtus karui tinkamų vyrų, kurių patys vieni Karaliaučiaus broliai nė nedrįso.'
   pagrindžia:
@@ -111,11 +115,28 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Štai todėl,
+    palaužę ir išvaikę tuos, kurie gyveno Valdavos, Kvedenavos ir Vargių378 valsčiuose bei
+    kaimyninėse vietose, broliai patraukė su kariuomene prieš Pabečių379 valsčių; nusiaubę
+    vieną kaimą, vardu Dramenava380, paėmę į nelaisvę ir išžudę daug žmonių, jie išžygiavo
+    atgal su dideliu grobiu, tačiau priešai, sekdami įkandin, užpuolė juos ir beveik visus
+    išsklaidė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 - c-006
   santrauka: 'Dusburgietis teigia, kad apie brolių pergalę prieš sembus Bečių valsčiuje Sembos žemėje yra valsčius, vardu Bečiai381, kur gyveno žiaurūs žmonės, be to, tokie galingi, kad vienas kaimas galėjęs duoti penkis šimtus karui tinkamų vyrų, kurių patys vieni Karaliaučiaus broliai nė nedrįso.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    108 (103). Apie brolių pergalę prieš sembus Bečių valsčiuje
+    Apie brolių pergalę prieš sembus Bečių valsčiuje
 
       Sembos žemėje yra valsčius, vardu Bečiai381, kur gyveno žiaurūs žmonės, be to, tokie
     galingi, kad vienas kaimas galėjęs duoti penkis šimtus karui tinkamų vyrų, kurių patys

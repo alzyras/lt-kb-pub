@@ -34,31 +34,39 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1946 m. ir 1947 m. Lietuvoje vyko pirmieji pokario rinkimai į SSRS ir Lietuvos SSR aukščiausiąsias okupacinės valdžios institucijas.'
+  teiginys: 'Sugrąžindamas Lietuvoje sovietų valdžią J.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1946 m. ir 1947 m. Lietuvoje vyko pirmieji pokario rinkimai į SSRS ir Lietuvos SSR aukščiausiąsias okupacinės valdžios institucijas.'
+  santrauka: 'Sugrąžindamas Lietuvoje sovietų valdžią J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Sugrąžindamas Lietuvoje sovietų valdžią J. Stalinas „tesėjo“ pažadą,
-    Jaltoje duotą jau sergančiam Franklinui D. Ruzveltui (Franklin D. Roose-
     velt) atsiklausti Baltijos valstybių gyventojų, todėl ir Lietuvoje rengti (tačiau
-    visai nedemokratiniai) rinkimai į aukščiausias okupacinės valdžios insti-
-    tucijas – SSRS Aukščiausiąją Tarybą, Lietuvos SSR Aukščiausiąją Tarybą
-    (pirmą kartą po karo į šias institucijas rinkimai vyko 1946 m. ir 1947 m.), į
-    vietines tarybas – juk formaliai SSRS buvo tarybų, arba sovietų, valdžia.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

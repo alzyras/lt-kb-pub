@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos: []
 periodas: ''
 periodo_grupes: []
@@ -27,15 +28,26 @@ tags:
 vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą, sunaikino jo papilį.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593, santakoje, Lunenburgo [Liūno] pilį594.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad 594 D.— Lunenburgk, Jer.— Lûnenburc (plg.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Vasarį lietuvių valdovai apgulė Lunenburgą ir sunaikino jo papilį per puolimą Prūsijoje.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą leidimo ir jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros ir Sainos593, santakoje, Lunenburgo [Liūno] pilį594.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -55,6 +67,7 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Dusburgietis teigia, kad 594 D.— Lunenburgk, Jer.— Lûnenburc (plg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -70,3 +83,23 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+- c-001
+  santrauka: 'Vasarį lietuvių valdovai apgulė Lunenburgą ir sunaikino jo papilį per puolimą Prūsijoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1347 m. vasarį „abu lietuvių karaliai“
+    puolė Prūsijoje Rastenburgą, niokojo
+    Bartos žemę iki Girdavų pilies, apgulė
+    Lunenburgą, sunaikino jo papilį.
+
+    Nuo lietuvių puolimo Ordinas bandė sau-
+    goti Sembą. Magistras su gausia kariuomene
+    įvairiose vietose priešais Lietuvos žemes
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

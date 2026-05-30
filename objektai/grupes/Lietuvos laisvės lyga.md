@@ -6,20 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1976 m.'
-  - '1978 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1976'
-date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -35,42 +21,65 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir tapo pirmąja nacionalinio išsivadavimo organizacija.'
+  teiginys: 'LLL Lietuvos laisvės lyga.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.'
+  teiginys: 'Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose.'
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
+  teiginys: 'LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir tapo pirmąja nacionalinio išsivadavimo organizacija.'
+  santrauka: 'LLL Lietuvos laisvės lyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    LLL buvo paskutinė rezistencijos organizacija, kuri brežnevi-
-    nės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią. So-
-    vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,
-    ji sulaukė Atgimimo epochos ir tapo pirmąja nacionalinio išsivadavimo
-    organizacija. O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
-    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
-    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
-    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
-    vės, demokratijos, nepriklausomybės idealais.
-  citata_rodoma: ""
+    LLL
+    Lietuvos laisvės lyga
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
+  santrauka: 'Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
   santrauka: 'LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -82,23 +91,19 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
+    - t-004
+- c-005
   santrauka: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu
-    susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga,
-    atkūrusia Lietuvos nepriklausomybę. Atrodo, kad abiejų judėjimų takos-
-    kyra galima laikyti ne vien jų taktikos nuostatas, bet ir skirtingas veiklos
-    tradicijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

@@ -54,8 +54,14 @@ Stalo įrankis, šaltinyje minimas kaip viena itališkos Renesanso kultūros nau
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: 'Šakutė tuo metu buvo nežinoma ne tik Lietuvoje, bet ir Skandinavijos šalyse.'
+- t-001
+  teiginys: "Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -63,17 +69,21 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šakutė tuo metu buvo nežinoma ne tik Lietuvoje, bet ir Skandinavijos šalyse.'
+  santrauka: Šakutė pateikiama kaip Bonos Sforcos atnešta naujovė.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    šakutės, tuo metu nežino-
+    Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailinin-
+    kų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo
+    pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „ita-
+    liškų pasivaikščiojimų“ – pokylių šokių – iki... šakutės, tuo metu nežino-
     tos ne tik Lietuvoje, bet ir Skandinavijos šalyse.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-001
+    - t-002
 
 ## Šaltiniai ir įrodymai

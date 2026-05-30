@@ -20,47 +20,52 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi.'
+  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: '1939 m. pradžioje britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo, o be pagalbos Lietuva jos nebegalėjo išlaikyti.'
+  teiginys: 'Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuota 42 mln.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
-
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi.'
+  santrauka: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
     naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
-    autonomine Lietuvos dalimi.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1939 m. pradžioje britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo, o be pagalbos Lietuva jos nebegalėjo išlaikyti.'
+  santrauka: 'Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuota 42 mln.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1939 m.
-    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
-    (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
-    dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
-  citata_rodoma: ""
+    Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investicijoms arba turėti tiek kariuomenės divizijų, kiek Vokietija, deja...'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

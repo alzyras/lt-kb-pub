@@ -47,35 +47,42 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė regioną autonomine Lietuvos dalimi.'
+- t-001
+  teiginys: "1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė regioną autonomine Lietuvos dalimi."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą.'
+- t-002
+  teiginys: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė regioną autonomine Lietuvos dalimi.'
+  santrauka: Konvencijos ir Statuto paskelbimo rezultatas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas pa-
     naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
-    autonomine Lietuvos dalimi.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
   pagrindžia:
-    - t-005
-    - t-006
+    - t-001
+- c-002
+  santrauka: '1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną autonomine Lietuvos dalimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    naikino „Klaipėdos problemos“ teritorinį aspektą, paskelbdamas regioną
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

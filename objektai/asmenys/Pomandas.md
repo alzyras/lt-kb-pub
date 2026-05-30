@@ -78,5 +78,6 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]

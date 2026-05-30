@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1073 m.'
   - '1224 m.'
@@ -47,64 +48,79 @@ tags:
 Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai ir kt. Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai protarpiais esą mokėję duoklę ir danams.
 
 ## Teiginiai
+
 - t-005
   teiginys: 'Dusburgietis teigia, kad archeologijos, kalbos ir kitokie duomenys leidžia išskirti sembų—notangų kultūrinę grupę, o joje — sembų, varmių, notangų, pagudėnų, pamedėnų gentines teritorijas.'
   pagrindžia:
     - c-005
+
 - t-006
   teiginys: 'Dusburgietis teigia, kad sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios Klaipėdos pilies apgulties eigoje (XIII a.'
   pagrindžia:
     - c-006
+
 - t-007
   teiginys: 'Dusburgietis teigia, kad šešta — Semba196, kurioje [gyveno] sembai.'
   pagrindžia:
     - c-031
+
 - t-008
   teiginys: 'Dusburgietis teigia, kad 196 D.— Sambia, in qua Sambite, Jer.— Samin. Anksčiau Semland (1073 m.), Samblandia (1224 m.—PUB, 1, 1, Nr. 52, p. 38), Zambia (1231 m — SRP, 1, p. 737; 1256 m.— SU, Nr. 51, p. 15), Samia (paganis Samie — 1238 m., PUB, 1, 1, Nr. 129, p. 97), Samplandia (1240.'
   pagrindžia:
     - c-008
+
 - t-009
   teiginys: 'Dusburgietis teigia, kad semba, turtingiausia ir tirščiausiai gyvenama žemė, galėjo sutelkti keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.'
   pagrindžia:
     - c-009
     - c-032
+
 - t-012
   teiginys: 'Dusburgietis teigia, kad kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių. Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip.'
   pagrindžia:
     - c-012
+
 - t-013
   teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
   pagrindžia:
     - c-013
+
 - t-014
   teiginys: 'Dusburgietis teigia, kad sembai pagavo vieną kunigą, Teutonų ordino brolį, atsiųstą jų krikštyti, ir, suspaudę jam kaklą dviem kartimis, tol kankino, kol šis numirė, tvirtindami, kad šitokia kankinių už tikėjimą mirtis ir prideranti šventiems vyrams, nes nedrįstą jų kraujo pralieti.'
   pagrindžia:
     - c-014
     - c-034
+
 - t-015
   teiginys: 'Dusburgietis teigia, kad apie daugybės maldininkų žūtį Tais pačiais metais į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368 ir įsibrovė į Sembos žemę.'
   pagrindžia:
     - c-015
+
 - t-016
   teiginys: 'Dusburgietis teigia, kad išaušus, kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo, nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią.'
   pagrindžia:
     - c-016
+
 - t-017
   teiginys: 'Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš metus įvyko Pokarvių kautynės.'
   pagrindžia:
     - c-017
+
 - t-018
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašauta ši pergalė Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą už šiuos jo žodžius: švento Vincento.'
   pagrindžia:
     - c-018
+
 - t-019
   teiginys: 'Dusburgietis teigia, kad apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš viešpaties rykštę ir.'
   pagrindžia:
     - c-019
+
 - t-020
   teiginys: 'Dusburgietis teigia, kad vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
   pagrindžia:
     - c-020
+
 - t-021
   teiginys: 'Dusburgietis teigia, kad apie brolių ir sembų susitaikymą Šiais ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami sembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui.'
   pagrindžia:
@@ -117,46 +133,85 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-038
     - c-039
     - c-040
+
 - t-022
   teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
   pagrindžia:
     - c-022
+
 - t-023
   teiginys: 'Dusburgietis teigia, kad ir štai kokie stebuklai! Kai jie pabeldė į vartus, juos apakino jų pačių nedorybė, ir jie nestengė pamatyti prieš akis kabančio šikšnogalio, arba diržo, kurį patraukus kad ir mažuoju pirštu, pilies vartai būtų atsivėrę ir, savaime aišku, jie būtų iš pamatų.'
   pagrindžia:
     - c-023
+
 - t-024
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten.'
   pagrindžia:
     - c-024
     - c-041
+
 - t-025
   teiginys: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
   pagrindžia:
     - c-025
     - c-042
+
 - t-026
   teiginys: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
   pagrindžia:
     - c-026
+
 - t-027
   teiginys: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'
   pagrindžia:
     - c-027
+
 - t-028
   teiginys: 'Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje.'
   pagrindžia:
     - c-028
+
 - t-029
   teiginys: 'Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du.'
   pagrindžia:
     - c-029
+
 - t-030
   teiginys: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
   pagrindžia:
     - c-030
-    - c-043
+
+- t-010
+  teiginys: 'Dusburgietis teigia, kad apie Girmavos valsčiaus nuniokojimą Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti.'
+  pagrindžia:
+    - c-010
+
+- t-001
+  teiginys: 'Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-002
+  teiginys: 'XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: '„Kai mūšis pasibaigė, kas krikščionių gyvas liko, brolių ir ginklanešių, piligrimų ir sembų, nebegalėdami kovoti, iš baimės...'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-005
   santrauka: 'Dusburgietis teigia, kad archeologijos, kalbos ir kitokie duomenys leidžia išskirti sembų—notangų kultūrinę grupę, o joje — sembų, varmių, notangų, pagudėnų, pamedėnų gentines teritorijas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -174,6 +229,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Dusburgietis teigia, kad sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios Klaipėdos pilies apgulties eigoje (XIII a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -190,6 +246,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+
 - c-008
   santrauka: 'Dusburgietis teigia, kad 196 D.— Sambia, in qua Sambite, Jer.— Samin. Anksčiau Semland (1073 m.), Samblandia (1224 m.—PUB, 1, 1, Nr. 52, p. 38), Zambia (1231 m — SRP, 1, p. 737; 1256 m.— SU, Nr. 51, p. 15), Samia (paganis Samie — 1238 m., PUB, 1, 1, Nr. 129, p. 97), Samplandia (1240.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -206,6 +263,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Dusburgietis teigia, kad semba, turtingiausia ir tirščiausiai gyvenama žemė, galėjo sutelkti keturis tūkstančius raitelių ir keturiasdešimt tūkstančių karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -222,6 +280,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+
 - c-012
   santrauka: 'Dusburgietis teigia, kad kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių. Paskui jis atžygiavo į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -241,6 +300,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   pagrindžia:
     - t-012
     - t-021
+
 - c-013
   santrauka: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -263,6 +323,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+
 - c-014
   santrauka: 'Dusburgietis teigia, kad sembai pagavo vieną kunigą, Teutonų ordino brolį, atsiųstą jų krikštyti, ir, suspaudę jam kaklą dviem kartimis, tol kankino, kol šis numirė, tvirtindami, kad šitokia kankinių už tikėjimą mirtis ir prideranti šventiems vyrams, nes nedrįstą jų kraujo pralieti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -286,6 +347,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+
 - c-015
   santrauka: 'Dusburgietis teigia, kad apie daugybės maldininkų žūtį Tais pačiais metais į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368 ir įsibrovė į Sembos žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -308,6 +370,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+
 - c-016
   santrauka: 'Dusburgietis teigia, kad išaušus, kai krikščionių kariuomenė jau ketino užpulti kuorus, jie nerado čia nė vieno sembo, nes tie paliko kuorus, pasitraukė ir pastojo maldininkams kelią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -326,6 +389,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+
 - c-017
   santrauka: 'Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš metus įvyko Pokarvių kautynės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -347,6 +411,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+
 - c-018
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašauta ši pergalė Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą už šiuos jo žodžius: švento Vincento.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -366,6 +431,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+
 - c-019
   santrauka: 'Dusburgietis teigia, kad apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš viešpaties rykštę ir.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -389,6 +455,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+
 - c-020
   santrauka: 'Dusburgietis teigia, kad vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -405,6 +472,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+
 - c-021
   santrauka: 'Dusburgietis teigia, kad apie brolių ir sembų susitaikymą Šiais ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami sembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -426,6 +494,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-021
+
 - c-022
   santrauka: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -443,6 +512,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-022
+
 - c-023
   santrauka: 'Dusburgietis teigia, kad ir štai kokie stebuklai! Kai jie pabeldė į vartus, juos apakino jų pačių nedorybė, ir jie nestengė pamatyti prieš akis kabančio šikšnogalio, arba diržo, kurį patraukus kad ir mažuoju pirštu, pilies vartai būtų atsivėrę ir, savaime aišku, jie būtų iš pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -459,6 +529,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-023
+
 - c-024
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -481,6 +552,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-024
+
 - c-025
   santrauka: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -503,6 +575,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-025
+
 - c-026
   santrauka: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -519,6 +592,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-026
+
 - c-027
   santrauka: 'Dusburgietis teigia, kad minėtas brolis Bertoldas, šitai sužinojęs, atžygiavo su tūkstančiu Sembos vyrų ir pabandė sutrukdyti statybai, bet nestengė, nes netikėliai stipriai priešinosi; nenorėdami, kad jų pastangos būtų visai bergždžios, jie pasuko link Medrabos pilies534, per kurią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -535,6 +609,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-027
+
 - c-028
   santrauka: 'Dusburgietis teigia, kad apie Bisenės papilių sudeginimą 1313 metais Šių metų rudenį brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį; po ilgų puolamųjų kovų, kai abiejose pusėse buvo daug sužeistųjų, abu jos papiliai supleškėjo ugnyje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -556,6 +631,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-028
+
 - c-029
   santrauka: 'Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -574,6 +650,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-029
+
 - c-030
   santrauka: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -598,6 +675,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-030
+
 - c-031
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -610,6 +688,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
+
 - c-032
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -625,6 +704,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-009
+
 - c-033
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -642,6 +722,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-021
+
 - c-034
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -663,6 +744,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-014
+
 - c-035
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -678,6 +760,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-021
+
 - c-036
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -695,6 +778,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-021
+
 - c-037
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -712,6 +796,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-021
+
 - c-038
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -728,6 +813,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-021
+
 - c-039
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -744,6 +830,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-021
+
 - c-040
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -758,6 +845,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-021
+
 - c-041
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -773,6 +861,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-024
+
 - c-042
   santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -793,25 +882,134 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-025
-- c-043
-  santrauka: Sembai papildomas patvirtintas šaltinio paminėjimas.
+
+- c-007
+  santrauka: 'Dusburgietis teigia, kad šešta — Semba196, kurioje [gyveno] sembai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir
-    Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus,
-    atūžė tokia siaubinga, tokia nematyta negirdėta audra, kad vėjai taip klaikiai daužėsi,
-    jog rodėsi, kad tranko griaustinis; nekalbant jau apie baimę, apėmusią žmones, daugiau
-    nei penki šimtai arklių, sutraukę kamanas ir pančius, išlakstė po mišką. Todėl, vargais
-    negalais sugaudę arklius, tiesa, ne visus, brolių kariuomenė patraukė atgal. Neilgai
-    trukus jie gavo patikimą žinią, kad daugybė kovai pasirengusių netikėlių tris dienas
-    tykojo brolių bei jų kariuomenės; jeigu krikščionys būtų įsibrovę  į jų žemę grobio, nė
+    Šešta — Semba196, kurioje [gyveno] sembai.
+
+    iki Priegliaus žiočių (jai priklausė kiek  į vakarus nuo Priegliaus žiočių vėliau kryžiuočių
+    pastatyta Lencenbergo pilis).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+- c-010
+  santrauka: 'Dusburgietis teigia, kad apie Girmavos valsčiaus nuniokojimą Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Girmavos valsčiaus nuniokojimą
+
+      Daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną
+    aprašinėdami skyrium, nors šį bei tą reikia pasakyti. Kristburgo komtūras, brolis Henrikas,
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
+    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
+    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis
+    komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
+    kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi. Galop prūsai klasta jį
+    apsupo ir galybe smūgių nubloškė nuo žirgo. Kai šitai išvydo, brolis Hermanas, minėtojo
+    komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad
+    jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop
+    abu, ilgai gynęsi ir daugybę mirtinai sužeidę, krito nukauti, o kiti broliai su kariuomene
+    pasitraukė317.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+- c-001
+  santrauka: 'Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Latviją). Iškilo dar didesnė kilčių diferenciacija.
+    Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau
+    galima kalbėti žymiai anksčiau, ir ten žinomi Lietuvos Užnemunėje
+    sūduviai, Rytprūsiuose sembai, galindai, bartai, nadruviai, skalviai
+    ir kt.
+    Lietuvos ir Latvijos teritorijoje rytiniai baltai ilgiau sudarė
+    vieną kamieną, bet ir čia nuo V-VI amž. po Kr. ryškiau vienos
+    nuo kitų atsiskiria tokios kiltys : lietuviai, žiemgaliai, kurie vėliau
+    (XIII amž.) randami kairiajame Dauguvos deltos krante, pietuose
+    nusitęsę iki Šiaulių - Upytės.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-030
+    - t-001
+
+- c-002
+  santrauka: 'XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nė sausakimšoje Apuolės pilia­
+    kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek
+    karių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę
+    svaro sidabro. Iš XI-XII amž. danų šaltinių (Genealogia regum
+    Danorum; Saxo Grammaticus) yra matoma, jog kuršiai ir sembai
+    protarpiais esą mokėję duoklę ir danams. Istorinių laikų angoje
+    kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir
+    Klaipėdos apylinkę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: '„Kai mūšis pasibaigė, kas krikščionių gyvas liko, brolių ir ginklanešių, piligrimų ir sembų, nebegalėdami kovoti, iš baimės...'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    „Kai mūšis pasibaigė, kas krikščio-
+    nių gyvas liko, brolių ir ginklanešių,
+    piligrimų ir sembų, nebegalėdami
+    kovoti, iš baimės... bėgo, kaip kas
+    tik galėjo...“ Netolimame lapuo-
+    čių miške bandė pasislėpti ir slapta
+    pasišalinti, „bet juos nesėkmė ir čia
+    lydėjo“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

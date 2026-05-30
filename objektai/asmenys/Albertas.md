@@ -1,23 +1,14 @@
 ---
 tipas: asmuo
 pavadinimas: 'Albertas'
-sukurta: '2026-05-20'
+sukurta: '2026-04-25'
 variantai: []
 aliases: []
 saltiniai:
-  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1226 m.'
-  - '1228 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-date_start: '1226'
-date_end: '1228'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - ordinas
@@ -27,42 +18,69 @@ tags:
 
 ## Santrauka
 
-Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vyskupo Alberto.
+Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos arkivyskupas Albertas, nepaisydamas popiežiaus įsakymo, priėmė iš Kristijono priesaiką savo vardu. Albertas († 1229 m.), Livonijoje naujos vokiečių valstybės valdovas buvo jis.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rygos vyskupas Albertas nugalėjo Visvaldį.'
+  teiginys: 'Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-002
+  teiginys: 'Rygos arkivyskupas Albertas, nepaisydamas popiežiaus įsakymo, priėmė iš Kristijono priesaiką savo vardu.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-003
+  teiginys: 'Albertas († 1229 m.), Livonijoje naujos vokiečių valstybės valdovas buvo jis.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rygos vyskupas Albertas nugalėjo Visvaldį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nes Lietuviai
-
-    Vilnius
-
-    0
-
-    Jotvingiai aw MI Visvaldis buvo nugalėtas
-    NY Rygos vyskupo Alberto.
-    Teutonų ordiną padėti kar- Europos rytuose didelius
-
-    jauti su prūsais 1226-1228 m.
-    pakvietė Mozūrijos kunigaikš-
-    tis Konradas ir padovanojo
-    jiems Kulmo žemę. 1231 m.
-  citata_rodoma: ""
+    Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
+      pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir
+      jam suteikė templininkų įstatus.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Rygos arkivyskupas Albertas, nepaisydamas popiežiaus įsakymo, priėmė iš Kristijono priesaiką savo vardu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Rygos arkivyskupas Albertas, nepaisydamas
+      popiežiaus įsakymo, priėmė iš Kristijono priesaiką savo vardu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Albertas († 1229 m.), Livonijoje naujos vokiečių valstybės valdovas buvo jis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-
+      jos vokiečių valstybės valdovas buvo jis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

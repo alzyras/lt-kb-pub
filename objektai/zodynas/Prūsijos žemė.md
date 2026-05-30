@@ -1,31 +1,36 @@
 ---
-tipas: zodyno_irasas
-pavadinimas: "Prūsijos žemė"
-sukurta: '2026-05-30'
-variantai:
-  - "terra Prussiae"
-  - "Prūsijos"
-  - "prūsų vardu"
-aliases: []
 saltiniai:
-  - "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-laikotarpis: "XIII–XIV a. pirmojo trečdalio kronikos kontekstas"
-datos:
-  - "1330 m."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIII"
-  - "XIV"
-date_start: ""
-date_end: "1330"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-30'
-tags: []
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
+---
+  tipas: zodyno_irasas
+  pavadinimas: "Prūsijos žemė"
+  sukurta: "2026-05-30"
+  variantai:
+- "terra Prussiae"
+- "Prūsijos"
+- "prūsų vardu"
+  aliases: []
+  saltiniai:
+- "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  laikotarpis: "XIII–XIV a. pirmojo trečdalio kronikos kontekstas"
+  datos:
+- "1330 m."
+  periodas: "viduramziai"
+  periodo_grupes:[]
+  amziai:
+- "XIII"
+- "XIV"
+  date_start: ""
+  date_end: "1330"
+  vaidmenys: []
+  dalyviai: []
+  susije_irasai: []
+  patikimumas: "aukštas"
+  tags:[]
+  ---
 # Prūsijos žemė
 
 ## Santrauka

@@ -59,5 +59,4 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
 ### Susiję objektai
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/žygis]]

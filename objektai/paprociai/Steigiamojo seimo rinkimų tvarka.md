@@ -1,13 +1,12 @@
 ---
 tipas: paprotys
-pavadinimas: 'Steigiamojo seimo rinkimų tvarka (seimas)'
+pavadinimas: 'Steigiamojo seimo rinkimų tvarka'
 sukurta: '2026-04-25'
-variantai:
-  - 'Steigiamojo seimo rinkimų tvarka'
-aliases:
-  - 'Steigiamojo seimo rinkimų tvarka'
+variantai: []
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -16,11 +15,11 @@ tags:
   - seimas
   - sutartis
 ---
-# Steigiamojo seimo rinkimų tvarka (seimas)
+# Steigiamojo seimo rinkimų tvarka
 
 ## Santrauka
 
-Rinkimai į steigiamąjį seimą buvo paskelbti jau 1920 metų pradžioje, o renkamosios dienos nustatytos balandžio mėn. Tautos atstovai, renkami kas treji metai visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu, proporcingąja rinkimų sistema, turėjo sudaryti seimą, kurs turėjo leisti įstatymus, prižiūrėti vyriausybės darbus, tvirtinti biudžetą, sutartis, pradėti ar baigti.
+Steigiamojo seimo rinkimų tvarka: įstatymas buvo paskelbtas 1919 metų lapkričio mėn. 20 d., kai dar nebuvo baigtas karas nei su bolševikais, nei su bermontininkais nei su len- kais. Atstovų turėjo būti renkama po vieną nuo 15.000 gyventojų. Juos turėjo teisę rinkti visi piliečiai, vyrai ir. Steigiamojo seimo rinkimų tvarka: rinkimai į steigiamąjį seimą buvo paskelbti jau 1920 metų pradžioje, o renkamosios dienos nustatytos balandžio mėn. 14—15 (vėliau pratęsus — ir 16). Steigiamojo seimo rinkimų tvarka: tautos atstovai, renkami kas treji metai visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu, proporcingąja rinkimų sistema, turėjo sudaryti seimą, kurs turėjo leisti įstatymus, prižiūrėti vyriau- sybės darbus, tvirtinti biudžetą, sutartis, pradėti ar baigti.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -39,56 +38,74 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rinkimai į Steigiamąjį Seimą paskelbti 1920 m. pradžioje, o rinkimų dienos nustatytos balandžio 14-15 d. ir vėliau pratęstos iki balandžio 16 d.'
+  teiginys: 'Steigiamojo seimo rinkimų tvarka: įstatymas buvo paskelbtas 1919 metų lapkričio mėn. 20 d., kai dar nebuvo baigtas karas nei su bolševikais, nei su bermontininkais nei su len- kais. Atstovų turėjo būti renkama po vieną nuo 15.000 gyventojų. Juos turėjo teisę rinkti visi piliečiai, vyrai ir.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: 'Seimą turėjo sudaryti kas treji metai proporcingąja sistema visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu renkami tautos atstovai.'
+  teiginys: 'Steigiamojo seimo rinkimų tvarka: rinkimai į steigiamąjį seimą buvo paskelbti jau 1920 metų pradžioje, o renkamosios dienos nustatytos balandžio mėn. 14—15 (vėliau pratęsus — ir 16).'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-003
+  teiginys: 'Steigiamojo seimo rinkimų tvarka: tautos atstovai, renkami kas treji metai visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu, proporcingąja rinkimų sistema, turėjo sudaryti seimą, kurs turėjo leisti įstatymus, prižiūrėti vyriau- sybės darbus, tvirtinti biudžetą, sutartis, pradėti ar baigti.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rinkimai į Steigiamąjį Seimą paskelbti 1920 m. pradžioje, o rinkimų dienos nustatytos balandžio 14-15 d. ir vėliau pratęstos iki balandžio 16 d.'
+  santrauka: 'Steigiamojo seimo rinkimų tvarka: įstatymas buvo paskelbtas 1919 metų lapkričio mėn. 20 d., kai dar nebuvo baigtas karas nei su bolševikais, nei su bermontininkais nei su len- kais. Atstovų turėjo būti renkama po vieną nuo 15.000 gyventojų. Juos turėjo teisę rinkti visi piliečiai, vyrai ir.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Įstatymas buvo paskelbtas
+    1919 metų lapkričio mėn. 20 d., kai dar nebuvo baigtas
+    karas nei su bolševikais, nei su bermontininkais nei su len-
+    kais. Atstovų turėjo būti renkama po vieną nuo 15.000
+    gyventojų. Juos turėjo teisę rinkti visi piliečiai, vyrai ir mo-
+    terys, kuriems buvo sukakę 21 metai (kariškiai nuo 17 metų), —
+    visuotiniu, tiesioginiu, lygiu ir slaptu balsavimu, „laikantis pro-
+    porcingumo sistemos". Kandidatų sąrašus teikė partijos arba
+    kuopos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Steigiamojo seimo rinkimų tvarka: rinkimai į steigiamąjį seimą buvo paskelbti jau 1920 metų pradžioje, o renkamosios dienos nustatytos balandžio mėn. 14—15 (vėliau pratęsus — ir 16).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rinkimai į steigiamąjį seimą buvo paskelbti jau 1920 metų
     pradžioje, o renkamosios dienos nustatytos balandžio mėn.
-    14—15 (vėliau pratęsus — ir 16). Iš 112 išrinktų atstovų — 59
-    buvo krikščionių demokratų bloko, 28 valstiečių sąjungos ir
-    socialistų liaudininkų, 12 socialdemokratų ir 2 nepartiniai (dar
-    buvo 7 žydų, 3 lenkų ir 1 vokiečių atstovas).
-  citata_rodoma: ""
+    14—15 (vėliau pratęsus — ir 16).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Seimą turėjo sudaryti kas treji metai proporcingąja sistema visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu renkami tautos atstovai.'
+    - t-002
+- c-003
+  santrauka: 'Steigiamojo seimo rinkimų tvarka: tautos atstovai, renkami kas treji metai visuotiniu, lygiu, tiesioginiu ir slaptu balsavimu, proporcingąja rinkimų sistema, turėjo sudaryti seimą, kurs turėjo leisti įstatymus, prižiūrėti vyriau- sybės darbus, tvirtinti biudžetą, sutartis, pradėti ar baigti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Konstitucija nustatė Lietuvos valstybei demokratinės respubli-
-    kos formą (str. 1) su valstybės spalvomis — geltona, žalia, raudona
-    — ir valstybės ženklu — baltu Vyčiu raudoname dugne (str. 7).
-    Piliečiams laidavo plačias teises ir laisves ir apsaugojo nuosavybės
-    teisę (str. 8-21). Tautos atstovai, renkami kas treji metai visuotiniu,
+    Tautos atstovai, renkami kas treji metai visuotiniu,
     lygiu, tiesioginiu ir slaptu balsavimu, proporcingąja rinkimų sistema,
     turėjo sudaryti seimą, kurs turėjo leisti įstatymus, prižiūrėti vyriau-
     sybės darbus, tvirtinti biudžetą, sutartis, pradėti ar baigti karą ir t.t.
-    (str. 22-39).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

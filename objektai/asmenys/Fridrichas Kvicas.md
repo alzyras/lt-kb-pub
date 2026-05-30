@@ -157,7 +157,6 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/naujakrikštis]]
 - [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
 - [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]
 - [[objektai/asmenys/Ditrichas iš Altenburgo]]

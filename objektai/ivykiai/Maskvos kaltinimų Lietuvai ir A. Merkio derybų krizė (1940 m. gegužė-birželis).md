@@ -32,68 +32,71 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1940 m. gegužės pabaigoje Maskva viešai apkaltino Lietuvą grobiant kareivius iš sovietų bazių.'
+  teiginys: 'Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Maskva kaltinimais siekė toli einančių tikslų ir pakvietė atvykti Lietuvos ministrą pirmininką A. Merkį.'
+  teiginys: 'Tai rodė, jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti Lietuvos ministrą pirmininką A.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: '1940 m. birželio 10 d. Kaune nutarta į Maskvą pasiųsti ministrą J. Urbšį, nes A. Merkiui nesisekė normalizuoti situacijos.'
+  teiginys: 'Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V.'
   pagrindžia:
     - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-004
+  teiginys: 'Birželio 10 dieną Kaune sužinojus, kad A.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1940 m. gegužės pabaigoje Maskva viešai apkaltino Lietuvą grobiant kareivius iš sovietų bazių.'
+  santrauka: 'Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vi-
-    daus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš so-
     vietų bazių kareivius. Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
-    neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Maskva kaltinimais siekė toli einančių tikslų ir pakvietė atvykti Lietuvos ministrą pirmininką A. Merkį.'
+  santrauka: 'Tai rodė, jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti Lietuvos ministrą pirmininką A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tai rodė,
     jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
-    Lietuvos ministrą pirmininką A. Merkį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1940 m. birželio 10 d. Kaune nutarta į Maskvą pasiųsti ministrą J. Urbšį, nes A. Merkiui nesisekė normalizuoti situacijos.'
+  santrauka: 'Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Birželio 10 dieną Kaune
-    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
-    į Maskvą ministrą J. Urbšį.
-  citata_rodoma: ""
+    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Birželio 10 dieną Kaune sužinojus, kad A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

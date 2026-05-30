@@ -50,28 +50,33 @@ Sąvoka priešinama bendruomeninei žemėvaldai ir siejama su individualia alodi
 Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės santykių skirtumus.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška alodinė nuosavybė – individualus valstiečių ūkis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito alodas – individualus valstiečių ūkis.'
-  pagrindžia:
-    - c-002
+
 - t-005
   teiginys: 'Šiame šaltinyje `alodas` tiesiogiai paaiškinamas kaip `dvaras`.'
   pagrindžia:
     - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-006
   teiginys: 'Šiame šaltinyje `alodas / dvaras` nusako Gardino pilininko Dovydo valdą kaip karo antpuolio taikinį.'
   pagrindžia:
     - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
+- t-003
+  teiginys: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška alodinė nuosavybė – individualus valstiečių ūkis.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
+- t-004
+  teiginys: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito alodas – individualus valstiečių ūkis.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška alodinė nuosavybė – individualus valstiečių ūkis.'
@@ -91,7 +96,6 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
 - c-002
   santrauka: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito alodas – individualus valstiečių ūkis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -110,7 +114,6 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
 - c-003
   santrauka: `Alodas` tiesiogiai sugretinamas su dvaru ir nusako Dovydo valdą.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

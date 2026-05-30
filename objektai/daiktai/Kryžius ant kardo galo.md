@@ -39,26 +39,53 @@ Nenurodyta
 - t-001
   teiginys: 'Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.'
   pagrindžia:
+    - c-003
+    - c-002
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.'
+  santrauka: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    vokiečių ordinas per daug buvo užsisklendęs savo siauruose sieki­
-    muose. Tad Gediminui politinės aplinkybės krikštui tapo gana
+    Tad Gediminui politinės aplinkybės krikštui tapo gana
     nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­
     žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
-    Ryžtingai kovojančių pagonių jie iš viso neturėjo progos klaustis,
-    ar jie turi norą krikštytis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Kryžius ant kardo galo papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad Gediminui politinės aplinkybės krikštui tapo gana
+    nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­
+    žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-003
+  santrauka: Kryžius ant kardo galo papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad Gediminui politinės aplinkybės krikštui tapo gana
+    nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­
+    žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
 

@@ -26,24 +26,28 @@ tags:
 Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio sūnus Jurgis buvo priverstas padaryti su Lietuva sąjungą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-002
   teiginys: 'Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-003
   teiginys: 'Smolensko kunigaikščio Sviatoslavo dukra Ona mirė Trakuose ir buvo palaidota Vilniuje.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -59,6 +63,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -74,6 +79,7 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Smolensko kunigaikščio Sviatoslavo dukra Ona mirė Trakuose ir buvo palaidota Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -95,6 +101,21 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: Sviatoslavas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
+    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
+    Jogailai paklusnumą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

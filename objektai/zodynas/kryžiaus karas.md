@@ -7,23 +7,17 @@ aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: "XIII a. vidurys"
+datos: []
+periodas: "viduramziai"
+periodo_grupes:
+  - "LDK"
+amziai:
+  - "XIII"
+date_start: "1254"
+date_end: "1261"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1254 m.'
-  - '1261 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XX'
-  - 'XXI'
-date_start: '1254'
-date_end: '2026'
 patikimumas: "aukštas"
 atnaujinta: '2026-04-28'
 tags: []
@@ -58,66 +52,75 @@ Sąvoka nusako popiežiaus skelbiamą kovą su religinio priešo statusą gavusi
 Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo totorių, tiek apie nuolatinę kovos prieš pagonis mobilizaciją.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Bulėmis buvo įsakoma intensyviau skelbti kryžiaus karus prieš pagonis.'
+- t-001
+  teiginys: 1254 m. pradžioje buvo skelbiamas kryžiaus karas ordinui ginti prieš totorius.
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.'
+- t-002
+  teiginys: Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.
   pagrindžia:
     - c-002
-- t-006
-  teiginys: 'Tokiu atveju būtų buvę liautasi prieš lietuvius skelbti kryžiaus karus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: Autorius kryžiaus karus sieja su intensyvesniu jų skelbimu prieš pagonis ir lietuvius.
   pagrindžia:
     - c-003
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bulėmis buvo įsakoma intensyviau skelbti kryžiaus karus prieš pagonis.'
+  santrauka: Kryžiaus karas tiesiogiai siejamas su ordino gynimu nuo totorių.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
-    ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti
-    kryžiaus karus prieš pagonis. Vienoje bulėje sakoma, jog netikėliai
-    esą nužudę beveik 500 kryžiuočių^155.
+    1254 m. pradžioje buvo skelbiamas ordinui apginti prieš totorius kryžiaus karas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-001
 - c-002
-  santrauka: 'Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.'
+  santrauka: Kryžiaus karo žygiui vadovauti raginamas Prūsų riterių magistras.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jomis įsakoma dar intensyviau skelbti
-    kryžiaus karus prieš pagonis. Vienoje bulėje sakoma, jog netikėliai
-    esą nužudę beveik 500 kryžiuočių^155.
-  citata_rodoma: ''
+    popiežius ragino Prūsų riterių magistrą imtis vadovauti kryžiaus karo žygiui prieš totorius.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-002
 - c-003
-  santrauka: 'Tokiu atveju būtų buvę liautasi prieš lietuvius skelbti kryžiaus karus.'
+  santrauka: Šaltinis kalba apie dar intensyvesnį kryžiaus karų skelbimą prieš pagonis.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tokiu atveju būtų
-    buvę liautasi prieš lietuvius skelbti kryžiaus karus. Santykiai su
-    ordinu, o vėliau ir kaimynine karalyste Lenkija, butų kitaip susi­
-    dėstę.
-  citata_rodoma: ''
+    Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-003
+- c-004
+  santrauka: Kryžiaus karai įvardijami kaip skelbiami prieš lietuvius.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    būtų buvę liautasi prieš lietuvius skelbti kryžiaus karus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

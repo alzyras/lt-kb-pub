@@ -110,7 +110,6 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 ### Susiję objektai
 - [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/asmenys/Krivis]]
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/posakiai/negęstančiąją ugnį]]
@@ -121,5 +120,6 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
 - [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Negęstančiosios ugnies garbinimas]]
+- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/autoriai/Иванов В. В]]
 - [[objektai/autoriai/Топоров B. H]]

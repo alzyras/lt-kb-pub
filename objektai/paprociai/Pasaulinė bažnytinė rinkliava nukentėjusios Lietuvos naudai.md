@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -35,32 +36,48 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1917 m. pradžioje Šveicarijoje susidarė komitetas popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai tvarkyti.'
+  teiginys: 'Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai (1917 m. pradžioj).'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Komiteto atstovai išsirūpino ir iš popiežiaus Benedikto XV tokią pat dieną rinkliavai visose pasaulio bažnyčiose.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1917 m. pradžioje Šveicarijoje susidarė komitetas popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai tvarkyti.'
+  santrauka: 'Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai (1917 m. pradžioj).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus
     paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietu-
     vos naudai (1917 m. pradžioj).
-    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
-    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
-    2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
-    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
-    kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Komiteto atstovai išsirūpino ir iš popiežiaus Benedikto XV tokią pat dieną rinkliavai visose pasaulio bažnyčiose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Komiteto atstovai išsirūpino ir iš
+
+    popiežiaus Benedikto XV tokią pat dieną rinkliavai visose
+    pasaulio bažnyčiose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

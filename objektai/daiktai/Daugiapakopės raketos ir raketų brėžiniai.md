@@ -6,19 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1650 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XVII'
-  - 'XXI'
-date_start: '1650'
-date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -48,15 +35,17 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'K. Semenavičius buvo pristatytas kaip žymiausias LDK karo inžinierius ir daugiapakopių raketų teorijos kūrėjas.'
+  teiginys: 'Žymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Semenavičiaus raketų brėžiniai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'K. Semenavičius buvo pristatytas kaip žymiausias LDK karo inžinierius ir daugiapakopių raketų teorijos kūrėjas.'
+  santrauka: 'Žymiausio LDK karo inžinieriaus, daugiapakopių raketų teorijos kūrėjo K.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš šių
@@ -64,19 +53,26 @@ Nenurodyta
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
     teorijos  kūrėjo K. Semenavičiaus veikalo
     „Artis magnae artilleriae“  frontispisas, 1650 m.
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    81
-    fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
-    kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o
-    vilniečiai skleidė įtaką ne tik Lietuvoje (visų pirma lituanistiniai K.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Semenavičiaus raketų brėžiniai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo XIV a. ryčiausias Europoje du amžius
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

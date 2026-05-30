@@ -65,7 +65,3 @@ Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

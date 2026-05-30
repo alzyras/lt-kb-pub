@@ -6,15 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1794 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
-date_start: '1794'
-date_end: ''
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -27,76 +19,93 @@ tags:
 
 ## Santrauka
 
-Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. sukilimo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.). Kosciuška, norėdamas sukelti valstiečius, išleido atsišaukimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų). Po vieno mūšio sužeistas Kosciuška pateko į nelaisvę.
+Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. suki- limo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.). Tadas Kosciuška: kosciuška, norėdamas sukelti valstiečius, išleido atsišau- kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų). Tadas Kosciuška: gen. Jasiński i powstanie koś- ciuszkowskie (1917); T. Korzon, Kosciuszko; M. Biržiška, Lietuvos sukilimas 1794 m. (1919).
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jų spaudžiamas vyriausiasis Lenkijos ir LDK sukilėlių vadas Tadas Kosciuška gegužės 4 d. pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų.'
+  teiginys: 'Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. suki- limo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.).'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-002
-  teiginys: '1794 m. lapkričio 16 d. Rusijos ir Prūsijos kariuomenių pastangomis Tado Kosciuškos vadovaujamas sukilimas buvo galutinai numalšintas visoje ATR teritorijoje.'
+  teiginys: 'Tadas Kosciuška: kosciuška, norėdamas sukelti valstiečius, išleido atsišau- kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-003
+  teiginys: 'Tadas Kosciuška: gen. Jasiński i powstanie koś- ciuszkowskie (1917); T. Korzon, Kosciuszko; M. Biržiška, Lietuvos sukilimas 1794 m. (1919).'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-004
-  teiginys: '1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas Kosciuška.'
+  teiginys: 'Tadas Kosciuška: po vieno mūšio sužeistas Kosciuška pateko į nelaisvę. Netrukus po to buvo likviduotas ir visas sukilimas.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-005
-  teiginys: 'Tadas Kosciuška mėgino gelbėti Lenkijos ir Lietuvos valstybę jos žlugimo išvakarėse.'
+  teiginys: 'Tadas Kosciuška: pirmieji popieriniai pinigai buvo išleisti tik Kosciuškos sukilimo metu.'
   pagrindžia:
     - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jų spaudžiamas vyriausiasis Lenkijos ir LDK sukilėlių vadas Tadas Kosciuška gegužės 4 d. pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, Jurgio Vašingtono draugas, 1794 m. suki- limo vadas, 1794—1796 m. Rusų belaisvis († 1817 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai
-    kurie konservatyvūs sukilimo politinės
-    vadovybės atstovai buvo nepatenkinti jo
-    radikalumu, respublikoniškomis pažiūro-
-    mis, siekiu plėsti Lietuvos savarankiškumą
-    Lenkijos atžvilgiu. Jų spaudžiamas vyriau-
-    siasis Lenkijos ir LDK sukilėlių vadas Tadas
-    Kosciuška gegužės 4 d. pašalino Jasinskį iš
-    Lietuvos sukilėlių vado pareigų. Jį pakeitė
-    iš Lenkijos atsiųstas generolas leitenan-
-
-    tas Mykolas Velhorskis.
-  citata_rodoma: ""
+    Tadas Kosciuška,
+      pasižymėjęs Amerikos nepriklauso-
+      mybės kovose generolas, Jurgio
+      Vašingtono draugas, 1794 m. suki-
+      limo vadas, 1794—1796 m. Rusų
+      belaisvis († 1817 m.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1794 m. lapkričio 16 d. Rusijos ir Prūsijos kariuomenių pastangomis Tado Kosciuškos vadovaujamas sukilimas buvo galutinai numalšintas visoje ATR teritorijoje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Tadas Kosciuška: kosciuška, norėdamas sukelti valstiečius, išleido atsišau- kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Trečiasis Abiejų Tautų Respublikos padalijimas 1795 m. 1794 m. lapkričio 16 d. Rusijos ir Prūsijos kariuomenių
-    pastangomis Tado Kosciuškos vadovaujamas sukilimas buvo galutinai numalšintas visoje ATR teritorijoje. 1795 m.
-    spalio 24 d. Rusija, Austrija ir Prūsija Peterburge pasirašė konvenciją dėl Trečiojo Lietuvos ir Lenkijos valstybės
-    padalijimo. Didžiausia po Antrojo padalijimo likusi LDK teritorijos dalis atiteko Rusijai.
-  citata_rodoma: ""
+    Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-
+      kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
+      (tokių atsišaukimų buvo išleistų ir lietuviškų).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-004
-  santrauka: '1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas Kosciuška.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+- c-003
+  santrauka: 'Tadas Kosciuška: gen. Jasiński i powstanie koś- ciuszkowskie (1917); T. Korzon, Kosciuszko; M. Biržiška, Lietuvos sukilimas 1794 m. (1919).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK
-    kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas
-    Kosciuška. Lietuvoje sukilimas prasidėjo 1794 m.
+    — Gen. Jasiński i powstanie koś-
+      ciuszkowskie (1917); _T. Korzon,_ Kosciuszko; _M. Biržiška,_ Lietuvos sukilimas
+      1794 m. (1919).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Tadas Kosciuška: po vieno mūšio sužeistas Kosciuška pateko į nelaisvę. Netrukus po to buvo likviduotas ir visas sukilimas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Po vieno mūšio sužeistas Kosciuška
+      pateko į nelaisvę. Netrukus po to buvo likviduotas ir visas
+      sukilimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -105,16 +114,11 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Ju
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Tadas Kosciuška mėgino gelbėti Lenkijos ir Lietuvos valstybę jos žlugimo išvakarėse.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  santrauka: 'Tadas Kosciuška: pirmieji popieriniai pinigai buvo išleisti tik Kosciuškos sukilimo metu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Gimęs Lenkijos-Lie­
-    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
-    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
-    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
-    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
-    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
-    Lenkų ir lietuvių istoriografijoje M.
+    Pirmieji popieriniai pinigai buvo išleisti tik
+      Kosciuškos sukilimo metu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

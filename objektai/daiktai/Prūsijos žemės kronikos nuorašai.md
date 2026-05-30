@@ -68,5 +68,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/autoriai/M. Tepenas]]

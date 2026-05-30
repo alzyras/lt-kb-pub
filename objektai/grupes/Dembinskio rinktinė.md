@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -15,34 +16,53 @@ tags:
 
 ## Santrauka
 
-Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių).
+Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių). Dembinskio rinktinė: tačiau jis neketino pasiduoti. Padaręs tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra- simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo- pelnus paskirtas Varšuvos gubernatorium.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dembinskio rinktinė buvo vienintelė Lietuvoje likusi reguliarinė kariuomenė ir turėjo apie 3 500 karių.'
+  teiginys: 'Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių).'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Dembinskio rinktinė: tačiau jis neketino pasiduoti. Padaręs tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra- simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo- pelnus paskirtas Varšuvos gubernatorium.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dembinskio rinktinė buvo vienintelė Lietuvoje likusi reguliarinė kariuomenė ir turėjo apie 3 500 karių.'
+  santrauka: 'Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
-    lando būrys.
     Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik
     Dembinskio rinktinė (apie 3.500 karių). Rusai tuo tarpu atga-
     beno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-
     įmanoma buvo kariauti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dembinskio rinktinė: tačiau jis neketino pasiduoti. Padaręs tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra- simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo- pelnus paskirtas Varšuvos gubernatorium.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau jis neketino pasiduoti. Padaręs
+    tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra-
+    simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-
+    pelnus paskirtas Varšuvos gubernatorium.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

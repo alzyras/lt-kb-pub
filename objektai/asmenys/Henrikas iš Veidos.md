@@ -91,4 +91,5 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
 - [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

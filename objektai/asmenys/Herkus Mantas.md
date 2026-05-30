@@ -37,42 +37,49 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 
 ## Teiginiai
 
+
 - t-002
   teiginys: 'Herkus Mantas du kartus išgelbėjo į nelaisvę patekusį Hirtshalsą, prisiminęs Magdeburge patirtas geradarybes.'
   pagrindžia:
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-003
   teiginys: 'Herkus Mantas, surinkęs didelę kariuomenę, puolė Karaliaučiaus lauką ir sunkiai sužeidė brolį Henriką Ulenbušą.'
   pagrindžia:
     - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-004
   teiginys: 'Tais pačiais metais Herkus Mantas su stipria kariuomene įsibrovė į Kulmo žemę, išsivarė daugybę žmonių ir išsigabeno daug turto.'
   pagrindžia:
     - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-005
   teiginys: 'Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudeginto miestiečio burnos išskrendant baltą balandį.'
   pagrindžia:
     - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-006
   teiginys: 'Herkus Mantas, likęs vienas palapinėje, buvo Kristburgo komtūro Henriko iš Šenenbergo ir Helvigo iš Goldbacho pakartas ir pervertas kalaviju.'
   pagrindžia:
     - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-007
   teiginys: "Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. sutriuškino kryžiuočius."
   pagrindžia:
     - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-008
   teiginys: "Dusburgietis pasakoja, kad notangai savo kariuomenės vadu ir vyresniuoju pasirinko Herkų Mantą."
   pagrindžia:
@@ -80,47 +87,65 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-009
   teiginys: "Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų."
   pagrindžia:
     - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-010
   teiginys: "Dusburgietis pabrėžia, kad Herkus vėliau pats liudijo apie Hirtshalso sielos regėjimą."
   pagrindžia:
     - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-011
   teiginys: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke.'
   pagrindžia:
     - c-008
+
 - t-012
   teiginys: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
   pagrindžia:
     - c-009
+
 - t-013
   teiginys: 'Dusburgietis teigia, kad herkus Mantas buvo sudegintas367.'
   pagrindžia:
     - c-010
+
 - t-015
   teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus pilies užpuolimą Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį.'
   pagrindžia:
     - c-012
+
 - t-016
   teiginys: 'Dusburgietis teigia, kad apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę kitokio turto, kurį.'
   pagrindžia:
     - c-013
+
 - t-017
   teiginys: 'Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir.'
   pagrindžia:
     - c-014
+
 - t-018
   teiginys: 'Dusburgietis teigia, kad apie prūsų, mokančių vokiečių kalbą, niekšiškumą Herkus Mantas, notangų vadas, bei daugybė kitų prūsų, iš mažumės augusių prie brolių, pridarė tais negandų metais nemaža piktadarysčių krikščionims, nes labai dažnai, netikėlių kariuomenei traukiant brolių.'
   pagrindžia:
     - c-015
+
+- t-001
+  teiginys: 'Notangų prūsų vyriausiasis vadas Herkus Mantas niokojo Kulmo žemę ir triuškino Ordiną Lubavos mūšyje.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 
 - c-002
   santrauka: 'Herkus Mantas du kartus pasigailėjo į nelaisvę patekusio Hirtshalso.'
@@ -143,6 +168,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindžia:
     - t-002
     - t-008
+
 - c-003
   santrauka: 'Herkus Mantas puolė Karaliaučiaus lauką ir sužeidė Henriką Ulenbušą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -161,6 +187,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Herkus Mantas su kariuomene įsibrovė į Kulmo žemę ir ją nusiaubė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -188,6 +215,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindžia:
     - t-004
     - t-009
+
 - c-005
   santrauka: 'Dusburgietis Herkų Mantą pateikia kaip regėjimo liudytoją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -207,6 +235,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindžia:
     - t-005
     - t-008
+
 - c-006
   santrauka: 'Herkus Mantas buvo sučiuptas palapinėje ir nužudytas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -227,6 +256,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   pagrindžia:
     - t-006
     - t-010
+
 - c-007
   santrauka: Mantas pateikiamas kaip prūsų vadas, siejamas su 1263 m. laimėjimu prieš kryžiuočius.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -246,6 +276,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -262,6 +293,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+
 - c-009
   santrauka: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -279,6 +311,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+
 - c-010
   santrauka: 'Dusburgietis teigia, kad herkus Mantas buvo sudegintas367.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -298,6 +331,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+
 - c-012
   santrauka: 'Dusburgietis teigia, kad apie Karaliaučiaus pilies užpuolimą Neilgai trukus po to notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -317,6 +351,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+
 - c-013
   santrauka: 'Dusburgietis teigia, kad apie brolio Helmericho, magistro, 40 brolių ir daugybės krikščionių žūtį Tais pačiais metais393 Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir, išsivaręs daugybę žmonių bei pasigrobęs nesuskaičiuojamą gausybę kitokio turto, kurį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -336,6 +371,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+
 - c-014
   santrauka: 'Dusburgietis teigia, kad štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -357,6 +393,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+
 - c-015
   santrauka: 'Dusburgietis teigia, kad apie prūsų, mokančių vokiečių kalbą, niekšiškumą Herkus Mantas, notangų vadas, bei daugybė kitų prūsų, iš mažumės augusių prie brolių, pridarė tais negandų metais nemaža piktadarysčių krikščionims, nes labai dažnai, netikėlių kariuomenei traukiant brolių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -378,6 +415,27 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+
+- c-001
+  santrauka: 'Notangų prūsų vyriausiasis vadas Herkus Mantas niokojo Kulmo žemę ir triuškino Ordiną Lubavos mūšyje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvių, prūsų,
+    sūduvių kariuomenė puolė Vėluvos pilį.
+    Tuo metu notangų, prūsų vyriausia-
+    sis vadas Herkus Mantas niokojo
+    Kulmo žemę, triuškino Ordiną
+    Lubavos mūšyje. Mindaugo ka-
+    riuomenė, padėdama prūsams, nio-
+    kojo Ordino užnugarį Pavyslyje, Pamedės
+    ir Kulmo žemes.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -46,29 +46,33 @@ Nenurodyta
 Sudegė abiejų pilių papiliai.
 
 ## Teiginiai
-- t-001
-  teiginys: '1293 m. ordino magistras du kartus puolė Junigėdą ir sudegino du jos priešpilius.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1293 m. kryžiuočiai sudegino Peštvės priešpilį ir nuniokojo Pograudą Žemaičių pietvakariuose.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-003
   teiginys: '1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę.'
   pagrindžia:
     - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-004
   teiginys: 'Dusburgiečio pasakojimu, tą dieną nepaėmus pilių iki pamatų sudegė abiejų jų papiliai.'
   pagrindžia:
     - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  statusas: patvirtinta
+
+- t-001
+  teiginys: '1293 m. ordino magistras du kartus puolė Junigėdą ir sudegino du jos priešpilius.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-002
+  teiginys: '1293 m. kryžiuočiai sudegino Peštvės priešpilį ir nuniokojo Pograudą Žemaičių pietvakariuose.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -90,7 +94,6 @@ Sudegė abiejų pilių papiliai.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
 - c-002
   santrauka: '1293 m. kryžiuočiai sudegino Peštvės priešpilį ir nuniokojo Pograudą Žemaičių pietvakariuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -110,7 +113,6 @@ Sudegė abiejų pilių papiliai.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Dusburgietis datuoja liepos 25 d. smūgį Junigedai ir Pieštvei ir pažymi, kad sudegė abiejų pilių papiliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

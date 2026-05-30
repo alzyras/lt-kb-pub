@@ -290,7 +290,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - [[objektai/asmenys/Pranciškus]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/regula]]
 - [[objektai/zodynas/vietininkas]]

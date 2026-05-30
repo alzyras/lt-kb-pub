@@ -1,15 +1,13 @@
 ---
 tipas: 'asmuo'
-pavadinimas: 'Vladislovas Lokietka (Lenkijos karalius)'
+pavadinimas: 'Vladislovas Lokietka'
 sukurta: '2026-05-20'
 variantai:
   - 'Lenkijos karalius Vladislovas Lokietka'
   - 'Lokietka'
   - 'Kazimieras bei Lokietka'
   - 'Lenkijos karalius'
-  - 'Vladislovas Lokietka'
-aliases:
-  - 'Vladislovas Lokietka'
+aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -26,7 +24,7 @@ tags:
   - ordinas
   - sutartis
 ---
-# Vladislovas Lokietka (Lenkijos karalius)
+# Vladislovas Lokietka
 
 ## Santrauka
 
@@ -58,6 +56,10 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324 m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).'
+  pagrindžia:
+    - c-008
 - t-009
   teiginys: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
   pagrindžia:
@@ -145,6 +147,20 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Dusburgietis teigia, kad gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324 m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Gedimino Lietuva, matyt, susitarusi su Vladislovu Łokietka, 1323 m. pabaigoje — 1324
+    m. pradžioje, puldama Aukso ordai pavaldžią Volynę, užėmė Bresto žemę, arba Palenkę
+    (Brestą, Kamenecą, Kobriną, Melniką, Drohičiną).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 - c-009
   santrauka: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -168,7 +184,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   santrauka: 'Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    248 (241). Apie Lenkijos žemės apiplėšimą
+    Apie Lenkijos žemės apiplėšimą
 
       Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele
     kariuomene  į Lenkiją,  į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių
@@ -187,7 +203,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   santrauka: 'Dusburgietis teigia, kad apie Kulmo žemės nusiaubimą Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius, padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį buvo sudaręs su Čekijos karaliumi ir magistru, jis su 6.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    10. Apie Kulmo žemės nusiaubimą
+    Apie Kulmo žemės nusiaubimą
 
       Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius,
     padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį

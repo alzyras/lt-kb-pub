@@ -1,40 +1,45 @@
 ---
-tipas: zodyno_irasas
-pavadinimas: "maldininkai / maldininko įžadai"
-sukurta: '2026-05-30'
-variantai:
-  - "maldininko"
-  - "maldininkais"
-  - "maldininkų"
-  - "Vokietijos „maldininkus“"
-  - "maldininkų kelionei"
-  - "maldininkų žygį"
-  - "su kryžininkais"
-aliases: []
 saltiniai:
-  - "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-laikotarpis: "XIII–XIV a. kryžiaus žygių ir Ordino karo pagalbos kontekstas"
-datos:
-  - "1227 m."
-  - "1237 m."
-  - "1241 m."
-  - "1316 m."
-  - "1322 m."
-  - "1324 m."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIII"
-  - "XIV"
-date_start: "1227"
-date_end: "1324"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-30'
-tags: []
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
+---
+  tipas: zodyno_irasas
+  pavadinimas: "maldininkai / maldininko įžadai"
+  sukurta: "2026-05-30"
+  variantai:
+- "maldininko"
+- "maldininkais"
+- "maldininkų"
+- "Vokietijos „maldininkus“"
+- "maldininkų kelionei"
+- "maldininkų žygį"
+- "su kryžininkais"
+  aliases: []
+  saltiniai:
+- "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  laikotarpis: "XIII–XIV a. kryžiaus žygių ir Ordino karo pagalbos kontekstas"
+  datos:
+- "1227 m."
+- "1237 m."
+- "1241 m."
+- "1316 m."
+- "1322 m."
+- "1324 m."
+  periodas: "viduramziai"
+  periodo_grupes:[]
+  amziai:
+- "XIII"
+- "XIV"
+  date_start: "1227"
+  date_end: "1324"
+  vaidmenys: []
+  dalyviai: []
+  susije_irasai: []
+  patikimumas: "aukštas"
+  tags:[]
+  ---
 # maldininkai / maldininko įžadai
 
 ## Santrauka
@@ -87,6 +92,10 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginys: 'Dusburgietis čia pakiliai tekalba apie į pagalbą atvykusius Vokietijos „maldininkus“.'
   pagrindžia:
     - c-007
+- t-007
+  teiginys: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
+  pagrindžia:
+    - c-008
 - t-008
   teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
   pagrindžia:
@@ -103,6 +112,10 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginys: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
   pagrindžia:
     - c-012
+- t-012
+  teiginys: 'Dusburgietis teigia, kad padrąsintas dieviškojo apreiškimo ir užsidegęs karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė.'
+  pagrindžia:
+    - c-013
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Maldininkai minimi kaip su magistru ir broliais veikiantys talkininkai.
@@ -225,8 +238,6 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     252  Padėtis prūsų apsiaustoje Baigoje buvusi tokia sunki, kad broliai galvojo iš jos
     pasitraukti (SRP, 5, p. 598; PKD, p. 96). Dusburgietis čia pakiliai tekalba apie į pagalbą
     atvykusius Vokietijos „maldininkus“.
-      253  Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das
-    Kind), Henriko Liūto vaikaitis.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -234,6 +245,24 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-008
+  santrauka: 'Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo žmonių krito kovoje262.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
+    Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
+    žmonių krito kovoje262. Šitai išgirdęs, jo šventenybė popiežius nutraukė derybas ir papuošė
+    mūsų minėtus brolius Gerlachą ir Joną šventosios Marijos Teutonų namų ligoninės ordino
+    drabužiais, duodamas jiems baltą apsiaustą su juodu kryžiumi ir įsakydamas jiems bei
+    kitiems to paties Kristaus karių ordino broliams, esantiems Livonijoje, vilkėti Teutonų
+    namų ordino vienuoliškais drabužiais ir šitaip pelnytis visų nuodėmių atleidimą263 (1236).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 - c-009
   santrauka: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -266,7 +295,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 
 
 
-       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
+       349 (342).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -278,7 +307,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   santrauka: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    17. Apie Šventos Elžbietos vyro mirtį
+    Apie Šventos Elžbietos vyro mirtį
 
       1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
     mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
@@ -297,9 +326,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   santrauka: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Ilgai meldęsis,
-    šis didžiai krikščioniškasis karalius šitaip pasakė: „Einu  į tavo namus, lenkiuosi tavo
-    šventovei, tavajam vardui dėkoju, viešpatie”, o šitai pasakęs, atidavė dievui sielą. Kita
+    Kita
     kariuomenės dalis nužygiavo  į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos
     karalius, jie labai nudžiugo ir taip užgriuvo sultoną bei jo žmones, kad privertė juos taikytis
     šitokiomis sąlygomis: sultonas grąžinsiąs visus į nelaisvę paimtus krikščionis; visuose jo
@@ -315,6 +342,42 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-013
+  santrauka: 'Dusburgietis teigia, kad padrąsintas dieviškojo apreiškimo ir užsidegęs karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
+
+    karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų,
+    gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną
+    II, kuris jį maloniai priėmė, pervažiavo Italiją ir persikėlė per Alpes, uoliai ragindamas
+    ir visaip skatindamas (mat šitai būta išmintingo žmogaus, gebančio ir veikti, ir kalbėti)
+    tiek Rytų, tiek Vakarų valdovus, tiek žemesnių luomų žmones aliai vieną drąsiai ryžtis
+    sunkiai maldininkų kelionei   į Jeruzalę, talkinant viešpačiui, o jo pasiuntiniui savo
+    kalbomis teikiant [kryžininkams] visokeriopų malonių. Neilgai trukus po to jo šventenybė
+    popiežius Urbonas, palydėjęs minėtąjį Petrą į Prancūziją, sušaukė visuotinį susirinkimą,
+    kuriame, pažadėjęs už šitokį dorą bei mielą maldininkų žygį visų nuodėmių atleidimą,
+    nuodugniai išklojo visiems, kuriuos šventoji dvasia skatino atkeršyti už nukryžiuotojo
+    žaizdas ir išvaduoti šventąją žemę, kokių negandų ir kokią priespaudą patiria tikintieji,
+    gyvenantys šventojoje žemėje, kaip niekina ir teršia tie purvini šunys viešpaties kapą
+    bei kitas šventąsias vietas. Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji
+    gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai
+    bei  kiti kilmingieji  ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu,
+    duodami viešpačiui įžadus leistis į maldininkų žygį. Taigi 1096 viešpaties metais anksčiau
+    minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir
+    užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą
+    bei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę
+    kitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip
+    šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
+    arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
+    su vienu ir Petros — su vienu sufraganu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
@@ -335,22 +398,14 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/posakiai/Maldininke, nuramink žęmę]]
-- [[objektai/paprociai/Maldininko įžadų vykdymas Prūsijoje]]
-- [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]
-- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
-- [[objektai/asmenys/Petras Atsiskyrėlis]]
-- [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]
-- [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
 - [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/skaistykla]]
-- [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
 - [[objektai/asmenys/Gerlachas Rudasis]]
 - [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]]
 - [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
 - [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
+- [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]
 - [[objektai/asmenys/Petras iš Rozenbergo]]
 - [[objektai/asmenys/Pilypas]]
 - [[objektai/grupes/Vokietijos maldininkai]]

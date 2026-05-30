@@ -119,6 +119,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/asmenys/Henrikas iš Hohenlohės]]
 - [[objektai/grupes/Lietuviai]]

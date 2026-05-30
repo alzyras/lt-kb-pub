@@ -7,14 +7,12 @@ variantai:
 aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1500 m.'
-  - '1521 m.'
-  - '1529 m.'
   - '1699 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+periodas: ''
+periodo_grupes: []
 amziai:
   - 'XV'
   - 'XVI'
@@ -42,24 +40,66 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - Kontekstas: XVI–XVII a. Prūsijos šaltiniai.
 
 ## Teiginiai
-- t-012
-  teiginys: 'Dusburgietis teigia, kad per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai.'
+- t-008
+  teiginys: 'Simono Grunau kronikoje Rikojotas vadinamas prūsų dievų kulto centru su ąžuolu ir po juo įsikūrusia šventykla.'
   pagrindžia:
-    - c-003
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Simono Grunau kronikoje Rikojotas apibūdinamas kaip prūsų dievų kulto centras.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Simono Grunau kronikoje Rikojoto šventykla aprašoma kaip papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Dusburgietis teigia, kad per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-002
+  santrauka: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
-    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
-    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
-    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
+    Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII  a. Prū-
+    sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
+    Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
+    kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
+    vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
+    Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
+    ir griausmų dievas, o trečiasis – javų dievas Patrimpas. Aprašomas šių
+    dievų kultas ir kulto tarnų hierarchija, vaidilutės.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-012
+    - t-011
+
 ## Bibliografiniai įrodymai
+- c-001
+  santrauka: 'Simono Grunau kronikoje Rikojotas vadinamas prūsų dievų kulto centru su ąžuolu ir po juo įsikūrusia šventykla.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prū-
+    sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
+    Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
+    kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
+    vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+    - t-009
+    - t-010

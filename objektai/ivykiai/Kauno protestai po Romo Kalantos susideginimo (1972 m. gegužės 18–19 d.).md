@@ -6,15 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1972 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-date_start: '1972'
-date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -40,49 +31,36 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sovietiniai saugumiečiai slapta palaidojo Romą Kalantą anksčiau paskelbto laiko, o į laidotuves susirinkę žmonės pasipiktino valdžia.'
+  teiginys: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei.'
+  teiginys: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sovietiniai saugumiečiai slapta palaidojo Romą Kalantą anksčiau paskelbto laiko, o į laidotuves susirinkę žmonės pasipiktino valdžia.'
+  santrauka: 'Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Sovietiniai saugumiečiai paskubėjo R. Kalantą slapta palaidoti
     anksčiau paskelbto laiko. Susirinkę į laidotuves žmonės pasipiktino valdžios
-    savivale.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei.'
+  santrauka: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
-    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
-
-    VI s k y r i u s
-    DAINUOJANTI
-    REVOLIUCIJA
-    SU SĄJŪDŽIU UŽ LIETUVĄ
-    S
-    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
-    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
-    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
-    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
-    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
-    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“.
+    sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,6 +68,18 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

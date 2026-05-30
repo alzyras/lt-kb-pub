@@ -102,4 +102,3 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]

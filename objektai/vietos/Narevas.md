@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '2013 m.'
   - '2026 m.'
@@ -28,28 +29,71 @@ tags:
 Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs L I E T U V O S I S T O R I J A 40 grūdais pagrindinį Europos duonos uostą – Gdanską.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas, kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių bei arklių, kurių.'
+- t-001
+  teiginys: 'Prie Bugo ir Narevo susiformavo pagrindinis LDK javų ūkis, grūdais aprūpinęs Gdanską.'
   pagrindžia:
-    - c-005
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Žygiavo tarp Narevo ir Bugo upių.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių tuo metu kontroliuojamos Viznos apylinkes prie Narevo.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas, kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių bei arklių, kurių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-001
+  santrauka: 'Prie Bugo ir Narevo susiformavo pagrindinis LDK javų ūkis, grūdais aprūpinęs Gdanską.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės
-    ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,
-    kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių
-    bei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.
+    Būtent čia,
+    prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs
 
-
-
-
-                          278 (271).
+    L I E T U V O S  I S T O R I J A
+    40
+    grūdais pagrindinį Europos duonos uostą  – Gdanską. Intriguojantis
+    klausimas – kur Rytų Europoje atsirado javų degtinė?
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Žygiavo tarp Narevo ir Bugo upių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Apie
+    birželio mėn. 15 d. žygiavo artyn prie Červinsko. Žygiavo tarp
+    Narevo ir Bugo upių. Tų upių santakoje Vytauto kariuomenė
+    persikėlė per Narevą ir lygiai birželio mėn. 30 d. atvyko į Čer­
+    vinską, ties kuriuo kitoje upės pusėje buvo atėję lenkai.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
+    - t-002
+- c-003
+  santrauka: 'Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių tuo metu kontroliuojamos Viznos apylinkes prie Narevo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kai Livonijos magistras buvo
+    prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino
+    papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių
+    tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
+
+    Podolėje, Valakijoje, ragino dalyvauti ko-
+    voje su totoriais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

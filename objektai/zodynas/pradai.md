@@ -22,29 +22,39 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 
 ## Teiginiai
 - t-001
-  teiginys: '„Rusų pradus“ turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.'
+  teiginys: 'Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Rusų pradus“ turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.'
+  santrauka: 'Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė, nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nuga-
-    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
-    tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
-    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
-    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
-  citata_rodoma: ""
+    pas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

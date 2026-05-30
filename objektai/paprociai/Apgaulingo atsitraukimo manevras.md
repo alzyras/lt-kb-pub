@@ -159,5 +159,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Švedai]]

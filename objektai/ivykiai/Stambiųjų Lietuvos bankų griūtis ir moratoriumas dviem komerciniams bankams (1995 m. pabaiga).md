@@ -31,25 +31,36 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bankų veiklos sukrėtimai Lietuvoje sustiprino bankų sektorių ir priežiūrą, o išlikę bankai veikė apdairiau.'
+  teiginys: 'Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi 1995 m. pabaigoje, kai paskelbtas moratoriumas dviem dideliems komerciniams bankams, šalies biudžetas patyrė nemažų nuostolių, nes bankų griūtis tiesiogiai paveikė apie 30 proc..'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Nors bankų veiklos sukrėtimai Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų pasekmių: bankų sektorius sustiprėjo, išlikę bankai veikė apdairiau, sumažėjo blogų paskolų portfelis, sustiprėjo bankų priežiūra.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bankų veiklos sukrėtimai Lietuvoje sustiprino bankų sektorių ir priežiūrą, o išlikę bankai veikė apdairiau.'
+  santrauka: 'Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi 1995 m. pabaigoje, kai paskelbtas moratoriumas dviem dideliems komerciniams bankams, šalies biudžetas patyrė nemažų nuostolių, nes bankų griūtis tiesiogiai paveikė apie 30 proc..'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nors bankų veiklos sukrėtimai
-    Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų
-    pasekmių: bankų sektorius sustiprėjo, išlikę bankai veikė apdairiau, su-
-    mažėjo blogų paskolų portfelis, sustiprėjo bankų priežiūra.
-  citata_rodoma: ""
+    Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Nors bankų veiklos sukrėtimai Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų pasekmių: bankų sektorius sustiprėjo, išlikę bankai veikė apdairiau, sumažėjo blogų paskolų portfelis, sustiprėjo bankų priežiūra.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvoje, kaip ir kitose Vidurio ir Rytų Europos šalyse, turėjo ir teigiamų
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

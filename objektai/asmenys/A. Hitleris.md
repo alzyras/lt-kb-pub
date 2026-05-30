@@ -1,23 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Adolfas Hitleris (XX a.)'
+pavadinimas: 'A. Hitleris'
 sukurta: '2026-05-14'
-variantai:
-  - 'A. Hitleris'
-aliases:
-  - 'A. Hitleris'
+variantai: []
+aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1934 m.'
-  - '1939 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-date_start: '1934'
-date_end: '1939'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -25,7 +13,7 @@ tags:
   - karas
   - sutartis
 ---
-# Adolfas Hitleris (XX a.)
+# A. Hitleris
 
 ## Santrauka
 
@@ -33,42 +21,44 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Adolfą Hitlerį 1939 m. kovo 23 d. Klaipėdoje sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
+  teiginys: 'Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje ir Latvijoje, regione A.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
+  teiginys: 'Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Hitleris ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Adolfą Hitlerį 1939 m. kovo 23 d. Klaipėdoje sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
+  santrauka: 'Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje ir Latvijoje, regione A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
-    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
-    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    183
-    deleguotas ministras turėjo vykdyti jo užduotis.
-  citata_rodoma: ""
+    riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
+  santrauka: 'Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
-    50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
-    Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.
+    kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendini-
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,6 +66,42 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Hitleris ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

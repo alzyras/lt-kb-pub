@@ -7,23 +7,8 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos:
-  - '1350 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
 patikimumas: 'vidutinis'
+periodas: viduramziai
 atnaujinta: '2026-04-28'
 tags:
   - daiktas
@@ -50,32 +35,69 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-005
+- t-001
+  teiginys: 'Kautynių metu karalius buvo saugomas tarp palapinių.'
+  pagrindžia:
+    - c-004
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-002
   teiginys: 'Prieš Žalgirio mūšį Jogaila norėjo išklausyti pamaldų palapinėje, bet dėl vėjo jos nepavyko pastatyti.'
   pagrindžia:
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-006
+- t-003
   teiginys: 'Ties Laubnero ežeru karalius vis dėlto įsitaisė palapinę pamaldoms.'
   pagrindžia:
     - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-007
+- t-004
   teiginys: 'Po mūšio buvo statomos palapinės ir trims dienoms sustota pailsėti bei susitvarkyti.'
   pagrindžia:
     - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Imta statyti palapinės ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms pasilsėti ir susitvarkyti.'
-  pagrindžia:
-    - c-008
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: Kautynių metu karalius buvo saugomas tarp palapinių.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pagal kronikininką, karalius formaliai skai­
+    tėsi vyriausiuoju vadu. Jis šventino riterius, priėmė ordino pasiun­
+    tinius, o pačių kautynių metu 60-ties raitelių buvo saugojamas
+    «tarp vežimų ir palapinių »^17. Esą, karalius iš tolo, šaukdamas
+    iki užkimimo, karius skatinęs kovai^18.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-001
+    - t-001
+- c-004
+  santrauka: Palapinės papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    o pačių kautynių metu 60-ties raitelių buvo saugojamas
+    «tarp vežimų ir palapinių »^17. Esą, karalius iš tolo, šaukdamas
+    iki užkimimo, karius skatinęs kovai^18.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+
 - c-005
-  santrauka: 'Prieš Žalgirio mūšį Jogaila norėjo išklausyti pamaldų palapinėje, bet dėl vėjo jos nepavyko pastatyti.'
+  santrauka: Prieš mūšį palapinės pamaldoms nepavyko pastatyti dėl audros ir vėjo.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vakare buvo duotas įsakymas iš stovyklos anksti rytą (VII. 15)
@@ -89,9 +111,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-002
 - c-006
-  santrauka: 'Ties Laubnero ežeru karalius vis dėlto įsitaisė palapinę pamaldoms.'
+  santrauka: Ties Laubnero ežeru karalius įsitaisė palapinę pamaldoms.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Sąjungininkai sustojo ties Laubner ežeru. Čia
@@ -102,9 +124,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-003
 - c-007
-  santrauka: 'Po mūšio buvo statomos palapinės ir trims dienoms sustota pailsėti bei susitvarkyti.'
+  santrauka: Po mūšio palapinės buvo statomos poilsiui ir kariuomenės susitvarkymui.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Po 4—5 va­
@@ -117,23 +139,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Imta statyti palapinės ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms pasilsėti ir susitvarkyti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Po 4—5 va­
-    landų atkaklaus mūšio reikėjo pasilsėti. Imta statyti palapinės
-    ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms
-    pasilsėti ir susitvarkyti. Prieš naktį nepasirūpinta nei užmuš­
-    tais, nei sužeistais — juos pribaigė šaltas lietus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

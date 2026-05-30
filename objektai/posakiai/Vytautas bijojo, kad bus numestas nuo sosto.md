@@ -56,5 +56,4 @@ Kronikininko žodžiais, «Vytautas ėmė smarkiai bijoti, kad karaliui (Jogaila
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/grupes/Žemaičiai]]

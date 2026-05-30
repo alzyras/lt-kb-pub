@@ -11,21 +11,23 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1996 m.; 2013 m."
+datos:
+  - '1996 m.'
+  - '2013 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1996'
+date_end: '2013'
 vaidmenys:
   - "redakcinės kolegijos pirmininkas"
   - "mokslininkas"
   - "veikalo autorius"
 dalyviai: []
 susije_irasai: []
-datos:
-  - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
-date_start: '2013'
-date_end: ''
 patikimumas: "aukštas"
 atnaujinta: '2026-05-14'
 tags:
@@ -43,54 +45,69 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 - Lietuvos valstybingumo raida 1914–1918 metais
 
 ## Teiginiai
-- t-006
-  teiginys: 'Raimundas Lopata buvo leidinio „Lietuvos istorija“ redakcinės kolegijos pirmininkas.'
+- t-001
+  teiginys: "Raimundas Lopata buvo leidinio redakcinės kolegijos pirmininkas."
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Raimundas Lopata minimas tarp istorijos politikos problemas tiriančių mokslininkų."
+  pagrindžia:
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: "Bibliografijoje Lopata R. siejamas su veikalu „Lietuvos valstybingumo raida 1914–1918 metais“."
+  pagrindžia:
+    - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Raimundas Lopata buvo leidinio „Lietuvos istorija“ redakcinės kolegijos pirmininkas.'
+  santrauka: Leidinio pradžioje Lopata nurodytas kaip redakcinės kolegijos pirmininkas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Alfonsas Eidintas, Alfredas Bumblauskas,
-    Antanas Kulakauskas, Mindaugas Tamošaitis
-    Vilniaus
-    universiteto
-    leidykla
-    2013
-    LIETUVOS
-    I S T O R I J A
-
     Redakcinė kolegija:
     Prof. dr. Raimundas Lopata – pirmininkas
     Prof. dr. Alvydas Jokubaitis
     Prof. dr. Vytautas Radžvilas
     Dr. Inga Vinogradnaitė
-    Išleista Lietuvos Respublikos
-    užsienio reikalų ministerijos užsakymu
-    Antras leidimas
-    © Alfonsas Eidintas, 2013
-    © Alfredas Bumblauskas, 2013
-    © Antanas Kulakauskas, 2013
-    © Mindaugas Tamošaitis, 2013
-    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
-
-    TURINYS
-    Santrumpos  8
-    Redaktoriaus žodis  9
-    Į v a d a s
-    LIETUVA – VIDURIO EUROPOS DALIS  12
-    Geografinis Europos centras?
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-001
+- c-002
+  santrauka: Lopata minimas tarp istorijos politikos problemas tiriančių mokslininkų.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jais grįstą Lietuvos istorijos veikalą. Jo paskirtis – kiekvienam Skaitytojui,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: Bibliografinis įrašas Lopatos veikalui apie valstybingumo raidą.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

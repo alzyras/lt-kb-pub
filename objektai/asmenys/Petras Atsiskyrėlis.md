@@ -105,7 +105,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/vyskupystė]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/asmenys/Simeonas]]

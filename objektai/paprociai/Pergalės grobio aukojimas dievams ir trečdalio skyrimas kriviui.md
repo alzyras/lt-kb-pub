@@ -123,7 +123,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus]]

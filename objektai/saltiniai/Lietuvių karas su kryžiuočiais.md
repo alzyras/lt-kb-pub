@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos: []
 periodas: ''
 periodo_grupes: []
@@ -25,14 +26,24 @@ tags:
 Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su kryžiuočiais, red. J.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR istorija.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad 573 D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten — SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino pilininkas.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: '„Lietuvių karą su kryžiuočiais“ parengė istorikų kolektyvas, o leidinį redagavo J. Jurginis.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR istorija.'

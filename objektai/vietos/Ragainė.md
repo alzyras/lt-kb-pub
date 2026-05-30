@@ -69,6 +69,10 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Dusburgietis teigia, kad 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto tėvonija40.'
+  pagrindžia:
+    - c-011
 - t-012
   teiginys: 'Dusburgietis teigia, kad tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
   pagrindžia:
@@ -85,6 +89,14 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginys: 'Dusburgietis teigia, kad ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas.'
   pagrindžia:
     - c-015
+- t-016
+  teiginys: 'Dusburgietis teigia, kad apie ilgą vienos pilies apgulą ir vieną nuostabų įvykį Skalviai prie Ragainės ant kalno turėjo pilį465, kurią siautė didelė rutėnų kariuomenė466, 465 D.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Dusburgietis teigia, kad skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius nuo dab.'
+  pagrindžia:
+    - c-017
 - t-018
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   pagrindžia:
@@ -156,16 +168,29 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Dusburgietis teigia, kad 1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto tėvonija40.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1412 m. Lietuvos bajorai pareiškė kryžiuočių pasiuntiniams, jog Ragainė ir
+    Karaliaučius kitados priklausę Lietuvai ir Lietuva vėl turinti juos atgauti, nes tai — Vytauto
+    tėvonija40.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 - c-012
   santrauka: 'Dusburgietis teigia, kad tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Šiuo metu žinomas dokumentas, rodantis, kad 1327 m. gruodžio
-    mėn. kunigas brolis Petras tikrai gyvenęs Karaliaučiuje63. Tyrinėtojai siejo Dusburgietį
+    Tyrinėtojai siejo Dusburgietį
     iš pradžių su Ragaine, po to su Karaliaučiumi. Kelta mintis, kad jis rašęs Marienburge,
     didžiojo magistro rezidencijoje, naudodamasis ten saugomu Ordinu archyvu, kad galėjęs
     pasirodyti Prūsijoje  ir kiek vėliau, kai Ordino sostinė buvusi perkelta  į Marienburgą
-    (1309 m.) (M. Poliakuvna).
+    (1309 m.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -177,9 +202,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   santrauka: 'Dusburgietis teigia, kad dievo ir švenčiausios panelės globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo į Ragainę (III, 333).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Traukianti iš Lietuvos didelė brolių kariuomenė, dievo padedama,
-    vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą (III, 256); viešpats panašiai juos
-    globojo, kai traukė per ploną Kuršių marių ledą (III, 285). Dievo ir švenčiausios panelės
+    Dievo ir švenčiausios panelės
     globojamas kryžiuočių karys, nukritęs nuo suklupusio žirgo ir atsilikęs nuo Žemaitijoje
     plėšikaujančios savo kariuomenės, pėsčiomis sėkmingai grįžo  į Ragainę (III, 333). Tai
     jau ne vien religinė, bet ir politinė autoriaus tendencija, nes nuolat pabrėždamas dievo
@@ -199,7 +222,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     smulkmenų, nurodomos įvykių dienos (142-ose III dalies skyreliuose, aprašančiuose
     karą prieš Lietuvą, 204 kartus jos pateiktos tiksliai), nors tarpais pasakomas tik metų
     laikas (žiema, ruduo, javapjūtė) ar mėnuo, nurodoma įvykiui artimiausia bažnytinė
-    šventė („prieš šventą Joną Krikštytoją“, „apie žolinę“ ir pan.)132. Visa tai rodo, jog tokios
+    šventė („prieš šventą Joną Krikštytoją“, „apie žolinę“ ir pan.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -211,13 +234,10 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   santrauka: 'Dusburgietis teigia, kad ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m —Marienburgas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Turėdami omenyje XIV a. pabaigoje kryžiuočių žvalgų pranešimų pagrindu sudarytus
-    100 kelių  į Lietuvą aprašymus135, kuriuos gaudavo didysis maršalas, galime manyti,
-    kad tokie — visų pirma karinio pobūdžio — pranešimai buvo kaupti ir anksčiau. Ordino
+    Ordino
     administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309
     m —Marienburgas. Kronikininkui rūpėjo Ordino veikla rytuose, todėl galime galvoti
-    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m. buvo didžiojo maršalo
-    rezidencija136.
+    apie Ragainę, taip pat apie Karaliaučių, kuriame nuo 1312 m.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -225,11 +245,64 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-016
+  santrauka: 'Dusburgietis teigia, kad apie ilgą vienos pilies apgulą ir vieną nuostabų įvykį Skalviai prie Ragainės ant kalno turėjo pilį465, kurią siautė didelė rutėnų kariuomenė466, 465 D.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie ilgą vienos pilies apgulą ir vieną nuostabų įvykį
+
+       Skalviai prie Ragainės ant kalno turėjo pilį465, kurią siautė didelė rutėnų kariuomenė466,
+      465 D. — Raganita, Jer. — Ragnîtin, Rangnîte, Ragnîte, Ragnît (SRP, 1, p. 488, 489,
+    519, 523, 535); vėliau — Ragnit, lie. Ragainė (dab. Nemanas).
+      Ordino pilis iš pradžių vadinosi Landishute (1291 m.— PUB, 1, 2, Nr. 576, p. 363),
+    Landeshute (D. III, 235), vėliau įsigali baltiškasis vardas: lotyniškuose dokumentuose —
+    Raganitie (1300 m — PUB, 1, 2, Nr. 745, p. 463), o vokiškuose — Raug-[nit], Rangnith,
+    Rangnithe (1302 m. ir vėliau — ten pat, Nr. /77, 778 791 879). Vokiškuose Pelplino
+    analuose (XIV a. pradžia) — Ragenitien (SRP, 1, p. 271). Kiek vėlesnėje už Dusburgietį
+    lotyniškoje Sembos kanauninko kronikoje Rangnîthen, Ragnithen (SRP, 1, p. 280, 283).
+    Vokiškoje Prūsijos trumpojoje eiliuotoje kronikoje — Rangniten (SRP, 2, p. 8). Lotyniškoje
+    Vartbergės Livonijos kronikoje (iki 1378 m.) — Ragnithen, Ragniten (SRP, 2, p. 85, 95
+    ir kt.), Vygando Marburglškio Prūsijos kronikoje (iki 1394 m.) — Ragneta, Ragnite,
+    Ragnita (SRP, 2, p. 509, 514, 522, 541 ir kt.). Vokiškuose kryžiuočių kelių aprašymuose
+    — Rangith (Weg. 6), Rangnit (Weg. 7, 8, 15, 18 22, 43), Rangnith (Weg. 8, 90), Rangit
+    (Weg. 8), Ragnit (Weg. 12, 18, 22, 43). XV a. vokiškame rankraštyje — Ragnith (SRP,
+    2, p. 709). XV a. pradžios lotyniškuose Torunės analuose — Ragniten, o jų pagrindu
+    parašytos Posilgės kronikos vokiškame vertime — Rangnith (SRP, 3, p. 131).
+      M. Mažvydo lotyniškuose laiškuose — Ragneta, in Ragnet (1549 m.— Mažvydas M.,
+    Pirmoji.., p. 251, 257). Lietuviškai M. Mažvydas rašė Ragainė (1549 m.— „Giesmė šv.
+    Ambraziejaus”).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Dusburgietis teigia, kad skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius nuo dab.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Skalvių pilis Ragainėje buvo, manoma, piliakalnyje, esančiame per 2 km į pietryčius
+    nuo dab. miestelio, taip pat nuo XIV—XV a. pradžioje statytos Ordino pilies griuvėsių.
+    Pilis buvusi pastatyta aukštame Nemuno krante (žr. D. III, 182). 1289 m. toje vietoje
+    Ordinas pastatė pirmąją Ragainės pilį (žr. D. III, 235; HE, p. 126; С V, t. 34, p. 106—
+    107; Boetticher A., Die Bau.., 5, p. 109). Dusburgiečio aprašyta Skalvių pilis netoli
+    Ragainės (su žuvų tvenkiniu) buvusi žemiau Ragainės, ties Paskalviais, Nemuno lankų
+    pakraštyje — Skalvkalnyje (žr. D. III, 235). Čia, pasak vietos žmonių, buvę du žuvingi
+    ežerai (Basanavičius J., Iš gyvenimo vėlių.., p. 183). Žinomi pasakojimai apie piliakalnį
+    į pietryčius nuo Ragainės (ten pat, p. 178—181).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 - c-018
   santrauka: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    182 (177). Apie Ragainės pilies užkariavimą
+    Apie Ragainės pilies užkariavimą
 
        Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
     tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
@@ -246,7 +319,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   santrauka: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    235 (228). Apie Ragainės ir Skalvių pilių pastatymą
+    Apie Ragainės ir Skalvių pilių pastatymą
 
       1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
     krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
@@ -267,7 +340,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   santrauka: 'Dusburgietis teigia, kad apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie jo gyvenimą Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas Karaliaučiaus brolių komtūru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    236 (229). Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
+    Apie brolį Karaliaučiaus komtūrą Bertoldą, vadinamą Briuhavenu, bei apie
                                             jo gyvenimą
 
        Šis brolis Bertoldas neilgai vadovavo Ragainės piliai, mat netrukus buvo paskirtas
@@ -306,7 +379,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   santrauka: 'Dusburgietis teigia, kad paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    sužeistas. Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
+    Paėmę į nelaisvę moteris ir vaikus, sudegino iki pamatų pilį ir papilį, o minėtąjį
     Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
 
 

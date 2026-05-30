@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -35,56 +36,71 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Muštynių dažniausiai kildavo per švenčių procesijas, taip pat rietenų ir muštynių pasitaikydavo per iškilmingas laidotuves.'
+  teiginys: 'Dažniausiai muštynių atsitikdavo švenčių metu, per procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
   teiginys: 'Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vienas protestantas, Ostijos garbinimą išvadinęs stabmeldyste, buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nukankintas.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-003
+  teiginys: 'Be to, jie stengėsi patraukti visuomenę į bažnyčią gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Muštynių dažniausiai kildavo per švenčių procesijas, taip pat rietenų ir muštynių pasitaikydavo per iškilmingas laidotuves.'
+  santrauka: 'Dažniausiai muštynių atsitikdavo švenčių metu, per procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Miestuose, ypač Vil-
-    niuje, kur mišrai gyveno katali-
-    kai su protestantais, kildavo vi-
-    sokių nesusipratimų ir muš-
-    tynių. Dažniausiai muštynių atsitikdavo švenčių metu, per
+    Dažniausiai muštynių atsitikdavo švenčių metu, per
     procesijas, kada ypatingai vieni kitus gebėdavo įžeisti. Taip
     pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
     dotuves.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
   santrauka: 'Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vienas protestantas, Ostijos garbinimą išvadinęs stabmeldyste, buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nukankintas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taip
-    pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
-    dotuves. Protestantai buvo silpnesni, todėl jie daugiau ir nu-
-    kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
+    Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
     nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
     buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
     kankintas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Be to, jie stengėsi patraukti visuomenę į bažnyčią gražiomis iškilmingomis pamaldomis, visokiomis procesijomis ir iškilmėmis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, jie stengėsi patraukti visuomenę į bažnyčią gražiomis iškilmin-
+    gomis pamaldomis, visokiomis procesijomis ir iškilmėmis. Pa-
+    mažu jėzuitai įgavo visuomenės simpatijų: jų mokyklos buvo
+    pilnos mokinių, jie patys tapo įtakingiausiųjų didikų kapelionais
+    ir artimaisiais jų patarėjais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

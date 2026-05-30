@@ -6,20 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1920 m.'
-  - '1926 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1920'
-date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -36,43 +22,46 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
 
 ## Teiginiai
 - t-001
-  teiginys: '1920 m. balandžio 14–15 d. rinkimus laimėjo krikščionių demokratų blokas, kuriam atiteko 59 vietos.'
+  teiginys: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
+  teiginys: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1920 m. balandžio 14–15 d. rinkimus laimėjo krikščionių demokratų blokas, kuriam atiteko 59 vietos.'
+  santrauka: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    148
     Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
     se, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos:
     Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-
     junga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
+  santrauka: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau krikščionių demokratų blokas, Katalikų veikimo
-    centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
-    monopolizuoti ideologinės ir organizacinės erdvės. Katalikų organizaci-
-    jos, jaunimo grupės buvo gausesnės nei tautininkų, jų spauda – įtakinges-
-    nė.
+    O čia dar po kie-
+    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
+    laimėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -80,6 +69,34 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jame LKDP bloko
+    balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
+    kuris prisiekė laikytis šalies konstitucijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau krikščionių demokratų blokas, Katalikų veikimo
+    centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
+    monopolizuoti ideologinės ir organizacinės erdvės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

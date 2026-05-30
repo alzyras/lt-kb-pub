@@ -133,7 +133,6 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Galindai]]
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
 - [[objektai/autoriai/Энговатов H. В]]

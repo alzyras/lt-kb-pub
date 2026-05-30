@@ -36,48 +36,52 @@ Nenurodyta
   teiginys: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Per Liaudies seimo rinkimų agitaciją valdžia kritikavo A. Smetonos režimą ir melavo, kad rinkimai vyks demokratiškai.'
+  teiginys: 'Per rinkimų agitaciją valdžia daug dėmesio skyrė A.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
-    vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
-    jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Per Liaudies seimo rinkimų agitaciją valdžia kritikavo A. Smetonos režimą ir melavo, kad rinkimai vyks demokratiškai.'
+  santrauka: 'Per rinkimų agitaciją valdžia daug dėmesio skyrė A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Per rinkimų agitaciją valdžia daug dėmesio
-    skyrė A. Smetonos režimo kritikai ir niekinimui, propagandai, meluo-
-    ta, kad rinkimai vyks demokratiškai, Lietuva išliks nepriklausoma, bus
     išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
-    kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
-    tininkai ir aukštus postus turėję valdininkai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

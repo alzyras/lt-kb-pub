@@ -67,32 +67,38 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus puolimo metu Kazimieras Karigaila vadovavo lietuviams miesto tvirtovėse ir kovėsi su Vytauto bei Derbio kunigaikščio pajėgomis.'
+  teiginys: "Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu."
   pagrindžia:
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kazimieras Karigaila žuvo mūšio lauke, kai bėgdamas gelbėtis į Aukštutinę pilį buvo priešo užpultas ir neatpažintas.'
+  teiginys: "Karigaila, vadinamas vyriausiuoju vadu, žuvo bėgdamas į Aukštutinę pilį."
   pagrindžia:
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '„Compositio Pruss.“ Kazimierą Karigailą vadino tikru karaliaus broliu ir teigė, kad po nužudymo jo galva buvo atskirta nuo kūno.'
+  teiginys: "Viena versija Kazimierą Karigailą vadina tikru karaliaus broliu ir teigia, kad po nužudymo nuo kūno buvo atskirta jo galva."
   pagrindžia:
     - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Kryžiuočių pranešimuose teigta, kad kunigaikštis Karigaila buvo kareivių neatpažintas nukautas, o apie jo žūtį sužinota penktą dieną.'
+  teiginys: "Kita versija teigia, kad kunigaikštis Karigaila buvo kareivių neatpažintas nukautas."
   pagrindžia:
     - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: "Šaltinyje nurodoma, kad Vygantas palaidotas katedroje šalia Karigailos."
+  pagrindžia:
+    - c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniaus puolimo metu Kazimieras Karigaila vadovavo lietuviams miesto tvirtovėse ir kovėsi su Vytauto bei Derbio kunigaikščio pajėgomis.'
+  santrauka: Karigaila kovojo prieš Vytautą ir sąjungininkus Vilniaus puolimo metu.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il KNYGA
@@ -113,7 +119,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - t-001
 
 - c-002
-  santrauka: 'Kazimieras Karigaila žuvo mūšio lauke, kai bėgdamas gelbėtis į Aukštutinę pilį buvo priešo užpultas ir neatpažintas.'
+  santrauka: Karigaila vadinamas vyriausiuoju vadu ir aprašoma jo žūtis bėgant į Aukštutinę pilį.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA I TOMAS
@@ -139,7 +145,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - t-002
 
 - c-003
-  santrauka: '„Compositio Pruss.“ Kazimierą Karigailą vadino tikru karaliaus broliu ir teigė, kad po nužudymo jo galva buvo atskirta nuo kūno.'
+  santrauka: Lotyniška versija Karigailą vadina Kazimieru, Karigaila, tikru karaliaus broliu, ir aprašo jo nužudymą.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Compositio Pruss., p. 35, parašyta:
@@ -167,7 +173,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - t-003
 
 - c-004
-  santrauka: 'Kryžiuočių pranešimuose teigta, kad kunigaikštis Karigaila buvo kareivių neatpažintas nukautas, o apie jo žūtį sužinota penktą dieną.'
+  santrauka: Ordino laiško versija teigia, kad Karigaila buvo neatpažintas nukautas.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gynėjai iškėlė vėliavas su kryžiais, kaip
@@ -209,6 +215,29 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: Vygantas palaidotas katedroje šalia Karigailos.
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir
+    Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­
+    giausių Lietuvos kunigaikščių, o iš visų tikrųjų Jogailos bro­
+    lių dėl sumanaus proto ir romaus būdo labiausiai tinkamas į
+    Lietuvos didžiuosius kunigaikščius. Tačiau netrukus nuo
+    įduotų nuodų, kaip buvo suprasta, jį ištiko ankstyva mirtis,
+    ir šalis neteko tiek gražių vilčių teikusio žmogaus47. Palaido­
+    jo jį iškilmingai, katedroje, šalimais Karigailos, o visuotinis
+    gedulas liudijo mirusįjį buvus didžiu žmogumi; tačiau toks
+    liūdnas įvykis suartino Jogailą su Vytautu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

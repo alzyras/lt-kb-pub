@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1370 m.'
   - '1978 m.'
@@ -33,15 +34,31 @@ tags:
 Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). 324 Rudaičiai 77, 105 Rudamina 76, 112 Rudava, prie Karaliaučiaus 149, 253, 259 Rude Gerhardas 226 Rūdninkai 162 Ruginienė, žr.
 
 ## Teiginiai
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad kitą dieną patraukė į Rudavos valsčių ir ten pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų, 321 D.— Medenow, Jer.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad 323 D.— ad territorium Rudowie, Jer.— zu Rudowe; Rudava, valsčius Semboje.'
   pagrindžia:
     - c-004
+
+- t-001
+  teiginys: 'Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu, esančiu už trijų mylių į šiaurę nuo Karaliaučiaus.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-002
+  teiginys: '17 d. (sekmadienį) prie Rudavos bažnytkaimio, netoli Karaliaučiaus, vėl susirinko krūvon.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-003
   santrauka: 'Dusburgietis teigia, kad kitą dieną patraukė į Rudavos valsčių ir ten pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų, 321 D.— Medenow, Jer.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -82,6 +99,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Dusburgietis teigia, kad 323 D.— ad territorium Rudowie, Jer.— zu Rudowe; Rudava, valsčius Semboje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -96,3 +114,35 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+- c-001
+  santrauka: 'Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu, esančiu už trijų mylių į šiaurę nuo Karaliaučiaus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Drauge buvo ir Algirdas su savo būriais. Nuterioję
+    Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­
+    kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). Čia juos pasitiko
+    kryžiuočių kariuomenė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: '17 d. (sekmadienį) prie Rudavos bažnytkaimio, netoli Karaliaučiaus, vėl susirinko krūvon.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasidalinę mažais būre­
+    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
+    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
+    netoli Karaliaučiaus, vėl susirinko krūvon.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

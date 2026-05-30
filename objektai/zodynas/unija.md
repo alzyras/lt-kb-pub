@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: unija
 sukurta: '2026-04-25'
 variantai:
-- unija
-- nauja unija
+  - unija
+  - nauja unija
 aliases: []
 saltiniai:
-- A. Šapoka (red.), Lietuvos istorija (1936 m.)
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos: []
 periodas: ''
 periodo_grupes: []
@@ -105,7 +105,7 @@ Valstybinė santvarka po Liublino unijos.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
 - [[objektai/ivykiai/1428 m. Lenčicos suvažiavimas]]
 - [[objektai/autoriai/A. E. Presniakov]]
@@ -115,6 +115,7 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/grupes/Atskiri Lietuvos seimai]]
 - [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
 - [[objektai/grupes/Bajorijos konfederacija]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
 - [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
 - [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]
@@ -151,9 +152,11 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/autoriai/M. Hruševskis]]
 - [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas]]
 - [[objektai/autoriai/O. Balzeris]]
+- [[objektai/autoriai/O. Halecki]]
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/grupes/Piastų dinastija]]
 - [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/zodynas/Rašliava]]
 - [[objektai/asmenys/Romanas Dmovskis]]
 - [[objektai/grupes/Romanovų dinastija]]
@@ -183,6 +186,7 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/posakiai/lenkų ponus „užglostyti”]]
 - [[objektai/zodynas/lenkų pradų naikinimo politika]]
 - [[objektai/zodynas/perdėtinis]]
+- [[objektai/zodynas/pereinamasis laikotarpis]]
 - [[objektai/zodynas/poliublininiai laikai]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
 - [[objektai/zodynas/pravoslavai]]

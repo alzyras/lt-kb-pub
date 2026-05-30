@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1389 m.'
 periodas: 'LDK laikotarpis'
@@ -30,26 +31,76 @@ tags:
 Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis grandinėmis, patrankas, patrankėles, arbaletus ir daug turto.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
+- t-001
+  teiginys: 'Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.'
   pagrindžia:
-    - c-003
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Vytauto paslėpti ginkluoti žmonės turėjo užimti Žemutinę pilį, kai iki jos atvyks menkai saugoma gurguolė.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-001
+  santrauka: 'Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
-    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
-    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
-    koks bailys pamatęs daugybę nukautųjų.
+    O Vytauto
+    pusėje kovęsis caras Tochtamišas, „vos tai
+    pamatęs, ir pirma visų pasileido bėgti“,
+    sukėlęs sumaištį. Bėgdami Timūr-Kutluko
+    totoriai paėmė gurguolę, vežimus su gele-
+    žinėmis grandinėmis, patrankas, patrankė-
+    les, arbaletus ir daug turto.
+
+    Temstant, kai pralaimėjimas matėsi ne-
+    išvengiamas, prie valdovo buvusių rite-
+    rių įkalbėtas nesiduoti priešo paimamas
+    Vytautas ir jo brolis Žygimantas bėgo,
+    persėsdami nuo žirgo ant žirgo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Vytauto paslėpti ginkluoti žmonės turėjo užimti Žemutinę pilį, kai iki jos atvyks menkai saugoma gurguolė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    116
+
+    ## Puslapis 133
+
+    Il KNYGA
+    Skirgailai išvykus į Polocką jam buvo gera proga įgyvendin­
+    ti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­
+    vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
+    dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
+    kluotų žmonių būrį. Pastarieji, gurguolei atvykus iki Žemu­
+    tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo,
+    ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo
+    kariais. Rogėse pasislėpusiems žmonėms pavyko patekti į
+    pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
+    tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
+    pavertė anksčiau negu suspėjo Vytautas su kariauna19. Ne­
+    paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­
+    tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir
+    kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­
+    rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­
+    vygos prašymą, vietovė, vadinama Vilniumi ir laikytina mies­
+    tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių,
+    šv.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

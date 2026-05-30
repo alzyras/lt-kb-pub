@@ -7,9 +7,6 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1772 m.'
-  - '1773 m.'
-  - '1775 m.'
   - '1885 m.'
   - '1907 m.'
   - '1913 m.'
@@ -17,15 +14,13 @@ datos:
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
-  - 'LDK'
   - 'naujieji laikai'
   - 'šiuolaikinė Lietuva'
 amziai:
-  - 'XVIII'
   - 'XIX'
   - 'XX'
   - 'XXI'
-date_start: '1772'
+date_start: '1885'
 date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
@@ -45,10 +40,18 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
+- t-002
+  teiginys: 'S.-Peterburg, 1907.'
   pagrindžia:
-    - c-005
+    - c-002
+- t-003
+  teiginys: 'S.-Peterburg, 1885.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'S.-Peterburg, 1913.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,17 +71,43 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-005
-  santrauka: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-002
+  santrauka: 'S.-Peterburg, 1907.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Padalinimo sutartys buvo pasirašytos 1772 m.
-    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
-    seimas Varšuvoje.
+    Pol. sobr. = Polnoje sobranije Russkich letopisej. Izdanije
+    Imperatorskoj Archeologičeskoj Komis. Tom XVII.
+    S.-Peterburg, 1907.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
+    - t-002
+- c-003
+  santrauka: 'S.-Peterburg, 1885.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Barb. = Barbašev, A., Vitovt i jego politika do Griunvaldens­
+    koj bitwy. I t. S.-Peterburg, 1885.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'S.-Peterburg, 1913.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Gruš. = Gruśewskij, M., Prof., Illiustrovannaja Istorija Ukrainy.
+    S.-Peterburg, 1913.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

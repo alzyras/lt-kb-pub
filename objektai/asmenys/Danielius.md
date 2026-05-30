@@ -1,19 +1,14 @@
 ---
 tipas: asmuo
 pavadinimas: 'Danielius'
-sukurta: '2026-05-30'
+sukurta: '2026-04-25'
 variantai: []
 aliases: []
 saltiniai:
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - karalius
@@ -23,32 +18,87 @@ tags:
 
 ## Santrauka
 
-Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo.
+Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį). Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo.'
+  teiginys: 'Danielius ryžosi padėti pabėgėliams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-002
+  teiginys: 'Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį).'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-003
+  teiginys: 'Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-004
+  teiginys: 'Danielius buvo sumuštas ir priverstas taikintis (1255 m.).'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  santrauka: 'Danielius ryžosi padėti pabėgėliams.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
-    nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei
-    įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo kūnus,
-    nenorėdami tarnauti nė vienam dievui nei jo garbinti, išskyrus tą, kurį patys tikėjo, nors
-    ugnies liežuviai kilo per 49 uolektis virš krosnies ir sudegino kūrikus, o Danieliaus ir jo
-    bičiulių nė neužgavo ir nieko blogo jiems nepadarė, štai tada jis ir tarė: „Aukščiausias
-    dievas padarė manyje ženklų ir stebuklų“.
+    Danielius ryžosi padėti pabėgėliams. Jam rūpėjo ne tik paremti giminaičius,
+      bet ir sutramdyti Mindaugo galybę ir atgauti neseniai nustotas
+      sritis.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tada jie pabėgo pas savo giminaitį Voluinės kunigaikštį
+      Danielių (jis buvo vedęs Tautvilo ir Erdvilo seserį).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Danielius tuojau pasiuntė Vykintą į Livonijos ordiną, siūlydamas jam sąjungą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Danielius tuojau pasiuntė Vykintą į Livonijos ordiną,
+      siūlydamas jam sąjungą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Danielius buvo sumuštas ir priverstas taikintis (1255 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Danielius buvo sumuštas ir priverstas taikintis (1255 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

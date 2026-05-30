@@ -1,11 +1,9 @@
 ---
 tipas: asmuo
-pavadinimas: 'Aleksandras Stulginskis (Lietuvos prezidentas)'
+pavadinimas: 'Aleksandras Stulginskis'
 sukurta: '2026-05-14'
-variantai:
-  - 'Aleksandras Stulginskis'
-aliases:
-  - 'Aleksandras Stulginskis'
+variantai: []
+aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -16,7 +14,7 @@ tags:
   - seimas
   - tauta
 ---
-# Aleksandras Stulginskis (Lietuvos prezidentas)
+# Aleksandras Stulginskis
 
 ## Santrauka
 
@@ -24,31 +22,39 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 
 ## Teiginiai
 - t-001
-  teiginys: 'Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku ir 1922–1926 m. Lietuvos prezidentu.'
+  teiginys: 'Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Stulginskis) ir jo pavaduotojų postai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku ir 1922–1926 m. Lietuvos prezidentu.'
+  santrauka: 'Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m. išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko Kazio Griniaus vadovaujama vyriausybė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vasario 16 Aktas, skelbė,
-    kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
-    tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
     planų, turint viltį, kad teritorija padidės. Steigiamojo Seimo pirmininku
-    išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m.
-    išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
-    Kazio Griniaus vadovaujama vyriausybė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Stulginskis) ir jo pavaduotojų postai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

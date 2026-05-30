@@ -45,7 +45,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
   pagrindžia:
     - c-001
-    - c-003
+- t-002
+  teiginys: 'Dusburgietis teigia, kad ašeradė) prie Dauguvos, kur Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę (Varakauskas R., Kautynės ties Ašerade..., p. 123—132; Lietuvių karas..., p. 179 180).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,7 +63,7 @@ Nenurodyta
     pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
     metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
 
-      494  Žuvo 1279.111.5 prie dab.
+      494  Žuvo 1279.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -68,22 +71,24 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-003
-  santrauka: Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru papildomas patvirtintas šaltinio paminėjimas.
+- c-002
+  santrauka: 'Dusburgietis teigia, kad ašeradė) prie Dauguvos, kur Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę (Varakauskas R., Kautynės ties Ašerade..., p. 123—132; Lietuvių karas..., p. 179 180).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
-    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
-    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
-    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
-    metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
+
+      494  Žuvo 1279.111.5 prie dab. Aizkrauklės (buv. Ašeradė) prie Dauguvos, kur
+    Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę
+    (Varakauskas R., Kautynės ties Ašerade..., p. 123—132; Lietuvių karas..., p. 179 180).
+
+    atsisakė savo pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

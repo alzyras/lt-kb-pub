@@ -91,6 +91,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/daiktai/Šarvai]]
 - [[objektai/zodynas/netikėliai]]

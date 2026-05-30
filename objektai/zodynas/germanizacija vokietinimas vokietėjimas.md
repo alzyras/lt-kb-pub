@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -20,32 +21,50 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir nespėjo suvokietinti visų lietuvių.'
+  teiginys: 'Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.; pagaliau pati germanizacijos politika M.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Vokietėjimas ir vokietinimas nebuvo visą laiką vienodas ir XIX amž., — būtent pirmoje to amžiaus pusėje karštai rūpinosi vokietinimu tik patys Mažosios Lietuvos vokiečiai, o antrojoje pusėje to ėmėsi ir pati centro valdžia.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir nespėjo suvokietinti visų lietuvių.'
+  santrauka: 'Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.; pagaliau pati germanizacijos politika M.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Beje, už M. Lietuvos ribų lietuvių (t. y. vad. prūsų) nuo XVI
-    amž. jau beveik nebesutinkame, o M. Lietuvoje lietuviai tebe-
-    gyvena dar ir dabar. Taip atsitiko dėl to, kad ten labai anksti
-    buvo privežta vokiečių kolonistų, ir visi lietuviai suvokietėjo.
     Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik
     ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;
     pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
     tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vokietėjimas ir vokietinimas nebuvo visą laiką vienodas ir XIX amž., — būtent pirmoje to amžiaus pusėje karštai rūpinosi vokietinimu tik patys Mažosios Lietuvos vokiečiai, o antrojoje pusėje to ėmėsi ir pati centro valdžia.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Karalius ir lietuviai.** Vokietėjimas ir vokietinimas nebuvo
+    visą laiką vienodas ir XIX amž., — būtent pirmoje to amžiaus
+
+    pusėje karštai rūpinosi vokietinimu tik patys Mažosios Lietuvos
+    vokiečiai, o antrojoje pusėje to ėmėsi ir pati centro valdžia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -57,29 +57,154 @@ Brunonas atvyko pas lenkų kunigaikštį Boleslovą, gavo jo paramą ir 1008 m. 
 Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas buvo paskelbtas šventuoju kankiniu.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Brunonas žuvo jotvingų krašte ir buvo paskelbtas šventuoju kankiniu.'
+
+- t-002
+  teiginys: 1009 m. vasario 14 d. Brunonas buvo suimtas ir nužudytas su visais palydovais.
+  pagrindžia:
+    - c-007
+    - c-006
+    - c-005
+    - c-004
+    - c-002
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
+- t-003
+  teiginys: Brunonas žuvo jotvingų krašte ir buvo paskelbtas šventuoju kankiniu.
+  pagrindžia:
+    - c-003
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
+- t-001
+  teiginys: Boleslovas pažadėjo paramą Brunono misijai, o Brunonas 1008 m. gale išvyko iš Lenkijos į aisčių kraštą su 18 palydovų.
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Brunonas žuvo jotvingų krašte ir buvo paskelbtas šventuoju kankiniu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+
+- c-002
+  santrauka: Tiesiogiai nurodo Brunono suėmimą ir nužudymą 1009 m. vasario 14 d.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Bet ir jo misijos
+    nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
+    vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: Nurodo žūties vietos kontekstą ir Brunono paskelbimą šventuoju kankiniu.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
     Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
     jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
     to paties Boleslovo. Ir Bonifacas buvo paskelbtas šventuoju
     kankiniu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-003
+
+- c-004
+  santrauka: Brunono misija į aisčių kraštą ir žūtis (1009 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
+    Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos
+    ir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas
+    misininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+
+- c-005
+  santrauka: Brunono misija į aisčių kraštą ir žūtis (1009 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
+    prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
+    jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
+    deda Lietuvos ribos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+
+- c-006
+  santrauka: Brunono misija į aisčių kraštą ir žūtis (1009 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo
+    Annales Quedlinburgenses, pažymėdami, kad 1009 m. prie Lietuvos
+    ir Rusijos sienos («in confinio Rusciae et Lituae ») buvo nužudytas
+    misininkas šv. Bruno su savo aštuoniolika palydovų. Pažymėjimas,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+
+- c-007
+  santrauka: Brunono misija į aisčių kraštą ir žūtis (1009 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    kad nužudymas įvykęs Lietuvos — Rusijos pasienyje (greičiausiai
+    prie Gardino — Nemuno, jotvingių žemėje), leidžia daryti išvadą,
+    jog jau XI amž. pradžioje ir Vakaruose buvo žinoma, kur prasi­
+    deda Lietuvos ribos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+
+- c-001
+  santrauka: Nurodo Boleslovo paramą ir Brunono išvykimą iš Lenkijos su 18 palydovų.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Pagaliau pas tą patį lenkų
+    kunigaikštį Boleslovą atvyko naujas
+    misijonierius vo-
+    kietis _Brunonas,_
+    kurs, būdamas vie-
+    nuolis, turėjo _Bo-
+    nifaco_ vardą. Bo-
+    leslovas jo misi-
+    joms pažadėjo pa-
+    ramos. Pagaliau
+    1008 m. gale jis iš-
+    vyko iš Lenkijos
+    aisčių krikštyti net
+    su 18 palydovų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

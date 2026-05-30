@@ -6,19 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1941 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1941'
-date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -32,24 +19,36 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 
 ## Teiginiai
 - t-001
-  teiginys: '1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.'
+  teiginys: 'Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse, o iš viso nužudyta apie 700 asmenų.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: '1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio kaliniai ir prižiūrėtojai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.'
+  santrauka: 'Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš tai ypač žiauriai nukankinus), mažesnio masto – keliose kitose apskrityse, o iš viso nužudyta apie 700 asmenų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kolonijoje (išžudyta apie 230 asmenų) ir prie Rainių (76 asmenys, prieš
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: '1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio kaliniai ir prižiūrėtojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1941 m. birželio 26 d. sovietų nužudyti Pravieniškių lagerio
-    kaliniai ir prižiūrėtojai
-    Kauno gyventojai sveikina įžengusį vermachtą 1941 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002

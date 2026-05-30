@@ -22,31 +22,55 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvių delegacija, siekdama didesnės teritorijos Rytuose, pasitelkė Simono Rozenbaumo argumentus.'
+  teiginys: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Rozenbaumo) ir baltarusių (D.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių delegacija, siekdama didesnės teritorijos Rytuose, pasitelkė Simono Rozenbaumo argumentus.'
+  santrauka: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-
-    vuodami jos dydį katalikų tikėjimo paplitimu, etnografiniais ir istoriniais
-    duomenimis, pasitelkę savo delegacijos narių žydų (S. Rozenbaumo) ir
-    baltarusių (D. Semaško) argumentus, lietuviai patenkino dar vieną A.
-    Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo
-    karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
-    sutartimi“).
-  citata_rodoma: ""
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Rozenbaumo) ir baltarusių (D.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

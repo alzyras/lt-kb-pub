@@ -5,7 +5,6 @@ sukurta: '2026-05-20'
 variantai: []
 aliases: []
 saltiniai:
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
 periodas: ''
@@ -25,7 +24,7 @@ tags:
 
 ## Santrauka
 
-Kilmingieji šiame įraše žymi socialinių viršūnių sluoksnį. Ankstesnis šaltinis pabrėžė kilmingųjų vardų įvairovę Lietuvos pradžioje, o šis leidinys papildomai sieja `nobilis` su platesne prūsų ir lietuvių diduomenės terminų šeima.
+Šalia « kunigų » pirmuosiuose Lietuvos istorijos šaltiniuose taip pat nenusistovėjusiais vardais yra minimi kilmingieji : nobiles, me­ liores, maiores, potentiores, besten ir kt.
 
 ## Teiginiai
 - t-001
@@ -34,6 +33,7 @@ Kilmingieji šiame įraše žymi socialinių viršūnių sluoksnį. Ankstesnis �
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šalia « kunigų » pirmuosiuose Lietuvos istorijos šaltiniuose taip pat nenusistovėjusiais vardais yra minimi kilmingieji : nobiles, me­ liores, maiores, potentiores, besten ir kt.'
@@ -63,10 +63,10 @@ Kilmingieji šiame įraše žymi socialinių viršūnių sluoksnį. Ankstesnis �
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Estai]]
 - [[objektai/autoriai/J. Posilge]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/asmenys/Sklodas iš Kvedenavos]]
 - [[objektai/asmenys/Skumas]]
@@ -79,7 +79,6 @@ Kilmingieji šiame įraše žymi socialinių viršūnių sluoksnį. Ankstesnis �
 - [[objektai/zodynas/kilmingieji nobilis]]
 - [[objektai/zodynas/kilmingieji nobilis vitingai bajorai]]
 - [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
 - [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]
 - [[objektai/zodynas/šeimyna familia domus]]

@@ -234,9 +234,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/NKVD]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/grupes/Varniškių būrys]]
+- [[objektai/daiktai/Laivai]]

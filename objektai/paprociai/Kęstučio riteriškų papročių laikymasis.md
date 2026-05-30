@@ -98,4 +98,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]

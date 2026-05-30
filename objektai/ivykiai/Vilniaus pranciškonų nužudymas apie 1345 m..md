@@ -135,7 +135,6 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Petras Goštautas]]

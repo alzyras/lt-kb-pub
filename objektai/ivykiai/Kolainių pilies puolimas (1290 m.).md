@@ -45,23 +45,26 @@ Dusburgiečio pasakojimu, po ilgo puolimo ir didelių nuostolių apgula nutrūko
 Pilis liko nepaimta.
 
 ## Teiginiai
-- t-001
-  teiginys: '1290 m. magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį, kurią gynė Surminas su 120 rinktinių karių.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų.'
   pagrindžia:
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-003
   teiginys: 'Dusburgietis pasakoja, kad apgula nutrūko, kai dėl sargybos raitelių sukelto triukšmo Ordino pėstininkai išsigando ir nubėgo prie laivų.'
   pagrindžia:
     - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  statusas: patvirtinta
+
+- t-001
+  teiginys: '1290 m. magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį, kurią gynė Surminas su 120 rinktinių karių.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -82,7 +85,6 @@ Pilis liko nepaimta.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Dusburgietis datuoja Kolainių puolimą 1290 m. balandžio 23 d. ir konkretina puolusiųjų bei gynėjų skaičių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -126,5 +128,4 @@ Pilis liko nepaimta.
 - [[objektai/asmenys/Surminas]]
 - [[objektai/posakiai/prisiekęs dievų galybe]]
 - [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Laivai]]

@@ -58,7 +58,6 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/saar]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]

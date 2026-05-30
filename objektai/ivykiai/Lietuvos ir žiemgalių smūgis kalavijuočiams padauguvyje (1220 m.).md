@@ -46,6 +46,7 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-002
   santrauka: Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.) papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,6 +61,22 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+
+- c-001
+  santrauka: 'Dusburgietis teigia, kad tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams padauguvyje27.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė
+    kalavijuočiams padauguvyje27. Bendri lietuvių veiksmai su žiemgaliais, sėliais, kuršiais
+
+      20 Отрембский Я.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 

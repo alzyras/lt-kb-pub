@@ -258,11 +258,10 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ### Susiję objektai
 - [[objektai/posakiai/Gorbis ar Lietuva]]
+- [[objektai/asmenys/Jelena Boner]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Jedinstvo]]
-- [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]
-- [[objektai/posakiai/Šalin rankas nuo Lietuvos]]
-- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
+- [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]

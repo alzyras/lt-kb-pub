@@ -138,6 +138,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 ### Susiję objektai
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]

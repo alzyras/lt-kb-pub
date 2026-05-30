@@ -6,18 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1230 m.'
-  - '1232 m.'
-  - '1266 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-date_start: '1230'
-date_end: '1266'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -31,67 +20,88 @@ tags:
 O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai? Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo. Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol.'
+- t-001
+  teiginys: 'XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.'
   pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai.'
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.'
   pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip saracėnai nusiaubė Ispaniją 1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis dėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart.'
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
   pagrindžia:
-    - c-007
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Įvairiais duomenimis, nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.'
+  pagrindžia:
+    - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-001
+  santrauka: 'XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Apie Maljorkos ir Menorkos salų užėmimą
-
-      1230 viešpaties metais Aragono karalius Ispanijoje užėmė salas, vardu Maljorka ir
-    Menorka, kurios buvo anksčiau užimtos saracėnų (Ptol. 21,33).
-
-
-
-                              21.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
+    O kas nutiko didžiųjų ge-
+    ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir
+    XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-
+    panijos valdose nenusileisdavo saulė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+    - t-001
+- c-002
+  santrauka: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga
-
-      1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą
-    akmenyje  ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai  ir
-    lotyniškai. Rašte tiek buvo pasakyta kiek ir psalmyne, ir jis bylojo apie trilypį pasaulį nuo
-    Adomo ligi Antikristo, iškeldamas aikštėn žmonių savybes.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
+    Ispanijos galybės saulėlydį ženklino Nenugalimosios armados ne-
+    sėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra,
+    žygio Ispanija nekartojo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip saracėnai nusiaubė Ispaniją 1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis dėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+    - t-002
+- c-003
+  santrauka: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Apie tai, kaip saracėnai nusiaubė Ispaniją
-
-      1266 viešpaties metais daugybė saracėnų, atkilusių iš Afrikos, užgrobė Ispaniją, vis
-    dėlto ilgainiui krikščionys, pralieję nemaža savo kraujo, juos nugalėjo (Mart. p. 408).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
+    Katalikybė buvo prielaida Italijos ir Is-
+    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
+    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
+    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
+    teris Paulius Rubensas).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-003
+- c-004
+  santrauka: 'Įvairiais duomenimis, nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Įvairiais duomenimis, nuo 1990 m. iš
+    Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
+    Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

@@ -42,11 +42,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad vienas jų, būtent brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei.'
+  pagrindžia:
+    - c-001
 - t-002
   teiginys: 'Dusburgietis teigia, kad šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta, tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.'
   pagrindžia:
     - c-002
-    - c-005
 - t-003
   teiginys: 'Dusburgietis teigia, kad 273 Dusburgietis čia praleidžia savo šaltinio duomenis apie Ordino brolių plėšikavimą pilyje, matyt, jam tai rodėsi nesuderinama su brolių — tikėjimo gynėjų — idealais (SRP, 5, p. 161; PKD, p. 42—43).'
   pagrindžia:
@@ -57,12 +60,38 @@ Nenurodyta
     - c-004
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad vienas jų, būtent brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Štai dėl to broliai, šitai matydami  ir dėl to būgštaudami, ryžosi verčiau žūti kovoje,
+    nei regėti šitokias nelaimes, užgriuvusias jų tautą bei šventuosius. Vienas jų, būtent
+    brolis Ditrichas iš Bernheimo, buvęs maršalas ir narsus vyras (jo krūtinėje plakė Ulikso
+    širdis, o ranka buvo ne silpnesnė nei Hektoro), bei dar keturi broliai ir dvidešimt keturi
+    ginklanešiai naktį (1242 gruodžio 3), šventos mergelės bei kankinės Barboros išvakarėse,
+    priėjo prie Sventopelko pilies Sartovicų272 ir, apstatę sienas kopėčiomis, slapta įsigavo
+    į vidų ir ten surado penkiasdešimt vyrų, paliktų jos saugoti; šių būta stiprių ir įgudusių
+    kovoti, tačiau broliai drauge su dvidešimt keturiais ginklanešiais juos drąsiai užpuolė.
+    Užpultieji narsiai priešinosi, gindami pilį. Čia vieniems, čia kitiems atlaikius smūgį, užvirė
+    smarkiausia kova, kuri truko nuo aušros  iki trečios valandos. Pagaliau pats dievas,
+    niekad neapleidžiantis tų, kurie jį tiki, pasiuntė broliams iš dangaus pagalbą bei pergalę,
+    ir jie, išžudę visus, išskyrus kelis, kurie išsigelbėjo pabėgdami, surišo pančiais šimtą
+    penkiasdešimt ten paimtų nelaisvėn moterų su vaikais. Šitai padarę, aptiko viename
+    rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei
+    kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už
+    tokios šlovingos dovanos suradimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
 - c-002
   santrauka: 'Dusburgietis teigia, kad šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta, tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
-    išėjo iš rūsio. Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
+    Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
     tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
     palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
        Į tai broliai atsakė: „Kas tau šitai pasakė?
@@ -104,24 +133,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.) papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai padarę, aptiko viename
-    rūsyje dėžę, arba skrynią, o joje sidabrinę dėžutę, o toje dėžutėje šventos mergelės bei
-    kankinės Barboros galvą, kurią išvydę kniūpsti puolė ant žemės, dėkodami dievui už
-    tokios šlovingos dovanos suradimą. Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
-    išėjo iš rūsio. Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
-    tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
-    palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

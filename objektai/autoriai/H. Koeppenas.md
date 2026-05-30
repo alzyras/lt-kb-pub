@@ -2,13 +2,10 @@
 tipas: autorius
 pavadinimas: 'H. Koeppenas'
 sukurta: '2026-05-20'
-variantai:
-  - 'H. Koeppen'
-  - 'Н. Koeppen'
+variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos: []
 periodas: ''
 periodo_grupes: []
@@ -26,7 +23,7 @@ tags:
 
 ## Santrauka
 
-Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių pranešimus (BeGeDO). Petro Dusburgiečio leidinio bibliografijoje jis papildomai minimas kaip kelių „Preussisches Urkundenbuch“ dalių parengėjas ir rodyklių bei papildymų rengėjas.
+Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių pranešimus (BeGeDO).
 
 ## Teiginiai
 - t-001
@@ -35,6 +32,7 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių pranešimus (BeGeDO).'

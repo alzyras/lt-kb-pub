@@ -50,4 +50,3 @@ Dusburgietis teigia, kad hartknochas, pirmas D.
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]

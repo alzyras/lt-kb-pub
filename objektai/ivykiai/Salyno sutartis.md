@@ -54,6 +54,12 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   teiginys: '1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: '1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Salyno sutartimi Vytautas užleido ordinui visus Žemaičius ir pirmą kartą apytikriai nužymėjo ordinui tenkančių žemių sienas.'
   pagrindžia:
@@ -71,6 +77,12 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   pagrindžia:
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: '1398 m. spalio 12 d. Salyno saloje sutartį ratifikavo abiejų ordinų magistrai, vyskupai ir Vytautas su žmona Ona.'
+  pagrindžia:
+    - c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-007
   teiginys: 'Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.'
@@ -105,6 +117,25 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 1398 m. spalio 12 d. Nemuno Salyno saloje buvo patvirtinta Salyno sutartis.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    b. Salyno suvažiavimas ir jo reikšmė. — 1396 m. jau buvo pa­
+    darytos paliaubos, o 1398.IV.23 d. surašyta preliminarinė taika
+    Gardine, kur, be kitų, iš ordino pusės dalyvavo komtūrai: Elbingo
+    — Kyburgas ir Ragainės -— M. Salzbacbas^4. Tą patį rudenį (X.12),
+    susivažiavę arti Nevėžio žiočių Nemuno saloje — « Salyne », kiek
+    žemiau Kulautuvos^5 , Vytautas ir K. Jungingenas galutinai patvir­
+    tino sutartį^6.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
 - c-003
   santrauka: Salyno sutartimi Vytautas ordinui užrašė Žemaičius iki Nevėžio ir pusę Sūduvos.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -123,15 +154,11 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: Ivinskis Salyno taiką aiškina kaip galimą Lietuvos ir ordino santykių pervartą, jei ji būtų pastoviai įgyvendinta.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Toliau siena apytikriai buvo nužymėta upė­
-    mis (Šešupė, Neta, Bebras, Narevas). Vėlesnėmis lietuvių gyven­
-    vietėmis žymint, kryžiuočiai gavo anksčiau sūduvių gyventos
-    žemės dalį linijoje į vakarus nuo Zapyškio, Kazlų-Rūdos, Marijam­
-    polės, S. Kalvarijos.
     Salyno « amžinoji » taika, kurios pastovus įgyvendinimas būtų
     reiškęs ne tik grynai lietuvių gyvenamų žemių atidavimą ordinui,
     bet ir visišką Lietuvos nustūmimą nuo jūros, palietė dar kitus
@@ -142,6 +169,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: Salyno suvažiavime bajorai Vytautą paskelbė Lietuvos karaliumi.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -165,11 +193,37 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '1930 m. veikale Salyno ratifikavimas aprašomas kaip iškilmingas spalio 12 d. patvirtinimas su plačiu dalyvių ratu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1398 m. Gardine
+    padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas:
+
+    1. Atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo jam pa­
+    dėti pastatyti dvi ar tris pilis. 2. Abi pusės prižadėjo paleisti
+    belaisvius, jų skaičiuj ir Vytauto brolį Zigmantą. 3. Vytautas
+    padės užkariauti Ordinui Pskovą, o šis Vytautui — Naugardą
+    D. 4. Nepraleis jokios kariuomenės per savo žemes, einančios
+    prieš kryžiuočius. 5. Jei Ordinas pageidautų, Vytautas turi,
+    jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­
+    tinta Jogailos^1 ). Iškilmingas tos sutarties ratifikavimas (patvir­
+    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
+    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
+    mijos ir Sambijos vyskupai ir daug komtūrų. Iš lietuvių pusės
+    dalyvavo Vytautas su žmona Ona, daugybė kunigaikščių, bajo­
+    rų ir palydovų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 - c-007
   santrauka: 'Ši citata pabrėžia 1930 m. veikalo interpretaciją, kad Salyno akte Vytautas elgėsi kaip savarankiškas valdovas ir atidavė Ordinui visą Žemaitiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
     sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
     gistro suvažiavimas^1 ). Vytautas atvyko su puikia ir gau­
     sia svita. Čia jisai, laikydamas save aukščiausiu Lietuvos kun.
@@ -177,9 +231,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     yra aiškus Vytauto stokojimas lojalumo Jogailai ir Lenkijai),
     atidavė Ordinui visą Žemaitiją^2 ), o iškilmingai patvirtindamas
     visus reikalavimus kryžiuočių, besigrumiančių tuo metu su Len­
-    kija dėl Dobrynės, nutraukė visus ryšius su Karūna, žinodamas,
-    kad savarankiškumas, o ypač nedraugingas Lietuvos pasielgi­
-    mas su Lenkija, negalėjo būti jos toleruojamas.
+    kija dėl Dobrynės, nutraukė visus ryšius su Karūna
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -53,7 +53,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų.'
   pagrindžia:
     - c-001
-    - c-003
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 162 Kulmo (dab.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,23 +80,27 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-003
-  santrauka: Kulmo žemės nusiaubimas prūsų antpuoliu papildomas patvirtintas šaltinio paminėjimas.
+- c-002
+  santrauka: 'Dusburgietis teigia, kad 162 Kulmo (dab.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    kaimynais, išpažįstančiais krikščionybę, netrukdė jiems garbinti gyvojo dievo ir apskritai
-    jų nekliudė. Tačiau žmonių giminės priešas, nebegalėdamas pakęsti taikos, ilgainiui
-    prisėjo raugių. Mat jis paskatino juos pradėti žiauriausius krikščionių persekiojimus, ir
-    po kelerių metų prūsai, visiškai nusiaubę Kulmo žemę162, pavertė ją dykra, o krikščionis
-    arba išžudė, arba išsivarė į nelaisvę ir pavertė amžinais vergais, ir tik vienas kitas iš jų
-    išsigelbėjo pabėgdamas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą
+    patvirtina 1222 (ar 1223) m. Konrado privilegija vyskupui Kristijonui (PUB, 1, 1, Nr.
+    41, p. 28). Tai galėjo įvykti 1216 m. ar 1217 m. pradžioje, kai į prūsų nelaisvę pateko
+    Mazovijos vaivada Kristinas, arba 1220 m. Prūsų rankose Kulmo žemė galėjo būti 1226—
+    1230 m. Dusburgiečio minimos (III, 7) prūsų įgulos Kulmo žemės pilyse siejamos jau
+    su 1226 m.; kita vertus, manoma, kad Kulmo žemę prūsai užėmė tik 1231 m. vasarą.
+    Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdeda, teigdamas, jog Kulmo žemė
+    buvusi visiškai nusiaubta, paversta dykromis, nes jam rūpėjo padidinti prūsų antpuolių
+    rezultatus, iškelti Ordino nuopelnus (HP. 1, 1, p. 427, 436; Ślaski K. Przyczyny..., p. 26—
+    27; Powierski J. Stosunki..., p. 153; to paties, Przekaz..., p. 408).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -54,4 +54,3 @@ Vokiečių ordino XIV amž. kronikose (Wartberge, Wigand) yra minimi ištisi ži
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]

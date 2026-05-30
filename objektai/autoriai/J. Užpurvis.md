@@ -55,4 +55,3 @@ Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos ša
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]

@@ -19,53 +19,69 @@ Centro valdžia, norėdama palaikyti šitą lietuvių prisirišimą, leido jiems
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuviškas laikraštis „Keleivis“ buvo leidžiamas Karaliaučiuje nuo 1849 iki 1880 m.'
+  teiginys: 'Centro valdžia, norėdama palaikyti šitą lietuvių prisirišimą, leido jiems Karaliaučiuje net lietuvišką laikraštį „Keleivį" (nuo 1849 iki 1880 m.).'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: '„Keleivio“ tikslas buvo išsaugoti lietuvių ištikimybę valdžiai ir valdančiajam sluoksniui.'
+  teiginys: 'Vienintelis „Keleivio" tikslas buvo išsaugoti lietuvių ištikimybę valdžiai ir valdančiajam sluoksniui.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-003
+  teiginys: 'Daugiau įtakos betgi visuomenei turėjo 1849—1880 m. su valdžios parama prof. Kuršaičio leistasai „Keleivis".'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
-
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lietuviškas laikraštis „Keleivis“ buvo leidžiamas Karaliaučiuje nuo 1849 iki 1880 m.'
+  santrauka: 'Centro valdžia, norėdama palaikyti šitą lietuvių prisirišimą, leido jiems Karaliaučiuje net lietuvišką laikraštį „Keleivį" (nuo 1849 iki 1880 m.).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvybės gynėjai,
-    prašydami neskriausti lietuvių, visada rėmėsi ta jų ištikimybe
-    valdžiai. Centro valdžia, norėdama palaikyti šitą lietuvių prisi-
+    Centro valdžia, norėdama palaikyti šitą lietuvių prisi-
     rišimą, leido jiems Karaliaučiuje net lietuvišką laikraštį „Kelei-
     vį" (nuo 1849 iki 1880 m.). Jį redagavo didelis lietuvių kalbos
     žinovas, Karaliaučiaus lietuvių seminarijos profesorius Kur-
     šaitis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '„Keleivio“ tikslas buvo išsaugoti lietuvių ištikimybę valdžiai ir valdančiajam sluoksniui.'
+  santrauka: 'Vienintelis „Keleivio" tikslas buvo išsaugoti lietuvių ištikimybę valdžiai ir valdančiajam sluoksniui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jį redagavo didelis lietuvių kalbos
-    žinovas, Karaliaučiaus lietuvių seminarijos profesorius Kur-
-    šaitis. Vienintelis „Keleivio" tikslas buvo išsaugoti lie-
+    Vienintelis „Keleivio" tikslas buvo išsaugoti lie-
     tuvių ištikimybę valdžiai ir valdančiajam
     sluoksniui. Jo tad dėka vėliau, renkant parlamentą, lietu-
     viai paprastai balsuodavo už vokiečius dvarininkus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Daugiau įtakos betgi visuomenei turėjo 1849—1880 m. su valdžios parama prof. Kuršaičio leistasai „Keleivis".'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Daugiau įtakos betgi visuomenei turėjo 1849—1880 m. su valdžios pa-
+    rama prof. Kuršaičio leistasai „Keleivis". Jis buvo leidžiamas
+    tam tikslui, kad užkirstų kelią tuo metu lietuvių tarpe plintan-
+    čioms, Prūsų karalystėje įsigalėjusioms revoliucinėms idėjoms;
+    todėl jis palaikė prūsiškąjį patriotizmą ir monarchizmą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

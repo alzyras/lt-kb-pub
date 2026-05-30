@@ -50,7 +50,6 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 - [[objektai/asmenys/Pelužis]]
 - [[objektai/asmenys/Petras Atsiskyrėlis]]
 - [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]]
 - [[objektai/ivykiai/Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas|Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas (miestas)]]
 - [[objektai/autoriai/Dusburgas]]

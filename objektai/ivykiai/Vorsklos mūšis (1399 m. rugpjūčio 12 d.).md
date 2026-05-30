@@ -234,7 +234,6 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]

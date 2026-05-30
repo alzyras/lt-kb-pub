@@ -20,25 +20,39 @@ E., Žalys V., edit. Žalys V.
 
 ## Teiginiai
 - t-001
-  teiginys: 'V. Žalys parašė knygą „Lietuvos diplomatijos istorija (1925–1940). I tomas“, išleistą Vilniuje 2007 m.'
+  teiginys: 'E., Žalys V., edit.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Žalys V.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'V. Žalys parašė knygą „Lietuvos diplomatijos istorija (1925–1940). I tomas“, išleistą Vilniuje 2007 m.'
+  santrauka: 'E., Žalys V., edit.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Žalys V.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

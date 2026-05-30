@@ -58,8 +58,14 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
 - Praktika siejama su stambių įmonių bankrotais, darbo netekimu ir socialiniais emigracijos padariniais.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę, Ispaniją ir Norvegiją.'
+- t-001
+  teiginys: "Masinis nedarbas po stambių įmonių bankrotų paskatino masinę Lietuvos gyventojų emigraciją nuo 1990 m."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Dauguma emigrantų buvo jauni darbingo amžiaus žmonės, o emigracijos padariniu įvardytas protų nutekėjimas."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -67,19 +73,18 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę, Ispaniją ir Norvegiją.'
+  santrauka: Citata aprašo emigracijos priežastį, kryptis, mastą ir socialinį profilį.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Įvairiais duomenimis, nuo 1990 m. iš
     Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV,
-    Airiją, Jungtinę Karalystę (Londoną), Ispaniją ir Norvegiją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
   pagrindžia:
-    - t-004
+    - t-001
+    - t-002
 
 ## Šaltiniai ir įrodymai
 

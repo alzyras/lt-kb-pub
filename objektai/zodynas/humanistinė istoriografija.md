@@ -56,4 +56,3 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]

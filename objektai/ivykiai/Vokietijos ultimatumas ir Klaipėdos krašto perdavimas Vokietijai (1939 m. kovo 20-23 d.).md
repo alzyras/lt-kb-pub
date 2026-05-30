@@ -6,18 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1939 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1939'
-date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -46,31 +34,71 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1939 m. kovo 23 d. Klaipėdoje Adolfą Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
+  teiginys: '1939 m. pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipėdai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Kovo 23-iąją d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį, karo laivu į Klaipėdą atplaukė A.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Lietuvai suduotas ir didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1939 m. kovo 23 d. Klaipėdoje Adolfą Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai.'
+  santrauka: '1939 m. pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipėdai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
-    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
-    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    183
-    deleguotas ministras turėjo vykdyti jo užduotis.
-  citata_rodoma: ""
+    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kovo 23-iąją d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį, karo laivu į Klaipėdą atplaukė A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    perdavimo sutartį, karo laivu į Klaipėdą atplaukė A. Hitleris ir iš teatro
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Lietuvai suduotas ir didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc. Lietuvos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

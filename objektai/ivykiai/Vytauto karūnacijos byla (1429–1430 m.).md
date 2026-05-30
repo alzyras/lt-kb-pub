@@ -39,11 +39,18 @@ Nenurodyta
 - t-001
   teiginys: 'Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai.'
   pagrindžia:
+    - c-007
     - c-001
 - t-002
   teiginys: '1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).'
+  pagrindžia:
+    - c-008
+    - c-003
+
 - t-004
   teiginys: 'Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą.'
   pagrindžia:
@@ -77,7 +84,7 @@ Nenurodyta
   santrauka: '1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
+    1430 m. Lenkų ponai prispyrė grįžusį į
     Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
     nacijos. Atšaukimas buvo laišku praneštas imperatoriui Zigman-
     tui, kurs laiško nuorašą tuojau nusiuntė Vytautui. Jame Jogaila
@@ -90,13 +97,45 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Įsižeidęs jis nusprendė karūnuotis, į nieką neatsi-
+    žvelgdamas. Maža to, per savo delegaciją jis pareikalavo, kad
+    Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar ne-
+    laisvais. Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra lais-
+    vas, kaip ir mes, ir mes jo nelaikome kitokiu, kaip tik mūsų
+    broliu. Taip pat ir Lietuvos kunigaikščius bei bajorus laikome
+    laisvais, kaip ir mūsų (t. y. Lenkijos) ponus, ir lygiais su jais" ...
+
+
+    Tačiau tas nieko nepadėjo. Vytautas, susitaręs su imperatorium,
+    ruošėsi karūnuotis. Jo pasiuntiniai pareiškė Jogailai ir lenkams,
+    kad Vytautas, esą, vis tiek karūnuosis, nes tik karūnavęsis tega-
+    lįs nuplauti padarytą gėdą ir pasirodyti iš tikrųjų laisvas.
+    Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą,
+    prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net
+    Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
+    Tačiau Vytautas viską atmetė. Tada lenkai pradėjo ginkluotis.
+    Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
+    jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
+    atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais. Bet
+    lenkai buvo pasiryžę nieku būdu neleisti įvykdyti karūnacijos.
+    Todėl jie suėmė imperatoriaus pasiuntinius, ir Vytautas su sve-
+    čiais jų nesulaukė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
 - c-004
   santrauka: 'Karūnacijos byla čia tiesiogiai siejama su imperatoriaus vainikais ir popiežiaus įsikišimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vytautui tai davė progos Jogailą kaltinti, jog jis
-    jau visai patekęs savo patarėjų įtakon, nenorįs jų pašalinti ir nesi­
-    rūpinąs turėti geresnių.
     Visos aplinkybės taip susidėjo, kad Vytautui jėga reikėjo vai­
     niką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog
     esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
@@ -142,6 +181,47 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-007
+  santrauka: Vytauto karūnacijos byla (1429–1430 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti
+    gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos
+    karalium, ką sukliudė Jogailos įpėdiniai, kurių jis net dvejeto
+    susilaukė. Ir jei dar tikėti tam, kad Vytautas pats tokius gan­
+    dus buvo paleidęs ne tik apie Jogailos ketvirtąją, bet ir apie
+    antrąją žmoną, jog ji turinti santykių su dvariškiais, aišku, kad
+    čia jis ėjo ne tik moralisto pareigas, bet dar turėjo ir kitokių
+    paslėptų tikslų. O kai pamatė, kad tos jo viltys yra žuvusios, tada
+    jis ir ėmė šalintis ir atšalti nuo Lenkijos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-008
+  santrauka: Vytauto karūnacijos byla (1429–1430 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas, nežiūrint net gilios jo senatvės, dar smar­
+    kiai savo paskutiniais gyvenimo metais apgriovė unijos pa­
+    grindus, iš naujo iškeldamas Lietuvos nepriklausomybės vėlia­
+    vą; toji nepriklausomybė turėjo pasireikšti iš viršaus — apsi­
+    karūnavimu Lietuvos ir Rusijos žemių karaliaus karūna, impe­
+    ratoriaus Zigmanto atsiųsta. Tą planą suardė Lenkija, neįleis­
+    dama į Lietuvą karūnos. Šis faktas, t. y. sutikimas karūnuoti
+    Vytautą, su kuo vėliau sutiko ir lenkai, juridiškai, kaip mano
+    Kutrzeba, uniją paliko galioje, bet faktiškai ji buvo smarkiai iš
+    naujo suardyta^1 ), suduotas jai didelis smūgis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

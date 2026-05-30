@@ -114,5 +114,4 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 ### Susiję objektai
 - [[objektai/zodynas/Alkos ir romuvos]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

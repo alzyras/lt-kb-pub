@@ -76,4 +76,5 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/ivykiai/Braunšveigo kunigaikščio Otono atvykimas į Prūsiją]]

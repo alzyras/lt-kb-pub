@@ -1,22 +1,14 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konradas'
-sukurta: '2026-05-20'
+sukurta: '2026-04-25'
 variantai: []
 aliases: []
 saltiniai:
-  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1231 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-date_start: '1231'
-date_end: ''
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - ordinas
@@ -26,35 +18,51 @@ tags:
 
 ## Santrauka
 
-pakvietė Mozūrijos kunigaikštis Konradas ir padovanojo jiems Kulmo žemę.
+Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj. Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę.'
+  teiginys: 'Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-002
+  teiginys: 'Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) žemės pakraštėj.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    jauti su prūsais 1226-1228 m.
-    pakvietė Mozūrijos kunigaikš-
-    tis Konradas ir padovanojo
-    jiems Kulmo žemę. 1231 m.
-    Ordinas pasistatė Torunės pil.
-    Prasidėjo metodiški kryžiaus
-    žygiai į Prūsiją.
-  citata_rodoma: ""
+    Tada Mozūrų kunigaikš-
+      tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vys-
+      kupą Kristijoną įkurdino Kulmo (priklausiusio Mozūrams) že-
+      mės pakraštėj.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kunigaikštis Konradas jį pakvietė persikelti į Prūsus ir
+      paimti į savo rankas vietinių ir aplinkinių krikščionių apsaugą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

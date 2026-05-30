@@ -12,7 +12,6 @@ datos:
   - '1324 m.'
   - '1370 m.'
   - '1398 m.'
-  - '1561 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
@@ -20,7 +19,6 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-  - 'XVI'
   - 'XX'
   - 'XXI'
 date_start: '1323'
@@ -103,6 +101,11 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginys: 'Nors vyriausieji jo padėjė­ jai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų, vokiečių.'
   pagrindžia:
     - c-013
+- t-019
+  teiginys: 'Jo tarnyboje mes ga­ lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.'
+  pagrindžia:
+    - c-014
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sužinoję apie didelį lietuvių įsiveržimą, vokiečiai iš savo pusės irgi rengėsi.'
@@ -324,6 +327,24 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-014
+  santrauka: 'Jo tarnyboje mes ga­ lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jo tarnyboje mes ga­
+    lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.
+    Aiškus dalykas, kad nemažą įtaką Vytautas bus padaręs že­
+    mės eksploatacijai per savo dvarus, o jų jo laikais didysis kuni­
+    gaikštis įsigijo labai daug, nes jo tiesioginėn žinion perėjo buvu­
+    siųjų sričių kunigaikščių dvarai, bet apie tą tiesioginių žinių mes
+    veik neturime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai

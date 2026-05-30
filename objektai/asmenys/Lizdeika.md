@@ -52,7 +52,6 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]

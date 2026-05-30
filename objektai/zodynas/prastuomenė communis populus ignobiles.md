@@ -1,36 +1,41 @@
 ---
-tipas: zodyno_irasas
-pavadinimas: "prastuomenė / communis populus / ignobiles"
-sukurta: '2026-05-30'
-variantai:
-  - "prastuomenės"
-  - "communis populus"
-  - "dî gemeine schar"
-  - "ignobiles"
-  - "nekilmingieji"
-  - "pauperes"
-  - "impotentes"
-  - "servi et ancille"
-  - "rustict"
-aliases: []
 saltiniai:
-  - "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-laikotarpis: "XIII–XIV a. visuomenės sluoksnių aprašymo kontekstas"
-datos: []
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIII"
-  - "XIV"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-30'
-tags: []
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
+---
+  tipas: zodyno_irasas
+  pavadinimas: "prastuomenė / communis populus / ignobiles"
+  sukurta: "2026-05-30"
+  variantai:
+- "prastuomenės"
+- "communis populus"
+- "dî gemeine schar"
+- "ignobiles"
+- "nekilmingieji"
+- "pauperes"
+- "impotentes"
+- "servi et ancille"
+- "rustict"
+  aliases: []
+  saltiniai:
+- "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  laikotarpis: "XIII–XIV a. visuomenės sluoksnių aprašymo kontekstas"
+  datos:[]
+  periodas: "viduramziai"
+  periodo_grupes:[]
+  amziai:
+- "XIII"
+- "XIV"
+  date_start: ""
+  date_end: ""
+  vaidmenys: []
+  dalyviai: []
+  susije_irasai: []
+  patikimumas: "aukštas"
+  tags:[]
+  ---
 # prastuomenė / communis populus / ignobiles
 
 ## Santrauka
@@ -118,11 +123,7 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Krivis]]
 - [[objektai/zodynas/vergai]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]

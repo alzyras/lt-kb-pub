@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -15,33 +16,46 @@ tags:
 
 ## Santrauka
 
-Blaivybės paminklas Skapišky.
+Skapiškis: patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus. Skapiškis: blaivybės paminklas Skapišky.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Skapiškyje buvo blaivybės paminklas.'
+  teiginys: 'Skapiškis: patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Skapiškis: blaivybės paminklas Skapišky.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Skapiškyje buvo blaivybės paminklas.'
+  santrauka: 'Skapiškis: patys parapijonys daug kur ėmė bausti apylinkės girtuoklius, o blaivybei paminėti statė kryžius ir paminklus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Patys parapijonys daug kur ėmė
+    bausti apylinkės girtuoklius, o blaivybei paminėti statė
+    kryžius ir paminklus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Skapiškis: blaivybės paminklas Skapišky.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Blaivybės paminklas Skapišky.
-    teismui: esą, brolijose slaptai susiburią revoliucionieriai, iešką
-    visokių kelių prieiti prie visuomenės. Vyskupas buvo priverstas
-    perspėti kunigiją, kad brolijų nebekurtų, o blaivybę skelbtų
-    tiktai bažnyčiose, mokydami doros. Tačiau rusų valdininkai
-    generalgubernatoriaus įsakymą ėmė aiškinti daug plačiau ir už-
-    vesdavo kunigams bylas po kiekvieno žodžio, pamoksle pasa-
-    kyto prieš girtybę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002

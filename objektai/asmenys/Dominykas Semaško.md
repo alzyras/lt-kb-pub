@@ -22,31 +22,39 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuviai, derėdamiesi dėl didesnės teritorijos Rytuose, rėmėsi Dominyko Semaškos argumentais.'
+  teiginys: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Semaško) argumentus, lietuviai patenkino dar vieną A.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuviai, derėdamiesi dėl didesnės teritorijos Rytuose, rėmėsi Dominyko Semaškos argumentais.'
+  santrauka: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-
-    vuodami jos dydį katalikų tikėjimo paplitimu, etnografiniais ir istoriniais
-    duomenimis, pasitelkę savo delegacijos narių žydų (S. Rozenbaumo) ir
-    baltarusių (D. Semaško) argumentus, lietuviai patenkino dar vieną A.
-    Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo
-    karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
-    sutartimi“).
-  citata_rodoma: ""
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Semaško) argumentus, lietuviai patenkino dar vieną A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

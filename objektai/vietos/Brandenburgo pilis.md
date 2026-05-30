@@ -1,11 +1,9 @@
 ---
 tipas: vieta
-pavadinimas: 'Brandenburgo pilis (pilis, XIV a.)'
+pavadinimas: 'Brandenburgo pilis'
 sukurta: '2026-05-30'
-variantai:
-  - 'Brandenburgo pilis'
-aliases:
-  - 'Brandenburgo pilis'
+variantai: []
+aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -24,7 +22,7 @@ tags:
   - pilis
   - vieta
 ---
-# Brandenburgo pilis (pilis, XIV a.)
+# Brandenburgo pilis
 
 ## Santrauka
 
@@ -42,13 +40,13 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - t-003
   teiginys: 'Dusburgietis teigia, kad blindenburgas Bolandas Brabantas Brandenburgas (Marka) Brandenburgas (Pokarviuose, dab.'
   pagrindžia:
-    - c-002
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
+    Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
                                      mėje
 
       1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo
@@ -76,13 +74,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
       Brabantas
       Brandenburgas (Marka)
       Brandenburgas (Pokarviuose, dab. Ušakovas)
-      Branevas žr. Brunsbergas
-      Braunšveigas
-      Bremenas
-      Brestas (Kujavijos)
-      Brestas (prie Vak. Bugo)
-      Brianskas, srit
-       Briksija (D.—in Bria)?
+      Branevas žr.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -90,4 +82,19 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad blindenburgas Bolandas Brabantas Brandenburgas (Marka) Brandenburgas (Pokarviuose, dab.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Blindenburgas
+      Bolandas
+      Brabantas
+      Brandenburgas (Marka)
+      Brandenburgas (Pokarviuose, dab.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
     - t-003

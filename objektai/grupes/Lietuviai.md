@@ -12,6 +12,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 laikotarpis: '1345–1377 m.; 1370 m.; 1377 m'
 datos:
   - '1009 m.'
@@ -21,45 +22,41 @@ datos:
   - '1127 m.'
   - '1128 m.'
   - '1129 m.'
-  - '1229 m.'
-  - '1236 m.'
-  - '1238 m.'
-  - '1242 m.'
-  - '1243 m.'
-  - '1259 m.'
-  - '1260 m.'
-  - '1261 m.'
   - '1262 m.'
-  - '1283 m.'
-  - '1298 m.'
-  - '1299 m.'
-  - '1300 m.'
-  - '1302 m.'
-  - '1303 m.'
   - '1306 m.'
   - '1309 m.'
+  - '1345 m.'
+  - '1370 m.'
+  - '1377 m.'
+  - '1385 m.'
+  - '1514 m.'
+  - '1529 m.'
+  - '1566 m.'
+  - '1588 m.'
+  - '1851 m.'
+  - '1883 m.'
+  - '1897 m.'
+  - '1927 m.'
+  - '1936 m.'
+  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'XX a.'
-  - 'modernioji Lietuva'
   - 'naujieji laikai'
   - 'viduramžiai'
 amziai:
   - 'VII'
-  - 'X'
   - 'XI'
   - 'XII'
   - 'XIII'
   - 'XIV'
-  - 'XV'
   - 'XVI'
-  - 'XVII'
   - 'XVIII'
   - 'XIX'
   - 'XX'
+  - 'XXI'
 date_start: '1009'
-date_end: '1309'
+date_end: '2026'
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
 tags:
@@ -72,27 +69,331 @@ tags:
 Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateikiamas kaip anksti istoriniuose šaltiniuose paminėtas. Daukanto pasakojime lietuviai dar rodomi kaip sena tauta, prieš Kristaus gimimą gyvenusi prie Juodųjų pamarių, save vadinusi ir kalnėnais, aukštėjais bei žemaičiais pagal gyvenamą vietą, o Perūną garbinusi ugnia.
 
 ## Teiginiai
+
+- t-002
+  teiginys: 'Lietuvių vardą pirmasis paminėjo vienas Karolio Didžiojo žvalgas.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Lietuviai dažnai verždavosi į Ordino kraštą, griaudavo Ragainės ir tolimesnes pilis, pasiekdavo Karaliaučiaus apylinkes.'
+  pagrindžia:
+    - c-021
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-004
+  teiginys: 'Lietuviai slėpdavosi miškuose, rengdavo pasalas grįžtantiems kryžiuočiams ir keršydavo įsiverždami į Ordino kraštą.'
+  pagrindžia:
+    - c-026
+    - c-024
+    - c-023
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-005
+  teiginys: 'Atsilygindami lietuviai surengė 31 puolimą į vakarus ir 11 puolimų į Livoniją.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-006
+  teiginys: 'Lietuviai pateikė savą projektą, pagal kurį bendras karalius turėjo būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu.'
+  pagrindžia:
+    - c-025
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-007
+  teiginys: 'Lietuviai siūlė bendrą gynimąsi ir bendrus seimus, bet saviems reikalams norėjo atskirų seimų ir urėdų Lietuvoje tik lietuviams.'
+  pagrindžia:
+    - c-022
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-008
+  teiginys: 'Kildindamas lietuvius iš romėnų, istorikas papildė legendinę dalį Lietuvos žymių šeimų genealogijomis iš Romos patricijų.'
+  pagrindžia:
+    - c-029
+
+- t-009
+  teiginys: 'Lietuviai, kaip teigiama citatoje, asimiliavo pietines žiemgalių ir sėlių sritis.'
+  pagrindžia:
+    - c-030
+
+- t-010
+  teiginys: 'Tuo tarpu pagonys lietuviai, kaip patvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų eiga su Vakarų Europos civilizacijos atstovais — ordino riteriais, buvo pasiekę, palyginti, aukštą kultūros laipsnį.'
+  pagrindžia:
+    - c-031
+
+- t-011
+  teiginys: 'XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.'
+  pagrindžia:
+    - c-032
+
+- t-012
+  teiginys: 'Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.'
+  pagrindžia:
+    - c-033
+
+- t-013
+  teiginys: 'Mindaugas apjungė smulkias Lietuvos, ypač Aukštaitijos, kunigaikštijas vienoje valdžioje.'
+  pagrindžia:
+    - c-034
+
+- t-014
+  teiginys: 'Lietuviai vėl stipriai puolė Livonijos kryžiuočius ir rengė intensyvius karo žygius į Lenkiją.'
+  pagrindžia:
+    - c-035
+
+- t-015
+  teiginys: 'Lietuviai prievarta imdavo žmones, galinčius vartoti ginklą.'
+  pagrindžia:
+    - c-036
+
+- t-016
+  teiginys: 'Kronikininkas Posilgė apie lietuvius kautynių pabaigoje tepasakė, kad jie buvo atmušti.'
+  pagrindžia:
+    - c-037
+
+- t-017
+  teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  pagrindžia:
+    - c-038
+
+- t-018
+  teiginys: 'Lietuvos vardas pirmąkart paminėtas 1009 m., bet lietuvių gentis iš rytų baltų turėjo išsiskirti anksčiau.'
+  pagrindžia:
+    - c-039
+
+- t-019
+  teiginys: 'Valstybės pakraščiuose Lietuvos valdovai galėjo įkurdinti ištikimus žmones iš Lietuvos, vadintus leičiais arba liečiais.'
+  pagrindžia:
+    - c-040
+
+- t-020
+  teiginys: 'Mindaugas sukūrė didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių tautai ir vėliau perimti Vakarų civilizaciją.'
+  pagrindžia:
+    - c-041
+
+- t-021
+  teiginys: 'Užėmę svetimą kraštą, lietuviai iš pradžių veikiausiai nekeisdavo susiklosčiusios tvarkos.'
+  pagrindžia:
+    - c-042
+
+- t-022
+  teiginys: 'Lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų žemėvaldos tradicijos.'
+  pagrindžia:
+    - c-043
+
+- t-023
+  teiginys: 'Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.'
+  pagrindžia:
+    - c-044
+
+- t-024
+  teiginys: 'XVII–XVIII a. LDK dar gyvavo lietuvių nacija, suprasta kaip politinė tauta.'
+  pagrindžia:
+    - c-045
+
+- t-025
+  teiginys: 'Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį.'
+  pagrindžia:
+    - c-046
+
+- t-026
+  teiginys: 'Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).'
+  pagrindžia:
+    - c-047
+
+- t-027
+  teiginys: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
+  pagrindžia:
+    - c-048
+
+- t-028
+  teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
+  pagrindžia:
+    - c-049
+
+- t-032
+  teiginys: 'Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą.'
+  pagrindžia:
+    - c-053
+
+- t-033
+  teiginys: 'Po Ostrovos sutarties lietuviai savo valstybę laikė visiškai savarankiška.'
+  pagrindžia:
+    - c-054
+
+- t-034
+  teiginys: 'Lietuviams mokėti mokesčius ir taip pripažinti priklausomybę buvo laikoma per didele nuolaida.'
+  pagrindžia:
+    - c-055
+
+- t-035
+  teiginys: 'Lietuvių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos karaliumi.'
+  pagrindžia:
+    - c-056
+
+- t-036
+  teiginys: 'Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.'
+  pagrindžia:
+    - c-057
+
+- t-037
+  teiginys: 'Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.'
+  pagrindžia:
+    - c-058
+
+- t-038
+  teiginys: 'Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.'
+  pagrindžia:
+    - c-059
+
+- t-039
+  teiginys: 'Lietuviai žygiavo pirmieji ir prie Gilgenburgo užpuolė bei paėmė miestelį.'
+  pagrindžia:
+    - c-060
+
+- t-040
+  teiginys: 'Lietuvių kariuomenė grįžo į mūšį tuo metu, kai sėkmė jau sviro kryžiuočių pusėn.'
+  pagrindžia:
+    - c-061
+
+- t-041
+  teiginys: 'Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose.'
+  pagrindžia:
+    - c-062
+
+- t-042
+  teiginys: 'Pirmasis lietuvių vardą yra paminėjęs vienas Karolio Didžiojo žvalgas.'
+  pagrindžia:
+    - c-063
+
+- t-043
+  teiginys: 'Tuo tarpu lietuviai pulte puolė kryžiuočius, sugriovė net keletą jų pilių.'
+  pagrindžia:
+    - c-064
+
+- t-044
+  teiginys: 'Sužinoję apie kryžiuočių žygį, lietuviai slėpdavosi miškuose ir iš pasalų puldavo grįžtančius kryžiuočius.'
+  pagrindžia:
+    - c-065
+
+- t-045
+  teiginys: 'Atsilygindami, lietuviai irgi puldavo kryžiuočius, tik daug rečiau: tuo metu į vakarus jie padarė 31 puolimą, o į Livoniją tik 11.'
+  pagrindžia:
+    - c-066
+
+- t-046
+  teiginys: 'Lietuviai taip pat dažnai įsiverždavo giliai į ordino kraštą, išgriaudavo ne tik Ragainės, bet ir tolimesnes pilis, pasiekdavo net Karaliaučiaus apylinkes.'
+  pagrindžia:
+    - c-067
+
+- t-047
+  teiginys: 'Po pirmų susidūrimų lietuviai pareikalavo, kad lenkai savo pasiūlymus pateiktų raštu.'
+  pagrindžia:
+    - c-068
+
+- t-048
+  teiginys: 'Unijos projekte ir vėlesniuose ginčuose lietuviai reikalavo garantijos, kad Lietuvoje nebus vykdoma egzekucija.'
+  pagrindžia:
+    - c-069
+
+- t-049
+  teiginys: 'Tačiau dar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo lenkų.'
+  pagrindžia:
+    - c-070
+
+- t-050
+  teiginys: 'Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.'
+  pagrindžia:
+    - c-071
+
+- t-051
+  teiginys: 'Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.'
+  pagrindžia:
+    - c-072
+
+- t-052
+  teiginys: 'Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.'
+  pagrindžia:
+    - c-073
+
+- t-053
+  teiginys: 'Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė.'
+  pagrindžia:
+    - c-074
+
+- t-054
+  teiginys: '1385 m. pabaigoje Jogaila, lydimas gausios lietuvių kunigaikščių ir didikų svitos, išvyko į Krokuvą.'
+  pagrindžia:
+    - c-075
+
+- t-055
+  teiginys: 'Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
+  pagrindžia:
+    - c-076
+
+- t-056
+  teiginys: 'Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.'
+  pagrindžia:
+    - c-077
+
+- t-057
+  teiginys: 'Po šv. Grigaliaus šventės lietuviai įsiveržė į Memelį, sudegino miestą su priemiesčiais ir paėmė belaisvių.'
+  pagrindžia:
+    - c-078
+
+- t-058
+  teiginys: 'Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.'
+  pagrindžia:
+    - c-079
+
+- t-060
+  teiginys: 'Dalis lietuvių diduomenės ir paprastų žmonių, kaip manyta, nekeisianti senojo gyvenimo būdo.'
+  pagrindžia:
+    - c-081
+
+- t-061
+  teiginys: 'Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius kautis su pagonimis lietuviais, ga­ lėjo kryžiuočius prieš kelerius me­ tus su tuo bombardų išradimu su­ pažindinti, galėjo ir Gediminas nuo jų žūti.'
+  pagrindžia:
+    - c-082
+
 - t-062
   teiginys: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
   pagrindžia:
     - c-083
     - c-126
+
 - t-063
   teiginys: 'Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
   pagrindžia:
     - c-084
+
 - t-064
   teiginys: 'Dusburgietis teigia, kad 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos.'
   pagrindžia:
     - c-085
+
 - t-065
   teiginys: 'Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K.'
   pagrindžia:
     - c-086
+
 - t-066
   teiginys: 'Dusburgietis teigia, kad romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,— prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   pagrindžia:
     - c-087
+
 - t-068
   teiginys: 'Dusburgietis teigia, kad šiuo metu lietuviai ir kiti tose žemėse gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet, prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali pastovėti.'
   pagrindžia:
@@ -101,91 +402,112 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - c-128
     - c-132
     - c-134
+
 - t-070
   teiginys: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
   pagrindžia:
     - c-091
+
 - t-071
   teiginys: 'Dusburgietis teigia, kad apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.'
   pagrindžia:
     - c-092
     - c-130
+
 - t-072
   teiginys: 'Dusburgietis teigia, kad šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam lietuvių vadui ir jį nukovė, o paleidęs [strėlę] į kitą priešo kariuomenės dalį, pataikė vienam.'
   pagrindžia:
     - c-093
+
 - t-073
   teiginys: 'Dusburgietis teigia, kad įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481.'
   pagrindžia:
     - c-094
+
 - t-075
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių žūtį Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės dalyje, kuri vadinama Kersovu, ir, išžudę daugybę krikščionių, pasitraukė su dideliu grobiu.'
   pagrindžia:
     - c-096
+
 - t-076
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už.'
   pagrindžia:
     - c-097
+
 - t-077
   teiginys: 'Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509 įsibrovė į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent: Abendą ir Pabečius510; nužudę 150 krikščionių, jie.'
   pagrindžia:
     - c-098
     - c-133
+
 - t-078
   teiginys: 'Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje, Kuršių nerijoje Brolis Konradas, magistras, išmintingas ir apdairus vyras, suprasdamas, kad, braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos.'
   pagrindžia:
     - c-099
+
 - t-079
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis, o grobio išsigabeno palyginti nedaug, nes broliai iš.'
   pagrindžia:
     - c-100
+
 - t-080
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Ragainės broliai nukovė 25 lietuvius Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti plėšikiškais išpuoliais.'
   pagrindžia:
     - c-101
     - c-129
     - c-135
+
 - t-081
   teiginys: 'Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį: išsivarė daug žmonių ir išsivežė.'
   pagrindžia:
     - c-102
+
 - t-085
   teiginys: 'Dusburgietis teigia, kad apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies.'
   pagrindžia:
     - c-106
+
 - t-086
   teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.'
   pagrindžia:
     - c-107
+
 - t-087
   teiginys: 'Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei.'
   pagrindžia:
     - c-108
     - c-138
+
 - t-091
   teiginys: 'Dusburgietis teigia, kad apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten nužudė ar išsivarė į nelaisvę beveik 200 krikščionių.'
   pagrindžia:
     - c-112
+
 - t-092
   teiginys: 'Dusburgietis teigia, kad apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas ten dedasi; kai jis.'
   pagrindžia:
     - c-113
+
 - t-093
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, karalius buvo susišaukęs beveik visus savo karalystės galingesniuosius į tam tikrą pasitarimą, arba tarybą [in... tractatu, seu parlamento], ir, šitai sužinojęs, leidosi pavymui su tūkstančiu penkiais šimtais vyrų.'
   pagrindžia:
     - c-114
+
 - t-094
   teiginys: 'Dusburgietis teigia, kad tada įniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei daugybę paprastų žmonių.'
   pagrindžia:
     - c-115
+
 - t-095
   teiginys: 'Dusburgietis teigia, kad tačiau Lietuvos karalius, išgirdęs, jog sunaikintas šios pilies papilys, nusiuntė pilies ginti daugybę rinktinių bei įgudusių karių.'
   pagrindžia:
     - c-116
+
 - t-096
   teiginys: 'Dusburgietis teigia, kad apie šio laivo sudeginimą 1313 metais Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa Lietuva; ilgai taręsi ir visaip svarstę, kaip jį sunaikinti, galop pasiuntė kilmingą bei karingą vyrą Surminą su šimtu laivų.'
   pagrindžia:
     - c-117
+
 - t-097
   teiginys: 'Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du.'
   pagrindžia:
@@ -193,10 +515,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - c-136
     - c-140
     - c-142
+
 - t-098
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
   pagrindžia:
     - c-119
+
 - t-099
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užpuolimą 1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė.'
   pagrindžia:
@@ -205,19 +529,1239 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - c-137
     - c-139
     - c-141
+
 - t-101
   teiginys: 'Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku.'
   pagrindžia:
     - c-122
+
 - t-102
   teiginys: 'Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje vietoje pasalą, įsiveržė [į.'
   pagrindžia:
     - c-123
+
 - t-104
   teiginys: 'Dusburgietis teigia, kad lietuvių karas su kryžiuočiais / Redagavo J.'
   pagrindžia:
     - c-125
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  santrauka: 'Lietuvių vardą pirmasis paminėjo vienas Karolio Didžiojo žvalgas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmasis lietuvių vardą yra
+    paminėjęs vienas Karolio Didžiojo žvalgas. Kurdamas savo
+    imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos
+    rytuose ir kokios jų jėgos.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+- c-003
+  santrauka: 'Lietuviai dažnai verždavosi į Ordino kraštą, griaudavo Ragainės ir tolimesnes pilis, pasiekdavo Karaliaučiaus apylinkes.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo tarpu lietuviai pulte puolė kry-
+    žiuočius, sugriovė net keletą jų pilių. Ordinas jau gavo įsitikinti,
+    kad dideliu žygiu iš karto vis tiek negalės pavergti Lietuvos, to-
+    dėl griebėsi kitokios taktikos.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Lietuviai slėpdavosi miškuose, rengdavo pasalas grįžtantiems kryžiuočiams ir keršydavo įsiverždami į Ordino kraštą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Sužinoję apie kryžiuočių žygį, lietuviai skubė-
+    davo pasislėpti miškuose, iš kur tykodavo užpulti kryžiuočius,
+    dažnai jie sunaikindavo ištisą grįžtančių kryžiuočių būrį: kry-
+    žiuočių kelią staiga užvertę medžiais, patys iš visų pusių
+    supuolę juos išžudydavo. Be to, už tokiuos užpuolimus lietu-
+    viai keršydavo įsiverždami ir naikindami ordino kraštą.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Atsilygindami lietuviai surengė 31 puolimą į vakarus ir 11 puolimų į Livoniją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Atsi-
+    lygindami, lietuviai irgi puldavo kryžiuočius, tik daug rečiau: tuo
+    metu į vakarus jie padarė 31 puolimą, o į Livoniją tik 11.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'Lietuviai pateikė savą projektą, pagal kurį bendras karalius turėjo būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Po pirmų susidūrimų lietuviai pareikalavo, kad lenkai savo pa-
+    siūlymus pateiktų raštu. Gavę juos, po trijų dienų lietuviai atnešė len-
+    kams savo projektą; lietuvių projektu, bendrai rinktas karalius tu-
+    rįs būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu; kol
+    nebūsiąs pakeltas, tol negalėsiąs turėti Lietuvoje valdžios.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Lietuviai siūlė bendrą gynimąsi ir bendrus seimus, bet saviems reikalams norėjo atskirų seimų ir urėdų Lietuvoje tik lietuviams.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bendras
+    turįs būti gynimasis nuo priešų ir bendri seimai, bet juose turį būti
+    sprendžiami tik abi valstybes liečią reikalai. Seimai turį rinktis pakai-
+    tomis Lietuvoj ir Lenkijoj. Savitiems reikalams abiejose valsty-
+    bėse turį būti atskiri seimai. Urėdai Lietuvoje turį būti duodami
+    tik lietuviams, bet įsigyti dvarų turį būti leidžiama tiek lenkams Lie-
+    tuvoje, tiek lietuviams Lenkijoje.
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-007
+
+- c-021
+  santrauka: 'Lietuviai dažnai verždavosi į Ordino kraštą, griaudavo Ragainės ir tolimesnes pilis, pasiekdavo Karaliaučiaus apylinkes.'
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Lietuviai taip pat dažnai įsiverždavo giliai į
+    ordino kraštą, išgriaudavo ne tik Ragainės, bet ir tolimesnes
+    pilis, pasiekdavo net Karaliaučiaus apylinkes. Tokiais žygiais
+    būdavo tik sunaikinamos pilys ir apylinkės; nei ordinas nei lie-
+    tuviai, įsiveržę į vieni kitų krašto gilumą ir sudeginę pilis, nega-
+    lėdavo ilgiau laikytis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+
+- c-022
+  santrauka: 'Lietuviai siūlė bendrą gynimąsi ir bendrus seimus, bet saviems reikalams norėjo atskirų seimų ir urėdų Lietuvoje tik lietuviams.'
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  citata_originali: |
+    Tačiau
+    dar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo
+    lenkų. Taip pat, nepaisydami unijos akto nuostatų, jie dar ilgai
+    šaukdavo ir savo atskirus seimus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-007
+
+- c-023
+  santrauka: 'Lietuviai slėpdavosi miškuose, rengdavo pasalas grįžtantiems kryžiuočiams ir keršydavo įsiverždami į Ordino kraštą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
+    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
+    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
+    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
+    smarkiai puldavo Lietuvą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+
+- c-024
+  santrauka: 'Lietuviai slėpdavosi miškuose, rengdavo pasalas grįžtantiems kryžiuočiams ir keršydavo įsiverždami į Ordino kraštą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasidalinę mažais būre­
+    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
+    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
+    netoli Karaliaučiaus, vėl susirinko krūvon. Mūšis pasibaigė di­
+    deliu lietuvių pralaimėjimu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+
+- c-025
+  santrauka: 'Lietuviai pateikė savą projektą, pagal kurį bendras karalius turėjo būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­
+    kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,
+    laikė Lietuvą savo provincija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-006
+
+- c-026
+  santrauka: 'Lietuviai slėpdavosi miškuose, rengdavo pasalas grįžtantiems kryžiuočiams ir keršydavo įsiverždami į Ordino kraštą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuviams, lais­
+    viems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­
+    pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­
+    bę drebėjo visos aplinkinės tautos, viso to buvo perdaug!
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+
+- c-027
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-010
+
+- c-028
+  santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo metu ir įvyko lietuvių puolimas iš
+    Žemaičių, o lenkų — netoli Sviečės.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-010
+    - t-004
+    - t-004
+    - t-006
+    - t-004
+    - t-010
+    - t-010
+
+- c-029
+  santrauka: 'Kildindamas lietuvius iš romėnų, istorikas papildė legendinę dalį Lietuvos žymių šeimų genealogijomis iš Romos patricijų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis
+    padarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų
+    Lietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų.
+    Mūsų istorikas painiojo chronologiją, net Lietuvos valdovų datas,
+    savo nuožiūra vis taisydamas, ar papildinėdamas Lietuvos Metraš­
+    čio žinias.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+- c-030
+  santrauka: 'Lietuviai, kaip teigiama citatoje, asimiliavo pietines žiemgalių ir sėlių sritis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Latvių ten atliktas asimiliacijos
+    faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių
+    sritis yra asimiliavę lietuviai.
+    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
+    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
+    mi kaip Liet’gola.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+
+- c-031
+  santrauka: 'Tuo tarpu pagonys lietuviai, kaip patvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų eiga su Vakarų Europos civilizacijos atstovais — ordino riteriais, buvo pasiekę, palyginti, aukštą kultūros laipsnį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tuo tarpu pagonys lietuviai, kaip
+    patvirtina rašytieji šaltiniai (XIII-XIV amž.) ir nepaliaujamų karų
+    eiga su Vakarų Europos civilizacijos atstovais — ordino riteriais,
+    buvo pasiekę, palyginti, aukštą kultūros laipsnį.
+    XI amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+- c-032
+  santrauka: 'XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir
+    Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
+    Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+- c-033
+  santrauka: 'Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pagal Dusbur­
+    gą, jiems talkos siuntę ir lietuviai, ir iki Mindaugo nužudymo yra
+    minimi (1262-63 m.) du jų žygiai į Prūsus208 *. Vienam jų vadovavo
+    «Lietuvos karaliaus sūnus Treniota» ( _Trinota_ ). Kitame žygyje,
+    talkininkaudami prūsams, lietuviai drauge su sūduviais vokiečius
+    puolė Semboje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+
+- c-034
+  santrauka: 'Mindaugas apjungė smulkias Lietuvos, ypač Aukštaitijos, kunigaikštijas vienoje valdžioje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Mindaugas lietuvių tautoje yra atlikęs svarbių uždavinių. Nuo
+    XIII amž. pradžios iš bendros pirmatako valdžios atsipalaidavusias
+    ir savaranniškomis tapusias smulkias Lietuvos, ypač Aukštaitijos,
+    kunigaikštijas jis apjungė vienoje valdžioje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+
+- c-035
+  santrauka: 'Lietuviai vėl stipriai puolė Livonijos kryžiuočius ir rengė intensyvius karo žygius į Lenkiją.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo
+    ranką. Lietuviai vėl stipriai pradėjo pulti Livonijos kryžiuočius ir
+    ėmė ruošti, kaip niekada iki tol, į _Lenkiją_ intensyvius karo žygius.
+    Nepertraukiani lietuvių žygiai Lenkijon nusitęsė iki 1306 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+
+- c-036
+  santrauka: 'Lietuviai prievarta imdavo žmones, galinčius vartoti ginklą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuviai prievarta imdavo galinčius ginklą
+    vartoti^248. Žiemgalos atsparumas prieš vokiečius tačiau ėmė
+
+    (^238) **LReim 8440-8444.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+
+- c-037
+  santrauka: 'Kronikininkas Posilgė apie lietuvius kautynių pabaigoje tepasakė, kad jie buvo atmušti.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šitas «bėgimas»
+    tačiau galėjo reikšti iš totorių paimtą taktiką — apsimesti bėgti,
+    kad būtų galima patraukti priešą ir suardyti jo eiles. Kronikininkas
+    Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie,
+    esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė,
+    kad jie buvę atmušti^26.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+
+- c-038
+  santrauka: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
+    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+
+- c-039
+  santrauka: 'Lietuvos vardas pirmąkart paminėtas 1009 m., bet lietuvių gentis iš rytų baltų turėjo išsiskirti anksčiau.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos vardo kilmė ir
+    sampratos likimas
+    Lietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsi-
+    rado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš kelioli-
+    ka amžių. Kalbininkai yra nustatę, kad lietuvių kalba atsiskyrė nuo latvių
+    apie VII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+
+- c-040
+  santrauka: 'Valstybės pakraščiuose Lietuvos valdovai galėjo įkurdinti ištikimus žmones iš Lietuvos, vadintus leičiais arba liečiais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+    vadina lietuvius „leišiais“), o gal ir „liečiais“. Taigi, Lietuvos vardas turėjo
+    atsirasti nuo etnonimo (susijusio su specifinėmis karinėmis funkcijomis)
+    „liečiai“ ar „leičiai“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+
+- c-041
+  santrauka: 'Mindaugas sukūrė didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių tautai ir vėliau perimti Vakarų civilizaciją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mindaugas sukūrė didžiausią ankstyvo-
+    sios Lietuvos istorijos kūrinį – valstybę, suteikusią galimybę išlikti lietuvių
+    tautai ir vėliau perimti Vakarų civilizaciją. Lietuva įžengė į istorijos areną,
+    kai Europa jau buvo pergyvenusi kryžiaus karų epochą (septintasis kry-
+    žiaus žygis vyko valdant Mindaugui, o paskutinis – aštuntasis neilgai
+    trukus po jo mirties).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+
+- c-042
+  santrauka: 'Užėmę svetimą kraštą, lietuviai iš pradžių veikiausiai nekeisdavo susiklosčiusios tvarkos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
+    bę svetimą kraštą, „nespausdavo“, t. y. iš pradžių nekeisdavo susiklosčiu-
+    sios tvarkos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+
+- c-043
+  santrauka: 'Lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų žemėvaldos tradicijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Atėję iš ryškią individualią alodinę nuosavybės struk-
+    tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-
+    tys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus
+    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
+    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
+    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
+    ūkis).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+
+- c-044
+  santrauka: 'Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+
+- c-045
+  santrauka: 'XVII–XVIII a. LDK dar gyvavo lietuvių nacija, suprasta kaip politinė tauta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    XVII–XVIII  a. formavosi ir bendra Abiejų Tautų Respublikos kaip
+    Lenkijos savimonė, tačiau šioje Lenkijoje aiškiai skiriant ir „kitą Lenki-
+    ją“. Ir vis dėlto net ir šiais vėlyvais amžiais gyvavo „lietuvių nacija“, LDK
+    „politinė tauta“. Tai patvirtina sudėtingos dvilypės savimonės formulės.
+    Pavyzdžiui, „gente polonus, natione lituanus“, ir „Лiцвiны грэцкага
+    закону людзi“ arba „Лiцвiны рус’кага рода“. Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
+    jasi Lietuvos Statutais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+
+- c-046
+  santrauka: 'Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal
+    tikėjimą – graikai katalikai, pagal politinę savimonę – lietuviai, o kalbėjo
+    lenkiškai.
+
+    Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino
+    Ostrogiškio, 1514 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+
+- c-047
+  santrauka: 'Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose
+    Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stipri-
+    nimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų). Gegužės
+    16 dieną buvo priimtas įstatymas dėl kiekvieno trečio seimo Gardine
+
+    L I E T U V O S  I S T O R I J A
+    92
+    ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių
+    Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda
+    komisijų įvardijimuose, atskirai vyksta kodifikacijos darbai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+
+- c-048
+  santrauka: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ta-
+    čiau pirmasis visuotinis Rusijos
+    imperijos gyventojų surašymas
+    1897 m. parodė, kad tarp etninių
+    lietuvių mokančių skaityti yra be-
+    maž pusė – 48 proc., o rusiškai iš
+    jų tepaskaitė tik kas penktas. Pa-
+    gal raštingumą etniniai lietuviai
+    bemaž du kartus lenkė Rusijos
+    vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai
+    mokėsi gimtąja kalba. Beje, ekspertus apstulbino tai, kad Kauno guber-
+    nijoje (skaičiuojant visus gyventojus) moterų raštingumas buvo didesnis
+    nei vyrų: atitinkamai 55 proc.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+
+- c-049
+  santrauka: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
+    Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėn-
+    raštį „Aušra“ („Auszra“). Pirmuoju redaktoriumi buvo tuomet Prahoje
+    gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indo-
+    europiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavi-
+    čius (1851–1927). Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
+    tautinio sąjūdžio jėgų telkimo priemone, į caro valdžią žiūrėjo iš opozicijos
+    pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
+    jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
+    imperijoje turi latviai ir estai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+
+- c-053
+  santrauka: 'Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
+    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
+    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
+    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
+    smarkiai puldavo Lietuvą.
+    Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
+    žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
+    mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­
+    kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo
+    nuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,
+    daug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,
+    kryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­
+    mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
+    sivesdami nelaisvėn.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+
+- c-054
+  santrauka: 'Po Ostrovos sutarties lietuviai savo valstybę laikė visiškai savarankiška.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­
+    kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu,
+    laikė Lietuvą savo provincija. Nuomonių skirtumas ir jų paaš­
+    trėjimas iškilo tuomet, kai ėmė didėti Vytauto galybė ir sava­
+    rankiškumas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+
+- c-055
+  santrauka: 'Lietuviams mokėti mokesčius ir taip pripažinti priklausomybę buvo laikoma per didele nuolaida.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuviams, lais­
+    viems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­
+    pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­
+    bę drebėjo visos aplinkinės tautos, viso to buvo perdaug! Už­
+    tat nenuostabu, kad tada pasklido gandai, esą Vytautas rengia­
+    si į karą prieš lenkus ar prieš totorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+
+- c-056
+  santrauka: 'Lietuvių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos karaliumi.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietu­
+    vių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­
+    liumi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+
+- c-057
+  santrauka: 'Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
+    kunigaikščių joje buvo per penkiasdešimt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+
+- c-058
+  santrauka: 'Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuvos kariuomenė
+    pradėjo rinktis gegužės mėn. pabaigoj ar birželio mėn.
+    pradžioj; rinkosi, tur būt, Trakuose ar Gardine.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+
+- c-059
+  santrauka: 'Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo metu ir įvyko lietuvių puolimas iš
+    Žemaičių, o lenkų — netoli Sviečės.
+    Į Červinską atvyko iš kryžiuočių pusės vengrų pasiuntiniai
+    klausti Jogailos, kur ir kada būtų galima pradėti taikos dery­
+    bas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+
+- c-060
+  santrauka: 'Lietuviai žygiavo pirmieji ir prie Gilgenburgo užpuolė bei paėmė miestelį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pirmutiniai žygiavo lietuviai. Kai visa kariuomenė apsistojo
+    netoli Gilgenburgo, lietuviai užpuolė tą miestelį ir jį paėmė.
+    Ordino magistras iš karto manė, kad sąjungininkai, pamatę Or­
+    dino galybę, pabėgs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+
+- c-061
+  santrauka: 'Lietuvių kariuomenė grįžo į mūšį tuo metu, kai sėkmė jau sviro kryžiuočių pusėn.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pabėgusios lietuvių kariuomenės sugrįžimas ir stojimas mūšin
+    tuo momentu, kai jau laimė sviro kryžiuočių pusėn, yra nepa­
+    prastas karo taktikos reiškinys. Nepaprastas iš vienos pusės
+    tuo, kad lietuviai taip greitai sugrįžo, o iš kitos pusės, kad sugrį­
+    žo kaip tik laiku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+
+- c-062
+  santrauka: 'Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lenkų ponų
+    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
+    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija. Lie­
+    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
+    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
+    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
+    teisę seniau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+
+- c-063
+  santrauka: 'Pirmasis lietuvių vardą yra paminėjęs vienas Karolio Didžiojo žvalgas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmasis lietuvių vardą yra
+    paminėjęs vienas Karolio Didžiojo žvalgas. Kurdamas savo
+    imperiją, Karolis norėjo žinoti, kokios tautos gyvena Europos
+    rytuose ir kokios jų jėgos. Todėl, kai Karolis pasiekė slavus, jo
+    agentai sužinojo, kad už slavų gyvena dar lietuviai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+
+- c-064
+  santrauka: 'Tuo tarpu lietuviai pulte puolė kryžiuočius, sugriovė net keletą jų pilių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo tarpu lietuviai pulte puolė kry-
+    žiuočius, sugriovė net keletą jų pilių. Ordinas jau gavo įsitikinti,
+    kad dideliu žygiu iš karto vis tiek negalės pavergti Lietuvos, to-
+    dėl griebėsi kitokios taktikos. Nedideli jo kariuomenės būriai
+    iš pasieninių pilių staiga įsiverždavo į Lietuvą ir, apiplėšę apylin-
+    kę, skubiai grįždavo į savo pilis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
+
+- c-065
+  santrauka: 'Sužinoję apie kryžiuočių žygį, lietuviai slėpdavosi miškuose ir iš pasalų puldavo grįžtančius kryžiuočius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Sužinoję apie kryžiuočių žygį, lietuviai skubė-
+    davo pasislėpti miškuose, iš kur tykodavo užpulti kryžiuočius,
+    dažnai jie sunaikindavo ištisą grįžtančių kryžiuočių būrį: kry-
+    žiuočių kelią staiga užvertę medžiais, patys iš visų pusių
+    supuolę juos išžudydavo. Be to, už tokiuos užpuolimus lietu-
+    viai keršydavo įsiverždami ir naikindami ordino kraštą. Tačiau
+
+    Kryžiuočiai grįžta iš nelaimingo žygio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+
+- c-066
+  santrauka: 'Atsilygindami, lietuviai irgi puldavo kryžiuočius, tik daug rečiau: tuo metu į vakarus jie padarė 31 puolimą, o į Livoniją tik 11.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Atsi-
+    lygindami, lietuviai irgi puldavo kryžiuočius, tik daug rečiau: tuo
+    metu į vakarus jie padarė 31 puolimą, o į Livoniją tik 11. Ta-
+    čiau dėl šitų kautynių kariaujančių valstybių sienos beveik ne-
+    sikeitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
+
+- c-067
+  santrauka: 'Lietuviai taip pat dažnai įsiverždavo giliai į ordino kraštą, išgriaudavo ne tik Ragainės, bet ir tolimesnes pilis, pasiekdavo net Karaliaučiaus apylinkes.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuviai taip pat dažnai įsiverždavo giliai į
+    ordino kraštą, išgriaudavo ne tik Ragainės, bet ir tolimesnes
+    pilis, pasiekdavo net Karaliaučiaus apylinkes. Tokiais žygiais
+    būdavo tik sunaikinamos pilys ir apylinkės; nei ordinas nei lie-
+    tuviai, įsiveržę į vieni kitų krašto gilumą ir sudeginę pilis, nega-
+    lėdavo ilgiau laikytis.
+    Karščiausios kovos ėjo Nemuno žemupy, žemiau Neries įta-
+    kos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-046
+
+- c-068
+  santrauka: 'Po pirmų susidūrimų lietuviai pareikalavo, kad lenkai savo pasiūlymus pateiktų raštu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Po pirmų susidūrimų lietuviai pareikalavo, kad lenkai savo pa-
+    siūlymus pateiktų raštu. Gavę juos, po trijų dienų lietuviai atnešė len-
+    kams savo projektą; lietuvių projektu, bendrai rinktas karalius tu-
+    rįs būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu; kol
+    nebūsiąs pakeltas, tol negalėsiąs turėti Lietuvoje valdžios. Bendras
+    turįs būti gynimasis nuo priešų ir bendri seimai, bet juose turį būti
+    sprendžiami tik abi valstybes liečią reikalai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-047
+
+- c-069
+  santrauka: 'Unijos projekte ir vėlesniuose ginčuose lietuviai reikalavo garantijos, kad Lietuvoje nebus vykdoma egzekucija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
+    lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
+    sianti vykdoma vadinamoji egzekucija.
+    Lenkai šitokiu lietuvių siūlomu projektu pasipiktino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-048
+
+- c-070
+  santrauka: 'Tačiau dar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo lenkų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau
+    dar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo
+    lenkų. Taip pat, nepaisydami unijos akto nuostatų, jie dar ilgai
+    šaukdavo ir savo atskirus seimus.
+    Lietuvos nesuliejo su Lenkija nė pats aktas: liko visiškai
+    atskira valstybės teritorija, atskira jos valdžia, atskira kariuo-
+    menė, atskiras iždas, atskiros teisės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-049
+
+- c-071
+  santrauka: 'Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš tokio
+    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
+    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
+    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
+    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-050
+
+- c-072
+  santrauka: 'Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai reiškia:
+    „Žemaitijos žemė yra ir visada bu­
+    vo vienas ir tas pats, kaip ir Lietu­
+    vos žemė: juk ta pati kalba ir tie pa­
+    tys žmonės; tik dėl to, kad žemaičių
+    žemė yra žemesnė už Lietuvos že­
+    mę, todėl ir vadinama Szomoyth, kas
+    lietuviškai reiškia - žemesnė žemė.
+    O žemaičiai Lietuvą vadina Auxto-
+    te, tai yra aukštesnė žemė palyginus
+    su Žemaitija. Visi žemaičiai nuo se­
+    nų laikų lietuviais save vadino, bet
+    niekados - žemaičiais, ir dėl tokio ta­
+    patumo mes mūsų titule nerašome
+    Žemaitijos vardo, nes viskas yra vie­
+    na - ir žemė, ir žmonės/'
+    3
+    Kraštas, lankytas normanų piratų iš
+    Švedijos, Norvegijos ir Danijos, už­
+    ėmė visą Baltijos jūros pakrantę nuo
+    Vyslos žiočių iki pat Suomijos įlan­
+    kos ir buvo jų vadinamas A ust u rweg.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-051
+
+- c-073
+  santrauka: 'Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nesunku numanyti, koks buvo Vilniaus, kaip miesto,
+    pradinis kūrimasis. Palei Vilnios upę esančios gyvenvietės
+    senbuviai lietuviai, greta jų Perkūną garbinę vaidilos ir jų
+    svitai priklausę žmonės - tokia tad būsimo miesto užuomaz­
+    ga dar iki Gedimino. Kai tas galingas valdovas įsakė ant kal­
+    no sumūryti pilį ir papėdėje pastatyti medinę tvirtovę, už­
+    12
+    R a y n a 1  d u s Annal.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-052
+
+- c-074
+  santrauka: 'Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Su trigubai di­
+    desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
+    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
+    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-053
+
+- c-075
+  santrauka: '1385 m. pabaigoje Jogaila, lydimas gausios lietuvių kunigaikščių ir didikų svitos, išvyko į Krokuvą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Juk kai per Jogai­
+    los apsukrų laviravimą žlugo visos kryžiuočių jam daromos
+    kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos
+    valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­
+    gaikščių ir didikų svitos lydimas išvyko į Krokuvą.
+    Miesto, kurio istorijos įvykius keliame iš užmaršties, li­
+    kimas glaudžiai susijęs su viso krašto likimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-054
+
+- c-076
+  santrauka: 'Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-055
+
+- c-077
+  santrauka: 'Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
+    Šv. Kryžiaus Išaukštinimo dieną, kai Prūsijos vyresnybė iš­
+    vyko į Marienburgą, į kapitulą, gausus jų pulkas užgriūna
+    tą kraštą, nužudo nuo šešių iki aštuonių tūkstančių abiejų
+    lyčių gyventojų1  arba juos išsiveda į nelaisvę iki gyvos galvos;
+    shin aiškina: dry vlihuyser, taip pat
+    Łuk.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-056
+
+- c-078
+  santrauka: 'Po šv. Grigaliaus šventės lietuviai įsiveržė į Memelį, sudegino miestą su priemiesčiais ir paėmė belaisvių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Gregorii
+    iidem Lytvini civitatem Memelam ar­
+    m ata manu intraverunt hostiliter et eam
+    cum suburbiis suis preter solum cast­
+    rum muro circumdatum, in quo fratres
+    ejusdem ordinis morantur, ceperunt,
+    cremaverunt et penitus destruxerunt,
+    multos ibidem occidentes homines ac
+    eciam captivantes virgines, mulieres et
+    alios quos rapere valuerunt [Tais pa­
+    čiais metais po pal. Grigaliaus šven­
+    tės tie patys lietuviai į Memelio
+    miestą ginkluota jėga priešiškai įsi­
+    veržė ir jį su jo priemiesčiais, išsky­
+    rus pačią pilį, apjuostą siena, kurio­
+    je to paties Ordino brolių būta,
+    paėmė, sudegino ir iki pamatų su­
+    griovė, ten pat daugybę žmonių nu­
+    žudė ir paėmė į nelaisvę merginų,
+    moterų ir kitų, kuriuos tik įstengė
+    pagrobti].
+    g
+    Dyploma tą patį byloja ir Wehlau va­
+    dina Wilnnouwe.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-057
+
+- c-079
+  santrauka: 'Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir kaip tik
+    70
+
+    ## Puslapis 87
+
+    I  KNYGA
+    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
+    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
+    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
+    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
+    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
+    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-058
+
+- c-081
+  santrauka: 'Dalis lietuvių diduomenės ir paprastų žmonių, kaip manyta, nekeisianti senojo gyvenimo būdo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau ka­
+    dangi daugelis pavienių lietuvių iš diduomenės ir paprastų
+    žmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis
+    su tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­
+    tuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­
+    spenso antequam fidem christi suscipiant et baptismum, quemad­
+    modum in litteris pollicentur prelibatis, in Christianos quod absit,
+    aut in res, terras seu personas eorundem manus mitterent virulen­
+    tas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­
+    dem non servanti minime debeat observari, in ipsos cogentur fidei
+    contumeliam vindicare, atque hoc facientes promissi sui inveniri
+    nolunt circa premissa transgressores [Jei minėtas reikalas atsi­
+    durs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­
+    jimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,
+    į krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių
+    asmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,
+    baimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­
+    jančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­
+    kėjimo niekinimą įveikti ir šitai darydami dėl savo pažado
+    nenori pažeidėjų atskleisti].
+    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
+    biniame pranešime (Notariats instrument), į kurį taip pat buvo
+    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
+    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
+    ve, ir tik iš jo su tais laiškais galima susipažinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-060
+
+- c-082
+  santrauka: 'Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius kautis su pagonimis lietuviais, ga­ lėjo kryžiuočius prieš kelerius me­ tus su tuo bombardų išradimu su­ pažindinti, galėjo ir Gediminas nuo jų žūti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Anglų riteriai, ne kartą draugėj su
+    kryžiuočiais ėję į kryžiaus žygius
+    kautis su pagonimis lietuviais, ga­
+    lėjo kryžiuočius prieš kelerius me­
+    tus su tuo bombardų išradimu su­
+    pažindinti, galėjo ir Gediminas nuo
+    jų žūti.
+    - • —
+    103
+
+    ## Puslapis 120
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių
+    paimtos Prūsijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-061
+
 - c-083
   santrauka: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -239,6 +1783,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-062
+
 - c-084
   santrauka: 'Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -256,6 +1801,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-063
+
 - c-085
   santrauka: 'Dusburgietis teigia, kad 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -278,6 +1824,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-064
+
 - c-086
   santrauka: 'Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -292,6 +1839,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-065
+
 - c-087
   santrauka: 'Dusburgietis teigia, kad romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,— prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -305,6 +1853,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-066
+
 - c-089
   santrauka: 'Dusburgietis teigia, kad šiuo metu lietuviai ir kiti tose žemėse gyvenantys netikėliai tą auką degina toje ar kitoje vietoje, kurią jie laiko šventąja, bet, prieš degindami arklius, taip juos nuvaro nuo kojų bevaikydami, kad šie vos begali pastovėti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -323,6 +1872,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-068
+
 - c-091
   santrauka: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -346,6 +1896,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-070
+
 - c-092
   santrauka: 'Dusburgietis teigia, kad apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -364,6 +1915,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-071
+
 - c-093
   santrauka: 'Dusburgietis teigia, kad šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o minėtasis Henrikas savo balistos paleista strėle pataikė vienam kilmingam ir galingam lietuvių vadui ir jį nukovė, o paleidęs [strėlę] į kitą priešo kariuomenės dalį, pataikė vienam.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -388,6 +1940,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-072
+
 - c-094
   santrauka: 'Dusburgietis teigia, kad įniršęs dėl tokio savo žmonių pralaimėjimo ir tokių didelių nuostolių, patirtų Kulmo žemėje, Skomantas, sūduvių vadas, su 4 tūkstančiais savo gentainių ir stipria lietuvių kariuomene spalio 21 dieną įsiveržė į Kulmo žemę 11 tūkstančių mergelių dieną481.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -408,6 +1961,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-073
+
 - c-096
   santrauka: 'Dusburgietis teigia, kad dar apie tą patį: apie aštuonių šimtų lietuvių žūtį Neilgai trukus aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų toje Lenkijos žemės dalyje, kuri vadinama Kersovu, ir, išžudę daugybę krikščionių, pasitraukė su dideliu grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -431,6 +1985,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-075
+
 - c-097
   santrauka: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Šio magistro brolio Mangoldo vadovavimo metais sūduviai, be galo brolių kamuojami mūsų aprašytais ir neaprašytais smūgiais, didžiai krimtosi ir degė prieš juos neapsakomu įtūžiu, todėl pradėjo tartis, kaip būtų galima atkeršyti už.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -451,6 +2006,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-076
+
 - c-098
   santrauka: 'Dusburgietis teigia, kad apie vienos Sembos dalies nusiaubimą 1283 viešpaties metų žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją509 įsibrovė į Sembos žemę ir, degindami bei piešdami, nusiaubė du jos valsčius, būtent: Abendą ir Pabečius510; nužudę 150 krikščionių, jie.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -472,6 +2028,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-077
+
 - c-099
   santrauka: 'Dusburgietis teigia, kad apie naujos pilies pastatymą Sūriosios jūros pakrantėje, Sembos žemėje, Kuršių nerijoje Brolis Konradas, magistras, išmintingas ir apdairus vyras, suprasdamas, kad, braudamiesi per neriją tuo slaptuoju keliu, netikėliai gali pridaryti daug nuostolių bei žalos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -495,6 +2052,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-078
+
 - c-100
   santrauka: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis, o grobio išsigabeno palyginti nedaug, nes broliai iš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -519,6 +2077,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-079
+
 - c-101
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip Ragainės broliai nukovė 25 lietuvius Po šio įvykio lietuviai taip suįžūlėjo, kad susigalvojo, patraukę švento Jono Krikštytojo dieną (birželio 25) iš netoliese buvusios Aukaimio pilies apylinkių su 36 vyrais, patrikdyti plėšikiškais išpuoliais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -536,6 +2095,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-080
+
 - c-102
   santrauka: 'Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pačiais metais ir tuo pačiu laiku lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją ir, neskaitant kitų ten pridarytų piktadarybių, išsigabeno didelį grobį: išsivarė daug žmonių ir išsivežė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -554,6 +2114,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-081
+
 - c-106
   santrauka: 'Dusburgietis teigia, kad apie Aukaimio valsčiaus nusiaubimą Tais pačiais metais, apaštalų švento Petro ir švento Povilo dieną (birželio 29), brolis Henrikas Cutsvertas, minėtasis Baigos komtūras, su 20 brolių ir tūkstančiu penkiais šimtais vyrų išjojo537 link Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -575,6 +2136,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-085
+
 - c-107
   santrauka: 'Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -594,6 +2156,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-086
+
 - c-108
   santrauka: 'Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -614,6 +2177,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-087
+
 - c-112
   santrauka: 'Dusburgietis teigia, kad apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten nužudė ar išsivarė į nelaisvę beveik 200 krikščionių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -630,6 +2194,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-091
+
 - c-113
   santrauka: 'Dusburgietis teigia, kad apie Lubavos žemės nusiaubimą ir 15 lietuvių žūtį 1303 metais Tais pačiais metais penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę; į priekį jie pasiuntė vieną vyrą, mokantį kalbėti lenkiškai, įsakę jam gerai išžvalgyti, kas ten dedasi; kai jis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -649,6 +2214,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-092
+
 - c-114
   santrauka: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, karalius buvo susišaukęs beveik visus savo karalystės galingesniuosius į tam tikrą pasitarimą, arba tarybą [in... tractatu, seu parlamento], ir, šitai sužinojęs, leidosi pavymui su tūkstančiu penkiais šimtais vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -664,6 +2230,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-093
+
 - c-115
   santrauka: 'Dusburgietis teigia, kad tada įniršę broliai nubaudė nusidėjėlius ir nužudė 17 Lietuvos karalystės galingesniųjų bei daugybę paprastų žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -685,6 +2252,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-094
+
 - c-116
   santrauka: 'Dusburgietis teigia, kad tačiau Lietuvos karalius, išgirdęs, jog sunaikintas šios pilies papilys, nusiuntė pilies ginti daugybę rinktinių bei įgudusių karių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -701,6 +2269,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-095
+
 - c-117
   santrauka: 'Dusburgietis teigia, kad apie šio laivo sudeginimą 1313 metais Pasklidus apie šį laivą garsui, smarkiai susirūpino lietuvių karalius, o su juo ir visa Lietuva; ilgai taręsi ir visaip svarstę, kaip jį sunaikinti, galop pasiuntė kilmingą bei karingą vyrą Surminą su šimtu laivų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -727,6 +2296,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-096
+
 - c-118
   santrauka: 'Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo dienos (sausio 1), tas pats brolis Henrikas, maršalas, su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių569; keli lietuviai, naktį įsibrovę į jo palapines, nužudė 4 vyrus ir išsivarė du.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -745,6 +2315,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-097
+
 - c-119
   santrauka: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -766,6 +2337,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-098
+
 - c-120
   santrauka: 'Dusburgietis teigia, kad apie Ragainės pilies užpuolimą 1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -786,6 +2358,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-099
+
 - c-122
   santrauka: 'Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -806,6 +2379,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-101
+
 - c-123
   santrauka: 'Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1316 metais Tų pačių metų vasarą brolis Hugonas, Sembos fogtas, išjojo, maršalo įsakytas, su aštuoniais šimtais vyrų link Medininkų valsčiaus, o Ragainės broliai, palikę tinkamoje vietoje pasalą, įsiveržė [į.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -830,6 +2404,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-102
+
 - c-125
   santrauka: 'Dusburgietis teigia, kad lietuvių karas su kryžiuočiais / Redagavo J.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -844,6 +2419,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-104
+
 - c-126
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -863,6 +2439,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-062
+
 - c-127
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -880,6 +2457,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-068
+
 - c-128
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -902,6 +2480,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-068
+
 - c-129
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -922,6 +2501,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-080
+
 - c-130
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -941,6 +2521,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-071
+
 - c-131
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -962,6 +2543,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-099
+
 - c-132
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -983,6 +2565,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-068
+
 - c-133
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1002,6 +2585,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-077
+
 - c-134
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1017,6 +2601,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-068
+
 - c-135
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1032,6 +2617,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-080
+
 - c-136
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1048,6 +2634,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-097
+
 - c-137
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1068,6 +2655,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-099
+
 - c-138
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1086,6 +2674,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-087
+
 - c-139
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1101,6 +2690,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-099
+
 - c-140
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1120,6 +2710,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-097
+
 - c-141
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1138,6 +2729,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-099
+
 - c-142
   santrauka: Lietuviai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -2005,6 +3597,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/Kilmingieji]]
 - [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Krivis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Latviai]]
@@ -2026,7 +3619,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/posakiai/negęstančiąją ugnį]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/daiktai/Žirgai]]
@@ -2122,7 +3714,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Konradas iš Foichtvangeno]]
 - [[objektai/ivykiai/Konrado misionieriaus nužudymas Lietuvoje (1285-1287 m.)]]
 - [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]
-- [[objektai/asmenys/Krivis]]
 - [[objektai/grupes/Krymo totoriai]]
 - [[objektai/posakiai/Kur atrasime didesnių skriaudų, didesnės neteisybės, smurto, nedorumo ir turto gobšumo, jei ne tarp krikščionių žmonių]]
 - [[objektai/autoriai/Kurschat A]]
@@ -2261,6 +3852,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/zodynas/terra žemė]]
 - [[objektai/zodynas/tikybos ir bažnyčios priešai]]
 - [[objektai/zodynas/turma]]
+- [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/zodynas/valstybingumo idėja]]
 - [[objektai/zodynas/viešpaties darbas opus domini]]
 - [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]

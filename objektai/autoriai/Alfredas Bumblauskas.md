@@ -205,7 +205,10 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/grupes/Vilniaus universiteto leidykla]]
+- [[objektai/ivykiai/Mindaugo karūnacija]]
+- [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/monografija]]
+- [[objektai/zodynas/pagonybė]]

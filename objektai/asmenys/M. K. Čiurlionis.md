@@ -22,38 +22,36 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'M. K. Čiurlionis buvo dailininkas ir kompozitorius, siejamas su Lietuvos Respublikos ištakomis.'
+  teiginys: 'Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Po J. Stalino mirties „atšilimo“ laikotarpiu buvo išspausdinta M. K. Čiurlionio kūrybos albumų.'
+  teiginys: 'Čiurlionio kūrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'M. K. Čiurlionis buvo dailininkas ir kompozitorius, siejamas su Lietuvos Respublikos ištakomis.'
+  santrauka: 'Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
-    1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
-    nacionaliniais pagrindais – Lietuvos Respubliką. Jos ištakose – ir didžiau-
+    Jos ištakose – ir didžiau-
     sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
     tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
     čius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Po J. Stalino mirties „atšilimo“ laikotarpiu buvo išspausdinta M. K. Čiurlionio kūrybos albumų.'
+  santrauka: 'Čiurlionio kūrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
@@ -63,13 +61,27 @@ tags:
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Čiurlionio muziejaus senojo meno ekspozicija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
+    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
+    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

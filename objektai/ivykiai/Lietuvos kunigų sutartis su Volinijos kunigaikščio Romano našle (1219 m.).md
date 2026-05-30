@@ -138,4 +138,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]

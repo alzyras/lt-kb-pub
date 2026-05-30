@@ -13,19 +13,20 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: '1936 m. (veikalo sudarymo kontekstas); 1970 m. spalių mėn. 15 d.; 1930 m. (veikalo sudarymo kontekstas)'
+datos:
+  - '1930 m.'
+  - '1970 m.'
 vaidmenys:
   - 'autorius'
   - 'istorikas'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Zenonas Ivinskis
 
@@ -45,186 +46,146 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - Jogailos santykiai su Kęstučiu ir Vytautu iki 1392 m.
 
 ## Teiginiai
-- t-011
-  teiginys: 'Įžangoje nurodoma, kad jaunieji istorikai į pasitarimą dėl knygos buvo susirinkę Z. Ivinskio pakviesti.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-012
-  teiginys: 'Zenonas Ivinskis parašė skyrių „Vytauto jaunystė ir jo veikimas iki 1392 m.“.'
+- t-001
+  teiginys: 'Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-013
-  teiginys: '### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # RINKTINIAI RAŠTAI I Tomas ## LIETUVOS ISTORIJA Iki Vytauto Didžiojo mirties ### ROMA 1978 ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # LIETUVOS ISTORIJA ### IKI VYTAUTO DIDŽIOJO.'
+- t-002
+  teiginys: 'Zenonas Ivinskis savo vardu ir pavarde pasirašė veikalo pratarmę Bonoje 1970 m. spalio 15 d.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Bibliografinėje nuorodoje Z. Ivinskis nurodomas kaip darbo „Jogaila“ autorius.'
   pagrindžia:
     - c-003
-- t-014
-  teiginys: 'Zenonas Ivinskis 1970 m. spalio 15 d. buvo Bonoje.'
-  pagrindžia:
-    - c-004
-- t-015
-  teiginys: 'Zenonas Ivinskis parašė straipsnį „Jogaila“, nurodytą Lietuvių enciklopedijos 9 tome.'
-  pagrindžia:
-    - c-005
-- t-016
-  teiginys: 'Zenonas Ivinskis paskelbė darbą „Die baltische Frage im 17. Jahrhundert“ leidinyje „Der Ostseeraum im Blickfeld der deutschen Geschichte“.'
-  pagrindžia:
-    - c-006
-- t-017
-  teiginys: 'Zenonas Ivinskis paskelbė tekstą „Prel. Pr. Penkauskas“ LASD 1961 m. IV tome.'
-  pagrindžia:
-    - c-007
-- t-018
-  teiginys: 'Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
-  pagrindžia:
-    - c-008
-- t-019
-  teiginys: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
-  pagrindžia:
-    - c-009
-- t-020
-  teiginys: 'Zenonas Ivinskis buvo vienas leidinio „Vytautas Didysis“ autorių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Ivinskis, Z. (Bražėnas) nurodomas kaip tekstų „Lietuvių tautos istorijos periodizacijos metmens“ ir „Lietuvos ir kitų baltų praeitis sovietų aiškinime“ autorius.'
   pagrindžia:
     - c-010
+    - c-009
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Z. Ivinskis siejamas su vokišku straipsniu „Die baltische Frage im 17. Jahrhundert“.'
+  pagrindžia:
+    - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Z. Ivinskis minimas tarp autorių, laikiusių Gedimino laiškus glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
+  pagrindžia:
+    - c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Ivinskis, Z. siejamas su studija „Die Handelsbeziehungen Litauens mit Riga im 14. Jh.“ ir straipsniu „Gedimino pilis“.'
+  pagrindžia:
+    - c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Ivinskis, Z. siejamas su studijomis „Vytauto jaunystė ir jo veikimas iki 1392 m.“ ir „Jogailos santykiai su Kęstučiu ir Vytautu iki 1392 m.“.'
+  pagrindžia:
+    - c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Įžangoje nurodoma, kad jaunieji istorikai į pasitarimą dėl knygos buvo susirinkę Z. Ivinskio pakviesti.'
+  pagrindžia:
+    - c-011
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Turinyje Z. Ivinskiui priskiriamas skyrius „Vytauto jaunystė ir jo veikimas iki 1392 m.“.'
+  pagrindžia:
+    - c-012
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zenonas Ivinskis parašė skyrių „Vytauto jaunystė ir jo veikimas iki 1392 m.“.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Z. Ivinskis. Vytauto jaunystė ir jo veikimas iki 1392 m. 1
-  citata_rodoma: ""
+    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
+    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
+    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
+    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
+    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
+    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
+    tymą ir nepriklausomojo gyvenimo laikotarpį.
+  citata_rodoma: |
+    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo; p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
-- c-002
-  santrauka: 'Įžangoje nurodoma, kad jaunieji istorikai į pasitarimą dėl knygos buvo susirinkę Z. Ivinskio pakviesti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl jaunieji
-    istorikai, suprasdami tą didelį trūkumą ir tautos savigarbą, Z.
-    Ivinskio pakviesti susirinkome pasitarti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-011
-- c-003
-  santrauka: '### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # RINKTINIAI RAŠTAI I Tomas ## LIETUVOS ISTORIJA Iki Vytauto Didžiojo mirties ### ROMA 1978 ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # LIETUVOS ISTORIJA ### IKI VYTAUTO DIDŽIOJO.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA
-
-    ### ZENONAS IVINSKIS
-
-    # RINKTINIAI RAŠTAI
-
-    ```
-    I Tomas
-    ```
-    ## LIETUVOS ISTORIJA
-
-    ```
-    Iki Vytauto Didžiojo mirties
-    ```
-    ### ROMA 1978
-
-
-    ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA
-
-    ### ZENONAS IVINSKIS
-
-    # LIETUVOS ISTORIJA
-
-    ### IKI VYTAUTO DIDŽIOJO MIRTIES
-
-    ```
-    1978
-    Lietuvių Katalikų Mokslo Akademija
-    Piazza della Pilotta 4
-    Roma
-    ```
-
-    ```
-    Spaustuvės išlaidos apmokėtos
-    Lietuvių Fondo ir L.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-013
-- c-004
-  santrauka: 'Zenonas Ivinskis 1970 m. spalio 15 d. buvo Bonoje.'
+    - t-001
+- c-002
+  santrauka: Autorius savo vardu ir pavarde pasirašo veikalo pratarmę.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    **Zenonas Ivinskis**
+    Zenonas Ivinskis**
     Bonn, 1970 m. spalių mėn. 15 d.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-014
+    - t-002
+- c-003
+  santrauka: Bibliografinė nuoroda Z. Ivinskį tiesiogiai sieja su darbu „Jogaila“.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Žr. Z. Ivinskis :** **_Jogaila,_** **LE, t. 9, 427 p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Citata pagrindžia Ivinskio, kaip dviejų istoriografinių tekstų autoriaus, bibliografinį įrašą.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ivinskis, Z. (Bražėnas) : _Lietuvių tautos istorijos periodizacijos met-
+    mens,_ Tremtinių Mokykla, 1946 (Weilheim-Teck, Vokietija), nr. 3-4,
+    55-65 p. — Ivinskis, Z. : _Lietuvos ir kitų baltų praeitis sovietų aiškinime,_
+    Į Laisvę, 1957, m. 12, 13-19 p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 - c-005
-  santrauka: 'Zenonas Ivinskis parašė straipsnį „Jogaila“, nurodytą Lietuvių enciklopedijos 9 tome.'
+  santrauka: Citata pagrindžia Z. Ivinskio straipsnį apie baltų klausimą XVII a.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    (^12) **Žr. Z. Ivinskis :** **_Jogaila,_** **LE, t. 9, 427 p.
+    Z. Ivinskis:** **_Die baltische Frage im 17_****. Jahrhundert, leidiny:** **_Der
+    Ostseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-015
+    - t-005
 - c-006
-  santrauka: 'Zenonas Ivinskis paskelbė darbą „Die baltische Frage im 17. Jahrhundert“ leidinyje „Der Ostseeraum im Blickfeld der deutschen Geschichte“.'
+  santrauka: Z. Ivinskis minimas tarp autorių, aiškinusių Gedimino laiškų kilmę kaip politinio veikimo produktą.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    karas baigėsi « amžinąja taika » didžiojo Lietuvos kuni­
-    gaikščio Aleksandro Kazimieraičio moteryste su Jono III-jo dukra
-
-    (^19) **Z. Ivinskis:** **_Die baltische Frage im 17_****. Jahrhundert, leidiny:** **_Der
-    Ostseeraum im Blickfeld der deutschen Geschichte,_** **Köln-Wien 1970, 119-140 p.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-016
-- c-007
-  santrauka: 'Zenonas Ivinskis paskelbė tekstą „Prel. Pr. Penkauskas“ LASD 1961 m. IV tome.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jis tapo Lietuvos istorijos srityje ne tik tikruoju
-    jaunos kartos istorikų auklėtoju Vilniaus universitete, bet dar
-
-    (^84) **Z. Ivinskis :** **_Prel. Pr. Penkauskas_** **, LASD, 1961, IV t., 264-267 p.**
-    (^85) **K.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
-- c-008
-  santrauka: 'Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lenkai
     ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­
     kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
     rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
@@ -233,52 +194,89 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: 'Citata autoriaus vardą pateikia sutrumpinta forma, bet bibliografinis ir istoriografinis kontekstas yra aiškus.'
   pagrindžia:
-    - t-018
-- c-009
-  santrauka: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+    - t-006
+- c-007
+  santrauka: Bibliografinė nuoroda Z. Ivinskį sieja su Lietuvos ir Rygos santykių bei Gedimino pilies studijomis.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pasak Z. Ivinskio,
-    kadangi tai ne lokaliniai, o plataus masto
-    veiksmai, vykę Lietuvos vakaruose, tai
-    4000 lietuvių pajėgas reikia suprasti kaip
-    jungtines žemaičių ir paties Lietuvos val-
-    dovo karaliaus Mindaugo karines pajėgas,
-    nukreiptas prieš Ordiną.
-
-    26 DURBĖS MŪŠIS 1260 m.
+    Ivinskis, Z. : _Die Handels­
+    beziehungen Litauens mit Riga im 14. Jh.,_ Primus Congr. Histor. Balti-
+    eorum, Riga 1938, 276-285 p. — (”) _Gedimino pilis,_ LE, t. 7, 75-76 p
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-019
+    - t-007
+- c-008
+  santrauka: Citata pagrindžia Z. Ivinskio studijas apie Vytauto jaunystę ir Jogailos santykius su Kęstučiu bei Vytautu.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ivinskis, Z. : _Vytauto jaunystė ir jo veikimas iki
+    1392 m._ , rink. _Vytautas Didysis_ , red. P. Šležas, Kaunas 1930, 1-44 p.
+    — (”) _Jogailos santykiai su Kęstučiu ir Vytautu iki 1392 m._ , rink. _Jogaila,_
+    red. A. Šapoka, Kaunas 1935, 47-79 p
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: Z. Ivinskis papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ivinskis, Z. : _Lietuvos vakarų sienos bei Klaipėdos
+    klausimas Vytauto laikais_ , NaR, nr. 120 ir 121, 1933, 371-373, 385-
+    386 p. — (”) _Konstancos susirinkimas_ , LE, t. 12, 372-375 p
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: 'Citata automatiškai pririšta prie exact source offsetų.'
+  pagrindžia:
+    - t-004
 - c-010
-  santrauka: 'Zenonas Ivinskis buvo vienas leidinio „Vytautas Didysis“ autorių.'
+  santrauka: Z. Ivinskis papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Z. Ivinskis :** **_Prof. K. Jab­
+    lonskio atminimui (1892-1960). Jo įnašas Lietuvos istorijos mokslui,_** **Aidai,
+    1961, 1 nr., 18-22 p
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: 'Citata automatiškai pririšta prie exact source offsetų.'
+  pagrindžia:
+    - t-004
+- c-011
+  santrauka: Įžangoje Z. Ivinskis rodomas kaip pasitarimo dėl knygos iniciatorius.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    md"
-    completed_prompts: []
-    ---
-
-
-    # VYTAUTAS DIDYSIS
-
-    ## 1350 -
-
-    ```
-    Parašė:
-    ```
-    ##### A.Šapoka, Z. Ivinskis, V. Dėdinas, A. Kučinskas,
-
-    ##### S.
+    Todėl jaunieji
+    istorikai, suprasdami tą didelį trūkumą ir tautos savigarbą, Z.
+    Ivinskio pakviesti susirinkome pasitarti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-020
+    - t-009
+- c-012
+  santrauka: Turinyje Z. Ivinskiui priskiriamas skyrius apie Vytauto jaunystę ir veikimą iki 1392 m.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Z. Ivinskis. Vytauto jaunystė ir jo veikimas iki 1392 m. 1
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

@@ -46,5 +46,5 @@ Dusburgietis teigia, kad 206 D.— baculum. Krivės baculum buvo krivūlė — k
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Krivis]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]

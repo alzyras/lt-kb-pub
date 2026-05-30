@@ -141,6 +141,5 @@ Nenurodyta
 - [[temos/religinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/gabija]]

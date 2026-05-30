@@ -101,6 +101,5 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/prastuomenė communis populus ignobiles|prastuomenė / communis populus / ignobiles]]
 - [[objektai/zodynas/vergai]]
 - [[objektai/zodynas/žygis]]

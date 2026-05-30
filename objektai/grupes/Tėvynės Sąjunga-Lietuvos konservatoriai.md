@@ -20,24 +20,36 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 
 ## Teiginiai
 - t-001
-  teiginys: 'V. Landsbergio vadovaujami konservatoriai laimėjo 1996 m. Seimo rinkimus.'
+  teiginys: 'Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi L I E T U V O S I S T O R I J A 250 socialdemokratine, LDDP (vėliau susivienys.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Landsbergio vadovaujamus konservatorius.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'V. Landsbergio vadovaujami konservatoriai laimėjo 1996 m. Seimo rinkimus.'
+  santrauka: 'Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi L I E T U V O S I S T O R I J A 250 socialdemokratine, LDDP (vėliau susivienys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Per 1992 m. rinkimus į Sei-
-    mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų
-    sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.
-  citata_rodoma: ""
+    gistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Landsbergio vadovaujamus konservatorius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

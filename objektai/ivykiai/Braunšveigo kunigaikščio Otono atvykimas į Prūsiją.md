@@ -85,5 +85,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/asmenys/Otonas]]
 - [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]]

@@ -25,28 +25,40 @@ tags:
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Rusijai pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lietuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus, Naugarduko ir Brastos vaivadijų.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
-
-## Bibliografiniai įrodymai
 - c-001
   santrauka: '1793 m. (sausio 23 d.) Rusija pasirašė dalybų sutartį, kuria Prūsijai turėjo tekti dideli Lenkijos plotai, esantieji tarp abiejų Prūsų karalystės dalių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Grasydama padaryti taiką su Prancūzija,
-    Prūsija išgavo Austrijos ir Rusijos sutikimą, kad jai būtų ati-
-    duotas Dancigas su Tornu ir kai kurios kitos Lenkijos sritys.
-    Mat, Austrija bijojo likti viena prieš Prancūziją, o Rusija bijojo,
-    kad, atpalaidavusi rankas ir įsikišusi į Respublikos reikalus,
-    Prūsija gali privirti daug košės ar net sugriauti visus laimėji-
-    mus. Todėl 1793 m. (sausio 23 d.) Rusija pasirašė dalybų su-
+    1793 m. (sausio 23 d.) Rusija pasirašė dalybų su-
     tartį, kuria Prūsijai turėjo tekti dideli Lenkijos plotai,
     esantieji tarp abiejų Prūsų karalystės dalių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Rusijai pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lietuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus, Naugarduko ir Brastos vaivadijų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Rusijai pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lie-
+    tuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus,
+    Naugarduko ir Brastos vaivadijų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

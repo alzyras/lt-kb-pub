@@ -86,7 +86,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - t-014
   teiginys: 'Dusburgietis teigia, kad kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.'
   pagrindžia:
-    - c-012
+    - c-013
 - t-015
   teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
   pagrindžia:
@@ -193,7 +193,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   santrauka: 'Dusburgietis teigia, kad požėlos spaustuvė, Kaunas Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS Į ELEKTRONINĘ ERDVĘ“, 2013 TURINYS Pratarmė 5 Petro Dusburgiečio kronika 7 PRŪSIJOS ŽEMĖS KRONIKA 32 Pirma.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    K. Požėlos spaustuvė, Kaunas
+    Požėlos spaustuvė, Kaunas
 
 
     Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą
@@ -251,10 +251,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     Tarp jų ypatingą vietą užima Petro iš Dusburgo  „Prūsijos žemės kronika“, pateikianti
     daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir
     jo sąjungininkų agresiją XIII—XIV a. pirmame trečdalyje (iki 1330 m.).
-      Kad geriau suvoktume kronikoje vaizduojamus Prūsijos  ir Lietuvos istorijos faktus
-    bei epochą, iš pradžių aptarsime, kaip mokslo sprendžiami prūsų ir jų artimų giminaičių
-    lietuvių kalbiniai tarpusavio santykiai, bendradarbiavimo kovoje prieš Ordino agresiją
-    klausimai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -278,6 +274,19 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-013
+  santrauka: 'Dusburgietis teigia, kad kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą.
+      Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
+    įvykių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
     - t-014
 - c-014
   santrauka: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
@@ -295,8 +304,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
     šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
     nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
-    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
-    apreikšti dievo darbus yra šlovinga.
+    būsimosioms kartoms pamokyti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -365,7 +373,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]

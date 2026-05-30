@@ -9,27 +9,17 @@ saltiniai:
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: ""
+datos: []
+periodas: ""
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
 vaidmenys: []
 dalyviai:
   - Jogaila
 susije_irasai:
-  - [[objektai/asmenys/Jogaila|Jogaila]]
-datos:
-  - '1350 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
+  - [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila]]
 patikimumas: aukstas
 atnaujinta: '2026-04-24'
 tags: []
@@ -52,23 +42,66 @@ Tai krikšto proga dalijamas drabužis.
 Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 
 ## Kontekstas
-- Susijęs asmuo: [[objektai/asmenys/Jogaila|Jogaila]]
+- Susijęs asmuo: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila]]
 
 ## Teiginiai
-- t-005
-  teiginys: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
+- t-001
+  teiginys: Balti vilnoniai marškiniai buvo dalijami Jogailos vardu kaip krikšto dovana.
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
+- t-002
+  teiginys: Šie marškiniai simbolizavo nekaltąją sielą.
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: Dalis žmonių ėjo krikštytis vien dėl marškinių.
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
+- t-004
+  teiginys: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
+  santrauka: Nurodo marškinių dalijimą kaip krikšto dovanos praktiką ir jų simbolinę reikšmę.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kaip krikšto dovana, Jogailos vardu buvo
+    dalinami balti vilnoniai marškiniai, simbolizuoją nekaltąją sielą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+    - t-002
+- c-002
+  santrauka: Parodo, kad marškiniai buvo ir praktinė paskata eiti krikštytis.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kadangi tais laikais lietuviai paprastai nešiodavo lininius apdarus,
+    tai daug kas ėjo krikštytis jau vien dėl marškinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+- c-003
+  santrauka: Balti vilnoniai rūbai čia aiškinami liturginiu reikalavimu ir nekaltybės simbolika.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila besi­
@@ -81,26 +114,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-002
-  santrauka: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila besi­
-    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
-    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį. Tačiau dėl
-    šių nežymių dovanų vargu kas iš lietuvių būtų išsižadėjęs savo
-    seno tikėjimo, arba krikštijęsis keliskart, kad daugiau jų gautų,
-
-    (^1) ) Valachijoje (dabartinėje Rumunijoje).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

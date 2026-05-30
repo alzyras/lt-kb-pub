@@ -6,16 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1558 m.'
-  - '1583 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-date_start: '1558'
-date_end: '1583'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -30,117 +21,102 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kristupas Radvila buvo M. Radvilos šešiolikmetis sūnus, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu.'
+  teiginys: 'Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis, kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas Perkūnu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-002
-  teiginys: 'Birželio 2-3 d. Kristupas Radvila Perkūnas pasiuntė Jono Sicinskio dalinį, sudavusį antrą smūgį K. Carlsono Gyllenhielmo kariams.'
+  teiginys: 'Kristupas I Radvila Perkūnas, Mikalojaus R.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-003
-  teiginys: '1581 m. Kristupas Radvila Perkūnas su nedidele lietuvių kariuomene pasiekė Volgos aukštupį ir keliose vietose sumušė rusų kariuomenę.'
+  teiginys: 'Mikalojus Rudasis, paskui — jo sūnus Kristupas Perkūnas († 1603 m.), po jo — jo sūnus Jonušas (rokošininkas — † 1620 m.), vėliau—kitas sūnus Kristupas († 1640 m.) ir pagaliau — šio sūnus Jonušas, — tas pats, kurs 1655 m. padarė sutartį su Švedais.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-004
-  teiginys: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
+  teiginys: 'Savo karjeros pradžioje jis buvo Radvilų auklėtinis, jų dvariškis ir giminė (buvo vedęs Kristupo Radvilos Perkūno dukterį Elžbietą).'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-005
+  teiginys: 'Iš šių pragarsėjo žinomas Lietuvos kalvinų galva, hetmonas Kristupas, vadinamas Perkūnu († 1603 m.).'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kristupas Radvila buvo M. Radvilos šešiolikmetis sūnus, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis, kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas Perkūnu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    buvo geriausi kariai, kuriuos tuo metu
-    buvo galima surinkti. Greta didžiojo
-    etmono M. Radvilos buvo jo šešio-
-    likmetis sūnus Kristupas Radvila,
-    vėliau tapęs didžiuoju etmonu ir
-    vadintas Perkūnu, lauko etmo-
-    nas Grigalius Chodkevičius,
-    būsimasis lauko etmonas
-    Romanas Sanguška, būsima-
-    sis Livonijos etmonas Jonas
-    Chodkevičius ir daugelis kitų.
-
-    Žygimanto Augusto
-    paradiniai šarvai, pa-
-
-    gaminti Niunberge meistro
-    Kunzo Lochnerio, XVI a.
-    6 dešimtmetyje
-  citata_rodoma: ""
+    o Lietuvos kariuomenės vadas Jonas J.
+      Katkevičius teturėjo vos apie 4.600 karių (jų tarpe lenkų te-
+      buvo vos 300), todėl negalėjo spirtis. Neprisišaukdamas pa-
+      galbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju vadu
+      buvo paskirtas Vilniaus vaivada Mikalojus Radvila Rudasis,
+      kuriam padėjo sūnus, lauko hetmonas Kristupas, pramintas
+      Perkūnu.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Birželio 2-3 d. Kristupas Radvila Perkūnas pasiuntė Jono Sicinskio dalinį, sudavusį antrą smūgį K. Carlsono Gyllenhielmo kariams.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Kristupas I Radvila Perkūnas, Mikalojaus R.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    maistą ir amuniciją. Birželio 2-3 d. LDK di-
-    dysis etmonas Kristupas Radvila Perkūnas
-    pasiuntė rotmistrą Joną Sicinskį su dali-
-    niu, kuris sudavė antrą smūgį K. Carlsono
-    Gyllenhielmo kariams. Pagaliau birželio
-    23 d. prie Kuoknesės pagrindinė Lietuvos
-    kariuomenė stojo prieš švedų pajėgas.
-  citata_rodoma: ""
+    Kristupas I Radvila Perkūnas,
+      Mikalojaus R. Rudojo sūnus, — nuo
+      1572 m. kiemo hetmonas (jis pirma-
+      sis — nuo 1579 m. — pradėjo va-
+      dintis lauko hetmonu), nuo 1579 m.
+      Trakų kaštelionas ir vicekancleris,
+      nuo 1584 m. Vilniaus vaivada, o
+      nuo 1589 m. didysis hetmonas; di-
+      delis kalvinų globėjas († 1603 m.).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1581 m. Kristupas Radvila Perkūnas su nedidele lietuvių kariuomene pasiekė Volgos aukštupį ir keliose vietose sumušė rusų kariuomenę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Mikalojus Rudasis, paskui — jo sūnus Kristupas Perkūnas († 1603 m.), po jo — jo sūnus Jonušas (rokošininkas — † 1620 m.), vėliau—kitas sūnus Kristupas († 1640 m.) ir pagaliau — šio sūnus Jonušas, — tas pats, kurs 1655 m. padarė sutartį su Švedais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    prie Ūlos, kuriame Lietuvos kariuomenė
-    sutriuškino Rusijos kariuomenę. Jo ka-
-    rinis talentas išryškėjo Livonijos kare
-
-    su Rusija (1558-1583 m.), ypač užimant
-    Polocko tvirtovę. 1581 m. su nedidele lietu-
-    vių kariuomene jis pasiekė Volgos aukš-
-    tupį ir prie Šelonės upės, ties Mstislavliu,
-    Mogiliavu, Šklovu jis sumušė rusų kariuo-
-    mene.
-  citata_rodoma: ""
+    Mikalojus Rudasis, paskui — jo
+      sūnus Kristupas Perkūnas (†
+      1603 m.), po jo — jo sūnus
+      Jonušas (rokošininkas — † 1620
+      m.), vėliau—kitas sūnus Kristu-
+      pas († 1640 m.) ir pagaliau —
+      šio sūnus Jonušas, — tas pats,
+      kurs 1655 m. padarė sutartį su
+      Švedais.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Savo karjeros pradžioje jis buvo Radvilų auklėtinis, jų dvariškis ir giminė (buvo vedęs Kristupo Radvilos Perkūno dukterį Elžbietą).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Greta didžiojo
-    etmono M. Radvilos buvo jo šešio-
-    likmetis sūnus Kristupas Radvila,
-    vėliau tapęs didžiuoju etmonu ir
-    vadintas Perkūnu, lauko etmo-
-    nas Grigalius Chodkevičius,
-    būsimasis lauko etmonas
-    Romanas Sanguška, būsima-
-    sis Livonijos etmonas Jonas
-    Chodkevičius ir daugelis kitų.
-
-    Žygimanto Augusto
-    paradiniai šarvai, pa-
-
-    gaminti Niunberge meistro
-    Kunzo Lochnerio, XVI a.
+    Savo karjeros pradžioje jis buvo Radvilų
+      auklėtinis, jų dvariškis ir giminė (buvo vedęs Kristupo Radvilos
+      Perkūno dukterį Elžbietą).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -148,6 +124,20 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Iš šių pragarsėjo žinomas Lietuvos kalvinų galva, hetmonas Kristupas, vadinamas Perkūnu († 1603 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš šių pragarsėjo žinomas Lietuvos
+      kalvinų galva, hetmonas Kristupas, vadinamas Perkūnu
+      († 1603 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

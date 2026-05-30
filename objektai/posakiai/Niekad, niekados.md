@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -20,31 +21,50 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bajorija į kvietimą prisidėti prie Lietuvos atgaivinimo darbų atsakė straipsniais ir brošiūra su formule „Niekad, niekados“.'
+  teiginys: 'Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „Niekad, niekados".'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Griežčiausiai neigiamai atsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, niekados" (Przenigdy").'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bajorija į kvietimą prisidėti prie Lietuvos atgaivinimo darbų atsakė straipsniais ir brošiūra su formule „Niekad, niekados“.'
+  santrauka: 'Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „Niekad, niekados".'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuviai veikėjai, nepaisydami tokio nepalankaus bajorijos
-    nusistatymo, ne kartą kvietė ją prisidėti prie bendro tautos dar-
-    bo. Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
+    Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
     parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur
     jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
     nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-
     cialia brošiūra atsakė: „Niekad, niekados".
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Griežčiausiai neigiamai atsakė Krokuvoje išleista brošiūra, pavadinta „Niekad, niekados" (Przenigdy").'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Griežčiausiai neigiamai at-
+    sakė Krokuvoje išleista brošiūra, pavadinta „Niekad, nie-
+    kados" (Przenigdy"). Apskritai mūsų bajorijos nusistatymas buvo
+    laikytis Lenkijos ir remti lenkų kalbos įsigalėjimą Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

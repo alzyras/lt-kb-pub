@@ -11,22 +11,20 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1650 m."
-vaidmenys:
-  - "karo inžinierius"
-  - "veikalo autorius"
-dalyviai: []
-susije_irasai: []
 datos:
-  - '1579 m.'
   - '1650 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
-  - 'XVI'
   - 'XVII'
-date_start: '1579'
-date_end: '1650'
+date_start: '1650'
+date_end: ''
+vaidmenys:
+  - "karo inžinierius"
+  - "veikalo autorius"
+dalyviai: []
+susije_irasai: []
 patikimumas: "aukštas"
 atnaujinta: '2026-05-14'
 tags:
@@ -45,107 +43,101 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 - Didysis artilerijos menas
 
 ## Teiginiai
-- t-010
-  teiginys: 'Kazimieras Semenavičius vadintas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+- t-001
+  teiginys: "Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ vadinamas reikšmingiausiu karinės inžinerijos mokyklos darbu."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-011
-  teiginys: 'Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.'
+- t-002
+  teiginys: "„Artis magnae artilleriae“ siejamas su šiuolaikinės artilerijos ir kosmonautikos ištakomis bei daugiapakopių raketų teorija."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-012
-  teiginys: 'Kazimiero Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
+- t-003
+  teiginys: "K. Semenavičius vadinamas LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju."
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-013
+- t-004
   teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
   pagrindžia:
     - c-003
-- t-014
-  teiginys: 'Kazimieras Semenavičius buvo žymiausias LDK karo inžinierius ir daugiapakopių raketų teorijos kūrėjas.'
+- t-005
+  teiginys: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
   pagrindžia:
     - c-004
+- t-006
+  teiginys: 'Semenavičiaus raketų brėžiniai.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kazimieras Semenavičius vadintas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+  santrauka: Veikalas „Artis magnae artilleriae“ ir jo reikšmė karinės inžinerijos mokyklai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Iš šių
-    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
-    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
-    teorijos  kūrėjo K. Semenavičiaus veikalo
-    „Artis magnae artilleriae“  frontispisas, 1650 m.
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
-    - t-011
+    - t-001
+    - t-002
 - c-002
-  santrauka: 'Kazimiero Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
+  santrauka: Frontispiso antraštė Semenavičių vadina karo inžinieriumi ir raketų teorijos kūrėju.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nuo XIV a. ryčiausias Europoje du amžius
-    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-012
+    - t-003
 - c-003
   santrauka: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
-    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
-    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
-    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
-    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
-    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
-    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
-    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
-    orija.
-    XVII–XVIII a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-013
+    - t-004
 - c-004
-  santrauka: 'Kazimieras Semenavičius buvo žymiausias LDK karo inžinierius ir daugiapakopių raketų teorijos kūrėjas.'
+  santrauka: 'Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas, 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Iš šių
-    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
     Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
-    teorijos  kūrėjo K. Semenavičiaus veikalo
-    „Artis magnae artilleriae“  frontispisas, 1650 m.
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    81
-    fesoriai atnešė susiformavusius, katalikiškosios reformos paveiktus mo-
-    kymo principus ir didelius reikalavimus, intensyvaus mokymo sistemą, o
-    vilniečiai skleidė įtaką ne tik Lietuvoje (visų pirma lituanistiniai K.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-014
+    - t-005
+- c-005
+  santrauka: 'Semenavičiaus raketų brėžiniai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

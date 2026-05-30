@@ -21,29 +21,39 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 
 ## Teiginiai
 - t-001
-  teiginys: '1935 m. „Pienocentras“, supirkinėjęs iš valstiečių pieno produktus, triskart sumažino supirkimo kainas.'
+  teiginys: 'Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: '1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1935 m. „Pienocentras“, supirkinėjęs iš valstiečių pieno produktus, triskart sumažino supirkimo kainas.'
+  santrauka: 'Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1935 m. „Pienocentras“, su-
-    pirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo
-    kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
-    į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
-    Veiveriuose nušovė tris valstiečius, šimtus areštavo.
-  citata_rodoma: ""
+    geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

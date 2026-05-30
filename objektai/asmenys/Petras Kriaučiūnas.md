@@ -1,22 +1,13 @@
 ---
 tipas: asmuo
 pavadinimas: 'Petras Kriaučiūnas'
-sukurta: '2026-05-18'
+sukurta: '2026-04-25'
 variantai: []
 aliases: []
 saltiniai:
-  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1912 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
-date_start: '1912'
-date_end: ''
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - mokslininkas
@@ -25,37 +16,47 @@ tags:
 
 ## Santrauka
 
-Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika.
+Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią. Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
+  teiginys: 'Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvių mokslo draugijos iniciatorius ir
-    Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.
-    Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja
-    Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius,
-    Liudvika Didžiulienė-Žmona ir kt. (A. Jurašaičio nuotrauka)
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    127
-    pirmininkas buvo J.
-  citata_rodoma: ""
+    Iš jų išėjo tokie
+      lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiūnas ir visa
+      eilė vėlesnių „Aušros", „Varpo" ir kitų laikraščių bendradarbią.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vienu metu Marijampolės gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriaučiūnas, V.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vienu metu Marijampolės
+      gimnazijoje mokė net trys lietuviai mokytojai (Petras Kriau-
+      čiūnas, V. Staniškis ir J. Jasiulaitis).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

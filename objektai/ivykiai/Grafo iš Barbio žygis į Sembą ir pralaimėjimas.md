@@ -105,3 +105,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sembai]]
+- [[objektai/zodynas/maldininkai]]

@@ -8,9 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
 laikotarpis: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 datos:
   - '1525 m.'
   - '1586 m.'
@@ -21,6 +18,9 @@ amziai:
   - 'XVI'
 date_start: '1525'
 date_end: '1586'
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 patikimumas: aukštas
 atnaujinta: '2026-05-14'
 tags: []
@@ -32,27 +32,35 @@ tags: []
 Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės iškilęs asmuo, dažnai minimas tolerancijos tyrėjų.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).'
+- t-001
+  teiginys: 'Isaakas ben Abrahamas iš Trakų kilo iš LDK karaimų bendruomenės.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Isaakas ben Abrahamas iš Trakų šaltinyje pristatomas kaip tolerancijos tyrėjų dažnai minimas asmuo.'
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).'
+- c-001
+  santrauka: Isaakas ben Abrahamas iš Trakų siejamas su LDK karaimų bendruomene ir tolerancijos tyrimų lauku.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
     tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
-    Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos ir
-    persekiojamų Rusijoje – antrojoje XVII a.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
+  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-003
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

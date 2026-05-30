@@ -30,8 +30,14 @@ tags: []
 Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVIII a. civilizacinius fenomenus.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Formulė „duona, tolerancija, demokratija, konstitucija, barokas“ apibendrino XVII–XVIII a. Abiejų Tautų Respublikos reikšmingus fenomenus.'
+- t-001
+  teiginys: "Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,20 +45,19 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Formulė „duona, tolerancija, demokratija, konstitucija, barokas“ apibendrino XVII–XVIII a. Abiejų Tautų Respublikos reikšmingus fenomenus.'
+  santrauka: Citata pateikia formulę ir išskleidžia jos elementus.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Paprastai moksle laikoma, kad ši
-    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
-    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
+    duona, toleran-
     cija, demokratija, konstitucija, barokas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
   pagrindžia:
-    - t-004
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

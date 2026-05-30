@@ -1,13 +1,12 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'krašto magistras (kraštas)'
+pavadinimas: 'krašto magistras'
 sukurta: '2026-04-25'
-variantai:
-  - 'krašto magistras'
-aliases:
-  - 'krašto magistras'
+variantai: []
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -15,7 +14,7 @@ tags:
   - ordinas
   - sąvoka
 ---
-# krašto magistras (kraštas)
+# krašto magistras
 
 ## Santrauka
 
@@ -23,33 +22,50 @@ Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir 
 
 ## Teiginiai
 - t-001
-  teiginys: '1309 m. didžiajam magistrui su taryba persikėlus į Marijenburgą, Prūsijos krašto magistrai išnyko, nes vadovybę perėmė didysis magistras.'
+  teiginys: 'Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad. Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai didysis magistras.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Į atskiras ordino žemes būdavo skiriami vadinamieji krašto magistrai (Landmeister).'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1309 m. didžiajam magistrui su taryba persikėlus į Marijenburgą, Prūsijos krašto magistrai išnyko, nes vadovybę perėmė didysis magistras.'
+  santrauka: 'Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad. Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai didysis magistras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visų krašto magistrų
-    viršininku buvo Italijoje gyvenęs didysis magistras. Bet XIII
-    amž. pabaigoje jau buvo aišku, kad didžiausių perspektyvų ordi-
-    nas gali turėti tik Pabaltijy, nes iš Mažosios Azijos jis buvo
-    visiškai išvytas, o kadaise jo Vengrijoje turėtoji kolonija buvo
-    atimta, ir nebebuvo vilties ją atgauti. Todėl 1309 m. didysis ma-
+    Todėl 1309 m. didysis ma-
     gistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad.
     Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
     didysis magistras.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Į atskiras ordino žemes būdavo skiriami vadinamieji krašto magistrai (Landmeister).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Į atskiras ordino žemes būdavo skiriami vadinamieji
+    krašto magistrai _(Landmeister)._ Vienas toksai krašto magistras bu-
+    vo paliktas Mažojoj Azijoj, o kitas buvo Vokietijoj, kur buvo
+    daugybė išblaškytų ordino dvarų. Toks pats krašto magistras bu-
+    vo paskirtas ir Pabaltijui. Jis buvo vadinamas Prūsijos magistru.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -27,11 +27,31 @@ tags:
 Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII). Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.
 
 ## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII).'
+  pagrindžia:
+    - c-001
 - t-002
   teiginys: 'Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.'
   pagrindžia:
     - c-002
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Išliko padavimas apie kunigaikštį Katenoviškj, palaidotą aukštame Katenavos kape,
+    jo dukrą, palaidotą didžiajame kape Gentkutkampiuose (Jetkutkampiuose, per 6 km
+    į šiaurę nuo Katinavos, žr. Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš
+    gyvenimo vėlių.., p. XXXIII). Galimas daiktas, padavimas sietinas su kryžiuočių antpuolių
+    laikotarpiu?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
 - c-002
   santrauka: 'Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis Kampsvykalnis (Basanavičius J., Iš gyvenimo vėlių.., p. 190—191), per 400 m į pietus nuo Tamoviškių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -97,5 +97,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Pomandas]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/netikėliai]]

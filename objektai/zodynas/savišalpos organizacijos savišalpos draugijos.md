@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -20,30 +21,47 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Argentinoje dar prieš karą veikė smulkios lietuvių savišalpos organizacijos, nes daugiau lietuvių ten atvyko XIX a. pabaigoje.'
+  teiginys: 'Čia, be to, dar prieškariniais laikais buvo smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių skaičius į Argentiną atvyko dar XIX amž. gale.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Tai vietinės smulkios draugijos, kurios dažniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai varyti kokį nors verslą (biznį).'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Argentinoje dar prieš karą veikė smulkios lietuvių savišalpos organizacijos, nes daugiau lietuvių ten atvyko XIX a. pabaigoje.'
+  santrauka: 'Čia, be to, dar prieškariniais laikais buvo smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių skaičius į Argentiną atvyko dar XIX amž. gale.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kultūrinė lietuvių būklė Argentinoje. Argentinoje lietu-
-    viams organizuotis sąlygos buvo ramesnės, nes čia nebuvo emi-
-    gracijos bendrovių, kurios, atvežusios lietuvius, juos ir toliau
-    būtų išnaudojusios. Čia, be to, dar prieškariniais laikais buvo
+    Čia, be to, dar prieškariniais laikais buvo
     smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
     skaičius į Argentiną atvyko dar XIX amž. gale.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tai vietinės smulkios draugijos, kurios dažniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai varyti kokį nors verslą (biznį).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tai vietinės smulkios draugijos, kurios daž-
+    niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
+    ryti kokį nors verslą (biznį).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -67,5 +67,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/markgrafas]]
 - [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]

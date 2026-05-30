@@ -6,12 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -28,43 +23,54 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Stanislovas Leščinskis buvo išrinktas karaliumi.'
+  teiginys: 'Leščinskio išrinkimas karalium ir karo pabaiga.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: 'Gais metais ATR valdovu buvo išrinktas Švedijos remiamas Stanislovas Lesčinskis, įsiplieskė karas tarp jo ir Augusto 11 šalininkų.'
+  teiginys: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 - t-003
-  teiginys: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
+  teiginys: 'Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-004
+  teiginys: 'Augustui II mirus, daugumas bajorijos panoro grąžinti ištremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Stanislovas Leščinskis buvo išrinktas karaliumi.'
+  santrauka: 'Leščinskio išrinkimas karalium ir karo pabaiga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     - 16. St. Leščinskio išrinkimas karalium ir karo pabaiga
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Gais metais ATR valdovu buvo išrinktas Švedijos remiamas Stanislovas Lesčinskis, įsiplieskė karas tarp jo ir Augusto 11 šalininkų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas švedų kariuomene, paskelbė karalium Poznanės vaivadą Stanislovą Leščinskį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    — Augustas II, pasiryžęs nepasiduoti, ATR vardu sudarė
-    ŠE prieš Švediją nukreiptą sąjungą su Rusija, tokiu
-    būdu ATR į karą įtraukdamas formaliai. Tais pa-
-    . Gais metais ATR valdovu buvo išrinktas Švedijos
-    remiamas Stanislovas Lesčinskis, įsiplieskė karas
-    tarp jo ir Augusto 11 šalininkų.
+    1704 m. Karolis privertė
+      sušaukti elekcinį seimą, ku-
+      ris, apstatytas švedų ka-
+      riuomene, paskelbė kara-
+      lium Poznanės vaivadą
+      Stanislovą Leščin-
+      skį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -73,14 +79,12 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką, atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį (1706 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar
-    jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos
-    ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepa-
-    geidaujamos Prancūzijos konkurencijos šiame regione. Karaliumi
-    tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.
+    Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
+      atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
+      (1706 m.).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -88,6 +92,19 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Augustui II mirus, daugumas bajorijos panoro grąžinti ištremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Augustui **II** mirus, daugumas bajorijos panoro grąžinti iš-
+      tremtąjį karalių Leščinskį, kurio kandidatūrą rėmė Prancūzija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

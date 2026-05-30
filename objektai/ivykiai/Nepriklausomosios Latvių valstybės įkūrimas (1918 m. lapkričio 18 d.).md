@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -32,28 +33,49 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Latvijos valstybės kūrimosi pradžioje Latvijai teko kariauti su bolševikais ir pasilikusiomis vokiečių kariuomenės dalimis.'
+  teiginys: 'Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pralaimėjimas vakaruose.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Latvijos valstybės kūrimosi pradžioje Latvijai teko kariauti su bolševikais ir pasilikusiomis vokiečių kariuomenės dalimis.'
+  santrauka: 'Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    sybė. Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko
+    Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko
     kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės
-    dalimis. Nuo jų apsigynus, Latvijai nebeliko jokių sunkių už-
-    sienio politikos problemų, ir jos gyvenimas ėjo normalia vaga.
-  citata_rodoma: ""
+    dalimis.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pralaimėjimas vakaruose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau Latviją, kaip ir Lietuvą, išgelbėjo vokiečių pra-
+    laimėjimas vakaruose. Kai, pasirašę Versalio traktatą, vokie-
+    čiai ėmė trauktis iš Latvijos, ji buvo paskelbta nepriklausoma
+    (1918 m. lapkričio 18 d.), ir buvo sudaryta pirmoji latvių vyriau-
+    sybė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -25,8 +25,10 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -34,14 +36,25 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     neįvardyta. Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė
-    vadinamieji tautos atstovai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

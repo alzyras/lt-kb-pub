@@ -3,15 +3,15 @@ tipas: zodyno_irasas
 pavadinimas: vėliava
 sukurta: '2026-05-05'
 variantai:
-- vėliava
-- vėliavoje
-- vėliavą
-- vėliavos
-- lance
-- kopijo
+  - vėliava
+  - vėliavoje
+  - vėliavą
+  - vėliavos
+  - lance
+  - kopijo
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1430 m.'
@@ -189,6 +189,10 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/dragūnai]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
 - [[objektai/autoriai/Aleksandro Gvanjinio]]
 - [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
@@ -212,9 +216,7 @@ tags: []
 - [[objektai/asmenys/Suchodolskis]]
 - [[objektai/asmenys/T. Dambrava]]
 - [[objektai/grupes/Vokietijos maldininkai]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/daiktai/Vytauto vėliava]]
-- [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/maldininkai]]

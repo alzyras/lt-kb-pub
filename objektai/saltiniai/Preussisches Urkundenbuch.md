@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1215 m.'
   - '1216 m.'
@@ -39,14 +40,24 @@ tags:
 PUB = Preussisches Urkundenbuch, t.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad realizuojant popiežiaus planus, 1215 m. 2-oje pusėje ar 1216 m. pradžioje Kristijonas paskelbtas pirmuoju Prūsijos vyskupu (PUB, 1, 1, Nr. 9, 10; Pakarklis P. Kryžiuočių..., p. 203—204). Kristijono misija apėmė gana didelę teritoriją, greičiausiai ir visą.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad 162 Kulmo (dab. Chelmnas, Chelmno, LLR) pilies ir kt. Šios žemės pilių sunaikinimą patvirtina 1222 (ar 1223) m. Konrado privilegija vyskupui Kristijonui (PUB, 1, 1, Nr. 41, p. 28).'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: '„Preussisches Urkundenbuch“ I-IV tomai ir V tomo pirma dalis buvo išleisti 1889-1969 m. Karaliaučiuje ir Marburge.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis teigia, kad realizuojant popiežiaus planus, 1215 m. 2-oje pusėje ar 1216 m. pradžioje Kristijonas paskelbtas pirmuoju Prūsijos vyskupu (PUB, 1, 1, Nr. 9, 10; Pakarklis P. Kryžiuočių..., p. 203—204). Kristijono misija apėmė gana didelę teritoriją, greičiausiai ir visą.'

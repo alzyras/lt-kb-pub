@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -15,7 +16,7 @@ tags:
 
 ## Santrauka
 
-Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis.
+Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis. buvo numatyta užimti Dunojaus ir Dniestro žiočių sritis (Kiliją, Belgradą) ir išardyti plėšikų lizdą — Krimo ordą.
 
 ## Teiginiai
 - t-001
@@ -23,13 +24,19 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: 'Krimo totoriai pradėjo smarkius puolimus, ypač nukreiptus į Kijevo, Podolės ir Galicijos sritis.'
+  teiginys: 'Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-003
+  teiginys: 'buvo numatyta užimti Dunojaus ir Dniestro žiočių sritis (Kiliją, Belgradą) ir išardyti plėšikų lizdą — Krimo ordą.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,25 +45,38 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
   citata_originali: |
     Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos
     sąjungininkas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Krimo totoriai pradėjo smarkius puolimus, ypač nukreiptus į Kijevo, Podolės ir Galicijos sritis.'
+  santrauka: 'Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'buvo numatyta užimti Dunojaus ir Dniestro žiočių sritis (Kiliją, Belgradą) ir išardyti plėšikų lizdą — Krimo ordą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    buvo numatyta užimti Dunojaus ir Dniestro žiočių sritis (Kiliją, Belgradą) ir
+    išardyti plėšikų lizdą — Krimo ordą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

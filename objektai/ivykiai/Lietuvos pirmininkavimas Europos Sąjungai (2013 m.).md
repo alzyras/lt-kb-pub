@@ -34,31 +34,39 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.'
+  teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.'
+  santrauka: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
-    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
-    universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
-    lininkus, ne pirmus metus tiriančius istorijos politikos problemas (pro-
-    fesorius Raimundą Lopatą, Alvydą Jokubaitį, Vytautą Radžvilą ir kitus),
-    prašydama parengti glaustą, lengvai skaitomą, tiesos ir atvirumo kriteri-
-    jais grįstą Lietuvos istorijos veikalą.
-  citata_rodoma: ""
+    skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

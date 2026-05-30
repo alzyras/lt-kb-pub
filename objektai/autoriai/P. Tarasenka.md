@@ -6,16 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1929 m.'
-  - '1956 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-date_start: '1929'
-date_end: '1956'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -30,29 +20,93 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 
 ## Teiginiai
 - t-001
-  teiginys: 'P. Tarasenka parašė veikalą „Lietuvos archeologijos medžiaga“, išleistą Kaune 1929 m.'
+  teiginys: 'Tarasenka, Lietuvos archeologijos medžiaga (1929); B.'
   pagrindžia:
+    - c-006
+    - c-005
+    - c-004
+    - c-003
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Tarasenka, Apeiginiai L.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'P. Tarasenka parašė veikalą „Lietuvos archeologijos medžiaga“, išleistą Kaune 1929 m.'
+  santrauka: 'Tarasenka, Lietuvos archeologijos medžiaga (1929); B.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    P. _Tarasenka,_ Lietuvos archeo-
+    logijos medžiaga (1929); _B. Nerman,_ Die Verbindungen zwischen Skandi-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Tarasenka, Apeiginiai L.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _Tarasenka,_ Apeiginiai
+    L. piliakalniai (Židinys, 1935); _J. Puzinas,_ Vorgeschichtsforschung u. Natio-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: P. Tarasenka papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    1, 1970, 113-133 p.
-    — (”) _Kalavijų ir ietigalių gamybos technologija Lietuvoje IX-XIII am­
-    žiais,_ AkMD, t. 33, sąs. 2, 1970, 113-130 p. — (”) _Geležies dirbinių ga­
-    mybos raida Lietuvoje_ , Lietuvos istorijos metraštis 1973 m. (1974), 5-20 p.
-    **—** Švoba, J.: _Aisčiai ir Baltijos pajūrys,_ Karys, 1970, 193-200 p. —
-    Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929. — (”)
+    Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-004
+  santrauka: P. Tarasenka papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (”)
     _Lietuvos piliakalniai,_ Vilnius 1956.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-005
+  santrauka: P. Tarasenka papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tarasenka, P. : _Lietuvos archeologijos medžiaga,_ Kaunas 1929.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-006
+  santrauka: P. Tarasenka papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (”)
+    _Lietuvos piliakalniai,_ Vilnius 1956.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
 

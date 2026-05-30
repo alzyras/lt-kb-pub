@@ -1,19 +1,14 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'alkos romuvos'
-sukurta: '2026-05-20'
+sukurta: '2026-04-25'
 variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+bukle: juodrastis
 patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+atnaujinta: '2026-04-25'
 tags:
   - kunigas
   - sąvoka
@@ -22,37 +17,54 @@ tags:
 
 ## Santrauka
 
-Taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, nedaug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką, nusižiūrėję į katalikų Bažnyčią.
+alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al- kakapių, Alkų kaimų — pilna Lietuvoje. alkos romuvos: taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne- daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką, nusižiūrėję į katalikų Bažnyčią..
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pasakojimas apie vieną vyriausiąją Romuvos šventovę laikomas viduramžio rašytojų prasimanymu.'
+  teiginys: 'alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al- kakapių, Alkų kaimų — pilna Lietuvoje.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'alkos romuvos: taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne- daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką, nusižiūrėję į katalikų Bažnyčią..'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pasakojimas apie vieną vyriausiąją Romuvos šventovę laikomas viduramžio rašytojų prasimanymu.'
+  santrauka: 'alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al- kakapių, Alkų kaimų — pilna Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taigi pasakojimas, kad buvęs
-    kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė
-    — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne-
+    Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
+    dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
+    kakapių, Alkų kaimų — pilna Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'alkos romuvos: taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne- daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką, nusižiūrėję į katalikų Bažnyčią..'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas
+    ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne-
     daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką,
     nusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-
     namos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo
     pobūdžio arba dėl tarminių skirtumų.
-
-    **8.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

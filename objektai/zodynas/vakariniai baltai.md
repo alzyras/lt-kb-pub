@@ -1,34 +1,39 @@
 ---
-tipas: zodyno_irasas
-pavadinimas: "vakariniai baltai"
-sukurta: '2026-05-30'
-variantai:
-  - "vakarų baltų"
-  - "vakarinių baltų"
-  - "rytų baltų"
-  - "vakarų baltų tarmių regionui"
-aliases: []
 saltiniai:
-  - "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-laikotarpis: "XIII–XVI a. baltų kalbinių ir istorinių santykių aiškinimo kontekstas"
-datos:
-  - "XIV–XVI a."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIII"
-  - "XIV"
-  - "XV"
-  - "XVI"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-30'
-tags: []
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
+---
+  tipas: zodyno_irasas
+  pavadinimas: "vakariniai baltai"
+  sukurta: "2026-05-30"
+  variantai:
+- "vakarų baltų"
+- "vakarinių baltų"
+- "rytų baltų"
+- "vakarų baltų tarmių regionui"
+  aliases: []
+  saltiniai:
+- "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  laikotarpis: "XIII–XVI a. baltų kalbinių ir istorinių santykių aiškinimo kontekstas"
+  datos:
+- "XIV–XVI a."
+  periodas: "viduramziai"
+  periodo_grupes:[]
+  amziai:
+- "XIII"
+- "XIV"
+- "XV"
+- "XVI"
+  date_start: ""
+  date_end: ""
+  vaidmenys: []
+  dalyviai: []
+  susije_irasai: []
+  patikimumas: "aukštas"
+  tags:[]
+  ---
 # vakariniai baltai
 
 ## Santrauka
@@ -69,11 +74,11 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - t-004
   teiginys: 'Dusburgietis teigia, kad ilgainiui pavyko nustatyti prūsų kalbos vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu lietuvių kalba ir t.'
   pagrindžia:
-    - c-003
+    - c-004
 - t-005
   teiginys: 'Dusburgietis teigia, kad vakarinių baltų, kuriais laikytini ir kuršiai.'
   pagrindžia:
-    - c-003
+    - c-005
 - t-006
   teiginys: 'Dusburgietis teigia, kad prūsai (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19.'
   pagrindžia:
@@ -129,7 +134,36 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad ilgainiui pavyko nustatyti prūsų kalbos vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu lietuvių kalba ir t.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ilgainiui pavyko nustatyti prūsų kalbos
+    vietą baltų kalbų šeimoje: prigijo nuomonė, kad ji esanti artimiausia lietuvių bei latvių
+    kalbų giminaitė, artimesnė lietuvių negu latvių kalbai, išlaikiusi daugiau archaizmų negu
+    lietuvių kalba ir t. t.7 Taigi vakarų baltų (prūsų) tarmės, daugeliu atvejų archaiškesnės
+    už rytų baltų (lietuvių-latvių) tarmes, nuo pastarųjų skiriasi, tačiau V. Mažiulio tyrimai
+    rodo, kad jų skirtingumo laipsnis kur kas mažesnis, negu iki šiol buvo įprasta manyti8.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad vakarinių baltų, kuriais laikytini ir kuršiai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t. y. vakarinių
+    baltų, kuriais laikytini ir kuršiai. Išlikusi po Ordino siautėjimo dalis kuršių, nadruvių,
+    skalvių ir kitų vakarinių baltų XIV—XVI a. sulietuvėjo14.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
     - t-005
 - c-006
   santrauka: 'Dusburgietis teigia, kad prūsai (bei jotvingiai) priskiriami vakarų baltų tarmių regionui19.'
@@ -156,16 +190,10 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Nadruviai]]
 - [[objektai/grupes/Skalviai]]
-- [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Kuršiai]]
 - [[objektai/autoriai/Endzelins J]]
 - [[objektai/autoriai/F. Bopas]]
 - [[objektai/autoriai/G. H. F. Neselmanas]]
-- [[objektai/grupes/Gotai]]
 - [[objektai/autoriai/J. Endzelynas]]
-- [[objektai/autoriai/M. Vasmeris]]
-- [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
 - [[objektai/autoriai/V. Mažiulis]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/prūsas Prūsa Prūsija]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/grupes/Kuršiai]]

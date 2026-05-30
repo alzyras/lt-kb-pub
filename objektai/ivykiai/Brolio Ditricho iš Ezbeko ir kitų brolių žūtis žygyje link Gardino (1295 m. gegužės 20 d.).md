@@ -41,12 +41,37 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei netikėlių žūtį 1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo.'
+  pagrindžia:
+    - c-001
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to broliai nuplaukė beveik iki Junigedos pilies.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei netikėlių žūtį 1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolio Ditricho iš Ezbeko, kitų trijų brolių, daugybės krikščionių bei
+                                            netikėlių žūtį
+
+      1295 viešpaties metais, penktadienį prieš sekmines (gegužės 20), 5 broliai ir šimtas
+    penkiasdešimt vyrų iš Sembos ir Notangos išjojo link Gardino pilies; kai priartėjo prie
+    pilies, jie nutarė, palikę arklius, plaukti Nemunu žemyn; apiplėšę Nemuno pakrantėje
+    vieną lietuvių kaimą, nukovę ir paėmę į nelaisvę daug žmonių, vėl nuplaukė tolyn. Šitai
+    matydami, netikėliai pastojo jiems kelią, o šiame laivų mūšyje krito brolis Ditrichas iš
+    Ezbeko ir dar vienas brolis, vardu [..?] iš Feringės. Vis dėlto lietuviai neteko 70 prityrusių
+    karių, žuvusių kovoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
 - c-002
   santrauka: 'Dusburgietis teigia, kad po to broliai nuplaukė beveik iki Junigedos pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

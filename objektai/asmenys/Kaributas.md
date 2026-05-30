@@ -6,12 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -27,53 +21,56 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kaributas buvo paminėtas tarp penkių Jogailos brolių, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
+  teiginys: 'Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti iš savo kunigaikštijų).'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Kaributas kartu su kitais Jogailos broliais pritarė sutartims, pagal kurias Jogaila pasižadėjo ketverius metus laikytis taikos su Ordinais.'
+- t-002
+  teiginys: 'Kaip tik tuo metu, kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kaributas.'
   pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Kaributas valdė Seversko kunigaikštystę, nenorėjo pripažinti Kęstučio viršenybės ir sukėlė maištus Rusioje.'
+    - c-002
+- t-003
+  teiginys: 'Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.'
   pagrindžia:
     - c-004
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kaributas buvo paminėtas tarp penkių Jogailos brolių, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti iš savo kunigaikštijų).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kaip kita­
-    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
-    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
-    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
-    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
-    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
-    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
-    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
-    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
-    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
-    taryba tėra paminėta Žemaičių dovanojimo dokumente.
-  citata_rodoma: ""
+    8 —
+    Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
+    pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
+    iš savo kunigaikštijų).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-003
-  santrauka: 'Kaributas kartu su kitais Jogailos broliais pritarė sutartims, pagal kurias Jogaila pasižadėjo ketverius metus laikytis taikos su Ordinais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+- c-002
+  santrauka: 'Kaip tik tuo metu, kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kaributas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
-    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
-    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
-    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
-    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
-    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
+    Kaip tik tuo metu,
+    kada Kęstutis buvo apgulęs Jurbarką, atėjo žinia, kad prieš jį
+    sukilo Jogailos brolis, Naugardo Sieversko kunigaikštis Kari-
+    butas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tą aktą patvirtino pats Jogaila, jo
+    broliai Skirgaila, Lengvenis, Kaributas ir Vytautas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -82,23 +79,21 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Kaributas valdė Seversko kunigaikštystę, nenorėjo pripažinti Kęstučio viršenybės ir sukėlė maištus Rusioje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  santrauka: Kaributas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
-    vos tik jis išvijo vokiečius už Lietuvos ribų, kai maištai Ru­
-    sioje, sukelti Jogailos brolio Kaributo, viešpatavusio Severs-
-    ko kunigaikštystėje ir nenorėjusio pripažinti Kęstučio vir­
-    šenybės, vertė šį vykti ten su visa kariauna. Palikdamas
-    Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui,
-    jaunajam Vytautui.
-  citata_rodoma: ''
+    Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

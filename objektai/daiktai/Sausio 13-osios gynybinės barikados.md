@@ -11,21 +11,19 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: "juodrastis"
 laikotarpis: "1991 m. sausio 12-14 d. parlamento gynybos kontekstas"
+datos:
+  - "1991 m. sausio 12 d."
+  - "1991 m. sausio 14 d."
+periodas: "siuolaikine_istorija"
+periodo_grupes:
+  - "nepriklausomybes-atkurimas"
+amziai:
+  - "XX"
+date_start: "1991"
+date_end: "1991"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1991 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1991'
-date_end: '2026'
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-14'
 tags: []
@@ -63,54 +61,58 @@ Statytos aplink AT-AS pastatą 1991 m. sausio įvykių metu.
 Nenurodyta
 
 ## Teiginiai
-- t-008
-  teiginys: '1991 m. sausio 14 d. prie parlamento buvo gynybinės barikados.'
+- t-001
+  teiginys: "1991 m. sausio 12 d. vakare aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: '1991 m. sausio 12 d. vakare žmonės rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos bei televizijos bokšto.'
+- t-002
+  teiginys: 'Gynybinės barikados prie parlamento 1991 m. sausio 14 d. E.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1991 m. sausio 14 d. prie parlamento buvo gynybinės barikados.'
+  santrauka: Barikados aprašomos kaip betoninės sienos ir spygliuotų vielų užtvaros prie AT-AS pastato.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    244
-    Gynybinės barikados prie parlamento 1991 m. sausio 14 d.
-    E. Masevičiaus nuotrauka
-    V.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-002
-  santrauka: '1991 m. sausio 12 d. vakare žmonės rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos bei televizijos bokšto.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    245
-    Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi-
     nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie
-    parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto. Aplink
-    AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie
-    12 val.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
+    - t-001
+- c-002
+  santrauka: 'Gynybinės barikados prie parlamento 1991 m. sausio 14 d. E.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gynybinės barikados prie parlamento 1991 m. sausio 14 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Šaltiniai ir įrodymai
 

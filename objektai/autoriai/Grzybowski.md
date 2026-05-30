@@ -68,6 +68,5 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/grupes/Vilniaus prastuomenė]]

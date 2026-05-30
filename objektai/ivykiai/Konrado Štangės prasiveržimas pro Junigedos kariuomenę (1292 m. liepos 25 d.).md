@@ -46,6 +46,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūras, apie švento Jokūbo apaštalo dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies, pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Dusburgietis teigia, kad jis pasakė: „Nesunku atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės, bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,8 +60,7 @@ Nenurodyta
     dieną (liepos 25) patraukė su keliais broliais bei ginklanešiais link Junigedos pilies,
     pasiuntęs į priekį žvalgą, kuriam įsakė sužinoti, kas dedasi pilyje; šis skubiai sugrįžo atgal
     ir pasakė, kad visame lauke ir pilyje bei papilyje pilna karių. Šitai išgirdę, broliai ir kiti,
-    labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?“ Jiems
-    atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais.
+    labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -65,6 +68,26 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad jis pasakė: „Nesunku atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės, bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šitai išgirdę, broliai ir kiti,
+    labai sutrikę, tarė: „Vadinasi, negalėsime pro juos praeiti, ką mums tada daryti?“ Jiems
+    atsakė komtūras, juos padrąsindamas Judo Makabėjaus žodžiais. Jis pasakė: „Nesunku
+    atiduoti daugelį į nedaugelio rankas, ir nėra skirtumo dangaus dievo akivaizdoje išgelbėti
+    dideliu ar mažu skaičiumi, nes nugalėjimas kare nepareina nuo kariuomenės daugybės,
+    bet stiprybė ateina iš dangaus“, todėl drąsiai prasiskverbkime pro juos, o viešpats mus
+    apgins. Visiems patiko šis patarimas. Tada, paženklinę save šventojo kryžiaus ženklu,
+    prasiskverbė pro lietuvių kariuomenę, daug jų nukovė, o kitus sunkiai sužeidė. Visiems
+    kitiems pasileidus bėgti, broliai su saviškiais sveiki ir gyvi sugrįžo namo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

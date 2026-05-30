@@ -49,30 +49,36 @@ Terminas vartojamas kalbant apie Stanislovo Augusto Poniatovskio abdikacijos akt
 Vartojama politinės teisės ir valdovo statuso kontekste.
 
 ## Teiginiai
-- t-003
+- t-001
   teiginys: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
+  santrauka: Abdikacija aiškinama kaip sosto atsisakymas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
-    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
-    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
-    pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
+    Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
     mo) aktas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
+  pagrindžia: []
+- c-002
+  santrauka: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

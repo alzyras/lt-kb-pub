@@ -67,7 +67,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos miestiečių luomas, kaip ir šalies civilizacijos raida, vėlavo ir formavosi tik XIV amžiuje.'
+  teiginys: "Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje."
   pagrindžia:
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -109,7 +109,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: 'Vilniaus miestiečių luomui priklausė narystė krašto suvažiavimuose, arba Lietuvos seimuose.'
+  teiginys: "Sostinės miestiečių luomui priklausė narystė suvažiavimuose arba Lietuvos seimuose."
   pagrindžia:
     - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -121,7 +121,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.'
+  teiginys: "Miestiečiai turėjo priešgaisrinių ir miesto gynybos pareigų."
   pagrindžia:
     - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -145,9 +145,9 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
 - t-015
-  teiginys: '1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau laisvės bylinėtis pagal Magdeburgo teisę.'
+  teiginys: "1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir paliko bylinėjimąsi pagal Magdeburgo teisę."
   pagrindžia:
-    - c-011
+    - c-012
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
 
@@ -266,7 +266,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-008
 - c-007
-  santrauka: 'Vilniaus miestiečių luomui priklausė narystė krašto suvažiavimuose, arba Lietuvos seimuose.'
+  santrauka: Miestiečių luomo dalyvavimas reprezentacijose ir seimuose.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -312,7 +312,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-010
 - c-009
-  santrauka: 'Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.'
+  santrauka: Gynybinės ir priešgaisrinės miestiečių pareigos.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA II TOMAS
@@ -379,6 +379,35 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-014
+- c-012
+  santrauka: Miestiečių atribojimas nuo Antrojo Statuto galios.
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    IV KNYGA
+    Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos
+    seime, vykusiame Liubline, ir sostinės Vilniaus pasiuntiniai bur­
+    mistrai Francas Dumikas, Teodoras Jackovičius ir raštininkas
+    Jeronimas Opachovskis kartu su kitais Didžiosios kunigaikš­
+    tystės delegatais 1569 metų liepos 1-ą dieną pasirašė šlovingąjį
+    susivienijimo dekretą, Lietuvos paskelbtą Lenkijos pasiunti­
+    niams. Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
+    vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
+    pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
+    Kai dar 1564 metais Bełsko seime Žygimantas Augustas
+    tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
+    rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove,
+    atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­
+    mus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­
+    ribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau
+    bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
+    savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
+    mąjį Statutą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
     - t-015
 
 ## Ryšiai

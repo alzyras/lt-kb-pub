@@ -4,8 +4,16 @@ pavadinimas: "Žalgirio mūšis (1410 m.)"
 sukurta: '2026-05-14'
 variantai:
   - 'Žalgirio mūšis'
+  - 'Tanenbergo mūšis (1410 m. liepos 15 d.)'
+  - 'Tanenbergo mūšis'
+  - 'Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)'
+  - 'Tanenbergo mūšis 1410 m. liepos 15 d'
 aliases:
   - 'Žalgirio mūšis'
+  - 'Tanenbergo mūšis (1410 m. liepos 15 d.)'
+  - 'Tanenbergo mūšis'
+  - 'Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)'
+  - 'Tanenbergo mūšis 1410 m. liepos 15 d'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -72,6 +80,16 @@ Nenurodyta
   statusas: patvirtinta
 - t-005
   teiginys: 'Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį.'
+  pagrindžia:
+    - c-004
+- t-006
+  teiginys: 'Prieš Tanenbergo mūšį kryžiuočių didžiojo magistro pasiuntiniai atnešė du nuogus kardus.'
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   pagrindžia:
     - c-005
 
@@ -144,24 +162,25 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
-    reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,
-    būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė
-    egzistencinės grėsmės nei Lenkijai, nei Lietuvai. Žalgirio mūšis įėjo į isto-
-    riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
-    lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
-    teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-005
+- c-005
+  santrauka: 'Prieš Tanenbergo mūšį kryžiuočių didžiojo magistro pasiuntiniai atnešė du nuogus kardus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Įėjo Vengrijos
+    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
+    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
@@ -169,4 +188,6 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/grupes/Vokiečių ordinas]]

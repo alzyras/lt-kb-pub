@@ -82,6 +82,10 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginys: 'Dusburgietis teigia, kad 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Dusburgietis teigia, kad veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame bus taisytina.'
+  pagrindžia:
+    - c-008
 - t-009
   teiginys: 'Dusburgietis teigia, kad didysis magistras Verneris ėmėsi restauruoti Ordiną.'
   pagrindžia:
@@ -89,11 +93,19 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - t-010
   teiginys: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
   pagrindžia:
-    - c-009
+    - c-010
+- t-011
+  teiginys: 'Dusburgietis, pvz., tiksliai nurodo, kada buvo išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d. (III, 354).'
+  pagrindžia:
+    - c-011
 - t-012
   teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: 'Dusburgietis teigia, kad apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras, tais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas vyriausiojoje būstinėje.'
+  pagrindžia:
+    - c-013
 - t-014
   teiginys: 'Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.'
   pagrindžia:
@@ -201,10 +213,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   citata_originali: |
     1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
     užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
-       XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
-    Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę
-    kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą
-    ekonominę Lietuvos blokadą.
+       XIII a.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -212,13 +221,25 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Dusburgietis teigia, kad veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame bus taisytina.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Veikalas buvęs įteiktas didžiajam magistrui Verneriui peržiūrėti ir pataisyti, jei kas jame
+    bus taisytina.
+       Iš kronikos faktologinės medžiagos matyti, kad nuo 1289 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 - c-009
   santrauka: 'Dusburgietis teigia, kad didysis magistras Verneris ėmėsi restauruoti Ordiną.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apkaltintas erezija Tamplierių
-    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
-    Paryžiuje 1314 m.69
+    69
       Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
     argumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
     atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
@@ -232,7 +253,36 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
+    didžiajam magistrui Verneriui reikėjo kronikos. Ši turėjo priminti Ordino veiklos tikslus ne
+    tik broliams, bet ir visam krikščionių pasauliui: pateisinti vokiečių feodalų organizacijos,
+    Kryžiuočių ordino, egzistavimą ir po krikščionybės gynimo priedanga jo vedamą karą
+    prieš Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Dusburgietis, pvz., tiksliai nurodo, kada buvo išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d. (III, 354).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dusburgietis, pvz.,  tiksliai nurodo, kada buvo
+    išrinktas magistru jo amžininkas ir globėjas Verneris iš Orzelno — 1324 m. liepos 6 d.
+    (III, 354).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 - c-012
   santrauka: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -249,8 +299,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
     šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
     nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
-    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
-    apreikšti dievo darbus yra šlovinga.
+    būsimosioms kartoms pamokyti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -258,11 +307,27 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-013
+  santrauka: 'Dusburgietis teigia, kad apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras, tais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas vyriausiojoje būstinėje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolį Vernerį, didįjį bei Prūsijos žemės magistrą
+
+       Brolis Verneris iš Orzelno, keturioliktas didysis ir dvidešimtas Prūsijos žemės magistras,
+    tais metais, būtent 1324 viešpaties metų liepos mėnesio 6 dieną, buvo išrinktas
+    vyriausiojoje būstinėje Marienburge, o vadovavo.......metų582.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 - c-014
   santrauka: 'Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    1. Apie evangeliją: pradžioje buvo žodis
+    Apie evangeliją: pradžioje buvo žodis
 
        Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,
     kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos
@@ -313,7 +378,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   santrauka: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    20. Apie didžiojo magistro mirtį
+    Apie didžiojo magistro mirtį
 
       Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
     18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
@@ -351,7 +416,6 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
 - [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/oktava]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]

@@ -12,6 +12,7 @@ aliases:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 laikotarpis: '1260 m.'
 vaidmenys:
   - '[]'
@@ -70,6 +71,10 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 Žemaičiai laimėjo mūšį. Jame žuvo visa ordino vadovybė ir beveik visi broliai, o tai tapo sunkiu smūgiu Livonijos ordinui.
 
 ## Teiginiai
+- t-010
+  teiginys: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
+  pagrindžia:
+    - c-004
 - t-011
   teiginys: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai. Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos žmonės, tvirtindami, kad su jų.'
   pagrindžia:
@@ -78,8 +83,45 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   teiginys: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
   pagrindžia:
     - c-006
+- t-013
+  teiginys: 'Dusburgietis teigia, kad ilgą laiką sėkmei nekrypstant nei į vieną, nei į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo, nes visa jų kariuomenės galia palūžo, kai pasileido bėgti prastuomenė; šiose kautynėse, įvykusiose palaimintos Margaritos dieną (liepos 13 d.) Kuršo.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
+                                             nių
+
+      1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo  į vieną vietą su stipriomis
+    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
+    prie  šios  pilies, atvyko  pasiuntinys, pranešdamas, kad  keturi  tūkstančiai  lietuvių
+
+      342 Krašto magistras buvo nuo 1259 m. gegužės mėn.  iki 1261 m.  lapkričio
+    mėn.
+      343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
+    Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie
+    Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros  ir
+    Akmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p. 199—
+    202).
+      344 Ordino pilis ant švento Jurgio kalno (D — in monte sancti Georgii) buvo pastatyta,
+    atrodo, deš. Nemuno krante apie dab. Jurbarką, žemiau Mituvos žiočių, kur yra Bišpiliukais
+    vadinama piliavietė (dvi kalvelės Kalnėnų kaimo teritorijoje) (Toeppen M., Historisch..,
+    p. 39; Zajączkowski S., Studya.., p. 35—36; SZM, p. 213—214; LAA, 2, p. 77).
+
+    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
+    o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
+    grobio.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 - c-005
   santrauka: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai. Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos žmonės, tvirtindami, kad su jų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -123,6 +165,41 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-007
+  santrauka: 'Dusburgietis teigia, kad ilgą laiką sėkmei nekrypstant nei į vieną, nei į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo, nes visa jų kariuomenės galia palūžo, kai pasileido bėgti prastuomenė; šiose kautynėse, įvykusiose palaimintos Margaritos dieną (liepos 13 d.) Kuršo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ilgą laiką sėkmei
+    nekrypstant nei  į vieną, nei  į kitą pusę, galop broliai, viešpačiui leidžiant, pralaimėjo,
+    nes visa jų kariuomenės galia palūžo, kai pasileido bėgti prastuomenė; šiose kautynėse,
+    įvykusiose palaimintos Margaritos dieną (liepos 13 d.) Kuršo žemėje, lauke prie Durbės
+
+
+
+
+
+      345 D.— nobilis diclus Matto, Jer.— Matte (ТАР, p. 56).
+      346  T. y. Henriko Botelio.
+      347 1219 m. Danijos kariuomenė užėmė estiškosios Riavalos žemės centrą Lindanisę.
+    Nuo tada (neskaitant 1227—1238 m, kai jį buvo užėmęs Ordinas) Revelis (dab. Talinas)
+    buvo Danijos valdžioje (История Эстонской ССР, 1, с. 161, 174, 178, 218).
+      348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos
+    požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais
+    pasekę ir estai (LRCh, eil. 5601—5643; LIS, 1, p. 49). Šiaip ar taip, kuršių veiksmai
+    vertinami kaip jų pagalba lietuviams (Ivinskis Z., Durbės.., p. 70—71; Lietuvių karas..,
+    p. 153).
+      349  Žr. D. III, 101.
+
+    upės350, žuvo brolis Burchardas, Livonijos magistras351, ir brolis Henrikas Botelis, Prūsijos
+    maršalas, su jais 150 brolių352, o dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų
+    skaičiaus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai

@@ -96,6 +96,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]
 - [[objektai/zodynas/šventas sumanymas]]

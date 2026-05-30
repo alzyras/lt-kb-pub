@@ -34,6 +34,22 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginys: 'Dusburgietis teigia, kad rOMAS BATŪRA международный конгресс.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 150 Maтyзoвa В. И. Apxeoгpaфнчccкие..., c. 19—21; tos pačios, «Xpoникa зeмли Пpyccкoй... », c. 34—35; tos pačios, Идeйнo..., c. 152—169; Бaтypa P. Из пpoблeмaтнкк..., c. 69.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad romas Batūra datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Dusburgietis teigia, kad 191—192; Batūra R., Karinė..., р.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis teigia, kad rOMAS BATŪRA международный конгресс.'
@@ -45,7 +61,7 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 
 
 
-    международный конгресс...
+    международный конгресс.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
@@ -53,6 +69,82 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad 150 Maтyзoвa В. И. Apxeoгpaфнчccкие..., c. 19—21; tos pačios, «Xpoникa зeмли Пpyccкoй... », c. 34—35; tos pačios, Идeйнo..., c. 152—169; Бaтypa P. Из пpoблeмaтнкк..., c. 69.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    150 Maтyзoвa  В.  И.  Apxeoгpaфнчccкие...,  c. 19—21;  tos  pačios, «Xpoникa
+    зeмли  Пpyccкoй... », c. 34—35; tos pačios, Идeйнo..., c. 152—169; Бaтypa P. Из
+    пpoблeмaтнкк..., c. 69.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Sventopelko karą su Teutonų ordino broliais
+     1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo
+                                              plitimo
+
+
+      262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino
+    kalavijuočius (Ivinskis Z., Saulės—Šiaulių kautynės...; Pakarklis P., Lietuvių kova...;
+    Lietuvių karas.., p. 109—119; Benninghoven F., Der Orden...; Urban W., The Baltic.., p.
+    158—159; Batūra R., Šiaulių.., p. 22—24).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad romas Batūra datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie daugy­
+                                  bės krikščionių žūtį
+
+      Kai  brolis Heidenreichas, Kulmo vyskupas, šventino Torunės ligoninės koplyčią,
+    buvusią už sienų, prūsai, gerai suprasdami šių apeigų reikšmę, subūrė kariuomenę,
+    žiauriai užpuolė žmones, grįžtančius iš šventinimo apeigų, išžudė vyrus, o moteris ir
+
+      436  D.— Trinota filius regis Lethowinorum, Jer.— Des kunigis von Littouwin sun
+    Trînôte. Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ryšį su
+    Mindaugu, nes 1262 m. žygį (jis datuojamas ir 1263 m.) organizavo Mindaugas, o tuo
+    metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae,
+    Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra
+    R., Lietuva..., p. 153). Treniota buvo ne Mindaugo, bet jo sesers sūnus (ПСРЛ, 2, стб
+    860; Пашуто В. T. Образование.., с. 492—493).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Dusburgietis teigia, kad 191—192; Batūra R., Karinė..., р.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Minėtieji Numa ir
+      520 D. — contra castrum Gartham, Jer — burc zu Gartin. Apie Gardiną, jo vietą Lietuvos
+    valstybės gynyboje XIII—XIV a. žr. LE, t. 8, p. 972—985; Воронин H. H., Древнее
+    Гродно, с. 149—195; Пашуто В. Т., Гродно..., с. 191—192; Batūra R., Karinė..., р.
+    105—107; to paties, Lietuva..., p. 98, 140, 161, 164; Ткачоу М. А., Замю..., c. 23—25;
+    to paties, Абарончыя..., c. 52—55.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

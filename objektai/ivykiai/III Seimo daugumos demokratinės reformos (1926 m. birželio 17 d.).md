@@ -8,21 +8,16 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: paskelbta
 laikotarpis: "1926 m. birželio 17 d."
+datos: ["1926 m. birželio 17 d."]
+periodas: siuolaikine_istorija
+periodo_grupes: [tarpukaris]
+amziai:
+  - 'XX'
+date_start: '1926'
+date_end: '1926'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1926 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1926'
-date_end: '2026'
 patikimumas: vidutinis
 atnaujinta: '2026-05-14'
 tags:
@@ -53,32 +48,49 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-006
-  teiginys: '1926 m. birželio 17 d. III Seimo dauguma panaikino karo padėtį, amnestavo politinius kalinius, panaikino spaudos apribojimus ir leido laisvai rengti susirinkimus.'
+- t-001
+  teiginys: "1926 m. birželio 17 d. panaikinta karo padėtis."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: "Tą pačią reformų bangą lydėjo politinių kalinių amnestija, spaudos apribojimų panaikinimas ir susirinkimų laisvės suteikimas."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1926 m. birželio 17 d. III Seimo dauguma panaikino karo padėtį, amnestavo politinius kalinius, panaikino spaudos apribojimus ir leido laisvai rengti susirinkimus.'
+  santrauka: III Seimo daugumos demokratinių reformų turinys.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    155
-    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
-    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
-    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
     naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
-    rengti susirinkimus.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
   pagrindžia:
-    - t-006
+    - t-001
+    - t-002
+- c-002
+  santrauka: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

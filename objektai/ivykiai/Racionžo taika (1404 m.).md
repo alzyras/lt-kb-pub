@@ -6,20 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1401 m.'
-  - '1404 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1401'
-date_end: '2026'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -31,7 +18,7 @@ tags:
 
 ## Santrauka
 
-Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
+Racionžo taika (1404 m.): bet Vytautas rėmė ordiną tik tol, kol turėjo kitų svarbių reikalų. Kai tik jo reikalai pagerėjo, jis tuo- jau parodė, kad neatsisako Žemaičių. Sunormavęs santykius su Lenkija, jis tuojau sumažino savo draugiškumą ordinui. Atsta- tęs Kauno ir kitas ordino. Racionžo taika (1404 m.): vytautui buvo svarbu turėti laisvas rankas atsi- metusiam Smolenskui atgauti. Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu. Žemaičiai vėl buvo atiduoti ordinui, bet sutartyje buvo įrašytas vienas Vytau- tui labai naudingas nuostatas.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -47,35 +34,53 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1404 m. pasirašant Racionžo taiką buvo atgaivinta prekyba su Žemaičių kraštu, o sutartyje dalyvavo ir Jogaila.'
+  teiginys: 'Racionžo taika (1404 m.): bet Vytautas rėmė ordiną tik tol, kol turėjo kitų svarbių reikalų. Kai tik jo reikalai pagerėjo, jis tuo- jau parodė, kad neatsisako Žemaičių. Sunormavęs santykius su Lenkija, jis tuojau sumažino savo draugiškumą ordinui. Atsta- tęs Kauno ir kitas ordino.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-002
+  teiginys: 'Racionžo taika (1404 m.): vytautui buvo svarbu turėti laisvas rankas atsi- metusiam Smolenskui atgauti. Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu. Žemaičiai vėl buvo atiduoti ordinui, bet sutartyje buvo įrašytas vienas Vytau- tui labai naudingas nuostatas.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1404 m. pasirašant Racionžo taiką buvo atgaivinta prekyba su Žemaičių kraštu, o sutartyje dalyvavo ir Jogaila.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Racionžo taika (1404 m.): bet Vytautas rėmė ordiną tik tol, kol turėjo kitų svarbių reikalų. Kai tik jo reikalai pagerėjo, jis tuo- jau parodė, kad neatsisako Žemaičių. Sunormavęs santykius su Lenkija, jis tuojau sumažino savo draugiškumą ordinui. Atsta- tęs Kauno ir kitas ordino.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau ši sutartis pirk­
-    lius neilgai džiugino, nes 1401 metais, sukilus prieš Ordiną Že­
-    maičių kraštui, prekyba su juo suiro, ir ji buvo atgaivinta tik
-    1404 metais, pasirašant Racionžo taiką, kurioje jau ir Jogaila
-    dalyvavo. Bet šį kartą nukentėjo Žemaičiai, nes Vytautas dėl
-    pageidaujamos su Ordinu patvaresnės taikos sąryšyje su Rytų
-    politika pasižadėjo metus neleisti savo pirkliams prekiauti su
-    Žemaičių kraštu ir įvežti druskos, javų, geležies, kad Žemaičiai
-    vėl nesukiltų prieš Ordiną.
-    Šituo pat laiku, kai buvo vedamos Racionžo taikos dery­
-    bos, tarėsi tarp savęs ir Rygos bei Polocko pirkliai.
-  citata_rodoma: ""
+    Bet Vytautas rėmė ordiną tik tol, kol
+    turėjo kitų svarbių reikalų. Kai tik jo reikalai pagerėjo, jis tuo-
+    jau parodė, kad neatsisako Žemaičių. Sunormavęs santykius su
+    Lenkija, jis tuojau sumažino savo draugiškumą ordinui. Atsta-
+    tęs Kauno ir kitas ordino pasieny sugriautas pilis, jis pradėjo
+    raginti žemaičius keltis pas jį.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Racionžo taika (1404 m.): vytautui buvo svarbu turėti laisvas rankas atsi- metusiam Smolenskui atgauti. Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu. Žemaičiai vėl buvo atiduoti ordinui, bet sutartyje buvo įrašytas vienas Vytau- tui labai naudingas nuostatas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vytautui buvo svarbu turėti laisvas rankas atsi-
+    metusiam Smolenskui atgauti. Todėl 1404 m. Racionže
+    (Lenkijoje) buvo padaryta nauja taika su ordinu. Žemaičiai vėl
+    buvo atiduoti ordinui, bet sutartyje buvo įrašytas vienas Vytau-
+    tui labai naudingas nuostatas, — kad jis galėsiąs pasiimti iš Že-
+    maičių 250 gyventojų. Tatai jam vėliau labai pravertė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

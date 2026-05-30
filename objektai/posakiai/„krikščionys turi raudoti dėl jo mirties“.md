@@ -53,6 +53,5 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/neofitas]]
 - [[objektai/zodynas/žygis]]

@@ -92,7 +92,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/paprociai/Sekmadieninis kaimo žmonių linksminimasis ir šokiai]]

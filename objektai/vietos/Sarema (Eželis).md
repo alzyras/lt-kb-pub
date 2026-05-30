@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -15,30 +16,45 @@ tags:
 
 ## Santrauka
 
-Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusigaudavo net į Saremą (Eželį).
+Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusigaudavo net į Saremą (Eželį). įlanką, nusigaudavo net į Saremą (Eželį).
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žiemos metu per įlankos ledą buvo nusigaunama net į Saremą, dar vadinamą Eželiu.'
+  teiginys: 'Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusigaudavo net į Saremą (Eželį).'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'įlanką, nusigaudavo net į Saremą (Eželį).'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žiemos metu per įlankos ledą buvo nusigaunama net į Saremą, dar vadinamą Eželiu.'
+  santrauka: 'Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusigaudavo net į Saremą (Eželį).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    XIII amžiaus pra-
-    džioje lietuviai buvo tikras rusų siaubas. Kai XII amž. gale Li-
-    vonijoje įsikūrė vokiečių ateivių valstybė, lietuviai ėmė pulti ir
-    ją. Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję
+    Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję
     įlanką, nusigaudavo net į Saremą (Eželį).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'įlanką, nusigaudavo net į Saremą (Eželį).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    įlanką, nusigaudavo net į Saremą (Eželį).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

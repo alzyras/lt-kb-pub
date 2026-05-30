@@ -1,27 +1,32 @@
 ---
-tipas: zodyno_irasas
-pavadinimas: "netikėliai"
-sukurta: '2026-05-30'
-variantai:
-  - "netikėliais"
-aliases: []
 saltiniai:
-  - "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-laikotarpis: "Kronikos pratarmės religinio priešo vaizdavimo kontekstas"
-datos: []
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIV"
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-30'
-tags: []
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
+---
+  tipas: zodyno_irasas
+  pavadinimas: "netikėliai"
+  sukurta: "2026-05-30"
+  variantai:
+- "netikėliais"
+  aliases: []
+  saltiniai:
+- "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  laikotarpis: "Kronikos pratarmės religinio priešo vaizdavimo kontekstas"
+  datos:[]
+  periodas: "viduramziai"
+  periodo_grupes:[]
+  amziai:
+- "XIV"
+  date_start: ""
+  date_end: ""
+  vaidmenys: []
+  dalyviai: []
+  susije_irasai: []
+  patikimumas: "aukštas"
+  tags:[]
+  ---
 # netikėliai
 
 ## Santrauka
@@ -50,7 +55,7 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - t-002
   teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
   pagrindžia:
-    - c-001
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Kronikos pratarmėje `netikėliai` vartojami kaip religinė priešo etiketė.
@@ -69,12 +74,26 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dusburgiečio veikale nemaža moralizacijos, pamokymų, stebuklų, vizijų, nepaprastų
+    įvykių. Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
+    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
+    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
+    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/posakiai/Ar ilgai, viešpatie, rūstausi]]
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
 - [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]]

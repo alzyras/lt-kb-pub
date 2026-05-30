@@ -102,6 +102,5 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 ### Susiję objektai
 - [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Hugonas Butyras]]

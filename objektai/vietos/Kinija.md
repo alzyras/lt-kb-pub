@@ -6,20 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1626 m.'
-  - '1634 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XVII'
-  - 'XXI'
-date_start: '1626'
-date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -33,27 +19,36 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
+  teiginys: 'Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Šios ambicijos nebeatrodo geografiškai tokios naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Rudaminą, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
+  santrauka: 'Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    “ Šios ambicijos nebeatrodo geografiškai tokios
-    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
-    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
-    1626–1634 m. ir rašė asketikos veikalus kinų kalba. Šiauriausias katali-
-    kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
-    universiteto reikšmė.
-  citata_rodoma: ""
+    taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Šios ambicijos nebeatrodo geografiškai tokios naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Rudaminą, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

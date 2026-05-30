@@ -13,11 +13,6 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: '1930 m.; 1935 m.'
-vaidmenys:
-  - 'istorikas'
-  - 'autorius'
-dalyviai: []
-susije_irasai: []
 datos:
   - '1930 m.'
   - '1935 m.'
@@ -28,6 +23,11 @@ amziai:
   - 'XX'
 date_start: '1930'
 date_end: '1935'
+vaidmenys:
+  - 'istorikas'
+  - 'autorius'
+dalyviai: []
+susije_irasai: []
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -46,26 +46,75 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 - Problem Krymu w dziejach jagiellońskich
 
 ## Teiginiai
-- t-005
-  teiginys: 'L. Kolankowski buvo 1930 m. Varšuvoje išleisto veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius.'
+- t-001
+  teiginys: 'Kolankowski, Dzieje w.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'L. Kolankowski šiame šaltinyje bibliografiškai pateikiamas kaip veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius.'
   pagrindžia:
     - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
-  pagrindžia:
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Kolankowski, L.: Problem Krymu w dziejach jagiellońskich, KH, t.'
+- t-003
+  teiginys: 'L. Kolankowski pateikiamas kaip istorikas, aiškinęs diarchiją ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
   pagrindžia:
     - c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Koliankovskis Horodlės uniją aiškino kaip iš naujo patvirtintą Lietuvos inkorporaciją į Lenkiją.'
+  pagrindžia:
+    - c-007
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kolankowski, Dzieje w.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _L. Kolankowski,_ Dzieje w. Ks. Litewskiego za Jagiel-
+    lonów, I, 1377—1499 (1930);
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: L. Kolankowski papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kolankowski, L. : _Dzieje Wielkiego Księstwa Litewskiego za Ja­
+    giellonów,_ I, 1930, 11-51 p.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-003
+  santrauka: L. Kolankowski papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kolankowski, L.: _Problem Krymu
+    w dziejach jagiellońskich,_ KH, t. 49, 1935., 279-300 p. — Koneczny,
+    F. : _Witold wobec Rusi,_ Dzień Kowieński, 1930, nr. 204 (Vytautui skirtas
+    specialus nr., su J. Dąbrowski, O. Halecki, L. Kolankowski, Fr. Papee,
+    Wł. Semkowicz ir kt. straipsniais). — Kryczyński, St.: _Tatarzy litewscy.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 - c-004
-  santrauka: 'L. Kolankowski buvo 1930 m. Varšuvoje išleisto veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius.'
+  santrauka: Santrumpų sąrašas susieja L. Kolankowskį su 1930 m. veikalu apie Lietuvos Didžiąją Kunigaikštystę.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kol. = Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego
@@ -77,9 +126,23 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-002
 - c-005
-  santrauka: 'L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
+  santrauka: Kitas to paties šaltinio paminėjimas vėl pateikia L. Kolankowskio veikalą kaip metodinę atramą.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    (^3) ) Žiūr. Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego za Ja­
+    giellonów. Tom. 1. 1377—1490. Warszawa, 1930. Termino „diarchija“, kaip la­
+    biau atitinkančio šiam reikalui už „dualizmą“ ir toliau laikysimės
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-006
+  santrauka: L. Kolankowskis pateikiamas kaip istorikas, diarchiją aiškinęs brolių varžybomis dėl valdžios.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     (^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­
@@ -87,28 +150,26 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     brolių dėl aukščiausios valdžios rivalizaciįos išdava, kurios metu Algirdas
     net buvęs Kęstučio kalintas.
   citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-006
-  santrauka: 'Kolankowski, L.: Problem Krymu w dziejach jagiellońskich, KH, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+    - t-003
+- c-007
+  santrauka: Horodlės unijos aiškinime Koliankovskis siejamas su Lietuvos inkorporacijos į Lenkiją teze.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    — Kolankowski, L.: _Problem Krymu
-    w dziejach jagiellońskich,_ KH, t. 49, 1935., 279-300 p. — Koneczny,
-    F. : _Witold wobec Rusi,_ Dzień Kowieński, 1930, nr. 204 (Vytautui skirtas
-    specialus nr., su J. Dąbrowski, O. Halecki, L. Kolankowski, Fr. Papee,
-    Wł. Semkowicz ir kt. straipsniais). — Kryczyński, St.: _Tatarzy litewscy.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
+    (^2) ) Koliankovskis įrodinėja, kad ir Horodlės unija patvirtino iš naujo
+    Lietuvos inkorporaciją į Lenkiją (žiūr. Kol. 118—121): su ta nuomone mes
+    irgi nesutinkame. 3
+  citata_rodoma: ""
+  teiginio_tipas: interpretacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

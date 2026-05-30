@@ -1,20 +1,19 @@
 ---
 tipas: paprotys
-pavadinimas: 'Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis (sutartis)'
+pavadinimas: 'Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis'
 sukurta: '2026-04-25'
-variantai:
-  - 'Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis'
-aliases:
-  - 'Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis'
+variantai: []
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - paprotys
   - sutartis
 ---
-# Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis (sutartis)
+# Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis
 
 ## Santrauka
 
@@ -41,27 +40,41 @@ Nenurodyta
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Su valstiečiais turėjo būti sudarytos specialios sutartys.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamosios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo daryti sutartis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vykdant reformą
-    taip pat turėjo atsirasti bežemių: mat, buvo nustatyta, kad
-    dvarininkui turi likti ne mažiau, kaip^1 /з visos jo turėtosios že-
-    mės. Jei kur valstiečių dirbama žemė sudarė daugiau, kaip
-    (^2) /3 visos pono nuosavybės, tai iš dalies valstiečių ji turėjo būti
-    atimta.
     Valstiečiai tuo tarpu pradėjo būkštauti, kad iš skelbiamo-
     sios laisvės nieko neišeis; bijodami, kad iš sutarčių su ponais
     gali sulaukti naujų prievolių, ėmė net bruzdėti ir atsisakinėjo
     daryti sutartis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Su valstiečiais turėjo būti sudarytos specialios sutartys.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Su valstiečiais turėjo būti sudarytos specialios sutartys. Tačiau
+    praėjo paskirtasis laikas (2 metai), o tokių sutarčių teatsirado
+    vos tiktai keletas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

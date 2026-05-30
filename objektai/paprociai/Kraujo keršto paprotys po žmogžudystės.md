@@ -44,16 +44,17 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai atsidūrę itin varganoje padėtyje, pratę patys nusižudyti.'
   pagrindžia:
     - c-001
-    - c-003
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 213 Apie kraujo kerštą D.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai atsidūrę itin varganoje padėtyje, pratę patys nusižudyti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Jų krašte niekam neleidžiama
-    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
-    tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
+    Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
     tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213. Žmonės, netikėtai
     atsidūrę itin varganoje padėtyje, pratę patys nusižudyti.
   citata_rodoma: ''
@@ -63,23 +64,21 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-003
-  santrauka: Kraujo keršto paprotys po žmogžudystės papildomas patvirtintas šaltinio paminėjimas.
+- c-002
+  santrauka: 'Dusburgietis teigia, kad 213 Apie kraujo kerštą D.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Dėl to žmoną
-    laiko nelyginant tarnaitę [sicut ancillam]: ji su savo vyru nesėda prie vieno stalo, o tam
-    tikromis dienomis plauna kojas namiškiams ir svečiams212. Jų krašte niekam neleidžiama
-    elgetauti, pavargėliai laisvai vaikšto nuo namo prie namo ir nesidrovėdami valgo kada
-    tinkami. Jeigu jų žemėje žmogus nužudo žmogų, tai šalys gali užbaigti nesantarvę tik
-    tada, kai užmuštojo tėvai nužudo patį žudiką arba jo giminaitį213.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    213 Apie kraujo kerštą D. užrašė, matyt, iš nuogirdų, be to, perdėdamas. Taliono
+    principo (kaklas už kaklą, ranka už ranką) buvimas prūsų prigimtinėje teisėje davė
+    pagrindo D. kalbėti apie kraujo kerštą ne tik nusikaltėliui, bet ir jo giminėms. XIII a.
+    2-oje pusėje talionas buvęs pakeičiamas išpirka (Jurginis J., Baudžiavos..., p. 98—100).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

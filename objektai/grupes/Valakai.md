@@ -7,17 +7,16 @@ variantai:
 aliases: []
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-datos:
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
-date_start: '2026'
-date_end: ''
 bukle: 'juodrastis'
 laikotarpis: 'XV amžius; XVII amžius'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XV'
+  - 'XVII'
+date_start: ''
+date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -32,51 +31,74 @@ tags:
 Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Valakai buvo viena iš grupių, sudariusių Vytauto vedamą internacionalinę kariuomenę.'
+- t-001
+  teiginys: 'Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.'
   pagrindžia:
+    - c-004
+    - c-003
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
-  pagrindžia:
     - c-002
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valakai buvo viena iš grupių, sudariusių Vytauto vedamą internacionalinę kariuomenę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
-    Salzbachą su keliais tūkstančiais kariuomenės;
-    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
-    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
-    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
-    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
-    kunigaikščių joje buvo per penkiasdešimt.
+    Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
+    prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
+    valakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 - c-002
-  santrauka: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  santrauka: Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  citata_originali: |
+    laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
+    sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-003
+  santrauka: Valakai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo
     būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
     čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
-    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
-    kunigaikščių joje buvo per penkiasdešimt.
-  citata_rodoma: ''
+    kariuomenė buvo internacionalinė.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-003
+    - t-001
+- c-004
+  santrauka: Valakai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

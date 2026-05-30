@@ -21,29 +21,39 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius.'
+  teiginys: 'Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, plėtojusi etninių lietuvių tautinį.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Abi draugijos daug dėmesio skyrė praeičiai, LDK paveldui, bet Lietuvių draugija ypač orientavosi į lietuvių kalbos ir etninės kultūros tyrimus, mokyklinių vadovėlių lietuvių mokykloms rengimą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniaus mokslo bičiulių draugija telkė lenkiškai kalbančiuosius.'
+  santrauka: 'Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, plėtojusi etninių lietuvių tautinį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
-    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
-    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
-    telkusi lenkiškai kalbančiuosius.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Abi draugijos daug dėmesio skyrė praeičiai, LDK paveldui, bet Lietuvių draugija ypač orientavosi į lietuvių kalbos ir etninės kultūros tyrimus, mokyklinių vadovėlių lietuvių mokykloms rengimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    nius leidinius. Beje, abi jos buvo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

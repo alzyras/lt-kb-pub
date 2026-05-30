@@ -1,11 +1,9 @@
 ---
 tipas: ivykis
-pavadinimas: 'Mindaugo krikštas ir karūnos išsirūpinimas (krikštas)'
+pavadinimas: 'Mindaugo krikštas ir karūnos išsirūpinimas'
 sukurta: '2026-05-14'
-variantai:
-  - 'Mindaugo krikštas ir karūnos išsirūpinimas'
-aliases:
-  - 'Mindaugo krikštas ir karūnos išsirūpinimas'
+variantai: []
+aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -16,7 +14,7 @@ tags:
   - karas
   - ordinas
 ---
-# Mindaugo krikštas ir karūnos išsirūpinimas (krikštas)
+# Mindaugo krikštas ir karūnos išsirūpinimas
 
 ## Santrauka
 
@@ -36,27 +34,39 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą.'
+  teiginys: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: '1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą.'
+  santrauka: 'Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
     tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
-    Livonijos ordino magistrą Andrių Štirlandą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    mas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -49,17 +49,24 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Posakis „Ab alio expectes alteri quod feceris“ pateiktas su lietuvišku vertimu skliaustuose.'
+  teiginys: "Žygimanto Augusto testamento tekste frazė „Ab alio expectes alteri quod feceris“ aiškiai pristatoma kaip lotyniškas posakis."
   pagrindžia:
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Posakio „Ab alio expectes alteri quod feceris“ lietuviškas vertimas yra „Tai, ką padarei vienam, sulauksi iš kito“.'
+  teiginys: "Lietuviškas skliaustinis vertimas pateikia reikšmę: „Tai, ką padarei vienam, sulauksi iš kito“."
   pagrindžia:
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: "Posakis vartojamas testamento vykdymo, ištikimybės ir atlygio už gerą elgesį kontekste."
+  pagrindžia:
+    - c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata pateikia lotynišką posakį, jo vertimą ir testamento vykdymo kontekstą.
@@ -91,6 +98,7 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
   pagrindžia:
     - t-001
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

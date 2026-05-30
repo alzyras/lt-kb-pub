@@ -30,11 +30,21 @@ tags:
 A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėjas ir kaip leidinio „Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.)“ parengėjas.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad šidlauskas.—V., 1983.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad šidlauskas.—V., 1983.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -48,6 +58,25 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+- c-001
+  santrauka: 'A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Apie bibliotekas Lietuvoje XIX a.
+    pradžioje rašė M. Lukšienė (BBK, t. 5, 1966, 109-136 p.), ji
+    rašė ir apie to laiko pradines mokyklas^124. A. Šidlauskas
+    atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje
+    (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
+    (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
+    (AkMD, t. 12, sąs. 2, 1972).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

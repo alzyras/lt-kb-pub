@@ -97,7 +97,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
+- [[objektai/asmenys/Krivis]]
 - [[objektai/zodynas/amfiktionija]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Krivis]]
 - [[objektai/zodynas/Romuva ir krivis]]

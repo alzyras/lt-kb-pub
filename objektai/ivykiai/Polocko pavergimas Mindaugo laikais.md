@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -32,15 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Polockas pamažu artino savo sienas prie aisčių krašto, o Padauguvio giminės kurį laiką pripažino jo valdžią ir mokėjo duoklę.'
+  teiginys: 'Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija, lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'O Mindaugo laikais jie pavergė ir patį Polocką.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Polockas pamažu artino savo sienas prie aisčių krašto, o Padauguvio giminės kurį laiką pripažino jo valdžią ir mokėjo duoklę.'
+  santrauka: 'Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija, lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija,
@@ -48,13 +55,26 @@ Nenurodyta
     atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas
     vis artino į aisčių kraštą. Kurį laiką Padauguvio giminės net mo-
     kėjo jam duoklę — buvo pripažinusios jo valdžią.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'O Mindaugo laikais jie pavergė ir patį Polocką.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tada aisčiams jau lengviau buvo kariauti, ir XIII a. pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles. O
+    Mindaugo laikais jie pavergė ir patį Polocką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

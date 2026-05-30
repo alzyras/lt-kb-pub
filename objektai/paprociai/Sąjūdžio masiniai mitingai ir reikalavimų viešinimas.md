@@ -63,29 +63,44 @@ tags: []
 - Praktika rodo Sąjūdžio akcijų atvirumą visiems Lietuvos gyventojams.
 
 ## Teiginiai
-- t-004
-  teiginys: '1988 m. spalio pabaigoje Lietuvoje buvo įregistruota 1 200 LPS grupių, vienijusių 300 000 narių.'
+- t-001
+  teiginys: "1988 m. birželio ir liepos mitinguose dalyvavo dešimtys ir šimtai tūkstančių žmonių, o Vingio parke paskelbti reikalavimai legalizuoti trispalvę ir „Tautišką giesmę“."
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "1988 m. liepą-rugsėjį visoje Lietuvoje steigėsi Sąjūdžio iniciatyvinės grupės ir vyko didžiuliai mitingai."
+  pagrindžia:
+    - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1988 m. spalio pabaigoje Lietuvoje buvo įregistruota 1 200 LPS grupių, vienijusių 300 000 narių.'
+  santrauka: Citata aprašo pirmuosius tūkstantinius mitingus ir tautinių simbolių legalizavimo reikalavimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1988 m. spalio pabaigoje
-    1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių, nes Sąjūdis
-    buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
-    Lietuvos gyventojai.
+    tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab. Katedros)
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
   pagrindžia:
-    - t-004
+    - t-001
+- c-002
+  santrauka: Citata aprašo iniciatyvinių grupių plitimą, mitingus ir Sąjūdžio atvirumą.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  pagrindžia:
+    - t-002
 
 ## Šaltiniai ir įrodymai
 

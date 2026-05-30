@@ -19,66 +19,55 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
 
 ## Teiginiai
 - t-001
-  teiginys: '1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba, skirta lietuviams ir Lietuvai.'
+  teiginys: 'Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Martyno Mažvydo „Katekizmas“ buvo pirmoji lietuviška knyga.'
+  teiginys: 'Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: '1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas A. Kulviečio ir Stanislovo Rapolionio programos dalimi.'
+  teiginys: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
   pagrindžia:
     - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-004
-  teiginys: 'Pirmoji lietuviška knyga buvo Martyno Mažvydo „Katekizmas“.'
+  teiginys: 'Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
   pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-004
 
 ## Reikšmingi paminėjimai
-
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba, skirta lietuviams ir Lietuvai.'
+  santrauka: 'Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspausdintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai kny-
     gai lietuvių kalba – tai garsusis Martyno Mažvydo „Katekizmas“: išspaus-
     dintas emigracijoje Karaliaučiuje, bet skirtas lietuviams ir Lietuvai. LDK
     visuomenė tuo metu nebuvo pribrendusi lietuviakalbei knygai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Martyno Mažvydo „Katekizmas“ buvo pirmoji lietuviška knyga.'
+  santrauka: 'Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kilmės iš
     romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per
     visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui
     Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-    - t-004
 - c-003
-  santrauka: '1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas A. Kulviečio ir Stanislovo Rapolionio programos dalimi.'
+  santrauka: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šią programą A. Kulvietis
@@ -90,10 +79,25 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
     rusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti:
     lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
     jektui Lietuvos visuomenė nebuvo pasirengusi.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kilmės iš
+    romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per
+    visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui
+    Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

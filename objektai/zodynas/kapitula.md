@@ -6,6 +6,7 @@ variantai:
   - kapitulai
 aliases: []
 saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
   - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
@@ -36,29 +37,50 @@ tags:
 XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užėmė rusai.
 
 ## Teiginiai
-- t-006
-  teiginys: 'Dusburgietis teigia, kad šių namų pagrindą sudaręs didysis magistras ir kapitula, jų niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.'
+- t-004
+  teiginys: 'Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.'
   pagrindžia:
-    - c-003
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­ damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­ muno, žemiau Dubysos įtakos, Naują Marienburgo pilį.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Dusburgietis teigia, kad šių namų pagrindą sudaręs didysis magistras ir kapitula, jų niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-001
+  santrauka: 'Ordino kapitula turi sutikti, kad Vytautui būtų pavesta valdyti Naują Marienburgo pilį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Pirmosios dalies
-    įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.
-    septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje
-    įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis
-    šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
-    Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
-    niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
+    Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
+    damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
+    muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
+    sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
+  santrauka: 'Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­ damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­ muno, žemiau Dubysos įtakos, Naują Marienburgo pilį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kryžiuočių viršininkas dabar jau labiau Vytautui pasitikė­
+    damas, Ordino kapitulai sutikus, pavedė jam valdyti prie Ne­
+    muno, žemiau Dubysos įtakos, Naują Marienburgo pilį. Nauja­
+    sis Marienburgas pasidarė Vytauto giminių bei šalininkų centras.
+    Čia atvyko ir Vytauto jauniausias brolis Zigmantas, čia persi­
+    kraustė ir Alšėnų kunigaikštis ir kiti.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

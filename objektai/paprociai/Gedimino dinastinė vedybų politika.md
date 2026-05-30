@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags: []
@@ -36,7 +37,9 @@ Nenurodyta
 - t-001
   teiginys: 'Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.'
   pagrindžia:
+    - c-004
     - c-001
+
 - t-002
   teiginys: 'Gedimino sūnūs vedė rusų kunigaikštytes arba priėmė stačiatikių tikėjimą.'
   pagrindžia:
@@ -50,14 +53,19 @@ Nenurodyta
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
+- t-004
+  teiginys: 'XIV amžiuje valdovams buvo paprotys vesti svetimų kraštų kunigaikštytes, nes galingiems valdovams buvo nepatogu susirišti giminystės ryšiais su savo pavaldiniais.'
+  pagrindžia:
+    - c-005
+  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Gediminas taip pat buvo pirmasis, kuris
-    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
-    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
+    Tačiau ir
     čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
     sūnų bei dukterų vedybomis.
   citata_rodoma: ''
@@ -67,14 +75,12 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: Gedimino sūnūs dinastines sąjungas siejo su stačiatikiškuoju pasauliu.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jau nuo XIII amž., santykiaudama su Vakarų Europos kul­
-    tūros atstovais, Lietuva vartojo lotynų kalbą (Mindaugo užrašai,
-    Gedimino laiškai). Savo plačios tolerancijos laikydamasis, rytinių
-    slavų žemėse Gediminas vartojo jų kalbą. Keli jo paties sūnūs
+    Keli jo paties sūnūs
     (Narimantas-Hlebas, Jaunutis-Jonas, Karijotas-Mykolas, Liubartas-
     Dimitras) priėmė stačiatikių tikėjimą arba vedė rusų kunigaikšty­
     tes.
@@ -89,9 +95,7 @@ Nenurodyta
   santrauka: Gediminaičių palikuonių giminės siejamos su rusų papročių perėmimu ir santuokomis.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    tėvą. Pirmosios žmonos Marijos Vitebskietės penki sūnūs, augę
-    dar Algirdui esant daliniu kunigaikščiu ir gavę savo dalis Rusėje,
-    visi buvo stačiatikiai. Vesdami stačiatikes žmonas ir prisiimdami
+    Vesdami stačiatikes žmonas ir prisiimdami
     rusų papročius, jie, jų anūkai ar proanūkai davė pradžią vėliau
     žinomiems kunigaikščiams Trubeckoj (iš Dimitro), Čartoriskiams
     (iš Konstantino), Bielskiams ir Sluckiams (iš Vladimiro), Sanguš­
@@ -103,6 +107,38 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: Gedimino dinastinė vedybų politika papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Veikdamas kardu, diplomatija (santykiai su Ryga ir Vladislovu
+    Łokietka) ir apdairiomis vaikų vedybomis, Gediminas išugdė vals­
+    tybę, kurios stiprybė nesibaigė jo mirtimi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
+
+- c-005
+  santrauka: Galingų valdovų paprotys buvo ieškoti santuokų svetimuose kraštuose, vengiant giminystės su pavaldiniais.
+  šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
+  citata_originali: |
+    Anuo laiku, tiesa,
+    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
+    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
+    savo pavaldiniais. O, be to, jie šitai darydavę ir kitokiais sume­
+    timais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

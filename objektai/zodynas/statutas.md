@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -17,51 +18,91 @@ tags:
 
 ## Santrauka
 
-Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti. (Lietuvos bajorija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsižadėti savo statuto, t. Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pamiątkowa ...
+Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo- rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža- dėti savo statuto, t. Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pa- miątkowa ...
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
+  teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: 'Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių.'
+  teiginys: '(Lietuvos bajo- rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža- dėti savo statuto, t.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-003
+  teiginys: 'Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pa- miątkowa ...'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-004
+  teiginys: 'statut i polsk.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
+  santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
     tvirtinti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių.'
+  santrauka: '(Lietuvos bajo- rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža- dėti savo statuto, t.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     (Lietuvos bajo-
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pa- miątkowa ...'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _Ig. Jonynas,_ Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2); Księga pa-
+    miątkowa ... I statutu lit. (1935); _J. J. Lappo,_ Litovskij statut 1588 g., I, II
+    (1934, 1936);
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'statut i polsk.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    XVIII. Valstybinė santvarka po Liublino unijos. 1. I. Lappo, Lietuva
+    ir Lenkija po 1569 m. L. unijos (1932); S. A. Beršadskij, Lit. statut i polsk.
+    konstitucii (1893); 5. L. Ptašicki, K istorii lit. prava poslie III statuta (1893);
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

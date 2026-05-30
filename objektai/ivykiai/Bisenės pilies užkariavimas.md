@@ -1,11 +1,9 @@
 ---
 tipas: ivykis
-pavadinimas: 'Bisenės pilies užkariavimas (pilis)'
+pavadinimas: 'Bisenės pilies užkariavimas'
 sukurta: '2026-05-30'
-variantai:
-  - 'Bisenės pilies užkariavimas'
-aliases:
-  - 'Bisenės pilies užkariavimas'
+variantai: []
+aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos: []
@@ -22,7 +20,7 @@ tags:
   - kraštas
   - ordinas
 ---
-# Bisenės pilies užkariavimas (pilis)
+# Bisenės pilies užkariavimas
 
 ## Santrauka
 
@@ -45,14 +43,17 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad apie Lietuvos pilies, vardu Bisenė, užkariavimą Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo ryto iki pietų smarkiai puolė pilį.'
   pagrindžia:
     - c-001
-    - c-003
+- t-002
+  teiginys: 'Dusburgietis teigia, kad kita kariuomenės dalis įsibrovė į šios pilies apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad apie Lietuvos pilies, vardu Bisenė, užkariavimą Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo ryto iki pietų smarkiai puolė pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    222 (217). Apie Lietuvos pilies, vardu Bisenė, užkariavimą
+    Apie Lietuvos pilies, vardu Bisenė, užkariavimą
 
        Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su
     didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo
@@ -67,25 +68,26 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-003
-  santrauka: Bisenės pilies užkariavimas papildomas patvirtintas šaltinio paminėjimas.
+- c-002
+  santrauka: 'Dusburgietis teigia, kad kita kariuomenės dalis įsibrovė į šios pilies apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su
-    didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo
-    ryto iki pietų smarkiai puolė pilį, vardu Bisenė519, ir puldami buvo taip įnirtę, kad, nukovę
-    daugybę pilies gynėjų ar mirtinai sužeidę, galop įsiveržė į ją ir pavertė pelenais, vienus
-    pilėnus paėmę  į nelaisvę, o kitus išžudę. Kita kariuomenės dalis įsibrovė  į šios pilies
+    Kita kariuomenės dalis įsibrovė  į šios pilies
     apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal. Šio antpuolio
     metu daug krikščionių buvo sunkiai sužeista, o 4 broliai bei vienas tarnas su arkliais ir
     ginklais paskendo Nemune, nes jų neišlaikė ledas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+
+
+
+
+      518 Apie Ordino antinacionalinę politiką pavergtų prūsų atžvilgiu žr.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

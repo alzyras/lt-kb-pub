@@ -112,5 +112,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/maršalka]]
-- [[objektai/ivykiai/Rūdavos mūšis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

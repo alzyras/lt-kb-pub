@@ -36,13 +36,14 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Aizkrauklės mūšyje pagonims atitekusi riterių vėliava Livonijoje buvo suvokta kaip didelis smūgis krikščionybei.'
+  teiginys: 'Aizkrauklės mūšyje pagonims atiteko riterių vėliava.'
   pagrindžia:
+    - c-003
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Riterių vėliavos netekimas kovoje viduramžiais laikytas didele nelaime dėl itin vertintos ženklų simbolikos.'
+  teiginys: 'Vėliavos netekimas laikytas didele nelaime.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -50,41 +51,49 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aizkrauklės mūšyje pagonims atitekusi riterių vėliava Livonijoje buvo suvokta kaip didelis smūgis krikščionybei.'
+  santrauka: Aizkrauklės mūšyje pagonims atiteko riterių vėliava.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    5 d.), iš kurių kry­
-    žiuočių nelaimei pasitraukė žiemgaliai^238 , žuvo pats magistras ir 71
-    ordino riteris^239. Skaudžiam Aizkrauklės pralaimėjimni Eiliuotinės
-    kronikos autorius tepaskyrė, palyginti, nedaug posmelių. Iš to, ką
+    Iš to, ką
+    kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
+    ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
+    pagonims atiteko riterių vėliava 240 *.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Vėliavos netekimas laikytas didele nelaime.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O jos netekimas kovoje, prie
+    viduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,
+    skaitėsi didelė nelaimė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: Riterių vėliava papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš to, ką
     kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
     ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
     pagonims atiteko riterių vėliava 240 *.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Riterių vėliavos netekimas kovoje viduramžiais laikytas didele nelaime dėl itin vertintos ženklų simbolikos.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Skaudžiam Aizkrauklės pralaimėjimni Eiliuotinės
-    kronikos autorius tepaskyrė, palyginti, nedaug posmelių. Iš to, ką
-    kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
-    ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
-    pagonims atiteko riterių vėliava 240 *. O jos netekimas kovoje, prie
-    viduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,
-    skaitėsi didelė nelaimė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -92,6 +101,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/daiktai/Vėliavos]]

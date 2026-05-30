@@ -5,7 +5,8 @@ sukurta: '2026-05-27'
 variantai:
   - "Chronica Terrae Prussiae"
 aliases: []
-saltiniai: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 laikotarpis: "1326-1330 m. kronikos sudarymas; 1985 m. leidimas"
 datos:
   - "1326 m."
@@ -95,6 +96,7 @@ Tai 1985 m. Vilniuje leidyklos „Vaga“ išleistas Petro Dusburgiečio „Prū
     - c-013
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: "Pratarmėje apibrėžiama pagrindinė kronikos teminė apimtis."
@@ -151,6 +153,26 @@ Tai 1985 m. Vilniuje leidyklos „Vaga“ išleistas Petro Dusburgiečio „Prū
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
+- c-011
+  santrauka: Leidinio įžanginis sumanymas apibrėžiamas kaip pastanga atskleisti šaltinio turinį ir reikšmę platesnei visuomenei.
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    „Lituanistinės bibliotekos“ serijoje pateikiamu Petro iš Dusburgo kronikos teksto
+    vertimu, jo aptarimu įžanginiame straipsnyje bei paaiškinimuose norima platesnei
+    visuomenei atskleisti šio svarbaus šaltinio turinį ir reikšmę, padaryti plačiau prieinamą
+    kronikos tekstą, panagrinėti kai kurias istoriografines, kultūrines, filologines ir kt.
+    problemas.
+      Įvade bandoma apibūdinti kronikos sukūrimo epochą, prūsų ir Lietuvos ryšius,
+    kronikos rankraščius, jų tyrinėjimus, autoriaus politinius  ir ideologinius tikslus,
+    kronikos  šaltinius, tendenciją, idėjinę teksto reikšmę  ir mokslinę svarbą.  Kiti
+    klausimai analizuojami paaiškinimuose, kur mėginama lokalizuoti kronikoje minimas
+    vietoves (žr. ir schemą).
+  citata_rodoma: ""
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
 - c-012
   santrauka: Įvade išvardijamos pagrindinės temos, kurias leidinys žada aptarti ir aiškinti.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -191,6 +213,7 @@ Tai 1985 m. Vilniuje leidyklos „Vaga“ išleistas Petro Dusburgiečio „Prū
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-016
+
 ## Bibliografiniai įrodymai
 - c-010
   santrauka: Leidinio pratarmė susieja 1861 m. mokslinį lotynišką leidimą su M. Tepenu ir pažymi pirmą pilną lietuvišką vertimą.
@@ -213,4 +236,5 @@ Tai 1985 m. Vilniuje leidyklos „Vaga“ išleistas Petro Dusburgiečio „Prū
   pagrindžia:
     - t-012
     - t-013
+
 ## Pastabos

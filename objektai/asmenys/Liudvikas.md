@@ -24,22 +24,26 @@ tags:
 Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui (iš d'Anjou giminės). Liudvikas mirė (1382 m.), taip pat nepalikęs sūnų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po bevaikio Kazimiero mirties sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui iš d''Anjou giminės.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+
 - t-002
   teiginys: 'Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno įpėdinio.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Po bevaikio Kazimiero mirties sostas atiteko jo sesers sūnui, Vengrijos karaliui Liudvikui iš d''Anjou giminės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -54,6 +58,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno įpėdinio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -68,6 +73,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -84,6 +90,20 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: Liudvikas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
+    įpėdinio.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

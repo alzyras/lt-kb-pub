@@ -206,9 +206,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Walenrodto]]
-- [[objektai/zodynas/raitarai]]
-- [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]

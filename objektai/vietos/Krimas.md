@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -20,27 +21,44 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 
 ## Teiginiai
 - t-001
-  teiginys: 'Auksinei Ordai suskilus, Krime atsirado Perekopo chanatas, kurio pavadinimas siejamas su sostinės pilimi Perekopu.'
+  teiginys: 'Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Auksinei Ordai suskilus, Krime atsirado Perekopo chanatas, kurio pavadinimas siejamas su sostinės pilimi Perekopu.'
+  santrauka: 'Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
     rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
-    nės pilis). Jonas III su naujuoju chanu padarė sąjungą ir su-
-    naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
-    totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
-    Lietuva.
-  citata_rodoma: ""
+    nės pilis).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Sudaręs
+    sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis
+    ragino chaną pulti Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

@@ -22,72 +22,87 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 
 ## Teiginiai
 - t-001
-  teiginys: 'Etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje buvo numatytas etninės kultūrinės mažumos statusas.'
+  teiginys: 'O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žydai buvo laikomi tik šio krašto tautinėmis mažumomis, kurioms leista plėtoti savo kultūrinę veiklą, jei ji caro administracijos požiūriu nėra pavojinga imperijos interesams.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Lenkų valstybingumo planuose lietuviams buvo numatytas tik tautinės mažumos statusas.'
+  teiginys: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
+  teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
   pagrindžia:
     - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-004
+  teiginys: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje buvo numatytas etninės kultūrinės mažumos statusas.'
+  santrauka: 'O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žydai buvo laikomi tik šio krašto tautinėmis mažumomis, kurioms leista plėtoti savo kultūrinę veiklą, jei ji caro administracijos požiūriu nėra pavojinga imperijos interesams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Etniniams lietu-
-    viams jų įsivaizduojamoje Lenkijos valstybėje (arba autonominėje Len-
-    kijoje Rusijos sudėtyje) buvo numatytas etninės kultūrinės mažumos
-    statusas. Nedaug nuo jų skyrėsi lenkų krikščionių demokratų pozicija.
-  citata_rodoma: ""
+    tu, taigi traktavo kaip organišką „tikrosios“ Rusijos dalį. O tai reiškė, kad
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lenkų valstybingumo planuose lietuviams buvo numatytas tik tautinės mažumos statusas.'
+  santrauka: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano
-    Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valsty-
-    bė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo
-    planuose lenkai numatė lietuviams tik tautinės mažumos statusą.
-  citata_rodoma: ""
+    statusas. Nedaug nuo jų skyrėsi lenkų krikščionių demokratų pozicija.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
+  santrauka: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    bė, kuri juos laikytų ir savo kultūros politikos dalimi. Savo valstybingumo
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
   santrauka: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
     tinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai. Apskritai
-    tautinės mažumos, tarp jų rusai ir vokiečiai, galėjusios laisvai puoselėti
-    savo kalbą ir kultūrą, nesijautė lygiateisės su lietuviais, gaudamos tik lie-
-    tuvių padėjėjų vaidmenį, atsitrenkdamos į nematomus barjerus, kai siekė
-    valstybinės tarnybos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

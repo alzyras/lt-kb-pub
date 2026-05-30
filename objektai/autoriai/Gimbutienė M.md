@@ -67,4 +67,3 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]

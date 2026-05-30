@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1236 m.'
 periodas: 'viduramžiai'
@@ -29,15 +30,26 @@ tags:
 Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „didžiuliais turtais“, kartu su Kryžiuočių ordino riteriais jie niokojo Pamedę, sunaikino daug prūsų pilių, žudė žmones.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie daugelio pilių sunaikinimą ir pamedėnų pavergimą Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė, kamuodamas grobstymais bei gaisrais ir.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad apie Meiseno markgrafo atvykimą Tuo metu į Prūsijos žemę atvyko kilnus, garbus ir dievobaimingas valdovas Henrikas, Meiseno markgrafas234, su penkiais šimtais kilmingų bei kovai pasirengusių vyrų ir su dideliais turtais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -60,6 +72,7 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Dusburgietis teigia, kad apie daugelio pilių sunaikinimą ir pamedėnų pavergimą Pamedės žemėje buvo valsčius, vardu Reisiai, kuriame gyveno daug garsių vyrų ir drąsių karių; minėtasis valdovas, ryžtingai imdamasis darbo, drąsiai juos užpuolė, kamuodamas grobstymais bei gaisrais ir.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -79,6 +92,33 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+- c-001
+  santrauka: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Siekiant nukreipti dėmesį nuo pagrin-
+    dinio puolimo prieš Lietuvą iš šiaurės,
+    tais pačiais 1236 m. ir prieš prūsų žemes
+    Pavyslyje buvo surengtas naujas puoli-
+    mas. Ordinui į pagalbą atvyko Meiseno
+    markgrafas Henrikas su 500 riterių ir su
+    „didžiuliais turtais“, kartu su Kryžiuočių
+    ordino riteriais jie niokojo Pamedę, su-
+    naikino daug prūsų pilių, žudė žmones.
+
+    1236 m. rugsėjį į Lietuvą įžengusios
+    didžiulės tarptautinės kryžeivių pajėgos,
+    sudarytos iš Kalavijuočių ordino bro-
+    lių ir kryžininkų iš įvairių Europos šalių,
+    „pasidalino į būrius“ ir ėmė plėšti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

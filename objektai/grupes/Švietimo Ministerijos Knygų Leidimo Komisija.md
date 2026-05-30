@@ -1,31 +1,17 @@
 ---
 tipas: grupe
-pavadinimas: 'Švietimo Ministerijos Knygų Leidimo Komisija (institucija)'
+pavadinimas: 'Švietimo Ministerijos Knygų Leidimo Komisija'
 sukurta: '2026-04-25'
-variantai:
-  - 'Švietimo Ministerijos Knygų Leidimo Komisija'
-aliases:
-  - 'Švietimo Ministerijos Knygų Leidimo Komisija'
+variantai: []
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1925 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1925'
-date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - grupe
 ---
-# Švietimo Ministerijos Knygų Leidimo Komisija (institucija)
+# Švietimo Ministerijos Knygų Leidimo Komisija
 
 ## Santrauka
 
@@ -33,42 +19,38 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1925 m. leidinį išleido Švietimo ministerijos Knygų leidimo komisija.'
+  teiginys: 'ŠVIETIMO MINISTERIJOS KNYGŲ.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Š A P О K А]] ŠVIETIMO MINISTERIJOS KNYGŲ LEIDIMO KOMISIJOS LEIDINYS KAUNAS 1936 M.'
+  teiginys: 'Ministerijos Knygų Leidimo Komisijai už vadovėlio išleidimą.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'ŠVIETIMO MINISTERIJOS KNYGŲ LEIDIMO KOMISIJOS LEIDINYS KAUNAS 1936 M.'
+  pagrindžia:
+    - c-005
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1925 m. leidinį išleido Švietimo ministerijos Knygų leidimo komisija.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'ŠVIETIMO MINISTERIJOS KNYGŲ.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    prof. Dr. Jonui Yčui, vertė Antanas Kasakaitis. Kaunas,
-
-    1925. Švietimo Min. knygų leidimo komisijos leidinys.
-  citata_rodoma: ""
+    ŠVIETIMO MINISTERIJOS KNYGŲ
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Š A P О K А]] ŠVIETIMO MINISTERIJOS KNYGŲ LEIDIMO KOMISIJOS LEIDINYS KAUNAS 1936 M.'
+  santrauka: 'Ministerijos Knygų Leidimo Komisijai už vadovėlio išleidimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Š A P О K А]]
-
-    **ŠVIETIMO MINISTERIJOS KNYGŲ**
-
-    **LEIDIMO KOMISIJOS LEIDINYS**
-
-    **KAUNAS 1936 M.
+    Taip pat tenka padėkoti Šv.
+    Ministerijos Knygų Leidimo Komisijai už vadovėlio išleidimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,3 +58,27 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-004
+  santrauka: Švietimo Ministerijos Knygų Leidimo Komisija papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1925. Švietimo Min. knygų leidimo komisijos leidinys.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003
+- c-005
+  santrauka: Švietimo Ministerijos Knygų Leidimo Komisija papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1925. Švietimo Min. knygų leidimo komisijos leidinys.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-003

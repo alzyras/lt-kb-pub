@@ -6,12 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -26,50 +21,68 @@ tags:
 Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos. Po nelaimingai pasibaigusio kryžiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kartus (1347 m.). Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 
 ## Teiginiai
-- t-005
-  teiginys: 'Dusburgietis teigia, kad andrius II (III) račius Anonas iš Zangershauzeno, Or. did. mg.'
+- t-001
+  teiginys: 'Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos.'
   pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Dusburgietis teigia, kad vadovas iš Kverfurto Liv. mg. Brutenis Burchardas iš Hornhauzeno iš Magdeburgo, Trumparankis iš Švandeno kamerarijus Būga K.'
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Po nelaimingai pasibaigusio kryžiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kartus (1347 m.).'
   pagrindžia:
-    - c-006
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Vinrichas von Kniprodė 1351–1382 m. buvo kryžiuočių ordino magistras.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Dusburgietis teigia, kad andrius II (III) račius Anonas iš Zangershauzeno, Or. did. mg.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-001
+  santrauka: 'Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Andrius II
-        (III)
-        račius
-    Anonas iš Zangershauzeno, Or. did. mg.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
+    Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
+    tas pamišėliu ir pašalintas iš vietos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Dusburgietis teigia, kad vadovas iš Kverfurto Liv. mg. Brutenis Burchardas iš Hornhauzeno iš Magdeburgo, Trumparankis iš Švandeno kamerarijus Būga K.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+    - t-001
+- c-002
+  santrauka: 'Po nelaimingai pasibaigusio kryžiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kartus (1347 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    vadovas
-        iš Kverfurto
-        Liv. mg.
-    Brutenis
-    Burchardas iš Hornhauzeno
-        iš Magdeburgo, Trumparankis
-        iš Švandeno
-       kamerarijus
-    Būga K.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
+    Po nelaimingai pasibaigusio kry-
+    žiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė
+    esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kar-
+    tus (1347 m.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-002
+- c-003
+  santrauka: 'Vinrichas von Kniprodė 1351–1382 m. buvo kryžiuočių ordino magistras.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vinrichas von Kniprodė,
+    kryžiuočių ordino magistras (1351
+    —1382 m.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

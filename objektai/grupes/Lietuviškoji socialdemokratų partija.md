@@ -22,49 +22,55 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuviškoji socialdemokratų partija susikūrė 1896 m. ir leido spaudą lietuvių bei lenkų kalbomis.'
+  teiginys: 'Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų partija, susikūrusi 1896 m. Savo programoje ji buvo įrašiusi suverenios Lietuvos, valstybės, sujungtos laisvos.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuviškoji socialdemokratų partija po revoliucijos prarado įgytą populiarumą ir patyrė didžiausias caro valdžios represijas.'
+  teiginys: 'Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuviškoji socialdemokratų partija susikūrė 1896 m. ir leido spaudą lietuvių bei lenkų kalbomis.'
+  santrauka: 'Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų partija, susikūrusi 1896 m. Savo programoje ji buvo įrašiusi suverenios Lietuvos, valstybės, sujungtos laisvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
     tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
-    partija, susikūrusi 1896 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuviškoji socialdemokratų partija po revoliucijos prarado įgytą populiarumą ir patyrė didžiausias caro valdžios represijas.'
+  santrauka: 'Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio
-    idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje
-    prarado, patyrė ir didžiausias caro valdžios represijas. Socialdemokratai
-    rėmė Lietuvos nepriklausomybės idėją, pasisakė už socialines reformas,
-    lietuvių ir lenkų kalbų lygybę Lietuvoje.
-  citata_rodoma: ""
+    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    prarado, patyrė ir didžiausias caro valdžios represijas. Socialdemokratai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

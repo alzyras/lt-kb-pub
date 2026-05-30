@@ -30,26 +30,31 @@ tags:
 Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo surinkti jėgų, ir sąjungininkams nebepasisekė paimti Marijenburgo; ypač nepasisekė dėl to, kad Vytautas, dėl gerai nežinomų priežasčių, netrukus su savo kariuomene grįžo namo. 47) Švitco komtūro Henriko v.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Henrikas von Plauenas buvo Švitco komtūras.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+
 - t-002
   teiginys: 'Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie mūšio padarinius galėjo sužinoti apie liepos mėn.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Henrikas von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­ dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­ rų Europos.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Henrikas von Plauenas buvo Švitco komtūras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -64,6 +69,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie mūšio padarinius galėjo sužinoti apie liepos mėn.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -89,6 +95,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -104,6 +111,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Henrikas von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­ dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­ rų Europos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -120,6 +128,39 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: Henrikas von Plauenas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
+    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
+    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
+    prašyti pagalbos prieš Vytautą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+
+- c-006
+  santrauka: Henrikas von Plauenas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Reikia dar čia atsiminti ir tai, kad ir kryžiuo­
+    čiai negalėjo užmiršti 1410 m. smūgio ir pažeminimo. Henrikas
+    von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­
+    dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­
+    rų Europos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

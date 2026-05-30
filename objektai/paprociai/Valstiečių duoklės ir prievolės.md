@@ -5,14 +5,7 @@ sukurta: '2026-04-25'
 variantai: []
 aliases: []
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -24,7 +17,7 @@ tags:
 
 ## Santrauka
 
-Valstiečių duoklės ir prievolės Lietuvoje ilgainiui kito nuo natūrinių duoklių ir statybos darbų prie valakų reforma sutvarkyto trilaukio ūkio ir sunkėjančių dvaro prievolių. 1557 metų valakų įstatymas pertvarkė žemės ūkio santykius ir sustiprino valstiečių darbo prievoles dvarui.
+Vytauto laikais, daugumas valstiečių Lietuvoje dar buvo laisvieji ūkininkai. O nesant pinigų arba labai maža jų esant, valstiečiai ir mokesčius mokėjo savo ūkio produktais: javais, šienu, gyvuliais, kiaušiniais ir t. Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -42,78 +35,91 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-007
-  teiginys: '1557 metų valakų įstatymas Lietuvoje iš pagrindų pertvarkė žemės ūkio santykius, įvedė trilaukio ūkio sistemą ir suvarė valstiečius į kaimus.'
+- t-001
+  teiginys: 'Vytauto laikais, daugumas valstiečių Lietuvoje dar buvo laisvieji ūkininkai.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Valakų reforma pasunkino valstiečių santykį su valdoma žeme, gausino prievoles dvarui ir vertė siųsti daugiau darbo rankų į dvaro laukus.'
+- t-002
+  teiginys: 'O nesant pinigų arba labai maža jų esant, valstiečiai ir mokesčius mokėjo savo ūkio produktais: javais, šienu, gyvuliais, kiaušiniais ir t.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Valstiečio santykis su valdomąja žeme tačiau pasunkėjo.'
+- t-003
+  teiginys: 'Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Be įvairių rinkliavų ir mokesčių, valstiečiai dar buvo verčiami statyti pilis, tiltus, tiesti kelius ir t.t.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1557 metų valakų įstatymas Lietuvoje iš pagrindų pertvarkė žemės ūkio santykius, įvedė trilaukio ūkio sistemą ir suvarė valstiečius į kaimus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Vytauto laikais, daugumas valstiečių Lietuvoje dar buvo laisvieji ūkininkai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Naująją epochą be šuolio galima atbaigti
-    «valakų» įstatymu _(Ustava na valoki)._ Tas įstatymas (1557 m.)
-    Lietuvoje iš pagrindų pertvarkė žemės ūkio santykius. Jis įvedė
-    iki XX amž. pradžios išlikusią trilaukio ūkio sistemą (žiem­
-    kenčiai, vasarojus, pūdymas), suvarant valstiečius į kaimus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-002
-  santrauka: 'Valakų reforma pasunkino valstiečių santykį su valdoma žeme, gausino prievoles dvarui ir vertė siųsti daugiau darbo rankų į dvaro laukus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tiesa, tas įstatymas reiškė didelę reformą ir žymią pažangą
-    žemės ūkio srityje. Juk ir pati žemė buvo išrūšiuota. Valstiečio
-    santykis su valdomąja žeme tačiau pasunkėjo. Tuo pačiu stiprėjo
-    bajorijos padėtis ir ūkiniu atžvilgiu. Javų kainų pakilimas bajorus
-    skatino didinti dirbamosios žemės arealą, steigti naujus dvarus
-    (palivarkus). Pačių valstiečių prievolės dvarui, suskaldant jų « va­
-    lakus », gausėjo. Vis daugiau darbo rankų iš valstiečio kiemo rei­
-    kėjo siųsti į dvaro laukus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-003
-  santrauka: 'Valstiečio santykis su valdomąja žeme tačiau pasunkėjo.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tiesa, tas įstatymas reiškė didelę reformą ir žymią pažangą
-    žemės ūkio srityje. Juk ir pati žemė buvo išrūšiuota. Valstiečio
-    santykis su valdomąja žeme tačiau pasunkėjo. Tuo pačiu stiprėjo
-    bajorijos padėtis ir ūkiniu atžvilgiu. Javų kainų pakilimas bajorus
-    skatino didinti dirbamosios žemės arealą, steigti naujus dvarus
-    (palivarkus). Pačių valstiečių prievolės dvarui, suskaldant jų « va­
-    lakus », gausėjo. Vis daugiau darbo rankų iš valstiečio kiemo rei­
-    kėjo siųsti į dvaro laukus.
+    XV amžiaus pradžioje, t. y. Vytauto
+    laikais, daugumas valstiečių Lietuvoje dar buvo laisvieji
+    ūkininkai. Jie mokėjo tam tikrą nustatytą mokestį, duokles,
+    ėjo kai kurias pareigas ir beveik nesiskyrė nuo žemesniosios bajo-
+    rijos; jei kurie pradėdavo eiti karinę tarnybą, tai virsdavo net
+    tikraisiais bajorais. Bet jau tada, ypač ponų ir turtingesniųjų ba-
+    jorų žemėse, buvo valstiečių, kurie buvo pririšti prie pavestojo
+    žemės ploto ir turėjo nustatytas pareigas; tokie valstiečiai vadi-
+    nosi nelaisvaisiais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
+    - t-001
+- c-002
+  santrauka: 'O nesant pinigų arba labai maža jų esant, valstiečiai ir mokesčius mokėjo savo ūkio produktais: javais, šienu, gyvuliais, kiaušiniais ir t.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    O nesant pi-
+    nigų arba labai maža jų esant, valstiečiai ir mokesčius mokėjo
+    savo ūkio produktais: javais, šienu, gyvuliais, kiaušiniais ir t. t.
+    Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, va-
+    dinami mezliavomis; visa, kas į dvarą buvo sunešama
+    produktais, vadinosi duoklėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kurių sričių valstiečiai jau labai anksti taip pat mokėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet, greta visų rinkliavų ūkio produktais ir amatininkų ga-
+    miniais, kai kurių sričių valstiečiai jau labai anksti taip pat mo-
+    kėjo ir vadinamąją sidabrinę (sidabrinę duoklę, t. y. mo-
+    kestį sidabriniais pinigais).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Be įvairių rinkliavų ir mokesčių, valstiečiai dar buvo verčiami statyti pilis, tiltus, tiesti kelius ir t.t.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be įvairių rinkliavų ir mokesčių, valstiečiai dar buvo ver-
+    čiami statyti pilis, tiltus, tiesti kelius ir t.t. Anais laikais dar nie-
+    kas nesistengė daug žemės dirbti, nes tuomet javų eksporto ne-
+    buvo, ir todėl nebūtų buvę kur dėti javų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -121,7 +127,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/sidabrinė duoklė]]
-- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Valakai]]
-- [[objektai/ivykiai/Valakų reforma (1557 m.)]]

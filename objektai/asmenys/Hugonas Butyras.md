@@ -80,6 +80,5 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
 ### Susiję objektai
 - [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Julijus Cezaris|Julijus Cezaris (vyskupas)]]

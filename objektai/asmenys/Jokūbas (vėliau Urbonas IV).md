@@ -68,7 +68,6 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas (sukilimas, XVIII a.)]]
 - [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.)]]

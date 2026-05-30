@@ -19,16 +19,22 @@ tags: []
 Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kryžiuočių magistras (jam imperatorius uždraudė prisiekti Zigmantui vasalystę; tatai magistras turėjo padaryti pagal 1466 m. Torno sutartį, — žiūr.
 
 ## Teiginiai
-- t-004
-  teiginys: '1384 m. birželio 14 d. Vytautas Ordinui pasižadėjo savo vasalystę.'
+- t-002
+  teiginys: Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę.
   pagrindžia:
-    - c-001
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: Vasalystė čia reiškia priklausomybės ir ištikimybės santykį.
+  pagrindžia:
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1384 m. birželio 14 d. Vytautas Ordinui pasižadėjo savo vasalystę.'
+- c-002
+  santrauka: Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Joje 1384 metų birželio mėn. 14 d. Vytautas ir magis­
@@ -37,13 +43,12 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     jo žemes, o Vytautas iš savo pusės jam pasižadėjo savo vasa­
     lystę. Sutarties akte buvo pažymėta, jog po Vytauto mirties,
     nesant teisėtų įpėdinių, jo žemės turi tekti Ordinui.
-  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -1,11 +1,9 @@
 ---
 tipas: ivykis
-pavadinimas: 'Veklico pilies ir vienos pilaitės sugriovimas (pilis)'
+pavadinimas: 'Veklico pilies ir vienos pilaitės sugriovimas'
 sukurta: '2026-05-30'
-variantai:
-  - 'Veklico pilies ir vienos pilaitės sugriovimas'
-aliases:
-  - 'Veklico pilies ir vienos pilaitės sugriovimas'
+variantai: []
+aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos: []
@@ -22,7 +20,7 @@ tags:
   - pilis
   - upė
 ---
-# Veklico pilies ir vienos pilaitės sugriovimas (pilis)
+# Veklico pilies ir vienos pilaitės sugriovimas
 
 ## Santrauka
 
@@ -41,19 +39,52 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
+  pagrindžia:
+    - c-001
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.'
   pagrindžia:
     - c-002
-    - c-003
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Veklico pilies ir vienos pilaitės sugriovimą
+
+      Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę,
+    antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę  ir išžudė
+    visus krikščionis, kuriuos ten surado, o moteris bei vaikus išsivarė  į nelaisvę. Paskui
+    patraukė į priekį ir užpuolė Elbingo pilį taip įtūžę, kad tikriausiai būtų paėmę papilį, jeigu
+    vienas [karys], vardu Virtelis450, nebūtų ietimi pervėręs jų vado. Sutrikę dėl jo mirties,
+    pasitraukė iki vienos pilaitės, pastaytos tarp Ragavos ir Veisikos upių451, toje vietoje,
+
+      447 D.— castrum Hemsot, Jer.— Heimsôt, dab. Pšečnas (Przeczno), per 9 km  į
+    pietvakarius nuo Kulmenzės (dab. Chelmža), tarp Torunės ir Kulmo (SZCh, p. 102).
+      448 D.— castrum [...] dicti Cippel, Jer.— Zipfil; dab. Czaple Wielkie, kaimas per 9 km
+    į šiaurės vakarus nuo Vonbžezno (Wąbrzeźno).
+      449 D.— relicta hereditate paterna; paterna hereditas — iš tėvų paveldėtas turtas,
+    tėvonija (Jurginis J., Baudžiavos.., p. 160).
+      450 D.— Wirtel, Jer.— ein Prûze, der hîz Wirtil (prūsas, vardu Virtilas).
+      451 D.— Rogow, Jer.— Rogouwe (plg. lie. Ragava) ir D.— Weseca, Jer.— Weiske;
+
+    kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
+    į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
 - c-002
   santrauka: 'Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
-    į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą. Po to,
+    Po to,
     matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie
     Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
     pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
@@ -67,22 +98,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Veklico pilies ir vienos pilaitės sugriovimas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
-    į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą. Po to,
-    matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie
-    Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
-    pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
 

@@ -6,16 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1328 m.'
-  - '1331 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-date_start: '1328'
-date_end: '1331'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -32,39 +23,66 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvai būdingą Desiukiškių tipo kalaviją Kijevo prijungimą tuo metu prie Lietuvos patvirtina faktas, kad vienalaikiai šaltiniai kiek vėliau, 1330-1331 m. jau aiškiai mini „Gedimino brolį“ Teodorą, Lietuvos valdovo vietininką Kijeve.'
+  teiginys: '1575 m. pasibaigus paliaubų laikui, caras dar nepradėjo karo, nes vis dar tikėjosi, kad jis pats arba jo sūnus Teodoras gaus Lietuvos ir Lenkijos sostus.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-002
+  teiginys: 'Po jo, 15 metų buvo caru jokiems dideliems žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim pasibaigė Kalitos dinastija.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-003
+  teiginys: 'Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (1613 m.).'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvai būdingą Desiukiškių tipo kalaviją Kijevo prijungimą tuo metu prie Lietuvos patvirtina faktas, kad vienalaikiai šaltiniai kiek vėliau, 1330-1331 m. jau aiškiai mini „Gedimino brolį“ Teodorą, Lietuvos valdovo vietininką Kijeve.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: '1575 m. pasibaigus paliaubų laikui, caras dar nepradėjo karo, nes vis dar tikėjosi, kad jis pats arba jo sūnus Teodoras gaus Lietuvos ir Lenkijos sostus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Rankoje raitininkas laiko pusantros rankos
-    XIII-XIV a. Lietuvai būdingą Desiukiškių tipo kalaviją
-
-    Kijevo prijungimą tuo metu prie
-    Lietuvos patvirtina faktas, kad vienalai-
-    kiai šaltiniai kiek vėliau, 1330-1331 m. jau
-    aiškiai mini „Gedimino brolį“ Teodorą,
-    Lietuvos valdovo vietininką Kijeve.
-
-    Kryžiuočių ordinui, remiamam kryži-
-    ninkų, nuo 1328 m. atnaujinus Lietuvos
-    puolimus, Lietuva, atrodo, bus užmezgusi
-    kompromisinius santykius su Aukso orda,
-    kurios įtakoje, matyt, liko pietinė Kijevo
-    žemės dalis.
-  citata_rodoma: ""
+    1575 m. pasibaigus paliaubų laikui, caras dar nepradėjo karo,
+      nes vis dar tikėjosi, kad jis pats arba jo sūnus Teodoras gaus
+      Lietuvos ir Lenkijos sostus.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Po jo, 15 metų buvo caru jokiems dideliems žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim pasibaigė Kalitos dinastija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Po jo, 15 metų buvo caru jokiems dideliems
+      žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
+      pasibaigė Kalitos dinastija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (1613 m.).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Caru buvo išrinktas metropolito Filareto, Teodoro
+      Romanovo, sūnus Mykolas (1613 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

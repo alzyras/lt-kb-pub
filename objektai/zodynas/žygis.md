@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -15,35 +16,89 @@ tags:
 
 ## Santrauka
 
-Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai.
+Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai. žygis: ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy- gius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį. žygis: šitie nereguliarūs žygiai dažniausiai būdavo ruošiami tada, kai iš Vakarų atvykdavo svečių. Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kryžiuočių žygis paprastai trukdavo ne ilgiau kaip savaitę, nes jie skubėdavo, kad lietuviai nespėtų pastoti kelio.'
+  teiginys: 'Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'žygis: ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy- gius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-003
+  teiginys: 'žygis: šitie nereguliarūs žygiai dažniausiai būdavo ruošiami tada, kai iš Vakarų atvykdavo svečių. Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-004
+  teiginys: 'žygis: didesnieji žygiai, kai būdavo gabenamos patrankos ir pilių griauna- mieji pabūklai, paprastai būdavo atliekami upėmis.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kryžiuočių žygis paprastai trukdavo ne ilgiau kaip savaitę, nes jie skubėdavo, kad lietuviai nespėtų pastoti kelio.'
+  santrauka: 'Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems kelio lietuviai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nedideli jo kariuomenės būriai
-    iš pasieninių pilių staiga įsiverždavo į Lietuvą ir, apiplėšę apylin-
-    kę, skubiai grįždavo į savo pilis. Grįždami jie atsigabendavo pri-
-    plėštus turtus, atsivarydavo bandas gyvulių ir atsivesdavo dau-
-    gybę belaisvių. Toks žygis paprastai trukdavo ne ilgiau, kaip
+    Toks žygis paprastai trukdavo ne ilgiau, kaip
     savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
     kelio lietuviai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'žygis: ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy- gius: vienas paprastai būdavo sausio ar vasario mėnesį, o antras — vasaros gale, dažniausiai rugpiūčio mėnesį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ordinas gebėjo kasmet suruošti į Lietuvą ne mažiau, kaip du žy-
+    gius: vienas paprastai būdavo sausio ar vasario mėnesį, o
+    antras — vasaros gale, dažniausiai rugpiūčio mėnesį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'žygis: šitie nereguliarūs žygiai dažniausiai būdavo ruošiami tada, kai iš Vakarų atvykdavo svečių. Tokie žygiai tuomet būdavo tarsi pramoginė medžioklė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Šitie nereguliarūs žygiai dažniausiai būdavo ruošiami tada, kai iš Vakarų atvykdavo svečių. Tokie žygiai
+    tuomet būdavo tarsi pramoginė medžioklė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'žygis: didesnieji žygiai, kai būdavo gabenamos patrankos ir pilių griauna- mieji pabūklai, paprastai būdavo atliekami upėmis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Didesnieji žygiai, kai būdavo gabenamos patrankos ir pilių griauna-
+    mieji pabūklai, paprastai būdavo atliekami upėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

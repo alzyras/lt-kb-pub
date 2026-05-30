@@ -6,12 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -28,80 +22,61 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, skubiai kūrė Lietuvos karines pajėgas.'
+  teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Mykolas Sleževičius nepriklausomybės kovose pasiekė politinį susitarimą ir konsolidavo centrinę administraciją.'
+  teiginys: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Mykolas Sleževičius buvo ministras pirmininkas vyriausybėje, kurioje dominavo valstiečiai liaudininkai.'
+  teiginys: 'Sleževičius pabrėžė, kad lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dvarininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.'
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A.'
+  teiginys: 'Sleževičiumi priešakyje.'
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
+  teiginys: 'Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, skubiai kūrė Lietuvos karines pajėgas.'
+  santrauka: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nau-
     joji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,
-
-    L I E T U V O S  I S T O R I J A
-    138
-    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
-    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
-    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Mykolas Sleževičius nepriklausomybės kovose pasiekė politinį susitarimą ir konsolidavo centrinę administraciją.'
+  santrauka: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    M. Sleževičiaus vaidmuo
-
-    L I E T U V O S  I S T O R I J A
-    144
-    nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
-    konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-
-    kvietė priešintis įsiveržėliams ir tautines mažumas, dėl to Lietuvos ka-
-    riuomenėje kovėsi ir žydų bei baltarusių savanoriai.
-  citata_rodoma: ""
+    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Mykolas Sleževičius buvo ministras pirmininkas vyriausybėje, kurioje dominavo valstiečiai liaudininkai.'
+  santrauka: 'Sleževičius pabrėžė, kad lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dvarininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vyriausybėje dominavo valstiečiai liaudi-
-    ninkai su ministru pirmininku M. Sleževičiumi priešakyje.
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    155
-    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
-    demokratinę santvarką.
+    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -110,12 +85,11 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A.'
+  santrauka: 'Sleževičiumi priešakyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
-    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
-    ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
+    Vyriausybėje dominavo valstiečiai liaudi-
+    ninkai su ministru pirmininku M. Sleževičiumi priešakyje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -124,14 +98,10 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
+  santrauka: 'Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-
-    tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko
-    M. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-
-    timieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam
-    Seimui, iškirsti politinę „orlaidę“.
+    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -139,6 +109,18 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

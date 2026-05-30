@@ -147,8 +147,14 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Livonijos konfederacija]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/unija]]
+- [[objektai/zodynas/urėdas]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]

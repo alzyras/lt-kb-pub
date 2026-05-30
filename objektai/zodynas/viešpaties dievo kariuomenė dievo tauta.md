@@ -59,6 +59,5 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/paprociai/Stojimas į Ordiną kaip šventas sumanymas]]
 - [[objektai/zodynas/šventas sumanymas]]

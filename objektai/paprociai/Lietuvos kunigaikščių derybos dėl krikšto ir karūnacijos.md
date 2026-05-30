@@ -4,12 +4,8 @@ pavadinimas: 'Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (kr
 sukurta: '2026-05-14'
 variantai:
   - 'Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos'
-  - 'Kandidatas 11 Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos'
-  - 'Kandidatas Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos'
 aliases:
   - 'Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos'
-  - 'Kandidatas 11 Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos'
-  - 'Kandidatas Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -79,6 +75,10 @@ Nenurodyta
   teiginys: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -143,6 +143,77 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai
+    valdovai). Dinastijai vardą davė garsiausias jos atstovas – Gediminas, is-
+    toriniu vaidmeniu užgožęs savo pirmtakus. Gediminaičių dinastijai pri-
+    klausė žymiausi, labai svarbų istorinį vaidmenį suvaidinę Lietuvos didieji
+    Gediminas stato Vilniaus pilį.
+    Dail. M. E. Andriolli, 1882 m.
+
+    Mindaugas
+    Gediminas
+    Algirdas
+    Vytautas
+    Kęstutis. Dail A. Penkowskis, 1838 m.
+    Birutė. Dail A. Penkowskis, 1838 m.
+    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija. Ši Gediminaičių šaka vėliau (XV a. pab.–XVI a. pr.) pasiekė
+    įtakos viršūnę. Jos atstovai vienu metu sėdėjo Lietuvos, Lenkijos, Čekijos
+    (1471–1526) ir Vengrijos (1490–1506) sostuose.
+    Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laiko-
+    tarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu. Mūsų kultūroje
+    ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo,
+    Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai –
+    yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
+    PAGONIŲ VALSTYBĖ.
+    LIETUVOS KRIKŠTAS
+    P
+    o Mindaugo nebuvo nė vieno Lietuvos valdovo, kuris
+    nebūtų vedęs derybų dėl krikšto, o kartu dėl karūnaci-
+    jos – tai lėmė karas su Vokiečių ordinais (XIII a. pabaigoje jau ir Vokiečių
+    ordinas, nukariavęs prūsus, pradėjo agresiją prieš Lietuvą). Suvokę, kad
+    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
+    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
+    krikštas nebūtų išsprendęs ordinų agresijos problemos). Antra vertus, visi
+    Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams
+    rex; Algirdas laiškuose Bizantijos imperijai – bazileus). Taip juos vadino
+    Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
+    vadus ar net rusų žemių kunigaikščius. Taigi, drįstume teigti, kad bent jau
+    iki Jogailos tapsmo Lenkijos karaliumi 1386 m. Lietuva nusipelno būti
+    vadinama karalyste, tegu ir neturinti visų Vakarų pripažinimo atributų –
+    savotiška arba nesisteminė karalystė. Juolab kad Lietuva iš tikrųjų tapo
+    unikali valstybė Europoje, kartais net laikoma savarankiška civilizacija,
+    nepriskirtina nei lotyniškajai Vakarų Europai, nei bizantiškajai Rytų Eu-
+    ropai. Tiesa, Lietuvoje formavosi individualus ūkis, o tai – Vakarų civi-
+    lizacijos pagrindas, to nebuvo Rytų Europoje. Be to, ten, kur nereikėjo
+    pripažinimo, kur užteko savo pačios galių, pagoniška Lietuva pamažu
+    virto visam regionui reikšminga jėga arba didvalstybe (lenk. mocartstwo,
+    rus. deržava, vok. Grossmacht), o nuo jos iki imperijos – jau tik žingsnis.
+
+    L I E T U V O S  I S T O R I J A
+    36
+    Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs inten-
+    syvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia
+    krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

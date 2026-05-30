@@ -174,6 +174,5 @@ Nenurodyta
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/zodynas/žygis]]

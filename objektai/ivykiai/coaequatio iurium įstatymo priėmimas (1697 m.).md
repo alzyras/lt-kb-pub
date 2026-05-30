@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -17,7 +18,7 @@ tags:
 
 ## Santrauka
 
-Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūkiu, nes tuo buvo norima suvienodinti Lietuvos ir Lenkijos ministerių teises. Kancleriui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekciniame seime (1697 m.).
+coaequatio iurium įstatymo priėmimas (1697 m.): visa tai ėjo Lietuvos ir Lenkijos teisių suly- ginimo (coaequatio iurium) šūkiu, nes tuo buvo norima su- vienodinti Lietuvos ir Lenkijos ministerių teises. coaequatio iurium įstatymo priėmimas (1697 m.): kancle- riui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekci- niame seime (1697 m.). Tačiau Sapiegos, nenorėdami išsiža- dėti savo galybės, nė neketino laikytis šito įstatymo. coaequatio iurium įstatymo priėmimas (1697 m.): taip antai, seimas paskyrė kariuomenei stovyklas Gardino, Alytaus ir Pinsko apylinkėse, bet hetmonas ją laikė visam krašte.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -33,55 +34,69 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
+  teiginys: 'coaequatio iurium įstatymo priėmimas (1697 m.): visa tai ėjo Lietuvos ir Lenkijos teisių suly- ginimo (coaequatio iurium) šūkiu, nes tuo buvo norima su- vienodinti Lietuvos ir Lenkijos ministerių teises.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: 'Coaequatio iurium įstatymas buvo priimtas 1697 m. elekciniame seime, Sapiegoms nepajėgus apginti ministerių teisių.'
+  teiginys: 'coaequatio iurium įstatymo priėmimas (1697 m.): kancle- riui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekci- niame seime (1697 m.). Tačiau Sapiegos, nenorėdami išsiža- dėti savo galybės, nė neketino laikytis šito įstatymo.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-003
+  teiginys: 'coaequatio iurium įstatymo priėmimas (1697 m.): taip antai, seimas paskyrė kariuomenei stovyklas Gardino, Alytaus ir Pinsko apylinkėse, bet hetmonas ją laikė visam krašte.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
+  santrauka: 'coaequatio iurium įstatymo priėmimas (1697 m.): visa tai ėjo Lietuvos ir Lenkijos teisių suly- ginimo (coaequatio iurium) šūkiu, nes tuo buvo norima su- vienodinti Lietuvos ir Lenkijos ministerių teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Buvo pa-
-    leistas šūkis suvaržyti hetmono teisę iš vienos vietos į kitą
-    kiloti kariuomenę ir suvaržyti iždininko teisę savo nuožiūra
-    valdyti pinigus. Ta pačia proga dar buvo reikalaujama susiau-
-    rinti kanclerio teises, atimant iš jo teismo sprendimų priežiūrą.
     Visa tai ėjo Lietuvos ir Lenkijos teisių suly-
     ginimo _(coaequatio iurium)_ šūkiu, nes tuo buvo norima su-
     vienodinti Lietuvos ir Lenkijos ministerių teises.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Coaequatio iurium įstatymas buvo priimtas 1697 m. elekciniame seime, Sapiegoms nepajėgus apginti ministerių teisių.'
+  santrauka: 'coaequatio iurium įstatymo priėmimas (1697 m.): kancle- riui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekci- niame seime (1697 m.). Tačiau Sapiegos, nenorėdami išsiža- dėti savo galybės, nė neketino laikytis šito įstatymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Juo tada buvęs Sapiegų priešas D. Radvila bemeilijo atsisakyti
-    nuo tų savo teisių, kad tik būtų suvaržyti Sapiegos. Kancle-
+    Kancle-
     riui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių
     teisių, ir _coaequatio iurium_ įstatymas buvo priimtas elekci-
     niame seime (1697 m.). Tačiau Sapiegos, nenorėdami išsiža-
     dėti savo galybės, nė neketino laikytis šito įstatymo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'coaequatio iurium įstatymo priėmimas (1697 m.): taip antai, seimas paskyrė kariuomenei stovyklas Gardino, Alytaus ir Pinsko apylinkėse, bet hetmonas ją laikė visam krašte.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Taip
+    antai, seimas paskyrė kariuomenei stovyklas Gardino, Alytaus
+    ir Pinsko apylinkėse, bet hetmonas ją laikė visam krašte.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

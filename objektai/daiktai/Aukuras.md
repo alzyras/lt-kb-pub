@@ -6,29 +6,17 @@ variantai:
   - aukuras
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - 'Vytautas Didysis 1350-1430 (1930 m.)'
-  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-laikotarpis: senovės aisčių ir LDK pradžios pagoniškosios tradicijos kontekstas
+  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+laikotarpis: senovės aisčių laikai
+datos: []
+periodas: senove
+periodo_grupes: []
+amziai: []
+date_start: ""
+date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1350 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '1936 m.'
-  - '2007 m.'
-  - '2026 m.'
-periodas: senove
-periodo_grupes: []
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
 patikimumas: aukstas
 atnaujinta: '2026-04-24'
 tags:
@@ -37,83 +25,88 @@ tags:
 # Aukuras
 
 ## Santrauka
-Aukuras aprašomas kaip Šventaragio slėnyje buvusi mirusiųjų kūnų deginimo vieta. Su juo siejama amžinoji Gabijos ugnis, Perkūno garbinimas, žynių priežiūra ir Lietuvos kunigaikščių palaikų deginimo paprotys.
+Aukuras šaltinyje aprašomas kaip pagrindinis aisčių šventovės įrenginys po atviru dangumi. Prie jo kūrenosi amžinoji ugnis, o pačiose šventovėse nebuvo statoma maldyklų.
 
 ## Pavadinimai šaltiniuose
-- aukuras
-- Rogum / Rogus
+Nenurodyta
 
 ## Laikotarpis ir datos
-- laikotarpis: senovės aisčių ir LDK pradžios pagoniškosios tradicijos kontekstas
-- periodas: senove
+- Laikotarpis: senovės aisčių laikai
+- Periodas: senovė
 
 ## Kas tai
-Aukuras buvo apeiginė mirusiųjų kūnų deginimo vieta.
+Aukuras buvo šventovėje esantis apeiginis įrenginys.
 
 ## Naudojimas
-Šaltinyje aukuras siejamas su mirusiųjų kūnų deginimu ir valdovų palaikų atidavimu ugniai.
+Prie aukuro kūrenosi amžinoji ugnis.
 
 ## Kontekstas
-- laikotarpis: iki krikščioniškojo tikėjimo įvedimo ir gal iki Gedimino
-- susiję žmonės: Gediminas minimas kaip chronologinis orientyras
-- susiję įvykiai: nenurodyta
+Nenurodyta
 
 ## Teiginiai
-- t-005
-  teiginys: 'Šventaragio slėnis buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degindavo mirusiųjų kūnus.'
+
+- t-001
+  teiginys: Aisčių šventovėse buvo vienas aukuras.
   pagrindžia:
-    - c-003
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Lotyniški žodžiai Rogum arba Rogus reiškė aukurą - vietą mirusiųjų kūnams deginti ir laidoti.'
-  pagrindžia:
-    - c-004
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+    - c-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   statusas: patvirtinta
 
+- t-002
+  teiginys: Prie aukuro šventovėse kūrenosi amžinoji ugnis.
+  pagrindžia:
+    - c-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
+- t-003
+  teiginys: Aisčių šventovėse nebuvo statoma maldyklų.
+  pagrindžia:
+    - c-001
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  statusas: patvirtinta
+
+- t-004
+  teiginys: 'Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį, išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą — Vytautą.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Šventaragio slėnis buvo skirtas aukurui, ant kurio degindavo mirusiųjų kūnus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+
+- c-001
+  santrauka: Aprašo aukuro vietą aisčių šventovėje ir jo ryšį su amžinąja ugnimi.
+  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
   citata_originali: |
-    Ties ta
-    puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­
-    tų, slėnyje, kur nuo senovės augo ąžuolai, kur dabar stovi
-    katedra, iki krikščioniškojo tikėjimo įvedimo ir visą epochą
-    gal iki Gedimino, degė amžinoji ugnis, vadinta Gabija, - die­
-    vaičio Perkūno garbei. Ją saugojo ir kurstė žyniai, o jų vy­
-    riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
-    mosi metu gal buvo paprastų ir laisvų žmonių vienas vadų
-    ir patriarchų. Tas slėnis, vadintas Šventaragio, buvo skirtas
-    aukurui, ant kurio pagal lietuvių pagonių papročius degin­
-    davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo
-    atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­
-    kimu tarnu, šunimis ir žirgu, išbandytu mūšiuose7.
-  citata_rodoma: ""
+    Šventovės buvo po atviru dangum, jose kūrenosi amžinoji
+    ugnis. Kadangi, aisčių tikėjimu, dievai turėję savo būstines aplin-
+    kumoj, tai šventovėse jiems nebuvo statoma jokių maldyklų,
+    o tik vienas aukuras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+    - t-002
+    - t-003
+
+- c-002
+  santrauka: 'Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį, išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą — Vytautą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
+    tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,
+    išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
+    Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
+    ti ne visų Kęstučio vaikų motina.
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-004
-  santrauka: 'Lotyniški žodžiai Rogum arba Rogus reiškė aukurą - vietą mirusiųjų kūnams deginti ir laidoti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
-    Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
-    torių. Juk lotynų kalba Rogum v. Ro­
-    gus, reiškia Aukurą, vietą deginti ir
-    laidoti mirusiųjų kūnams. Betgi lie­
-    tuviai nemokėjo lotyniškai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -130,7 +123,6 @@ Aukuras buvo apeiginė mirusiųjų kūnų deginimo vieta.
 - [[objektai/daiktai/Torielius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/autoriai/Józef Wolff]]

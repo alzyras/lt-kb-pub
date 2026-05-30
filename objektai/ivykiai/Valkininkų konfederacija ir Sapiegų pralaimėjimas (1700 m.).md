@@ -1,40 +1,13 @@
 ---
-tipas: 'ivykis'
+tipas: ivykis
 pavadinimas: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)'
 sukurta: '2026-04-25'
-variantai:
-  - '[]'
-  - 'Valkininkų mūšis'
-  - 'Sapiegų pralaimėjimas prie Valkininkų'
-aliases:
-  - '[]'
+variantai: []
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1700 m.'
-  - '1771 m.'
-  - '1936 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
-  - 'XVIII'
-  - 'XX'
-  - 'XXI'
-date_start: '1700'
-date_end: '2026'
+bukle: juodrastis
 patikimumas: 'vidutinis'
-vaidmenys: []
-dalyviai:
-  - 'Sapiegos'
-  - 'respublikonų kariuomenė'
-  - 'LDK bajorija'
-susije_irasai: []
-laikotarpis: '1700 m. lapkričio 18 d.'
 atnaujinta: '2026-04-25'
 tags:
   - bajorija
@@ -46,7 +19,7 @@ tags:
 
 ## Santrauka
 
-Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susispietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Valkininkų. Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos. Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
+Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susi- spietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Val- kininkų. Čia jau buvo sutraukta visa Sapiegų kariuomenė ir dalis jiems. Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) — Mykolas Višniaveckis. Vilniaus vyskupui Bžostauskui tarpininkaujant, dar buvo mėginta. Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -61,86 +34,98 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-006
-  teiginys: 'Daugelis Sapiegų karių, patekusių į nelaisvę, buvo įtraukti į respublikonų kariuomenę.'
+- t-001
+  teiginys: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susi- spietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Val- kininkų. Čia jau buvo sutraukta visa Sapiegų kariuomenė ir dalis jiems.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Valkininkų mūšis siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-002
+  teiginys: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) — Mykolas Višniaveckis. Vilniaus vyskupui Bžostauskui tarpininkaujant, dar buvo mėginta.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-003
+  teiginys: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-004
+  teiginys: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu. Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti Sapiegos, vos prasidėjus kautynėms, pabėgo į Vilnių) va- karop buvo apsuptas ir turėjo pasiduoti. Višniaveckis jį nu- sivežė į.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Daugelis Sapiegų karių, patekusių į nelaisvę, buvo įtraukti į respublikonų kariuomenę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susi- spietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Val- kininkų. Čia jau buvo sutraukta visa Sapiegų kariuomenė ir dalis jiems.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš viso mūšyje abiejose pusėse žuvo
-    maždaug po 100-150 karių, pirmuose pra-
-    nešimuose respublikonų nuostoliai buvo
-    nurodomi didesni - apie 300. Daugelis
-    Sapiegų karių, patekusių į nelaisvę, buvo
-    įtraukti į respublikonų kariuomenę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-002
-  santrauka: 'Valkininkų mūšis siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    deklaruojamų bajoriškosios lygybės idealų,
-    dėl kurių ji ir pakilo į ginkluotą kovą, pa-
-    versti gyvenimo tikrove. Valkininkų mūšis
-    dažnai siejamas su ilgainiui Lietuvą apė-
-    musios suirutės pradžia, privedusios šalį
-    prie situacijos, kai jos likimą labiau nei ji
-    pati ėmė lemti jos kaimynai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-003
-  santrauka: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Valkininkų mūšis
-    dažnai siejamas su ilgainiui Lietuvą apė-
-    musios suirutės pradžia, privedusios šalį
-    prie situacijos, kai jos likimą labiau nei ji
-    pati ėmė lemti jos kaimynai.
-
-    ## Puslapis 143
-
-    BEZDEZO (ANTOPOLIO) MUSIS 1771
-
-    Ki
-    | LIETUVOS
-
-    4 DIDŽIOJI |
-
-    I.
+    Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte
+    atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susi-
+    spietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Val-
+    kininkų. Čia jau buvo sutraukta visa Sapiegų kariuomenė
+    ir dalis jiems ištikimos bajorijos. Tačiau Sapiegų priešų jėgos
+    buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos
+    Lietuvos bajorija ir visi didžiūnai. Jie kiekvienas irgi atsivedė
+    samdytos kariuomenės — savo dvarų milicijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-008
+    - t-001
+- c-002
+  santrauka: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) — Mykolas Višniaveckis. Vilniaus vyskupui Bžostauskui tarpininkaujant, dar buvo mėginta.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bajorija sudarė
+    konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti
+    Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o
+    regimentorium (karo vadu) — Mykolas Višniaveckis. Vilniaus
+    vyskupui Bžostauskui tarpininkaujant, dar buvo mėginta tar-
+    tis, tačiau, nė vienai pusei nenusileidžiant, teko pagaliau kautis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.): visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu. Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti Sapiegos, vos prasidėjus kautynėms, pabėgo į Vilnių) va- karop buvo apsuptas ir turėjo pasiduoti. Višniaveckis jį nu- sivežė į.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visą dieną užtrukusios kautynės pasibaigė Sapiegų pralaimėjimu.
+    Jų kariuomenei vadovavęs hetmono sūnus Mykolas (visi kiti
+    Sapiegos, vos prasidėjus kautynėms, pabėgo į Vilnių) va-
+    karop buvo apsuptas ir turėjo pasiduoti. Višniaveckis jį nu-
+    sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-
+    sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
+    buvo sukapoti dar du belaisviai).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

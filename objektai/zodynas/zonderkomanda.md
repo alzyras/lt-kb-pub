@@ -22,30 +22,39 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
 
 ## Teiginiai
 - t-001
-  teiginys: 'Daugiausia šaudė dvi iš lietuvių sudarytos specialios zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano „skrajojantis būrys“.'
+  teiginys: 'Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtųjų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-002
+  teiginys: 'Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann) „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vietoves ir ten šaudęs (jo pagrindą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Daugiausia šaudė dvi iš lietuvių sudarytos specialios zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano „skrajojantis būrys“.'
+  santrauka: 'Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtųjų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Daugiausia šaudė
-    iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
-    būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann)
-    „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vieto-
-    ves ir ten šaudęs (jo pagrindą ir sudarė 3-ioji TDA Kauno bataliono kuo-
-    pa).
-  citata_rodoma: ""
+    paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann) „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vietoves ir ten šaudęs (jo pagrindą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

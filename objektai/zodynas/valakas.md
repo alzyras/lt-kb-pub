@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -20,37 +21,43 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
 
 ## Teiginiai
 - t-001
-  teiginys: '1557 m. paskelbtas įstatymas pertvarkė žemės ūkį ir įvedė valakų sistemą.'
+  teiginys: 'Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų sistemą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
   teiginys: 'Valstiečiams duodamieji valakai nebuvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo mažesni, o kur žemė būdavo prastesnė, — didesni.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-003
-  teiginys: 'Po reformos valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos.'
+  teiginys: 'Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-004
+  teiginys: 'Inventoriuose, pavyzdžiui, buvo nustatyta, kad nuo valako turi eiti dvarui baudžiavą 3 dienas savaitėje vyras su arkliu ir 1 dieną moteris; už kitų dienų darbus turėjo būti atlyginama nustatyta taksa.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1557 m. paskelbtas įstatymas pertvarkė žemės ūkį ir įvedė valakų sistemą.'
+  santrauka: 'Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų sistemą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maža to, 1557 m. jis paskelbė
     įstatymą, visiškai pertvarkantį žemės ūkį ir įvedantį valakų
     sistemą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
@@ -61,26 +68,40 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
     buvo visiškai lygūs: kur žemė būdavo geresnė, valakai būdavo
     mažesni, o kur žemė būdavo prastesnė, — didesni. Valakas kai
     kur buvo 30—33 margų, o kai kur siekė net 44 margus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Po reformos valakas tapo ūkio vienetu, nuo kurio buvo imami mokesčiai ir einamos pareigos.'
+  santrauka: 'Su šia reforma valakas pasidarė ūkio vienetas: nuo jo buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Su šia reforma valakas pasidarė ūkio vienetas: nuo jo
     buvo imami mokesčiai, nuo jo buvo einamos ir pareigos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Inventoriuose, pavyzdžiui, buvo nustatyta, kad nuo valako turi eiti dvarui baudžiavą 3 dienas savaitėje vyras su arkliu ir 1 dieną moteris; už kitų dienų darbus turėjo būti atlyginama nustatyta taksa.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Inventoriuose, pavyzdžiui, buvo nustatyta, kad nuo valako turi eiti dva-
+    rui baudžiavą 3 dienas savaitėje vyras su arkliu ir 1 dieną mo-
+    teris; už kitų dienų darbus turėjo būti atlyginama nustatyta taksa.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

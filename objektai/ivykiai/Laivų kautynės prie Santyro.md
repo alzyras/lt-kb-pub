@@ -133,5 +133,4 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/asmenys/Konradas Bremeris]]

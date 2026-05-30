@@ -35,27 +35,28 @@ tags: []
 - Data: pradėjo eiti 1760 m.
 
 ## Teiginiai
-- t-007
-  teiginys: '„Kurier Litewski“ pradėjo eiti 1760 m.'
+- t-001
+  teiginys: "„Kurier Litewski“ pradėjo eiti 1760 m."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: '1760 m. pradėjęs eiti „Kurier Litewski“ buvo vienas pirmųjų Lietuvos laikraščių.'
+- t-002
+  teiginys: "„Kurier Litewski“ priskiriamas pirmiesiems Lietuvos laikraščiams."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-## Reikšmingi paminėjimai
+- t-003
+  teiginys: 'Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m. išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pirmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.'
+  pagrindžia:
+    - c-002
 
-## Bibliografiniai įrodymai
+## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Kurier Litewski“ pradėjo eiti 1760 m.'
+  santrauka: Citata pagrindžia laikraščio pavadinimą, datą ir pirmųjų Lietuvos laikraščių statusą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m.
-    išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pir-
     mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -63,6 +64,17 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-    - t-008
-    - t-009
+    - t-001
+    - t-002
+- c-002
+  santrauka: 'Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m. išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pirmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

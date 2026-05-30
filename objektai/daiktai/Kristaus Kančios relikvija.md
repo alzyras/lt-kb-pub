@@ -6,13 +6,13 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 bukle: juodrastis
 laikotarpis: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
 datos:
-  - '1322 m.'
   - '1350 m.'
   - '1430 m.'
   - '1930 m.'
@@ -25,7 +25,7 @@ amziai:
   - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1322'
+date_start: '1350'
 date_end: '2026'
 patikimumas: 'aukštas'
 atnaujinta: '2026-05-05'
@@ -52,35 +52,54 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.'
+- t-002
+  teiginys: 'Maskvos kunigaikštienė į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
   pagrindžia:
-    - c-003
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Mas­ kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­ vanomis, auksu ir sidabru papuoštais paveikslais, net dalį Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­ bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto negavo^3 ).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+- c-001
+  santrauka: 'Maskvos kunigaikštienė į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
-                                     mėje
+    Mas­
+    kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­
+    vanomis, auksu ir sidabru papuoštais paveikslais, net dalį
+    Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­
+    bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto
+    negavo^3 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-002
+  santrauka: 'Mas­ kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­ vanomis, auksu ir sidabru papuoštais paveikslais, net dalį Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­ bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto negavo^3 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Mas­
+    kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­
+    vanomis, auksu ir sidabru papuoštais paveikslais, net dalį
+    Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­
+    bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto
+    negavo^3 ). Su Lenkija Vytauto santykiai tada buvo blo-
 
-      1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo
-    iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus
-    atskalą, kurią kadaise čia buvo atgabenęs brolis Flekenšteinas iš Reino krašto, o brolis
-    Gebhardas iš Manstfeldo vieną kartą įmetęs į ugnį, iš kurios ši iššokusi daugelio žmonių
-    akyse, parodydama, jog esanti tikra atskala kryžiaus, ant kurio kabojęs Kristus.
-
-
-
-        123.
+    (^1) ) Proch.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

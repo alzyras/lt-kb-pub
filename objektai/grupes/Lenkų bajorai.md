@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -18,64 +19,61 @@ tags:
 
 ## Santrauka
 
-Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be lietuvių ir be Vytauto žinios. Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.
+atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų bajorai. Iš savo pusės Lenkų ba- jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be lietuvių ir be Vytauto žinios. Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkų bajorai Radome pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
+  teiginys: 'atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų bajorai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-002
+  teiginys: 'Iš savo pusės Lenkų ba- jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be lietuvių ir be Vytauto žinios.'
+  pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Lenkų bajorai sutiko pripažinti Jogailos sūnums sostą, išsireikalavę iš Jogailos savo privilegijų praplėtimo.'
+  statusas: juodrastis
+- t-003
+  teiginys: 'Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkų bajorai Radome pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
+  santrauka: 'atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų bajorai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytautas tam nesiprie-
-    šino; jis ir dabar prisipažino gavęs Lietuvą iš Jogailos, bet tuo
-    tarpu neketino jos grąžinti. Po ilgų derybų, 1401 m. buvo pa-
-    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
-    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
+    atskirais dokumentais jį patvirtino Vytautas, Jo-
     gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
     dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
     vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
     rašė Radome.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lenkų bajorai Radome pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
+  santrauka: 'Iš savo pusės Lenkų ba- jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be lietuvių ir be Vytauto žinios.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl šis susitarimas yra vadinamas Vilniaus
-    Radomo susitarimu. Juo buvo patvirtintas Vytauto sava-
-    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
-    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
-    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
+    Iš savo pusės Lenkų ba-
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 - c-003
-  santrauka: 'Lenkų bajorai sutiko pripažinti Jogailos sūnums sostą, išsireikalavę iš Jogailos savo privilegijų praplėtimo.'
+  santrauka: 'Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų
@@ -83,13 +81,13 @@ Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo
     sau privilegijų praplėtimo, sutiko. Atrodė, kad jau viskas
     bus gerai, kad, seniesiems valdovams mirus, abudu sostus gaus
     Jogailos sūnūs, — taip bent svajojo lenkai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -13,14 +13,22 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: '1398-1404 m. kontekstas; 1401 m. sukilimų kontekstas'
 datos:
-  - '1398-1404 m. kontekstas; 1401 m. sukilimų kontekstas'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1398 m.'
+  - '1541 m.'
+  - '1573 m.'
+  - '1632 m.'
+  - '1670 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XVI'
+  - 'XVII'
+date_start: '1398'
+date_end: '1670'
+laikotarpis: '1398-1404 m. kontekstas; 1401 m. sukilimų kontekstas'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -35,52 +43,41 @@ tags:
 Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).'
+- t-005
+  teiginys: 'Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Šaltinyje `činšas` vartojamas kaip duoklė, kurios mokėtojai laikomi atskira socialine grupe.'
-  pagrindžia:
-    - c-002
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: '`činšininkas` čia vartojamas kaip `duoklininkas` arba duoklę mokantis valstietis.'
-  pagrindžia:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Šaltinis pateikia ir vokiškas bei hibridines formas `eygene` ir `czinshaftige`, susiedamas jas su baudžiauninkais ir duoklių mokėtojais.'
+- t-006
+  teiginys: 'Činšininkas citatoje aiškinamas kaip duoklininkas, tai yra duoklę mokantis valstietis.'
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Vytautas Ordinui aiškino, kad vadinamieji „czinshaftige“ buvo asmenys, mokėję duokles bajorams.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Karalienė teigė, kad Lietuva jai turi mokėti činšą, nes Jogaila kraštą jai atidavė kaip vestuvinę dovaną.'
+  pagrindžia:
+    - c-005
+- t-009
+  teiginys: '1632 m. Akademijos rektorius Frizijus iš 800 auksinų metinio činšo Valerijono bursai mokėjo 400 auksinų.'
+  pagrindžia:
+    - c-006
+- t-010
+  teiginys: 'Šis činšas buvo mokamas vienuolika metų, bet paskui liautasi mokėti, ir kapitula su kunigaikščiu Kristupu pradėjo teismo procesą dėl Filipovo namo.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik
-    malšindama 1831 m. sukilimą, Rusų valdžia žadėjo laisvę tiems
-    valstiečiams, kurie neprisidės prie sukilėlių, tačiau tatai buvo
-    vien tik gražūs pažadai. Tik po sukilimo konfiskuotose ba-
-    jorų ir dvasininkų žemėse valstiečių būklė žymiai pagerėjo.
-    Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės
-    sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama
-    mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė
-    buvo daug sunkesnė).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Šaltinyje `činšas` vartojamas kaip duoklė, kurios mokėtojai laikomi atskira socialine grupe
+  santrauka: 'Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pasižadėdamas ordinui padėti užimti Žemaičius, Vytautas
@@ -95,9 +92,9 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Šaltinis pateikia ir vokiškas bei hibridines formas `eygene` ir `czinshaftige`, susiedamas jas su baudžiauninkais ir duoklių mokėtojais
+    - t-005
+- c-002
+  santrauka: 'Vytautas Ordinui aiškino, kad vadinamieji „czinshaftige“ buvo asmenys, mokėję duokles bajorams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     tas aiškino, jog kryžiuočiai prie valstiečių (« gebuwer ») yra priskaitę
@@ -113,9 +110,9 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-004
-  santrauka: `činšininkas` čia vartojamas kaip `duoklininkas` arba duoklę mokantis valstietis
+    - t-007
+- c-003
+  santrauka: 'Činšininkas citatoje aiškinamas kaip duoklininkas, tai yra duoklę mokantis valstietis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     c. _Žemaičių sukilimai._ — Ilgas ir įkyrus aiškinimasis su Vy­
@@ -127,9 +124,9 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-005
-  santrauka: Šaltinyje `činšas` vartojamas kaip duoklė, kurios mokėtojai laikomi atskira socialine grupe
+    - t-006
+- c-004
+  santrauka: 'Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Grįžęs iš laimingai baig­
@@ -145,7 +142,79 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
+- c-005
+  santrauka: 'Karalienė teigė, kad Lietuva jai turi mokėti činšą, nes Jogaila kraštą jai atidavė kaip vestuvinę dovaną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    144
+
+    ## Puslapis 161
+
+    Il KNYGA
+    keti činšą, kuris jai iš Lietuvos priklausantis, kadangi šis kraštas
+    karaliaus Vladislovo Jogailos jai atiduotas kaip vestuvinė do­
+    vana. Vytautas, gavęs tą iššūkį, sukviečia Lietuvos ir Rusios
+    didikus į tarybą, liepia jiems skaityti laišką ir klausia: ar jie
+    norį būti pavaldūs Lenkijai ir jai mokėti duoklę? Pasigirsta vi­
+    sų kaip vieno balsai, kad jie esą laisvi ir kad jų tėvai niekados
+    nemokėję Lenkijai duoklių - toks buvo atsakymas į tą prama­
+    naus Vytauto klausimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-006
+  santrauka: '1632 m. Akademijos rektorius Frizijus iš 800 auksinų metinio činšo Valerijono bursai mokėjo 400 auksinų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš
+    Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį
+    quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­
+    dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų,
+    pusę to činšo, 400 auksinų, Valerijono bursai moka, kas iki
+    šiol būdavo punktualiai atiduodama Valerijono konvikto gy­
+    ventojams.
+    Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti
+    vyskupo Valerijono Protasevičiaus, prieš 1670 metus, prie­
+    šo puolimo metu, kaip ir visas miestas, buvo apiplėšti ir su­
+    deginti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-007
+  santrauka: 'Šis činšas buvo mokamas vienuolika metų, bet paskui liautasi mokėti, ir kapitula su kunigaikščiu Kristupu pradėjo teismo procesą dėl Filipovo namo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tą Fi-
+    lipovo namą kunigaikščio Kristupo
+    tėvas Mikalojus Radvila Juodasis,
+    Vilniaus vaivada, Lietuvos kancleris,
+    nuomojo iš kapitulos pagal sutartį
+    nuo 1541 metų ir kasmet mokėjo po
+    20 kapų lietuviškų grašių dėl to, kad
+    sujungęs su savo namu, turėtų erd­
+    vesnį būstą. Šis činšas buvo mokamas
+    vienuolika metų, bet paskui liautasi
+    mokėti, ir kapitula su kunigaikščiu
+    Kristupu pradėjo teismo procesą dėl
+    Filipovo namo. Tačiau 1573 metais
+    kovo 26 dieną su kapitula įsigaliojo
+    sutartis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai

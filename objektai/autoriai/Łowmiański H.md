@@ -27,6 +27,10 @@ tags:
 Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H. Dusburgietis teigia, kad 1-oje pusėje (Łowmiański H. Dusburgietis teigia, kad 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią antropomorfinę dievybę, panašią į krikščioniškąjį dievą (Łowmiański H.
 
 ## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H.'
+  pagrindžia:
+    - c-001
 - t-002
   teiginys: 'Dusburgietis teigia, kad 1-oje pusėje (Łowmiański H.'
   pagrindžia:
@@ -36,6 +40,22 @@ Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H. Dusburgieti
   pagrindžia:
     - c-003
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    dešimtmetyje)
+    romėnai pirmą kartą tiesiogiai pasiekę Baltijos pajūrį tarp Vyslos ir Nemuno žiočių bei
+    Sembą (Plinius C. Secundus. Naturalis historiae..., t. V, kn. XXXVII, p. 400; Okulicz J.
+    Pradzieje..., p. 342—343; Łowmiański H. Początki Polski, t. 1, p. 134, 162; Michelbertas
+    M. Prekybiniai..., p. 7—8 ir kt.; Kolendo J. Wyprawa..., p. 25— 62).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
 - c-002
   santrauka: 'Dusburgietis teigia, kad 1-oje pusėje (Łowmiański H.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

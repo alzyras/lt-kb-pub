@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -38,29 +39,46 @@ Nenurodyta
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Voluinės kunigaikščiams geriau sekėsi kariauti su jotvingais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Po ilgų kovų, XIII amž. pra-
-    džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
-    sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
-    riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
     Voluinės kunigaikščiams geriau sekėsi kariauti su jotvin-
     gais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.
     Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir
     atstatyta, jotvingų buvusi, Gardino pilis (senasis Gardinas, tur
     būt, bus turėjęs kitą vardą).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikštijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu XIII amž. pradžioje, kai Mindaugas pradėjo kurti Lietuvos valstybę, Voluinės kunigaikš-
+    tijos siena ėjo aukščiau Gardino ir nyko kažkur miškuose. Mer-
+    kinė čia buvo kraštutinė didesnioji lietuvių pilis, nors jotvingų
+    sodybos dar toli nuėjo į pietus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

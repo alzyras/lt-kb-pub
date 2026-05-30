@@ -46,6 +46,7 @@ Lietuvos seniausių laikų tyrimų sritis, kuriai reikalingi archeologiniai meto
 Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru mokslu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos proistorė jau yra atskiras mokslas.'
   pagrindžia:
@@ -53,25 +54,51 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-002
   teiginys: 'Proistorė čia siejama su archeologiniais duomenimis ir kitais metodais.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-004
   teiginys: 'archeologiniai kasinėjimai ir tyrinėjimai padeda geriau pažinti Lietuvos proistorę.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-005
   teiginys: 'terminas vartojamas kaip istorinio laikotarpio pavadinimas, o ne kaip konkretus daiktas ar vieta.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
+- t-006
+  teiginys: 'Lietuvos proistorė yra jau plačiai išaugusi į atskirą mokslą, kur tyrinėjama kitais metodais.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-007
+  teiginys: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-003
+  teiginys: Tikroji Lietuvos istorija šiame pasakojime pradedama nuo XII amžiaus galo, kai daugėja rašytinių šaltinių.
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: Lietuvos proistorė jau yra atskiras mokslas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -91,6 +118,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - t-002
     - t-004
     - t-005
+
 - c-003
   santrauka: Lietuvos proistorė jau yra atskiras mokslas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -106,6 +134,24 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Apie jų darbų atranką ir metodą buvo rašyta aukščiau,
+    periodizacijos skyrelyje. Lietuvos _proistorei_ geriau pažinti padeda
+    ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai. Šioje
+    srityje pirmiausiai minėtini archeologai: P. Kulikauskas,
+    pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD,
+    t. 1, 1955, 75-84 p.), apie įvairius tyrinėtus piliakalnius ir senka­
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai

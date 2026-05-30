@@ -50,4 +50,3 @@ Dusburgietis teigia, kad baltai, p. 148—178; Mannhardt W.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]

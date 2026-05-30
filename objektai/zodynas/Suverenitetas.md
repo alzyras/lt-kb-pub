@@ -69,10 +69,22 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Respublikos suverenumas buvo vis labiau pažeidžiamas.'
+  pagrindžia:
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 - t-005
   teiginys: 'Lietuvos Tarybų respublikos suverenumas šaltinyje vaizduojamas kaip įvykdytas 1940 m.'
   pagrindžia:
     - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Terminas vartojamas kaip politinės valdžios ir savarankiškumo sąvoka.'
+  pagrindžia:
+    - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-007
@@ -81,27 +93,21 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
     - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Sutartyje Jogaila privalėjo veikti tik su ordino žinia, patarimu ir valia.'
+  pagrindžia:
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Suverenitetas tiesiogiai nusako Lietuvos teises Klaipėdos krašte.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
-    žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
-    **_Poincarė,_** italų ambasadorius **_Avenzzana,_** japonų **_ambasadorius
-    Ishii,_** anglų markizas **_de Crewe_** ir Lietuvos ministeris pirmininkas ir
-    užsienių reikalų ministeris **_Galvanauskas,_** — susideda iš penkių da-
-    lių. Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
+    Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
     nitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas
     ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius
-    ligi 1930 metų nuo karo prievolės ir duoda teisę Tautų S-gos tarybos
-    nariams atkreipti dėmesį į konvencijos laužymus; o jei dėl to ne-
-    būtų sutikimo su signatarais, šiems paliekama laisvė pateikti ginčą
-    Hagos Teismui. Antroji dalis yra priedėlis, kuris išdėsto au-
-    tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
-    nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
-    santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
-    atsiskaitymus ir paties statuto keitimo procedūrą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -113,13 +119,6 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
   santrauka: Tarptautiniame susitarime suverenumas siejamas su teritoriniu integralumu ir neliečiamybe.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš politinių sutarčių paminėtinos yra drau-
-    gingumo sutartys su Sovietų Rusija ir 1934 m. pasirašytoji Pa-
-    baltijo valstybių sąjunga.
-    1920 m. padarius taiką su Sovietų Rusija, ši daug kartų yra
-    parodžiusi Lietuvai palankumo ir užstojusi Lietuvą jos kovose.
-    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
-    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
     šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
     verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
     susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
@@ -134,13 +133,6 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
   santrauka: Lietuvos pozicija dėl Vilniaus srities išsakoma kaip teritorialinio suvereniteto klausimas.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
-    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
-    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
-    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
-    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų. Abi
-    šalys, be to, pasižadėjo neteikti paramos kitoms valstybėms,
-    kurios pultų vieną iš jų. Šios sutarties pasirašymo metu Sovietų
     vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo
     simpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-
     somą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto
@@ -153,17 +145,27 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: Respublikos suverenumas buvo vis labiau pažeidžiamas
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Respublikos suverenumas vis labiau visokiais budais būdavo
+    pažeidžiamas. Tipiškai atsivėrė sustiprėjusi Rusijos įtaka per Au­
+    gusto III-jo (1733 m.) ir ypač per Stanislovo Augusto Poniatovskio
+    (1764) elekciją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+    - t-006
+    - t-008
 - c-005
   santrauka: Lietuvos Tarybų respublikos suverenumas šaltinyje vaizduojamas kaip įvykdytas 1940 m
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Neigdami
-    tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
-    pabrėžė, jog tikrasis Lietuvos valstybingumas tebuvęs atkurtas
-    pasėkoje liaudies masių judėjimo ir proletarinės revoliucijos. Tada
-    Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
-    darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
-    festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
     Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
     tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
     žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
@@ -179,9 +181,9 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
-    ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal­
+    ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal-
     binė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo
-    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­
+    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri-
     namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
     žinios, patarimo ir valios nepradėti karo.
   citata_rodoma: ""
@@ -191,6 +193,7 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+
 ## Šaltiniai ir įrodymai
 
 ## Pastabos

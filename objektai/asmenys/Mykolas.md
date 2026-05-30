@@ -6,14 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1314 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-date_start: '1314'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
@@ -28,32 +26,69 @@ tags:
 Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+- t-001
+  teiginys: 'Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.'
   pagrindžia:
-    - c-003
-## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dar apie tą patį
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Ji buvo daug svarbesnė pilių apgulose vadovauti pavedė savo sūnui kunigaikščiui Mykolui, kuris „su lietuviais ir lenkais“ žygiavo pasitikti priešo.'
+  pagrindžia:
+    - c-002
 
-       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
-    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
-    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
-    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
-    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
-    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
-    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
-    jas nusiaubė, degindami ir piešdami.
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    XV a. atvirose kautynėse
+    artilerija neatliko svarbaus
+    vaidmens, nors ir būdavo
+    panaudojama. Ji buvo daug
+    svarbesnė pilių apgulose
+
+    vadovauti pavedė savo sūnui kunigaikščiui
+    Mykolui, kuris „su lietuviais ir lenkais“ žy-
+    giavo pasitikti priešo.
+
+    Sprendžiant iš pagrindinių istorinių
+    šaltinių, Švitrigailos ir Ordino pajėgos iš
+    Vilkmergės patraukė į pietus pro Pašilę
+    ir toliau keliu Gelvonų link, einančiu
+    per dabartinį Pabaiską, vakarine Žirnajų
+    ežero pakrante.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Ji buvo daug svarbesnė pilių apgulose vadovauti pavedė savo sūnui kunigaikščiui Mykolui, kuris „su lietuviais ir lenkais“ žygiavo pasitikti priešo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ji buvo daug
+    svarbesnė pilių apgulose
+
+    vadovauti pavedė savo sūnui kunigaikščiui
+    Mykolui, kuris „su lietuviais ir lenkais“ žy-
+    giavo pasitikti priešo.
+
+    Sprendžiant iš pagrindinių istorinių
+    šaltinių, Švitrigailos ir Ordino pajėgos iš
+    Vilkmergės patraukė į pietus pro Pašilę
+    ir toliau keliu Gelvonų link, einančiu
+    per dabartinį Pabaiską, vakarine Žirnajų
+    ežero pakrante.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

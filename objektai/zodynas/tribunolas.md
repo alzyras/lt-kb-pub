@@ -6,17 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1581 m.'
-  - '1823 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XIX'
-date_start: '1581'
-date_end: '1823'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -37,70 +27,68 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-002
-  teiginys: 'Bajorijos byloms su dvasininkais buvo sudaromas mišrusis, arba dvasiškasis, tribunolas.'
+  teiginys: 'O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
 - t-003
-  teiginys: 'Lietuvai paskirtas tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
+  teiginys: 'Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
+- t-004
+  teiginys: 'Tribunolo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet pagaliau,
-    kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
-    atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
-    bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
-    Lietuvoje.
     Vyriausiojo Lietuvos tribunolo reikalas buvo
     svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
     tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
     pat išliko iki pat nepriklausomybės pabaigos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Bajorijos byloms su dvasininkais buvo sudaromas mišrusis, arba dvasiškasis, tribunolas.'
+  santrauka: 'O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tribunole pirmininkaudavo iš tų pačių deputatų renkamas
-    pirmininkas, vadinamas tribunolo maršalka. Bylos bū-
-    davo sprendžiamos balsų dauguma. O bajorijos byloms su
+    O bajorijos byloms su
     dvasininkais būdavo sudaromas mišrasis teismas, arba
     dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų
     kapitulų skiriami kunigai ir 6 tribunolo deputatai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Lietuvai paskirtas tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  santrauka: 'Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
-    kilmingai įvesdintas išlaisvino karalius nuo varginančio
-    57
-    Visas Vilniaus universiteto fundaci­
-    jos privilegijas kartu su atitinkama
-    popiežiaus bule galima perskaityti
-    veikale „Stepono Batoro valdymas",
-    iš Albertrandžio rankraščių, rūpestin­
-    gai profesoriaus Onacevičiaus
-    išleistų Varšuvoje, 1823 m.
+    Be to, jis siūlė pa-
+    likti toje kunigaikštijoje Lietuvos statutą be jokių
+    apribojimų ir įsteigti nuo
+    Petrapilio visiškai nepri-
+    klausomą tribunolą (mat,
+    tada aukščiausioji instan-
+    cija buvo Rusijos senatas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -108,6 +96,22 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tribunolo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tribunolo teisėjais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
+    davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
+    sario 2 d.) ir darbuodavos tribunole vienus metus. Kiekvienas
+    seimelis rinko po 2 atstovus, vadinamus deputatais; tad
+    iš viso tribunolo narių buvo 46.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

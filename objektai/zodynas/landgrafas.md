@@ -105,7 +105,6 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Albertas (Brandenburgo markgrafas)]]
@@ -136,3 +135,4 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga]]
 - [[objektai/asmenys/Volfgeris]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

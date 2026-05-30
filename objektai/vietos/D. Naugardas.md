@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -22,25 +23,41 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
 
 ## Teiginiai
 - t-001
-  teiginys: 'D. Naugardas buvo miestiečių valstybė.'
+  teiginys: 'Naugardo miestiečių valstybė.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'D. Naugardas buvo miestiečių valstybė.'
+  santrauka: 'Naugardo miestiečių valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Padarę taiką pietuose, jie pradėjo
-    žiauriai siaubti kalavijuočių ordino pavergtas sritis, naikinti jo
-    pilis. Šitiems žygiams jie rado ir talkininkų. Tai buvo galinga
     D. Naugardo miestiečių valstybė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    jungą su D. Naugardu, 1262 m. nužygiavo į Livonijos ordino
+    žemę net iki Cėsio (Vendeno).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

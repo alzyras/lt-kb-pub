@@ -36,27 +36,52 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gintaro ir stiklo karoliai buvo mėgiami kaip ir ankstyvesniais laikais.'
+  teiginys: 'Buvo mėgiami gintaro ir stiklo karoliai.'
   pagrindžia:
+    - c-003
+    - c-002
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gintaro ir stiklo karoliai buvo mėgiami kaip ir ankstyvesniais laikais.'
+  santrauka: Buvo mėgiami gintaro ir stiklo karoliai.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ano laiko apyrankių ir kitų
-    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
-    audinių ir juostų raštams. Iš to meto yra išlikusių juostų gabalų.
+    Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
+    liai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Gintaro ir stiklo karoliai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
     Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
     liai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-003
+  santrauka: Gintaro ir stiklo karoliai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
+    liai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
 

@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -17,7 +18,7 @@ tags:
 
 ## Santrauka
 
-Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos veikimo būdui.
+Kruvini bajorijos susibūrimai, ypač seimeliuose: tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia- vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be- laisviui mirties. Kruvini bajorijos susibūrimai, ypač seimeliuose: visa tai labai charakteringa to meto bajorijos nuotaikai ir jos veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos susibūrimuose, o ypač seimeliuose.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -36,29 +37,47 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kruvinų susidūrimų pasitaikydavo dažnuose bajorijos susibūrimuose, ypač seimeliuose.'
+  teiginys: 'Kruvini bajorijos susibūrimai, ypač seimeliuose: tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia- vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be- laisviui mirties.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Kruvini bajorijos susibūrimai, ypač seimeliuose: visa tai labai charakteringa to meto bajorijos nuotaikai ir jos veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos susibūrimuose, o ypač seimeliuose.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kruvinų susidūrimų pasitaikydavo dažnuose bajorijos susibūrimuose, ypač seimeliuose.'
+  santrauka: 'Kruvini bajorijos susibūrimai, ypač seimeliuose: tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia- vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be- laisviui mirties.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tik ketvirtą dieną vyskupo Bžostausko ir Višniaveckių rūpesčių jie
-    buvo palaidoti.
+    Tuo tarpu bajorų minia lauke siuto. Per naktį miestely girtuoklia-
+    vusi ir siautėjusi, rytą minia apsupo vienuolyną, reikalaudama be-
+    laisviui mirties.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Kruvini bajorijos susibūrimai, ypač seimeliuose: visa tai labai charakteringa to meto bajorijos nuotaikai ir jos veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos susibūrimuose, o ypač seimeliuose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
     Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos
     veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos
     susibūrimuose, o ypač seimeliuose.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

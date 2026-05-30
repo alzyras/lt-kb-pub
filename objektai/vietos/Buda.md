@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1227 m.'
   - '1307 m.'
@@ -31,11 +32,21 @@ tags:
 Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko ofi­ ciali, Skirgailos vadovaujama, delegacija. Krokuvoje ir Budoje ji galutinai sutarė, kas vėliau Kriavo akte (1385.VIII.14) buvo pa­ žadėta.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems 1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227), šitaip.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje sutarė dėl vėliau Kriavo akte pažadėtų sąlygų.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
 - c-002
   santrauka: 'Dusburgietis teigia, kad apie Vaclovo, Čekijos karaliaus, mirtį ir jo sosto atitekimą svetimiesiems 1307 viešpaties metais mirė Vaclovas, Čekijos karalius, o jo sūnus buvo vainikuotas karaliumi Budoje, tačiau tais pačiais metais jį nužudė vienas jo riteris (Ptol. p. 1227), šitaip.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -53,3 +64,20 @@ Nuo tada Jogaila veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+- c-001
+  santrauka: '1385 m. sausį Skirgailos vadovaujama delegacija Krokuvoje ir Budoje sutarė dėl vėliau Kriavo akte pažadėtų sąlygų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nuo tada Jogaila
+    veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko ofi­
+    ciali, Skirgailos vadovaujama, delegacija. Krokuvoje ir Budoje ji
+    galutinai sutarė, kas vėliau Kriavo akte (1385.VIII.14) buvo pa­
+    žadėta.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

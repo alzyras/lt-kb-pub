@@ -55,4 +55,3 @@ Dusburgietis teigia, kad kronikos autorius, politiniai ir ideologiniai uždavini
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/naratyviniai šaltiniai]]

@@ -62,7 +62,3 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/naratyviniai šaltiniai]]

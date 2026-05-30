@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -17,31 +18,51 @@ tags:
 
 ## Santrauka
 
-Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.
+konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus- dinami ir pranešami visam kraštui. konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.'
+  teiginys: 'konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus- dinami ir pranešami visam kraštui.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.'
+  santrauka: 'konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus- dinami ir pranešami visam kraštui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Seimo aktai.** Visi seimo nutarimai, vadinęsi konstituci-
+    Visi seimo nutarimai, vadinęsi konstituci-
     jomis, buvo įstatymai. Po seimo paprastai jie būdavo išspaus-
     dinami ir pranešami visam kraštui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'konstitucijos: būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu- rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo limita. Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Būdavo atsitikimų, kad seimas dėl kokių nors priežasčių tu-
+    rėdavo pertraukti savo darbus. Tatai buvo vadinama seimo _limita._
+    Po to vėl susirinkęs seimas tęsdavo toliau savo darbus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

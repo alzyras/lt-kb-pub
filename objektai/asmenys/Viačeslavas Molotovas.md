@@ -6,15 +6,6 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1940 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-date_start: '1940'
-date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -29,49 +20,45 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 ## Teiginiai
 - t-001
-  teiginys: '1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas sukrėtė Antaną Merkį brutaliu elgesiu ir kaltinimais Lietuvai.'
+  teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Molotovo rankų ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutartimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovietinę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos 10 val.'
+  teiginys: 'Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir Lietuvos savitarpio pagalbos sutartis.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Molotovas sukrėtė A.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Molotovo rankų ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutartimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovietinę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos 10 val.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas sukrėtė Antaną Merkį brutaliu elgesiu ir kaltinimais Lietuvai.'
+  santrauka: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
-    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    187
-    ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais,
-    nesama karine antisovietine sąjunga su Latvija ir Estija, užkliuvo antiso-
-    vietinė karikatūra Lietuvos laikraštyje, netgi paties A.
-  citata_rodoma: ""
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Molotovo rankų ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutartimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovietinę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos 10 val.'
+  santrauka: 'Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau nei J. Urbšys, nei taikingas A. Smetonos
-    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
-    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
-    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
-    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
-    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
-    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
-    10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
-    atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
+    Užtat sukruto sujudo Maskva – V. Molotovas pakvietė atvykti į Mas-
+    kvą ministrą Juozą Urbšį. Šis išvyko spalio 2 dieną.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,6 +66,42 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir SSRS ir Lietuvos savitarpio pagalbos sutartis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Molotovas sukrėtė A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Molotovo rankų ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutartimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovietinę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos 10 val.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

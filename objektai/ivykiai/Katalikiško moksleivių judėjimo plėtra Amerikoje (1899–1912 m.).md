@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -32,32 +33,49 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1912 m. federacija Čikagoje sušaukė pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos lietuvių Romos katalikų moksleivių susivienijimą.'
+  teiginys: '1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lietuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos ir Europos universitetuose.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1912 m. federacija Čikagoje sušaukė pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos lietuvių Romos katalikų moksleivių susivienijimą.'
+  santrauka: '1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taip antai, Federacijos
-    įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lie-
-    tuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos
-    ir Europos universitetuose. 1912 m. F-ja sušaukė Čikagoje pirmąjį
+    1912 m. F-ja sušaukė Čikagoje pirmąjį
     lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietu-
     vių R. Katalikų Moksleivių Susivienijimą (to
     Susivienijimo nariai, nuo savo organo „Giedros", buvo vadi-
     nami giedrininkais).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lietuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos ir Europos universitetuose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Taip antai, Federacijos įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lie-
+    tuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos
+    ir Europos universitetuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

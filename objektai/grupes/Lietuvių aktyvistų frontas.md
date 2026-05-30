@@ -9,25 +9,21 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1940-1941 m."
+datos:
+  - "1940-11"
+  - "1941-06-23"
+  - "1941-09-26"
+periodas: "siuolaikine_istorija"
+periodo_grupes:
+  - "nacių okupacija"
+amziai:
+  - "XX"
+date_start: "1940"
+date_end: "1941"
 vaidmenys:
   - "politinė ir rezistencinė organizacija"
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1940 m.'
-  - '1941 m.'
-  - '1988 m.'
-  - '1990 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1940'
-date_end: '2026'
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-14'
 tags: []
@@ -69,98 +65,111 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
 - susijusios vietos: Berlynas, Lietuva, Kaunas.
 
 ## Teiginiai
-- t-014
-  teiginys: 'Karinė Lietuvių aktyvistų fronto dalis bendradarbiavo su Abveru, o instrukcijose pirmiausia nurodyta užimti tiltus, geležinkelio mazgus ir oro uostus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-015
-  teiginys: 'Rugsėjo 26-ąją naciai uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais.'
+
+- t-002
+  teiginys: "LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru."
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-017
-  teiginys: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
+- t-003
+  teiginys: "LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje."
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: "1941 m. rugsėjo 26 d. naciai uždarė LAF."
   pagrindžia:
     - c-004
-- t-018
-  teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą, būsimo sukilimo detales.'
+  pagrindžia:
+    - c-002
+- t-007
+  teiginys: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
   pagrindžia:
     - c-005
+- t-008
+  teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karinė Lietuvių aktyvistų fronto dalis bendradarbiavo su Abveru, o instrukcijose pirmiausia nurodyta užimti tiltus, geležinkelio mazgus ir oro uostus.'
+
+- c-002
+  santrauka: Aprašoma LAF informacinė ir instrukcinė veikla bei karinės dalies ryšys su Abveru.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Mičiūno reprodukcija)
-
-    L I E T U V O S  I S T O R I J A
-    196
     Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
     Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
     dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
-    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
-    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
-    gus, oro uostus, fabrikus ir kt. LAF vadovybė pernelyg pasitikėjo nacių
-    Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
-    suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
+    būsimo sukilimo detales.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-014
-- c-002
-  santrauka: 'Rugsėjo 26-ąją naciai uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais.'
+    - t-002
+- c-003
+  santrauka: Nurodomi LAF programos antisemitiniai punktai.
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
+    ryšius su nacių Vokietija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Nurodoma, kad naciai 1941 m. rugsėjo 26 d. uždarė LAF.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugumai ministrų atsisakius tapti
     tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
     sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
     baigėsi legalių lietuvių organizacijų veikla.
-    Laikinosios vyriausybės uždraudimas rodo, kad ji pirmiausia žiūrėjo
-    lietuvių tautos interesų, buvo paskelbta prieš vokiečių vadovybės valią ir
-    nebuvo nacių politinių intrigų darinys.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-015
-- c-004
+    - t-004
+- c-005
   santrauka: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dau-
     gumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai
-    dominavo eksporte ir importe, be to, žydai sudarė 83 proc.
+    dominavo eksporte ir importe, be to, žydai sudarė 83 proc. visų prekybos
+    įmonių savininkų, lietuviai – vos 13 proc.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-017
-- c-005
+    - t-007
+- c-006
   santrauka: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
-    ryšius su nacių Vokietija. LAF programoje ir kituose dokumentuose ne-
-    išvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF progra-
-    mos punktas atšaukė teisę žydams gyventi Lietuvoje).
+    ryšius su nacių Vokietija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-018
+    - t-008
 
 ## Šaltiniai ir įrodymai
 

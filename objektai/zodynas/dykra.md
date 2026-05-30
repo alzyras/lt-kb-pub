@@ -58,48 +58,73 @@ pasienio neapgyventa, dykai likusi teritorija; žemė tarp ribų, miškų ir gyv
 Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 
 ## Teiginiai
+
 - t-004
   teiginys: 'Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-005
   teiginys: 'Sūduvos dykra 1422 m. buvo padalinta.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-006
   teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
   pagrindžia:
     - c-003
+
 - t-007
   teiginys: 'Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.'
   pagrindžia:
     - c-004
+
 - t-008
   teiginys: 'Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko ordino pusėje.'
   pagrindžia:
     - c-005
+
 - t-010
   teiginys: 'Šiame šaltinyje dykros žymi ribinę erdvę, iki kurios tęsiamas užpuolikų persekiojimas.'
   pagrindžia:
     - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-011
   teiginys: 'Šiame šaltinyje dykrose galima sekti priešo pėdsakus ir pagal juos skirti tolesnį žygį.'
   pagrindžia:
     - c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
 - t-012
   teiginys: 'Šiame šaltinyje dykros veikia ir kaip tiesioginė susirėmimo vieta.'
   pagrindžia:
     - c-009
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+
+- t-001
+  teiginys: 'Dykra šiame fragmente reiškia pasienio neapgyventą teritoriją.'
+  pagrindžia:
+    - c-001
+    - c-003
+    - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Melno dokumente ribos ėjo per dykras ir miškus be gyvenviečių.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.'

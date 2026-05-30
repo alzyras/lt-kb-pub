@@ -8,20 +8,16 @@ variantai:
 aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-datos:
-  - '1009 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XXI'
-date_start: '1009'
-date_end: '2026'
 bukle: juodrastis
 laikotarpis: "1009 m. Lietuvos paminėjimo ir Netimero valdžios kontekstas"
+datos:
+  - "1009 m."
+periodas: "viduramziai"
+periodo_grupes: []
+amziai:
+  - "XI"
+date_start: ""
+date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -53,8 +49,14 @@ Sąvoka aiškinama per Netimero valdžios paveldimumą ir Lietuvos politinio iš
 Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Netimero valdžios paveldimumas rodytų, kad Lietuva buvo pasiekusi bent chiefdomo, arba vadystės, stadiją.'
+- t-001
+  teiginys: "Vadystė yra `chiefdom` stadijos atitikmuo."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -62,21 +64,19 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Netimero valdžios paveldimumas rodytų, kad Lietuva buvo pasiekusi bent chiefdomo, arba vadystės, stadiją.'
+  santrauka: `Chiefdom` ir `vadystė` tiesiogiai susiejami su Netimero valdžios paveldimumu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Netimero valdžios paveldimumo principo buvimas rody-
-    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją. Šis
-    faktas rodytų, kad tuo metu nebuvo ypač didelio atotrūkio tarp Lietuvos
-    ir kitų Vidurio Europos ir Šiaurės Europos šalių (į kurias tuo pačiu metu
-    taip pat buvo organizuojamos krikščioniškos misijos).
+    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

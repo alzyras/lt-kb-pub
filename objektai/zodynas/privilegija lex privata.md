@@ -1,13 +1,12 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'privilegija lex privata (privilegija)'
+pavadinimas: 'privilegija lex privata'
 sukurta: '2026-04-25'
-variantai:
-  - 'privilegija lex privata'
-aliases:
-  - 'privilegija lex privata'
+variantai: []
+aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -16,7 +15,7 @@ tags:
   - privilegija
   - sąvoka
 ---
-# privilegija lex privata (privilegija)
+# privilegija lex privata
 
 ## Santrauka
 
@@ -24,31 +23,46 @@ Tai buvo vadinamosios privilegijos (lex privata). Lietuvoje, įvedus krikščion
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvoje, įvedus krikščionybę, Jogaila taip pat paskelbė raštu pirmąją visam kraštui privilegiją, kurioje buvo surašytos apsikrikštijusių bajorų teisės.'
+  teiginys: 'Tai buvo vadinamosios privilegijos (lex privata).'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+  statusas: juodrastis
+- t-002
+  teiginys: 'Lietuvoje, įvedus krikščionybę, Jogaila taip pat paskelbė raštu pirmąją visam kraštui privilegiją, kurioje buvo surašytos apsikrikštijusių bajorų teisės.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: juodrastis
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Tai buvo vadinamosios privilegijos (lex privata).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tai buvo vadinamosios
+    privilegijos _(lex privata)._
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Lietuvoje, įvedus krikščionybę, Jogaila taip pat paskelbė raštu pirmąją visam kraštui privilegiją, kurioje buvo surašytos apsikrikštijusių bajorų teisės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ir kitose Europos valstybėse tada nedaug te-
-    buvo bendrų įstatymų, bet kiekviena valstybės sritis, kiekviena
-    įstaiga, kiekvienas luomas ir atskiros šeimos turėdavo dokumen-
-    tų, kuriuose būdavo surašytos jų teisės. Tai buvo vadinamosios
-    privilegijos _(lex privata)._ Lietuvoje, įvedus krikščionybę,
+    Lietuvoje, įvedus krikščionybę,
     Jogaila taip pat paskelbė raštu pirmąją visam kraštui privilegiją,
     kurioje buvo surašytos apsikrikštijusių bajorų teisės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

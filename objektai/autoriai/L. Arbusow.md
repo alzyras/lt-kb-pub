@@ -27,18 +27,21 @@ tags:
 Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos); Th.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'L. Arbusow nurodomas 1928 m. „Acta Universitatis Latviensis“ paskelbto darbo „Römischer Arbeitsbericht“ autoriumi.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 - t-002
   teiginys: 'L. Arbusow parašė darbą „Römischer Arbeitsbericht“.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'L. Arbusow nurodomas 1928 m. „Acta Universitatis Latviensis“ paskelbto darbo „Römischer Arbeitsbericht“ autoriumi.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -57,6 +60,7 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'L. Arbusow parašė darbą „Römischer Arbeitsbericht“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -72,3 +76,17 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: L. Arbusow papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (^9) **L. Arbusow :** **_Römischer Arbeitsbericht_** **(Acta Universitatis Latviensis)
+    1928, 386 p. Plg. Paszkiewicz : PaJM, 257 p.**
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: exact_source_offset
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001

@@ -1,23 +1,27 @@
 ---
 tipas: saltinis
-pavadinimas: 'M. Daukšos Postilė'
-sukurta: '2026-05-18'
-variantai: []
+pavadinimas: "M. Daukšos Postilė"
+sukurta: '2026-05-14'
+variantai:
+  - "„Postilė“"
+  - "Postilės pratarmė"
 aliases: []
 saltiniai:
-  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+laikotarpis: "1599 m."
 datos:
-  - '1595 m.'
-  - '1599 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+  - "1599 m."
+periodas: ""
+periodo_grupes: []
 amziai:
-  - 'XVI'
-date_start: '1595'
-date_end: '1599'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
+  - "XVI"
+date_start: "1599"
+date_end: "1599"
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - saltinis
   - tauta
@@ -27,37 +31,55 @@ tags:
 
 ## Santrauka
 
-1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK – „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmėje kreipėsi į Lietuvos visuomenę, ragindamas kurti raštiją lietuvių kalba: „Kurgi, sakau, pasaulyje yra tauta, tokia.
+M. Daukšos Postilė minima kaip 1599 m. parengtas lietuviškas leidinys. Jos pratarmė pristatoma kaip kreipimasis į Lietuvos visuomenę, raginantis kurti raštiją lietuvių kalba.
+
+## Bibliografiniai duomenys
+
+- Šaltinio pobūdis: postilė / lietuviškas leidinys.
+- Autorius / parengėjas: Mikalojus Daukša.
+- Data: 1599 m.
 
 ## Teiginiai
-- t-003
-  teiginys: '1599 m. Mikalojus Daukša parengė „Postilę“, kurios pratarmėje ragino Lietuvos visuomenę kurti raštiją lietuvių kalba.'
+- t-001
+  teiginys: "1599 m. Mikalojus Daukša parengė lietuvišką leidinį „Postilė“."
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: "Postilės pratarmėje Daukša kreipėsi į Lietuvos visuomenę, ragindamas kurti raštiją lietuvių kalba."
+  pagrindžia:
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: '1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK – „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmėje kreipėsi į Lietuvos visuomenę, ragindamas kurti raštiją lietuvių kalba: „Kurgi, sakau, pasaulyje yra tauta, tokia.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
-
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1599 m. Mikalojus Daukša parengė „Postilę“, kurios pratarmėje ragino Lietuvos visuomenę kurti raštiją lietuvių kalba.'
+  santrauka: Citata pagrindžia Postilės datą, pavadinimą ir pratarmės programinį pobūdį.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK –
-    „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmė-
     je kreipėsi į Lietuvos visuomenę, ragindamas kurti raštiją lietuvių kalba:
-    „Kurgi, sakau, pasaulyje yra tauta, tokia prasta ir niekinga, kad neturėtų
-    šių trijų savų ir tarsi įgimtų dalykų: tėvų žemės, papročių ir kalbos?“ Juk
-    „tąja kalba paprastai visi rašo įstatymus, jąja leidžia savosios ir svetimų
-    tautų istorijas, senas ir naujas, ja aptaria visus valstybės reikalus, ją gra-
-    žiai ir padoriai vartoja visokiais atvejais Bažnyčioje, tarnyboje, namie.“
-    M. Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia
-    kalba sukurti oficialųjį kultūros modelį.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
+- c-002
+  santrauka: '1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK – „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmėje kreipėsi į Lietuvos visuomenę, ragindamas kurti raštiją lietuvių kalba: „Kurgi, sakau, pasaulyje yra tauta, tokia.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    je kreipėsi į Lietuvos visuomenę, ragindamas kurti raštiją lietuvių kalba:
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003

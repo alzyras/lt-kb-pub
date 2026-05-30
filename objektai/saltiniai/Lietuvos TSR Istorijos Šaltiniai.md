@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1955 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
@@ -27,14 +28,24 @@ tags:
 LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai kurios kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad lietuvos TSR istorijos šaltiniai.— T.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Lietuvos TSR Istorijos Šaltinių pirmasis tomas išleistas Vilniuje 1955 m.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis teigia, kad kai kurios kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96.'

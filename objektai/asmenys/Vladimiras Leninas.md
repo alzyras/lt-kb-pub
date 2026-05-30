@@ -22,50 +22,55 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sovietmečiu Lietuvos miestuose ir miesteliuose buvo statomos V. Lenino statulos.'
+  teiginys: 'Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
-  teiginys: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.'
+  teiginys: 'Lenino, J.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sovietmečiu Lietuvos miestuose ir miesteliuose buvo statomos V. Lenino statulos.'
+  santrauka: 'Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietu-
-    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
-    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
-    kabinėta komunistinių šūkių.
-  citata_rodoma: ""
+    damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.'
+  santrauka: 'Lenino, J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kultūra plėtota pagal sovietų
-    principą „tautinė pagal formą, socialistinė pagal turinį“ – tautiniais dra-
-    bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
-    Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai,
-    o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.
-  citata_rodoma: ""
+    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
