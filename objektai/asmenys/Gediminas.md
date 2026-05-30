@@ -1,270 +1,368 @@
 ---
-tipas: asmuo
-pavadinimas: 'Gediminas (Lietuvos valdovas, XIII–XIV a.)'
+tipas: 'asmuo'
+pavadinimas: 'Gediminas (Lietuvos valdovas, XIV a.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Gedimino'
   - 'Gediminui'
   - 'Gedyminą'
   - 'Gedimins'
+  - 'lietuvių karalius'
   - 'Gediminas'
 aliases:
   - 'Gediminas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 laikotarpis: 'XIV a.; 1323 m.; apie 1341 m.'
 vaidmenys:
   - 'Lietuvos valdovas'
 dalyviai: []
 susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1320 m.'
+  - '1325 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1320'
+date_end: '1325'
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
 tags:
   - diplomatas
   - valdovas
 ---
-# Gediminas (Lietuvos valdovas, XIII–XIV a.)
+# Gediminas (Lietuvos valdovas, XIV a.)
 
 ## Santrauka
 
 Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdovas, plėtęs valstybę į rytus ir palaikęs ryšius su Europa. Jis siejamas su laiškais popiežiui ir Europos miestams, Vilniaus įtvirtinimu sostine, Aukštaičių karaliaus vardu, rytinių rusų ir kitų baltų žemių jungimu bei religine pakanta.
 
 ## Vaidmenys
+
 - Lietuvos valdovas
 
 ## Teiginiai
-- t-018
-  teiginys: 'Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų].'
-  pagrindžia:
-    - c-017
-- t-019
-  teiginys: 'Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį.'
-  pagrindžia:
-    - c-018
-- t-020
-  teiginys: 'Dusburgietis teigia, kad atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324 m. liepos mėn.'
-  pagrindžia:
-    - c-019
-- t-021
-  teiginys: 'Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).'
-  pagrindžia:
-    - c-020
-- t-022
-  teiginys: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
-  pagrindžia:
-    - c-021
-- t-023
-  teiginys: 'Dusburgietis teigia, kad dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos 66 PD, II, 6; PKD, s.'
-  pagrindžia:
-    - c-022
-- t-024
-  teiginys: 'Dusburgietis teigia, kad kronikininkas teigia, kad pats Gediminas atsisakęs sumanymo krikštytis.'
-  pagrindžia:
-    - c-023
-- t-025
-  teiginys: 'Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.'
-  pagrindžia:
-    - c-024
-- t-026
-  teiginys: 'Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum): Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267, 269, 306, 310, 356).'
-  pagrindžia:
-    - c-025
-- t-027
-  teiginys: 'Dusburgietis teigia, kad po to legatai išleido į kelią iškilmingą pasiuntinystę pas Gediminą, lietuvių karalių, turėjusią jam pranešti apie apaštališkojo sosto jiedviem duotą uždavinį ir atidžiai ištirti, ar jis su visais savo karalystės žmonėmis norįs priimti krikšto malonę ir.'
-  pagrindžia:
-    - c-026
-## Reikšmingi paminėjimai
-- c-017
-  santrauka: 'Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų].'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tarptautinėje sferoje tuo metu susilaukė atgarsio Lietuvos valdovo Gedimino pareikšti
-    aštrūs kaltinimai kryžiuočiams: „Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje
-    ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis“
-    (1322 m. laiškas popiežiui)48; „Kur atrasime didesnių skriaudų, didesnės neteisybės,
-    smurto, nedorumo ir turto gobšumo, jei ne tarp krikščionių žmonių, o ypač tarp tų,
-    kurie dedasi dorais vienuoliais kaip, pavyzdžiui, kryžiuočiai, tačiau kurie daro visokį
-      42 CEV, p. 1018—1021.
-      43 LIS, t. 1, p. 93—94; Dundulis B. Lietuvių kova..., p. 97, 115—116, 163—164, 221.
-      44 Zajączkowski S. Jotvingių problema..., p. 390—394.
-      45 Кушнер П. И. Этнические территории..., c. 159, 185. 270.
-      46 Ловмянский Г. Роль рыцарских орденов..., с. 76—77.
-      47 Jakštas J. Vokiečių ordinas..., p. 149—155; Caune M. Rīgas pilsētas un Livonijas
-    ordena karš..., lpp. 63—74.
-      48 GL, Nr. 2, p. 26—27.
 
-    pikta...“ (Gedimino pareiškimas popiežiaus legatų pasiuntiniams Vilniuje 1324 m.)49;
-    „...labai daug [nuostolių] [...] mums padarė minėtieji broliai kryžiuočiai [...], jie nebijo
-    dievo, negerbia žmonių ir [elgiasi] kaip žmonės, kurie tiki tik savo rankos jėga“ (1325
-    m. Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui  ir
-    Rygos miesto tarybai)50.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-003
+  teiginys: 'Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę gudria politika bei dinastinėmis vedybomis.'
   pagrindžia:
-    - t-018
-- c-018
-  santrauka: 'Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį.'
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: '1323 m. Gediminas laiškais kvietė į Lietuvą amatininkus, pirklius, žemdirbius ir riterius.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Gediminas mirė apie 1341 m. ir paliko septynis sūnus.'
+  pagrindžia:
+    - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju.'
+  pagrindžia:
+    - c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: '1324 m. Gediminas Vilniuje derėjosi su Volgos totorių chanu Uzbeku.'
+  pagrindžia:
+    - c-008
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Matydamas užtruksiančią kovą su kryžiuočiais, Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
+  pagrindžia:
+    - c-009
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-013
+  teiginys: 'Kryžiuočiai Gediminą vadino Aukštaičių karaliumi.'
+  pagrindžia:
+    - c-012
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.'
+  pagrindžia:
+    - c-013
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Gediminas išgarsėjo kaip sėkmingas rytinių rusų žemių jungėjas prie Lietuvos.'
+  pagrindžia:
+    - c-014
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Gediminas jungė kitų baltų žemes į savo valstybę, paimdamas ir dalį Jotvingos.'
+  pagrindžia:
+    - c-015
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-050
+  teiginys: "Gedimino Lietuva 1324 m. rengė atsakomuosius smūgius Ordinui."
+  pagrindžia:
+    - c-049
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
-    Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
-    geros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį
-    atgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei
-    sukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.
-    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
-    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
-    Popiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino
-    valstybę ir patvirtino šią sutartį53.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: patvirtinta
+- t-052
+  teiginys: "Dusburgietis pasakoja, kad gedimino diplomatinė veikla kėlė Ordino egzistavimui grėsmingą Lietuvos krikšto klausimą."
   pagrindžia:
-    - t-019
-- c-019
-  santrauka: 'Dusburgietis teigia, kad atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324 m. liepos mėn.'
+    - c-051
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  statusas: patvirtinta
+## Reikšmingi paminėjimai
+
+- c-002
+  santrauka: Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę ne vien ginklu.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Atremdama Ordino agresiją, Gedimino Lietuva rengė ir atsakomuosius smūgius: 1324
-    m. liepos mėn. puolama Kristmemelio pilis Nemuno žemupio kairiajame krante, lapkričio
-    mėn. šiaurėje niokojamos Rezeknės apylinkės Livonijoje, o pietuose — Mazovija.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
+    Gediminas taip pat buvo pirmasis, kuris
+    prieš kryžiuočius sudarė sąjungą su Lenkija. Jis prijungė prie
+    Lietuvos didžiulius rusų ir ukrainiečių žemių plotus. Tačiau ir
+    čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo
+    sūnų bei dukterų vedybomis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-020
-- c-020
-  santrauka: 'Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).'
+    - t-003
+- c-004
+  santrauka: Gediminas kvietė Europos miestų gyventojus vykti į Lietuvą.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1323 m. Gediminas parašė laiškų ne tik popiežiui, bet ir dau-
+    geliui Europos miestų. Per rygiečius jis kreipėsi į Hanzos mies-
+    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
+    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
+    tuvą; visiems žadėjo savo globos ir paramos įsikurti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-005
+- c-005
+  santrauka: Iš Gedimino laikų Vilnius tampa nuolatine sostine.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Gediminas gyveno jau Vilniuje. Tais metais jau iš Vilniaus jis
+    rašė savo garsiuosius laiškus popiežiui ir vakarų Europos mies-
+    tams, iš Vilniaus jis derėjosi su Ryga ir su ordinu, pagaliau Vil-
+    niuje kitais metais jis turėjo pasikalbėjimą su popiežiaus legatų
+    pasiuntiniais dėl krikšto. Nuo to laiko Vilnius jau tapo nuolatine
+    Lietuvos sostine.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-006
+- c-006
+  santrauka: Gediminas mirė apie 1341 m. ir paliko septynis sūnus.
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Gediminas mirė apie 1341 m. Mirdamas jis paliko 7 sūnus.
+    Jau anksčiau visi jie buvo gavę po sritį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-007
+- c-007
+  santrauka: 'Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Algirdaičiui tapus Lenkijos karaliumi (1386 m.), reikia nuolat sekti
+    « Karūnos » politinį ir kultūrinį vystymąsi, darantį pastovios įtakos
+    Lietuvai. O dviejų šimtmečių bendrajame palikime Žečpospolitos
+    (Lietuvos ir Lenkijos respublikos), kuri nuo Liublino seimo metų
+    (1569) pamažu ėmė funkcijonuoti, kartais sunku pasidaro surasti
+    lietuvius Lietuvos istorijoje^21.
+    Nuo didžiojo Lietuvos valstybės atnaujintojo Gedimino laikų
+    varžybinis sąlytis su rytų slavais, kurių žemių žymi dalis pateko
+    į Lietuvos sudėtį, darėsi vis reikšmingesnis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-008
+- c-008
+  santrauka: '1324 m. Gediminas Vilniuje derėjosi su Volgos totorių chanu Uzbeku.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Sambijos kanauninko** **_Epitome_** **1315 m.
+    kalba, kad totoriai lietuviams esą padarę** **_magna dampna_** **(SBP I, 286). Yra
+    žinoma, kad Gediminas turėjo su Volgos totorių chanu Uzbeku rimtai skaitytis.
+    1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-009
+- c-009
+  santrauka: Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Švietimo Darbe 1922).
+    **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
+    Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo
+    tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
+  pagrindžia:
+    - t-010
+- c-012
+  santrauka: Kryžiuočių vartosenoje Gediminas vadinamas Aukštaičių karaliumi.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Aukštaičiuose (Kernavėje) buvo ir Traidenio tėviškės žemės
+    (« kuniges Thoreiden lant »)^14. Lietuvos kelių aprašymai (« die litaui­
+    schen Wegeberichte ») įsakmiai parodo^15 , jog XIV amž. didžiojo
+    kunigaikščio dvarai težinomi tik Aukštaičiuose^16 , t. y. ten, kur
+    didieji kunigaikščiai nuo seno turėjo savo tėviškės žemes. Kry­
+    žiuočiai Gediminą yra pavadinę Aukštaičių karaliumi («rex de
+    Owsteiten »)^17.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-013
+  santrauka: 'Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    «Lietuviai iš
+    Žemaičių » puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
+    Gediminas buvo ne tik karys, bet ir valstybininkas. Šalia
+    kardo jis veikė ir diplomatija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-014
+- c-014
+  santrauka: Gediminas išgarsinamas kaip rytinių rusų žemių jungėjas.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kęstutis vy­
+    riausiuoju Lietuvos valdovu tetapo 1381, kai pats, išvaręs Jogailą,
+    atsisėdo Vilniaus pilyje. Ir Vytautas įgijo didžiojo Lietuvos kuni­
+    gaikščio titulą, kai 1392 m. gavo vyriausią Lietuvos miestą Vilnių ;
+    taip ėjo ir toliau.
+    Gediminas išgarsėjo kaip sėkmingas rytinių rusų žemių jungė­
+    jas prie Lietuvos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-015
+  santrauka: Gediminas jungė kitų baltų žemes ir paėmė dalį Jotvingos.
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vieni iš tokių buvo Volgos
+    aukštupyje Tverės kunigaikščiai, kurie, kaip Maskvos varžovai,
+    pastoviai palaikė draugišką sąlytį su Gediminu ir jo įpėdiniais.
+    Jo nustatyta politinė programa ilgam paliko Lietuvos ateičiai.
+    Gediminas vėl, kaip ir Traidenis, jungė kitų baltų žemes į savo
+    valstybę, paimdamas taip pat dalį Jotvingos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-016
+- c-049
+  santrauka: Gediminas minimas kaip valdovas, dukters santuoką naudojęs Mazovijos krypčiai stiprinti.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo (Vankos).
     Mazovija Lietuvai buvo itin svarbi, nes per ją buvo galima susisiekti su Vakarais (kitus
     kelius vakaruose ir šiaurėje blokavo Ordinas).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-021
-- c-021
-  santrauka: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
+    - t-050
+- c-051
+  santrauka: Tiesiogiai pateikia Gediminą kaip legatų misijos adresatą.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Tokį vardą pelno su prūsais bendradarbiavęs Pamario
-    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
-    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs  į ginkluotą kovą
-    prieš Ordiną. Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
-    pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
-
-      66 PD, II, 6; PKD, s.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-022
-- c-022
-  santrauka: 'Dusburgietis teigia, kad dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos 66 PD, II, 6; PKD, s.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dėl Gedimino diplomatinės veiklos iškilęs Lietuvos krikšto klausimas būtų
-    pakirtęs Ordino egzistavimo pagrindą, todėl Dusburgietis stengiasi įrodyti, jog Lietuvos
-
-      66 PD, II, 6; PKD, s. 172—182.
-
-    valdovas tokio plano neturėjęs, jokių laiškų krikšto reikalu nebuvo rašęs, niekam nebuvo
-    įsakęs juos skelbti (III, 359). Šitaip norima pabrėžti, kad Ordino politika esanti teisinga,
-    nors turime pagrindo manyti, kad būtent Ordino klasta sužlugdė Gedimino planus67.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-023
-- c-023
-  santrauka: 'Dusburgietis teigia, kad kronikininkas teigia, kad pats Gediminas atsisakęs sumanymo krikštytis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kronikininkas teigia, kad
-    pats Gediminas atsisakęs sumanymo krikštytis. Lyginimas leidžia manyti, kad Ordinas
-    klastingai stengėsi pakenkti Gedimino planams, nes jie būtų pakirtę Ordino egzistavimo
-    pagrindą147. Ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas
-    pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės
-    politikos vykdytojo, Ordino, apologijai.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-024
-- c-024
-  santrauka: 'Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgiečio krivis
-    tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės
-    papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam
-    žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil. 4680), be to, Lietuvos
-    metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-025
-- c-025
-  santrauka: 'Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum): Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267, 269, 306, 310, 356).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):
-    Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,
-    269, 306, 310, 356).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-026
-- c-026
-  santrauka: 'Dusburgietis teigia, kad po to legatai išleido į kelią iškilmingą pasiuntinystę pas Gediminą, lietuvių karalių, turėjusią jam pranešti apie apaštališkojo sosto jiedviem duotą uždavinį ir atidžiai ištirti, ar jis su visais savo karalystės žmonėmis norįs priimti krikšto malonę ir.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po to legatai išleido  į kelią iškilmingą
+    Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,
+    įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo, bei to paties
+    miesto gyventojų, du legatus, būtent: Baltramiejų, Aleto vyskupą, ir Bernardą, švento
+    Benedikto ordino švento Teofrido vienuolyno abatą Le Piui vyskupystėje, pakrikštyti
+    lietuvių ir rusų karaliaus. Kai juodu kitą dieną po švento Mato, apaštalo ir evangelisto,
+    šventės (rugsėjo 22) atvyko  į Rygos miestą, sutarė taiką (spalio 20) tarp minėtojo
+    karaliaus bei jo valdinių iš vienos pusės ir tarp krikščionių iš kitos ir apaštališkojo sosto
+    valia pasiūlė tvirtai jos laikytis, pridurdami, kad toji šalis, kuri lengvapėdiškai pažeisianti
+    šį susitarimą, kuri sakysianti tokius žodžius ar darysianti tokius veiksmus, griebsiantisi
+    tokių sumanymų ar darbų, kurie galėtų trukdyti šiam susitarimui ar jį vilkinti, būsianti
+    dėl šitokių veiksmų pasmerkta ekskomunikai, o nuo to negalėsiąs atleisti niekas kitas,
+    tik apaštališkasis sostas, prie kurio  jie patys per  tris mėnesius turėsią prisistatyti,
+    kad atvykę deramai pataisytų tai, kas atsitiko. Po to legatai išleido  į kelią iškilmingą
     pasiuntinystę pas Gediminą, lietuvių karalių, turėjusią jam pranešti apie apaštališkojo
     sosto jiedviem duotą uždavinį ir atidžiai ištirti, ar jis su visais savo karalystės žmonėmis
     norįs priimti krikšto malonę ir, metęs stabmeldystę, nuolankiai išpažinti mūsų viešpaties
     Jėzaus Kristaus vardą.
-
-
-
-
-                357 (350).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
+  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-027
+    - t-052
 
 ## Ryšiai
 ### Susiję objektai
