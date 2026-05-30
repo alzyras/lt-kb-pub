@@ -5,6 +5,14 @@ import { BuildCtx } from "../../util/ctx"
 import { VFile } from "vfile"
 import path from "path"
 
+const MAX_SEGMENT_BYTES = 240
+
+function hasOverlongSegment(slug: FullSlug): boolean {
+  return String(slug)
+    .split("/")
+    .some((segment) => Buffer.byteLength(segment, "utf8") > MAX_SEGMENT_BYTES)
+}
+
 function legacySluggify(s: string): string {
   return s
     .split("/")
@@ -37,6 +45,12 @@ function legacySlugifyFilePath(fp: string): FullSlug {
 }
 
 function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
+  if (hasOverlongSegment(fromSlug)) {
+    console.warn(
+      `[AliasRedirects] Skipping redirect for overlong slug segment: ${fromSlug} -> ${toSlug}`,
+    )
+    return null
+  }
   const redirUrl = resolveRelative(fromSlug, toSlug)
   return write({
     ctx,
@@ -61,7 +75,10 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
   const legacySlug = legacySlugifyFilePath(String(file.data.relativePath ?? ""))
 
   if (legacySlug && legacySlug !== file.data.slug) {
-    yield redirectPage(legacySlug, ogSlug, ctx)
+    const page = redirectPage(legacySlug, ogSlug, ctx)
+    if (page) {
+      yield page
+    }
   }
 
   for (const aliasTarget of file.data.aliases ?? []) {
@@ -71,7 +88,10 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
         : aliasTarget
     ) as FullSlug
 
-    yield redirectPage(aliasTargetSlug, ogSlug, ctx)
+    const page = redirectPage(aliasTargetSlug, ogSlug, ctx)
+    if (page) {
+      yield page
+    }
   }
 }
 
