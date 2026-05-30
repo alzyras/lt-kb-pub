@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
 ---
@@ -80,5 +81,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mickevičius]]
+- [[objektai/asmenys/Tropas]]
 - [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje]]

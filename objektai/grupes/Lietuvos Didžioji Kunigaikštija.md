@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - karalius
@@ -173,9 +174,9 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Gediminaičiai]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
@@ -183,6 +184,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/posakiai/„civilizaciniam šuoliui“]]
 - [[objektai/zodynas/hegemonija]]

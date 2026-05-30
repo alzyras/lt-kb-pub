@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -64,7 +65,7 @@ tags:
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]

@@ -26,6 +26,7 @@ amziai:
 date_start: '1655'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
   - karalius
@@ -81,5 +82,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Švedai]]

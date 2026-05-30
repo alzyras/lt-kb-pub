@@ -21,6 +21,7 @@ amziai:
 date_start: '1401'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - ordinas
@@ -78,7 +79,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Žemaičiai]]

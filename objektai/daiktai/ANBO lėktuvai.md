@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "ANBO lėktuvai"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "ANBO lėktuvai"
 aliases: []
@@ -25,6 +25,7 @@ amziai:
 date_start: '1934'
 date_end: '1939'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - transportas
 ---

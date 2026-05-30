@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - mūšis
   - posakis
@@ -58,9 +59,6 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Rusai]]

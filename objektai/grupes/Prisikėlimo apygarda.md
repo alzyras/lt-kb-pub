@@ -17,6 +17,7 @@ amziai:
 date_start: '1948'
 date_end: '1949'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -139,14 +140,14 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]]
 - [[objektai/asmenys/Juozas Paliūnas-Rytas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Kęstučio apygarda]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/autoriai/Maironis]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Maironio rinktinė]]
 - [[objektai/grupes/Vytauto apygarda]]
 - [[objektai/asmenys/Aleksandra Atgailainytė]]

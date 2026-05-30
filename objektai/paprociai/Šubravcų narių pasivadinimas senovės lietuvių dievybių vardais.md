@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais
@@ -85,6 +86,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mykolas Balinskis]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
   - tauta
@@ -62,4 +63,4 @@ Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj savo politikoj: 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

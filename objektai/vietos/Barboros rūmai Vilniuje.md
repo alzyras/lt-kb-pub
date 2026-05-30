@@ -26,6 +26,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Barboros rūmai Vilniuje

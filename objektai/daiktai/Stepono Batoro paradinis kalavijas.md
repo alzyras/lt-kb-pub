@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Stepono Batoro paradinis kalavijas
-sukurta: 2026-05-02
+sukurta: '2026-05-02'
 variantai: []
 aliases: []
 saltiniai:
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-02'
 tags:
   - daiktas
   - ginklas

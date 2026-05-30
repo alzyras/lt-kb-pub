@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - vaistinės prekės
   - medikamentai
@@ -29,6 +29,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vaistinės prekės, vaistai ir gydomieji gėrimai

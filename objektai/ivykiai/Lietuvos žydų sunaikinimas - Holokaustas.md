@@ -22,6 +22,7 @@ amziai:
 date_start: '1941'
 date_end: '1990'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
   - karas

@@ -18,6 +18,7 @@ amziai:
 date_start: '1394'
 date_end: '1399'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - tikėjimas
   - vieta

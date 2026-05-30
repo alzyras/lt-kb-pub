@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - mokslininkas
@@ -50,7 +51,6 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
 - [[objektai/zodynas/Bendrinė sąvoka]]
 - [[objektai/daiktai/Gitara „Zemaitis“]]
 - [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
-- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
 - [[objektai/posakiai/„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“]]
 - [[objektai/posakiai/„Lietuviais esame mes gimę...“]]

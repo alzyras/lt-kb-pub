@@ -3,6 +3,8 @@ tipas: tyrimas
 pavadinimas: "Tuščių ar silpnų pastabų auditas - A. Šapoka (red.), Lietuvos istorija (1936 m.)"
 saltiniai:
   - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+sukurta: ''
+atnaujinta: ''
 ---
 # Auditas
 

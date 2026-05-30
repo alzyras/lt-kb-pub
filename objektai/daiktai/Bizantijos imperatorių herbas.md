@@ -21,6 +21,7 @@ amziai:
 date_start: '1453'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
   - simbolis
@@ -99,4 +100,5 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Romai]]

@@ -16,6 +16,7 @@ amziai:
 date_start: '1919'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
 ---
@@ -65,3 +66,4 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/asmenys/K. Dragunevičius]]
+- [[objektai/asmenys/Vytautas Landsbergis]]

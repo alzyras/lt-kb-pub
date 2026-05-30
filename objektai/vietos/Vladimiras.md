@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: "Vladimiras"
-sukurta: "2026-05-18"
+sukurta: '2026-05-18'
 variantai:
   - Vladimire
 aliases:
@@ -31,6 +31,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-18'
 tags: []
 ---
 # Vladimiras

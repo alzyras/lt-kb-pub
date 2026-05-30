@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-30'
 tags:
   - grupe
 ---

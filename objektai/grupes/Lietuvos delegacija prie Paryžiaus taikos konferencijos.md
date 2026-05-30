@@ -16,6 +16,7 @@ amziai:
 date_start: '1919'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - tauta
@@ -130,4 +131,5 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius (poetas)]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Žydai]]

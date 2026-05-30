@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: Liberum veto
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - liberum veto
   - veto
@@ -44,6 +44,7 @@ amziai:
 date_start: '1566'
 date_end: '2026'
 patikimumas: aukštas
+atnaujinta: '2026-04-24'
 tags:
   - seimas
   - sąvoka
@@ -250,8 +251,8 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
+- [[objektai/asmenys/Jekaterina II]]
 - [[objektai/paprociai/Aukso laisvės ideologija]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]

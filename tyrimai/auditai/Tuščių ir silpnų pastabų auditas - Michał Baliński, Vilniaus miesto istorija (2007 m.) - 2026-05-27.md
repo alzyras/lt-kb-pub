@@ -1,13 +1,14 @@
 ---
 tipas: kokybes_auditas
 pavadinimas: "Tuščių ir silpnų pastabų auditas - Michał Baliński, Vilniaus miesto istorija (2007 m.) - 2026-05-27"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 audito_tipas: empty_or_weak_notes
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Auditas

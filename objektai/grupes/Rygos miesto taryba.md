@@ -18,6 +18,7 @@ amziai:
 date_start: '1325'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - miestas
@@ -58,5 +59,5 @@ Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams,
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/zodynas/vietininkas]]

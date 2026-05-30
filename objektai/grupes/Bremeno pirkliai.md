@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Bremeno pirkliai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "kolonija iš Bremeno"
 aliases: []
@@ -24,6 +24,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Bremeno pirkliai

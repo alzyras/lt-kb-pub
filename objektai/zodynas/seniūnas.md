@@ -3,15 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: seniūnas
 sukurta: '2026-04-25'
 variantai:
-  - Storastą
-  - seniūnu
-  - seniūną
-  - Vilniaus seniūnas
+- Storastą
+- seniūnu
+- seniūną
+- Vilniaus seniūnas
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # seniūnas
@@ -116,22 +117,22 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
 - [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
+- [[objektai/autoriai/Jurginis J]]
 - [[objektai/asmenys/Kinsgaila]]
 - [[objektai/asmenys/Kurovičius]]
 - [[objektai/asmenys/Kęsgaila]]
 - [[objektai/asmenys/M. Vaina]]
 - [[objektai/asmenys/Mikalojus Maskoževskis]]
 - [[objektai/asmenys/N. Küchmeisteris]]
-- [[objektai/zodynas/Pilininkas]]
 - [[objektai/asmenys/Simonas Lengvenis]]
 - [[objektai/asmenys/Sungaila]]
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/paprociai/Valstiečių prievolių įrašymas inventoriuose ir skundimasis dėl nuo jų nukrypstančių reikalavimų]]
 - [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
+- [[objektai/zodynas/krivis krivė krivaitis]]
 - [[objektai/zodynas/seniūnas storasta]]
 - [[objektai/asmenys/Čupurna]]
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
 - [[objektai/asmenys/Žygimantas Kaributaitis]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]

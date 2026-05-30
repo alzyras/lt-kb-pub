@@ -17,6 +17,7 @@ amziai:
 date_start: '1632'
 date_end: '1634'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - elekcija
@@ -178,9 +179,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Krymo totoriai]]

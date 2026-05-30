@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - sąvoka
 ---
@@ -50,5 +51,4 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Želigovskininkai]]

@@ -32,6 +32,7 @@ amziai:
 date_start: '1000'
 date_end: '2000'
 patikimumas: 'aukstas'
+atnaujinta: '2026-05-02'
 tags:
   - mūšis
 ---

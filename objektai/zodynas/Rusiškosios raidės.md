@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: Rusiškosios raidės
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - rusiškąsias raides
   - rusiškomis raidėmis
@@ -23,6 +23,7 @@ dalyviai: []
 susije_irasai:
   - '[[Graždanka]]'
 patikimumas: aukštas
+atnaujinta: '2026-04-24'
 tags: []
 ---
 # Rusiškosios raidės

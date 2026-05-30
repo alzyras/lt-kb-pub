@@ -17,6 +17,7 @@ amziai:
 date_start: '1362'
 date_end: '1368'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - pilis
   - vieta

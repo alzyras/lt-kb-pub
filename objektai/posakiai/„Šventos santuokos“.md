@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - posakis
   - tauta
@@ -47,5 +48,4 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]

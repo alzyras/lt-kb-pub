@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Žydų gelbėjimas ir slėpimas rizikuojant gyvybe"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -24,6 +24,7 @@ dalyviai:
   - "valstiečiai"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Žydų gelbėjimas ir slėpimas rizikuojant gyvybe

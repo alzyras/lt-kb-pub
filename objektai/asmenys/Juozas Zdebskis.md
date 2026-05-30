@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - kunigas
@@ -57,6 +58,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/kulto laisvė]]
+- [[objektai/autoriai/Sigitas Tamkevičius]]
 - [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
 - [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]
 - [[objektai/zodynas/kunigas]]

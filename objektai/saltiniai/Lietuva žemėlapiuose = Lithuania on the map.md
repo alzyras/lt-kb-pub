@@ -18,6 +18,7 @@ amziai:
 date_start: '1999'
 date_end: '2011'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - saltinis
   - žemėlapis

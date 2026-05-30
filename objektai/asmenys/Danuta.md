@@ -17,6 +17,7 @@ amziai:
 date_start: '1380'
 date_end: '1392'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kraštas
@@ -82,13 +83,9 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Vygandas von Baldersheimas]]

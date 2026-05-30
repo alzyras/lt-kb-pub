@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Ūkio įrankiai'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Ūkio įrankiai
@@ -41,17 +42,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
-  teiginys: 'Ūkio įrankius, tarp jų grąžtus, kaltus, strūnas, skaptus, skrytules, kirvius ir skliutus, žmonės dirbosi patys.'
+- t-001
+  teiginys: 'Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ūkio įrankius, tarp jų grąžtus, kaltus, strūnas, skaptus, skrytules, kirvius ir skliutus, žmonės dirbosi patys.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
         dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių
@@ -64,7 +65,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Pastabos
 

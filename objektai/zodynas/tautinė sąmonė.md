@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "tautinė sąmonė"
-sukurta: "2026-04-28"
+sukurta: '2026-04-28'
 variantai: []
 aliases: []
 saltiniai:
@@ -26,6 +26,7 @@ amziai:
 date_start: '1578'
 date_end: '2026'
 patikimumas: "aukštas"
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # tautinė sąmonė

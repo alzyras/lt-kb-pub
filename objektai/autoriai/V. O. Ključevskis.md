@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - tauta
@@ -59,3 +60,4 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Slavai]]
+- [[objektai/zodynas/marksistinė periodizacija]]

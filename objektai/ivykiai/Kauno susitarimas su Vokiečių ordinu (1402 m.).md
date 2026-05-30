@@ -16,6 +16,7 @@ amziai:
 date_start: '1402'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - diplomatas
   - ivykis
@@ -98,7 +99,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/daiktai/Malūnas]]

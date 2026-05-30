@@ -16,6 +16,7 @@ amziai:
 date_start: '2000'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -70,5 +71,6 @@ tags:
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Kazokai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/grupes/Valakai]]

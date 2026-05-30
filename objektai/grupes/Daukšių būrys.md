@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - mūšis
@@ -58,5 +59,6 @@ Vis dėlto aukų nebuvo išvengta: sargyboje žuvo Dzūkų būrio partizanas Vac
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/asmenys/Vaclovas]]
 - [[objektai/zodynas/Adynos|adynos]]

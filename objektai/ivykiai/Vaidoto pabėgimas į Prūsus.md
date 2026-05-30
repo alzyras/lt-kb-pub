@@ -16,6 +16,7 @@ amziai:
 date_start: '1381'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - krikštas
@@ -69,9 +70,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/asmenys/Karolis IV]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/asmenys/Vaidotas]]
 - [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
 - [[objektai/zodynas/ciesorius]]

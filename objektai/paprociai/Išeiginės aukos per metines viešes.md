@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Išeiginės aukos per metines viešes
@@ -69,6 +70,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
+- [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Taurės]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]

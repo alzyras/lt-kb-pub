@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -23,6 +23,7 @@ dalyviai:
   - "Lietuvos emigrantai"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio

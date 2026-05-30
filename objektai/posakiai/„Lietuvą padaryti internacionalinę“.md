@@ -17,6 +17,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - posakis
 ---
@@ -70,5 +71,3 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - [[objektai/zodynas/pertvarka perestroika]]
 - [[objektai/asmenys/Nikolajus Mitkinas]]
 - [[objektai/asmenys/Petras Griškevičius]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]

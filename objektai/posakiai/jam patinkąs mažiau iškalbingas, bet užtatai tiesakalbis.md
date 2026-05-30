@@ -18,6 +18,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.
@@ -69,6 +70,6 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
 
 ### Susiję objektai
 - [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]

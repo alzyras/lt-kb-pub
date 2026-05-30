@@ -8,18 +8,19 @@ aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 laikotarpis: ''
+vaidmenys:
+  - tyrinėtojas
+  - mokslininkas
+dalyviai: []
+susije_irasai: []
 datos: []
 periodas: ''
 periodo_grupes: []
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys:
-  - tyrinėtojas
-  - mokslininkas
-dalyviai: []
-susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-29'
 tags:
   - autorius
   - mokslininkas
@@ -54,6 +55,10 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
     - c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. (Powierski J., Chronologia..., p. 5—31).'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: J. Poverskiui tiesiogiai priskiriamas konkretus tyrimo rezultatas apie žuvusį šaltinį.
@@ -84,3 +89,21 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-012
+  santrauka: 'Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. (Powierski J., Chronologia..., p. 5—31).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
+    m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m.
+    (Powierski J., Chronologia..., p. 5—31).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/naratyviniai šaltiniai]]

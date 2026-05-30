@@ -34,6 +34,7 @@ amziai:
 date_start: '1386'
 date_end: '1882'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - karalius
   - kunigaikštis
@@ -145,13 +146,15 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Lietuvos krikštas]]
+- [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Netimeras]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
 - [[objektai/zodynas/kunigaikščiai]]

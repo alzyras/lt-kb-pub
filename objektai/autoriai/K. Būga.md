@@ -10,11 +10,14 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1924 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1924'
 date_end: ''
 laikotarpis: '1908; 1909 m.; 1924 m.; 1958-1961 m.'
 vaidmenys:
@@ -23,6 +26,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
 ---
@@ -41,79 +45,37 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 - Die Vorgeschichte der aistischen (ibaltischen) Stämme im Lichte der Ortsnamenforschung
 
 ## Teiginiai
-- t-003
-  teiginys: 'K. Būga kartu su K. Jauniumi kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais.'
+- t-007
+  teiginys: 'Dusburgietis teigia, kad jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15. Kiti tyrinėtojai teigia, kad sunku esą įrodyti buvus skirtumų tarp prūsų ir jotvingių kalbų16, kad visiškai neaišku, ar jotvingių kalba buvusi tarpinė tarp prūsų ir lietuvių, ar prūsų kalbos tarmė17.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'K. Būga parengė darbus apie upių vardus, aisčių praeitį vietovardžių šviesoje ir lietuvių kalbos žodyną.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Lietuviai prieš I pasaulinį karą visai baltų tautų grupei buvo davę aisčių vardą (K. Būga). Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius rūpestingiau auginą.'
-  pagrindžia:
-    - c-003
-
+    - c-005
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'K. Būga kartu su K. Jauniumi kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-005
+  santrauka: 'Dusburgietis teigia, kad jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15. Kiti tyrinėtojai teigia, kad sunku esą įrodyti buvus skirtumų tarp prūsų ir jotvingių kalbų16, kad visiškai neaišku, ar jotvingių kalba buvusi tarpinė tarp prūsų ir lietuvių, ar prūsų kalbos tarmė17.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Tik didieji mūsų kalbininkai Jaunius su
-    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
-    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
-    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'K. Būga parengė darbus apie upių vardus, aisčių praeitį vietovardžių šviesoje ir lietuvių kalbos žodyną.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _K. Būga,_ Upių vardų studijos ir aisčių bei slavėnų senovė (T. ir Ž.,
-    I); — Aisčių praeitis vietų vardų šviesoje (T. ir Ž., II); — Liet. kalbos
-    žodynas (įvadas; I, II sąs.) ;
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-003
-  santrauka: 'Lietuviai prieš I pasaulinį karą visai baltų tautų grupei buvo davę aisčių vardą (K. Būga). Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius rūpestingiau auginą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lietuviai prieš I pasaulinį karą visai
-    baltų tautų grupei buvo davę aisčių vardą (K. Būga). Anot Tacito,
-    Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną
-    dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius
-    rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
-    renką gintarą, kurį vadiną « glesum ».
+    Jotvingiai, K. Būgos nuomone, kalbėjo prūsų kalbos tarme15. Kiti tyrinėtojai teigia, kad
+    sunku esą įrodyti buvus skirtumų tarp prūsų ir jotvingių kalbų16, kad visiškai neaišku, ar
+    jotvingių kalba buvusi tarpinė tarp prūsų ir lietuvių, ar prūsų kalbos tarmė17. Mums žinomi
+    jotvingiški vietų ir asmenų vardai turi fonetinių ypatybių, būdingų prūsų kalbai18.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Aušrėnai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Svebai]]
-- [[objektai/zodynas/glesum]]
 - [[objektai/zodynas/Aistuva]]
 - [[objektai/zodynas/Eistr]]
+- [[objektai/asmenys/Gebhardas]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Nadruviai]]
 - [[objektai/grupes/Suomiai]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/vakariniai baltai]]
+- [[objektai/zodynas/villa kaimas sodžius]]

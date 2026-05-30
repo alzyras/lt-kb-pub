@@ -32,6 +32,7 @@ dalyviai:
   - '2-oji divizija'
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-05-02'
 tags:
   - karas
 ---

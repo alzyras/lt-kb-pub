@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -24,6 +24,7 @@ dalyviai:
   - "vietos žydų bendruomenės"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags:
   - ritualas
 ---

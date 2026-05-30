@@ -18,6 +18,7 @@ amziai:
 date_start: '1795'
 date_end: '1971'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dokumentas
   - kraštas

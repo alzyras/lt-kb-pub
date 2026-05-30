@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigaikštis
   - paprotys
@@ -92,7 +93,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]

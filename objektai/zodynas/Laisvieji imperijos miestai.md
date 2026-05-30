@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Laisvieji imperijos miestai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "laisvieji imperijos miestai"
   - "laisviesiems imperijos miestams"
@@ -24,6 +24,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Laisvieji imperijos miestai

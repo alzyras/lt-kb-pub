@@ -18,6 +18,7 @@ amziai:
 date_start: '1387'
 date_end: '1403'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - privilegija

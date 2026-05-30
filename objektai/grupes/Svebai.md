@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -54,5 +55,4 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
 - [[objektai/grupes/Aušrėnai]]
 - [[objektai/zodynas/glesum]]
 - [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »]]
-- [[objektai/autoriai/K. Būga]]
 - [[objektai/daiktai/Šernų amuletai]]

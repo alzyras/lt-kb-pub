@@ -17,6 +17,7 @@ amziai:
 date_start: '1919'
 date_end: '1926'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - kraštas
@@ -236,6 +237,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]

@@ -17,6 +17,7 @@ amziai:
 date_start: '1379'
 date_end: '1380'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigaikštis
   - mūšis

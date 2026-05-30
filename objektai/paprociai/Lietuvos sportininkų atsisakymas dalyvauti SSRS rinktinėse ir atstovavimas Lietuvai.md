@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -24,6 +24,7 @@ dalyviai:
   - "Lietuvos tautinis olimpinis komitetas"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai

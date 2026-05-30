@@ -16,6 +16,7 @@ amziai:
 date_start: '1200'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - karalius
@@ -64,7 +65,6 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Vėliavos]]

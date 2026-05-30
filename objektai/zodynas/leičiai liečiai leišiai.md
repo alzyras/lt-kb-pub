@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "leičiai / liečiai / leišiai"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "leičiais"
   - "leišiais"
@@ -26,6 +26,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # leičiai / liečiai / leišiai

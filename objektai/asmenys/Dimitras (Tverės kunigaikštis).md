@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -53,7 +54,6 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Marija (Gedimino duktė)]]

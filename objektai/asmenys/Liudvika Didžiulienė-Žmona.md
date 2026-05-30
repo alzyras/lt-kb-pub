@@ -16,6 +16,7 @@ amziai:
 date_start: '1912'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - asmuo
   - mokslininkas
@@ -58,6 +59,7 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“]]
 - [[objektai/asmenys/Jonas Jablonskis]]

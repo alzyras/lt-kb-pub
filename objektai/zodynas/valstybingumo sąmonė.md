@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - didikas
@@ -83,10 +84,11 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/didikas]]
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lotynai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/unija]]

@@ -17,6 +17,7 @@ amziai:
 date_start: '1998'
 date_end: '2000'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - elekcija
@@ -73,7 +74,3 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]

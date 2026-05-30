@@ -16,6 +16,7 @@ amziai:
 date_start: '1413'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigas
   - privilegija
@@ -90,3 +91,4 @@ Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole
 
 ### Susiję objektai
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

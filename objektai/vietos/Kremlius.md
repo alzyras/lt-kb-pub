@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: "Kremlius"
-sukurta: "2026-04-28"
+sukurta: '2026-04-28'
 variantai:
   - "Kremliaus"
   - "Jono Kalitos tvirtovė"
@@ -25,6 +25,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Kremlius

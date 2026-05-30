@@ -20,6 +20,7 @@ amziai:
 date_start: '1895'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - krikštas
   - kunigas

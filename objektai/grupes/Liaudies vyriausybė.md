@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - kraštas
@@ -74,6 +75,7 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]

@@ -28,6 +28,7 @@ amziai:
 date_start: '1515'
 date_end: '1763'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - didikas
   - grupe
@@ -95,9 +96,6 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]

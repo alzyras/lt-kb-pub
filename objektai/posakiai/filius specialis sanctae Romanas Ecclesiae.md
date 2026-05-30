@@ -17,6 +17,7 @@ amziai:
 date_start: '1251'
 date_end: '1253'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - popiežius
   - posakis
@@ -56,5 +57,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Inocentas IV]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]

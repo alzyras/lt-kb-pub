@@ -26,6 +26,7 @@ laikotarpis: '1387 m.; Jogailos krikšto politika'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)
@@ -153,5 +154,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lietuviai]]

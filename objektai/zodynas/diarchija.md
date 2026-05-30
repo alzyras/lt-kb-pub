@@ -3,13 +3,13 @@ tipas: zodyno_irasas
 pavadinimas: diarchija
 sukurta: '2026-05-05'
 variantai:
-  - dualizmu
-  - diarchija
-  - diarchiška sistema
-  - diarchinė sistema
+- dualizmu
+- diarchija
+- diarchiška sistema
+- diarchinė sistema
 aliases: []
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1377 m.'
@@ -30,6 +30,7 @@ date_start: '1350'
 date_end: '2026'
 laikotarpis: 1377 m., 1382 m., 1401 m.
 patikimumas: aukštas
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # diarchija
@@ -145,7 +146,7 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/zodynas/Diarchijos sistema]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/supremus dux magnus dux]]

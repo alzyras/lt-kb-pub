@@ -8,6 +8,7 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags:
   - grupe
 ---
@@ -57,4 +58,5 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Totoriai]]

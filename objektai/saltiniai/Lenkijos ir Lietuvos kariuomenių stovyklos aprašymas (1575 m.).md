@@ -25,6 +25,7 @@ amziai:
 date_start: '1564'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.)

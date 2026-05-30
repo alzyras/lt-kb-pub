@@ -8,6 +8,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - autorius
 ---
@@ -65,3 +66,4 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/protestantizmas]]
+- [[objektai/zodynas/magistras]]

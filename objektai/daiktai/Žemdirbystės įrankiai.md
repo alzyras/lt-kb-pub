@@ -28,6 +28,7 @@ amziai:
 date_start: '1955'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
   - įrankis

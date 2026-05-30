@@ -17,6 +17,7 @@ amziai:
 date_start: '1935'
 date_end: '1938'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - valstybė
@@ -58,3 +59,7 @@ Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

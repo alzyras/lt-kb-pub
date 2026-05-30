@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika

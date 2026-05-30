@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Gedimino antspaudas
-sukurta: 2026-05-27
+sukurta: '2026-05-27'
 variantai:
   - apvalus vaško antspaudas
   - sigillum nostrum
@@ -24,6 +24,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-27'
 tags:
   - simbolis
 ---
@@ -103,5 +104,5 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]

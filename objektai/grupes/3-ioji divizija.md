@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - upė
@@ -50,9 +51,6 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/asmenys/I. Musteikis]]
 - [[objektai/grupes/2-oji divizija]]

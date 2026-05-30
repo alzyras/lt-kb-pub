@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Šlėktų laisvė"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "šlėktų laisvė"
   - "busimosios šlėktų laisvės"
@@ -23,6 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Šlėktų laisvė
@@ -78,5 +79,4 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Lokietka]]
 - [[objektai/grupes/Vokiečiai]]

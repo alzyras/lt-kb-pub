@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "maldininkai / maldininko įžadai"
-sukurta: "2026-05-30"
+sukurta: '2026-05-30'
 variantai:
   - "maldininko"
   - "maldininkais"
@@ -32,6 +32,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-30'
 tags: []
 ---
 # maldininkai / maldininko įžadai
@@ -78,6 +79,30 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
+  pagrindžia:
+    - c-006
+- t-006
+  teiginys: 'Dusburgietis čia pakiliai tekalba apie į pagalbą atvykusius Vokietijos „maldininkus“.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
+  pagrindžia:
+    - c-009
+- t-009
+  teiginys: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
+  pagrindžia:
+    - c-010
+- t-010
+  teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
+  pagrindžia:
+    - c-011
+- t-011
+  teiginys: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Maldininkai minimi kaip su magistru ir broliais veikiantys talkininkai.
@@ -172,15 +197,161 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-006
+  santrauka: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie karą su pagudėnais ir Elbingo pilies pastatymą
+
+       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
+    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
+    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
+    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
+    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
+    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
+    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
+    išaugo miestas242.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-007
+  santrauka: 'Dusburgietis čia pakiliai tekalba apie į pagalbą atvykusius Vokietijos „maldininkus“.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    252  Padėtis prūsų apsiaustoje Baigoje buvusi tokia sunki, kad broliai galvojo iš jos
+    pasitraukti (SRP, 5, p. 598; PKD, p. 96). Dusburgietis čia pakiliai tekalba apie į pagalbą
+    atvykusius Vokietijos „maldininkus“.
+      253  Braunšveigo—Liuneburgo hercogas (nuo 1236 m.) Otonas Kūdikis (Otto das
+    Kind), Henriko Liūto vaikaitis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-009
+  santrauka: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Medininkų valsčiaus apiplėšimą 1316 metais
+
+      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
+    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
+    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
+    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
+    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai
+    dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
+    riterius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-010
+  santrauka: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
+    iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei
+    ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė
+    prieš tikėjimo priešus, nes ledas buvo plonas.
+
+
+
+
+       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-011
+  santrauka: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    17. Apie Šventos Elžbietos vyro mirtį
+
+      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
+    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
+
+
+
+                  18.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-012
+  santrauka: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ilgai meldęsis,
+    šis didžiai krikščioniškasis karalius šitaip pasakė: „Einu  į tavo namus, lenkiuosi tavo
+    šventovei, tavajam vardui dėkoju, viešpatie”, o šitai pasakęs, atidavė dievui sielą. Kita
+    kariuomenės dalis nužygiavo  į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos
+    karalius, jie labai nudžiugo ir taip užgriuvo sultoną bei jo žmones, kad privertė juos taikytis
+    šitokiomis sąlygomis: sultonas grąžinsiąs visus į nelaisvę paimtus krikščionis; visuose jo
+    karalystės miestuose pastačius dievo bažnyčių, jis Įeisiąs visoje savo karalystėje skelbti
+    Kristaus tikėjimą; visi norintys priimti krikštą galėsią būti apkrikštyti, o jis pats mokėsiąs
+    krikščionims duoklę. Neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe
+    frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys
+    vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
+- [[objektai/asmenys/Elžbieta]]
 - [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Krikščionys]]
 - [[objektai/daiktai/Laivai]]
+- [[objektai/asmenys/Otonas]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Saracėnai]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/posakiai/Maldininke, nuramink žęmę]]
+- [[objektai/paprociai/Maldininko įžadų vykdymas Prūsijoje]]
+- [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]
+- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
+- [[objektai/asmenys/Petras Atsiskyrėlis]]
+- [[objektai/ivykiai/Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas]]
+- [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
+- [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/skaistykla]]
+- [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
+- [[objektai/asmenys/Gerlachas Rudasis]]
+- [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]]
+- [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
+- [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
+- [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
+- [[objektai/asmenys/Petras iš Rozenbergo]]
+- [[objektai/asmenys/Pilypas]]
+- [[objektai/grupes/Vokietijos maldininkai]]
+- [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]

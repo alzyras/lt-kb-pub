@@ -18,6 +18,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - kraštas

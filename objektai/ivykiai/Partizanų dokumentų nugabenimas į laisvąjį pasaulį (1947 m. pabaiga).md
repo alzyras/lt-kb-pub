@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dokumentas
   - ginklas
@@ -83,9 +84,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/dokumentas]]
 - [[temos/laiškas]]
-- [[temos/dokumentas - laiškas]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Juozas Lukša-Skirmantas]]

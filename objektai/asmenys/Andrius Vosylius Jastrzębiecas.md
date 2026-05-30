@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - didikas
@@ -80,16 +81,12 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/daiktai/Altorius]]
 - [[objektai/asmenys/Dlugošas]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Vosylius]]

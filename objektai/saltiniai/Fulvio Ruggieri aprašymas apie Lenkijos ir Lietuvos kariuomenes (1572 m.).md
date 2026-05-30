@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.)

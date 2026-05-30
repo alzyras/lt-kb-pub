@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: saar
 sukurta: '2026-05-05'
 variantai:
-  - saarai
-  - saaro
-  - saarų
+- saarai
+- saaro
+- saarų
 aliases: []
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 laikotarpis: 1395 m., 1411 m., 1427 m.
 datos:
   - '1350 m.'
@@ -29,6 +29,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: vidutinis
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # saar
@@ -127,7 +128,7 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Gaspadorius|gaspadorius]]
 - [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
@@ -136,7 +137,7 @@ tags: []
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
 - [[objektai/zodynas/protežė]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]]
 - [[objektai/grupes/Krimo totoriai]]
 - [[objektai/grupes/Krymo totoriai]]

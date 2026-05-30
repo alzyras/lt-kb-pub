@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Mykolas Balinskis"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Michał Baliński"
   - "Michała Balińskiego"
@@ -35,6 +35,7 @@ dalyviai: []
 susije_irasai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
   - mokslininkas

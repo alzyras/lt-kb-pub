@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Troba
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - 'svetlyčia'
 aliases: []
@@ -18,6 +18,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Troba
@@ -43,29 +44,29 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-004
+- t-001
   teiginys: 'Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-005
-  teiginys: 'Troboje buvo alkierius, kakalys, kaminas ir pro lubas išvesta dūmų kiaurynė.'
-  pagrindžia:
-    - c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.'
+- t-002
+  teiginys: 'Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.'
+  pagrindžia:
+    - c-003
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Ketvirtasis trobesys buvo trobos, arba svetlyčia, kame svečius žiemą vaišino, taip pat
         pailguotinas ketvirtainis, kurio gyvenamasis galas visados buvo į rytus ar pietus atsuktas; it pusėj
@@ -81,28 +82,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-001
 - c-002
-  santrauka: 'Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Prie to žiburio
-        motriškosios verpė, vyriškieji, liepas mižodami^227 , lunkus plėšė, virves vijo, tinklus mezgė žuvims
-        žvejoti ar žvėrims gaudyti, riužius^228 ir venterius dirbo, bočiai ir kiti senieji su vaikais plunksnas
-        plėšė, vilnas kedino, gijas vijo, pasakodami jauniesiems notis ir kares praėjusių gadynių bei
-        veikalus savo tautos. Jei troboje stiklo langų nebuvo, tad galutinėj ir šalutinėj sienoje buvo į
-        juostos mierą langelis, per uolektį rąste išpjautas ir iš vidaus su lentele užšaunamas; tokią trobą
-        vadina Kalne seklyčia, arba sauklėčia, nuo žodžių sau ir klėsti, beje: kame žmonės save nuo
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-003
-  santrauka: 'Troboje buvo alkierius, kakalys, kaminas ir pro lubas išvesta dūmų kiaurynė.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Troboje, kurioje, kaip sakiau, žiemą tegyveno, turėjo tris keturis šalutinėj sienoj stiklo langus, o
         du trobos gale. Į saulėtekį buvo alkierius^223 , arba svečio troba, kursai užėmė pusę trobos
@@ -118,7 +101,25 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-002
+- c-003
+  santrauka: Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  citata_originali: |
+    Prie to žiburio
+        motriškosios verpė, vyriškieji, liepas mižodami^227 , lunkus plėšė, virves vijo, tinklus mezgė žuvims
+        žvejoti ar žvėrims gaudyti, riužius^228 ir venterius dirbo, bočiai ir kiti senieji su vaikais plunksnas
+        plėšė, vilnas kedino, gijas vijo, pasakodami jauniesiems notis ir kares praėjusių gadynių bei
+        veikalus savo tautos. Jei troboje stiklo langų nebuvo, tad galutinėj ir šalutinėj sienoje buvo į
+        juostos mierą langelis, per uolektį rąste išpjautas ir iš vidaus su lentele užšaunamas; tokią trobą
+        vadina Kalne seklyčia, arba sauklėčia, nuo žodžių sau ir klėsti, beje: kame žmonės save nuo
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

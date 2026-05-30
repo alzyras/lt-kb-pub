@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kraštas
   - posakis
@@ -51,5 +52,5 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Lietuviai]]

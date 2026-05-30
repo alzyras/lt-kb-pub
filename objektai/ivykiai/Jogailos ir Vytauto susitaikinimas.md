@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - ordinas
@@ -89,4 +90,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

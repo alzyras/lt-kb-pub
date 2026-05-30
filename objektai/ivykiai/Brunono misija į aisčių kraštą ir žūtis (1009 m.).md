@@ -29,6 +29,7 @@ dalyviai:
   - '18 palydovų'
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-04-24'
 tags:
   - ivykis
   - kraštas
@@ -83,3 +84,4 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Jotvingai]]
+- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]

@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Namas
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Namas
@@ -41,23 +42,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Namas buvo pirmasis giriose gyvenusių kalnėnų ir žemaičių trobesys, dar vadintas namsu arba namaičiu.'
+- t-001
+  teiginys: 'Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-004
+- t-002
   teiginys: 'Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Namas buvo pirmasis giriose gyvenusių kalnėnų ir žemaičių trobesys, dar vadintas namsu arba namaičiu.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Pirmasis jų trobesys tose giriose vadinos nams, arba namas, namaitis, dėl ko ir visa tauta nuo
         prašaleičių nomadžiais buvo vadinama, beje, žmonės, namuose gyvenantys. Tas trobesys, kurį
@@ -75,10 +76,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 - c-002
-  santrauka: 'Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Senovėj kalnėnai ir žemaičiai tame trobesy visus namų darbus atliko: alų, midų darė, žlugtį
         žlugino, namo asloj dirbo ratus, tekinius, važius, roges, šlėdes^206 , arba šlajas, kubilus ir kitus indus,
@@ -93,33 +94,66 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalnėnai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Nomadžiai|nomadžiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Šaldros|šaldros]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje]]
+- [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/ivykiai/Brolių išsigelbėjimas nuo planuotos išdavystės žygyje į Lietuvą (1292 m.)]]
+- [[objektai/asmenys/Celestinas III]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Fridrichas Kvicas]]
+- [[objektai/ivykiai/Gardino pilies sunaikinimas|Gardino pilies sunaikinimas (pilis, XIII a.)]]
+- [[objektai/asmenys/Henrikas Cutsvertas]]
+- [[objektai/asmenys/Henrikas iš Plockės]]
+- [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]
 - [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
+- [[objektai/paprociai/Kraujo keršto paprotys po žmogžudystės]]
+- [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kūtė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mangoldas [iš Šternbergo]]]
+- [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
+- [[objektai/asmenys/Mergelė Marija]]
+- [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]
 - [[objektai/asmenys/Ona Jogailaitė]]
+- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/paprociai/Panedėlio už grieką laikymas]]
+- [[objektai/paprociai/Pavargėlių maitinimas be elgetavimo]]
+- [[objektai/ivykiai/Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)]]
+- [[objektai/grupes/Pomeranai]]
 - [[objektai/asmenys/S. Kosakovskis]]
+- [[objektai/daiktai/Skobnis]]
+- [[objektai/paprociai/Skurdo ištikto žmogaus savižudybė kaip paprotinis sprendimas]]
+- [[objektai/daiktai/Skydas]]
+- [[objektai/asmenys/Ulrichas iš Drinlevės]]
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/zodynas/dausos]]
+- [[objektai/zodynas/grabnyčių diena]]
 - [[objektai/zodynas/karo grobis]]
+- [[objektai/zodynas/papilys]]
 - [[objektai/zodynas/Veldėmė|veldėmė]]
+- [[objektai/asmenys/Šventoji Barbora]]
 - [[objektai/paprociai/Žiemos kelionės upeliais šunis užkinkius]]
+- [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]
 - [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
 - [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]
+- [[objektai/asmenys/Skomantas]]
 - [[objektai/grupes/Vietinė rinktinė]]
+- [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo]]

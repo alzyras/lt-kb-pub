@@ -18,6 +18,7 @@ amziai:
 date_start: '1949'
 date_end: '1952'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dokumentas
   - ginklas

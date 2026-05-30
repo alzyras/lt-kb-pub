@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: "Minsko Lietuva"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Minsko Lietuva"
   - "Minsko Lietuva"
@@ -21,6 +21,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - vieta
 ---

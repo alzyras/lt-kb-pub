@@ -16,6 +16,7 @@ amziai:
 date_start: '1421'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - ordinas
@@ -74,4 +75,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

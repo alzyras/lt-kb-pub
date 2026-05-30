@@ -13,6 +13,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
 ---
@@ -127,8 +128,10 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
+- [[objektai/grupes/Aukso orda]]
+- [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/asmenys/Burundajus]]
 - [[objektai/asmenys/Chudandachas]]
 - [[objektai/autoriai/Detmaro Liubeko]]
@@ -136,10 +139,13 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
 - [[objektai/asmenys/Ediga]]
 - [[objektai/asmenys/Edyga]]
+- [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
 - [[objektai/asmenys/Jonas Survila]]
+- [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
 - [[objektai/asmenys/Kiprijonas]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]
+- [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
 - [[objektai/asmenys/Mamšėjus]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
@@ -150,6 +156,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/grupes/Totorių pajėgos]]
 - [[objektai/grupes/Užvolgio totoriai]]
 - [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]
+- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
@@ -158,4 +165,3 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/daiktai/Šarvinės pirštinės]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
-- [[objektai/grupes/Aukso orda]]

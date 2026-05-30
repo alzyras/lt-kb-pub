@@ -27,6 +27,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Šarvai
@@ -170,11 +171,14 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/daiktai/Skydas]]
 - [[objektai/zodynas/lengvoji kavalerija]]
-- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
+- [[objektai/asmenys/Gerhardas, pravarde Rudė]]
 - [[objektai/daiktai/Karacenos šarvų komplektas]]
-- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
+- [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/asmenys/Petras (Hermano iš Lichtenburgo nuodėmklausys)]]
 - [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Saulė]]
+- [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/netikėliai]]

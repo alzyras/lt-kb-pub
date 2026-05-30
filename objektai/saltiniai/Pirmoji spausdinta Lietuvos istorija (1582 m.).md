@@ -9,18 +9,22 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: 'XVI amž. gale (1582 m.)'
-datos:
-  - '1582 m.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: '1582'
-date_end: '1582'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1326 m.'
+  - '1582 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XVI'
+date_start: '1326'
+date_end: '1582'
 patikimumas: ""
+atnaujinta: '2026-04-24'
 tags:
   - saltinis
   - vyskupas
@@ -39,30 +43,24 @@ tags:
 - Data: 1582 m.
 
 ## Teiginiai
-- t-002
-  teiginys: '1582 m. pasirodė pirmoji spausdinta Lietuvos istorija, lenkiškai parašyta Merkelio Giedraičio globojamo Strikauskio.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad sis Dusburgiečio nuorašą (apimantį įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76 — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-002
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: '1582 m. pasirodė pirmoji spausdinta Lietuvos istorija, lenkiškai parašyta Merkelio Giedraičio globojamo Strikauskio.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Dusburgietis teigia, kad sis Dusburgiečio nuorašą (apimantį įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76 — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos faktus į lituanistinę istorinę literatūrą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Keletas jų duoda net ištisą Lie-
-    tuvos istorijos apžvalgą. Pirmo-
-    sios jų buvo rašomos ta pačia
-    gudų kalba, kuria buvo rašomi
-    visi vidaus reikalų raštai. XVI
-    amž. gale (1582 m.) pasirodo pirmoji spausdinta Lietuvos istorija, len-
-    kiškai parašyta (Žemaičių vyskupo Merkelio Giedraičio globojamojo)
-    lenko Strikauskio.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    Jį gavęs perdavė M. Strijkovskiui. Sis Dusburgiečio nuorašą (apimantį
+    įvykius iki 1326 m.) panaudojo savo 1582 m. Karaliaučiuje išspausdintoje Kronikoje76
+    — Lietuvos Didžiosios Kunigaikštystės istorijoje, tuo įvesdamas Dusburgiečio kronikos
+    faktus į lituanistinę istorinę literatūrą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003

@@ -18,6 +18,7 @@ amziai:
 date_start: '1772'
 date_end: '1775'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - seimas

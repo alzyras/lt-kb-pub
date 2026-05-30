@@ -17,6 +17,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - mokslininkas
   - posakis
@@ -61,6 +62,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Robert Gordon Latham]]
+- [[objektai/autoriai/Robert Gordon Latham]]
 - [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba]]
+- [[objektai/asmenys/Robertas (Sicilijos karalius)]]

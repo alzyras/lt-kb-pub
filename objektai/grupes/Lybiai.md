@@ -24,6 +24,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - kraštas
@@ -84,3 +85,4 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 ### Susiję objektai
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Balnas]]

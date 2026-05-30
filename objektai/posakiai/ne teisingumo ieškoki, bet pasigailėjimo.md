@@ -1,0 +1,63 @@
+---
+tipas: posakis
+pavadinimas: 'ne teisingumo ieškoki, bet pasigailėjimo'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - miestas
+  - posakis
+  - sutartis
+  - tikėjimas
+---
+# ne teisingumo ieškoki, bet pasigailėjimo
+
+## Santrauka
+
+Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei broliams savo sūnų kaip įkaitą, o daug.
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei broliams savo sūnų kaip įkaitą, o daug.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei broliams savo sūnų kaip įkaitą, o daug.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Valdovas Henrikas, turėdamas galvoje,
+    kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu
+    negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei
+    broliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,
+    su kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o
+    tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
+    vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas  į amžiną vergovę,
+    todėl ne teisingumo ieškoki, bet pasigailėjimo“. Kadangi tiesa sukelia neapykantą,
+    kadangi niekšai niekad jos nepaiso, nors visados apie ją kalba, tai ir šis klastingasis
+    Sventopelkas, užsikimšęs nelyginant kurčia gyvatė ausis tiesai, niekais nuleido viską,
+    ką girdėjo; pro ausis nuleidęs jam pasakytus žodžius, jis sveiką ir gyvą išleido minėtąjį
+    valdovą Henriką į Kulmo miestą, kur šis atpasakojo magistrui bei broliams visa, ką buvo
+    girdėjęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/zodynas/magistras]]

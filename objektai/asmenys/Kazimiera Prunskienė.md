@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
 ---
@@ -70,4 +71,5 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/suma]]
 - [[objektai/ivykiai/M. Gorbačiovo ultimatumas ir sovietų kariuomenės veiksmai Lietuvoje (1991 m. sausio 10–11 d.)]]

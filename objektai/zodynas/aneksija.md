@@ -20,6 +20,7 @@ amziai:
 date_start: '1401'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - elekcija
   - seimas
@@ -119,9 +120,6 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/zodynas/inkorporacija]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -54,7 +55,12 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
+- [[objektai/asmenys/Heidenreichas|Heidenreichas (vyskupas, XIII–XIV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs]]
 - [[objektai/asmenys/Marija (Gedimino duktė)]]
+- [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]
+- [[objektai/daiktai/Paplotėlis]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]
 - [[objektai/asmenys/Marija (Liudviko duktė)]]

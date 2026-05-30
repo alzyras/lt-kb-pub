@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
 ---
@@ -84,7 +85,7 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
 - [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/saar]]
 - [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]

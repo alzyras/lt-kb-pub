@@ -3,15 +3,15 @@ tipas: zodyno_irasas
 pavadinimas: vėliava
 sukurta: '2026-05-05'
 variantai:
-  - vėliava
-  - vėliavoje
-  - vėliavą
-  - vėliavos
-  - lance
-  - kopijo
+- vėliava
+- vėliavoje
+- vėliavą
+- vėliavos
+- lance
+- kopijo
 aliases: []
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1430 m.'
@@ -30,6 +30,7 @@ date_start: '1350'
 date_end: '2026'
 laikotarpis: viduramžiai; Žalgirio karo aprašymo kontekstas
 patikimumas: aukštas
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # vėliava
@@ -190,21 +191,35 @@ tags: []
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
 - [[objektai/autoriai/Aleksandro Gvanjinio]]
+- [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
 - [[objektai/daiktai/Deglas]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Henrikas Cutsvertas]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/asmenys/Karolis Jastržembskis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
+- [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
+- [[objektai/daiktai/Ordino magistro valdžios žymenys]]
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
 - [[objektai/daiktai/Riterių vėliava]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/asmenys/Suchodolskis]]
 - [[objektai/asmenys/T. Dambrava]]
+- [[objektai/grupes/Vokietijos maldininkai]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/zodynas/pašauktinė kariuomenė]]
 - [[objektai/zodynas/Perveiza|perveiza]]
+- [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/zodynas/Žemlionis|žemlionis]]

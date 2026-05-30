@@ -16,6 +16,7 @@ amziai:
 date_start: '1330'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
 ---
@@ -56,7 +57,7 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Stačiatikiai]]

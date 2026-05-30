@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas
@@ -105,4 +106,4 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 - [[temos/formulė]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

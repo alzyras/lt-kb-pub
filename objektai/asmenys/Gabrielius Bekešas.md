@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: Gabrielius Bekešas
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Gabrielis Bekešas
   - Gabrielis Bekešas Skornatas
@@ -29,6 +29,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - bajoras
   - karvedys
@@ -289,5 +290,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/tėvonija]]

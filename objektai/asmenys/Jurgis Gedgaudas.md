@@ -16,6 +16,7 @@ amziai:
 date_start: '1415'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - bajorija
@@ -53,8 +54,5 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]

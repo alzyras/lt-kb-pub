@@ -16,6 +16,7 @@ amziai:
 date_start: '1425'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - kunigaikštis
@@ -107,7 +108,6 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Vosylius I]]
 - [[objektai/zodynas/regencija]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]

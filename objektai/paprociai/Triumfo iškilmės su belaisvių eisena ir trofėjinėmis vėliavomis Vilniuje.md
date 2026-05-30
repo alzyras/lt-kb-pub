@@ -24,6 +24,7 @@ amziai:
 date_start: '1530'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje

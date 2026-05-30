@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "kryžiaus karas"
-sukurta: "2026-04-28"
+sukurta: '2026-04-28'
 variantai: []
 aliases: []
 saltiniai:
@@ -25,6 +25,7 @@ amziai:
 date_start: '1254'
 date_end: '2026'
 patikimumas: "aukštas"
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # kryžiaus karas
@@ -125,3 +126,4 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/netikėliai]]

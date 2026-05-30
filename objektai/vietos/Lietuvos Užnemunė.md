@@ -20,6 +20,7 @@ amziai:
 date_start: '1863'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - karalius
   - kraštas

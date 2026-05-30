@@ -21,6 +21,7 @@ amziai:
 date_start: '1569'
 date_end: '1933'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - didikas
   - dinastija
@@ -136,7 +137,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/didikas]]
 - [[temos/dinastija]]
 
 ### Susiję objektai

@@ -17,6 +17,7 @@ amziai:
 date_start: '1950'
 date_end: '1953'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - kunigas
@@ -184,4 +185,5 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]

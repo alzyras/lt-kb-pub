@@ -18,6 +18,7 @@ amziai:
 date_start: '1386'
 date_end: '1411'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - karalius
@@ -85,4 +86,4 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/urėdas]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

@@ -23,6 +23,7 @@ amziai:
 date_start: '1427'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - karas
@@ -155,6 +156,6 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Maskvos kunigaikštija]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - diplomatas
   - mūšis
@@ -71,7 +72,7 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Motiejus]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Madykas]]

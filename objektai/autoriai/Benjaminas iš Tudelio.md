@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Benjaminas iš Tudelio"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Benjaminas iš Tudelio"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys:
   - autorius
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
 ---
@@ -74,4 +75,3 @@ Benjaminas iš Tudelio minimas kaip žydų kilmės keliauninkas, kurio teiginys 
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]

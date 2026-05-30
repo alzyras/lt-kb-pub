@@ -23,6 +23,7 @@ amziai:
 date_start: '1801'
 date_end: '1875'
 patikimumas: ''
+atnaujinta: '2026-04-24'
 tags: []
 ---
 # Žemaičių vyskupystės istorija

@@ -18,6 +18,7 @@ amziai:
 date_start: '1793'
 date_end: '1875'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - dokumentas
@@ -134,8 +135,5 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]

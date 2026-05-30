@@ -25,6 +25,7 @@ amziai:
 date_start: '1368'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
 ---
@@ -183,10 +184,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/maršalas]]

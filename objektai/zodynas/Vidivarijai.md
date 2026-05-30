@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Vidivarijai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "vidivarijai"
   - "vidivarii"
@@ -29,6 +29,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vidivarijai
@@ -130,6 +131,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 - [[objektai/grupes/Germanai]]
 - [[objektai/grupes/Gotai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vidivarii]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/grupes/Švedai]]

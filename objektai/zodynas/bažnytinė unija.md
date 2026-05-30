@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - ritualas
   - sąvoka
@@ -56,5 +57,4 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 ### Susiję objektai
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Unitai]]

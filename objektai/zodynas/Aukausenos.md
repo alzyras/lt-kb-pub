@@ -1,13 +1,14 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: aukausenos
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - aukos
   - aukas
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: vidutinis
+atnaujinta: '2026-04-30'
 ---
 # aukausenos
 
@@ -70,9 +71,16 @@ Vartojamos formos: `aukos`, `aukas`.
 ### Susiję objektai
 - [[objektai/paprociai/Aukojimas ant auko kalnų ir didžiųjų akmenų]]
 - [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
+- [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus]]
+- [[objektai/asmenys/Gerhardas, pravarde Rudė]]
 - [[objektai/daiktai/Gintaras]]
 - [[objektai/grupes/JAV lietuviai]]
 - [[objektai/paprociai/Kieminė auka Perūnui per audrą]]
+- [[objektai/asmenys/Krivis]]
+- [[objektai/autoriai/Lasickis J]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]
+- [[objektai/zodynas/Ragaina]]
 - [[objektai/paprociai/Sueiga į šventą girią baisios aukos atlikti]]
 - [[objektai/zodynas/Sutartinės|sutartinės]]
 - [[objektai/daiktai/Dievų stabai]]

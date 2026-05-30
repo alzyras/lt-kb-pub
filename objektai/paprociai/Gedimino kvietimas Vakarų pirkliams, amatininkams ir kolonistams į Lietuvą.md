@@ -21,6 +21,7 @@ amziai:
 date_start: '1323'
 date_end: '1324'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - kunigaikštis
   - paprotys
@@ -167,10 +168,10 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
 - [[objektai/grupes/Karaimai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/unija]]

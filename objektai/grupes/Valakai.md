@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags:
   - grupe
 ---
@@ -90,4 +91,3 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - [[objektai/grupes/Turkijos kariuomenė]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]
 - [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
-- [[objektai/grupes/Rusai]]

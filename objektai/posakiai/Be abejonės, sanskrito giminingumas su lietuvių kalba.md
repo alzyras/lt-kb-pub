@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Be abejonės, sanskrito giminingumas su lietuvių kalba"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje"
 aliases: []
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # Be abejonės, sanskrito giminingumas su lietuvių kalba
@@ -66,5 +67,5 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Robert Gordon Latham]]
+- [[objektai/autoriai/Robert Gordon Latham]]
 - [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]

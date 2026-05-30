@@ -25,6 +25,7 @@ amziai:
 date_start: '1721'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Ništato sutartis (1721 m.)

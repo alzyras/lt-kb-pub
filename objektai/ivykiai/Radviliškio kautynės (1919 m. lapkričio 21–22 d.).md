@@ -38,6 +38,7 @@ dalyviai:
   - 'plk. Bermontas'
 susije_irasai: []
 laikotarpis: '1919 m. lapkričio 20–24 d. (operacija); 1919 m. lapkričio 21–22 d. (kautynės)'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - karas

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - bajorija
@@ -57,7 +58,6 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Bajorų konfederacija]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Kristupas Pacas]]

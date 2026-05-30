@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: "Abraomas Kulvietis"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Abraomas Kulvietis
   - Kulvietis
@@ -31,6 +31,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - kunigas
   - mokslininkas
@@ -169,6 +170,7 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Abraomas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/luomas]]

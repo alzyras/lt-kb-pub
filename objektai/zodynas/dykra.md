@@ -11,23 +11,24 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1298 m.'
+  - '1302 m.'
   - '1422 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XIII'
+  - 'XIV'
   - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1422'
-date_end: '2026'
+date_start: '1298'
+date_end: '1422'
 laikotarpis: '1422 m. ir Melno taikos kontekstas'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # dykra
@@ -55,131 +56,104 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 
 ## Teiginiai
 - t-004
-  teiginys: 'Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Sūduvos dykra 1422 m. buvo padalinta.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
-  pagrindžia:
-    - c-003
-- t-007
-  teiginys: 'Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.'
-  pagrindžia:
-    - c-004
-- t-008
-  teiginys: 'Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko ordino pusėje.'
-  pagrindžia:
-    - c-005
-- t-009
-  teiginys: 'XV a. pradžioje į dykra paverstas jotvingių, skalvių ir nadruvių žemes pradėjo grįžti šių genčių palikuonys ir lietuviai.'
+  teiginys: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
   pagrindžia:
     - c-006
-
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo.'
+  pagrindžia:
+    - c-007
+- t-006
+  teiginys: 'Dusburgietis teigia, kad kristburgo broliai pasileido pavymui ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.'
+  pagrindžia:
+    - c-008
+- t-007
+  teiginys: 'Dusburgietis teigia, kad štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo į dykras Bartos žemėje, į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog, turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė belaisviams.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-006
+  santrauka: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
-    ėjo daugiausia per dykras bei miškų plotus be gyvenviečių. Aiškiau
-    nusmaigstytos ribos tebuvo žymiai vėliau, pagrindan dedant Melno
-    sutartyje paduodamą sienų aprašą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    Apie Straisbergo miesto sugriovimą 1298 metais
+
+       Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
+    29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus
+    gyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus
+    sakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį. Ligi pat
+    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
+    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
+    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
+
+
+
+
+           271 (264).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-002
-  santrauka: 'Sūduvos dykra 1422 m. buvo padalinta.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-007
+  santrauka: 'Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Ilgai ginčijama Sūduvos dykra 1422 m. tapo padalinta. Sūduvių
-    gyvento vakarinio ploto dalis atiteko ordinui. Bet Melno sutartimi
-    iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu
-    Vytautas buvo ordinui užleidęs Salyno taika (1398).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais
+
+       Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
+    persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo
+    pilies apylinkėse buvo pagrobę dešimt žmonių ir tiek pat arklių; kai juos dykrose užpuolė,
+    pirmajame susirėmime vienas lietuvis ietimi  jį taip sužeidė, kad išleido jam vidurius,
+    tačiau jis nepaliovė kovojęs, kol visi lietuviai buvo išžudyti, o tada parkrito žemėn ir
+    pasimirė. Kai  jį mirusį ginklanešiai gabeno  į Kristburgo pilį, moterys, kurias jis buvo
+    išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
+    virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
+    skridę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-003
-  santrauka: 'Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-008
+  santrauka: 'Dusburgietis teigia, kad kristburgo broliai pasileido pavymui ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Lietuvai atiteko žymi dalis
-    Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
-    Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
-    ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.
+    Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+
+      Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
+    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl
+    ir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių
+    būrį, nukovė 65 vyrus  ir išvadavo 70 krikščionių.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-004
-  santrauka: 'Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos ėjo daugiausia per dykras bei miškų plotus be gyvenviečių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-009
+  santrauka: 'Dusburgietis teigia, kad štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo į dykras Bartos žemėje, į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog, turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė belaisviams.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
-    ėjo daugiausia per dykras bei miškų plotus be gyvenviečių. Aiškiau
-    nusmaigstytos ribos tebuvo žymiai vėliau, pagrindan dedant Melno
-    sutartyje paduodamą sienų aprašą.
-    Ilgai ginčijama Sūduvos dykra 1422 m.
+    Štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo  į
+    dykras Bartos žemėje,  į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog,
+    turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė
+    belaisviams krikščionims, kurie ten pat stovėjo supančioti: „Kur jūsų dievas, kodėl
+    jis jums nepadeda, kaip mums padėjo mūsų dievai dabar  ir kitados564?“ Krikščionys
+    dūsaudami tylėjo.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-- c-005
-  santrauka: 'Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko ordino pusėje.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš čia ji tęsėsi vėl per dykrą tiesiai
-    į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius
-    ir Vystyčio ežerą, kuris liko ordino pusėje.
-    Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
-    visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
-    Šešupėn.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-006
-  santrauka: 'XV a. pradžioje į dykra paverstas jotvingių, skalvių ir nadruvių žemes pradėjo grįžti šių genčių palikuonys ir lietuviai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Būta ir kito Lietuvos vardo plitimo kelio. Į dykra paverstas jotvingių,
-    skalvių, nadruvių žemes iš Lietuvos XV a. pradėjo grįžti šių genčių pali-
-    kuonys, o dar gausiau – lietuviai. Jie apsigyveno ne tik Lietuvos pusėje
-    esančioje dykroje, bet ir anapus sienos (1422 m. tarp Lietuvos ir Vokiečių
-    ordino nustačius sieną, Lietuvai atiteko tik dalis senųjų jotvingių terito-
-    rijos – Užnemunė).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-
 ## Pastabos
 
 - šaltinyje vartojama ir vienaskaita, ir daugiskaita, bet reikšmė aiškiai susieta su neapgyventa pasienio erdve.
@@ -190,9 +164,19 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - [[temos/karinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]
-- [[objektai/zodynas/lietuvininkai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Gundramas]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Skalviai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]
+- [[objektai/autoriai/Powierski J]]
+- [[objektai/zodynas/lietuvininkai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]
+- [[objektai/daiktai/Krikšto vandens indas|Krikšto vandens indas (krikštas, XIII a.)]]
+- [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]
+- [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]

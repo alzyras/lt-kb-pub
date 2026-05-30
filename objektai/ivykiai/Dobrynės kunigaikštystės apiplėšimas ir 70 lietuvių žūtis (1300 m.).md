@@ -1,0 +1,91 @@
+---
+tipas: ivykis
+pavadinimas: 'Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.)'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1300 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+date_start: '1300'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - ivykis
+  - upė
+---
+# Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.)
+
+## Santrauka
+
+Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas, kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių bei arklių, kurių.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas, kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių bei arklių, kurių.'
+  pagrindžia:
+    - c-001
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas, kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių bei arklių, kurių.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    paskos, broliai su savo kariuomene juos pasivijo, 70 nukovė ir išgelbėjo daug krikščionių,
+    paimtų  į nelaisvę. 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės
+    ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,
+    kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių
+    bei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.
+
+
+
+
+                          278 (271).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.) papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    paskos, broliai su savo kariuomene juos pasivijo, 70 nukovė ir išgelbėjo daug krikščionių,
+    paimtų  į nelaisvę. 30 išvengusių mirties lietuvių greitai nukūrė link savo kariuomenės
+    ir jai pranešė, ką jiems padarė broliai; juos pagavo tokia baimė ir apėmė toks siaubas,
+    kad, kitų nelaukdami, pabėgo kur akys veda, kur kojos neša ir prarado galybę žmonių
+    bei arklių, kurių daug prigėrė Narevo upėje dėl baisios kamšaties.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/posakiai/kur akys veda, kur kojos neša]]

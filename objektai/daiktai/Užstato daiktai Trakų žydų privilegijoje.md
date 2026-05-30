@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: "Užstato daiktai Trakų žydų privilegijoje"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - užstato daiktai
   - užstatas
@@ -29,6 +29,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - dokumentas
 ---
@@ -179,8 +180,14 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/buities-daiktas]]
-- [[temos/dokumentas]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/asmenys/Mstivojus]]
+- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
+- [[objektai/asmenys/Vimaras [Gneomiras]]]
+- [[objektai/asmenys/Vojakas [Vojachas]]]

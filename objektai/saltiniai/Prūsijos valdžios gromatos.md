@@ -1,0 +1,89 @@
+---
+tipas: saltinis
+pavadinimas: 'Prūsijos valdžios gromatos'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1192 m.'
+  - '1387 m.'
+  - '1589 m.'
+  - '1639 m.'
+  - '1722 m.'
+  - '1737 m.'
+  - '1739 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'X'
+  - 'XII'
+  - 'XIV'
+  - 'XVI'
+  - 'XVII'
+  - 'XVIII'
+date_start: '1192'
+date_end: '1739'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - dokumentas
+  - kraštas
+  - saltinis
+  - valstybė
+---
+# Prūsijos valdžios gromatos
+
+## Santrauka
+
+Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K. Dusburgietis teigia, kad baltischslavisches..., p. 340; 1737 m.— į [...] Walsczu [...] Prusu Zemes — Prūsijos valdžios gromatos..., p. 117; Walßčiaus Priweizdėjimas — Ruhig P.
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Dusburgietis teigia, kad baltischslavisches..., p. 340; 1737 m.— į [...] Walsczu [...] Prusu Zemes — Prūsijos valdžios gromatos..., p. 117; Walßčiaus Priweizdėjimas — Ruhig P.'
+  pagrindžia:
+    - c-002
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija
+    (Būga K. 1, p. 554; MPKP, 1, p. 14—15; Prūsijos valdžios gromatos..., Nr. 1 (1589
+    m.), 2 (1639 m.), 6 (1722 m.), 25 (1739 m.) ir kt.). Šiuo vardu iš pradžių, manoma,
+    vadinta tik Pagudė ir, matyt, Pamedė, o pats vardas atsirado ne anksčiau kaip IX—X a.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad baltischslavisches..., p. 340; 1737 m.— į [...] Walsczu [...] Prusu Zemes — Prūsijos valdžios gromatos..., p. 117; Walßčiaus Priweizdėjimas — Ruhig P.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Galbūt galima
+    daryti prielaidą, kad prieš D. territorium baltų kraštuose galėjo egzistuoti terrula —
+    sudedamąją žemės dalį apibūdinantis baltiškas žodis žemelė? Jo vietoje ilgainiui Lietuvos
+    valstybės dokumentuose galėjo įsigalėti taip pat senas valsčiaus terminas (plg. lie. valdyti,
+    veldėti, pr. walduns, weldūns ‘paveldėtojas’; s. sl. vlastь, ги. volostь, le. włość—(FLEW,
+    2, p. 1192; Фасмер М. Этимологический..., т. 1, c. 341, 344; Trautmann R. Baltisch-
+    slavisches..., p. 340; 1737 m.—  į [...] Walsczu [...] Prusu Zemes — Prūsijos valdžios
+    gromatos..., p. 117; Walßčiaus Priweizdėjimas — Ruhig P. Littauisch-deutsches..., 2,
+    p. 19; plg. 1387 m. Jogailos dokumento žodžius valsčiai ir valsčiukai — Jakubowski J.
+    Opis..., p. 44—46; Pašuta V. Lietuvos..., p. 37, 229).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

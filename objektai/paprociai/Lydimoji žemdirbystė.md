@@ -24,6 +24,7 @@ laikotarpis: 'priešistoriniai laikai–XIX amžius; lūžis po 1557 m. valakų 
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Lydimoji žemdirbystė
@@ -155,6 +156,7 @@ Nenurodyta
 - [[temos/kasdienybė]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/Dvilaukė sistema]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]

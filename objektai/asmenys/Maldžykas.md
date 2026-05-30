@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -51,6 +52,6 @@ Tame suvažiavime, nors ir neoficialiai, daly­ vavo ir Vytauto pasiuntinys Mald
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/šlėkta]]

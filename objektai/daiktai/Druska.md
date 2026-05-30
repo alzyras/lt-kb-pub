@@ -18,6 +18,7 @@ amziai:
 date_start: '1978'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
 ---
@@ -71,6 +72,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/ivykiai/Burgundijos kalno nuslinkimas (1225 m.)]]
 - [[objektai/daiktai/Vąšas]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/posakiai/„Lietuvos žemės druska“]]

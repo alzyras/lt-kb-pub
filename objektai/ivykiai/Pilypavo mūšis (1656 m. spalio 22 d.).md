@@ -16,6 +16,7 @@ amziai:
 date_start: '1656'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - mūšis
@@ -66,3 +67,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Krymo totoriai]]

@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Artis magnae artilleriae"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "„Didysis artilerijos menas“"
   - "Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“"
@@ -26,6 +26,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Artis magnae artilleriae

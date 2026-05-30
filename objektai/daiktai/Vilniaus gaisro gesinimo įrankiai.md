@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: "Vilniaus gaisro gesinimo įrankiai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - odiniai kibirai
   - kirviai
@@ -24,6 +24,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - įrankis
 ---

@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - Vaitiekaus mirtis
   - šv. Vaitiekaus mirtis
@@ -25,6 +25,7 @@ dalyviai:
   - vietiniai gyventojai
 susije_irasai: []
 patikimumas: aukstas
+atnaujinta: '2026-04-24'
 tags:
   - krikštas
 ---
@@ -145,6 +146,6 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
+- [[objektai/asmenys/Boleslovas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]

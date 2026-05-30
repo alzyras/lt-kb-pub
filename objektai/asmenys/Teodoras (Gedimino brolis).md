@@ -16,6 +16,7 @@ amziai:
 date_start: '1330'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - pinigai
@@ -59,7 +60,7 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]

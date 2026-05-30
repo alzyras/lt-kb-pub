@@ -16,6 +16,7 @@ amziai:
 date_start: '1938'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - seimas
@@ -199,8 +200,5 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Voldemarininkai]]

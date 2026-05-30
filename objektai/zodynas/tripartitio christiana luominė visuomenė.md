@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - miestas
@@ -68,5 +69,4 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Bajorai]]

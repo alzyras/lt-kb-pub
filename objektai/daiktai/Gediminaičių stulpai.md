@@ -26,6 +26,7 @@ amziai:
 date_start: '1399'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - daiktas
   - dinastija
@@ -152,6 +153,6 @@ Nenurodyta
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
 - [[objektai/daiktai/Herbai]]

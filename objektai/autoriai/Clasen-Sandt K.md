@@ -1,0 +1,55 @@
+---
+tipas: autorius
+pavadinimas: 'Clasen-Sandt K'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1293 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+date_start: '1293'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - autorius
+  - pilis
+---
+# Clasen-Sandt K
+
+## Santrauka
+
+Dusburgietis teigia, kad iII, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197— 198.
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad iII, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197— 198.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad iII, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197— 198.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    528 Žr. paaiškinimus D. III, 181, 1; Clasen-Sandt K., Zur Baugeschichte..., p. 197—
+    198. Skalvių pilis statyta 1293 m. (SRP, 1, 271, 280) kair. Nemuno krante žemiau
+    Ragainės, prie Skalvos upelio ties Paskalviais, dab. Dubki (Boetticher A., Die Bau..., 5,
+    p. 108; HE, p. 110; CV, t. 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung..., 2,
+    p. 97; plg. Тоерреn М., HCGP, p. 220).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Skalviai]]

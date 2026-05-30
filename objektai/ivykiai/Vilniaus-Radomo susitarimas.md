@@ -24,6 +24,7 @@ amziai:
 date_start: '1401'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - dokumentas
   - ivykis
@@ -74,8 +75,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/unija]]

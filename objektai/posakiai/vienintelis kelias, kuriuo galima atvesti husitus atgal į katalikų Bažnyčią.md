@@ -16,6 +16,7 @@ amziai:
 date_start: '1422'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karas
   - kraštas
@@ -90,5 +91,6 @@ Vytautas tad stojo vidury tarp husitų ir popiežiaus. Tad Vytautas įsakė grį
 - [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Čekai]]

@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "pirma geležis į vašką, o vanduo į plieną pavirs"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu
@@ -96,4 +97,4 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/daiktai/Vaškas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]

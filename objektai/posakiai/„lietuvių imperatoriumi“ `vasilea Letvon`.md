@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - kunigaikštis
   - posakis
@@ -50,5 +51,5 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]

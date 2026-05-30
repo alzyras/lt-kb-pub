@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: Rašliava
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - Istoriškoji mūsų rašliava
   - rašliava
@@ -24,6 +24,7 @@ amziai:
 date_start: '1936'
 date_end: '2026'
 patikimumas: aukštas
+atnaujinta: '2026-04-24'
 tags:
   - sąvoka
 ---

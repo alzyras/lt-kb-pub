@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - mūšis
@@ -59,5 +60,5 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/didysis maršalas]]
 - [[objektai/zodynas/maršalas]]

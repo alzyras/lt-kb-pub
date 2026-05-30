@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus Senienų muziejus"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
@@ -22,6 +22,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus Senienų muziejus

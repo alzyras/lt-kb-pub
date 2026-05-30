@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Skirmantė Ramanauskaitė"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Skirmantė Ramanauskaitė"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys:
   - redaktorė
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Skirmantė Ramanauskaitė

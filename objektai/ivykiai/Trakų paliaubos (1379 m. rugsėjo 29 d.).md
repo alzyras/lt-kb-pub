@@ -17,6 +17,7 @@ amziai:
 date_start: '1378'
 date_end: '1379'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - paliaubos
@@ -72,8 +73,7 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/paliaubos]]

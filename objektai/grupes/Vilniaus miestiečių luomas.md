@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus miestiečių luomas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Lietuvos miestiečių luomas"
   - "miestiečių klasė"
@@ -33,6 +33,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus miestiečių luomas
@@ -382,27 +383,27 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jeronimas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Rusdorfas]]
 - [[objektai/asmenys/Teodoras]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kitatikiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/daiktai/Ragotinė]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]

@@ -17,6 +17,7 @@ amziai:
 date_start: '1401'
 date_end: '1413'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - grupe
@@ -114,6 +115,7 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/unija]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
 - [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
 - [[objektai/grupes/Lenkijos bajorija]]

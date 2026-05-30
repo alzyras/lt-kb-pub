@@ -17,6 +17,7 @@ amziai:
 date_start: '1929'
 date_end: '1938'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - kraštas

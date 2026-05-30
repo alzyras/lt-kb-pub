@@ -18,6 +18,7 @@ amziai:
 date_start: '1578'
 date_end: '1824'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - vieta
 ---

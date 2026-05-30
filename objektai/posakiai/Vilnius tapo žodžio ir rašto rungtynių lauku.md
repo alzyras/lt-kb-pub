@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Vilnius tapo žodžio ir rašto rungtynių lauku"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Vilnius tapo žodžio ir rašto rungtynių lauku"
 aliases: []
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilnius tapo žodžio ir rašto rungtynių lauku

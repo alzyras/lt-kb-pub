@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Variagai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "variagai"
   - "variagų"
@@ -24,6 +24,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Variagai
@@ -118,4 +119,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Palemonas]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/autoriai/Ibrahim ibn Jakūb]]
 - [[objektai/asmenys/Aleksandras Balinskis]]

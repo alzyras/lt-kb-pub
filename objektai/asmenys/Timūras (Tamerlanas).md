@@ -16,6 +16,7 @@ amziai:
 date_start: '1453'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -60,6 +61,7 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/asmenys/Jagurčinas]]

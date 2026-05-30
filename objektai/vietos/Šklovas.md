@@ -29,6 +29,7 @@ amziai:
 date_start: '1236'
 date_end: '1854'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karas
   - sukilimas

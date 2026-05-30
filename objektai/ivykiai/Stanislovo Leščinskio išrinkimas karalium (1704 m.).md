@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - elekcija
   - ivykis
@@ -62,11 +63,7 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]

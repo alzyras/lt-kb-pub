@@ -25,6 +25,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags:
   - autorius
 ---
@@ -92,5 +93,5 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/asmenys/Birutė]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/asmenys/Ringailė]]

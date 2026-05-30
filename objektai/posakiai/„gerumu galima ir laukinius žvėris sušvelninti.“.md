@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigaikštis
   - posakis
@@ -58,7 +59,7 @@ Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žeme
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti|gerumu galima ir laukinius žvėris sušvelninti.]]

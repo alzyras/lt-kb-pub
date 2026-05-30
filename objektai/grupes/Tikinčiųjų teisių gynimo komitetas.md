@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dokumentas
   - grupe
@@ -79,14 +80,12 @@ tags:
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kauneckas]]
 - [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
 - [[objektai/zodynas/kulto laisvė]]
 - [[objektai/asmenys/Alfonsas Svarinskas]]
-- [[objektai/asmenys/Sigitas Tamkevičius]]
 - [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]
 - [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

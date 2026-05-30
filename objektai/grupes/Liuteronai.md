@@ -26,6 +26,7 @@ amziai:
 date_start: '1539'
 date_end: '1763'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - reforma

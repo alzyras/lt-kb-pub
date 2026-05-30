@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Vilniaus pranciškonų nužudymas apie 1345 m."
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Pranciškonų nukankinimas Vilniuje"
   - "Keturiolikos pranciškonų nužudymas"
@@ -26,6 +26,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus pranciškonų nužudymas apie 1345 m.
@@ -128,10 +129,11 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
 - [[temos/konfliktas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/autoriai/Grzybowski]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

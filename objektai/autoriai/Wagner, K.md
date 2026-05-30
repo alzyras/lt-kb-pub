@@ -16,6 +16,7 @@ amziai:
 date_start: '1933'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - ordinas
@@ -51,3 +52,7 @@ Wagner, K.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Pilys]]

@@ -17,6 +17,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Liudvikos Gedgaudienės-Didžiulienės užrašai

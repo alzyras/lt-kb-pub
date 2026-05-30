@@ -23,6 +23,7 @@ amziai:
 date_start: '1387'
 date_end: '1417'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - krikštas
   - paprotys
@@ -100,9 +101,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/gotika]]

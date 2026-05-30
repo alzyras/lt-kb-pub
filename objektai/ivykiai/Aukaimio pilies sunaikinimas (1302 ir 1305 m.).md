@@ -17,6 +17,7 @@ amziai:
 date_start: '1302'
 date_end: '1305'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - pilis
@@ -93,8 +94,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
-- [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Draika]]

@@ -17,6 +17,7 @@ amziai:
 date_start: '1946'
 date_end: '1947'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---

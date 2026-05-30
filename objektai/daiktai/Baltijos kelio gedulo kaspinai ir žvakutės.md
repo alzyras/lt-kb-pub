@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Baltijos kelio gedulo kaspinai ir žvakutės"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Baltijos kelio gedulo kaspinai ir žvakutės"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - simbolis
 ---

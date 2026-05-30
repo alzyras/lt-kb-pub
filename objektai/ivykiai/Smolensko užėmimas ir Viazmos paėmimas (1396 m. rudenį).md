@@ -16,6 +16,7 @@ amziai:
 date_start: '1396'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - miestas
@@ -71,5 +72,5 @@ Nenurodyta
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/asmenys/Jomantas]]
 - [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/lenas]]

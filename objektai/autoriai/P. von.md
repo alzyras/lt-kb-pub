@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
 ---
@@ -52,3 +53,7 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Ordino brolis]]

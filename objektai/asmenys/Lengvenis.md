@@ -17,6 +17,7 @@ amziai:
 date_start: '1388'
 date_end: '1389'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
 ---

@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus prastuomenė"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "pastarieji"
 aliases: []
@@ -23,6 +23,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus prastuomenė
@@ -109,10 +110,11 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/autoriai/Grzybowski]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/posakiai/savo užantyje maitinti gyvatę]]

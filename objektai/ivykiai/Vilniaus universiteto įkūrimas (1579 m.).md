@@ -26,6 +26,7 @@ amziai:
 date_start: '1566'
 date_end: '1850'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
   - karalius
@@ -208,6 +209,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]

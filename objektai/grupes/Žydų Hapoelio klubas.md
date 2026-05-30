@@ -16,6 +16,7 @@ amziai:
 date_start: '1935'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - grupe
   - tauta

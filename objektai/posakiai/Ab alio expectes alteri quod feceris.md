@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Ab alio expectes alteri quod feceris"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Tai, ką padarei vienam, sulauksi iš kito"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Ab alio expectes alteri quod feceris
@@ -90,3 +91,7 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
   pagrindžia:
     - t-001
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

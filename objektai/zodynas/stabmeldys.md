@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karalius
   - kraštas
@@ -110,8 +111,8 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/autoriai/Vygandas Marburgietis]]
-- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/daiktai/Žirgai]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

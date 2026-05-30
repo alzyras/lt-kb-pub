@@ -18,6 +18,7 @@ amziai:
 date_start: '1345'
 date_end: '1924'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karalius
   - saltinis

@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: Graždanka
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - graždankos
 aliases: []
@@ -21,6 +21,7 @@ amziai:
 date_start: '1904'
 date_end: ''
 patikimumas: aukštas
+atnaujinta: '2026-04-24'
 tags:
   - sąvoka
 ---

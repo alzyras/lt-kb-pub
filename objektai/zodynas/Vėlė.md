@@ -1,12 +1,13 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: vėlė
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - vėlės
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # vėlė
 
@@ -74,4 +75,5 @@ Vartojamos formos: `vėlės`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
+- [[objektai/asmenys/Tirskas]]
 - [[objektai/autoriai/S. Daukantas]]

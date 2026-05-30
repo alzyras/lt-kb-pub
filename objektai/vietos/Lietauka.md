@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: "Lietauka"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Lietauka"
   - "Lietaukos"
@@ -20,6 +20,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - vieta
 ---

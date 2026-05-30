@@ -5,7 +5,8 @@ statusas: reikia tęsti
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 audito_tipas: empty_or_weak_notes
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
+atnaujinta: '2026-05-14'
 ---
 # Auditas
 

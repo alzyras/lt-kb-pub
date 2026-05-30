@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - grupe
@@ -131,6 +132,8 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
 - [[objektai/grupes/Alšėnų kunigaikščiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
+- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
+- [[objektai/asmenys/Jekaterina II]]
 - [[objektai/grupes/Karo ir iždo komisijos]]
 - [[objektai/asmenys/Karolis Stanislovas Radvila]]
 - [[objektai/grupes/Nuolatinė Taryba|Nuolatinė Taryba (institucija)]]

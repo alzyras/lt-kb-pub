@@ -17,6 +17,7 @@ amziai:
 date_start: '1889'
 date_end: '1890'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - ordinas

@@ -16,6 +16,7 @@ amziai:
 date_start: '1766'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -85,4 +86,5 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lotynai]]
 - [[objektai/grupes/Vilniaus Akademija]]

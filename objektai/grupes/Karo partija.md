@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - karas
@@ -57,5 +58,5 @@ Iš to susidarė dvi partijos: karo ir taikos.
 
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Taikos partija]]

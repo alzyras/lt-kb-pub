@@ -23,6 +23,7 @@ amziai:
 date_start: '1917'
 date_end: '1940'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - tauta
@@ -922,6 +923,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - [[objektai/zodynas/Lituanistika]]
 - [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Vokiečiai]]
@@ -940,3 +942,4 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/grupes/Raudonoji armija]]

@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - karalius
@@ -73,7 +74,7 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Jogailos palikuonys]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/unija]]

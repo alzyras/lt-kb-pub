@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
   - diplomatas
@@ -76,6 +77,21 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/autoriai/Boetticher A]]
+- [[objektai/ivykiai/Brunsbergo miesto bei pilies atkūrimas (1279 m.)]]
+- [[objektai/grupes/Elbingo miestiečiai]]
+- [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
+- [[objektai/asmenys/Gedūnas]]
+- [[objektai/autoriai/Kšivickis L]]
+- [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
+- [[objektai/autoriai/M. Tepenas]]
+- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/asmenys/Tirskas]]
+- [[objektai/zodynas/grinda]]
+- [[objektai/daiktai/Įtvirtintas malūnas prie Baigos]]
+- [[objektai/zodynas/šeimyna familia domus]]
+- [[objektai/autoriai/Тоерреn M]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]

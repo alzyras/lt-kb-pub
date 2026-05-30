@@ -17,6 +17,7 @@ amziai:
 date_start: '1329'
 date_end: '1357'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karalius
@@ -60,5 +61,6 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/Ietis]]

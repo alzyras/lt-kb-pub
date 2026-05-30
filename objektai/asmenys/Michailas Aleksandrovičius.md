@@ -16,6 +16,7 @@ amziai:
 date_start: '1368'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -109,7 +110,7 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/asmenys/Julijona]]

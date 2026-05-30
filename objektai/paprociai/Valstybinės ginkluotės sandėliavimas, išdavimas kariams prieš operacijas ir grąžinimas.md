@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas
@@ -105,4 +106,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Šarvai]]
-- [[objektai/daiktai/Karinė ginkluotė]]

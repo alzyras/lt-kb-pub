@@ -16,6 +16,7 @@ amziai:
 date_start: '1385'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - popiežius
@@ -53,7 +54,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila]]

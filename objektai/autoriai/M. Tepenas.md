@@ -10,17 +10,13 @@ variantai:
 aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 laikotarpis: ''
-datos:
-  - '1853 m.'
-  - '1861 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-date_start: '1853'
-date_end: '1861'
 vaidmenys:
   - parengėjas
   - leidėjas
@@ -28,6 +24,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-29'
 tags:
   - autorius
   - mokslininkas
@@ -65,6 +62,18 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
     - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Dusburgietis teigia, kad tepenas.'
+  pagrindžia:
+    - c-006
+- t-006
+  teiginys: 'Dusburgietis teigia, kad tepenas, remdamasis įvairiais rašytiniais šaltiniais, priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9.'
+  pagrindžia:
+    - c-008
+- t-010
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie.'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: M. Tepenas įvardijamas kaip mokslinio leidimo parengėjas ir paskelbėjas.
@@ -138,3 +147,48 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+    - t-005
+- c-008
+  santrauka: 'Dusburgietis teigia, kad tepenas, remdamasis įvairiais rašytiniais šaltiniais, priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Savo ruožtu dar XIX  a. M. Tepenas, remdamasis  įvairiais  rašytiniais  šaltiniais,
+    priėjo išvadą, kad skalviai ir nadruviai buvę lietuviai9. A. Becenbergeris nustatė, kad
+    vietovardžiai, kilę iš lietuviškų žodžių kiemas, upė, kalnas, paplitę į rytus nuo Deimenos
+    ir Alnos (kair.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-012
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246 persikėlė pas Baigos brolius, o šie.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie tai, kaip buvo pastatytas ir išgriautas malūnas
+
+      Tuo metu daug kilmingų ir galingų Varmės vyrų, matydami, kad dievas padeda kovoti
+    broliams, pajuto tokią didelę sąžinės graužatį, kad su namais bei savo šeimynomis246
+    persikėlė pas Baigos brolius, o šie, jiems atvykus, sustiprėjo ir pastatė prie upės malūną
+      245 Prūsiškoji Baigos pilis buvusi Aismarių kranto kyšulyje, per 25 m virš jūros lygio,
+    sausumos prieigas dengusios pelkės. Paėmę pilį, kryžiuočiai čia įsitvirtino, pastatė mūrinę
+    pilį, o šalia jos rytų pusėje — didelį papilį (Тоерреn M., HCCP, p. 203; Boetticher A., Die
+    Bau.., 2, p. 17—18).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]
+- [[objektai/daiktai/Prūsijos žemės kronikos nuorašai]]

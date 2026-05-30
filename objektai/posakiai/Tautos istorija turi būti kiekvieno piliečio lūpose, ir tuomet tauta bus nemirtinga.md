@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga."
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai: []
 aliases: []
 saltiniai:
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.
@@ -68,5 +69,4 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/asmenys/Mikalojus Akelaitis]]
 - [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]

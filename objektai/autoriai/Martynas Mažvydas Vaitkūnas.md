@@ -21,6 +21,7 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
 ---

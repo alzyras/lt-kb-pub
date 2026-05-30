@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Istorinis-geografinis tautos supratimas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "istorinis-geografinis tautos supratimas"
   - "nacionalinis tautos supratimas"
@@ -24,6 +24,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Istorinis-geografinis tautos supratimas

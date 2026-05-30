@@ -17,6 +17,7 @@ amziai:
 date_start: '1342'
 date_end: '1398'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - kunigaikštis
@@ -57,6 +58,6 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Totoriai]]

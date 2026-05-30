@@ -18,6 +18,7 @@ amziai:
 date_start: '1936'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - kraštas
@@ -100,14 +101,12 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - [[objektai/grupes/Bizantijos imperija]]
 - [[objektai/grupes/Germanai]]
 - [[objektai/autoriai/Jordanes]]
-- [[objektai/autoriai/K. Būga]]
 - [[objektai/autoriai/Kassiodoras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
 - [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]
+- [[objektai/autoriai/Maтузова В. Я]]
 - [[objektai/daiktai/Muštiniai]]
 - [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]
-- [[objektai/asmenys/Tacitas]]
 - [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale)]]
 - [[objektai/grupes/Vidivarii]]
 - [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]
@@ -120,8 +119,11 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - [[objektai/posakiai/at litus australe Slavi et Aisti et aliae diversae incolunt nationes]]
 - [[objektai/zodynas/indoeuropiečių, arba arijų, tautų grupė]]
 - [[objektai/zodynas/kastuvo mokslas]]
+- [[objektai/zodynas/kilmingieji nobilis]]
+- [[objektai/zodynas/kilmingieji nobilis vitingai bajorai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/posakiai/pacatum hominum genus omnino]]
+- [[objektai/zodynas/prūsas Prūsa Prūsija]]
 - [[objektai/zodynas/vokiečių ateivių valstybė]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]

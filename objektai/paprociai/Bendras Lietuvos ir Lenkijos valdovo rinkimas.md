@@ -18,6 +18,7 @@ amziai:
 date_start: '1936'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - elekcija
@@ -116,12 +117,8 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/grupes/Lietuviai]]

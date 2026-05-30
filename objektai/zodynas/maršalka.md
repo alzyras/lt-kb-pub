@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - mūšis
   - ordinas
@@ -74,12 +75,11 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/asmenys/Gedgaudas]]
 - [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
-- [[objektai/asmenys/Kęstutis]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]
 - [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]

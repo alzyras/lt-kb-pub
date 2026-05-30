@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - sąvoka
 ---
@@ -45,3 +46,4 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/ivykiai/Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.)]]
+- [[objektai/asmenys/Augustinas]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
 ---
@@ -50,5 +51,5 @@ Tam buvo reikalinga tvirta, net plieninė ran­ ka, didelis protas.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

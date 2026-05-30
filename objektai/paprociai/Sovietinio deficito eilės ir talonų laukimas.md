@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Sovietinio deficito eilės ir talonų laukimas"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -21,6 +21,7 @@ dalyviai:
   - "gyventojai"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Sovietinio deficito eilės ir talonų laukimas
@@ -85,6 +86,7 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/daiktai/Deficitinės vartojimo prekės]]
 - [[objektai/zodynas/deficitas talonai]]

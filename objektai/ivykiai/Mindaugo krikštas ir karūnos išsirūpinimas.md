@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
   - karalius
@@ -59,7 +60,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Andrius Štirlandas]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -69,7 +70,6 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]

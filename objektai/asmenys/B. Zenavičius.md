@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - mūšis
@@ -80,4 +81,5 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Kazokai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/husarai]]

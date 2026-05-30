@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - karalius
@@ -99,9 +100,6 @@ tags:
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/daiktai/Žirgai]]
 - [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Varmiai]]

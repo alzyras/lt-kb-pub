@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
 ---
@@ -52,3 +53,5 @@ Adalberto (Vaitiekaus) biografas Canaparius, kuris kalbėjo apie « Pruzzorum fi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Saracėnai]]

@@ -17,19 +17,21 @@ aliases:
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 laikotarpis: 'XIV a.; 1324 m.; 1326 m.; 1329 m.'
+vaidmenys:
+  - 'Kryžiuočių ordino magistras'
 datos:
-  - '1324 m.'
-  - '1329 m.'
+  - '1289 m.'
+  - '1330 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XIII'
   - 'XIV'
-date_start: '1324'
-date_end: '1329'
-vaidmenys:
-  - 'Kryžiuočių ordino magistras'
+date_start: '1289'
+date_end: '1330'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-29'
 tags:
   - asmuo
   - ordinas
@@ -76,6 +78,34 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Dusburgietis teigia, kad 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.'
+  pagrindžia:
+    - c-007
+- t-009
+  teiginys: 'Dusburgietis teigia, kad didysis magistras Verneris ėmėsi restauruoti Ordiną.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
+  pagrindžia:
+    - c-009
+- t-012
+  teiginys: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
+  pagrindžia:
+    - c-012
+- t-014
+  teiginys: 'Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Dusburgietis teigia, kad su šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių ir 18 tūkstančių karių, neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
+  pagrindžia:
+    - c-016
 ## Reikšmingi paminėjimai
 
 - c-002
@@ -165,6 +195,140 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Dusburgietis teigia, kad 1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1326 m. Kryžiuočių ordino brolis kunigas Petras iš Dusburgo
+    užbaigė rašyti „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
+       XIII a. pabaigoje — XIV a. pradžioje Vytenis (1295—1316 m.) bandė pasinaudoti
+    Livonijos vidaus prieštaravimais: Lietuva drauge su Ryga kariavo ir vedė diplomatinę
+    kovą prieš Ordiną, Lietuva gynė Rygą nuo Ordino, norėdama pralaužti Ordino vykdomą
+    ekonominę Lietuvos blokadą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-009
+  santrauka: 'Dusburgietis teigia, kad didysis magistras Verneris ėmėsi restauruoti Ordiną.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apkaltintas erezija Tamplierių
+    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
+    Paryžiuje 1314 m.69
+      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
+    argumentacijos. Didysis magistras Verneris ėmėsi restauruoti Ordiną. Jo statute padaryta
+    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
+    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
+    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
+    vienuolių bendruomenės gyvenimo dėsniai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+    - t-010
+- c-012
+  santrauka: 'Dusburgietis teigia, kad pRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    PRŪSIJOS ŽEMĖS
+       KRONIKA
+
+    Dedikacija
+
+
+         Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
+    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
+    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-014
+  santrauka: 'Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1. Apie evangeliją: pradžioje buvo žodis
+
+       Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė,
+    kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos
+    kiekvieną dieną turį skaityti evangeliją: „Pradžioje buvo žodis” su eilute: „Parodyk mums,
+    viešpatie, savo gailestingumą”  ir kolektą: „Visagalis amžinasis dieve, nukreipk mūsų
+    veiksmus, kaip tau patinka”, o tardami „Ir žodis tapo kūnu”, broliai turį pulti ant kelių ir
+    klūpoti iki kolektos galo.
+
+
+
+
+                              2.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Dusburgietis teigia, kad su šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių ir 18 tūkstančių karių, neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Medvėgalio pilėnus
+
+    1329 viešpaties metais  į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
+    karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
+    Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino
+    grafais  ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais
+    bei Donos burggrafu  ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su
+    šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių  ir 18 tūkstančių karių,
+    neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų
+    pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
+    pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
+
+
+
+
+                            10.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    20. Apie didžiojo magistro mirtį
+
+      Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
+    18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
+    paties nedorybių, nužudė brolį Vernerį, didįjį magistrą, kai tas, atgiedojęs mišparus, ėjo
+    iš bažnyčios, o nužudė todėl, kad tas jį bardavo už jo nusižengimus. O Jonai brolžudy,
+
+    Pastarajam  neįvykdžius  susitarimo,  Vengrijos feodalams  prieštaraujant Lietuvos—
+    Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
@@ -177,5 +341,27 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
-- [[objektai/autoriai/Dusburgas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/zodynas/Ordino brolis]]
+- [[objektai/posakiai/Pradžioje buvo žodis]]
+- [[objektai/grupes/Tamplierių ordinas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
+- [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]
+- [[objektai/zodynas/oktava]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
+- [[objektai/asmenys/Henrikas Valpotas]]
 - [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]
+- [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
+- [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]
+- [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]
+- [[objektai/ivykiai/Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.)]]
+- [[objektai/asmenys/Jonas iš Endorfo]]
+- [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]
+- [[objektai/zodynas/mišparai]]
+- [[objektai/zodynas/suma]]

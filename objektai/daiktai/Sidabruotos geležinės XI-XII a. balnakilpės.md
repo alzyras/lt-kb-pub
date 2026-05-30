@@ -17,6 +17,7 @@ amziai:
 date_start: '1236'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
   - ginklas
@@ -86,6 +87,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Balnakilpės]]
-- [[objektai/asmenys/Hermanas]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]

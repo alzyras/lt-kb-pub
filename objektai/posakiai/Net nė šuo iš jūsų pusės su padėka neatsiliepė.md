@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Net nė šuo iš jūsų pusės su padėka neatsiliepė"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka neatsiliepė"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Net nė šuo iš jūsų pusės su padėka neatsiliepė
@@ -79,4 +80,4 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]

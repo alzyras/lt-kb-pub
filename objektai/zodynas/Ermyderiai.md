@@ -1,12 +1,13 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: ermyderiai
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - ermyderių
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # ermyderiai
 

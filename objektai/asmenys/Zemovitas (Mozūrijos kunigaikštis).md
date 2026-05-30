@@ -16,6 +16,7 @@ amziai:
 date_start: '1260'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -57,5 +58,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Zemovitas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]

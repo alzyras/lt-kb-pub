@@ -17,6 +17,7 @@ amziai:
 date_start: '1328'
 date_end: '1331'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - dinastija
@@ -69,7 +70,6 @@ tags:
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 - [[temos/paliaubos]]
-- [[temos/tikėjimas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]

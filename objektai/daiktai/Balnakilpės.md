@@ -16,6 +16,7 @@ amziai:
 date_start: '1236'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
   - ginklas
@@ -84,8 +85,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Hermanas]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
+- [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/autoriai/Hermanas Vartbergė]]
 - [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]

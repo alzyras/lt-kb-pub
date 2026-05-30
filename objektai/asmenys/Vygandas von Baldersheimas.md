@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kraštas
@@ -57,13 +58,9 @@ Jo krikštatėviu buvo Ragainės komtūras Vy­ gandas von Baldersheimas, dėl t
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/asmenys/Danuta]]
 - [[objektai/asmenys/Ona Vytautienė]]

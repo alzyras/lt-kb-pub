@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: 'Galvės ežero salos pilis (pilis)'
-sukurta: "2026-04-28"
+sukurta: '2026-04-28'
 variantai:
   - 'Galvės ežero salos pilis'
 aliases:
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Galvės ežero salos pilis (pilis)

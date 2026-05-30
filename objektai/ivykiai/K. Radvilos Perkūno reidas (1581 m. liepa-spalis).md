@@ -34,6 +34,7 @@ amziai:
 date_start: '1581'
 date_end: ''
 patikimumas: 'aukstas'
+atnaujinta: '2026-05-02'
 tags:
   - karas
 ---

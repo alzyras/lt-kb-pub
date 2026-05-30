@@ -23,6 +23,7 @@ amziai:
 date_start: '1773'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - reforma

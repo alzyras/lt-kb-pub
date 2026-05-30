@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvių aktyvistų frontas"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "LAF"
 aliases: []
@@ -29,6 +29,7 @@ amziai:
 date_start: '1940'
 date_end: '2026'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Lietuvių aktyvistų frontas

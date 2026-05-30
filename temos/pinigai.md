@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 43.
+Objektų skaičius: 51.
 
 ## Kaip naudoti
 
@@ -22,6 +22,7 @@ Objektų skaičius: 43.
 - [[objektai/asmenys/Gilbert de Lannoy]]
 - [[objektai/asmenys/Henrikas VI]]
 - [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Karolis (Prancūzijos karaliaus brolis)]]
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/asmenys/Ratajus Širiajevas]]
 - [[objektai/asmenys/Tadas Kosciuška]]
@@ -40,24 +41,30 @@ Objektų skaičius: 43.
 - [[objektai/daiktai/Lietuvos pinigai litas]]
 - [[objektai/daiktai/Monetos]]
 - [[objektai/daiktai/Muštiniai]]
+- [[objektai/daiktai/Popiežiaus vainikas]]
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
 - [[objektai/daiktai/Šilkinė skara]]
 
 ### Grupės
 - [[objektai/grupes/Dalomoji Komisija]]
-- [[objektai/grupes/JAV lietuviai]]
-- [[objektai/grupes/Jutrzenka]]
+- [JAV lietuviai](../objektai/grupes/JAV%20lietuviai)
+- [Jutrzenka](../objektai/grupes/Jutrzenka)
 - [Oswiata](../objektai/grupes/Oswiata)
 - [Pochodnia](../objektai/grupes/Pochodnia)
 - [Totorių pajėgos](../objektai/grupes/Totori%C5%B3%20paj%C4%97gos)
 
 ### Papročiai
+- [Kasdienis maudymasis pirtyse iš pagarbos dievams](../objektai/paprociai/Kasdienis%20maudymasis%20pirtyse%20i%C5%A1%20pagarbos%20dievams)
 - [Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas](../objektai/paprociai/Pavaldumo%20demonstravimas%20derybose%20per%20pinig%C5%B3%20%C5%BEenklinim%C4%85%20ir%20dovanas)
 - [Valstiečių duoklės ir prievolės](../objektai/paprociai/Valstie%C4%8Di%C5%B3%20duokl%C4%97s%20ir%20prievol%C4%97s)
+- [Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde](../objektai/paprociai/%C5%BDmon%C5%B3%20i%C5%A1pirka%20ir%20%C5%BEmonos%20tarnyst%C4%97s%20pareigos%20Dusburgie%C4%8Dio%20vaizde)
 
 ### Posakiai
+- [apreikšti dievo darbus yra šlovinga](../objektai/posakiai/apreik%C5%A1ti%20dievo%20darbus%20yra%20%C5%A1lovinga)
 - [lydimojo rašto](../objektai/posakiai/lydimojo%20ra%C5%A1to)
+- [svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo](../objektai/posakiai/sve%C4%8Di%C4%85%20b%C5%ABsi%C4%85%20nepakankamai%20pamyl%C4%97j%C4%99%2C%20jeigu%20jis%20negersi%C4%85s%20iki%20apsvaigimo)
+- [šio šventojo žygio atminimas](../objektai/posakiai/%C5%A1io%20%C5%A1ventojo%20%C5%BEygio%20atminimas)
 
 ### Įvykiai
 - [Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)](../objektai/ivykiai/Lietuvos%20skriaud%C5%B3%20vie%C5%A1inimo%20akcijos%20Amerikoje%20%281894%E2%80%931900%20m.%29)
@@ -74,3 +81,4 @@ Objektų skaičius: 43.
 - [rublis](../objektai/zodynas/rublis)
 - [sidabrinė duoklė tributum serebsčina](../objektai/zodynas/sidabrin%C4%97%20duokl%C4%97%20tributum%20serebs%C4%8Dina)
 - [vyrgalvė](../objektai/zodynas/Vyrgalv%C4%97)
+- [šventasis žygis](../objektai/zodynas/%C5%A1ventasis%20%C5%BEygis)

@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Gintaras
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Gintaras
@@ -41,17 +42,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-001
   teiginys: 'Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Turėjo dar taip pat už šventus aukurus, arba altorius, ant kalnų, kuriuos vadino auko kalnais,
         arba alko kalnais, ir viešpilais, ir didelius akmenis, ant kurių meldės ir dievams aukavo, arba juos
@@ -60,11 +61,11 @@ Nenurodyta
         kasant juos, šiandien dar randamos tenai supuvusios ir sutrynėjusios^841 anglys tą stigavoja.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -74,6 +75,7 @@ Nenurodyta
 - [[objektai/grupes/Gintaro rinktinė]]
 - [[objektai/asmenys/Jascha Heifetz]]
 - [[objektai/autoriai/Kassiodoras]]
+- [[objektai/autoriai/Plinius C. Secundus]]
 - [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale)]]
 - [[objektai/daiktai/Gintaro ir stiklo karoliai]]
 - [[objektai/paprociai/Aukojimas ant auko kalnų ir didžiųjų akmenų]]

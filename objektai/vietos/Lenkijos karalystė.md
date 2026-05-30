@@ -19,6 +19,7 @@ amziai:
 date_start: '1864'
 date_end: '1906'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - karalius
   - valstybė

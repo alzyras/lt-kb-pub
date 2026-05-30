@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - elekcija
   - sąvoka
@@ -66,8 +67,5 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]

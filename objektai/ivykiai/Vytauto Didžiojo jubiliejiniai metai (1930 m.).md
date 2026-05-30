@@ -18,6 +18,7 @@ amziai:
 date_start: '1930'
 date_end: '1936'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
 ---
@@ -94,6 +95,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Šapoka]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/jaunųjų istorikų būrelis]]

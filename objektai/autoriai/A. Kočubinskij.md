@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - ežeras
@@ -59,7 +60,6 @@ Kočubinskij), jog prieš­ istoriniais laikais baltai yra gyvenę žymiai tolia
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-- [[temos/upė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]

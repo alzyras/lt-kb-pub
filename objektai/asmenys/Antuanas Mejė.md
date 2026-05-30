@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
 ---
@@ -46,5 +47,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/posakiai/„Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba lietuvis valstietis.“]]

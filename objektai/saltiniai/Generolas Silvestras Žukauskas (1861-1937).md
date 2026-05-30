@@ -24,6 +24,7 @@ amziai:
 date_start: '1417'
 date_end: '2006'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - saltinis
 ---

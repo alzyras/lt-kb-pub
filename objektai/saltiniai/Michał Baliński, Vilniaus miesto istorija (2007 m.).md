@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-sukurta: "2026-05-25"
+sukurta: '2026-05-25'
 variantai:
   - "Mykolas Balinskis, Vilniaus miesto istorija"
   - "Michała Balińskiego Historya Miasta Wilna"
@@ -34,6 +34,7 @@ dalyviai:
   - "MINTIS"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-25'
 tags: []
 ---
 # Michał Baliński, Vilniaus miesto istorija (2007 m.)

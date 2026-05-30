@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags: []
 ---
 # Specialių brolijų maldininkams globoti steigimas
@@ -97,3 +98,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
+
+### Susiję objektai
+- [[objektai/grupes/Turkai]]
+- [[objektai/zodynas/maldininkai]]

@@ -18,6 +18,7 @@ amziai:
 date_start: '1379'
 date_end: '1401'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigaikštis
   - ordinas
@@ -86,9 +87,8 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/supremus dux]]

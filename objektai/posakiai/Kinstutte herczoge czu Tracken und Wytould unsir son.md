@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dokumentas
   - posakis
@@ -54,9 +55,6 @@ Pačiame tekste yra pažymėta, kad be ma­ gistro ir Jogailos savo antspaudas p
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]

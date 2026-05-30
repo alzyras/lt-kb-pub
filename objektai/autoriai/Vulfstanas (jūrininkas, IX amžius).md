@@ -16,6 +16,7 @@ vaidmenys:
 patikimumas: 'aukštas'
 aliases:
   - 'Vulfstanas'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
 ---
@@ -35,7 +36,6 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'IX a. jūrininkas Vulfstanas, buvęs Prūsuose, smulkiai nupasakojo aisčių gyvenimo būdą ir papročius.'

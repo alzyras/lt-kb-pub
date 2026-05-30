@@ -16,6 +16,7 @@ amziai:
 date_start: '1848'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - daiktas
 ---

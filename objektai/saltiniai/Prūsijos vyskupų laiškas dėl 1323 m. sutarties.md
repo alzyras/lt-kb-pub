@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Prūsijos vyskupų laiškas dėl 1323 m. sutarties

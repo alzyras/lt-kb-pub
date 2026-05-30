@@ -19,6 +19,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - elekcija
   - grupe
@@ -62,7 +63,6 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-- [[temos/elekcija]]
 
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

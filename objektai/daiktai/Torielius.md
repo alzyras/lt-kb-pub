@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Torielius
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Torielius
@@ -41,17 +42,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
-  teiginys: 'Viršaitis per aukojimo apeigą nešė duonos šmotelį ant torieliaus ir midaus kaušą arba taurę.'
+- t-001
+  teiginys: 'Viršaitis per apeigą duonos šmotelį padėjo ant torieliaus.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Viršaitis per aukojimo apeigą nešė duonos šmotelį ant torieliaus ir midaus kaušą arba taurę.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Viršaitis per apeigą duonos šmotelį padėjo ant torieliaus.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
         vaideliotų, arba žynių, susirinkus taip pat svietui vienos apygardos į pašėtrį po visų dideliuoju
@@ -60,11 +61,11 @@ Nenurodyta
         aukuro ir stabo, šėtre stovinčio, meldės, pakaitomis su svietu giedodamas, kaip viršiau regėjom.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Pastabos
 
@@ -73,6 +74,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
+- [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Taurės]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/daiktai/Dievų stabai]]

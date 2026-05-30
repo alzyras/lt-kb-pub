@@ -26,6 +26,7 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
 ---

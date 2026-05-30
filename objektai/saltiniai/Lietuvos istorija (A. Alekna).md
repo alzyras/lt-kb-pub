@@ -19,6 +19,7 @@ amziai:
 date_start: '1911'
 date_end: '1936'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - mokslininkas
   - saltinis

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - ordinas
@@ -52,7 +53,7 @@ Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Ven
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Butrimas]]
+- [[objektai/autoriai/A. Butrimas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vaclovas]]
 - [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]

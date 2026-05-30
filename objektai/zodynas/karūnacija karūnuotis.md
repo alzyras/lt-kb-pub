@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - dokumentas
   - sąvoka
@@ -66,13 +67,9 @@ Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo suma
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/savarankiškumas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

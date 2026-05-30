@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - ežeras
@@ -65,5 +66,9 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Cipelis]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/asmenys/Skomantas]]
+- [[objektai/grupes/Sūduviai]]
 - [[objektai/grupes/Vokiečiai]]

@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Bomba"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Bomba"
 aliases: []
@@ -22,6 +22,7 @@ amziai:
 date_start: '1921'
 date_end: ''
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - ginklas
 ---

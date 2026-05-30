@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Sąjūdžio masiniai mitingai ir reikalavimų viešinimas"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -26,6 +26,7 @@ dalyviai:
   - "mitingų dalyviai"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Sąjūdžio masiniai mitingai ir reikalavimų viešinimas

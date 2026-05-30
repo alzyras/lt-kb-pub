@@ -18,6 +18,7 @@ amziai:
 date_start: '1936'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - seimas

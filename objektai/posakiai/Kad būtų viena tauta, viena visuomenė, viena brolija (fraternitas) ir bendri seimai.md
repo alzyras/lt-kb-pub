@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - elekcija
   - karalius
@@ -70,8 +71,5 @@ tags:
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]

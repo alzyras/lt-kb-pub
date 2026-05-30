@@ -1,0 +1,68 @@
+---
+tipas: vieta
+pavadinimas: 'Kriukai'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - ežeras
+  - ginklas
+  - mūšis
+  - upė
+---
+# Kriukai
+
+## Santrauka
+
+Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų. Dusburgietis teigia, kad 306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D. III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher A., Die Bau..., 2, p. 65; GAO, p. 74).
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D. III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher A., Die Bau..., 2, p. 65; GAO, p. 74).'
+  pagrindžia:
+    - c-002
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau, išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dėl to magistras pasiuntė daug brolių ir ginklanešių, kurie, pasitelkę Elbingo ir Baigos
+    brolius, su ginklu rankose įsibrovė į Notangos žemę, viską degindami ir grobdami, tačiau,
+    išžudę galybę žmonių ir sugalvoję grįžti namo, rado visus kelius priešų užstotus, todėl,
+    negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306. Prūsai, šitai išvydę,
+    juos apsupo, bet nedrįso  į kaimą brautis, o broliai — iš kaimo išeiti  ir stoti  į mūšį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad 306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D. III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher A., Die Bau..., 2, p. 65; GAO, p. 74).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    306 D. ir Jer. Crucke, kaimas per 6 km į pietus nuo Kroicburgo (žr. paaiškinimus D.
+    III, 27, 2), netoli ežerėlio tarp Kaustros ir Pasmaros upių (Sch-K XI; VBK; Boetticher
+    A., Die Bau..., 2, p. 65; GAO, p. 74).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

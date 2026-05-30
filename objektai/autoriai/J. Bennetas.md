@@ -17,6 +17,7 @@ amziai:
 date_start: '1615'
 date_end: '1674'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - autorius
   - mūšis
@@ -63,4 +64,5 @@ Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/ivykiai/Chotyno mūšis|Chotyno mūšis (mūšis)]]

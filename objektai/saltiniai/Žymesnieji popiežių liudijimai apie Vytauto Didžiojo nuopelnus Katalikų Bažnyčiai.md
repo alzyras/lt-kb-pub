@@ -21,6 +21,7 @@ amziai:
 date_start: '1350'
 date_end: '1962'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - popiežius
   - saltinis

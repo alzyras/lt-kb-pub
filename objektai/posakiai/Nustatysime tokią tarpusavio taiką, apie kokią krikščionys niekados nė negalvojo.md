@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "talem pacem ordinabimus ininuicem quod Christiani similem nunquam senciebant"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo
@@ -121,3 +122,4 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

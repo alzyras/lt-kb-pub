@@ -35,6 +35,7 @@ dalyviai:
   - 'LDK bajorija'
 susije_irasai: []
 laikotarpis: '1700 m. lapkričio 18 d.'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - ivykis

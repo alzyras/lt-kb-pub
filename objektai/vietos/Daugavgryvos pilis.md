@@ -19,6 +19,7 @@ amziai:
 date_start: '1328'
 date_end: '1329'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ordinas
   - pilis

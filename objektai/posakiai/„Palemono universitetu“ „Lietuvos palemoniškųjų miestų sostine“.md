@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - miestas
   - posakis
@@ -44,5 +45,7 @@ Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos va
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lotynai]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
+- [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Romėnai]]

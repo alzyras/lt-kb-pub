@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # A. Vijūko-Kojelavičiaus Lietuvos istorija

@@ -23,6 +23,7 @@ amziai:
 date_start: '1325'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
 ---
@@ -266,6 +267,7 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
 - [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Aukštaičiai]]
 - [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Auksinė Orda]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - mokslininkas
   - ordinas
@@ -51,4 +52,4 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Raštu neužrašyti darbai pražūna iš atminties"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Kad savo metu nuveikti žmonių darbai iš mirtingųjų atminties neišnyktų"
   - "Tie darbai, jeigu nebuvo raštu užrašyti, lengvai žmonių atmintyje pražūna"
@@ -25,6 +25,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Raštu neužrašyti darbai pražūna iš atminties
@@ -148,5 +149,7 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Žygimantas]]

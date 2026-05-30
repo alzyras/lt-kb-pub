@@ -16,6 +16,7 @@ amziai:
 date_start: '1413'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - kunigaikštis
@@ -159,4 +160,5 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 - [[objektai/daiktai/Herbai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/nobilitetas]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/zodynas/sankcija]]

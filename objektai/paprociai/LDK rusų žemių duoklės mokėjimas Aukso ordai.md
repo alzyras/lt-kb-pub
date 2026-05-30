@@ -11,6 +11,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - paprotys
 ---
@@ -74,7 +75,7 @@ Nenurodyta
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Mongolai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]

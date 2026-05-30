@@ -17,6 +17,7 @@ amziai:
 date_start: '1940'
 date_end: '1988'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - tauta
   - valstybė

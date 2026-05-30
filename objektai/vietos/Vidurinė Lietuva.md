@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: "Vidurinė Lietuva"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Vidurinė Lietuva"
   - "Vidurinės Lietuvos"
@@ -25,6 +25,7 @@ amziai:
 date_start: '1920'
 date_end: '1922'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - vieta
 ---

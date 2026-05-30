@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - krikštas
@@ -55,9 +56,6 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/magistras]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - diplomatas
@@ -73,9 +74,6 @@ tags:
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/regestai]]

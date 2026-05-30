@@ -19,6 +19,7 @@ amziai:
 date_start: '1413'
 date_end: '1416'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - kunigas
@@ -75,11 +76,7 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/unija]]

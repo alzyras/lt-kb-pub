@@ -20,6 +20,7 @@ amziai:
 date_start: '1948'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - vieta
 ---

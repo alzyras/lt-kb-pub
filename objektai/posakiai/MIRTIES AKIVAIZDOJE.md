@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
 ---
@@ -54,3 +55,4 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
 - [[objektai/asmenys/Antanas Šukys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/viršila]]
+- [[objektai/asmenys/Ditrichas (Velzaco pilies kunigas)]]

@@ -1,13 +1,14 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: perveiza
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - perveizėjo
   - perveizos
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # perveiza
 
@@ -66,4 +67,5 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Žemlionys]]
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/Žemlionis|žemlionis]]

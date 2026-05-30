@@ -1,0 +1,192 @@
+---
+tipas: asmuo
+pavadinimas: 'Mstivojus'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1244 m.'
+  - '1299 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+date_start: '1244'
+date_end: '1299'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - asmuo
+  - kunigaikštis
+  - pilis
+  - upė
+---
+# Mstivojus
+
+## Santrauka
+
+Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą]. Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis. Dusburgietis teigia, kad šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą].'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad mstivojus, Pomeranijos kunigaikštis, anksčiau nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas, paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą tarp jo ir magistro bei brolių.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję, turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą, Samborą.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Dusburgietis teigia, kad sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus metus išlaikė savo valdžioje prieš brolių valią.'
+  pagrindžia:
+    - c-006
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą].'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dėl to,
+    brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių
+    sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį,
+    o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą] bei
+    savo kariuomenės vadą Vojaką [Vojachą], be to, paliesdamas ranka švenčiausias dievo
+    evangelijas, prisieksiąs, kad padėsiąs broliams prieš netikėlius, kai šitai būsią reikalinga,
+    ir kad nuo šiol nekamuosiąs nei tikėjimo, nei tikinčiųjų tokiomis baisybėmis, kokių prieš
+    tai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu
+    patvirtintą277. Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė
+    surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
+    šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
+    palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
+
+       Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop
+    paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis
+    aplinkybėmis, kuris patarė pasiųsti Austrijos kunigaikščiui Mstivojų, Sventopelko sūnų,
+    kaip įkaitą ir Prūsijos žemės bei brolių likimą patikėti Vokietijos, Čekijos, Krokuvos ir
+    Lenkijos kraštams, nes matė, kad tikėjimo ir brolių reikalai bematant čia žūsią, jeigu
+    nepaskubėsianti ateiti ir dieviškoji, ir jų pagalba. Kai šitai buvo padaryta, 1244 atvyko
+    brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Tėvui
+    mirus400 (1299 m. sausio 11 d.), tapęs Pomeranijos kunigaikščiu, akiplėšiškai pradėjo
+    eiti tais klaidingais keliais, kuriais kadaise ėjo tėvas, paakino prūsų kariuomenę deginti
+    ir plėšti Kulmo žemę bei Pamedės vyskupystę, tas jos žemes, kurios buvo prieš jo
+    Nojenburgo pilį401; prūsai nuo vieno Vyslos kranto, o Nojenburgo pilėnai nuo kito užpuolė
+    penkiolika brolių laivų, prikrautų visokiausių reikmenų tikėjimui bei tikintiesiems ginti;
+    galop laivininkai turėjo visą krovinį iš laivų išmesti į upę, nes kitaip patys nebūtų pabėgę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad mstivojus, Pomeranijos kunigaikštis, anksčiau nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas, paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą tarp jo ir magistro bei brolių.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Mstivojus, Pomeranijos kunigaikštis, anksčiau
+    nelyginant siautėjantis liūtas skriaudęs brolius ir jų valdinius, dabar, pats nusiaubtas,
+    paliovė tūžęs ir nuolankiai bei karštai paprašė magistrą sutikti atnaujinti kadaise sudarytą
+    tarp jo ir magistro bei brolių taikos susitarimą.
+
+
+
+
+                   130 (125).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję, turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą, Samborą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
+
+      Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
+    turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,
+    Samborą, Vartislavą bei dar vieną507.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Dusburgietis teigia, kad sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus metus išlaikė savo valdžioje prieš brolių valią.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Sitai sužinojęs, Mstivojus užgrobė šias tris Pomeranijos kunigaikštystės dalis ir jas ilgus
+    metus išlaikė savo valdžioje prieš brolių valią. Galop atvyko jo šventenybė Pilypas, Fermo
+    vyskupas, apaštališkojo sosto legatas, atsiųstas  į Lenkijos žemę, ir brolis Konradas iš
+    Tirbergo, magistras, jam nusiskundė dėl minėtojo Mstivojaus daromų Prūsijos broliams
+    skriaudų šiose trijose minėtosios kunigaikštystės dalyse bei pateikė įžymiąją privilegiją,
+    (SRP, 1, p.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
+- [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]
+- [[objektai/asmenys/Pilypas (Fermo vyskupas)]]
+- [[objektai/asmenys/Rabė]]
+- [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
+- [[objektai/ivykiai/Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje|Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)]]

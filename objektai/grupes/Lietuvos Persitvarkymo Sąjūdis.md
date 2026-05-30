@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvos Persitvarkymo Sąjūdis"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "LPS"
   - "Sąjūdis"
@@ -31,6 +31,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Lietuvos Persitvarkymo Sąjūdis
@@ -400,11 +401,11 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Romualdas Ozolas]]
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Dailininkų sąjunga]]

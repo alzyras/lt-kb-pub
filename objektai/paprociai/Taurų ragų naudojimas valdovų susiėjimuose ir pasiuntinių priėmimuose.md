@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose
@@ -108,4 +109,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

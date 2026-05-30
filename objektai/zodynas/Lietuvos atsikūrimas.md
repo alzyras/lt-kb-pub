@@ -16,6 +16,7 @@ amziai:
 date_start: '1918'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
   - tauta
@@ -63,6 +64,7 @@ tags:
 - [[objektai/ivykiai/1991 m. sausio 13 d]]
 - [[objektai/autoriai/Albertas Daugirdas]]
 - [[objektai/autoriai/Andžej Geglis]]
+- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Loreta Uzdraitė]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -57,7 +58,9 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
 ### Susiję objektai
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
 - [[objektai/asmenys/Muradas II]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Paleologas]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/asmenys/Jonas Paleologas]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]

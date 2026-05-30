@@ -25,6 +25,7 @@ amziai:
 date_start: '1699'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Husarų lydėjimas į seimo rinkimus (seimas)

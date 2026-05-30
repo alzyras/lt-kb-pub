@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karas
   - posakis
@@ -53,4 +54,4 @@ Jadvyga savo „wiesz­ czym duchem“ (pranašingu nujautimu), kaip sako Procha
 ### Susiję objektai
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 9.
+Objektų skaičius: 10.
 
 ## Kaip naudoti
 
@@ -30,6 +30,7 @@ Objektų skaičius: 9.
 - [[objektai/daiktai/Šernų amuletai]]
 
 ### Papročiai
+- [[objektai/paprociai/Moterų tvirtovių gynyba vyrams išvykus]]
 - [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
 
 ### Žodynas

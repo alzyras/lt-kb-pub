@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Municipalinė teisėtvarka"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "municipalinė teisėtvarka"
   - "municipaliniai liudijimai"
@@ -31,6 +31,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Municipalinė teisėtvarka
@@ -143,6 +144,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Saracėnai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/feodalizmas]]

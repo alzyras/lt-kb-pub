@@ -24,6 +24,7 @@ amziai:
 date_start: '1945'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės 7 d.)

@@ -16,6 +16,7 @@ amziai:
 date_start: '1289'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - kunigaikštis

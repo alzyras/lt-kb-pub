@@ -17,6 +17,7 @@ amziai:
 date_start: '1957'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - saltinis

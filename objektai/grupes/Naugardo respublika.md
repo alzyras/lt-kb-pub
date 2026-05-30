@@ -16,6 +16,7 @@ amziai:
 date_start: '1375'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - sutartis
@@ -55,7 +56,7 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]

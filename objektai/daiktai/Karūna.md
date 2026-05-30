@@ -34,6 +34,7 @@ amziai:
 date_start: '1251'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - daiktas
   - dokumentas
@@ -684,24 +685,20 @@ Nenurodyta
     - t-027
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Husitai]]
 - [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Mantas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Zig. Rothas]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/unija]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]
 - [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
-- [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
 - [[objektai/asmenys/Hinka iš Valdšteino]]
 - [[objektai/asmenys/J. Mikoliūnas]]
@@ -715,8 +712,8 @@ Nenurodyta
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
 - [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Morta]]
+- [[objektai/autoriai/O. Halecki]]
 - [[objektai/ivykiai/Salyno sutartis]]
 - [[objektai/asmenys/Stanislovas Ciołek]]
 - [[objektai/paprociai/Suvažiavimų rengimas arti Lietuvos sienos]]
@@ -724,6 +721,7 @@ Nenurodyta
 - [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
 - [[objektai/asmenys/Vilhelmas Habsburgas]]
 - [[objektai/asmenys/Vladislovas Oporovskis]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/asmenys/Ziemovitas III]]
 - [[objektai/asmenys/Zigmantas Kaributas]]
@@ -739,7 +737,6 @@ Nenurodyta
 - [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
 - [[objektai/grupes/Krokuvos profesoriai]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/grupes/Vengrai]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/zodynas/inkorporacija]]
 - [[objektai/ivykiai/Sandomiro pasitarimas dėl Vytauto karūnacijos (1429 m. rugsėjo 8 d.)]]

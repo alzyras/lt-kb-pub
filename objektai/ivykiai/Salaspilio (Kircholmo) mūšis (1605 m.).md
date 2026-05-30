@@ -44,6 +44,7 @@ dalyviai:
   - 'Švedijos kariuomenė'
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-05-02'
 tags:
   - mūšis
 ---
@@ -286,10 +287,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Liuneburgietis]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/grupes/Totoriai]]

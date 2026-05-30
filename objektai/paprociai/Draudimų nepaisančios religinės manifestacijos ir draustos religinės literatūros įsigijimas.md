@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -22,6 +22,7 @@ dalyviai:
   - "tikintieji"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags:
   - tikėjimas
 ---
@@ -82,7 +83,6 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
-- [[temos/tikėjimas]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]

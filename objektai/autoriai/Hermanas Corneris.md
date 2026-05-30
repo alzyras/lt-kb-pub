@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Hermanas Corneris"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Hermanas Korneris"
   - "Hermano Cornerio"
@@ -23,6 +23,7 @@ vaidmenys:
   - metraštininkas
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
 ---

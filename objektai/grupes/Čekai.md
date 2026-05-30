@@ -19,6 +19,7 @@ amziai:
 date_start: '1413'
 date_end: '1421'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - karalius
@@ -133,11 +134,13 @@ tags:
 - [[objektai/grupes/Husitai]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Abelis]]
 - [[objektai/asmenys/Bajazitas]]
 - [[objektai/asmenys/Boleslovas Maldingasis]]
 - [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
 - [[objektai/asmenys/Enejas Silvijus Picolomini]]
 - [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/asmenys/Henrikas (Danijos karalius)]]
 - [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
 - [[objektai/grupes/Jogailos palikuonys]]
 - [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
@@ -148,6 +151,7 @@ tags:
 - [[objektai/asmenys/Prokopas]]
 - [[objektai/asmenys/Russdorfas]]
 - [[objektai/posakiai/Tėve mūsų ir Tikiu Dievą]]
+- [[objektai/asmenys/Vaclovas (čekų kunigaikštis)]]
 - [[objektai/asmenys/Vaclovas Pragiečius]]
 - [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
 - [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
@@ -157,6 +161,7 @@ tags:
 - [[objektai/zodynas/ekskomunika]]
 - [[objektai/zodynas/grašis]]
 - [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/rublis]]
 - [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
 - [[objektai/grupes/Čekijos husitai]]

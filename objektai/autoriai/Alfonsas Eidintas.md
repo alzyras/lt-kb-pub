@@ -29,6 +29,7 @@ amziai:
 date_start: '1991'
 date_end: '2013'
 patikimumas: aukštas
+atnaujinta: '2026-05-06'
 tags:
   - autorius
   - mokslininkas

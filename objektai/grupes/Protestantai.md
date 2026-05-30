@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - didikas
   - grupe
@@ -88,14 +89,10 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
 - [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
 - [[objektai/grupes/Kalvinai]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/ivykiai/Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)]]
 - [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]

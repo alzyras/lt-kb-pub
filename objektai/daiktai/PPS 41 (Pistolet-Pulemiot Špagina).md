@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
   - ginklas
@@ -71,5 +72,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/zodynas/pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis]]

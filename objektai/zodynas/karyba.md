@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dokumentas
   - ordinas
@@ -92,12 +93,10 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Hermanas]]
 - [[objektai/autoriai/Algimantas Daugirdas]]
+- [[objektai/autoriai/Andžej Geglis]]
+- [[objektai/autoriai/Beckherrn C]]
 - [[objektai/daiktai/Buzdyganas]]
 - [[objektai/autoriai/Darius Baronas]]
 - [[objektai/autoriai/Eduardas Brusokas]]

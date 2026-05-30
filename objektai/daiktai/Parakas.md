@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: "Parakas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - parakas
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Parakas

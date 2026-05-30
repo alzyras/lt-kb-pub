@@ -11,6 +11,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - kunigas
   - mokslininkas
@@ -169,6 +170,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lenkai]]

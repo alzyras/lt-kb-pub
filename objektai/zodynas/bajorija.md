@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - kunigaikštis
@@ -66,7 +67,6 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/grupes/Lenkijos bajorija]]
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/paprociai/Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/paprociai/Lietuvos bajorijos seimai]]
 - [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]
@@ -77,6 +77,7 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/posakiai/Niekad, niekados]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/grupes/Pijarų ordinas]]
+- [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]
 - [[objektai/ivykiai/Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)]]
 - [[objektai/zodynas/Riterių luomas]]
 - [[objektai/posakiai/Tegyvuoja gegužės 3 d. konstitucija!]]
@@ -94,13 +95,14 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/zodynas/jakobinizmas jakobinų klubas]]
+- [[objektai/zodynas/kitatikiai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/memorialas]]
 - [[objektai/zodynas/oficialusis kultūros modelis]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]
-- [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
 - [[objektai/zodynas/polonizacija integracinė kalba]]
+- [[objektai/zodynas/pulka polka campus laukas]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/zodynas/vaivada]]
@@ -109,7 +111,6 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/zodynas/činšininkai]]
 - [[objektai/zodynas/činšininkas]]
 - [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/zodynas/žemės santykiais pagrįsta periodizacija]]
 - [[objektai/paprociai/Bajorijos karo prievolės vengimas ir samdytinė kariuomenė]]
 - [[objektai/asmenys/Motiejus Strijkovskis]]

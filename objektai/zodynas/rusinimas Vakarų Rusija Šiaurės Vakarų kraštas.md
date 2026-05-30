@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - kraštas
   - sąvoka
@@ -67,4 +68,3 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/rusinimas]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]

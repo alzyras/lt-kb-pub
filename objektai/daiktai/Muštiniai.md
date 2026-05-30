@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Muštiniai
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - muštiniais
 aliases: []
@@ -18,6 +18,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukstas
+atnaujinta: '2026-04-24'
 tags:
   - pinigai
 ---

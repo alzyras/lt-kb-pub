@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: "Europos geografinis centras"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Europos geografinis centras"
   - "geografinis Europos centras"
@@ -21,6 +21,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - vieta
 ---

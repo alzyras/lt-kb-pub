@@ -17,6 +17,7 @@ amziai:
 date_start: '1940'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - valstybė
   - vieta

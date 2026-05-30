@@ -32,6 +32,7 @@ amziai:
 date_start: '1416'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - grupe
   - miestas
@@ -423,14 +424,14 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/grupes/Rygiečiai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Barbora Cyleikaitė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Povilas Russdortas]]
 - [[objektai/zodynas/lėnininkai]]
 - [[objektai/zodynas/pirklių kontora]]
 - [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

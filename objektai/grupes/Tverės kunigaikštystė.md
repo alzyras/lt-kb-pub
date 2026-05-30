@@ -18,6 +18,7 @@ amziai:
 date_start: '1368'
 date_end: '1372'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - grupe
@@ -57,5 +58,4 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]

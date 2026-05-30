@@ -38,6 +38,7 @@ amziai:
 date_start: '1581'
 date_end: '1919'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - miestas
   - mūšis

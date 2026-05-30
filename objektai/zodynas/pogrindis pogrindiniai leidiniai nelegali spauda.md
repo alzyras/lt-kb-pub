@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dokumentas
   - sąvoka
@@ -83,11 +84,9 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
 - [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]

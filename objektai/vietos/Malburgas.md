@@ -23,6 +23,7 @@ amziai:
 date_start: '1235'
 date_end: '1404'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ordinas
   - popiežius

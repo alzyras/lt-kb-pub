@@ -16,6 +16,7 @@ amziai:
 date_start: '1859'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - posakis
   - tauta
@@ -62,6 +63,6 @@ Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesu
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/asmenys/Mikalojus Akelaitis]]
+- [[objektai/autoriai/Mikalojus Akelaitis]]
 - [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
 - [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]

@@ -4,6 +4,8 @@ pavadinimas: 'Aprėpties spragų auditas - Lietuvos istorija (2013 m.) - 2026-05
 statusas: reikia tęsti
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Coverage gap auditas
 

@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - diplomatas
   - sąvoka
@@ -66,4 +67,5 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/diplomatija]]

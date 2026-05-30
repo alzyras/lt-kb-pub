@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - didikas
   - kunigas
@@ -63,10 +64,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/protestantizmas]]

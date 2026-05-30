@@ -17,6 +17,7 @@ amziai:
 date_start: '1422'
 date_end: '1435'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karas
   - paprotys
@@ -76,7 +77,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/daiktai/Varpai]]

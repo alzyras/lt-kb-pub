@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Šubravcų elgesio kodekso normos ir saviugdos reikalavimai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Šubravcų elgesio kodekso normos ir saviugdos reikalavimai

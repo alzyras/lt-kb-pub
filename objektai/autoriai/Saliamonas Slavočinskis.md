@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Saliamonas Slavočinskis"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Saliamono Slavočinskio"
 aliases: []
@@ -23,6 +23,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
 ---

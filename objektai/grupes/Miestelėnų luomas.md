@@ -21,6 +21,7 @@ amziai:
 date_start: '1387'
 date_end: '1430'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - miestas
@@ -87,6 +88,6 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/grupes/Žydai]]

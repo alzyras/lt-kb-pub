@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - kunigaikštis
@@ -162,6 +163,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - [[objektai/zodynas/Municipalinė teisėtvarka]]
 - [[objektai/zodynas/Riterių luomas]]
 - [[objektai/autoriai/Z. Raulinaitis]]
+- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
 - [[objektai/zodynas/sritinė kunigaikštystė]]
 - [[objektai/zodynas/ankstyvasis feodalizmas kiemai]]

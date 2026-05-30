@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karalius
   - popiežius
@@ -87,6 +88,14 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - [[objektai/grupes/Krokuvos profesoriai]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
+- [[objektai/asmenys/Albrechtas (Romos karalius)]]
+- [[objektai/asmenys/Benediktas XI]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/asmenys/Inocentas V]]
+- [[objektai/asmenys/Vaclovas (Čekijos karalius)]]
+- [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]
+- [[objektai/ivykiai/Sicilijos prancūzų žudynės (1281 m.)]]
+- [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.)]]
 - [[objektai/grupes/Vienos universiteto profesoriai]]
 - [[objektai/asmenys/Dr. Baptistas Cigala]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]

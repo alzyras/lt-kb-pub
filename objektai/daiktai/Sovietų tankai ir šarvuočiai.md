@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Sovietų tankai ir šarvuočiai"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Sovietų tankai ir šarvuočiai"
 aliases: []
@@ -23,6 +23,7 @@ amziai:
 date_start: '1991'
 date_end: ''
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - transportas
 ---

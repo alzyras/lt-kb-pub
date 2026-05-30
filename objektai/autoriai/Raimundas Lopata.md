@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Raimundas Lopata"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Prof. dr. Raimundas Lopata"
   - "Raimundą Lopatą"
@@ -27,6 +27,7 @@ amziai:
 date_start: '2013'
 date_end: ''
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - mokslininkas

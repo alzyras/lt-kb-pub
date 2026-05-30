@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - autorius
   - mokslininkas
@@ -72,6 +73,6 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Andrius Sniadeckis]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
-- [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis (istorikas)]]
+- [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
 - [[objektai/asmenys/Johanas Pėteris Frankas]]
 - [[objektai/asmenys/Jozefas Frankas]]

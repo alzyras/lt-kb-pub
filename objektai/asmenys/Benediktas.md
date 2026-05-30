@@ -16,6 +16,7 @@ amziai:
 date_start: '1387'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -56,3 +57,5 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
 ### Susiję objektai
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/grupes/Švento Benedikto ordinas]]

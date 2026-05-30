@@ -22,6 +22,7 @@ amziai:
 date_start: '1034'
 date_end: '1349'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karalius
   - krikštas

@@ -13,16 +13,6 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1260 m.'
-datos:
-  - '1260 m.'
-  - '1260 m. liepos 13 d.'
-periodas: 'viduramziai'
-periodo_grupes:
-  - '[]'
-amziai:
-  - 'XIII'
-date_start: '1260'
-date_end: '1260'
 vaidmenys:
   - '[]'
 dalyviai:
@@ -34,7 +24,24 @@ dalyviai:
   - 'latgaliai'
 susije_irasai:
   - '[]'
+datos:
+  - '1219 m.'
+  - '1227 m.'
+  - '1238 m.'
+  - '1259 m.'
+  - '1260 m.'
+  - '1261 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+  - '[]'
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+date_start: '1219'
+date_end: '1261'
 patikimumas: 'aukstas'
+atnaujinta: '2026-04-24'
 tags:
   - ivykis
   - karas
@@ -63,83 +70,67 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 Žemaičiai laimėjo mūšį. Jame žuvo visa ordino vadovybė ir beveik visi broliai, o tai tapo sunkiu smūgiu Livonijos ordinui.
 
 ## Teiginiai
-- t-007
-  teiginys: 'Durbės mūšis kilo po didelio Ordino puolimo ir pajėgų telkimo Klaipėdoje.'
+- t-011
+  teiginys: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai. Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos žmonės, tvirtindami, kad su jų.'
   pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Prieš Durbės mūšį Livonijos ir Prūsijos ordinai veržėsi į Lietuvą Nemunu ir 1259 m. pastatė Georgenburgo-Jurgio pilį.'
+    - c-005
+- t-012
+  teiginys: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Po Durbės mūšio Mindaugas 1261 m. atsimetė nuo krikščionybės, susigrąžino atiduotas teritorijas ir atnaujino kovą prieš vokiečius.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-006
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Po Durbės mūšio Mindaugas 1261 m. atsimetė nuo krikščionybės, susigrąžino atiduotas teritorijas ir atnaujino kovą prieš vokiečius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-005
+  santrauka: 'Dusburgietis teigia, kad tuo tarpu atvyko kuršiai, nuolankiai prašydami, kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai. Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos žmonės, tvirtindami, kad su jų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    1259 m. atidavė visą Žemaitijos @ (beveik iki pat Šventosios upės) ir(3 Dainavos teritoriją. Po Durbės mūšio 1261 m.
-
-    atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas bei atnaujino kovos veiksmus prieš vokiečius
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    Tuo tarpu atvyko kuršiai, nuolankiai prašydami,
+    kad, dievui padėjus krikščionims laimėti, jiems būtų sugrąžintos jų moterys ir vaikai.
+    Nors broliai buvo linkę jų prašymą patenkinti, pasipriešino tam kiti Prūsijos ir Livonijos
+    žmonės, tvirtindami, kad su jų belaisviais bus pasielgta taip, kaip reikalauja elgtis
+    visiems žinomi karo papročiai. Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
+    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
+    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
+    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
+    ištikimus.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
-- c-002
-  santrauka: 'Prieš Durbės mūšį Livonijos ir Prūsijos ordinai veržėsi į Lietuvą Nemunu ir 1259 m. pastatė Georgenburgo-Jurgio pilį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+    - t-011
+- c-006
+  santrauka: 'Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš užpakalio348, beveik.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Šia situacija pasinaudojo Livonijos ir
-    Prūsijos ordinai. Jie ėmė veržtis gilyn į
-    Lietuvą Nemunu. 1259 m. Karšuvos že-
-    mėje kryžiuočiai pastatė Georgenbur-
-    go-Jurgio pilį (greičiausiai ji įkurta
-    Nemuno dešiniajame krante, Jurbarko
-    Bišpiliukų piliavietėje).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
+    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
+    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
+    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
+    ištikimus. Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,
+    sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,
+    pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,
+    užuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o
+    užuot gėrę saldų medaus vyną, arba midų, kurio ne kartą esate gavę iš brolių rankų,
+    gerkite šiandien žiaurios mirties kartėlį, išpažindami tikrąjį amžinosios trejybės tikėjimą”.
+    Po to jie vyriškai stojo  į kovą ir grūmėsi nelyginant antrieji Makabėjai, o ten prasidėjo
+    didelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-008
-- c-003
-  santrauka: 'Durbės mūšis kilo po didelio Ordino puolimo ir pajėgų telkimo Klaipėdoje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    tarp šių dviejų pilių. Iš Dobės (šiaurėje),
-    Klaipėdos (vakaruose) ir Georgenburgo
-    (pietuose) Ordinas bandė spausti vakari-
-    nes lietuvių žemes. Vokiečiai siekė išsau-
-    goti lietuvių blokuojamą Georgenburgą
-    (Jurbarką), būrė dideles pajėgas Klaipė-
-    doje, rengdamiesi dideliam puolimui, kuris
-    galiausiai baigėsi mūšiu prie Durbės.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/Kilmingieji]]
+- [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/apostazija]]
-- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Noliubas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
+- [[objektai/asmenys/Sklodas iš Kvedenavos]]
+- [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]

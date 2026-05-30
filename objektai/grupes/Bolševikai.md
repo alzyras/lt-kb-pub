@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - tauta
@@ -104,6 +105,7 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
 - [[objektai/grupes/Latvijos kariuomenė]]
 - [[objektai/grupes/Lietuvių aviacijos eskadrilė]]
+- [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
 - [[objektai/asmenys/M. Pečiulionis]]
 - [[objektai/asmenys/Marcinkevičius]]

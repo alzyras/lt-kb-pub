@@ -16,6 +16,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
 ---
@@ -628,7 +629,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
 - [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
-- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
 - [[objektai/ivykiai/Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)]]
 - [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
@@ -638,7 +638,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije]]
 - [[objektai/posakiai/dux Russiae]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/posakiai/Saugokis manęs, kaip ir aš tavęs saugaus]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]

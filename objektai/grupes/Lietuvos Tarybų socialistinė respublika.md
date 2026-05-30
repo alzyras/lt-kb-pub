@@ -18,6 +18,7 @@ amziai:
 date_start: '1940'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - tauta
@@ -64,5 +65,6 @@ tags:
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika]]
 - [[objektai/zodynas/suverenumas]]

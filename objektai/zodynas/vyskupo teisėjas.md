@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ordinas
   - sąvoka
@@ -84,15 +85,12 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Lankai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/komtūras]]
+- [[objektai/daiktai/Žirgai]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
 - [[objektai/daiktai/Vėliavos]]

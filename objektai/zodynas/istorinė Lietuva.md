@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "istorinė Lietuva"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "istorine Lietuva"
   - "istorinės Lietuvos"
@@ -25,6 +25,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # istorinė Lietuva
@@ -152,6 +153,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
+- [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
 - [[objektai/zodynas/Lite litvakai]]
 - [[objektai/zodynas/litvakai Lite litviš]]
 - [[objektai/zodynas/senalietuviai jaunalietuviai]]

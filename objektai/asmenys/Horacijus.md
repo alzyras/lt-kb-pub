@@ -16,6 +16,7 @@ amziai:
 date_start: '1646'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
 ---
@@ -56,3 +57,4 @@ Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į a
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Lotynai]]

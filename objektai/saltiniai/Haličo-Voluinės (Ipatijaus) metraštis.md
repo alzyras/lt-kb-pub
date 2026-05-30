@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Haličo-Voluinės (Ipatijaus) metraštis"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Haličo-Voluinės metraštis"
   - "Ipatijaus metraštis"
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Haličo-Voluinės (Ipatijaus) metraštis

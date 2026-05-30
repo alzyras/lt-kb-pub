@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Viešumas, demokratija, suverenumas"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai: []
 aliases: []
 saltiniai:
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # Viešumas, demokratija, suverenumas

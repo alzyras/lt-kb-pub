@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Metai"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "poema „Metai“"
 aliases: []
@@ -24,6 +24,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Metai

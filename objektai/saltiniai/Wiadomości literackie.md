@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Wiadomości literackie"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "„Wiadomości literackie“"
 aliases: []
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Wiadomości literackie

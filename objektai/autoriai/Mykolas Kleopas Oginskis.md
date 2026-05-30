@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Mykolas Kleopas Oginskis"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -26,6 +26,7 @@ amziai:
 date_start: '1794'
 date_end: '1806'
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - bajoras

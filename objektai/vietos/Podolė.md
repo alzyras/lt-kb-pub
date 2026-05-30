@@ -1,7 +1,7 @@
 ---
 tipas: "vieta"
 pavadinimas: "Podolė"
-sukurta: "2026-04-25"
+sukurta: '2026-04-25'
 variantai:
   - "Podolija"
   - "Podolė"
@@ -44,6 +44,7 @@ amziai:
 date_start: '1320'
 date_end: '2026'
 patikimumas: "vidutinis"
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # Podolė

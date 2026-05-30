@@ -17,6 +17,7 @@ amziai:
 date_start: '1425'
 date_end: '1427'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - kraštas
@@ -142,7 +143,7 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/saar]]

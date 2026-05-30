@@ -3,10 +3,12 @@ tipas: autorius
 pavadinimas: 'Konstantinas Širvydas'
 sukurta: '2026-04-25'
 variantai: []
-aliases: []
+aliases:
+  - 'Konstantinas Sirvydas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - autorius
 ---
@@ -23,7 +25,6 @@ Jėzuitas Konstantinas Širvydas 1629 m. išleido pamokslų rinkinį.
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jėzuitas Konstantinas Širvydas 1629 m. išleido pamokslų rinkinį.'

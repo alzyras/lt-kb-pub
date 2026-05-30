@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 8.
+Objektų skaičius: 14.
 
 ## Kaip naudoti
 
@@ -18,16 +18,26 @@ Objektų skaičius: 8.
 
 ## Susiję objektai
 
+### Asmenys
+- [[objektai/asmenys/Antiochas Epifanas]]
+- [[objektai/asmenys/Judas Makabėjus]]
+
 ### Autoriai
+- [[objektai/autoriai/Kučinskas A]]
 - [[objektai/autoriai/P. Tarasenka]]
 
 ### Daiktai
+- [[objektai/daiktai/Katilas]]
 - [[objektai/daiktai/Vytauto paminklai]]
+
+### Grupės
+- [[objektai/grupes/Baltų žyniai]]
 
 ### Papročiai
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Pagoniškosios Lietuvos tikybinės apeigos]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
+- [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga]]
 
 ### Įvykiai
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]

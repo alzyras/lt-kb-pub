@@ -33,6 +33,7 @@ dalyviai:
   - 'dar trys neatpažinti partizanai'
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-05-02'
 tags:
   - mūšis
 ---
@@ -95,7 +96,7 @@ Nenurodyta
 - [[objektai/autoriai/Maironis]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/ivykiai/Užpelkių kautynės]]

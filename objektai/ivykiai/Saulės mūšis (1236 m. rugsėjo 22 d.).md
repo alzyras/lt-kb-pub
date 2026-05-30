@@ -40,6 +40,7 @@ susije_irasai:
   - 'Šiauliai'
   - 'Kryžiuočių ordinas'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - karas
@@ -179,6 +180,7 @@ Nenurodyta
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Estai]]
 - [[objektai/grupes/Kuršiai]]

@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Pranciškus Malevskis"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Pranciškus Malevskis"
   - "Pranciškui Malevskiui"
@@ -21,6 +21,7 @@ vaidmenys:
   - mokslininkas
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
   - mokslininkas

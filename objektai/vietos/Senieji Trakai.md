@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: "Senieji Trakai"
-sukurta: "2026-04-28"
+sukurta: '2026-04-28'
 variantai:
   - "S. Trakai"
   - "S. Trakuose"
@@ -25,6 +25,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Senieji Trakai

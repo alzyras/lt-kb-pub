@@ -17,6 +17,7 @@ amziai:
 date_start: '1621'
 date_end: '1623'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - paliaubos
   - tauta

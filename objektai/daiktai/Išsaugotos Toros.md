@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Išsaugotos Toros"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Išsaugotos Toros"
   - "300 Torų"
@@ -23,6 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags:
   - dokumentas
 ---
@@ -83,9 +84,6 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/grupes/Žydai]]

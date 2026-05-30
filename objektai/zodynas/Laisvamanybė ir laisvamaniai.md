@@ -22,6 +22,7 @@ dalyviai: []
 susije_irasai:
   - '[[Jonas Šliūpas]]'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - sąvoka
   - tauta
@@ -77,3 +78,4 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
 - [[objektai/zodynas/laisvamanybė laisvamaniai]]
 - [[objektai/zodynas/tautinės bažnyčios]]
 - [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]
+- [[objektai/asmenys/Jonas]]

@@ -1,10 +1,11 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: stigavoja
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # stigavoja
 
@@ -79,4 +80,5 @@ Papildomos aiškios formos neišskirtos.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus]]

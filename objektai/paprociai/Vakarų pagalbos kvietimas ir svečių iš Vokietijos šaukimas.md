@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags: []
 ---
 # Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas
@@ -74,4 +75,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/kryžininkai]]

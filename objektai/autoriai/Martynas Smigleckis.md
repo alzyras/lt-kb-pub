@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Martynas Smigleckis"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Martyno Smigleckio"
 aliases: []
@@ -25,6 +25,7 @@ amziai:
 date_start: '1618'
 date_end: '1640'
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - mokslininkas
@@ -127,4 +128,5 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Lotynai]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]

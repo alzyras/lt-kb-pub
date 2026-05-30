@@ -18,6 +18,7 @@ amziai:
 date_start: '1881'
 date_end: '1911'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - valstybė

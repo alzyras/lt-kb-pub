@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Andrius Rudamina"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Andrių Rudaminą"
 aliases: []
@@ -25,6 +25,7 @@ amziai:
 date_start: '1626'
 date_end: '1634'
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - dvasininkas

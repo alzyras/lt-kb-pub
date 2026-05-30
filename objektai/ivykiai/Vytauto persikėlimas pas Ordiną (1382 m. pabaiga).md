@@ -16,6 +16,7 @@ amziai:
 date_start: '1382'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - krikštas
@@ -94,7 +95,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/tėviškė]]

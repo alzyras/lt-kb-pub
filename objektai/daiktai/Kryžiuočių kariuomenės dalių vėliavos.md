@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Kryžiuočių kariuomenės dalių vėliavos
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - Tanenbergo mūšio vėliavos
   - 51 kryžiuočių kariuomenės vėliava
@@ -22,6 +22,7 @@ dalyviai:
 susije_irasai:
   - [[objektai/asmenys/Jogaila|Jogaila]]
 patikimumas: aukstas
+atnaujinta: '2026-04-24'
 tags:
   - simbolis
 ---
@@ -121,7 +122,6 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

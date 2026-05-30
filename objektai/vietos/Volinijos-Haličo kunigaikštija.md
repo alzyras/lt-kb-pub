@@ -17,6 +17,7 @@ amziai:
 date_start: '1267'
 date_end: '1269'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigaikštis
   - valstybė

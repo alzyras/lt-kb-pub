@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vamzdžiai'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - 'molio pypynės'
 aliases: []
@@ -18,6 +18,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Vamzdžiai
@@ -43,17 +44,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-001
   teiginys: 'Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Taip pat vamzdžiais vamzdijo jaunuomenė, iš mauknos^559 karklų ar blendies padirbę pavasariais, lig žievei neprikepus;
         be tų vamzdžių turėjo piemenėliai molio pypynes, su kuriomis pavasarį ožaičius ir ėraičius po laukus ganydami tancino.
@@ -63,7 +64,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Pastabos
 

@@ -18,6 +18,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-02'
 tags:
   - posakis
 ---
@@ -79,7 +80,7 @@ tags:
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]

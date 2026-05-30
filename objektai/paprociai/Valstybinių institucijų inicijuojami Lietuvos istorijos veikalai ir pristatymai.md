@@ -13,6 +13,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - diplomatas
   - paprotys
@@ -130,7 +131,8 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Adolfas Šapoka]]
+- [[objektai/autoriai/Adolfas Šapoka]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/Kazimieras Masiliūnas]]

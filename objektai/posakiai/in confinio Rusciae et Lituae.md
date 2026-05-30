@@ -16,6 +16,7 @@ amziai:
 date_start: '1009'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
 ---
@@ -55,5 +56,4 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]

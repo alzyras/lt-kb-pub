@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - diplomatas
   - posakis
@@ -59,5 +60,4 @@ Tačiau ir tos sutar­ ties, kaip ir visų kitų, galia parėjo ne nuo pergament
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

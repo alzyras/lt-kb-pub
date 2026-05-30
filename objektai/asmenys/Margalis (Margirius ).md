@@ -16,6 +16,7 @@ amziai:
 date_start: '1329'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - didikas
@@ -55,9 +56,6 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Ietis]]
 - [[objektai/daiktai/Kalavijai]]

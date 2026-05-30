@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
 ---
@@ -62,3 +63,4 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
 - [[objektai/posakiai/gerai užrakinamus Krymo vartus]]
 - [[objektai/zodynas/sunkioji kavalerija]]
 - [[objektai/daiktai/Šarvai]]
+- [[objektai/daiktai/Žirgai]]

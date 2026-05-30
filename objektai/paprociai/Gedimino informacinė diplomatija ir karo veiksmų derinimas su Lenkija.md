@@ -23,6 +23,7 @@ amziai:
 date_start: '1316'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija

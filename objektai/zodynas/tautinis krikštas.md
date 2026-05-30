@@ -22,6 +22,7 @@ amziai:
 date_start: '1895'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - krikštas
@@ -74,6 +75,7 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Maironis]]

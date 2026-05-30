@@ -26,6 +26,7 @@ amziai:
 date_start: '1149'
 date_end: '1793'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Nikono metraštis

@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "baltų sąjunga"
-sukurta: "2026-05-30"
+sukurta: '2026-05-30'
 variantai:
   - "baltų sąjunga — federacija"
   - "baltų valstybės"
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-30'
 tags: []
 ---
 # baltų sąjunga
@@ -43,9 +44,13 @@ Lietuvos vadovaujamo baltų politinio telkimosi ir bendros kovos modelis.
 Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiškinime.
 
 ## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: `Baltų sąjunga` įvadiniame straipsnyje apibrėžiama kaip federacija ir valstybingumo raidos etapas.
+- c-003
+  santrauka: 'Dusburgietis teigia, kad kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje prieš Ordiną, be to, prūsų kova dažnai traktuojama gana atsietai nuo Lietuvos karinių pastangų, nepakankamai ištirta, kaip tų įvykių verpetuose formavosi visų baltų (t.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kol kas istoriografijoje nepakankamai apžvelgti prūsų ir lietuvių ryšiai bendroje kovoje
@@ -56,33 +61,21 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
     agresija. Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
     ir kitų feodalų agresiją formavosi Lietuvos vadovaujama baltų sąjunga — federacija, tai
     yra visų baltų valstybės linkme besivystančios Lietuvos valstybingumo raidos etapas21.
-      „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
-    (t. y. 1209— 1210 m.)22.
-  citata_rodoma: ""
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: aukstas
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-- c-002
-  santrauka: Mindaugo laikais `baltų sąjunga` aiškinama kaip bendros baltų valstybės projektas.
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
-    suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
-    norėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės
-    baltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
-    akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
-  citata_rodoma: ""
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
+- [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
+- [[objektai/grupes/Pamarėnai]]
+- [[objektai/zodynas/baltų sąjunga federacija]]
+- [[objektai/asmenys/Živinbudas]]

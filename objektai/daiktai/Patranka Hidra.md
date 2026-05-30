@@ -17,6 +17,7 @@ amziai:
 date_start: '1564'
 date_end: '1581'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
   - ginklas

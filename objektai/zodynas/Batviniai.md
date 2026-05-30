@@ -1,13 +1,14 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: batviniai
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - batvinių
   - batvinėliai
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # batviniai
 

@@ -20,6 +20,7 @@ amziai:
 date_start: '1740'
 date_end: '1821'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - asmuo
   - vyskupas

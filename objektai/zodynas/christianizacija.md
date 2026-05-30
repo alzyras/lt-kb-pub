@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - karalius
   - krikštas
@@ -58,7 +59,6 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - [[objektai/autoriai/S. Sužiedėlis]]
 - [[objektai/autoriai/Semkowicz, W]]
 - [[objektai/autoriai/Springmann, K]]
-- [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
 - [[objektai/autoriai/Sužiedėlis, S]]
 - [[objektai/autoriai/W. Semkowicz]]

@@ -18,6 +18,7 @@ amziai:
 date_start: '1564'
 date_end: '1568'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - saltinis
   - seimas

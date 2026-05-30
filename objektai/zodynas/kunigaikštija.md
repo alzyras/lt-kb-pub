@@ -3,13 +3,13 @@ tipas: zodyno_irasas
 pavadinimas: kunigaikštija
 sukurta: '2026-05-05'
 variantai:
-  - kunigaikštija
-  - kunigaikštijos
-  - kunigaikštijoj
-  - kunigaikštiją
+- kunigaikštija
+- kunigaikštijos
+- kunigaikštijoj
+- kunigaikštiją
 aliases: []
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1391 m.'
@@ -31,6 +31,7 @@ date_start: '1350'
 date_end: '2026'
 laikotarpis: 1392 m.; 1395 m.; 1398 m.
 patikimumas: aukštas
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # kunigaikštija
@@ -116,19 +117,21 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/ivykiai/Antrasis LLV padalijimas]]
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Edividas]]
 - [[objektai/posakiai/Grünwaldo pergalės atsisakymas]]
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]]
 - [[objektai/asmenys/Klemensas Moskorzewskis]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
@@ -140,7 +143,6 @@ tags: []
 - [[objektai/grupes/Naugardo respublika]]
 - [[objektai/asmenys/Olesnickio]]
 - [[objektai/ivykiai/Salyno sutartis]]
-- [[objektai/grupes/Slavai]]
 - [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)]]
 - [[objektai/asmenys/Teodosijus]]
@@ -167,7 +169,6 @@ tags: []
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Napoleonas Bonapartas]]
 - [[objektai/asmenys/Vosylius II]]
 - [[objektai/zodynas/dominija]]

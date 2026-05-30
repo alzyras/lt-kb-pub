@@ -18,6 +18,7 @@ amziai:
 date_start: '1597'
 date_end: '1610'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - karalius
@@ -138,12 +139,10 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]

@@ -17,6 +17,7 @@ amziai:
 date_start: '1409'
 date_end: '1410'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - dokumentas
@@ -72,18 +73,11 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Butrimas]]
 - [[objektai/grupes/Daukšių būrys]]
 - [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]
-- [[objektai/asmenys/Vaclovas Čekietis]]
-- [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
 - [[objektai/asmenys/Vengrijos Zigmantas]]
-- [[objektai/daiktai/Šv. Vaclovo karūna]]
-- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Vaclovas Čekietis]]

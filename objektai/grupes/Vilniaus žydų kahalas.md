@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus žydų kahalas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Vilniaus kahalo žydai"
   - "kahalas"
@@ -25,6 +25,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus žydų kahalas
@@ -119,6 +120,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

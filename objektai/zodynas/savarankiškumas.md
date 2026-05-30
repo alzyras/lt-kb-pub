@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - dokumentas
@@ -76,9 +77,6 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
@@ -95,8 +93,8 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 - [[objektai/asmenys/Kazimieras Antanavičius]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
 - [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
-- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/bažnytinė provincija]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]

@@ -1,7 +1,7 @@
 ---
 tipas: "vieta"
 pavadinimas: 'Žemaičių kraštas (kraštas)'
-sukurta: "2026-04-30"
+sukurta: '2026-04-30'
 variantai:
   - 'Žemaičių kraštas'
   - 'Žemaičių pajūris'
@@ -27,6 +27,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Žemaičių kraštas (kraštas)

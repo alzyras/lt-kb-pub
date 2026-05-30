@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "1390 m. Vilniaus apgultis"
   - "Kreivosios pilies sudeginimas"
@@ -24,6 +24,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags:
   - karas
 ---
@@ -176,6 +177,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

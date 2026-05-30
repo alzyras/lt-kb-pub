@@ -17,6 +17,7 @@ amziai:
 date_start: '1316'
 date_end: '1324'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -56,6 +57,6 @@ Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio «Traid
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]

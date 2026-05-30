@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["karo padėties panaikinimas", "politinių kalinių amnestija", "spaudos apribojimų panaikinimas"]
 aliases: ["karo padėties panaikinimas", "politinių kalinių amnestija", "spaudos apribojimų panaikinimas"]
 saltiniai:
@@ -24,6 +24,7 @@ amziai:
 date_start: '1926'
 date_end: '2026'
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags:
   - reforma
 ---

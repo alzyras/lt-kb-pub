@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karalius
   - ordinas
@@ -60,4 +61,3 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Gilbert de Lannoy]]
-- [[objektai/asmenys/Henrikas VI]]

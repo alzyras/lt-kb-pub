@@ -19,6 +19,7 @@ amziai:
 date_start: '1560'
 date_end: '1621'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - ginklas

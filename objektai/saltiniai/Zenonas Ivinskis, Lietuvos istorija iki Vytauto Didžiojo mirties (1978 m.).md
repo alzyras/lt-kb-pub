@@ -23,6 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: ''
+atnaujinta: '2026-04-26'
 tags: []
 ---
 # Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -60,12 +61,6 @@ tags: []
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Tikroji Lietuvos istorija šiame veikale pradedama XII amžiaus gale, kai lietuvių žygiai jau gali būti nuosekliai grindžiami rašytais šaltiniais.'
-  pagrindžia:
-    - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 - t-007
   teiginys: 'Autorius mirė 1971 m. gruodžio 24 d., nebaigė numatyto plano, o šį tomą, užpildydamas spragas, redagavo Paulius Jatulis.'
   pagrindžia:
@@ -84,7 +79,6 @@ tags: []
     - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 - t-010
   teiginys: 'Pratarmėje aiškiai teigiama, kad pragmatiškai didaktinį istorijos rašymo būdą turi pakeisti genetinis, priežastinis metodas.'
   pagrindžia:
@@ -97,7 +91,6 @@ tags: []
     - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: Autorius nurodo valstybingumo idėją kaip visą veikalą vienijančią mintį.
@@ -117,27 +110,6 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: Pratarmėje paaiškinama, kodėl pasakojimas pradedamas nuo XII a. galo ir rašytinių šaltinių slenksčio.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Reikia džiaugtis,
-    kad specialistas (prof. dr. J. Puzinas) duoda atskirą išsamų veikalą.
-    Reziumuotai ir probėgomis tepatiekdami kitų proistorinius duome­
-    nis, tikrąją Lietuvos istoriją pradedame sąvartoje istorinių laikų,
-    būtent, XII amžiaus gale, kai lietuvių tautos žygiai ir jos «įėji­
-    mas » Europos istorijon jau gali būti nuosekliai pagrįsti vis dau­
-    giau autentiškumo įgyjančiais _rašytais šaltiniais._
-    Šitoje _apžvalginėje_ Lietuvos istorijoje yra stengiamasi panaudoti
-    ikišiolinės tyrinėjimų išdavos ištisų laikotarpių ir atskirų temų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-
 - c-010
   santrauka: Pratarmėje tiesiogiai priešpriešinamas pragmatiškai didaktinis ir genetinis istorijos metodas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -160,7 +132,6 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
 ## Bibliografiniai įrodymai
 - c-007
   santrauka: Redakcinėje pastaboje paaiškinama, kad autorius nebespėjo užbaigti plano, o pirmąjį tomą po jo mirties redagavo Paulius Jatulis.

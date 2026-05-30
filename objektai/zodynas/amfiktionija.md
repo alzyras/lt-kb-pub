@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "amfiktionija"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "amfiktioniją"
 aliases: []
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # amfiktionija
@@ -72,4 +73,5 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/zodynas/Romuva ir krivis]]
 - [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

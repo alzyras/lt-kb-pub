@@ -24,6 +24,7 @@ amziai:
 date_start: '1386'
 date_end: '1795'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - diplomatas
@@ -273,11 +274,10 @@ Nenurodyta
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mantas]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/posakiai/„Šventos santuokos“]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]

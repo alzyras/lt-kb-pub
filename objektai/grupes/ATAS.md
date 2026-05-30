@@ -16,6 +16,7 @@ amziai:
 date_start: '1991'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - grupe
@@ -113,9 +114,10 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/AKSU automatinis šautuvas]]
 - [[objektai/daiktai/TT pistoletas]]
+- [[objektai/asmenys/Vytautas Landsbergis]]
 - [[objektai/daiktai/Pistoletas]]

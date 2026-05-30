@@ -29,6 +29,7 @@ amziai:
 date_start: '1875'
 date_end: '1911'
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Mikalojus Konstantinas Čiurlionis (dailininkas)

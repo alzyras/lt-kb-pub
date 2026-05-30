@@ -19,6 +19,7 @@ amziai:
 date_start: '1291'
 date_end: '1315'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - pilis

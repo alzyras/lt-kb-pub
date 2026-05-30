@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Valerijono Bursos studentų bendrija"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Bursos studentų bendrija"
   - "studentų bendrija"
@@ -26,6 +26,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Valerijono Bursos studentų bendrija
@@ -181,5 +182,6 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Žygimantas]]

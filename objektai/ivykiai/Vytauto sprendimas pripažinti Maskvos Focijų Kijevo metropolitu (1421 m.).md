@@ -16,6 +16,7 @@ amziai:
 date_start: '1421'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - kraštas
@@ -73,5 +74,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/unija]]

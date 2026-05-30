@@ -25,6 +25,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
   - mokslininkas
@@ -333,5 +334,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
 - [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
 - [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]
+- [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]

@@ -18,6 +18,7 @@ amziai:
 date_start: '1991'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -53,6 +54,7 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Audrius Butkevičius]]
 - [[objektai/asmenys/Jonas Gečas]]
 - [[objektai/asmenys/Virginijus Česnulevičius]]

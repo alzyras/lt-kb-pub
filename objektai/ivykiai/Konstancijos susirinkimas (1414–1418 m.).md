@@ -18,6 +18,7 @@ amziai:
 date_start: '1414'
 date_end: '1418'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - kunigaikštis
@@ -138,6 +139,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]

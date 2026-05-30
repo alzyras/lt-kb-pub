@@ -17,6 +17,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - posakis
 ---
@@ -55,5 +56,5 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/vietininkas]]

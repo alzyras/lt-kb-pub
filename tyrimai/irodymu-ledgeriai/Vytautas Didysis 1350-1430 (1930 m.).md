@@ -3,6 +3,8 @@ tipas: tyrimas
 pavadinimas: 'Įrodymų ledgerio suvestinė - Vytautas Didysis 1350-1430 (1930 m.)'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+sukurta: ''
+atnaujinta: ''
 tags: []
 ---
 # Įrodymų ledgerio suvestinė - Vytautas Didysis 1350-1430 (1930 m.)

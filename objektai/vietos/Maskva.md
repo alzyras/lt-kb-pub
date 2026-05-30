@@ -49,6 +49,7 @@ amziai:
 date_start: '1349'
 date_end: '1621'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - vieta
 ---

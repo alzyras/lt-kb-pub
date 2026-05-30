@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Investiciniai čekiai"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Investiciniai čekiai"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags:
   - dokumentas
   - pinigai
@@ -171,7 +172,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/dokumentas]]
 - [[temos/pinigai]]
 
 ### Susiję objektai

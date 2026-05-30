@@ -18,6 +18,7 @@ amziai:
 date_start: '1362'
 date_end: '1401'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis

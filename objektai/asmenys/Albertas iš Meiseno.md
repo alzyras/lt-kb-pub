@@ -8,16 +8,17 @@ aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 laikotarpis: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos: []
 periodas: ''
 periodo_grupes: []
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-29'
 tags:
   - asmuo
 ---
@@ -47,6 +48,18 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
     - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Dusburgietis teigia, kad albertas iš Meiseno išsigando ir pasakė: „Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas, tegu jis įeina į mane“; kai atvėrė burną, paplotėlis įėjo, o jis jį priėmė, neapsakomai džiaugdamasis.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -103,10 +116,53 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   priskyrimo_pagrindas: adjacent_named_context
   pagrindžia:
     - t-004
+- c-006
+  santrauka: 'Dusburgietis teigia, kad albertas iš Meiseno kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
+    einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį
+    metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
+    nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
+
+
+
+
+                            231 (225).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Dusburgietis teigia, kad albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Todėl jis, didžiai susikrimtęs, su ašaromis meldė viešpatį nukrauti jam nuo pečių uždėtą
+    pareigybių naštą arba tiesiog pasiimti iš šios žemės. Tą pačią naktį jis buvo viešpaties
+    išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.
+
+
+
+
+                            232 (225).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
 - [[objektai/daiktai/Deglas]]
+- [[objektai/daiktai/Paplotėlis]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]
+- [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]

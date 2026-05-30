@@ -20,6 +20,7 @@ amziai:
 date_start: '1615'
 date_end: '1674'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
   - mūšis
@@ -78,4 +79,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/autoriai/J. Bennetas]]

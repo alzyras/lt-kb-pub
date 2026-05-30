@@ -28,6 +28,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # karūna su karūna negali būti sujungta — inkorporuota
@@ -97,7 +98,6 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/inkorporacija]]

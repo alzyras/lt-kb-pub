@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags:
   - mūšis
 ---
@@ -80,6 +81,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]

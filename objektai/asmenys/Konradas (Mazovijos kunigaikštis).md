@@ -1,0 +1,181 @@
+---
+tipas: asmuo
+pavadinimas: 'Konradas (Mazovijos kunigaikštis)'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1224 m.'
+  - '1225 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+date_start: '1224'
+date_end: '1225'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - asmuo
+  - didikas
+  - kunigaikštis
+  - valdovas
+---
+# Konradas (Mazovijos kunigaikštis)
+
+## Santrauka
+
+Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino. Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė. Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad konradas (Mazovijos kunigaikštis) sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš.'
+  pagrindžia:
+    - c-005
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie tai, kaip prūsai niokojo Kulmo žemę
+
+      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
+    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
+    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
+    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
+    Jėzų Kristų161.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
+
+       Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai
+    dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir
+    įbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,
+    reikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų
+    patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
+    šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
+    netikėlių pasiuntiniams jų drabužius bei žirgus165.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Kristaus karių ordino brolius
+
+      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
+    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
+    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
+    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
+    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
+    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
+    su juo keturiolika kitų vyrų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad konradas (Mazovijos kunigaikštis) sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Prūsijos, Kulmo ir Lubavos žemių dovanojimą Teutonų namų ordino broliams
+
+      Tuo pat metu Teutonų namų ordinas magistro brolio Hermano iš Zalcos rūpesčiu taip
+    didžiai pasipildė naujais broliais, praturtėjo tokiais turtais, įsigijo tokią galią  ir tokią
+    šlovę, kad jo didžios garbės atgarsiai, skersai ir išilgai paplitę, galop pasiekė ir minėtojo
+    kunigaikščio ausį. Nelyginant dievui įkvėpus, šios kalbos taip jam įstrigo  į širdį, jog jis
+    sumanė pasikviesti šiuos brolius ginti savo žemės, tikėjimo bei tikinčiųjų, nes matė, kad
+    broliai Kristaus kariai, jo paties šiuo tikslu suburti, nesusilaukė sėkmės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
+    kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas
+      168 Dobrynė — deš. Vyslos krante aukščiau Vloclaveko, to pat vardo žemės, šiaurėje
+    besiribojančios su prūsų teritorija, centras.
+      169 Kaimas Sedlce (D.— Cedelicze) buvęs  į pietus nuo Vyslos, kiek  į šiaurę nuo
+    Inovroclavo (minimas XIII a. 3—4 dešimtmečių dokumentuose). Kaip Dobrynės ordino
+    palikimas  atiteko kryžiuočiams (Guldon  Z., Powierski  J.  Podziały...,  p. 173—174,
+    žemėlapis Nr. 6).
+      170 Dobrynės ordiną prūsai galėjo pulti 1224—1225 m. (Powierski J. Przekaz..., p.
+    411).
+
+    savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam
+    pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia
+    esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes, kurias,
+    viešpaties padedami, jie ateityje atkariausią iš netikėlių, suteikdamas jiems per amžius
+    visas teises bei visas naudas, jo bei jo pirmtakų čia turėtas, nepasilaikydamas sau nei
+    teisių, nei nuosavybės ir pasižadėdamas nesiimti jokių teisinių ar faktinių veiksmų, kurie
+    šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
+- [[objektai/asmenys/Boleslovas]]
+- [[objektai/grupes/Cistersų ordinas]]
+- [[objektai/grupes/Dobrynės broliai]]
+- [[objektai/asmenys/Kazimieras (Konrado sūnus)]]
+- [[objektai/zodynas/Kristaus kariai]]
+- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]
+- [[objektai/asmenys/Zemovitas]]
+- [[objektai/zodynas/žygūnai]]

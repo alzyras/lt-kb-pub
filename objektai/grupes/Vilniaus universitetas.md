@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus universitetas"
-sukurta: "2026-05-18"
+sukurta: '2026-05-18'
 variantai:
   - "Vilniaus kolegija"
   - "Vilniaus akademija"
@@ -41,6 +41,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-18'
 tags: []
 ---
 # Vilniaus universitetas
@@ -461,9 +462,10 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Simonas Stanevičius]]
+- [[objektai/autoriai/Simonas Stanevičius]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/zodynas/barokas]]

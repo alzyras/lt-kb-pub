@@ -29,6 +29,7 @@ amziai:
 date_start: '1699'
 date_end: '2026'
 patikimumas: aukštas
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # petihorai
@@ -204,6 +205,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - [[objektai/grupes/Janičarai]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/daiktai/Šarvuočiai]]

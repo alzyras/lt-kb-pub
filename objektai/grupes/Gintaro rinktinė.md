@@ -16,6 +16,7 @@ amziai:
 date_start: '1948'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - mūšis
@@ -57,4 +58,5 @@ Stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio b�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/daiktai/Gintaras]]

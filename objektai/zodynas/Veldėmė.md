@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: veldėmė
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - veldėme
 saltiniai:
@@ -10,6 +10,7 @@ laikotarpis: 1557 metai
 datos:
   - 1557 metai
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # veldėmė
 

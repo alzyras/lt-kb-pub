@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - posakis
   - valdovas
@@ -51,4 +52,4 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

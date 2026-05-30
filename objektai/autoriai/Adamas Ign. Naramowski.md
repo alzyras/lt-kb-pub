@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Adamas Ign. Naramowski"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Naramowski"
   - "Naramovskis"
@@ -24,6 +24,7 @@ vaidmenys:
   - autorius
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
 ---

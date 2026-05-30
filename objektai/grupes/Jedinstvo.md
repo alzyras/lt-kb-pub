@@ -19,6 +19,7 @@ amziai:
 date_start: '1991'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
 ---
@@ -124,7 +125,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Michailas Gorbačiovas]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Juozas Jermalavičius]]

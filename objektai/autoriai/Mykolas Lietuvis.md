@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Mykolas Lietuvis"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Mykolo Lietuvio"
 aliases: []
@@ -21,6 +21,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
 ---
@@ -175,6 +176,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lotynai]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]

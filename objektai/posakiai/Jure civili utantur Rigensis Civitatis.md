@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Jure civili utantur Rigensis Civitatis"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "tesinaudoja civiline Rygos miesto teise"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Jure civili utantur Rigensis Civitatis
@@ -90,4 +91,4 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]

@@ -16,6 +16,7 @@ amziai:
 date_start: '1415'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - didikas
@@ -61,9 +62,6 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/vaivada]]

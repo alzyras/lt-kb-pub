@@ -23,6 +23,7 @@ amziai:
 date_start: '1863'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Teresboro stovyklos mokymai lietuvių kalba
@@ -105,4 +106,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]

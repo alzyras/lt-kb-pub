@@ -8,6 +8,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'aukštas'
 periodas: viduramziai
+atnaujinta: '2026-04-28'
 tags:
   - pinigai
   - daiktas
@@ -70,7 +71,7 @@ Nenurodyta
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]

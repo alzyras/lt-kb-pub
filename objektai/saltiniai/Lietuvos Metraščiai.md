@@ -21,6 +21,7 @@ amziai:
 date_start: '1968'
 date_end: ''
 patikimumas: ''
+atnaujinta: '2026-04-27'
 tags: []
 ---
 # Lietuvos Metraščiai

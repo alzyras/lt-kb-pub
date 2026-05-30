@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -24,6 +24,7 @@ dalyviai:
   - "partizanų šeimos ir rėmėjai"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai

@@ -23,6 +23,7 @@ amziai:
 date_start: '1928'
 date_end: '1937'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
 ---

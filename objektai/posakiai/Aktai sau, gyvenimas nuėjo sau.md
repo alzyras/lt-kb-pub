@@ -27,6 +27,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Aktai sau, gyvenimas nuėjo sau
@@ -98,4 +99,5 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/unija]]

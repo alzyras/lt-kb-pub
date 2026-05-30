@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Pranciškus Skorina"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Franciscus Skorina"
 aliases: []
@@ -26,6 +26,7 @@ amziai:
 date_start: '1490'
 date_end: '1541'
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - mokslininkas

@@ -31,6 +31,7 @@ dalyviai:
   - 'Balys Žukauskas-Princas'
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-05-02'
 tags:
   - karas
 ---

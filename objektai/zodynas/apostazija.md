@@ -10,28 +10,19 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1260 m.'
-  - '1261 m.'
-  - '1268 m.'
-  - '1324 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
-  - 'XX'
-  - 'XXI'
-date_start: '1260'
-date_end: '2026'
 laikotarpis: '1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.'
+datos:
+  - '1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.'
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # apostazija
@@ -58,20 +49,41 @@ atsisakymas krikščionybės, atkritimas nuo tikėjimo.; atsimetimas nuo priimto
 Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 
 ## Teiginiai
-- t-006
-  teiginys: 'Mindaugo apostazija siejama su galimu jo atsimetimu nuo krikščionybės po Žemaičių pergalės prie Durbės.'
+- t-001
+  teiginys: 'Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų.'
+  pagrindžia:
+    - c-001
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Nors daug Mindaugo apostazijos klausimu ra­ šyta, bet čia galima tarti kun. J.'
+- t-003
+  teiginys: 'Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės.'
   pagrindžia:
-    - c-002
-
+    - c-003
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Sąvoka vartojama ginče tarp Mindaugo atkritimo šalininkų ir priešininkų.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Autorius apostaziją sieja su naujakrikštų valdovų istorine patirtimi.'
+  pagrindžia:
+    - c-005
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mindaugo apostazija siejama su galimu jo atsimetimu nuo krikščionybės po Žemaičių pergalės prie Durbės.'
+  santrauka: Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kly­
@@ -92,9 +104,11 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-001
+    - t-002
+    - t-004
 - c-002
-  santrauka: 'Nors daug Mindaugo apostazijos klausimu ra­ šyta, bet čia galima tarti kun. J.'
+  santrauka: Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Didelės svarbos yra penktoji problema, dėl kurios daug kas sau
@@ -104,15 +118,77 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     nuo krikščionyįės. Nors daug Mindaugo apostazijos klausimu ra­
     šyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu
     išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
-    goji nuomonė »^21.
-  citata_rodoma: ''
+    goji nuomonė »^21. Pagrindinės kronikos (Eiliuotinė, Ipatijaus) įsak­
+    miai pažymi Mindaugo apostaziją, tuo tarpu popiežius Klemensas
+    IV, penkeriems metams praėjus po Mindaugo nužudymo (1268)
+    kalbėjo apie jo šviesų atminimą^22.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-
+    - t-001
+- c-003
+  santrauka: Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šalia Mindaugo «sostinės» vietos, penkių jo dokumentų tikrumo
+    mįslės ir kitų neišaiškintų problemų, tai yra pats svarbiausias kontro­
+    versiškas klausimas, apie kurį tiek daug rašyta. Išskyrus pirmąjį
+    Mindaugo tyrinėtoją J. Latkowski, kuriuo pasekė keli XIII amž.
+    Lietuvą labiau studijavę lietuviai-kunigai^191 , lenkų ir vokiečių moks­
+    linėje literatūroje iki šiol perdėm vyrauja nuomonė, jog Mindaugas
+    yra atkritęs nuo krikščionybės. Paskutinis argumentuotai už Min­
+    daugo apostaziją yra plačiai pasisakęs kritiškas lenkas H. Paszkie­
+    wicz^192 , kuris apskritai Lietuvos istorijoje stengiasi būti lietuviams
+    gana objektyvus^193.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kokio intereso būtų galėjęs turėti kry­
+    žiuočių ordinas klaidingai painformuoti Romą — iš turimų versmių
+    yra neišrišamas klausimas.
+    Popiežiaus Klemenso IV teigiamas atsiliepimas apie Mindaugą
+    Romos kurijoje tačiau pasiliko unikumas. Po 60 metų (1324 m.)
+    popiežius Jonas XXII iš Avignono jau rašė priešingai, būtent, jog
+    « Mindaugas su savo visa karalyste buvo atvirtęs į Kristaus tikėjimą,
+    bet pasėkoje žiaurių ir nedraugiškų skriaudų, kurias padarė mylimi
+    vokiečių ordino sūnūs, nuo tikėjimo atsimetė ir grižo į pirmutinę
+    klaidą » 199 200.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-005
+  santrauka: Autorius apostaziją sieja su naujakrikštų valdovų istorine patirtimi
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vykstant deryboms dėl krikšto, Mindaugo santykiai su
+    ordinu buvo statomi pavyzdžiu. Psichologiškai gali būti visai supran­
+    tamas sugrįžimas pagonybėn karaliaus, kuris krikščionybę buvo priė­
+    męs iš vakarykščių priešų, po dešimtmečio vėl tapusių jo nepriete­
+    liais. Tokios apostazijos pas naujakrikštus valdovus, kurių nuovoka
+    apie naująjį tikėjimą dar būdavo grubi, buvo žinomos ir kitose tau­
+    tose.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
 ## Pastabos
 
 - šaltinyje sąvoka turi ir teologinį, ir politinį atspalvį.
@@ -123,7 +199,13 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/autoriai/H. Lowmiański]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/ivykiai/Smolensko sukilimas|Smolensko sukilimas (sukilimas)]]

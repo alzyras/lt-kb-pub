@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: apsikarūnavimas
 sukurta: '2026-05-05'
 variantai:
-  - apsikarūnavime
-  - karūnacija
+- apsikarūnavime
+- karūnacija
 aliases: []
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1398 m.'
@@ -26,6 +26,7 @@ date_start: '1350'
 date_end: '2026'
 laikotarpis: 1398 m.
 patikimumas: aukštas
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # apsikarūnavimas
@@ -77,11 +78,12 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Adalbertas]]
+- [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
 - [[objektai/asmenys/Dr. Baptistas Cigala]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Karūnacinis seimas|Karūnacinis seimas (seimas)]]
 - [[objektai/grupes/Krokuvos profesoriai]]
@@ -92,9 +94,9 @@ tags: []
 - [[objektai/asmenys/Olafas (Norvegijos valdovas)]]
 - [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]]
 - [[objektai/zodynas/Romos karalius]]
-- [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
 - [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/asmenys/Zig. Rothas]]
 - [[objektai/zodynas/christianizacija]]
@@ -104,4 +106,4 @@ tags: []
 - [[objektai/zodynas/konversija christianizacija europeizacija]]
 - [[objektai/zodynas/konvokaciniai seimai]]
 - [[objektai/zodynas/protektorium]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

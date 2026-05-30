@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Vilnius - tai gyva senosios Lietuvos kronika"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Vilnius - tai gyva senosios Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilnius - tai gyva senosios Lietuvos kronika

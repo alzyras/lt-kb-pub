@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'lotyniškasis krikštas (krikštas)'
-sukurta: "2026-04-28"
+sukurta: '2026-04-28'
 variantai:
   - 'lotyniškasis krikštas'
 aliases:
@@ -28,6 +28,7 @@ amziai:
 date_start: '1385'
 date_end: '2026'
 patikimumas: "aukštas"
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # lotyniškasis krikštas (krikštas)

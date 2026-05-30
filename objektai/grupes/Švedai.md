@@ -26,6 +26,7 @@ amziai:
 date_start: '1600'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dinastija
   - grupe
@@ -92,8 +93,10 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/A. Liuneburgietis]]
 - [[objektai/ivykiai/ATR karai su Švedija XVII a]]
+- [[objektai/paprociai/Apgaulingo atsitraukimo manevras]]
 - [[objektai/ivykiai/Apuolės apgula (853 m.)]]
 - [[objektai/asmenys/Augustas II]]
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
@@ -118,6 +121,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/asmenys/Karolis IX]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/asmenys/Kristupas Pacas]]
+- [[objektai/grupes/Krymo totoriai]]
 - [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
 - [[objektai/grupes/Kuršiečiai]]
 - [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.)]]
@@ -129,18 +133,14 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/paprociai/Maro aukų laidojimas Šv. Roko vienuolių eremitų rankomis]]
 - [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/asmenys/Narimantas Gediminaitis]]
-- [[objektai/grupes/Notangai]]
 - [[objektai/ivykiai/Olyvos taikos sutarties pasirašymas (1660 m. gegužės 3 d.)]]
 - [[objektai/asmenys/P. Snayers]]
-- [[objektai/grupes/Pamedėnai]]
 - [[objektai/asmenys/Petras I Didysis]]
 - [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
-- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
 - [[objektai/autoriai/Rimbertas]]
 - [[objektai/autoriai/Rimberto, Rimbertas]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/grupes/Sembai]]
 - [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/T. Dambrava]]
@@ -148,7 +148,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/ivykiai/Tvanas]]
 - [[objektai/grupes/Unitai]]
 - [[objektai/asmenys/Vaina]]
-- [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/Vidivarijai]]
 - [[objektai/ivykiai/Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)]]
 - [[objektai/asmenys/Walenrodto]]

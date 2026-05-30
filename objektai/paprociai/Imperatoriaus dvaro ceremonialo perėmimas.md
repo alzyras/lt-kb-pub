@@ -19,6 +19,7 @@ amziai:
 date_start: '1453'
 date_end: '1533'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - paprotys
 ---
@@ -80,5 +81,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/autoriai/Filotiejus]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Romai]]
 - [[objektai/grupes/Rusai]]

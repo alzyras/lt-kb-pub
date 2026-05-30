@@ -17,6 +17,7 @@ amziai:
 date_start: '1991'
 date_end: '1993'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
 ---

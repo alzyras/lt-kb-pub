@@ -27,6 +27,7 @@ amziai:
 date_start: '1219'
 date_end: '1918'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dinastija
   - ivykis
@@ -91,5 +92,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]
+- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]

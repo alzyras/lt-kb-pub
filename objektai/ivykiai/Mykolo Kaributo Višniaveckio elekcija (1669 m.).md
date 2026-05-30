@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - didikas
@@ -59,11 +60,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Pacai]]
 - [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Mykolas]]

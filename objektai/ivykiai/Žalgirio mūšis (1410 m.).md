@@ -20,6 +20,7 @@ amziai:
 date_start: '1410'
 date_end: '1569'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
   - mūšis

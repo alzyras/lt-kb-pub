@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - ordinas
@@ -48,6 +49,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Joanitų ordinas]]

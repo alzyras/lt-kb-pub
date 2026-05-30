@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - sąvoka
 ---
@@ -44,4 +45,5 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Vosylius]]

@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Kūtė'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Kūtė
@@ -41,23 +42,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Kūtėje prie namo sienų laikytos karvės ir jaučiai, viduryje atskirtos avys, o už tvarto buvo atskira arklių kūtė.'
+- t-001
+  teiginys: 'Namo kūtėje laikydavo karves, jaučius, avis ir arklius.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-004
+- t-002
   teiginys: 'Už arklių kūtės dar buvo kiaulių kūtelė, o bandos tvarte laikydavo žąsis ir pyles.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kūtėje prie namo sienų laikytos karvės ir jaučiai, viduryje atskirtos avys, o už tvarto buvo atskira arklių kūtė.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Namo kūtėje laikydavo karves, jaučius, avis ir arklius.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Antrosios durys toje pervarinėj sienoj tokio pat mažne didumo buvo kaip didžiosios, vedė iš
         namo į tvartą, arba kūtę, taip vadinamą nuo žodžio tverti, nuo ko paskui visą gyvenimą tvaru,
@@ -74,10 +75,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 - c-002
-  santrauka: 'Už arklių kūtės dar buvo kiaulių kūtelė, o bandos tvarte laikydavo žąsis ir pyles.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Už arklių kūtės dar buvo kiaulių kūtelė, o bandos tvarte laikydavo žąsis ir pyles.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Už tos arklių kūtės buvo dar kiaulių kūtelė, arba tvartelis, kartais neb tose pačiose namo
         salinėse sienose, bet pridurtose prie galutinės namo sienos ypatiniu^189 rentiniu, daug žemesniu
@@ -90,7 +91,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Pastabos
 

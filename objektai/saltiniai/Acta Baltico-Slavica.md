@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: ''
+atnaujinta: '2026-04-27'
 tags: []
 ---
 # Acta Baltico-Slavica

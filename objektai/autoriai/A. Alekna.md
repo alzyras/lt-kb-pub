@@ -31,6 +31,7 @@ amziai:
 date_start: '1911'
 date_end: '1936'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags:
   - autorius
 ---
@@ -192,5 +193,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/jubiliejus]]
 - [[objektai/zodynas/monografija]]
 - [[objektai/grupes/Sakalo bendrovė]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigaikštis
   - posakis
@@ -53,9 +54,9 @@ Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kun
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/Kęstučio riteriškų papročių laikymasis]]
 - [[objektai/asmenys/Dlugošas]]

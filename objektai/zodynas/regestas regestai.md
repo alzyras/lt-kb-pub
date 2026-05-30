@@ -16,6 +16,7 @@ amziai:
 date_start: '1569'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dokumentas
   - sąvoka
@@ -57,11 +58,9 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Danilavičius]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/autoriai/Ignas Danilavičius]]
 - [[objektai/zodynas/regestai]]

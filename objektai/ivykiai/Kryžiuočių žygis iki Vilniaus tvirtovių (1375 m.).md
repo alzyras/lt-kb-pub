@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags:
   - karas
 ---

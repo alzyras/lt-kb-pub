@@ -8,6 +8,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 periodas: priesistore
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
   - papuošalas

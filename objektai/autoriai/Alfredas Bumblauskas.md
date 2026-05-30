@@ -26,6 +26,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: aukštas
+atnaujinta: '2026-05-06'
 tags:
   - autorius
   - mokslininkas

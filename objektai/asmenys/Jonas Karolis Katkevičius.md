@@ -18,6 +18,7 @@ amziai:
 date_start: '1590'
 date_end: '1609'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - karalius
@@ -149,7 +150,6 @@ Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Katkevičius (Mūsų 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

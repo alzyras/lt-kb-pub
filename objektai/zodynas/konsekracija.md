@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
 ---
@@ -61,4 +62,6 @@ tags:
 ### Susiję objektai
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
+- [[objektai/ivykiai/Brunsbergo miesto bei pilies atkūrimas (1279 m.)]]
+- [[objektai/asmenys/Henrikas (Varmės vyskupas)]]
 - [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]

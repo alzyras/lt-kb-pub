@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - sukilimas
@@ -45,5 +46,6 @@ Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius, o ne pri
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/žygis]]

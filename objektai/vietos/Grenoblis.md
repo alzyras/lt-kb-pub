@@ -17,6 +17,7 @@ amziai:
 date_start: '1905'
 date_end: '1911'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - vieta
 ---

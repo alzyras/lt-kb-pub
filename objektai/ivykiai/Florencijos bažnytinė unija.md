@@ -18,6 +18,7 @@ amziai:
 date_start: '1439'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
   - popiežius
@@ -76,4 +77,3 @@ Nenurodyta
 - [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/unija]]
-- [[objektai/grupes/Katalikų Bažnyčia]]

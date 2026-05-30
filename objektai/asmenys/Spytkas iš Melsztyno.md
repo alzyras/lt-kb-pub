@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -53,7 +54,6 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/asmenys/Mykolas]]

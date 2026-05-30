@@ -16,6 +16,7 @@ amziai:
 date_start: '1424'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kraštas
   - sąvoka
@@ -64,5 +65,7 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Martynas V]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kontribucija]]
+- [[objektai/zodynas/jubiliejus]]

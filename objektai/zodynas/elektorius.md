@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - sąvoka
 ---
@@ -60,5 +61,3 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 - [[objektai/asmenys/Karolis VI]]
 - [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
 - [[objektai/asmenys/Vaclovas Čekietis]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/zodynas/investitūra]]

@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus sukilimo centrinis komitetas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "sukilimo centrinis komitetas"
 aliases: []
@@ -29,6 +29,7 @@ dalyviai:
   - "Liudvikas Zambrzyckis"
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus sukilimo centrinis komitetas

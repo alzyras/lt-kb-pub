@@ -17,6 +17,7 @@ amziai:
 date_start: '1930'
 date_end: '1936'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - dinastija
@@ -64,6 +65,6 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Liubartas Gediminaitis]]

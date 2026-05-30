@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vąšas'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Vąšas
@@ -41,23 +42,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
+- t-001
   teiginys: 'Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-004
-  teiginys: 'Prie vąšo buvo rišamas šniūrelis su ledinės druskos gabalu, kurį gaspadinė galėdavo įleisti į katilą.'
+- t-002
+  teiginys: 'Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Ant pat vidurio tos duobės ar ugnavietės skersai
         tųdviejų karčių buvo perdėtas ąžuolo mietas ir stipriai tenai pririštas vytimis, prie kurio pačiame
@@ -70,10 +71,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 - c-002
-  santrauka: 'Prie vąšo buvo rišamas šniūrelis su ledinės druskos gabalu, kurį gaspadinė galėdavo įleisti į katilą.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Dar buvo ant to mieto, arba aksties, ant kurio ir vąšas kybojo, pasieti keli
         svarai ledinės druskos ant šniūrelio taip, jog gaspadinė, atrišusi nuo vąšo šniūrelį, galėjo druskos
@@ -85,7 +86,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Pastabos
 
@@ -94,4 +95,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Druska]]
+- [[objektai/daiktai/Katilas]]
 - [[objektai/zodynas/Gaspadinė|gaspadinė]]

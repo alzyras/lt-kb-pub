@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Klėtis'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Klėtis
@@ -41,23 +42,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
+- t-001
   teiginys: 'Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-004
-  teiginys: 'Klėtyje viename kambaryje laikydavo javus, kitame kabėdavo drabužiai, todėl tas kambarys vadinosi svirnu.'
+- t-002
+  teiginys: 'Viename kambaryje laikydavo javus, kitame kybodavo drabužiai, todėl šis kambarys vadinosi svirnu.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Trečiasis trobesys buvo vadinamas klėtis, nuo žodžio klėsti^216 , nuo žemės per uolektį ar
         pusantros pakeltas ant trinkų ar didelių akmenų, grįstas ir lubotas lentomis dėl sausumo, kurioje
@@ -70,10 +71,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 - c-002
-  santrauka: 'Klėtyje viename kambaryje laikydavo javus, kitame kabėdavo drabužiai, todėl tas kambarys vadinosi svirnu.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Viename kambaryje laikydavo javus, kitame kybodavo drabužiai, todėl šis kambarys vadinosi svirnu.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Visi tie kambariai, kaip sakiau, buvo luboti, ant tų lubų viskos^218 , kame laikė
         džiūvusią mėsą, ant aksčių^219 suvertą, žiemą ir vasarą; tarp tų kambarių viename buvo laikomi
@@ -85,11 +86,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/zodynas/Miera|miera]]
 - [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
-- [[objektai/grupes/Jotvingiai]]

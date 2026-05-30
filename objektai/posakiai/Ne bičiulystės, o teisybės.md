@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Ne bičiulystės, o teisybės
@@ -67,4 +68,4 @@ tags: []
 - [[temos/formulė]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

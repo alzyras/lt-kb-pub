@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Verpimo įrankiai'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Verpimo įrankiai
@@ -41,17 +42,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-001
   teiginys: 'Moterims į kapą dėdavo varpstę ir kuodelį.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Moterims į kapą dėdavo varpstę ir kuodelį.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Moterims į kapą dėdavo varpstę ir kuodelį.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697
         darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
@@ -62,7 +63,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

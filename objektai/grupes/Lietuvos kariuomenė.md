@@ -50,6 +50,7 @@ amziai:
 date_start: '1236'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
 ---
@@ -938,7 +939,6 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Mongolai]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
@@ -952,21 +952,31 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Chotyno mūšis|Chotyno mūšis (mūšis)]]
 - [[objektai/asmenys/Dmitrijus (totorių vadas)]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/asmenys/Henrikas iš Hohenlohės]]
 - [[objektai/autoriai/J. Bennetas]]
 - [[objektai/asmenys/Jonas Sicinskis]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]
 - [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
+- [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]
+- [[objektai/asmenys/Konradas iš Foichtvangeno]]
 - [[objektai/asmenys/Kutlubuga]]
+- [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]
 - [[objektai/ivykiai/Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)]]
+- [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
 - [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]
 - [[objektai/paprociai/Lietuvos kariuomenės skiriamųjų ženklų įvedimas ir Vyties tvirtinimas prie sagčių]]
 - [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]
+- [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]
+- [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]
+- [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]]
 - [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.)]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/grupes/Osmanų Turkija]]
 - [[objektai/asmenys/Povilas Sapiega]]
+- [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
 - [[objektai/grupes/Respublikonai]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
 - [[objektai/grupes/Rusijos kariuomenė]]
@@ -978,7 +988,9 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
 - [[objektai/asmenys/Virgoličius]]
 - [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
 - [[objektai/zodynas/etatiniai vienetai]]
 - [[objektai/zodynas/pašauktinė kariuomenė]]
 - [[objektai/zodynas/rankovės garnizonai]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]

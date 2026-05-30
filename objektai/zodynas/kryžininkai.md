@@ -16,6 +16,7 @@ amziai:
 date_start: '1392'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigaikštis
   - mūšis
@@ -104,9 +105,6 @@ tags:
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
@@ -116,14 +114,16 @@ tags:
 - [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
 - [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
+- [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]
 - [[objektai/autoriai/Loreta Uzdraitė]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pamedėnai]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
-- [[objektai/grupes/Sembai]]
+- [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]
+- [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
-- [[objektai/grupes/Varmiai]]
+- [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]
 - [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
 - [[objektai/posakiai/kein Soule sie karten wider]]
+- [[objektai/zodynas/maldininkai]]

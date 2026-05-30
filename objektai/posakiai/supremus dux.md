@@ -16,6 +16,7 @@ amziai:
 date_start: '1401'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
 ---
@@ -54,6 +55,5 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
 ### Susiję objektai
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/supremus dux magnus dux]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - vyskupas
@@ -55,8 +56,8 @@ Vienas iš jų, Mykolas, buvo hetmonas ir Vilniaus vaivada, kitas, Kristupas, �
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Bajorų konfederacija]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
 - [[objektai/asmenys/Kristupas Pacas]]

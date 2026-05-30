@@ -19,6 +19,7 @@ amziai:
 date_start: '1835'
 date_end: '1902'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - kunigas
   - mokslininkas

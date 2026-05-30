@@ -16,6 +16,7 @@ amziai:
 date_start: '1988'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
   - valstybė
@@ -68,6 +69,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos komunistų partija]]

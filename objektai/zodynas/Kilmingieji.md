@@ -14,6 +14,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - kunigaikštis
@@ -62,3 +63,23 @@ Kilmingieji šiame įraše žymi socialinių viršūnių sluoksnį. Ankstesnis �
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Estai]]
 - [[objektai/autoriai/J. Posilge]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/asmenys/Sklodas iš Kvedenavos]]
+- [[objektai/asmenys/Skumas]]
+- [[objektai/asmenys/Stucė]]
+- [[objektai/ivykiai/Trijų brolių ir 40 vyrų žūtis prie Balgos]]
+- [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]
+- [[objektai/zodynas/atskalūnybė atskalūnai]]
+- [[objektai/zodynas/kilmingieji nobilis]]
+- [[objektai/zodynas/kilmingieji nobilis vitingai bajorai]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
+- [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]
+- [[objektai/zodynas/šeimyna familia domus]]

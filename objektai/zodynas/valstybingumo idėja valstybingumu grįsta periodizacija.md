@@ -25,6 +25,7 @@ amziai:
 date_start: '1385'
 date_end: '1918'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dinastija
   - sąvoka
@@ -95,4 +96,6 @@ tags:
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/marksistinė periodizacija]]
+- [[objektai/zodynas/valstybingumo idėja]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]

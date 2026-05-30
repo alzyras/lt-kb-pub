@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: Petras Goštautas
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Goštautas
   - Gastold
@@ -31,6 +31,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - didikas
 ---
@@ -281,17 +282,16 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - t-009
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Pranciškus]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/regula]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]

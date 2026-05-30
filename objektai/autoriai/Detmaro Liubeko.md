@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - mūšis
@@ -64,5 +65,5 @@ Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai api
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

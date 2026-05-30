@@ -16,6 +16,7 @@ amziai:
 date_start: '1427'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - kunigaikštis
@@ -104,7 +105,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/zodynas/kunigaikščiai]]

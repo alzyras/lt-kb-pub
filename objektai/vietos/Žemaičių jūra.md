@@ -1,7 +1,7 @@
 ---
 tipas: "vieta"
 pavadinimas: "Žemaičių jūra"
-sukurta: "2026-04-30"
+sukurta: '2026-04-30'
 variantai:
   - "Žemaičių jūra"
   - "Žemaičių jūros"
@@ -25,6 +25,7 @@ amziai:
 date_start: '1561'
 date_end: ''
 patikimumas: "aukstas"
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Žemaičių jūra

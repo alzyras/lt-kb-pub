@@ -16,6 +16,7 @@ amziai:
 date_start: '1861'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
   - tauta
@@ -106,5 +107,7 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
 - [[objektai/daiktai/Akademijos teatro įranga]]
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/feodalizmas]]
+- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

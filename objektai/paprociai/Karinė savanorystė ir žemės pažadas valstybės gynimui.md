@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Karinė savanorystė ir žemės pažadas valstybės gynimui"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -24,6 +24,7 @@ dalyviai:
   - "Lietuvos vyriausybė"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Karinė savanorystė ir žemės pažadas valstybės gynimui

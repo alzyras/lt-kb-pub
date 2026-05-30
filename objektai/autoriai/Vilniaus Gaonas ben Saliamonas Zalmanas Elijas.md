@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Vilniaus Gaonas ben Saliamonas Zalmanas Elijas"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Vilniaus Gaonas"
   - "Gaonas"
@@ -28,6 +28,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - mokslininkas
@@ -172,6 +173,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/ješiva]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]

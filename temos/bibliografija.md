@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 9.
+Objektų skaičius: 16.
 
 ## Kaip naudoti
 
@@ -20,13 +20,20 @@ Objektų skaičius: 9.
 
 ### Autoriai
 - [[objektai/autoriai/Ch. Wl. Chojnaccy]]
+- [[objektai/autoriai/Dundulienė P]]
 - [[objektai/autoriai/E. Wermke]]
+- [[objektai/autoriai/F. Bopas]]
+- [[objektai/autoriai/G. H. F. Neselmanas]]
+- [[objektai/autoriai/J. Endzelynas]]
 - [[objektai/autoriai/K. Žukas]]
+- [[objektai/autoriai/Kubicka W]]
 - [[objektai/autoriai/M. Szameitat]]
 - [[objektai/autoriai/P. Rėklaitis]]
 - [[objektai/autoriai/S. Baltramaitis]]
+- [[objektai/autoriai/Vėlius N]]
 
 ### Žodynas
 - [[objektai/zodynas/bibliografiniai rinkiniai bibliografinis rinkinys]]
 - [[objektai/zodynas/bibliografinis biuletenis sąsiuvinys]]
 - [[objektai/zodynas/bibliografinė apžvalga bibliografinis veikalas]]
+- [[objektai/zodynas/lotyniškosios ir vokiškosios vardų formos]]

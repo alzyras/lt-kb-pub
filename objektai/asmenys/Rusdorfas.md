@@ -17,6 +17,7 @@ amziai:
 date_start: '1430'
 date_end: '1435'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karalius

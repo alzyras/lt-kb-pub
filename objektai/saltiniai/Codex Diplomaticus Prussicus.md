@@ -12,9 +12,12 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 datos:
+  - '1148 m.'
   - '1299 m.'
+  - '1300 m.'
   - '1404 m.'
   - '1836 m.'
+  - '1842 m.'
   - '1848 m.'
   - '1861 m.'
   - '1978 m.'
@@ -23,15 +26,18 @@ periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
   - 'naujieji laikai'
+  - 'viduramžiai'
 amziai:
+  - 'XII'
   - 'XIII'
   - 'XV'
   - 'XIX'
   - 'XX'
   - 'XXI'
-date_start: '1299'
+date_start: '1148'
 date_end: '2026'
 patikimumas: ''
+atnaujinta: '2026-04-27'
 tags: []
 ---
 # Codex Diplomaticus Prussicus
@@ -41,45 +47,22 @@ tags: []
 „Codex Diplomaticus Prussicus“ pateikiamas kaip J. Voigto išleistas Prūsijos diplomatinių dokumentų rinkinys, apimantis 1299-1404 m. medžiagą. Kitas paminėjimas rodo, kad rinkinys šiame veikale vartojamas kaip dokumentinis pagrindas Jogailos laikotarpio įvykiams cituoti.
 
 ## Teiginiai
-- t-001
-  teiginys: '„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad codex diplomaticus Prussicus / J.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '= Codex Diplomaticus Prussicus.'
-  pagrindžia:
-    - c-002
-
+    - c-003
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: '„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    CB = Commentationes Balticae, Jahrbuch des Baltischen For­
-    schungsinstituts, t. 1-13, Bonn 1954-67.
-    CDPr = Codex Diplomaticus Prussicus, išl. J. Voigt, t. 3-6 (1299-
-    1404), Karaliaučius 1848-1861.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: '= Codex Diplomaticus Prussicus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+- c-003
+  santrauka: 'Dusburgietis teigia, kad codex diplomaticus Prussicus / J.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    C. D. Prus. = Codex Diplomaticus Prussicus. I B., Koenigsberg,
-    1836.
+    Codex diplomaticus Prussicus / J. Voigt — Königsberg, Bd. 1 (1148—1300), 1836; Bd.
+    2, 1842.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003

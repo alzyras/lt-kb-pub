@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Vasaros valgymas ant žemės ir paprasti sriuobalai
@@ -88,4 +89,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Duona]]
 - [[objektai/zodynas/Sriuobalas|sriuobalas]]

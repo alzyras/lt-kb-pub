@@ -21,6 +21,7 @@ amziai:
 date_start: '1387'
 date_end: '1417'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - bajorija
   - ivykis
@@ -80,9 +81,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/gotika]]

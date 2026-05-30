@@ -17,6 +17,7 @@ amziai:
 date_start: '1417'
 date_end: '1421'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ežeras
   - paprotys
@@ -74,4 +75,4 @@ Nenurodyta
 - [[temos/ežeras]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

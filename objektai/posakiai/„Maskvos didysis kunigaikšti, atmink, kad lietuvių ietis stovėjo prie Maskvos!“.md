@@ -18,6 +18,7 @@ amziai:
 date_start: '1368'
 date_end: '1372'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigaikštis
   - miestas
@@ -92,7 +93,7 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/grupes/Lietuviai]]

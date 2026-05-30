@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: sutartinės
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - sutartiniais
   - sutartines
@@ -9,6 +9,7 @@ variantai:
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: vidutinis
+atnaujinta: '2026-04-30'
 ---
 # sutartinės
 

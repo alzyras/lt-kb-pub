@@ -16,6 +16,7 @@ datos:
   - '1891 m.'
   - '1894 m.'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - dokumentas
   - saltinis

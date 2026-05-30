@@ -14,6 +14,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - posakis
   - valstybė
@@ -57,6 +58,6 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Enėjas Silvijus Pikolominis]]
 - [[objektai/posakiai/„civilizaciniam šuoliui“]]

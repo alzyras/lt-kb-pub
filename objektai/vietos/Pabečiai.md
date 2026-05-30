@@ -11,7 +11,14 @@ variantai:
 aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
 tags:
   - vieta
 ---
@@ -53,6 +60,10 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
     - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie brolių pergalę prieš sembus Bečių valsčiuje Sembos žemėje yra valsčius, vardu Bečiai381, kur gyveno žiaurūs žmonės, be to, tokie galingi, kad vienas kaimas galėjęs duoti penkis šimtus karui tinkamų vyrų, kurių patys vieni Karaliaučiaus broliai nė nedrįso.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Citata lokalizuoja Pabečius šiaurinėje Semboje ir pateikia dabartinį atitikmenį.'
@@ -100,3 +111,21 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-006
+  santrauka: 'Dusburgietis teigia, kad apie brolių pergalę prieš sembus Bečių valsčiuje Sembos žemėje yra valsčius, vardu Bečiai381, kur gyveno žiaurūs žmonės, be to, tokie galingi, kad vienas kaimas galėjęs duoti penkis šimtus karui tinkamų vyrų, kurių patys vieni Karaliaučiaus broliai nė nedrįso.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    108 (103). Apie brolių pergalę prieš sembus Bečių valsčiuje
+
+      Sembos žemėje yra valsčius, vardu Bečiai381, kur gyveno žiaurūs žmonės, be to, tokie
+    galingi, kad vienas kaimas galėjęs duoti penkis šimtus karui tinkamų vyrų, kurių patys
+    vieni Karaliaučiaus broliai nė nedrįso užkabinti. Dėl to jie paprašė Livonijos magistrą
+    atsiųsti iš savo žemių jiems  į pagalbą brolių bei ginklanešių, nurodydami dieną bei
+    vietą, iš kur turėjo kartu traukti į kovą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

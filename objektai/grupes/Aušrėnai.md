@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags:
   - grupe
 ---
@@ -68,7 +69,6 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »]]
-- [[objektai/autoriai/K. Būga]]
 - [[objektai/grupes/Svebai]]
 - [[objektai/zodynas/glesum]]
 - [[objektai/daiktai/Šernų amuletai]]

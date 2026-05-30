@@ -1,7 +1,7 @@
 ---
 tipas: "vieta"
 pavadinimas: "Isteris"
-sukurta: "2026-04-30"
+sukurta: '2026-04-30'
 variantai:
   - "Isteris"
   - "Dunojus"
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Isteris

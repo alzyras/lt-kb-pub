@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: "Deglas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - deglas
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Deglas
@@ -79,3 +80,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/asmenys/Albertas iš Meiseno]]
+- [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]

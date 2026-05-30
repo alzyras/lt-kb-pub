@@ -20,6 +20,7 @@ amziai:
 date_start: '1314'
 date_end: '1314'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
 tags:
   - ivykis
   - karas
@@ -107,6 +108,9 @@ Abi Medininkų puolimo bangos baigėsi krašto niokojimu, bet Sizditės pilis ne
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Henrikas iš Plockės]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/ivykiai/Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)]]
+- [[objektai/grupes/Sembai]]

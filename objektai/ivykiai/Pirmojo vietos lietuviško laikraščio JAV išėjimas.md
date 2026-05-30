@@ -18,6 +18,7 @@ amziai:
 date_start: '1879'
 date_end: '1910'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
   - tauta

@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["Piniginio vieneto įstatymas", "lito įvedimas"]
 aliases: ["Piniginio vieneto įstatymas", "lito įvedimas"]
 saltiniai:
@@ -22,6 +22,7 @@ amziai:
 date_start: '1922'
 date_end: ''
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags:
   - reforma
 ---

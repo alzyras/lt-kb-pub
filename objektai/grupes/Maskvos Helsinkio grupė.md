@@ -20,6 +20,7 @@ amziai:
 date_start: '1976'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - valstybė
@@ -67,6 +68,8 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kauneckas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Jurijus Orlovas]]

@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - didikas
   - kunigaikštis
@@ -86,11 +87,9 @@ tags:
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/protestantizmas]]
+- [[objektai/asmenys/Abraomas]]
 - [[objektai/asmenys/Abraomas Kulvietis]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]

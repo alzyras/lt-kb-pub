@@ -17,6 +17,7 @@ amziai:
 date_start: '1385'
 date_end: '1399'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - ordinas
@@ -100,7 +101,6 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/grupes/Totoriai]]

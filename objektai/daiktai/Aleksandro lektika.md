@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Aleksandro lektika
-sukurta: 2026-05-27
+sukurta: '2026-05-27'
 variantai:
   - lektika
 aliases: []
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - transportas
 ---
@@ -81,5 +82,6 @@ Nenurodyta
 - [[temos/transportas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Elena]]
 - [[objektai/asmenys/Aleksandras]]

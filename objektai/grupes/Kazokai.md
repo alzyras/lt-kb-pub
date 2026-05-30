@@ -20,6 +20,7 @@ amziai:
 date_start: '1621'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - miestas
@@ -174,6 +175,7 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/husarai]]
@@ -184,7 +186,6 @@ tags:
 - [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]
 - [[objektai/grupes/Dono kazokų pulkas]]
 - [[objektai/asmenys/Fulvio Ruggieri]]
-- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/asmenys/Ivanas Ganeckis]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]

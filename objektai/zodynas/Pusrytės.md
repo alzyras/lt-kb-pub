@@ -1,13 +1,14 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: pusrytės
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 laikotarpis: nenurodyta tiesiogiai
 datos:
   - nenurodyta tiesiogiai
 patikimumas: vidutinis
+atnaujinta: '2026-04-30'
 ---
 # pusrytės
 

@@ -14,6 +14,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
 ---
@@ -65,6 +66,8 @@ Greta didžiojo etmono M.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/hetmonas]]
@@ -72,6 +75,7 @@ Greta didžiojo etmono M.
 - [[objektai/grupes/Abiejų Tautų konfederacija]]
 - [[objektai/asmenys/Aleksandras Gonsevskis]]
 - [[objektai/asmenys/Antoine Gramont]]
+- [[objektai/asmenys/Augustinas Rotundas]]
 - [[objektai/daiktai/Didysis Lietuvos antspaudas]]
 - [[objektai/asmenys/Fridrichas Ketleris]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]

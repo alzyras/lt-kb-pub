@@ -22,6 +22,7 @@ amziai:
   - 'XIV'
 date_start: '1398'
 date_end: '1398'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - kraštas
@@ -122,7 +123,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: Ivinskis Salyno taiką aiškina kaip galimą Lietuvos ir ordino santykių pervartą, jei ji būtų pastoviai įgyvendinta.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -142,7 +142,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
 - c-005
   santrauka: Salyno suvažiavime bajorai Vytautą paskelbė Lietuvos karaliumi.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -209,12 +208,13 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]

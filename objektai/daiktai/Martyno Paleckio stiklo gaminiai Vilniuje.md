@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Martyno Paleckio stiklo gaminiai Vilniuje
-sukurta: 2026-05-27
+sukurta: '2026-05-27'
 variantai:
   - Kurovo stiklinės
   - langų stiklas
@@ -23,6 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Martyno Paleckio stiklo gaminiai Vilniuje

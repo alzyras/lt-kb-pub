@@ -17,6 +17,7 @@ amziai:
 date_start: '1960'
 date_end: '1975'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
 ---
@@ -68,5 +69,6 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Pranas Morkus]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Aleksandras Štromas]]
 - [[objektai/asmenys/Tomas Venclova]]

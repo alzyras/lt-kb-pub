@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: lažas
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - lažu
 saltiniai:
@@ -10,6 +10,7 @@ laikotarpis: 1569 m. kontekstas
 datos:
   - 1569 m. kontekstas
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # lažas
 

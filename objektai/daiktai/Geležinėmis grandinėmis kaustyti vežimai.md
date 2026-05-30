@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
   - ginklas
@@ -111,7 +112,6 @@ Nenurodyta
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/daiktai/Vežimai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
-- [[objektai/zodynas/gurguolė]]

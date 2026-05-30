@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - tikėjimas
@@ -53,8 +54,5 @@ Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį �
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Rytas]]

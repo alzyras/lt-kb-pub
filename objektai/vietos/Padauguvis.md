@@ -1,7 +1,7 @@
 ---
 tipas: "vieta"
 pavadinimas: "Padauguvis"
-sukurta: "2026-04-25"
+sukurta: '2026-04-25'
 variantai:
   - "Padaugavys"
   - "Padauguvis"
@@ -31,6 +31,7 @@ amziai:
 date_start: '1199'
 date_end: '2026'
 patikimumas: "žemas"
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # Padauguvis

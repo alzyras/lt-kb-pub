@@ -16,6 +16,7 @@ amziai:
 date_start: '1248'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
   - sutartis
@@ -57,6 +58,7 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Danielius]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Vykintas]]
 - [[objektai/autoriai/Zajączkowski, St]]

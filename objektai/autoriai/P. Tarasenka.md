@@ -17,6 +17,7 @@ amziai:
 date_start: '1929'
 date_end: '1956'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - autorius
   - ritualas

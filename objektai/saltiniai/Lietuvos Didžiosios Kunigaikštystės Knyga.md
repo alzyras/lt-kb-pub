@@ -18,6 +18,7 @@ amziai:
 date_start: '1993'
 date_end: '2008'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - mokslininkas
   - saltinis

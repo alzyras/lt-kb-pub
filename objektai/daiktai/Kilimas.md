@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Kilimas
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - sage
   - 'sagše'
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Kilimas
@@ -45,23 +46,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Kilimas buvo moterų išeiginis drabužis, didelis pailgas vilnonis raištis, dėvėtas einant toliau iš namų.'
+- t-001
+  teiginys: '`Kilimas` šiame tekste reiškė moterų išeiginę vilnonę skarą ar apsiaustą.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-004
-  teiginys: 'Kilimą moterys dėvėjo ant pečių, susegdavo ant dešiniojo peties ir juo galėjo apsisiausti lyjant ar esant blogam orui.'
+- t-002
+  teiginys: '`Kilimas` buvo dėvimas ant pečių ir tinkamas apsisiausti nuo lietaus ar blogo oro.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kilimas buvo moterų išeiginis drabužis, didelis pailgas vilnonis raištis, dėvėtas einant toliau iš namų.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: `Kilimas` šiame tekste reiškė moterų išeiginę vilnonę skarą ar apsiaustą.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Išeiginiu drabužiu motriškųjų buvo taip vadinamas kilimas^338 , nuo žodžio keliauti, kurį drabužį iš namų eidamos kur toli
         tesiėmė; vadino dar jį sage, arba sagše^339 , nuo žodžio segti, kurią dar tankiau vilnonę^340 vadino;
@@ -80,8 +81,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-001
+    - t-002
 
 ## Pastabos
 
@@ -90,5 +91,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
 - [[objektai/zodynas/Kilimas|kilimas]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

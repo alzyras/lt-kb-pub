@@ -22,6 +22,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ežeras
   - ordinas

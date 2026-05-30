@@ -17,6 +17,7 @@ amziai:
 date_start: '1351'
 date_end: '1382'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - ordinas
@@ -77,7 +78,3 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]

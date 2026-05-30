@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -22,6 +22,7 @@ dalyviai:
   - "tikintieji"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags:
   - tikėjimas
 ---
@@ -85,9 +86,9 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
-- [[temos/tikėjimas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/posakiai/lietuviška Golgota]]
 - [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]

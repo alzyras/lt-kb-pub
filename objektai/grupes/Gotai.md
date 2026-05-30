@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - upė
@@ -55,14 +56,14 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/autoriai/Jordanas]]
 - [[objektai/autoriai/Jordanes]]
 - [[objektai/autoriai/Kassiodoras]]
 - [[objektai/grupes/Vidivarii]]
 - [[objektai/zodynas/Vidivarijai]]
 - [[objektai/posakiai/pacatum hominum genus omnino]]
+- [[objektai/autoriai/Łowmiański H]]

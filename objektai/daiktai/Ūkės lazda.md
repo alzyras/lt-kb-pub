@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Ūkės lazda'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Ūkės lazda
@@ -41,29 +42,35 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-005
+- t-001
   teiginys: 'Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-006
+- t-002
   teiginys: 'Lazda siejama su krive krivaičiu ir kreiva lazda.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-007
-  teiginys: 'Sueigose lazda padėdavo palaikyti tylą ir tvarką.'
+- t-003
+  teiginys: 'Ūkės lazda buvo paimama valdant tautą.'
   pagrindžia:
     - c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Sueigose lazda padėdavo palaikyti tylą ir tvarką.'
+  pagrindžia:
+    - c-004
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Jo įsakymai buvo svietui kaip dievo žodžiais, kuriuos skelbė jam savo lazda, kurią kožnas pamatęs jo siuntinio rankoje tuojau klausė, kas
         buvo įsakyta, it būt gromatą, jo ranka rašytą, perskaitęs. Nuo ko kalnėnai ir žemaičiai iki šiai dienai
@@ -76,10 +83,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-001
 - c-002
-  santrauka: 'Lazda siejama su krive krivaičiu ir kreiva lazda.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Lazda siejama su krive krivaičiu ir kreiva lazda.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs.
   citata_rodoma: ""
@@ -88,10 +95,23 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-002
 - c-003
-  santrauka: 'Sueigose lazda padėdavo palaikyti tylą ir tvarką.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Ūkės lazda buvo paimama valdant tautą.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
+  citata_originali: |
+    o kūrėjų kūrėjas paėmė vėl ūkės lazdą ir vienas pats valdė tautą, kaip jei
+        pirm.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Sueigose lazda padėdavo palaikyti tylą ir tvarką.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Tuose sueimuose visą parėdką vedė kunigai, kurių tenai valdžia buvo didelė, nesgi, su lazda
         jam mosterėjus, visi nutilo.
@@ -101,12 +121,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
 - [[objektai/zodynas/Šaldros|šaldros]]
 - [[objektai/grupes/Žemaičiai]]

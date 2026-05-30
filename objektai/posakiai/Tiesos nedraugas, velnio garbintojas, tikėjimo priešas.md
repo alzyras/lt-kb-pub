@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Tiesos nedraugas, velnio garbintojas, tikėjimo priešas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "bjaurūs tikėjimo ardytojai, eretikai, melagiai ir jokios garbės neturintys žmonės"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Tiesos nedraugas, velnio garbintojas, tikėjimo priešas
@@ -110,5 +111,5 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/daiktai/Gedimino antspaudas]]

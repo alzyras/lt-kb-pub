@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - kunigaikštis
@@ -115,7 +116,6 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
 - [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]
-- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/ekskomunika]]
 - [[objektai/posakiai/in odium Sigismundi]]
 - [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]

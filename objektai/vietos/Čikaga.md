@@ -25,6 +25,7 @@ amziai:
 date_start: '1879'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - karas
   - seimas

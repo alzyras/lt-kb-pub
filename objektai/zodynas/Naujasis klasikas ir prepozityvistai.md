@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Naujasis klasikas ir prepozityvistai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - naujasis klasikas
   - prepozityvistai
@@ -18,6 +18,7 @@ amziai: []
 date_start: ""
 date_end: ""
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Naujasis klasikas ir prepozityvistai

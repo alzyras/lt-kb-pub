@@ -16,6 +16,7 @@ amziai:
 date_start: '1519'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - bajorija
@@ -99,8 +100,5 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]

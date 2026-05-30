@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Lietuvos Valstybės Konstitucijos priėmimas (1922 m. rugpjūčio 1 d.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["1922 m. Lietuvos Valstybės Konstitucijos priėmimas", "Konstitucijos priėmimas"]
 aliases: ["1922 m. Lietuvos Valstybės Konstitucijos priėmimas", "Konstitucijos priėmimas"]
 saltiniai:
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Lietuvos Valstybės Konstitucijos priėmimas (1922 m. rugpjūčio 1 d.)

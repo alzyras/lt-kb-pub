@@ -25,6 +25,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus gaisrai (1513 m. vasario 21 d. ir 1530 m.)

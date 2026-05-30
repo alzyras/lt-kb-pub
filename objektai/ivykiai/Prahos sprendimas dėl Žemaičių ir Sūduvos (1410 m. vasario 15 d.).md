@@ -16,6 +16,7 @@ amziai:
 date_start: '1410'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - ordinas
@@ -67,7 +68,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Butrimas]]
+- [[objektai/autoriai/A. Butrimas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vaclovas]]
 - [[objektai/asmenys/Vengrijos Zigmantas]]

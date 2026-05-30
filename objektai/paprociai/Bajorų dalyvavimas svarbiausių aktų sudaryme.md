@@ -23,6 +23,7 @@ amziai:
 date_start: '1401'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - paprotys
   - valdovas
@@ -164,5 +165,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Čupurna]]

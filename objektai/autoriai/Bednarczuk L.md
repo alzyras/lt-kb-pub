@@ -1,0 +1,50 @@
+---
+tipas: autorius
+pavadinimas: 'Bednarczuk L'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - autorius
+---
+# Bednarczuk L
+
+## Santrauka
+
+Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54, 66); žr. ir GAO, p. 204; Gimbutienė.
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54, 66); žr. ir GAO, p. 204; Gimbutienė.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad antikinių šaltinių tyrimas rodo, kad lotyniškoji forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54, 66); žr. ir GAO, p. 204; Gimbutienė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Antikinių šaltinių tyrimas rodo, kad lotyniškoji
+    forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros
+    pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
+    66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]

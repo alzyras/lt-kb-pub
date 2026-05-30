@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -22,6 +22,7 @@ dalyviai:
   - "Vytauto Didžiojo mirties 500-ųjų metinių komitetas"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika

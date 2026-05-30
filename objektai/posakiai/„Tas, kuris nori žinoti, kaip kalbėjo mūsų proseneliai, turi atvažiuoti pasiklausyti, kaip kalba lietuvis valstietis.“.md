@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - posakis
   - tauta
@@ -48,4 +49,5 @@ Lietuvių kalba geriausiai iš visų gyvųjų indoeuropiečių kalbų išlaikė 
 ### Susiję objektai
 - [[objektai/asmenys/Antuanas Mejė]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/pagonybė]]

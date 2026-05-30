@@ -26,6 +26,7 @@ amziai:
 date_start: '1562'
 date_end: '1575'
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Ivanas Fiodorovas (spaustuvininkas, XVI a.)

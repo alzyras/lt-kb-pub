@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Ritmuša'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Ritmuša
@@ -41,23 +42,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
-  teiginys: 'Ritmuša buvo naudojama vaikams mušant ritinį ir atbloškiant į juos lekiantį ritinį kitam žaidėjui.'
+- t-001
+  teiginys: 'Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-004
-  teiginys: 'Ritmuša buvo laikoma lietuvių jaunuomenės karo įrankiu, kuriuo nuo mažų dienų mokytasi gintis ir įveikti priešą.'
+- t-002
+  teiginys: 'Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ritmuša buvo naudojama vaikams mušant ritinį ir atbloškiant į juos lekiantį ritinį kitam žaidėjui.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Nuo to kiekvienas gali minėti, kas per karingumas turėjo būti tos giminės taip augusios, nesgi
         vaikeliai^396 ?, atlikę nuo kokio noris darbo, tuojau kibo į ritinį mušti, ir tas buvo skudriu vadinamas,
@@ -69,10 +70,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 - c-002
-  santrauka: 'Ritmuša buvo laikoma lietuvių jaunuomenės karo įrankiu, kuriuo nuo mažų dienų mokytasi gintis ir įveikti priešą.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Trumpai sakant, ritmuša buvo senovėj karės įrankis lietuvių jaunuomenės, kalnėnų ir žemaičių,
         kaipo visų didžiausia karės mokslinyčia^399 , kaip tuojau regėsim, nesgi tuo mokės nuo pat mažų
@@ -83,7 +84,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Pastabos
 

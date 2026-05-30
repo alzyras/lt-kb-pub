@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
 ---
@@ -62,4 +63,3 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
-- [[objektai/grupes/Lietuvos komunistų partija]]

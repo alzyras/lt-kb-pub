@@ -26,6 +26,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Mūsų kraštą pavergti (kraštas)
@@ -94,4 +95,4 @@ tags: []
 - [[temos/frazė]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

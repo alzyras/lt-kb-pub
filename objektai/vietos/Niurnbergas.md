@@ -19,6 +19,7 @@ amziai:
 date_start: '1741'
 date_end: '1934'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - krikštas
   - vieta

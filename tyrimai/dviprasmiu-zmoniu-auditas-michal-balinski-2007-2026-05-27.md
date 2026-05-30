@@ -3,6 +3,8 @@ tipas: kokybes_auditas
 pavadinimas: Dviprasmių žmonių auditas - Michał Baliński, Vilniaus miesto istorija (2007 m.)
 saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+sukurta: ''
+atnaujinta: ''
 ---
 # Dviprasmių žmonių auditas
 

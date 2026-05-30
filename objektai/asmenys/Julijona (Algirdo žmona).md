@@ -21,6 +21,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - sutartis
@@ -135,9 +136,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Vyguntas]]

@@ -28,6 +28,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Drang nach Osten
@@ -88,5 +89,4 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Vokiečiai]]

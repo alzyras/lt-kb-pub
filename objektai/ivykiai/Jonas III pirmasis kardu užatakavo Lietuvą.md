@@ -18,6 +18,7 @@ amziai:
 date_start: '1492'
 date_end: '1795'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karas
@@ -74,6 +75,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
   - valstybė
@@ -52,6 +53,5 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Aukštaičiai]]
 - [[objektai/zodynas/neofitas]]
 - [[objektai/zodynas/žygis]]

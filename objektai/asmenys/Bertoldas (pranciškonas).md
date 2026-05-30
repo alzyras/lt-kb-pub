@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - ordinas
@@ -58,4 +59,12 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Bertoldas iš Nordhauzeno]]
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- [[objektai/asmenys/Gotfridas Hohenlohė]]
+- [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]]
+- [[objektai/ivykiai/Kolainių pilies sudeginimas ir Junigedos valsčiaus nusiaubimas (1291 m. vasario 2 d.)]]
+- [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
+- [[objektai/ivykiai/Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]

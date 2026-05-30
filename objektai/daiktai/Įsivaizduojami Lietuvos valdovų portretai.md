@@ -21,6 +21,7 @@ amziai:
 date_start: '1392'
 date_end: '1838'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - daiktas
   - dinastija

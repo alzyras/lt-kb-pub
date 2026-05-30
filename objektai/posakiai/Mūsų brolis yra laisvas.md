@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - bajorija
   - kunigaikštis
@@ -60,5 +61,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/kunigaikščiai]]

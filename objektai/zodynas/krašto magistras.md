@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - kraštas
   - ordinas
@@ -54,3 +55,8 @@ Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir 
 ### Susiję objektai
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/autoriai/Domagała R]]
+- [[objektai/asmenys/Glapas]]
+- [[objektai/autoriai/Guldon Z]]
+- [[objektai/autoriai/Janikowski J]]
+- [[objektai/autoriai/Powierski J]]

@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas
@@ -77,5 +78,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
+- [[objektai/asmenys/Zemovitas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]

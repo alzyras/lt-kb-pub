@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Irena Katilienė"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Irena Katilienė"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys:
   - vertėja
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
 ---

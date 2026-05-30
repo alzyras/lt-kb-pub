@@ -17,6 +17,7 @@ amziai:
 date_start: '1250'
 date_end: '1251'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-30'
 tags:
   - asmuo
 ---
@@ -39,6 +40,10 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
     - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų naudos, todėl kitais metais jį nužudė frizai.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Abelis pateikiamas kaip Henriko žudikas ir nesėkmingas pretendentas į karaliaus vietą.'
@@ -60,7 +65,24 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų naudos, todėl kitais metais jį nužudė frizai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Henriko, Danijos karaliaus, žūtį
+
+      1250 metais Henriką, Danijos karalių, nužudė jo jaunesnysis brolis Abelis, norėjęs
+    už jį karaliauti, tačiau teisingasis dievas taip patvarkė, kad jis iš piktadarystės negautų
+    naudos, todėl kitais metais  jį nužudė frizai (Mart. p. 404).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Henrikas (Danijos karalius)]]

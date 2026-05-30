@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - elekcija
@@ -44,9 +45,6 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Nikolajaus II manifesto paskelbimas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų]]

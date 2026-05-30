@@ -17,6 +17,7 @@ amziai:
 date_start: '1961'
 date_end: '1967'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
 ---

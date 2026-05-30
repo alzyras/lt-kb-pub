@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Albertas Krantzas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Alb. Krantz"
   - "Alb. Krantzii"
@@ -22,6 +22,7 @@ vaidmenys:
   - metraštininkas
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
 ---

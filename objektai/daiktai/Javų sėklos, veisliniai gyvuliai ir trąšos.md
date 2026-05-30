@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Javų sėklos, veisliniai gyvuliai ir trąšos"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Javų sėklos, veisliniai gyvuliai ir trąšos"
 aliases: []
@@ -26,6 +26,7 @@ amziai:
 date_start: '1930'
 date_end: '2026'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Javų sėklos, veisliniai gyvuliai ir trąšos

@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Jūratė Dalia Baronienė"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Jūratė Dalia Baronienė"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys:
   - vertėja
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
 ---

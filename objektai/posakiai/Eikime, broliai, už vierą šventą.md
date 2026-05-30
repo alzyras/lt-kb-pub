@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-02'
 tags:
   - posakis
 ---
@@ -67,3 +68,4 @@ tags:
 - [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Antanas Mackevičius]]

@@ -3,15 +3,15 @@ tipas: zodyno_irasas
 pavadinimas: vaivada
 sukurta: '2026-04-25'
 variantai:
-  - vaivados
-  - Krokuvos vaivada
-  - Vilniaus vaivada
-  - palatinus
+- vaivados
+- Krokuvos vaivada
+- Vilniaus vaivada
+- palatinus
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1413 m.'
@@ -31,6 +31,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: vidutinis
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # vaivada
@@ -167,7 +168,6 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/asmenys/Jurgis Boliminas]]
 - [[objektai/asmenys/Jurgis Geldgaudas]]
 - [[objektai/asmenys/Jurgis Radvila]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]
@@ -182,6 +182,7 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/grupes/Vokietijos kunigaikščiai]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/daiktai/Šarvinės pirštinės]]

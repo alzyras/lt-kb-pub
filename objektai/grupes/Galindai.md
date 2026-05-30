@@ -18,6 +18,7 @@ amziai:
 date_start: '1058'
 date_end: '1147'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - upė
@@ -29,51 +30,59 @@ tags:
 Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai ir stavanai ligi alanų; už jų igilionai... ) 104 I SKYRIUS: LIETUVOS PROISTORĖ teminimuose prūsų giminių pavadinimuose : galindai (« Galindite ») ir sūduviai (« Sudowite »). Su jau Ptolomėjaus minimais galindais yra tapatinama Ipati­ jaus kronikoje du kartu (1058 ir 1147 m.) minimi «ljudi Goliad’ ».
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ipatiejaus kronikoje 1058 ir 1147 m. minimi „ljudi Goliad“ tapatinami su Ptolemajo minimais galindais.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
+    - c-003
+    - c-004
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ipatiejaus kronikoje 1058 ir 1147 m. minimi „ljudi Goliad“ tapatinami su Ptolemajo minimais galindais.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-003
+  santrauka: 'Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kryžiuočių ordino kronikininkas
-    Dusburgas 1326 m. prie prūsų priskaitė 10 kilčių : pamedėnus (Po­
-    mesani). pagudėnus (Pogesani), varmius (Warmienses), natangus
-    (Nattangi), sembus (Sambite), nadruvius (Nadrowite), skalvius
-    (Scalowite), sūduvius (Sudowite), galindus (Galindite), bartus (Bar­
-    tni vel Bartenses).
-    Su jau Ptolomėjaus minimais galindais yra tapatinama Ipati­
-    jaus kronikoje du kartu (1058 ir 1147 m.) minimi «ljudi Goliad’ ».
-    Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
-    kos kilties atplaiša, kuri, pasėkoje rytinių slavų ekspansijos į vaka­
-    rus, paliko prie Protvos upės atkirsta asimiliacijai (M. Vasmer).
+    Apie Galindos žemės nuniokojimą
+
+      Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai
+    sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti. Kaip tas faraonas,
+    kuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms:  „Jei gims berniukas,
+    nužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės
+    būtų nužudomos, o berniukai paliekami karui. Susivokę šia nutartimi vargu ką laimėsią,
+    nes motinos, išvydusios gimusių mergaičių grožį, slapčiomis jas augino, vieningai
+    nutarė nupjaustyti visoms savo žmonoms krūtis, kad neturėtų kuo maitinti kūdikių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: Galindai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pagausėjo galindų, kurie, daugindamiesi kaip grybai po lietaus, taip nepaprastai
+    sustiprėjo ir taip perpildė savo žemę, kad ji nebegalėjo jų išmaitinti. Kaip tas faraonas,
+    kuris, norėdamas sunaikinti Izraelio tautą, tarė priėmėjoms:  „Jei gims berniukas,
+    nužudykite jį, jeigu mergaitė — palikite gyvą“, taip ir jie nutarė, kad gimusios mergaitės
+    būtų nužudomos, o berniukai paliekami karui. Susivokę šia nutartimi vargu ką laimėsią,
+    nes motinos, išvydusios gimusių mergaičių grožį, slapčiomis jas augino, vieningai
+    nutarė nupjaustyti visoms savo žmonoms krūtis, kad neturėtų kuo maitinti kūdikių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/zodynas/ekspansija]]
+- [[objektai/autoriai/Jaskanis J]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/autoriai/Mepжинский А. Ф]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
 - [[objektai/asmenys/Ptolemajas]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/autoriai/Топоров B. H]]
+- [[objektai/autoriai/Энговатов H. В]]
+- [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]

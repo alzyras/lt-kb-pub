@@ -22,6 +22,7 @@ amziai:
 date_start: '1914'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - posakis
   - upė
@@ -91,7 +92,6 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/upė]]
 - [[temos/žemėlapis]]
 
 ### Susiję objektai

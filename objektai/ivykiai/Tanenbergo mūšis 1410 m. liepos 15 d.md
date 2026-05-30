@@ -44,6 +44,7 @@ dalyviai:
   - 'kryžiuočiai'
 susije_irasai: []
 laikotarpis: '1410 m. liepos 15 d.'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - mūšis
@@ -168,7 +169,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/magistras]]

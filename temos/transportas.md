@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 14.
+Objektų skaičius: 16.
 
 ## Kaip naudoti
 
@@ -32,6 +32,12 @@ Objektų skaičius: 14.
 - [[objektai/daiktai/Laivai]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
+
+### Posakiai
+- [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]
+
+### Įvykiai
+- [[objektai/ivykiai/Martyno iš Golino kova su 20 prūsų plėšikų]]
 
 ### Žodynas
 - [[objektai/zodynas/buožės darbo valstiečiai]]

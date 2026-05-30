@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - didikas
   - grupe
@@ -67,10 +68,6 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/LDK didikai]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia]]

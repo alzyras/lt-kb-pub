@@ -23,6 +23,7 @@ amziai:
 date_start: '1964'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
 ---
@@ -86,4 +87,6 @@ Nenurodyta
 - [[objektai/autoriai/E. Danilaitė]]
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/daiktai/Geležiniai įrankiai]]
+- [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]
+- [[objektai/autoriai/Vaitkunskienė L]]
 - [[objektai/autoriai/L. Nakaitė]]

@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: tėvūnija
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - tėvūnija / pavietė / pagastas / dešimtinė
   - tėvūnijomis
@@ -22,6 +22,7 @@ laikotarpis: 1568 metai
 datos:
   - 1568 metai
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # tėvūnija
 
@@ -86,4 +87,5 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 - [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/Perveiza|perveiza]]

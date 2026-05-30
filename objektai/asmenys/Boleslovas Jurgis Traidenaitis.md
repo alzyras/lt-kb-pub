@@ -16,6 +16,7 @@ amziai:
 date_start: '1340'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -58,8 +59,8 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Kazimieras]]
-- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Boleslovas]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/asmenys/Liubartas]]

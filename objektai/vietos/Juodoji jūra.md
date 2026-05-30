@@ -1,7 +1,7 @@
 ---
 tipas: "vieta"
 pavadinimas: "Juodoji jūra"
-sukurta: "2026-04-25"
+sukurta: '2026-04-25'
 variantai:
   - "Uksinė jūra"
   - "Uksinė"
@@ -27,6 +27,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # Juodoji jūra

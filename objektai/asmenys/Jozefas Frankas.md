@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - mokslininkas
@@ -53,11 +54,10 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Andrius Sniadeckis]]
-- [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis (istorikas)]]
+- [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
 - [[objektai/asmenys/Johanas Pėteris Frankas]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/autoriai/Lelevelis]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]

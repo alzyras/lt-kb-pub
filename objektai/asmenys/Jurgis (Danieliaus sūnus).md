@@ -17,6 +17,7 @@ amziai:
 date_start: '1325'
 date_end: '1327'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -58,7 +59,9 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kalita]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Danielius]]

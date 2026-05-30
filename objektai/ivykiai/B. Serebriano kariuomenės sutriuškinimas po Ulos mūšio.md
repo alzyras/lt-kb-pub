@@ -20,6 +20,7 @@ amziai:
 date_start: '1579'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - ivykis

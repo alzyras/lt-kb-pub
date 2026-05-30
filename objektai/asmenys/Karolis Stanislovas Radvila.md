@@ -16,6 +16,7 @@ amziai:
 date_start: '1764'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - reforma
@@ -61,6 +62,5 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Čartoriskiai]]

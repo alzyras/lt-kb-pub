@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "NKVD"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Vidaus reikalų liaudies komisariatas"
   - "Vidaus reikalų liaudies komisariatas (SSRS)"
@@ -35,6 +35,7 @@ amziai:
 date_start: '1500'
 date_end: '2026'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # NKVD

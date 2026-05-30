@@ -16,6 +16,7 @@ amziai:
 date_start: '1709'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karas
@@ -83,5 +84,6 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/daiktai/Vytauto ženklas]]
 - [[objektai/zodynas/žygis]]

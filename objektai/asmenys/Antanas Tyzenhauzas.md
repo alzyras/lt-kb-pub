@@ -28,6 +28,7 @@ amziai:
 date_start: '1767'
 date_end: '1773'
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Antanas Tyzenhauzas (ūkio reformų veikėjas)

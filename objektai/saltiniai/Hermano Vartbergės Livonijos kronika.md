@@ -33,6 +33,7 @@ amziai:
 date_start: '1235'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Hermano Vartbergės Livonijos kronika
@@ -54,103 +55,24 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 - chunk_0003: Piltenės pilies puolimas ir lietuvių apgulimo mašinos.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
+- t-008
+  teiginys: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: '„Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Blokeliuose su skyriaus spalvos juostele pateikiamos įvykių liudininkų, amžininkų ar tų laikų dokumentų citatos Ryškesniu šriftu išskirtos citatoje aptariamų įvykių aplinkybės Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie Ordino brolių sumušimą.'
-  pagrindžia:
-    - c-003
-- t-007
-  teiginys: '“ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
-  pagrindžia:
-    - c-004
-
+    - c-005
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Blokeliuose su skyriaus spalvos juostele pateikiamos įvykių liudininkų, amžininkų ar tų laikų dokumentų citatos Ryškesniu šriftu išskirtos citatoje aptariamų įvykių aplinkybės Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie Ordino brolių sumušimą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-005
+  santrauka: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Blokeliuose su skyriaus spalvos
-    juostele pateikiamos įvykių
-    liudininkų, amžininkų ar tų
-    laikų dokumentų citatos
-
-    Ryškesniu šriftu
-
-    išskirtos citatoje
-    aptariamų įvykių
-    aplinkybės
-
-    Ištrauka iš Hermano Vartbergės „Livonijos
-    kronikos“ apie Ordino brolių sumušimą prie
-
-    Karusės.
-
-    „Betgi magistrą Otto su 52 ordino broliais ir
-    600 krikščionių Viko krašte (in Maritima) prie
-    Karuzo šv.
+    Lietuvos TSR istorijos feodalinio laikotarpio XIII—XIV a. epochai, kai vyko sunkus
+    karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją,
+    nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš
+    Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo (rašytos XIV a.) ir kt. kronikos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-004
-  santrauka: '“ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    “
-
-    LIETUVIAI PRIE RYGOS
-
-    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
-    šinomis sunaikina Piltenės pilį.
-
-    „1329 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-
+    - t-008
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
-    šinomis sunaikina Piltenės pilį.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: '„Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „1329 m. [1330 m. kovo pradžioje] lietuvių karalius su didele kariuomene atvyko rygiečių
-    kviestas prie Piltenės vyskupo pilies ir nuo jos su įvairiomis apgulimo mašinomis pradėjo
-    puolimą. [...] Nuniokojęs kraštą jis [Gediminas] grįžo atgal.“
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005

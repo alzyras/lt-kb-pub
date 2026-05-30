@@ -47,6 +47,7 @@ amziai:
 date_start: '1362'
 date_end: '2026'
 patikimumas: 'aukstas'
+atnaujinta: '2026-04-28'
 tags:
   - ivykis
   - mūšis
@@ -290,10 +291,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/asmenys/Vytautas]]

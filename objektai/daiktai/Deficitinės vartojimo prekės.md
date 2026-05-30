@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Deficitinės vartojimo prekės"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Deficitinės vartojimo prekės"
   - "baldai, indai ir televizoriai"
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Deficitinės vartojimo prekės
@@ -95,6 +96,7 @@ Nenurodyta
 - [[temos/buities-daiktas]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
 - [[objektai/zodynas/deficitas talonai]]

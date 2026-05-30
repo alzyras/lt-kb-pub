@@ -19,6 +19,7 @@ amziai:
 date_start: '1313'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
 tags:
   - ivykis
   - karas
@@ -124,3 +125,6 @@ Laivas buvo paimtas ir sudegintas.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Surminas]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/ivykiai/Vernerio karo laivo žygis prieš Junigedą (1313 m.)]]

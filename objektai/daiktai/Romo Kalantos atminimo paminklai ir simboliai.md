@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Romo Kalantos atminimo paminklai ir simboliai"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Romo Kalantos atminimo paminklai ir simboliai"
 aliases: []
@@ -22,6 +22,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags:
   - simbolis
 ---

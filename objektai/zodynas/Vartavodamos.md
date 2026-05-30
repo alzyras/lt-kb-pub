@@ -1,13 +1,14 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: vartavodamos
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 laikotarpis: 1595 m.
 datos:
   - 1595 m.
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # vartavodamos
 

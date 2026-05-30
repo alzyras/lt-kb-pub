@@ -23,6 +23,7 @@ amziai:
 date_start: '1724'
 date_end: '1915'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - saltinis
   - tauta

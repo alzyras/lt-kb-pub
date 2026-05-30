@@ -21,6 +21,7 @@ amziai:
 date_start: '1905'
 date_end: '1912'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - mokslininkas

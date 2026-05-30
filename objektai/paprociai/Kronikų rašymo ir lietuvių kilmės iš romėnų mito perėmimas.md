@@ -11,6 +11,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - kraštas
@@ -111,5 +112,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/autoriai/Mykolas Lietuvis]]
+- [[objektai/asmenys/Mykolas]]

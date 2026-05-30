@@ -17,6 +17,7 @@ amziai:
 date_start: '1514'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karalius
   - mūšis
@@ -91,9 +92,6 @@ CHOTINO MŪŠIS 117 ## Puslapis 120 E -KURSO KUNIGAIKŠTYSTĖ S res Livontios KU
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
 - [[objektai/asmenys/Fiodoras]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 20.
+Objektų skaičius: 25.
 
 ## Kaip naudoti
 
@@ -23,11 +23,14 @@ Objektų skaičius: 20.
 - [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
+- [[objektai/paprociai/Kasdienis maudymasis pirtyse iš pagarbos dievams]]
+- [[objektai/paprociai/Kraujo keršto paprotys po žmogžudystės]]
 - [[objektai/paprociai/Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje]]
 - [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
 - [[objektai/paprociai/Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio]]
 - [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
+- [[objektai/paprociai/Skurdo ištikto žmogaus savižudybė kaip paprotinis sprendimas]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
 - [[objektai/paprociai/Sąjūdžio masiniai mitingai ir reikalavimų viešinimas]]
 - [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]
@@ -36,8 +39,12 @@ Objektų skaičius: 20.
 - [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]
 - [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]
 - [[objektai/paprociai/Šubravcų satyrinė spaudos kritika]]
+- [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]
 - [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]
 - [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]
+
+### Posakiai
+- [[objektai/posakiai/svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo]]
 
 ### Įvykiai
 - [[objektai/ivykiai/Liubomirskio seimo išardymas (1639 m.)]]

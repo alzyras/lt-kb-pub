@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - karalius
@@ -85,4 +86,6 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]

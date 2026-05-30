@@ -17,6 +17,7 @@ amziai:
 date_start: '1365'
 date_end: '1369'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karalius
@@ -69,7 +70,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/asmenys/Karolis IV]]
 - [[objektai/asmenys/Survila]]
 - [[objektai/grupes/Vokiečiai]]

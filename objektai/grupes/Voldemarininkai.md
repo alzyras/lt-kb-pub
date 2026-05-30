@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Voldemarininkai"
-sukurta: "2026-05-18"
+sukurta: '2026-05-18'
 variantai:
   - "voldemarininkai"
   - "ultraradikalieji voldemarininkai"
@@ -25,6 +25,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-18'
 tags: []
 ---
 # Voldemarininkai

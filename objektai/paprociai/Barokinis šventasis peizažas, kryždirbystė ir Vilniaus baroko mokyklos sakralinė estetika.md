@@ -26,6 +26,7 @@ amziai:
 date_start: '1586'
 date_end: '1787'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - kraštas
   - paprotys

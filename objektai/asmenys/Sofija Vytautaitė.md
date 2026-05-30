@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -60,7 +61,6 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/asmenys/Švitrigaila]]

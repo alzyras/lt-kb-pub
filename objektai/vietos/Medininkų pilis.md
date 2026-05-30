@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: 'Medininkų pilis (pilis)'
-sukurta: "2026-04-28"
+sukurta: '2026-04-28'
 variantai:
   - 'Medininkų pilis'
 aliases:
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Medininkų pilis (pilis)

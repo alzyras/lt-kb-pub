@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - sąvoka
 ---
@@ -78,6 +79,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 - [[objektai/autoriai/P. Girdzijauskienė]]
 - [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]
 - [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės]]
+- [[objektai/autoriai/Stasys Šilingas]]
 - [[objektai/asmenys/Steponas Kairys]]
 - [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
 - [[objektai/zodynas/Vidivarijai]]

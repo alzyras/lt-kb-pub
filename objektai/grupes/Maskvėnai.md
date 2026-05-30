@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
 ---
@@ -43,11 +44,11 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Slavai]]
-- [[objektai/asmenys/Aleksandras]]
 - [[objektai/posakiai/Antemurale Christianitatis]]
 - [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
 - [[objektai/grupes/Maskvos kariuomenė]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]

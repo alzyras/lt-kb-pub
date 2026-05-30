@@ -33,6 +33,7 @@ laikotarpis: '1514 m. rugsėjo 8 d.'
 date_start: '1514'
 date_end: '1514'
 periodas: 'ankstyvieji_naujieji_laikai'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - ivykis
@@ -147,6 +148,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/asmenys/Mykolas]]
+- [[objektai/daiktai/Pilys]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Jogailaičiai]]

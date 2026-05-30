@@ -17,6 +17,7 @@ amziai:
 date_start: '1269'
 date_end: '1281'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - valdovas

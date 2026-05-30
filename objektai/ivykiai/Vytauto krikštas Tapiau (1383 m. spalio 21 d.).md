@@ -16,6 +16,7 @@ amziai:
 date_start: '1383'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - krikštas
@@ -70,4 +71,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/komtūras]]

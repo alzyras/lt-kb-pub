@@ -20,6 +20,7 @@ amziai:
 date_start: '1311'
 date_end: '2000'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - ordinas
@@ -101,4 +102,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/komtūras]]

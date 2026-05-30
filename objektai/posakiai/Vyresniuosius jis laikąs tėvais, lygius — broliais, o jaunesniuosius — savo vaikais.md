@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - popiežius
   - posakis
@@ -67,6 +68,6 @@ tags:
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Žemaičiai]]

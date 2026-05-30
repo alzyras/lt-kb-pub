@@ -18,6 +18,7 @@ amziai:
 date_start: '1918'
 date_end: '1920'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - daiktas
   - karas

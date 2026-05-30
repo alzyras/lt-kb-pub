@@ -26,6 +26,7 @@ dalyviai:
   - 'Aleksandras Gonsevskis'
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-05-02'
 tags:
   - karas
 ---
@@ -178,7 +179,6 @@ Nenurodyta
 - [[objektai/grupes/Krymo totoriai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vladislovas]]

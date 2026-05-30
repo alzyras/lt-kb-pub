@@ -16,6 +16,7 @@ amziai:
 date_start: '1307'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -58,7 +59,7 @@ Tuo pat metu Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno Min
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikštija]]

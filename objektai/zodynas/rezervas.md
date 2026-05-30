@@ -16,6 +16,7 @@ amziai:
 date_start: '1410'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - mūšis
   - sąvoka
@@ -92,5 +93,6 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/J. Reikala]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/bendrasis rezervas]]
 - [[objektai/zodynas/kovinė-agentūrinė grupė]]

@@ -16,6 +16,7 @@ amziai:
 date_start: '2002'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
   - tikėjimas
@@ -66,9 +67,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/NATO]]
 - [[objektai/asmenys/Džordžas Bušas]]

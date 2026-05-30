@@ -16,6 +16,7 @@ amziai:
 date_start: '1422'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karas
   - krikštas
@@ -62,7 +63,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]

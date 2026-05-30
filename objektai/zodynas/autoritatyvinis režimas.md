@@ -19,6 +19,7 @@ amziai:
 date_start: '1918'
 date_end: '1940'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - seimas
   - sąvoka

@@ -19,6 +19,7 @@ amziai:
 date_start: '1602'
 date_end: '1648'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - karas

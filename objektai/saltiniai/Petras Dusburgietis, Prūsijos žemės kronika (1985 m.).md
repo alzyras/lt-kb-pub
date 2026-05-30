@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Chronica Terrae Prussiae"
 aliases: []
@@ -26,6 +26,7 @@ susije_irasai:
   - "Dusburgas"
   - "Prūsijos žemės kronika"
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - didikas
   - dokumentas
@@ -54,12 +55,7 @@ Ta pačia proga Jogaila, savarankiškai be Jadvygos ir lenkų didikų žinios, i
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/asmenys/Jogaila]]

@@ -12,16 +12,14 @@ aliases:
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos:
-  - '1966 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-date_start: '1966'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
 ---
@@ -32,29 +30,29 @@ tags:
 R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais. Šiame šaltinyje papildomai pateikta pilna jo vardo forma Romas Batūra ir bibliografinės nuorodos į įvadinę studiją šiame leidime bei darbus „Šiaulių..“, „Lietuva...“ ir „Karinė...“.
 
 ## Teiginiai
-- t-001
-  teiginys: 'R. Batūra rašė apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad rOMAS BATŪRA международный конгресс.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+    - c-002
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'R. Batūra rašė apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-002
+  santrauka: 'Dusburgietis teigia, kad rOMAS BATŪRA международный конгресс.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Lietuvių
-    santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
-    B. Dundulis 108. R. Batūra rašė : _XIII a. Lietuvos sostinės
-    klausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su
-    totoriais^109.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    ROMAS BATŪRA
+
+
+
+
+
+    международный конгресс...
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

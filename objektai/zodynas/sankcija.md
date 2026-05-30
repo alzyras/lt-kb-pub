@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - kunigaikštis
@@ -59,3 +60,4 @@ Dabar toji visuomenė davė unijai savo sankciją^2 ).
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]

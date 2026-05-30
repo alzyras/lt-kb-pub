@@ -17,6 +17,7 @@ amziai:
 date_start: '1947'
 date_end: '1949'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dokumentas
   - miestas
@@ -105,8 +106,5 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos partizanai]]

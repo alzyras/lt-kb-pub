@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Molotovo–Ribentropo paktas"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Molotovo-Ribentropo paktas"
   - "nacių ir sovietų nepuolimo sutartis"
@@ -32,6 +32,7 @@ amziai:
 date_start: '1939'
 date_end: '2026'
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # Molotovo–Ribentropo paktas

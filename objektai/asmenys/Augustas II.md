@@ -17,6 +17,7 @@ amziai:
 date_start: '1698'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - sutartis
@@ -133,6 +134,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/asmenys/Linkas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

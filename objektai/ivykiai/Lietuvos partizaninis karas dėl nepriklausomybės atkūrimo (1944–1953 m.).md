@@ -24,6 +24,7 @@ amziai:
 date_start: '1940'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ginklas
   - ivykis

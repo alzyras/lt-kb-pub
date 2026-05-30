@@ -16,6 +16,7 @@ amziai:
 date_start: '1383'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - ordinas
@@ -69,7 +70,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Rabė]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]

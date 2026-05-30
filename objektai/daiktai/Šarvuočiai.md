@@ -16,6 +16,7 @@ amziai:
 date_start: '1926'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - daiktas
 ---
@@ -76,5 +77,6 @@ Nenurodyta
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/grupes/Osmanų Turkija]]
 - [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
+- [[objektai/asmenys/Vytautas Landsbergis]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]

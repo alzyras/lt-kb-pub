@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus archeologijos komisija"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Archeologijos komisija"
   - "Vilniaus Archeologinės komisijos"
@@ -23,6 +23,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus archeologijos komisija

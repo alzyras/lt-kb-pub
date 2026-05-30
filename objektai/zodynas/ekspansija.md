@@ -3,11 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: ekspansija
 sukurta: '2026-05-05'
 variantai:
-  - ekspansija
+- ekspansija
 aliases: []
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: aukštas
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # ekspansija
@@ -57,12 +58,15 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Vytenis]]
+- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/grupes/Galindai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Nepriklausomybės kovos]]
+- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
+- [[objektai/asmenys/Pipinas]]
+- [[objektai/ivykiai/Pipino nukankinimas ir mirtis]]
 - [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]

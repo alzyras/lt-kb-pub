@@ -16,6 +16,7 @@ amziai:
 date_start: '1955'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - saltinis
 ---
@@ -26,28 +27,39 @@ tags:
 LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuvos TSR Istorijos Šaltinių pirmasis tomas išleistas Vilniuje 1955 m.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad kai kurios kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
+    - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad lietuvos TSR istorijos šaltiniai.— T.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
-
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Lietuvos TSR Istorijos Šaltinių pirmasis tomas išleistas Vilniuje 1955 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-002
+  santrauka: 'Dusburgietis teigia, kad kai kurios kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Vilnius.
-    LIŠ = Lietuvos TSR Istorijos Šaltiniai, t. 1, Vilnius 1955.
-    Lites = Lites ac Res Gestae inter Polonos Ordinemque Crucifero-
-    rum (t. 1-3, išl.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    Kai kurios
+    kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas
+    kronikos vertimas čia publikuojamas pirmą kartą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad lietuvos TSR istorijos šaltiniai.— T.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Lietuvos TSR istorijos šaltiniai.— T. 1.— V., 1955.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+## Bibliografiniai įrodymai

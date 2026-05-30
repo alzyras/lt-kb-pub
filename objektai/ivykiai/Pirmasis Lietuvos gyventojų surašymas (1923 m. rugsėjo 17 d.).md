@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["1923 m. Lietuvos gyventojų surašymas", "pirmasis Lietuvos gyventojų surašymas"]
 aliases: ["1923 m. Lietuvos gyventojų surašymas", "pirmasis Lietuvos gyventojų surašymas"]
 saltiniai:
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)

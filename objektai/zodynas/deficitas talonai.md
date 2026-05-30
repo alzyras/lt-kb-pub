@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - sąvoka
 ---
@@ -45,6 +46,7 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/daiktai/Deficitinės vartojimo prekės]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]

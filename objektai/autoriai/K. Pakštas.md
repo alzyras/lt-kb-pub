@@ -17,6 +17,7 @@ amziai:
 date_start: '1950'
 date_end: '1956'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - tauta
@@ -57,7 +58,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]

@@ -4,6 +4,8 @@ pavadinimas: 'Dviprasmių žmonių auditas - Petras Dusburgietis, Prūsijos žem
 statusas: reikia patikrinti
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
 # Dviprasmių žmonių auditas
 

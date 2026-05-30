@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
 ---
@@ -52,10 +53,10 @@ Kalbos redaktorė Gražina Indrišiūnienė Viršelio dailininkė Audronė Uziel
 - [[temos/redaktorius]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/autoriai/Gražina Indrišiūnienė]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
-- [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/autoriai/Alvydas Jokubaitis]]
 - [[objektai/autoriai/Antanas Kulakauskas]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]

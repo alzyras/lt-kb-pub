@@ -18,6 +18,7 @@ amziai:
 date_start: '1657'
 date_end: '1660'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - sutartis

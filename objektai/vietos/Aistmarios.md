@@ -10,18 +10,24 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1237 m.'
+  - '1267 m.'
   - '1936 m.'
   - '1978 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
+  - 'viduramžiai'
 amziai:
+  - 'XIII'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1237'
 date_end: '2026'
 patikimumas: 'žemas'
+atnaujinta: '2026-04-25'
 tags:
   - vieta
 ---
@@ -32,22 +38,6 @@ tags:
 Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie kurios statytos Elbingo ir Baigos pilys, iš kurios broliai žvalgė Varmės krantą. Ankstesniuose šaltiniuose jos taip pat minimos kaip ribinė ir kontaktų zona.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Prie Aistmarių gotai santykiavo su prūsais ir tuo laikotarpiu davė jiems devynis skolinius.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Per Prūsus numatyta siena turėjo eiti Alnos krantu iki Priegliaus, o paskui Priegliaus tėkme iki Aistmarių.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Per Prūsus, Lietuvai paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki Aistmarių.'
-  pagrindžia:
-    - c-003
 - t-007
   teiginys: '1237 m. Elbingo pilis buvo pastatyta ten, kur Elbingas įteka į Gėlo vandens marias.'
   pagrindžia:
@@ -72,67 +62,23 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
     - c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Dusburgietis teigia, kad dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės.'
+  pagrindžia:
+    - c-007
+- t-012
+  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733). Vėliau — Frische Haff, Vyslos įlanka.'
+  pagrindžia:
+    - c-009
+- t-013
+  teiginys: 'Dusburgietis teigia, kad tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams. Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra.'
+  pagrindžia:
+    - c-010
+- t-014
+  teiginys: 'Dusburgietis teigia, kad jis sugalvojo būdą, kaip jį pribaigti, ir, norėdamas savo sumanymą įgyvendinti, pakvietė jį pulti vienos pilies, stovėjusios Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo pilį412, 409 Konradas Vyresnysis iš Tirbergo (Frankonija).'
+  pagrindžia:
+    - c-011
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Prie Aistmarių gotai santykiavo su prūsais ir tuo laikotarpiu davė jiems devynis skolinius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Pvz., lietuvių kalboje šienas - estiškai
-    sein, avinas - oinas, piemenauti - paimendama, ratas - rata, tvora
-    (žemaičių tarmėje tora) - tora, kirvis - kirves, laivas - laiva, ir kt.
-    Užsimezgė vakarinių baltų (prūsų) santykiai ir su germanais,
-    nes paskutiniajame amžiuje pr. Kr. ir pirmajame po Kr. Vyslos
-    žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­
-    sių plote iki Alnos upės. Lietuvos teritorijos jie nepalietė ir dides­
-    nės įtakos baltams neturėjo. Pavyslyje ir prie Aismarių santykiau­
-    dami su prūsais, gotai jiems tame laikotarpyje yra davę devynius
-    skolinius.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: 'Per Prūsus numatyta siena turėjo eiti Alnos krantu iki Priegliaus, o paskui Priegliaus tėkme iki Aistmarių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip ir 1351 m., buvo reikalaujama, kad kryžiuo­
-    čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
-    liaus ir Dauguvos. Hermano Wartberges kronikoje yra smulkiau
-    pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,
-    siena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai
-    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
-    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
-    Aistmarių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-003
-  santrauka: 'Per Prūsus, Lietuvai paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki Aistmarių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Hermano Wartberges kronikoje yra smulkiau
-    pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,
-    siena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai
-    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
-    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
-    Aistmarių. Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena
-    buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki
-    vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst)
-    įteka į Dauguvą».
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-004
   santrauka: 'Citata lokalizuoja Elbingo pilį Aistmarių erdvėje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -198,3 +144,56 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+    - t-011
+- c-009
+  santrauka: 'Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733). Vėliau — Frische Haff, Vyslos įlanka.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    17. Apie vieną stebuklą
+
+      Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų
+      241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733). Vėliau — Frische
+    Haff, Vyslos įlanka.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-010
+  santrauka: 'Dusburgietis teigia, kad tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams. Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
+    Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
+    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
+    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
+    nenorėdami grįžti tuščiomis rankomis,  užpuolė aplinkinius kaimus244, degindami juos
+    ir piešdami.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-011
+  santrauka: 'Dusburgietis teigia, kad jis sugalvojo būdą, kaip jį pribaigti, ir, norėdamas savo sumanymą įgyvendinti, pakvietė jį pulti vienos pilies, stovėjusios Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo pilį412, 409 Konradas Vyresnysis iš Tirbergo (Frankonija).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Daug
+    kartų jį buvo gelbėjęs iš mirtino pavojaus. Tačiau tas vyras, užmiršęs patirtas malones,
+    atsiteisė blogu už gera ir neapykanta už meilę. Jis sugalvojo būdą, kaip  jį pribaigti,
+    ir, norėdamas savo sumanymą įgyvendinti, pakvietė  jį pulti vienos pilies, stovėjusios
+    Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo  pilį412,
+
+      409 Konradas Vyresnysis  iš Tirbergo (Frankonija), 1267 m.— Santyro, vėliau —
+    Kristburgo, Kulmo komtūras, nuo 1273 m.— Prūsijos krašto magistras.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014

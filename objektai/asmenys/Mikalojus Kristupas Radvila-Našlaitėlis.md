@@ -26,6 +26,7 @@ amziai:
 date_start: '1541'
 date_end: '1576'
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags:
   - didikas
 ---
@@ -145,8 +146,5 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]

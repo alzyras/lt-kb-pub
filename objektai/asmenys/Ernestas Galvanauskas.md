@@ -17,6 +17,7 @@ amziai:
 date_start: '1923'
 date_end: '1926'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - diplomatas
@@ -128,6 +129,7 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/J. Pilsudskis]]

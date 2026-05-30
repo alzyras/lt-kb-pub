@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: Barbora Radvilaitė
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Barbora
   - Barboros Radvilaitės
@@ -26,6 +26,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - didikas
   - karalienė
@@ -313,18 +314,19 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/didikas]]
 - [[temos/karalienė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/asmenys/Ona Jogailaitė]]
+- [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]
 - [[objektai/zodynas/lėnininkai]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]

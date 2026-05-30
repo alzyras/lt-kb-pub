@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: gaspadinė
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - gaspadinę
   - viešne
@@ -9,6 +9,7 @@ variantai:
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # gaspadinė
 

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - mūšis
@@ -56,7 +57,3 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/komtūras]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 44.
+Objektų skaičius: 49.
 
 ## Kaip naudoti
 
@@ -44,10 +44,13 @@ Objektų skaičius: 44.
 - [[objektai/autoriai/Filotiejus]]
 - [[objektai/autoriai/J. Bennetas]]
 - [[objektai/autoriai/Kassiodoras]]
-- [[objektai/autoriai/V. T. Pašuto]]
+- [[objektai/autoriai/Mažvydas M]]
+- [[objektai/autoriai/Salys A]]
+- [Sideravičius K](../objektai/autoriai/Sideravi%C4%8Dius%20K)
+- [V. T. Pašuto](../objektai/autoriai/V.%20T.%20Pa%C5%A1uto)
 
 ### Grupės
-- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
+- [Rygos miesto taryba (institucija)](../objektai/grupes/Rygos%20miesto%20taryba)
 - [SSRS kariuomenė](../objektai/grupes/SSRS%20kariuomen%C4%97)
 
 ### Papročiai
@@ -58,6 +61,8 @@ Objektų skaičius: 44.
 ### Posakiai
 - [`Rex Lethowye`](../objektai/posakiai/%60Rex%20Lethowye%60)
 - [`rex` `bazileus`](../objektai/posakiai/%60rex%60%20%60bazileus%60)
+- [kiekvienam geros valios žmogui](../objektai/posakiai/kiekvienam%20geros%20valios%20%C5%BEmogui)
+- [Kur atrasime didesnių skriaudų, didesnės neteisybės, smurto, nedorumo ir turto gobšumo, jei ne tarp krikščionių žmonių](../objektai/posakiai/Kur%20atrasime%20didesni%C5%B3%20skriaud%C5%B3%2C%20didesn%C4%97s%20neteisyb%C4%97s%2C%20smurto%2C%20nedorumo%20ir%20turto%20gob%C5%A1umo%2C%20jei%20ne%20tarp%20krik%C5%A1%C4%8Dioni%C5%B3%20%C5%BEmoni%C5%B3)
 - [visur guli nukautas greta nukauto](../objektai/posakiai/visur%20guli%20nukautas%20greta%20nukauto)
 - [Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais](../objektai/posakiai/Vyresniuosius%20jis%20laik%C4%85s%20t%C4%97vais%2C%20lygius%20%E2%80%94%20broliais%2C%20o%20jaunesniuosius%20%E2%80%94%20savo%20vaikais)
 - [„lietuvių imperatoriumi“ `vasilea Letvon`](../objektai/posakiai/%E2%80%9Elietuvi%C5%B3%20imperatoriumi%E2%80%9C%20%60vasilea%20Letvon%60)

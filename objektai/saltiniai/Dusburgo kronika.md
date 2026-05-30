@@ -19,6 +19,7 @@ amziai:
 date_start: '1304'
 date_end: '1324'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ordinas
   - saltinis

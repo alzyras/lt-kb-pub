@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - didikas
@@ -192,9 +193,6 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
     - t-007
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/zodynas/etmonas]]

@@ -16,6 +16,7 @@ amziai:
 date_start: '1417'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - krikštas
@@ -70,10 +71,8 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
+- [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

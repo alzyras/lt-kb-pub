@@ -16,6 +16,7 @@ amziai:
 date_start: '1392'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
   - valdovas
@@ -53,6 +54,6 @@ Jeigu iki tol Vytautas atrodė nepastovus, besiblaškantis, avantiūristas, tai 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/J. Aukštuolaitis]]

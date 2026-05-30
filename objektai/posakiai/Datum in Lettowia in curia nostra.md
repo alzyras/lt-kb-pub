@@ -20,6 +20,7 @@ amziai:
 date_start: '1100'
 date_end: '1260'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dokumentas
   - ordinas
@@ -88,9 +89,6 @@ tags:
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Arabai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

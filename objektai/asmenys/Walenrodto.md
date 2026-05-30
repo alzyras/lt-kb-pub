@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - upė
@@ -87,12 +88,8 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/raitarai]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]

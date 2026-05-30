@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - mūšis
   - pinigai
@@ -87,9 +88,8 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/emyras]]
-- [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras (Mykolo sūnus)]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/grupes/Aukso orda]]
@@ -101,11 +101,11 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 - [[objektai/asmenys/Ediga]]
 - [[objektai/asmenys/Edyga]]
 - [[objektai/asmenys/Elena]]
-- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/asmenys/Jagurčinas]]
 - [[objektai/asmenys/Kiprijonas]]
 - [[objektai/grupes/Krimo orda]]
+- [[objektai/grupes/Krymo totoriai]]
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]
 - [[objektai/asmenys/Mahometas Aminas]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]

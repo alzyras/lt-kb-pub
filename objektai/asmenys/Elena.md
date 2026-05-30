@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: "Elena"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Elena
   - Eleną
@@ -32,6 +32,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-27'
 tags:
   - karalienė
 ---
@@ -344,6 +345,7 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/metrika]]

@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: Baudžiava
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - baudžiavai
   - baudžiava
@@ -35,6 +35,7 @@ amziai:
 date_start: '1447'
 date_end: '2026'
 patikimumas: aukštas
+atnaujinta: '2026-04-24'
 tags: []
 ---
 # Baudžiava
@@ -334,6 +335,7 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
 - [[objektai/grupes/Vilniaus Senienų muziejus]]
 - [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]
+- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
 - [[objektai/zodynas/taikos suvažiavimai]]
 - [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
@@ -344,3 +346,4 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]
 - [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
 - [[objektai/zodynas/servitutas]]
+- [[objektai/zodynas/činšas]]

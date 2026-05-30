@@ -30,6 +30,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags:
   - simbolis
 ---
@@ -147,8 +148,7 @@ Nenurodyta
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vaclovas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]

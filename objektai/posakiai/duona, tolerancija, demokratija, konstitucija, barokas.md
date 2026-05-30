@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "duona, tolerancija, demokratija, konstitucija, barokas"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai: []
 aliases: []
 saltiniai:
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # duona, tolerancija, demokratija, konstitucija, barokas

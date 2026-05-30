@@ -17,6 +17,7 @@ amziai:
 date_start: '1966'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - mokslininkas
@@ -67,4 +68,3 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
 - [[objektai/autoriai/J. Stankus]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Skydas]]
-- [[objektai/autoriai/R. Jasas]]

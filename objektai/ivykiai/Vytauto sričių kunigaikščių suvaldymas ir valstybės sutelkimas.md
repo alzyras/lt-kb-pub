@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - didikas
@@ -157,16 +158,12 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/asmenys/Liubartas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Švitrigaila]]

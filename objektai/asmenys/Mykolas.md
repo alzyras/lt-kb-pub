@@ -6,13 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1314 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1314'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - bajorija
@@ -24,102 +28,58 @@ tags:
 Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Mykolu, seserį Ringailę ir apie 100 bajorų.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Ji buvo daug svarbesnė pilių apgulose vadovauti pavedė savo sūnui kunigaikščiui Mykolui, kuris „su lietuviais ir lenkais“ žygiavo pasitikti priešo.'
-  pagrindžia:
-    - c-002
-
+    - c-003
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-003
+  santrauka: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    XV a. atvirose kautynėse
-    artilerija neatliko svarbaus
-    vaidmens, nors ir būdavo
-    panaudojama. Ji buvo daug
-    svarbesnė pilių apgulose
+    Dar apie tą patį
 
-    vadovauti pavedė savo sūnui kunigaikščiui
-    Mykolui, kuris „su lietuviais ir lenkais“ žy-
-    giavo pasitikti priešo.
-
-    Sprendžiant iš pagrindinių istorinių
-    šaltinių, Švitrigailos ir Ordino pajėgos iš
-    Vilkmergės patraukė į pietus pro Pašilę
-    ir toliau keliu Gelvonų link, einančiu
-    per dabartinį Pabaiską, vakarine Žirnajų
-    ežero pakrante.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Ji buvo daug svarbesnė pilių apgulose vadovauti pavedė savo sūnui kunigaikščiui Mykolui, kuris „su lietuviais ir lenkais“ žygiavo pasitikti priešo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ji buvo daug
-    svarbesnė pilių apgulose
-
-    vadovauti pavedė savo sūnui kunigaikščiui
-    Mykolui, kuris „su lietuviais ir lenkais“ žy-
-    giavo pasitikti priešo.
-
-    Sprendžiant iš pagrindinių istorinių
-    šaltinių, Švitrigailos ir Ordino pajėgos iš
-    Vilkmergės patraukė į pietus pro Pašilę
-    ir toliau keliu Gelvonų link, einančiu
-    per dabartinį Pabaiską, vakarine Žirnajų
-    ežero pakrante.
+       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
+    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
+    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
+    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
+    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
+    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
+    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
+    jas nusiaubė, degindami ir piešdami.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
-- [[objektai/paprociai/Elekcijų dalyvavimo tvarka lenkai viritim, lietuviai atstovais]]
-- [[objektai/grupes/Jedinstvo]]
 - [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]
-- [[objektai/asmenys/Jonas Kazimieras Vaza]]
-- [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
-- [[objektai/asmenys/Kristupas Pacas]]
-- [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
 - [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
-- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
-- [[objektai/grupes/Tverės kunigaikštystė]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
-- [[objektai/ivykiai/Vytauto palaidojimas Vilniaus katedroje]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/zodynas/etmonų teisė]]
 - [[objektai/zodynas/regimentorius]]
 - [[objektai/posakiai/visur guli nukautas greta nukauto]]
-- [[objektai/ivykiai/Žemaičių sukilimas (1656 m.)]]
 - [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]
-- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
-- [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
+- [[objektai/grupes/Bajorų konfederacija]]
+- [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
 - [[objektai/asmenys/Mykolas Kiełbasa]]
 - [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas]]
-- [[objektai/ivykiai/Mykolo Kaributo Višniaveckio elekcija (1669 m.)]]
+- [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]
+- [[objektai/asmenys/Henrikas Rutėnas]]
+- [[objektai/asmenys/Henrikas iš Plockės]]
+- [[objektai/asmenys/Kviramas iš Valdavos]]
+- [[objektai/asmenys/Mindotė]]
+- [[objektai/asmenys/Rebodas iš Izenburgo]]
+- [[objektai/asmenys/Spagerotė]]
+- [[objektai/asmenys/Ulrichas iš Tetingeno]]

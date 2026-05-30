@@ -1,0 +1,118 @@
+---
+tipas: ivykis
+pavadinimas: 'Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1252 m.'
+  - '1253 m.'
+  - '1254 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+date_start: '1252'
+date_end: '1254'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - ginklas
+  - ivykis
+  - karas
+---
+# Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas
+
+## Santrauka
+
+Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio]. Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop abu, ilgai gynęsi ir daugybę. Dusburgietis teigia, kad 314 Sembos puolimas datuojamas dvejopai: 1252—1253 m. žiema (Ewald A.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio].'
+  pagrindžia:
+    - c-001
+    - c-004
+- t-002
+  teiginys: 'Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop abu, ilgai gynęsi ir daugybę.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė į karą prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų pilis315, degindamas ir grobdamas abiejose [kelio].'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kristburgo komtūras, brolis Henrikas,
+    vadinamas Stange313, gavęs magistro įsakymą, su didele kariuomene patraukė  į karą
+    prieš Sembą ir žiemos metu314 įsibrovė į ją apie tą vietą, kur šiuo metu stovi Laukstetų
+    pilis315, degindamas ir grobdamas abiejose [kelio] pusėse iki Girmavos kaimo316, daug
+    žmonių nukovė ir paėmė į nelaisvę, bet čia atskubėjo ginkluoti sembai. Mūsų minėtasis
+    komtūras nelyginant bebaimis liūtas pastojo jiems kelią ir, norėdamas juos tol sulaikyti,
+    kol jo kariuomenė užims saugesnę vietą, daugybę sužeidė ietimi. Galop prūsai klasta jį
+    apsupo ir galybe smūgių nubloškė nuo žirgo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop abu, ilgai gynęsi ir daugybę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kai šitai išvydo, brolis Hermanas, minėtojo
+    komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad
+    jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop
+    abu, ilgai gynęsi ir daugybę mirtinai sužeidę, krito nukauti, o kiti broliai su kariuomene
+    pasitraukė317.
+
+
+
+
+                           69 (68).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-004
+  santrauka: Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Galop prūsai klasta jį
+    apsupo ir galybe smūgių nubloškė nuo žirgo. Kai šitai išvydo, brolis Hermanas, minėtojo
+    komtūro tikras brolis, didžiai susijaudino dėl jo likimo. Negalėdamas ramiai matyti, kad
+    jo brolis vienas užsikrovė ant pečių smurtingos mirties naštą, pats stojo į kovą, ir galop
+    abu, ilgai gynęsi ir daugybę mirtinai sužeidę, krito nukauti, o kiti broliai su kariuomene
+    pasitraukė317.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Hermanas (Henriko Stange brolis)]]

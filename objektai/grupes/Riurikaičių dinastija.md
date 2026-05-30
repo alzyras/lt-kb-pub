@@ -23,6 +23,7 @@ amziai:
 date_start: '1598'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dinastija
   - grupe
@@ -109,6 +110,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kalita]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

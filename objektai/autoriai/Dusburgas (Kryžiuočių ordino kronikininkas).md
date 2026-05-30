@@ -16,6 +16,7 @@ vaidmenys:
 patikimumas: 'aukštas'
 aliases:
   - 'Dusburgas'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
   - mokslininkas

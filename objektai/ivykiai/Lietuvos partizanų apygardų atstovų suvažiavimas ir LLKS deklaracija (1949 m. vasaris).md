@@ -16,6 +16,7 @@ amziai:
 date_start: '1949'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dokumentas
   - ivykis
@@ -120,9 +121,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

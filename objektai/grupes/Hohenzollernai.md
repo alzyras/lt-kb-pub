@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - dinastija
   - grupe
@@ -58,7 +59,6 @@ Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsb
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-- [[temos/upė]]
 
 ### Susiję objektai
 - [[objektai/zodynas/unija]]

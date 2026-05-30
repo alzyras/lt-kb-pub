@@ -28,6 +28,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas

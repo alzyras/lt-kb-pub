@@ -29,6 +29,7 @@ amziai:
 date_start: '1930'
 date_end: '1935'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - autorius
 ---
@@ -108,3 +109,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Žemaičiai]]

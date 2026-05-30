@@ -33,6 +33,7 @@ date_end: '2026'
 susije_irasai:
   - '[[Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - vieta
 ---

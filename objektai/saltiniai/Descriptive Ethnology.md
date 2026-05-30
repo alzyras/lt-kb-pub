@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Descriptive Ethnology"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Aprašomoji etnologija"
 aliases: []
@@ -22,6 +22,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # Descriptive Ethnology

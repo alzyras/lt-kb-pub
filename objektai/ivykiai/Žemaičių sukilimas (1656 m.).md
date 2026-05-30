@@ -16,6 +16,7 @@ amziai:
 date_start: '1656'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - ginklas
@@ -75,6 +76,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Bajorų konfederacija]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]

@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - kraštas
   - seimas
@@ -57,6 +58,7 @@ Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.
 - [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]
 - [[objektai/grupes/Lietuvos Respublikos Seimas|Lietuvos Respublikos Seimas (seimas)]]
 - [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba|Lietuvos SSR liaudies komisarų taryba (institucija)]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]

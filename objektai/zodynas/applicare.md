@@ -16,6 +16,7 @@ amziai:
 date_start: '1385'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
 ---
@@ -59,4 +60,3 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/lenas]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]

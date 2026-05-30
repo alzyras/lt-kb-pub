@@ -16,6 +16,7 @@ amziai:
 date_start: '1936'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
   - seimas
@@ -68,7 +69,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]

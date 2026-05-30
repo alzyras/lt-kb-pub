@@ -16,6 +16,7 @@ amziai:
 date_start: '1409'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karas
@@ -76,8 +77,6 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vaclovas]]
 - [[objektai/grupes/Čekai]]

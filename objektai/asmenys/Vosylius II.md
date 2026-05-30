@@ -16,6 +16,7 @@ amziai:
 date_start: '1425'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - didikas
@@ -83,9 +84,6 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Totoriai]]

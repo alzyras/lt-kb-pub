@@ -17,6 +17,7 @@ amziai:
 date_start: '1409'
 date_end: '1411'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -90,6 +91,5 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
-- [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Zbignievo Olesnickio]]
 - [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]

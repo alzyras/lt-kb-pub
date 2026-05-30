@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Dievo Kūno arkibrolija"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Vilniaus arkikonfratrija"
   - "arkikonfratrija"
@@ -28,6 +28,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Dievo Kūno arkibrolija
@@ -94,4 +95,5 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/asmenys/Žygimantas]]

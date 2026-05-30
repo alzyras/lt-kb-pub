@@ -23,6 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Aš tave pasodinsiu Auksinėj Ordoj...
@@ -112,7 +113,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/saar]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]

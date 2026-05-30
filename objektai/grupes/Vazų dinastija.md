@@ -21,6 +21,7 @@ amziai:
 date_start: '1586'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dinastija
   - grupe
@@ -127,3 +128,4 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/marksistinė periodizacija]]

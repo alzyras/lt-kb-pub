@@ -16,6 +16,7 @@ amziai:
 date_start: '2012'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - dokumentas
@@ -54,8 +55,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Lietuvos atsikūrimas]]

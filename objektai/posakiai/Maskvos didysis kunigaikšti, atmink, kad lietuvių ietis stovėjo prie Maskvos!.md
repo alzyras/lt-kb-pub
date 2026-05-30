@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-02'
 tags:
   - posakis
 ---
@@ -87,7 +88,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Skydas]]

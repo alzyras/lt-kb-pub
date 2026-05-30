@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-02'
 tags:
   - posakis
 ---
@@ -84,3 +85,4 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/daiktai/Žirgai]]

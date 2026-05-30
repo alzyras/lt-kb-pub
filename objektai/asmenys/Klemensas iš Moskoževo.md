@@ -16,6 +16,7 @@ amziai:
 date_start: '1398'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - papuošalas
@@ -60,6 +61,3 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jogaila]]

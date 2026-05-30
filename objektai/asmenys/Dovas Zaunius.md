@@ -16,6 +16,7 @@ amziai:
 date_start: '1926'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - asmuo
   - karas
@@ -59,5 +60,6 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustinas]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Petras Klimas]]

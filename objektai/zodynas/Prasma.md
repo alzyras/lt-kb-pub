@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: prasma
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - savo prasma
   - savo prasma dirbtais
@@ -9,6 +9,7 @@ variantai:
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # prasma
 
@@ -66,3 +67,7 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 ## Pastabos
 
 - Reikšmė rekonstruojama iš vartojimo; iš teksto matyti ir „būdo“, ir „meistrystės“ niuansas.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Namų baldai ir rakandai]]

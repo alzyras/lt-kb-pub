@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - seimas
   - sąvoka
@@ -73,22 +74,25 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti. (Lietuvos bajorij
 - [[objektai/ivykiai/Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
 - [[objektai/autoriai/Konstantinas Jablonskis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
 - [[objektai/ivykiai/LKP XX suvažiavimas ir atsiskyrimas nuo SSKP (1989 m. gruodis)]]
 - [[objektai/ivykiai/Lietuvos neutralumo įstatymo ratifikavimas (1939 m. sausio 10 d.)]]
 - [[objektai/autoriai/M. K. Liubavskis]]
 - [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]
 - [[objektai/autoriai/P. Dundulienė]]
+- [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
 - [[objektai/grupes/Sovietų Sąjungos komunistų partija]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/federacija federacinė valstybė]]
 - [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/autoriai/Albertas Goštautas]]
 - [[objektai/autoriai/E. Gudavičius]]
-- [[objektai/autoriai/Gudavičius E]]
 - [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]
 - [[objektai/posakiai/Surinkti ir išsaugoti mokslui visus kalbos, istorijos, tautosakos ir panašius duomenis, liečiančius Lietuvą ir lietuvius]]
 - [[objektai/zodynas/eurokomunistinio tipo partija]]

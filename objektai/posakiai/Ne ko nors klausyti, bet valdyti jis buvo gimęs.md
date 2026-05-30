@@ -18,6 +18,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Ne ko nors klausyti, bet valdyti jis buvo gimęs.
@@ -58,4 +59,4 @@ Aforistinė charakteristika pabrėžia, kad Vytauto prigimtis tekste siejama su 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

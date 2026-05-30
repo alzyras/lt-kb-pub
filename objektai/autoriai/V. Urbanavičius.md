@@ -17,6 +17,7 @@ amziai:
 date_start: '1966'
 date_end: '1974'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - tikėjimas
@@ -105,7 +106,3 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]

@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Šalin rankas nuo Lietuvos"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Gorbačiovai, atsistatydink!"
 aliases: []
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # Šalin rankas nuo Lietuvos
@@ -66,4 +67,3 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Michailas Gorbačiovas]]

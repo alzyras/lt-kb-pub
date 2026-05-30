@@ -16,6 +16,7 @@ amziai:
 date_start: '1345'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karalius
@@ -61,4 +62,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

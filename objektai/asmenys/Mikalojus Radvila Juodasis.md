@@ -17,6 +17,7 @@ amziai:
 date_start: '1515'
 date_end: '1576'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - didikas
@@ -346,12 +347,8 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
     - t-010
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Pistoletas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/daiktai/Šarvai]]
 - [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
-- [[objektai/grupes/Katalikų Bažnyčia]]

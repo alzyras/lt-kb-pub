@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Olimpiniai medaliai"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Olimpiniai medaliai"
   - "aukso medalis"
@@ -26,6 +26,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags:
   - simbolis
 ---

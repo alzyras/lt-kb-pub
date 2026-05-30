@@ -16,6 +16,7 @@ amziai:
 date_start: '1236'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - ivykis
@@ -68,6 +69,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Grigalius IX]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Lietuviai]]

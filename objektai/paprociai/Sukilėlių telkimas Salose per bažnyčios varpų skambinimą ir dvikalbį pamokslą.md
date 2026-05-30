@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą
@@ -89,4 +90,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/posakiai/Eikime, broliai, už vierą šventą]]

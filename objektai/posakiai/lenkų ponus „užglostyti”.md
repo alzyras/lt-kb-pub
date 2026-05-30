@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - diplomatas
   - posakis
@@ -59,6 +60,6 @@ Toks jo žygis lenką tarpe sukėlė didelį pasipriešinimą, nes jie Krėvės 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/žygis]]

@@ -17,6 +17,7 @@ amziai:
 date_start: '1424'
 date_end: '1438'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - valdovas

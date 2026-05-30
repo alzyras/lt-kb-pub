@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Šubravcų draugija"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "šubravcų (nenaudėlių) draugija"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Šubravcų draugija
@@ -145,6 +146,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
 - [[objektai/grupes/Lietuviai]]

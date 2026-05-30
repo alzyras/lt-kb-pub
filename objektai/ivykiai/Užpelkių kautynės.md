@@ -16,6 +16,7 @@ amziai:
 date_start: '1949'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
 ---
@@ -78,7 +79,7 @@ Nenurodyta
 - [[objektai/autoriai/Maironis]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Agentai-smogikai]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/grupes/Maironio rinktinė]]

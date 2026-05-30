@@ -13,30 +13,21 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1300 m.'
-  - '1354 m.'
-  - '1375 m.'
-  - '1389 m.'
-  - '1415 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1300'
-date_end: '2026'
 laikotarpis: 'XIV a. pradžia; 1300 m. ir po to; 1354 m., 1375 m., 1389 m. ir 1415 m.'
+datos:
+  - 'XIV a. pradžia; 1300 m. ir po to; 1354 m.'
+  - '1375 m.'
+  - '1389 m. ir 1415 m.'
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # metropolitas
@@ -67,80 +58,101 @@ aukštas bažnytinis hierarchas, turintis reikšmės Lietuvos rytinių žemių b
 Nenurodyta.
 
 ## Teiginiai
-- t-007
-  teiginys: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Algirdas ir Maskvos kunigaikštis siekė savo valstybės ribose atnaujinti arba išlaikyti arkivyskupo-metropolito sostą.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
+- t-001
+  teiginys: 'Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui.'
   pagrindžia:
     - c-003
-
+    - c-004
+    - c-005
+    - c-006
+    - c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
+- c-003
+  santrauka: Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Lietuvos metropolijos Gediminui nepasisekė išlai­
-    kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo
-    metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
-    į Maskvą.
-    Tinkamai nesutvarkytas Lietuvos rytinių žemių bažnytinis
-    priklausomumas prie Gedimino įpėdinių sudarė valstybei įvairių
-    rūpesčių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-002
-  santrauka: 'Algirdas ir Maskvos kunigaikštis siekė savo valstybės ribose atnaujinti arba išlaikyti arkivyskupo-metropolito sostą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Naugarde,
+    Kiekvienas iš veiklių varžovų, norėdamas nurungti
+    konkurentą, stengėsi išplėsti savo įtaką Pskove, Didž. Naugarde,
     Smolenske ir Tvėrėje. Ir Algirdas, ir Maskvos kunigaikštis tuo
     pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
     valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
     gyventojams.
-    Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
-    Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
-    puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
-- c-003
-  santrauka: 'Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
+    - t-001
+- c-004
+  santrauka: Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ir Algirdas, ir Maskvos kunigaikštis tuo
-    pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
-    valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
-    gyventojams.
-    Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
-    Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
-    puolimų pavojuose, 1300 m.
-  citata_rodoma: ''
+    Pagaliau jam pasi­
+    sekė atstatyti Vytenio ir Gedimino laikų padėtį. 1354 m. Konstan­
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
+    sančių žemių metropolitą — arkivyskupą Romaną.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
-
+    - t-001
+- c-005
+  santrauka: Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Konstan­
+    tinopolio patriarchas paskyrė atskirą Lietuvos valstybei priklau­
+    sančių žemių metropolitą — arkivyskupą Romaną.
+    Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis,
+    Lietuvos stačiatikių metropolija nebebuvo atnaujinta, bet vėl tapo
+    pajungta maskviniam « visos Rusijos metropolitui ». Tik po dau­
+    gelio pastangų Algirdui vėl pavyko Konstantinopolio patriarchą
+    Filotėją įtikinti Lietuvos ortodoksų labui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-006
+  santrauka: Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Algirdas 1370 smarkiai
+    pasisakė prieš Aleksį, atsakydamas į priekaištus savo laiške Kons­
+    tantinopolio Filotejui^16. Patriarchas Lietuvos stačiatikių metro­
+    politu 1375 paskyrė vienuolį Kiprijoną († 1381), kuris pastoviai
+    gyveno didžiojoje Lietuvos kunigaikštijoje, Kijevą pasirinkdamas
+    sostine. Bet Algirdo pasiektas laimėjimas ilgesnį laiką nepatvėrė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-007
+  santrauka: Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Maskvos Dimitras Kiprijono nepripažino ir dėjo pastangų Lietuvai
+    metropolitu įšventinti vieną savo numatytą vienuolį. Nuo 1389 m.
+    Lietuvos metropolija vėl paliovė egzistavusi iki pat 1415, kai Gri­
+    gorijaus Camblako asmenyje Vytautas trumpam laikui išsirūpino
+    jos atnaujinimą, tepatverusį vos penkerius metus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 ## Pastabos
 
 - žodis šiame gabale vartojamas kaip bažnytinis titulas, o ne kaip institucijos pavadinimas; šiame gabale terminas vartojamas kaip istorinė bažnytinė sąvoka, ne kaip šiuolaikinė institucija.
@@ -151,8 +163,13 @@ Nenurodyta.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Kiprijonas]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/zodynas/metropolija]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
 - [[objektai/asmenys/Ciprijonas]]
 - [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
@@ -162,7 +179,6 @@ Nenurodyta.
 - [[objektai/autoriai/J. Adamus]]
 - [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/asmenys/Jurgis Cemblakas]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
 - [[objektai/grupes/Lietuvos stačiatikiai]]
@@ -170,12 +186,10 @@ Nenurodyta.
 - [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
 - [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
-- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teodosijus]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
-- [[objektai/zodynas/metropolija]]
 - [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
 - [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]
 - [[objektai/zodynas/pravoslavai]]

@@ -34,6 +34,7 @@ amziai:
 date_start: '1340'
 date_end: '1829'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags:
   - grupe
 ---
@@ -221,6 +222,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
 - [[objektai/autoriai/Martynas Smigleckis]]
 - [[objektai/asmenys/Motiejus Kazimieras Sarbievijus]]
+- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
 - [[objektai/autoriai/Wulfstanas]]
 - [[objektai/grupes/Lietuviai]]

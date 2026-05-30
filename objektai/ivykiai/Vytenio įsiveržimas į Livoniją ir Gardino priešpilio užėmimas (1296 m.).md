@@ -16,6 +16,7 @@ amziai:
 date_start: '1296'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - ordinas
@@ -68,6 +69,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/žygis]]

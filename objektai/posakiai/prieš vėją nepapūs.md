@@ -27,6 +27,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # prieš vėją nepapūs
@@ -90,4 +91,5 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/autoriai/O. Halecki]]

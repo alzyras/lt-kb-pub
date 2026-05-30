@@ -19,6 +19,7 @@ amziai:
 date_start: '1655'
 date_end: '1939'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - saltinis
   - sutartis

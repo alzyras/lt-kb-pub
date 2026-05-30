@@ -22,6 +22,7 @@ amziai:
 date_start: '1298'
 date_end: '1330'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - ordinas
@@ -108,7 +109,7 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
 - [[objektai/zodynas/žygis]]

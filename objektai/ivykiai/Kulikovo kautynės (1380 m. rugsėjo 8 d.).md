@@ -17,6 +17,7 @@ amziai:
 date_start: '1380'
 date_end: '1381'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karas
@@ -67,11 +68,7 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]

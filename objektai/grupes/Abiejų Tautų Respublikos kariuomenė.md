@@ -14,6 +14,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - tauta
@@ -59,3 +60,4 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
 ### Susiję objektai
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]

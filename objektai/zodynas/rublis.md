@@ -17,6 +17,7 @@ amziai:
 date_start: '1387'
 date_end: '1390'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kraštas
   - pinigai
@@ -85,8 +86,8 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Čekai]]

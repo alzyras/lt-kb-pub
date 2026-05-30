@@ -17,6 +17,7 @@ amziai:
 date_start: '1263'
 date_end: '1264'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - tauta
@@ -65,5 +66,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Treniota]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Tautvilas]]

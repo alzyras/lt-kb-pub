@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Tadas Korsakas"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "T. Korsakas"
 aliases: []
@@ -23,6 +23,7 @@ amziai:
 date_start: '1791'
 date_end: ''
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - bajoras

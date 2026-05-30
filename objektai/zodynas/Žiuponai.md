@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: žiuponai
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - žiuponais
 saltiniai:
@@ -10,6 +10,7 @@ laikotarpis: '9 amžius; 890 metai'
 datos:
   - '9 amžius; 890 metai'
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # žiuponai
 

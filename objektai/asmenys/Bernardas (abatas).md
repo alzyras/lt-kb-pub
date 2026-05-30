@@ -16,6 +16,7 @@ amziai:
 date_start: '1324'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - diplomatas
@@ -62,8 +63,3 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Bernardas Berensonas]]
-- [[objektai/asmenys/Gertrude Ellion]]
-- [[objektai/asmenys/Sydney Brenner]]

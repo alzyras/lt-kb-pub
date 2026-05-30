@@ -19,6 +19,7 @@ amziai:
 date_start: '1656'
 date_end: '1657'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - karas

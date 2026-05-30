@@ -16,6 +16,7 @@ amziai:
 date_start: '1399'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - mokslininkas
   - mūšis
@@ -124,4 +125,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

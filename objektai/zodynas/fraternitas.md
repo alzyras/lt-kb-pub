@@ -18,6 +18,7 @@ amziai:
 date_start: '1936'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - elekcija
   - karalius
@@ -75,7 +76,3 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]

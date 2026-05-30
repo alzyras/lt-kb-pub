@@ -28,6 +28,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - autorius
 ---
@@ -138,3 +139,10 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Fridrichas, vadinamas Hole]]
+- [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]]
+- [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/krivis krivė krivaitis]]
+- [[objektai/zodynas/rutėnai Rutheni]]
+- [[objektai/zodynas/territorium lant valsčius]]

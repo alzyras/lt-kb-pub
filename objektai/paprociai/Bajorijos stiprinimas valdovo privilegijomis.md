@@ -22,6 +22,7 @@ amziai:
 date_start: '1387'
 date_end: '1447'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - didikas
@@ -79,9 +80,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/luominė diferenciacija]]

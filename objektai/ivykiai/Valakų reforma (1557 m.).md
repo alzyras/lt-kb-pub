@@ -16,6 +16,7 @@ amziai:
 date_start: '1557'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - reforma
@@ -74,4 +75,3 @@ Nenurodyta
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
 - [[objektai/grupes/Valakai]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]
-- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]

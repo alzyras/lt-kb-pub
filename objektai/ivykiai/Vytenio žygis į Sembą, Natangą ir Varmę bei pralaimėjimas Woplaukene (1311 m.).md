@@ -17,6 +17,7 @@ amziai:
 date_start: '1311'
 date_end: '1313'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
 ---
@@ -70,4 +71,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytenis]]
+- [[objektai/asmenys/Surminas]]
+- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]

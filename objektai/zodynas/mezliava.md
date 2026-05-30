@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: mezliava
-sukurta: 2026-04-25
+sukurta: '2026-04-25'
 variantai:
   - mezliavą
 aliases: []
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # mezliava
@@ -79,3 +80,6 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/teisinis-terminas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Duona]]

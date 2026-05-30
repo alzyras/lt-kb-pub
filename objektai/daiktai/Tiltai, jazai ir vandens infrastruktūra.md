@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: "Tiltai, jazai ir vandens infrastruktūra"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Vilijos tiltas
   - tiltas per Viliją
@@ -26,6 +26,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - transportas
 ---
@@ -118,6 +119,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/autoriai/Albertas Goštautas]]
 - [[objektai/asmenys/Goštautas]]

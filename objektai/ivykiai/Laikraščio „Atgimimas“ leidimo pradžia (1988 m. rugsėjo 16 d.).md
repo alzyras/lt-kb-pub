@@ -16,6 +16,7 @@ amziai:
 date_start: '1988'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
 ---

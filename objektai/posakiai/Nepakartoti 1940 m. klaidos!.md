@@ -24,6 +24,7 @@ amziai:
 date_start: '1940'
 date_end: '2026'
 patikimumas: aukštas
+atnaujinta: '2026-05-02'
 tags:
   - posakis
 ---

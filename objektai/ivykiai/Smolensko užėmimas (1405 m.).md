@@ -16,6 +16,7 @@ amziai:
 date_start: '1405'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - ivykis
@@ -74,4 +75,4 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

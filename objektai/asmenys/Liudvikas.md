@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
 ---
@@ -88,5 +89,26 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Fridrichas iš Holdenštetės]]
+- [[objektai/asmenys/Kantigirdas]]
+- [[objektai/ivykiai/Kimelio pilies sunaikinimas (1296 m.)]]
+- [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]
+- [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]
 - [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]
+- [[objektai/asmenys/Liudvikas Bavaras]]
+- [[objektai/asmenys/Liudvikas iš Baldensheimo]]
+- [[objektai/asmenys/Liudvikas iš Libencelės]]
+- [[objektai/asmenys/Liudvikas iš Šipeno]]
+- [[objektai/ivykiai/Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.)]]
+- [[objektai/ivykiai/Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės]]
+- [[objektai/asmenys/Markvardas iš Revelingės]]
+- [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]
+- [[objektai/asmenys/Skomantas]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/asmenys/Ulrichas Bajeris]]
+- [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/ginklanešys]]
+- [[objektai/zodynas/šeimynykštis famulus]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]

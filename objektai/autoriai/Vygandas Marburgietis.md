@@ -26,6 +26,8 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
 ---
@@ -282,5 +284,6 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Pakeliamas tiltas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/stabmeldys]]

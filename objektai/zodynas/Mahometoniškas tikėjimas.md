@@ -16,6 +16,7 @@ amziai:
 date_start: '1398'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - privilegija
   - sąvoka
@@ -59,10 +60,9 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-- [[temos/tikėjimas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/žygis]]

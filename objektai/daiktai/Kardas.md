@@ -21,6 +21,7 @@ amziai:
 date_start: '1917'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - daiktas
@@ -138,18 +139,14 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos|Damoklo kardas tikrai pakibo ant unijos (unija)]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
-- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
-- [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
 - [[objektai/asmenys/Jonas XXIII]]
 - [[objektai/grupes/Kardo rinktinė]]
+- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/grupes/Klevo kuopa]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]

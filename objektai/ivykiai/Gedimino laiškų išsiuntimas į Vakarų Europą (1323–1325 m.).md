@@ -24,6 +24,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)
@@ -121,7 +122,7 @@ Nenurodyta
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pranciškonų ordinas]]

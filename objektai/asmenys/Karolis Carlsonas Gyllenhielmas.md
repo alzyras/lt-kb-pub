@@ -18,6 +18,7 @@ amziai:
 date_start: '1574'
 date_end: '1650'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karalius
@@ -93,7 +94,6 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Lietuviai]]

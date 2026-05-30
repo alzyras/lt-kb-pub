@@ -16,6 +16,7 @@ amziai:
 date_start: '1365'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - upė
   - vieta
@@ -27,33 +28,52 @@ tags:
 Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir upės krante sunaikino kelias priešo pilaites (Kaustryčių ir kt.).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir upės krante sunaikino kelias priešo pilaites (Kaustryčių ir kt.).'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-
+    - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir upės krante sunaikino kelias priešo pilaites (Kaustryčių ir kt.).'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-002
+  santrauka: 'Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Atsakydami į kryžiuočių bei kryži-
-    ninkų Ariogalos, Paštuvos puolimą,
+    Apie įvykius prieš šį karą
 
-    1365 m. pradžioje Kęstutis, Algirdas,
-    Patrikas iš Gardino ir Aleksandras Ka-
-    rijotaitis puolė Skalvos žemę ir upės
-    krante sunaikino kelias priešo pilaites
-    (Kaustryčių ir kt.). Abi pusės ir toliau
-    puldinėjo viena kitos žemes. Lietuvos ir
-    kryžiuočių karas pasiekė aukščiausią es-
-    kalacijos lygį.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+       Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius,
+    įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne
+    kurios žemiau aprašytos kovos vyko po karo su nadruviais, nes skalvius buvo galima
+    pasiekti laivais, o tam negalėjo trukdyti nadruviai, gyvenantys toliau nuo Nemuno.
+
+
+
+
+
+      464  D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Ragainės pilies užkariavimą
+
+       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

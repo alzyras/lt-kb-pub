@@ -16,6 +16,7 @@ amziai:
 date_start: '1245'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - kunigaikštis
@@ -68,7 +69,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
+- [[objektai/asmenys/Fridrichas II]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]

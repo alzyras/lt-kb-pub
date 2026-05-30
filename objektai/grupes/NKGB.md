@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "NKGB"
-sukurta: "2026-05-18"
+sukurta: '2026-05-18'
 variantai:
   - "Valstybės saugumo liaudies komisariatas"
   - "Valstybės saugumo liaudies komisariatas (SSRS)"
@@ -32,6 +32,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-18'
 tags: []
 ---
 # NKGB

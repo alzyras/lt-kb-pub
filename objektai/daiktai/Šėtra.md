@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Šėtra'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Šėtra
@@ -41,17 +42,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-001
   teiginys: 'Parusnyje po dideliu ąžuolu buvo šėtra, prie kurios kunigai kūrė amžiną ugnį.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Parusnyje po dideliu ąžuolu buvo šėtra, prie kurios kunigai kūrė amžiną ugnį.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Parusnyje po dideliu ąžuolu buvo šėtra, prie kurios kunigai kūrė amžiną ugnį.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     lietuvių krikštyti sako, jog Parusny radę jau šėtrą^715 po dideliu ąžuolu, visados žaliuojančiu, pas
         kurį žyniai, arba kunigai, amžiną ugnį kūrinę ąžuolo medžiais.
@@ -61,7 +62,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Pastabos
 

@@ -23,6 +23,7 @@ amziai:
 date_start: '1964'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
 ---

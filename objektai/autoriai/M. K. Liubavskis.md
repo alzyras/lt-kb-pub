@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - dokumentas
@@ -54,9 +55,6 @@ Liubavskis. Liubavskij : Oblastnoe delenie (LOD); Litovsko-russkij sejm (ČIObč
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/statutas]]

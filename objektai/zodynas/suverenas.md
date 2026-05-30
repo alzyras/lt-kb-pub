@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sutartis
   - sąvoka
@@ -59,7 +60,6 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
 - [[temos/formulė]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
 - [[objektai/zodynas/feodalizmas]]

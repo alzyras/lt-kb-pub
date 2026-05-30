@@ -25,6 +25,7 @@ dalyviai:
   - 'Jadvyga Jogailienė'
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-27'
 tags:
   - krikštas
 ---
@@ -158,9 +159,8 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

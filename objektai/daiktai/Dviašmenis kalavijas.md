@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Dviašmenis kalavijas
-sukurta: 2026-05-02
+sukurta: '2026-05-02'
 variantai:
   - X-XI a. Vakarų Europos dviašmenis kalavijas
 aliases: []
@@ -26,6 +26,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: vidutinis
+atnaujinta: '2026-05-02'
 tags:
   - daiktas
   - ginklas

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
 ---
@@ -51,3 +52,4 @@ Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]

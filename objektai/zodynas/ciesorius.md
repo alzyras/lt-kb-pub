@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - elekcija
   - karalius
@@ -53,11 +54,7 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
-- [[objektai/zodynas/elektorius]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Barbora Cyleikaitė]]
 - [[objektai/asmenys/Dr. Baptistas Cigala]]

@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - sąvoka
 ---
@@ -63,7 +64,7 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/posakiai/„nuo jūros iki jūros“]]
 - [[objektai/grupes/Mongolų imperija]]

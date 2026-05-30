@@ -16,6 +16,7 @@ amziai:
 date_start: '1808'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - kunigas

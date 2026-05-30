@@ -3,13 +3,13 @@ tipas: zodyno_irasas
 pavadinimas: kaštelionas
 sukurta: '2026-04-25'
 variantai:
-  - kaštelionas
-  - kaštelionai
-  - castellanus
+- kaštelionas
+- kaštelionai
+- castellanus
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1430 m.'
@@ -27,6 +27,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: vidutinis
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # kaštelionas
@@ -109,11 +110,9 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 
 ### Susiję objektai
 - [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Benediktas]]
 - [[objektai/zodynas/Municipalinė teisėtvarka]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/zodynas/Pilininkas]]

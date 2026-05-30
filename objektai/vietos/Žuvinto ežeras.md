@@ -27,6 +27,7 @@ dalyviai: []
 susije_irasai:
   - '[[Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Žuvinto ežeras

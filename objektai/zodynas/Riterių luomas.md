@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Riterių luomas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "riterių luomas"
 aliases:
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Riterių luomas

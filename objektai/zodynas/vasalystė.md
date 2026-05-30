@@ -3,12 +3,13 @@ tipas: zodyno_irasas
 pavadinimas: vasalystė
 sukurta: '2026-04-25'
 variantai:
-  - vasalystę
+- vasalystę
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # vasalystė
@@ -50,6 +51,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

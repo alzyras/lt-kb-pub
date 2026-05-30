@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["Klaipėdos Konvencija ir Statutas", "Memelio Konvencija ir Statutas"]
 aliases: ["Klaipėdos Konvencija ir Statutas", "Memelio Konvencija ir Statutas"]
 saltiniai:
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kraštas
   - ordinas
@@ -59,7 +60,8 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/žygis]]

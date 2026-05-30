@@ -16,6 +16,7 @@ amziai:
 date_start: '1434'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - unija
   - vieta

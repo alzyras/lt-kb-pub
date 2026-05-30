@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - paprotys
   - seimas
@@ -86,5 +87,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Pacai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Lenkai]]

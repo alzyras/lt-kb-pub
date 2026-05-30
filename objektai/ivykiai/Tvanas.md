@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dinastija
   - ivykis
@@ -65,4 +66,5 @@ Nenurodyta
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
+- [[objektai/ivykiai/Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas)]]
 - [[objektai/grupes/Saksų dinastija]]

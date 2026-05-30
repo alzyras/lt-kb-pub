@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - karalius
   - ordinas
@@ -96,7 +97,6 @@ Protestantizmas labai greitai pasiekė Lietuvą. XVI amžiuje užplūdusi protes
 - [[objektai/grupes/Biržų Radvilos]]
 - [[objektai/grupes/Brandenburgo elektoriai]]
 - [[objektai/autoriai/J. Bretkūnas]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/autoriai/Stanislovas Rapagelionis]]

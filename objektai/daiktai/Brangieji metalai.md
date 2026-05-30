@@ -24,6 +24,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
 ---
@@ -94,3 +95,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/daiktai/Karinė ginkluotė]]

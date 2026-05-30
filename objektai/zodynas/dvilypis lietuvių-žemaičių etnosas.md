@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - sąvoka
   - tauta
@@ -54,7 +55,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Simonas Stanevičius]]
+- [[objektai/autoriai/Simonas Stanevičius]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
 - [[objektai/grupes/Vilniaus universitetas]]

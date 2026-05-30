@@ -17,6 +17,7 @@ amziai:
 date_start: '1558'
 date_end: '1583'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - sutartis
@@ -151,6 +152,8 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]

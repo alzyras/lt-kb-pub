@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - grupe
@@ -51,6 +52,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/ivykiai/Antrasis LLV padalijimas]]
 - [[objektai/asmenys/Bazilijus Ciapinskis]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]

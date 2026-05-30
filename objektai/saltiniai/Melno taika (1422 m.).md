@@ -16,6 +16,7 @@ amziai:
 date_start: '1429'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - ežeras
   - karas

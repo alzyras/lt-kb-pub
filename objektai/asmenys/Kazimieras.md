@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - dokumentas
@@ -52,28 +53,27 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Lokietka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
 - [[objektai/grupes/Kardo rinktinė]]
-- [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/grupes/Krimo orda]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos partizanai]]
+- [[objektai/asmenys/Liubartas]]
 - [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
 - [[objektai/grupes/Sapiegos]]
+- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
 - [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
+- [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]
 - [[objektai/zodynas/baudžiavinė epocha]]
 - [[objektai/zodynas/domenas]]
 - [[objektai/zodynas/geležinė uždanga]]
@@ -87,5 +87,6 @@ tags:
 - [[objektai/zodynas/Aistuva]]
 - [[objektai/asmenys/Kazimieras (Lietuvos didysis kunigaikštis)]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/asmenys/Lokietka]]
 - [[objektai/zodynas/etmonų teisė]]
 - [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]

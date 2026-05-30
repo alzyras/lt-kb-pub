@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -24,6 +24,7 @@ dalyviai:
   - "estai"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma
@@ -92,6 +93,5 @@ tags: []
 
 ### Susiję objektai
 - [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Hermanas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Latviai]]

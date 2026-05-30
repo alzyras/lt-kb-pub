@@ -37,6 +37,7 @@ amziai:
 date_start: '1323'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - tauta
@@ -293,6 +294,7 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/asmenys/Fotijus]]
+- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
@@ -300,7 +302,6 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams|Jogailos privilegija apsikrikštijusiems bajorams (privilegija)]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/zodynas/Kanceliarinė rašto kalba]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
 - [[objektai/asmenys/Lengvenis]]
 - [[objektai/posakiai/Lietuva tik iš vardo esanti katalikiška]]
@@ -340,4 +341,3 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]
 - [[objektai/ivykiai/Brastos bažnytinė unija|Brastos bažnytinė unija (unija)]]
-- [[objektai/asmenys/Gediminas]]

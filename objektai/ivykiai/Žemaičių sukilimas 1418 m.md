@@ -22,6 +22,7 @@ amziai:
 date_start: '1418'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - sukilimas
@@ -96,7 +97,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukštaičiai]]

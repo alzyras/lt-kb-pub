@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - upė
@@ -49,9 +50,5 @@ Volteris).
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
-- [[objektai/grupes/Aukštaičiai]]
 - [[objektai/grupes/Lietuviai]]

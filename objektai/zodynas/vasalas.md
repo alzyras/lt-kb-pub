@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: vasalas
 sukurta: '2026-04-25'
 variantai:
-  - vasalu
+- vasalu
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1430 m.'
@@ -25,6 +25,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: vidutinis
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # vasalas
@@ -178,14 +179,14 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 
 ### Susiję objektai
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Skomantas]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Vladislovas iš Opolės]]
-- [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
-- [[objektai/grupes/Livonijos ordinas]]

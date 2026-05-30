@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: Ona Jogailaitė
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Ona
   - karalaitė Ona
@@ -28,6 +28,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - karalienė
 ---
@@ -361,4 +362,6 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/daiktai/Vienaragis (pabūklas)]]

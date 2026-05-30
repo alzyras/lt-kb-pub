@@ -32,6 +32,7 @@ laikotarpis: '1435 m. rugsėjo 1 d.'
 date_start: '1435'
 date_end: '1435'
 periodas: 'viduramziai'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - karas

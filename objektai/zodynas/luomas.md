@@ -21,6 +21,7 @@ amziai:
 date_start: '1413'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # luomas
@@ -204,17 +205,25 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 - [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
 - [[objektai/asmenys/Abraomas Kulvietis]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
+- [[objektai/asmenys/Glapas]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/autoriai/K. Avižonis]]
 - [[objektai/posakiai/Kad tik be arklio nebūtų]]
+- [[objektai/autoriai/Kosman М]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/autoriai/Kučinskas A]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/grupes/Miestelėnų luomas]]
+- [[objektai/paprociai/Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus]]
 - [[objektai/zodynas/Riterių luomas]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
+- [[objektai/zodynas/krivis krivė krivaitis]]
+- [[objektai/zodynas/naujakrikštis]]
 - [[objektai/zodynas/nobilitetas]]
 - [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės (pilis)]]
+- [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/privilegija lex privata|privilegija lex privata (privilegija)]]
 - [[objektai/zodynas/rūmininkas vyno pilstytojas]]

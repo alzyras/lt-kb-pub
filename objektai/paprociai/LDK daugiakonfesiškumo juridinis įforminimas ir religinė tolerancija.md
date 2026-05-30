@@ -11,6 +11,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - kunigaikštis
@@ -106,7 +107,7 @@ Nenurodyta
 - [[objektai/grupes/Karaimai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

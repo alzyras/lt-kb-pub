@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Akademijos aikštės medinis šulinys
-sukurta: 2026-05-27
+sukurta: '2026-05-27'
 variantai:
   - medinis šulinys
 aliases: []
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Akademijos aikštės medinis šulinys

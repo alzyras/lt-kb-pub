@@ -21,6 +21,7 @@ amziai:
 date_start: '1292'
 date_end: '1294'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - ordinas
@@ -132,4 +133,5 @@ Sudegė abiejų pilių papiliai.
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/grupes/Lietuviai]]

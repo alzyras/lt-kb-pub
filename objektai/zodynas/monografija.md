@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
   - žemėlapis
@@ -56,7 +57,6 @@ Monografijoje yra 320 puslapiu.
 - [[objektai/autoriai/A. Lewickis]]
 - [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/grupes/Sakalo bendrovė]]
-- [[objektai/autoriai/W. Hubatsch]]
 - [[objektai/autoriai/Kryczyński, St]]
 - [[objektai/grupes/Lietuvos Karininkų Ramovė]]
 - [[objektai/autoriai/P. Šležas]]

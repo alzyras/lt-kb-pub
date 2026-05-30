@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - krikštas
@@ -54,10 +55,10 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Danielius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Tautvilas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Andrius Algirdaitis]]

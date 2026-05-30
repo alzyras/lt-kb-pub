@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vylyčios'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai: []
 aliases: []
 saltiniai:
@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Vylyčios
@@ -41,23 +42,23 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-003
+- t-001
   teiginys: 'Perūno atvaizde rankoje buvo vylyčios.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
-- t-004
+- t-002
   teiginys: 'Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais.'
   pagrindžia:
     - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Perūno atvaizde rankoje buvo vylyčios.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Perūno atvaizde rankoje buvo vylyčios.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Tarp tų stabų vienas buvęs
         pavėdus į amžiaus vyrą, kursai turėjęs veidą drąsų ir raudoną, barzdą garbanotą, ant galvos
@@ -68,10 +69,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 - c-002
-  santrauka: 'Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697
         darbininkui kirvį, dailidei kaltą, grąžtą, motriškosioms varpstę ir kuodelį, tardami, jog ir mirus tą
@@ -82,7 +83,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

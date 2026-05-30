@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -65,7 +66,6 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/grupes/Arabai]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
 - [[objektai/asmenys/Jagurčinas]]
-- [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]
 - [[objektai/grupes/Lietuvos stačiatikiai]]
@@ -75,3 +75,5 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/posakiai/filius specialis sanctae Romanas Ecclesiae]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/kelionių romanas]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]

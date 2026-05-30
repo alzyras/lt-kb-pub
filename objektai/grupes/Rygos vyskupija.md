@@ -19,6 +19,7 @@ amziai:
 date_start: '1559'
 date_end: '1572'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - diplomatas
   - grupe

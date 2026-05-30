@@ -16,6 +16,7 @@ amziai:
 date_start: '1920'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - kunigaikštis
@@ -54,7 +55,7 @@ p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikšč
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/grupes/Mokomoji kuopa]]

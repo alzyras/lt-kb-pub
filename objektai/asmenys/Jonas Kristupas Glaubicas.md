@@ -29,6 +29,7 @@ amziai:
 date_start: '1700'
 date_end: '1767'
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Jonas Kristupas Glaubicas (architektas)

@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: sūdas
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - sūdąs
   - sūdą
@@ -11,6 +11,7 @@ laikotarpis: '1213 metai; 1236 metai; 1238 metai'
 datos:
   - '1213 metai; 1236 metai; 1238 metai'
 patikimumas: vidutinis
+atnaujinta: '2026-04-30'
 ---
 # sūdas
 

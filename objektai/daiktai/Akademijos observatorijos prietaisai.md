@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: "Akademijos observatorijos prietaisai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - observatorijos prietaisai
   - prietaisams
@@ -23,6 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-27'
 tags:
   - įrankis
 ---
@@ -86,4 +87,5 @@ Nenurodyta
 - [[temos/įrankis]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Duona]]
 - [[objektai/grupes/Oginskiai]]

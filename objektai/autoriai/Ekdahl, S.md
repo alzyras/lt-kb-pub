@@ -20,6 +20,7 @@ amziai:
 date_start: '1888'
 date_end: '1963'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
 ---

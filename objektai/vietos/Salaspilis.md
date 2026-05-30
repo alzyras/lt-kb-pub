@@ -41,6 +41,7 @@ amziai:
 date_start: '1581'
 date_end: '2026'
 patikimumas: 'žemas'
+atnaujinta: '2026-04-25'
 tags:
   - vieta
 ---

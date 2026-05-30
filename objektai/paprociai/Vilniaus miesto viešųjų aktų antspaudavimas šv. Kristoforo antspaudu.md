@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu
@@ -125,6 +126,7 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Gardino seimas|Gardino seimas (seimas)]]
 - [[objektai/daiktai/Herbas]]
+- [[objektai/asmenys/Mantas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

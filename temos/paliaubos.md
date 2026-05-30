@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 24.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -20,6 +20,7 @@ Objektų skaičius: 24.
 
 ### Asmenys
 - [[objektai/asmenys/Andriejus (Vilniaus vyskupas)]]
+- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Henrikas von Plauen]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/asmenys/Vaclovas Pragiečius]]
@@ -42,12 +43,14 @@ Objektų skaičius: 24.
 - [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune]]
 - [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]
 - [[objektai/ivykiai/Skuodo kautynės (1259 m.)]]
+- [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]
 - [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.)]]
 - [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
 - [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
+- [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lenčicos žudynės]]
 - [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
 - [[objektai/ivykiai/Želigovskio smurtas (1920 m. spalio 8–9 d.)]]
 
 ### Žodynas
-- [[objektai/zodynas/Kerzono linija]]
-- [[objektai/zodynas/paliaubos]]
+- [Kerzono linija](../objektai/zodynas/Kerzono%20linija)
+- [paliaubos](../objektai/zodynas/paliaubos)

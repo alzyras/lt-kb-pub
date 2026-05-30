@@ -18,6 +18,7 @@ amziai:
 date_start: '2004'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - diplomatas
   - elekcija
@@ -73,8 +74,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

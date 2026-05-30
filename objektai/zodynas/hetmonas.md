@@ -12,6 +12,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - karas
@@ -59,6 +60,8 @@ Hetmonai buvo kariuomenės vadai. Ankstesniame šaltinyje jie apibrėžti kaip k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]

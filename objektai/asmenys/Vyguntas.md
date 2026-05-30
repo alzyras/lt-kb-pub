@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -59,7 +60,7 @@ Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijo
 ### Susiję objektai
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/ivykiai/Atskiros Lietuvos didžiojo kunigaikščio valdžios projektas ir jo žlugimas]]

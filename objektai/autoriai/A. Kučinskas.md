@@ -17,6 +17,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-04'
 tags:
   - autorius
 ---
@@ -102,3 +103,7 @@ A. Kučinskas 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įraš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Žemaičiai]]

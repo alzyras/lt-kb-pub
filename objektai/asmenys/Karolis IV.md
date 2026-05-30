@@ -19,6 +19,7 @@ amziai:
 date_start: '1358'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - krikštas
@@ -31,65 +32,30 @@ tags:
 Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir tapęs Algirdo derybų partneriu dėl kryžiuočių bei baltų žemių klausimo. Naujas šaltinio fragmentas jį aiškiai įrašo į 1358 m. Lietuvos diplomatijos kontekstą.
 
 ## Teiginiai
-- t-004
-  teiginys: 'Karolis IV buvo Šv. Romos imperatorius, su kuriuo Algirdas derėjosi 1358 m.'
+- t-007
+  teiginys: 'Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.'
   pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: '1358 m. Algirdas derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietuvai baltų žemes vakaruose.'
-  pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.'
-  pagrindžia:
-    - c-005
-
+    - c-006
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Karolis IV buvo Šv. Romos imperatorius, su kuriuo Algirdas derėjosi 1358 m.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-006
+  santrauka: 'Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su
-    Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
-    kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-
-    vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.
-    Kryžiuočiai į tai atsakė 1360 m. prasidėjusiomis intensyviomis
-    puolamosiomis operacijomis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-    - t-005
-- c-005
-  santrauka: 'Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos galybės maksimumas
-
-    Pasiekęs neregėtą galybę rytuose, Algirdas 1358 m. derybose su
-    Šv. Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti
-    kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietu-
-    vai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.
+    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
+    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
+    Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Mongolai]]
 - [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
 - [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
 - [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]
+- [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]

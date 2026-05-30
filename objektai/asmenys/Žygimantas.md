@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -74,13 +75,13 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/posakiai/Antemurale Christianitatis]]
 - [[objektai/grupes/Dievo Kūno arkibrolija]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
-- [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/asmenys/Mahometas Aminas]]
@@ -93,10 +94,10 @@ tags:
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/zodynas/artilerijos pasala]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
 - [[objektai/grupes/Čekijos husitai]]

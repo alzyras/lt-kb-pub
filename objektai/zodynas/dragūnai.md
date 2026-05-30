@@ -16,6 +16,7 @@ amziai:
 date_start: '1618'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - mūšis
   - reforma
@@ -78,4 +79,5 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/vėliava]]
 - [[objektai/asmenys/M. P. Sapiega]]

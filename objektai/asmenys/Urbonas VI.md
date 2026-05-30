@@ -16,6 +16,7 @@ amziai:
 date_start: '1389'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - popiežius
@@ -86,4 +87,3 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/zodynas/brevė]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vilniaus kapitula]]

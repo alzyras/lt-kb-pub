@@ -17,6 +17,7 @@ amziai:
 date_start: '1420'
 date_end: '1421'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - sutartis
@@ -96,10 +97,10 @@ Nenurodyta
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/markgrafas]]

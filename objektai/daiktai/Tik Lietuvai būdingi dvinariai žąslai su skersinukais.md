@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
 ---
@@ -65,3 +66,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
+- [[objektai/daiktai/Dviašmenis kalavijas]]

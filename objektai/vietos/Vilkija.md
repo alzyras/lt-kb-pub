@@ -19,6 +19,7 @@ amziai:
 date_start: '1950'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - upė

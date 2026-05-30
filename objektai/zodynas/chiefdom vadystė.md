@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "chiefdom / vadystė"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "chiefdom’o"
   - "vadystės"
@@ -26,6 +26,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # chiefdom / vadystė

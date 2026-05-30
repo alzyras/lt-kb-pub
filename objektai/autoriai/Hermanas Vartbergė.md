@@ -16,6 +16,7 @@ amziai:
 date_start: '1236'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - karalius
@@ -75,5 +76,6 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

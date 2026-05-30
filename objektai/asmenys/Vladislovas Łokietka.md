@@ -16,6 +16,7 @@ amziai:
 date_start: '1325'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - ordinas
@@ -61,8 +62,8 @@ Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tink
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/zodynas/markgrafas]]

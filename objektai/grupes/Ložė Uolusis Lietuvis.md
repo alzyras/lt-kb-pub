@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Ložė Uolusis Lietuvis"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "masonų ložė"
   - "ložė Uolusis Lietuvis"
@@ -24,6 +24,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Ložė Uolusis Lietuvis

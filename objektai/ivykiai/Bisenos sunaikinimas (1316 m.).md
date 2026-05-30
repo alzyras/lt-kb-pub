@@ -19,6 +19,7 @@ amziai:
 date_start: '1316'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
 ---
@@ -95,4 +96,6 @@ Pilis sudeginta ir liko apleista.
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
+- [[objektai/asmenys/Fridrichas Kvicas]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/asmenys/Ditrichas iš Altenburgo]]

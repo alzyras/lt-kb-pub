@@ -21,6 +21,7 @@ amziai:
 date_start: '1976'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dokumentas
   - grupe
@@ -87,8 +88,6 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-- [[temos/dokumentas]]
-- [[temos/aktas - dokumentas]]
 
 ### Susiję objektai
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

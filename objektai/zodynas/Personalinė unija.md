@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Personalinė unija (unija)'
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - 'personalinė unija'
   - 'personalinėje unijoje'
@@ -32,6 +32,7 @@ amziai:
 date_start: '1499'
 date_end: '1918'
 patikimumas: aukštas
+atnaujinta: '2026-04-24'
 tags: []
 ---
 # Personalinė unija (unija)

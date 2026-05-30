@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Pieno perdirbimo įranga ir šaldytuvai"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Pieno perdirbimo įranga ir šaldytuvai"
 aliases: []
@@ -21,6 +21,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags:
   - įrankis
 ---

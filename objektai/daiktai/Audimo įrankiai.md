@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: 'Audimo įrankiai'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - 'Staklės'
   - skietai
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Audimo įrankiai
@@ -51,17 +52,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
-  teiginys: 'Moterų audimo įrankius, įskaitant stakles, skietus, mastuvus, lankčius ir vytuvus, dirbdavo jų vyrai.'
+- t-001
+  teiginys: 'Moterų audimo įrankiai buvo jų vyrų dirbti, o šiame sąraše minimos staklės, skietai, mastuvai, lankčiai ir vytuvai.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Moterų audimo įrankius, įskaitant stakles, skietus, mastuvus, lankčius ir vytuvus, dirbdavo jų vyrai.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  santrauka: Moterų audimo įrankiai buvo jų vyrų dirbti, o šiame sąraše minimos staklės, skietai, mastuvai, lankčiai ir vytuvai.
+  šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   citata_originali: |
     Lygia dalia motriškosios pirkinių negeidė ir už visų didžiausią gėdą būt sau turėjusios svečios drobės nuometą sau ant galvos vyturti ar sermėga apsivilkti, nesgi jų staklės, skietai, mastuvai^580 , lankčiai, vytuvai buvo jų vyrų dirbti.
   citata_rodoma: ""
@@ -70,4 +71,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

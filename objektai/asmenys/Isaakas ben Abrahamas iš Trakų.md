@@ -22,6 +22,7 @@ amziai:
 date_start: '1525'
 date_end: '1586'
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Isaakas ben Abrahamas iš Trakų

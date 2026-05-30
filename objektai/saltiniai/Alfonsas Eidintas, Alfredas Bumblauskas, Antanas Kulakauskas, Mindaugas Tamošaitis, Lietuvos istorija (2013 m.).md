@@ -29,6 +29,7 @@ dalyviai:
   - 'Lietuvos Respublikos užsienio reikalų ministerija'
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-06'
 tags: []
 ---
 # Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

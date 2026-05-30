@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - sukilimas
   - sąvoka
@@ -95,7 +96,6 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
 - [[objektai/asmenys/Ivanas Kornilovas]]
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
 - [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/zodynas/Rusiškosios raidės]]
 - [[objektai/zodynas/mokytojų seminarija]]

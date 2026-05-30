@@ -16,6 +16,7 @@ amziai:
 date_start: '1391'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karas
@@ -77,4 +78,5 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/daiktai/Vytauto ženklas]]

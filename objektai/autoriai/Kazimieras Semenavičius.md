@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Kazimieras Semenavičius"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "K. Semenavičius"
   - "K. Semenavičiaus"
@@ -28,6 +28,7 @@ amziai:
 date_start: '1579'
 date_end: '1650'
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - mokslininkas

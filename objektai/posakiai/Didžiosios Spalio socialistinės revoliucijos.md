@@ -16,6 +16,7 @@ amziai:
 date_start: '1918'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
   - valstybė
@@ -61,3 +62,4 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

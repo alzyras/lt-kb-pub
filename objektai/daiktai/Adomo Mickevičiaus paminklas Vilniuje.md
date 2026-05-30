@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Adomo Mickevičiaus paminklas Vilniuje"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Adomo Mickevičiaus paminklas Vilniuje"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags:
   - simbolis
 ---
@@ -97,4 +98,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/autoriai/Mickevičius]]
+- [[objektai/asmenys/Tropas]]
 - [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]

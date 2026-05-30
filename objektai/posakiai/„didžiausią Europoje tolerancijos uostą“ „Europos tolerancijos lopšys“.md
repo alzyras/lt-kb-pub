@@ -19,6 +19,7 @@ amziai:
 date_start: '1387'
 date_end: '1500'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - posakis
   - vyskupas

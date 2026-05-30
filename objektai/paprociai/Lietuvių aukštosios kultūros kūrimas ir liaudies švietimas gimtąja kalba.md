@@ -27,6 +27,7 @@ amziai:
 date_start: '1793'
 date_end: '1864'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - paprotys
   - tauta
@@ -101,5 +102,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Simonas Stanevičius]]
+- [[objektai/autoriai/Simonas Stanevičius]]
 - [[objektai/grupes/Vokiečiai]]

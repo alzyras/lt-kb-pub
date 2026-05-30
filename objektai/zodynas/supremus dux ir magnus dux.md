@@ -3,17 +3,18 @@ tipas: zodyno_irasas
 pavadinimas: supremus dux ir magnus dux
 sukurta: '2026-05-05'
 variantai:
-  - supremus dux
-  - magnus dux
-  - aukščiausias kunigaikštis
-  - didysis kunigaikštis
+- supremus dux
+- magnus dux
+- aukščiausias kunigaikštis
+- didysis kunigaikštis
 aliases: []
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 laikotarpis: 1379 m., 1401 m.
 datos:
-  - 1379 m., 1401 m.
+- 1379 m., 1401 m.
 patikimumas: aukštas
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # supremus dux ir magnus dux
@@ -74,9 +75,8 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/supremus dux]]
@@ -103,11 +103,12 @@ tags: []
 - [[objektai/posakiai/būsiu tavo žemėje po skaistaus pavasario, po tykios vasaros]]
 - [[objektai/zodynas/supremus dux magnus dux]]
 - [[objektai/zodynas/Sūdas|sūdas]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/asmenys/Kazimieras (Lietuvos didysis kunigaikštis)]]

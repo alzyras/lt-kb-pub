@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["pagrindinio Žemės reformos įstatymo priėmimas", "1922 m. žemės reforma"]
 aliases: ["pagrindinio Žemės reformos įstatymo priėmimas", "1922 m. žemės reforma"]
 saltiniai:
@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags:
   - reforma
 ---

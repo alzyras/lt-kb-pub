@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "tuteišiai"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "tuteišių"
   - "tuteišiais"
@@ -22,6 +22,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # tuteišiai

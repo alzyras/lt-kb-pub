@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Vasario 16 Aktas"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "1918 metų Vasario 16 Aktas"
   - "Vasario 16-osios aktas"
@@ -27,6 +27,7 @@ amziai:
 date_start: '1918'
 date_end: '2026'
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # Vasario 16 Aktas

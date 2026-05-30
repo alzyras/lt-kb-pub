@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: "Kijevo Rusia"
-sukurta: "2026-05-18"
+sukurta: '2026-05-18'
 variantai:
   - Kijevo Rusios
   - Rusia
@@ -30,6 +30,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-18'
 tags: []
 ---
 # Kijevo Rusia

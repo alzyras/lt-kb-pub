@@ -18,6 +18,7 @@ amziai:
 date_start: '1770'
 date_end: '1861'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - bajorija
@@ -100,9 +101,6 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/švietimo apygarda]]

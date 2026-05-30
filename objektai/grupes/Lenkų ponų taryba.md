@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - karalius
@@ -72,10 +73,10 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/grupes/Lenkų bajorija]]
-- [[objektai/zodynas/perdėtinis]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/zodynas/perdėtinis]]

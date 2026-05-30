@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - pilis
@@ -55,13 +56,22 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/komtūras]]
-- [[objektai/daiktai/Balnakilpės]]
-- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/autoriai/Dusburgas]]
+- [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
+- [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą]]
+- [[objektai/asmenys/Hermanas (Ordino magistras)]]
+- [[objektai/asmenys/Hermanas Balkas]]
+- [[objektai/asmenys/Hermanas Bartas]]
+- [[objektai/asmenys/Hermanas Saracėnas]]
+- [[objektai/asmenys/Hermanas iš Lichtenburgo]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]]
+- [[objektai/posakiai/Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,]]
+- [[objektai/asmenys/Jeronimas]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/grupes/Rusijos kariuomenės korpusas]]
-- [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]
-- [[objektai/zodynas/karyba]]
+- [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.)]]
+- [[objektai/asmenys/Mergelė Marija]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
+- [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]

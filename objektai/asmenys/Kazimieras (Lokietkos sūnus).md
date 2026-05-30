@@ -16,6 +16,7 @@ amziai:
 date_start: '1325'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - sutartis
@@ -57,12 +58,11 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Lokietka]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/talkininkas]]
 - [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/asmenys/Kazimieras]]
-- [[objektai/asmenys/Vladislovas Lokietka]]

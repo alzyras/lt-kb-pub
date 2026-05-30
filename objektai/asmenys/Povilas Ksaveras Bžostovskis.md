@@ -27,6 +27,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Povilas Ksaveras Bžostovskis (reformų veikėjas)

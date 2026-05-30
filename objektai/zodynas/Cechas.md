@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Cechas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "cechas"
   - "cechai"
@@ -32,6 +32,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Cechas
@@ -151,6 +152,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
+- [[objektai/daiktai/Pančiai]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/grupes/Vilniaus miesto cechai]]
 - [[objektai/autoriai/L. Truska]]

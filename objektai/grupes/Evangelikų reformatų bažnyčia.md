@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - didikas
   - grupe
@@ -46,10 +47,6 @@ Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerok
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/LDK didikai]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]

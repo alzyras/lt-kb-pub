@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
 ---
@@ -50,4 +51,5 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/zodynas/elektorius]]

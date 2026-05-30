@@ -25,6 +25,7 @@ amziai:
 date_start: '1241'
 date_end: '1429'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karalius
   - kunigaikštis

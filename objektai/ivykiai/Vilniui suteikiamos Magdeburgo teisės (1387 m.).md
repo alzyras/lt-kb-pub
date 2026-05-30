@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Vilniui suteikiamos Magdeburgo teisės (1387 m.)"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniui suteikiamos Magdeburgo teisės (1387 m.)
@@ -111,7 +112,7 @@ Nenurodyta
 - [[temos/politinis-sprendimas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/zodynas/seniūnas]]

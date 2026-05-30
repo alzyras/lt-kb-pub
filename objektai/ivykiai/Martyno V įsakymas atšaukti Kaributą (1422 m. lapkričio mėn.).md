@@ -16,6 +16,7 @@ amziai:
 date_start: '1422'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - popiežius
@@ -72,6 +73,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
 - [[objektai/grupes/Lietuvos vyskupai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Martynas V]]
+- [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/zodynas/ekskomunika]]

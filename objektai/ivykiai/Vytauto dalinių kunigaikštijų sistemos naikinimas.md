@@ -18,6 +18,7 @@ amziai:
 date_start: '1393'
 date_end: '1395'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - ivykis
@@ -100,6 +101,6 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Gediminaičiai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vietininkas]]

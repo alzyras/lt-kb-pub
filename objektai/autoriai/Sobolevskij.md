@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - ežeras
@@ -59,7 +60,6 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-- [[temos/upė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]

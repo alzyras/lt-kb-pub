@@ -23,6 +23,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags:
   - dvasininkas
   - vyskupas
@@ -362,7 +363,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Protestantai]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]

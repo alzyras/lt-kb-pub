@@ -6,16 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1502 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-date_start: '1502'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karvedys
@@ -29,79 +27,39 @@ tags:
 Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Aleksandras. Džiugi žinia dar spėjo pasiekti mirštantį valdovą Aleksandrą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
   pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-
+    - c-003
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-003
+  santrauka: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Tą pačią
-    dieną ten buvo atvykęs jau mirtinai nega-
-    luojantis LDK valdovas Aleksandras. Jis
-    vyriausiais kariuomenės vadais paskyrė
-    LDK etmoną Stanislovą Kišką ir savo favo-
-    rita, dvaro maršalką, kunigaikštį Mykolą
-    Glinskį, o pats grįžo į Vilnių. Stanislovas
-    Kiška nebuvo labai gabus karvedys, bet jau
-    turėjo tam tikros patirties kovose su toto-
-    riais ir maskvėnais (po to, kai 1502 m. jam
-    pavyko apginti Smolenską nuo maskvėnų,
-    jam buvo patikėtos etmono pareigos).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    YD rugpjūčio 12 d. Džiugi
-
-    žinia dar spėjo pasiekti
-
-    mirštantį valdovą Aleksandrą.
-    Mengli-Girėjus, gavęs žinią apie toto-
-    riams fatališkai pasibaigusį mūšį, tuojau pat
-    išsiuntė savo pasiuntinį į Vilnių, kuris turėjo
-    pranešti, kad chanas labai noriai laikysis ge-
-    gužės mėnesį suderėtos taikos. Pasiuntinys
-    taip pat gabeno Kazanės chano Mahometo-
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
 
 ### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]
 - [[objektai/asmenys/Elena]]
 - [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]
-- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/zodynas/Politinė amnestija]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
@@ -109,10 +67,10 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]
 - [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
 - [[objektai/grupes/Vilniaus Senienų muziejus]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
 - [[objektai/zodynas/švietimo apygarda]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/daiktai/Aleksandro lektika]]

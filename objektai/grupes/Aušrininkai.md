@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags:
   - grupe
 ---

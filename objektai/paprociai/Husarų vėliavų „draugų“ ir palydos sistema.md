@@ -24,6 +24,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Husarų vėliavų „draugų“ ir palydos sistema
@@ -231,4 +232,5 @@ Nenurodyta
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/daiktai/Šarvai]]
+- [[objektai/daiktai/Žirgai]]
 - [[objektai/grupes/Bajorai]]

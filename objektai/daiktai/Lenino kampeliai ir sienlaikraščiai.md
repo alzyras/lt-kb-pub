@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Lenino kampeliai ir sienlaikraščiai"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Lenino kampeliai ir sienlaikraščiai"
 aliases: []
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags:
   - simbolis
 ---

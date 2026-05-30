@@ -28,6 +28,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Saugokis manęs, kaip ir aš tavęs saugaus

@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: "Aleksandras Jogailaitis"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Aleksandras
   - Aleksandro Jogailaičio
@@ -33,6 +33,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - karalius
   - kunigaikštis

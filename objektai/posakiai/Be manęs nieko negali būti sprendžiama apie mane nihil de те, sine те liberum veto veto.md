@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - elekcija
@@ -95,9 +96,6 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bajorija]]

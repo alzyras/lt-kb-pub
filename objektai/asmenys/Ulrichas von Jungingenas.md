@@ -22,6 +22,7 @@ amziai:
 date_start: '1410'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - mūšis
@@ -123,3 +124,4 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/paprociai/Jogailos meldimasis ir mišių klausymas prieš kautynes]]
+- [[objektai/daiktai/Vėliavos]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karalius
@@ -73,15 +74,17 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/husarai]]
-- [[objektai/asmenys/Aldona Gediminaitė]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
-- [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/ivykiai/Kazimiero išrinkimas Lenkų karalium]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
 - [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
+- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
 - [[objektai/asmenys/Vladislovas iš Opolijos]]
 - [[objektai/asmenys/Vladislovas iš Opolės]]
 - [[objektai/asmenys/Vladislovas Łokietka]]

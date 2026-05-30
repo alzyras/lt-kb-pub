@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - miestas
   - posakis
@@ -45,4 +46,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Robertas (Sicilijos karalius)]]
 - [[objektai/asmenys/Robertas Zemeckis]]

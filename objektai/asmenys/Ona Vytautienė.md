@@ -15,6 +15,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - dokumentas
@@ -127,14 +128,10 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
     - t-009
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Ona Jogailaitė]]
 - [[objektai/asmenys/Danuta]]

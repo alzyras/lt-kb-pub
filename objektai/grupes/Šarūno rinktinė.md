@@ -20,6 +20,7 @@ amziai:
 date_start: '1944'
 date_end: '1949'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - kunigaikštis

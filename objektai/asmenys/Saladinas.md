@@ -17,6 +17,7 @@ amziai:
 date_start: '1409'
 date_end: '1419'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karas
@@ -82,5 +83,7 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/asmenys/Henrikas Valpotas]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]

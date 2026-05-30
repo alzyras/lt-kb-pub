@@ -21,6 +21,7 @@ amziai:
 date_start: '1895'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - kunigas
@@ -154,6 +155,7 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/grupes/JAV lietuviai]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Maironis]]

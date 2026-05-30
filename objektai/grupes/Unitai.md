@@ -25,6 +25,7 @@ amziai:
 date_start: '1587'
 date_end: '1763'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - kunigas
@@ -124,7 +125,6 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 - [[objektai/grupes/Rusų stačiatikių bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]
-- [[objektai/zodynas/kitatikiai]]
 - [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/pravoslavija]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]

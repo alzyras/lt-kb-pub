@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
 ---
@@ -23,64 +24,53 @@ tags:
 97 Grunau S., kronikininkas 58, 145, 205, 243, 294 Grünhagen C.
 
 ## Teiginiai
-- t-001
-  teiginys: '97 Grunau S., kronikininkas 58, 145, 205, 243, 294 Grünhagen C.'
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis dvigubas vardas atsirado dirbtinai; dabar galvojama, kad dvigubas vardas priklausė dviem minėtiems.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
+    - c-003
+    - c-004
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '97 Grunau S., kronikininkas 58, 145, 205, 243, 294 Grünhagen C.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-003
+  santrauka: 'Dusburgietis teigia, kad 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis dvigubas vardas atsirado dirbtinai; dabar galvojama, kad dvigubas vardas priklausė dviem minėtiems.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    359
-    Graužiu lobis 77, 113
-    Gregoriano univ. Romoje 74, 153
-    Gregorijus Camblakas 264, žr.
-    Camblakas
-    Gbegobas Nikeforas 257
-    Greifenhagenas 100
-    Greifswaldas 227
-    Grekov B. D. 323
-    Grenoblis 58
-    Grigalius IX, pop. 167, 168, 261
-    Grinius J. 147
-    Griškabūdis 57
-    Griškūnaitė E. 80
-    Grobinas 107
-    Grobin-Seeburg 109
-    Gródecki J. 150
-    Gródecki R. 193
-    Gronskis P. 61
-    Gross H. 97
-    Grunau S., kronikininkas 58, 145,
-    205, 243, 294
-    Grünhagen C. 257
-    Grünwaldas 343, 344, žr. Žalgirio
-    mūšis
-    Gruševskij A. S. 323
-    Guagnini 135
-    Gudavičius E. 79
-    Gudelis V. K. 97
-    Gudija 88, 100, 120, 128, 182, žr.
-    Baltarusija
-    Guillaume de Machaut 235, žr.
-    Machaut
-    Gulbinas K. 75
-    Gumbinės sritis 127
-    Guogų-Piliuonos piliakalnis 76
-    Habsburgai 32, 83, 239, 284, 289,
+    Senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl
+    vardo žr. Būga K. 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų
+    dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis
+    dvigubas vardas atsirado dirbtinai; dabar galvojama, kad dvigubas vardas priklausė
+    dviem minėtiems broliams — dvyniams, kurių vienas — vadas, kitas — žynys — Grunau
+    S., Preussische Chronik, 1, p. 69; Būga K., 1, p. 173; Топоров B. H., Vilnius..., p. 63—
+
+    tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
+    ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: S. Grunau papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Senojoje, ikikryžiuotiškojo laikotarpio prūsų teisėje, vad. Brutenio—Videvučio (dėl
+    vardo žr. Būga K. 1, p. 187—189) įstatyme, pabrėžiama, kad niekas nesikreiptų į mūsų
+    dievus be Krivio (Grunau ir vėlesni autoriai vadina jį Krivių Krivaičiu — manyta, kad šis
+    dvigubas vardas atsirado dirbtinai; dabar galvojama, kad dvigubas vardas priklausė
+    dviem minėtiems broliams — dvyniams, kurių vienas — vadas, kitas — žynys — Grunau
+    S., Preussische Chronik, 1, p. 69; Būga K., 1, p. 173; Топоров B. H., Vilnius..., p. 63—
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Habsburgai]]
+- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]
+- [[objektai/daiktai/Dievų trejybės stabai]]
+- [[objektai/daiktai/Šventasis ąžuolas]]

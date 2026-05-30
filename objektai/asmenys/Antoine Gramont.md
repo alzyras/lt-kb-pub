@@ -17,6 +17,7 @@ amziai:
 date_start: '1663'
 date_end: '1664'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -91,6 +92,7 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/hetmonas]]

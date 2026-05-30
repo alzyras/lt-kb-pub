@@ -17,6 +17,7 @@ amziai:
 date_start: '1392'
 date_end: '1393'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - kunigaikštis
@@ -72,5 +73,4 @@ Nenurodyta
 - [[objektai/asmenys/Dimitras Kaributas]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

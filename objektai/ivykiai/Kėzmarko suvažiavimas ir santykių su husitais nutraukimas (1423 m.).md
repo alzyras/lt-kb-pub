@@ -18,6 +18,7 @@ amziai:
 date_start: '1423'
 date_end: '1923'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - popiežius

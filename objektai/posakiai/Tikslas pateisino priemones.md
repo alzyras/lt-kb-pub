@@ -27,6 +27,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Tikslas pateisino priemones.
@@ -98,4 +99,4 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/tėviškė]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

@@ -16,6 +16,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - dokumentas
@@ -55,8 +56,5 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]

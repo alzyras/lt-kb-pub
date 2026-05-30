@@ -21,6 +21,7 @@ amziai:
 date_start: '1315'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - ordinas
@@ -106,3 +107,7 @@ Ragainė ir Christmemelis išliko nepaimti.
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Jonas, vadinamas Pope]]
+- [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]
+- [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]
+- [[objektai/grupes/Žemaičiai]]

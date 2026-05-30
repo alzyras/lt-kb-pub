@@ -33,6 +33,7 @@ amziai:
 date_start: '1316'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - dinastija
   - grupe
@@ -431,5 +432,4 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 - [[objektai/grupes/Gediminaičių šeima]]
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
 - [[objektai/asmenys/Palemonas]]
-- [[objektai/asmenys/Patrikas]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]

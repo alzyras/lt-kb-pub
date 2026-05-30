@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Šturmovųjų grupių fronto pralaužimo taktika
@@ -92,4 +93,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Lenkai]]

@@ -16,6 +16,7 @@ amziai:
 date_start: '1940'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - saltinis
   - valstybė

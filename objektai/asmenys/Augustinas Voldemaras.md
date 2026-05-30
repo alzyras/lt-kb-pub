@@ -23,6 +23,7 @@ amziai:
 date_start: '1919'
 date_end: '1928'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - karas
@@ -438,6 +439,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 ### Susiję objektai
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
 - [[objektai/grupes/Antantė]]
+- [[objektai/asmenys/Augustinas]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
@@ -447,6 +449,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius (poetas)]]
 - [[objektai/asmenys/Petras Klimas]]
 - [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/in corpore]]
 - [[objektai/zodynas/konstitucijos]]

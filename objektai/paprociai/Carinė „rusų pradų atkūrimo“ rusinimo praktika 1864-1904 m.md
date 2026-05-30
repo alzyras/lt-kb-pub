@@ -22,6 +22,7 @@ amziai:
 date_start: '1864'
 date_end: '1904'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - paprotys
@@ -145,9 +146,6 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]

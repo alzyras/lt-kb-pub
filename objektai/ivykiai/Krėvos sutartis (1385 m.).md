@@ -17,6 +17,7 @@ amziai:
 date_start: '1385'
 date_end: '1387'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
   - karalius

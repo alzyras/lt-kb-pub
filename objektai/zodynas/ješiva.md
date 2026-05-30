@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "ješiva"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "ješivose"
   - "religinėse mokslo įstaigose"
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # ješiva

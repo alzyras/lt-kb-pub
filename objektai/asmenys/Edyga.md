@@ -17,6 +17,7 @@ amziai:
 date_start: '1414'
 date_end: '1416'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karas
@@ -87,7 +88,7 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Totorių pajėgos]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]

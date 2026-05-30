@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Mindaugo karūnacija (1253 m.)"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Mindaugo karūnacija"
   - "Mindaugo vainikavimas"
@@ -29,6 +29,7 @@ amziai:
 date_start: '1251'
 date_end: '1253'
 patikimumas: aukstas
+atnaujinta: '2026-05-13'
 tags:
   - karūnacija
 ---

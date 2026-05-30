@@ -1,7 +1,7 @@
 ---
 tipas: saltinis
 pavadinimas: "Kurier Litewski"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "„Kurier Litewski“"
 aliases: []
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Kurier Litewski

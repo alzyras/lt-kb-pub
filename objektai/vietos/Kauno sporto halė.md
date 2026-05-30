@@ -16,6 +16,7 @@ amziai:
 date_start: '1939'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - tauta
   - vieta

@@ -16,6 +16,7 @@ amziai:
 date_start: '1794'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - ivykis
@@ -87,6 +88,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Mykolas Velhorskis]]
 - [[objektai/asmenys/Tadas Kosciuška]]

@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Daugiapakopės raketos"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Daugiapakopės raketos"
 aliases: []
@@ -23,6 +23,7 @@ amziai:
 date_start: '1650'
 date_end: ''
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - ginklas
 ---

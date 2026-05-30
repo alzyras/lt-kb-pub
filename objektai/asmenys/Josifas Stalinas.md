@@ -17,6 +17,7 @@ amziai:
 date_start: '1950'
 date_end: '1953'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - kraštas
@@ -259,4 +260,3 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]

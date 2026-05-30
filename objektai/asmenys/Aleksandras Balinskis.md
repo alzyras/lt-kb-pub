@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: Aleksandras Balinskis
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Balinskis
   - Aleksandras iš Balino Balinskis
@@ -23,6 +23,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - mokslininkas
 ---

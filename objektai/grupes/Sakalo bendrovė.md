@@ -16,6 +16,7 @@ amziai:
 date_start: '1930'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -54,4 +55,5 @@ Sležas ##### KAUNAS, 1930 — VYTAUTO DIDŽIOJO — METAI ###### „SAKALO“ B
 ### Susiję objektai
 - [[objektai/autoriai/A. Alekna]]
 - [[objektai/autoriai/S. Daukantas]]
+- [[objektai/zodynas/jubiliejus]]
 - [[objektai/zodynas/monografija]]

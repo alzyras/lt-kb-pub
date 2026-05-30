@@ -20,6 +20,7 @@ amziai:
 date_start: '1648'
 date_end: '1655'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - sukilimas

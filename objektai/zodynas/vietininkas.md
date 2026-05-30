@@ -1,19 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: vietininkas
-sukurta: 2026-04-25
+sukurta: '2026-04-25'
 variantai:
-  - vietininkas / viecinykas
-  - viecinyku
-  - vietininku
-  - viecinykas
-  - vietininkas
-  - vietininkus
+- vietininkas / viecinykas
+- viecinyku
+- vietininku
+- viecinykas
+- vietininkas
+- vietininkus
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1128 m.'
   - '1350 m.'
@@ -40,6 +40,7 @@ patikimumas: vidutinis
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # vietininkas
@@ -391,10 +392,13 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
 - [[objektai/ivykiai/Astravos sutartis]]
 - [[objektai/paprociai/Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]
+- [[objektai/asmenys/Celestinas III]]
 - [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
 - [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
 - [[objektai/asmenys/Eilartas fon Hobergas]]
 - [[objektai/asmenys/Ernestas fon Racburgas]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/posakiai/Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k]]
 - [[objektai/asmenys/Jomantas]]
 - [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis)]]
 - [[objektai/asmenys/Jonas Kalita]]
@@ -404,8 +408,10 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje]]
 - [[objektai/zodynas/Kamarninkas]]
 - [[objektai/asmenys/Klemensas Moskorzewskis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Narimantas Gediminaitis]]
 - [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/asmenys/Popiežius Celestinas III]]
 - [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
 - [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
 - [[objektai/asmenys/Skirgaila]]
@@ -415,8 +421,13 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
 - [[objektai/asmenys/Zigmantas Kaributas]]
+- [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]
 - [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/posakiai/dux Russiae]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/posakiai/kiekvienam geros valios žmogui]]
+- [[objektai/zodynas/landkomtūras]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/seniūnas storasta]]
 - [[objektai/zodynas/vaivada]]

@@ -16,6 +16,7 @@ amziai:
 date_start: '1907'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - dinastija
@@ -58,4 +59,3 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-- [[temos/dokumentas]]

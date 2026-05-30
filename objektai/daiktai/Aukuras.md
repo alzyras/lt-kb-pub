@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Aukuras
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - aukuras
 aliases: []
@@ -30,6 +30,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: aukstas
+atnaujinta: '2026-04-24'
 tags:
   - simbolis
 ---
@@ -121,13 +122,15 @@ Aukuras buvo apeiginė mirusiųjų kūnų deginimo vieta.
 ### Susiję objektai
 - [[objektai/asmenys/Birutė]]
 - [[objektai/daiktai/Dievų stabai]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/zodynas/Romuva ir krivis]]
 - [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]
 - [[objektai/daiktai/Torielius]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/autoriai/Józef Wolff]]

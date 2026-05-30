@@ -12,6 +12,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - sutartis
@@ -114,14 +115,14 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Lokietka]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/talkininkas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
-- [[objektai/asmenys/Vladislovas Lokietka]]

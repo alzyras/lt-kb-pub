@@ -27,6 +27,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Mirė tikrai mūsų tautos garbė.
@@ -99,5 +100,5 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]

@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - sąvoka
 ---
@@ -47,6 +48,7 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Valakai]]
+- [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
 - [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
 - [[objektai/asmenys/Zigmantas Sierakauskas]]

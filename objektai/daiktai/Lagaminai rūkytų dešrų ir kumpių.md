@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Lagaminai rūkytų dešrų ir kumpių"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Lagaminai rūkytų dešrų ir kumpių"
 aliases: []
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Lagaminai rūkytų dešrų ir kumpių

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - vyskupas
@@ -55,7 +56,6 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Bajorų konfederacija]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]

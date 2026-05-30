@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Sausio 13-osios gynybinės barikados"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Sausio 13-osios gynybinės barikados"
   - "betoninės sienos"
@@ -27,6 +27,7 @@ amziai:
 date_start: '1991'
 date_end: '2026'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Sausio 13-osios gynybinės barikados

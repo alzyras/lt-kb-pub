@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - tauta
@@ -50,6 +51,7 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 - [[objektai/grupes/Estai]]
 - [[objektai/autoriai/K. Būga]]
 - [[objektai/autoriai/K. Jaunius]]
+- [[objektai/autoriai/Ibrahim ibn Jakūb]]
 - [[objektai/grupes/Lietuvių Draugija Estijoje]]
 - [[objektai/grupes/Lietuvių Suomių Draugija]]
 - [[objektai/posakiai/Tie bevardžiai kapai - paminklas amžinas mūšio|Tie bevardžiai kapai - paminklas amžinas mūšio (mūšis)]]

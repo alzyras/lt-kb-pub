@@ -20,6 +20,7 @@ amziai:
 date_start: '1451'
 date_end: '1473'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - didikas
   - grupe
@@ -87,9 +88,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]

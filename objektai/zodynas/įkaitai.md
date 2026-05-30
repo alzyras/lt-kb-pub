@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: įkaitai
 sukurta: '2026-04-25'
 variantai:
-  - įkaitus
-  - įkaitai
+- įkaitus
+- įkaitai
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1383 m.'
@@ -28,6 +28,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: vidutinis
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - ordinas
@@ -99,12 +100,32 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Zöllneris]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Bartai]]
 - [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
+- [[objektai/asmenys/Henrikas Botelis]]
 - [[objektai/autoriai/J. Posilge]]
 - [[objektai/asmenys/Jonas von Posilge]]
+- [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Maudelis]]
+- [[objektai/asmenys/Mstivojus]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/ivykiai/Sembų susitaikymas ir pakartotinis pasidavimas krikščionių tikėjimui]]
+- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
+- [[objektai/asmenys/Tirskas]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/asmenys/Vimaras [Gneomiras]]]
+- [[objektai/asmenys/Vojakas [Vojachas]]]
+- [[objektai/zodynas/bažnyčios visuotinybė]]
+- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
 - [[objektai/ivykiai/Apuolės apgula (853 m.)]]

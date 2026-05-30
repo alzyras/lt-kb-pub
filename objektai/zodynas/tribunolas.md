@@ -18,6 +18,7 @@ amziai:
 date_start: '1581'
 date_end: '1823'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - kunigas

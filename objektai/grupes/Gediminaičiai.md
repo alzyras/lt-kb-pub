@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dinastija
   - grupe
@@ -48,6 +49,5 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 ### Susiję objektai
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/asmenys/Traidenis]]
 - [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
 - [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]

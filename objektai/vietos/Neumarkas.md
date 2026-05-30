@@ -17,6 +17,7 @@ amziai:
 date_start: '1316'
 date_end: '1382'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ordinas
   - valstybė

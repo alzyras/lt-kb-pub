@@ -1,0 +1,92 @@
+---
+tipas: ivykis
+pavadinimas: 'Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis)'
+sukurta: '2026-05-30'
+variantai:
+  - 'Štarkenbergo pilies užgrobimas ir įgulos išžudymas'
+aliases:
+  - 'Štarkenbergo pilies užgrobimas ir įgulos išžudymas'
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - ivykis
+  - pilis
+---
+# Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis)
+
+## Santrauka
+
+Dusburgietis teigia, kad apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.'
+  pagrindžia:
+    - c-001
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Štarkenbergo pilies užgrobimą ir daugybės brolių bei krikščionių žūtį
+
+       Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
+    Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
+    Kristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis
+    viešpaties prašęs. Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
+    Broliai priešindamiesi daugybę jų nukovė arba mirtinai sužeidė strėlėmis. Tada perpykę
+    prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
+    vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
+    brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: Štarkenbergo pilies užgrobimas ir įgulos išžudymas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Prūsai, išgirdę, jog pastatyta ši pilis, labai įtūžo ir ją apsiautė su stipria kariuomene.
+    Brolis Konradas iš Blindenburgo, išėjęs kautis su jais, gavo penkias žaizdas kaip kadaise
+    Kristus, penkiskart sužeistas,  ir krito kovoje, o šito  jis ne kartą buvo su ašaromis
+    viešpaties prašęs. Galop prūsai, iš visų pusių apsiautę pilį, pradėjo smarkiai ją pulti.
+    Broliai priešindamiesi daugybę jų nukovė arba mirtinai sužeidė strėlėmis. Tada perpykę
+    prūsai nusprendė, jog verčiau visi sudės galvas, nei nutrauks, nieko nelaimėję, apgulą;
+    vienoje ir kitoje pusėje žūstant kariams, jie prislinko arčiau pilies, ją užėmė, išžudė
+    brolius ir visus pilies gyventojus, o ją pačią pavertė pelenais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Konradas]]

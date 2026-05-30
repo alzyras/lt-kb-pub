@@ -16,6 +16,7 @@ amziai:
 date_start: '1940'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
   - tauta
@@ -62,5 +63,6 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]

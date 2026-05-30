@@ -17,6 +17,7 @@ amziai:
 date_start: '1608'
 date_end: '1609'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - vieta
 ---

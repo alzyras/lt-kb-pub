@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
 ---
@@ -86,7 +87,6 @@ Nenurodyta
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]

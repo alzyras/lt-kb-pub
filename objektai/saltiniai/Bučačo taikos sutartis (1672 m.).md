@@ -23,6 +23,7 @@ amziai:
 date_start: '1672'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Bučačo taikos sutartis (1672 m.)

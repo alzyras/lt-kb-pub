@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -58,9 +59,6 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]

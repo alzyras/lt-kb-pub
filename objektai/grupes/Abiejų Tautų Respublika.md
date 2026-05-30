@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Abiejų Tautų Respublika"
-sukurta: "2026-05-18"
+sukurta: '2026-05-18'
 variantai:
   - "ATR"
   - "Žečpospolita"
@@ -46,6 +46,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-18'
 tags: []
 ---
 # Abiejų Tautų Respublika
@@ -526,7 +527,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/grupes/Gardino seimas|Gardino seimas (seimas)]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
 - [[objektai/autoriai/Irena Katilienė]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas (architektas)]]
@@ -599,6 +599,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/zodynas/komputas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/poliublininiai laikai]]
+- [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
 - [[objektai/posakiai/saksų laikų]]
 - [[objektai/zodynas/savanoriškumo kamufliažas]]

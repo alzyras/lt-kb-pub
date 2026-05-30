@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "Prūsijos žemė"
-sukurta: "2026-05-30"
+sukurta: '2026-05-30'
 variantai:
   - "terra Prussiae"
   - "Prūsijos"
@@ -23,6 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-30'
 tags: []
 ---
 # Prūsijos žemė
@@ -50,6 +51,10 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
     - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: `Prūsijos žemė` kronikoje pateikiama kaip vienuolikos žemių visuma.
@@ -70,7 +75,31 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
+    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
+    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
+    sritį valdė prūsai, turėję ten savo pilių (III,7).
+      Kalbant apie pagrindinę prūsų teritoriją, prūsų ir lietuvių tarpusavio santykius, reikia
+      1 Пашуто В.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]
+- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]

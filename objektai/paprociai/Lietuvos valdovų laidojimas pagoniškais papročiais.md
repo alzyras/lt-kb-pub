@@ -18,6 +18,7 @@ amziai:
 date_start: '1377'
 date_end: '1385'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - paprotys
   - tauta
@@ -76,7 +77,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Lietuviai]]

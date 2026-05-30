@@ -8,6 +8,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 patikimumas: 'vidutinis'
 periodas: viduramziai
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
   - ginklas
@@ -66,7 +67,7 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]

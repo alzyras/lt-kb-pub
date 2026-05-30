@@ -22,6 +22,7 @@ amziai:
 date_start: '1514'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - valdovas
@@ -233,7 +234,6 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 - [[objektai/asmenys/Inocentas VI]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/asmenys/Mykolas Tromba]]
-- [[objektai/autoriai/S. Grunau]]
 - [[objektai/autoriai/Simono Grunau]]
 - [[objektai/asmenys/Vilhelmas Habsburgas]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

@@ -9,6 +9,7 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 patikimumas: 'aukštas'
 periodas: viduramziai
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
   - simbolis
@@ -131,10 +132,15 @@ Nenurodyta
 - [[objektai/asmenys/Gabrielius Bekešas]]
 - [[objektai/daiktai/Gedimino antspaudas]]
 - [[objektai/posakiai/Kinstutte herczoge czu Tracken und Wytould unsir son]]
+- [[objektai/asmenys/Mstivojus]]
 - [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
+- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
 - [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
 - [[objektai/grupes/Vilniaus miesto cechai]]
+- [[objektai/asmenys/Vimaras [Gneomiras]]]
+- [[objektai/asmenys/Vojakas [Vojachas]]]
 - [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
 - [[objektai/posakiai/Sigillum Vitowdi ducis in Tracken]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]

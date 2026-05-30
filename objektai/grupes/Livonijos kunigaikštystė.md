@@ -17,6 +17,7 @@ amziai:
 date_start: '1561'
 date_end: '1572'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - unija
@@ -84,6 +85,7 @@ tags:
 - [[objektai/grupes/Livonijos konfederacija]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Kuršo kunigaikštystė]]

@@ -28,6 +28,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags: []
 ---
 # Aisčių ugnies kultas ir šventoji namų ugnelė
@@ -124,3 +125,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/S. Grunau]]
+- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]

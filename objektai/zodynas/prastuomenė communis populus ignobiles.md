@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "prastuomenė / communis populus / ignobiles"
-sukurta: "2026-05-30"
+sukurta: '2026-05-30'
 variantai:
   - "prastuomenės"
   - "communis populus"
@@ -28,6 +28,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-30'
 tags: []
 ---
 # prastuomenė / communis populus / ignobiles
@@ -55,6 +56,14 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Dusburgietis teigia, kad 208 Paprastus žmones, prastuomenę D.'
+  pagrindžia:
+    - c-003
+- t-005
+  teiginys: 'Dusburgietis teigia, kad su nekilmingaisiais drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai prisikelsią drauge su jais ir jiems tarnausią kaip anksčiau. Dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: Nekilmingieji vaizduojami kaip laidojimo ir tikėjimo praktikos dalyviai.
@@ -71,7 +80,49 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-003
+  santrauka: 'Dusburgietis teigia, kad 208 Paprastus žmones, prastuomenę D.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    208 Paprastus žmones, prastuomenę D. vadina communis populus  (III, 5, 188,
+    249, 259, 291; Jer,— dî gemeine schar) arba ignobiles — nekilmingieji (III, 5, 220).
+    Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
+    tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
+    130), taip pat laukininkus — valstiečius (rustict — III, 262).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-004
+  santrauka: 'Dusburgietis teigia, kad su nekilmingaisiais drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai prisikelsią drauge su jais ir jiems tarnausią kaip anksčiau. Dėl šitų mirusiųjų nutikdavo tokių velniškų patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Su nekilmingaisiais
+    drauge degino jų kasdienio darbo reikmenis. Jie tikėjo, kad sudeginti daiktai prisikelsią
+    drauge su jais ir jiems tarnausią kaip anksčiau. Dėl šitų mirusiųjų nutikdavo tokių velniškų
+    patyčių, kad štai, mirusiojo tėvams nuėjus pas minėtąjį popiežių — krivį ir paklausus,
+    ar tokią ir tokią dieną bei tokią ir tokią naktį jis nesąs matęs ko einant į jų namus, tas
+    nedvejodamas pasakydavo, kokie buvo mirusiojo drabužiai, ginklai210, žirgai bei šeimyna,
+    be to, siekdamas didesnio įtikinamumo, pridurdavo, jog, girdi, jo namų durų staktoje
+    numirėlis esąs palikęs vienokią ar kitokią žymę ietimi ar kitu kokiu įrankiu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/vergai]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
+- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
+- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
+- [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]

@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Romainių šventvietės sunaikinimas (1294 m.)"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Romuvos prie Kauno sunaikinimas"
   - "Romainių pilies užėmimas"
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Romainių šventvietės sunaikinimas (1294 m.)
@@ -113,4 +114,5 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 ### Susiję objektai
 - [[objektai/zodynas/Alkos ir romuvos]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

@@ -20,6 +20,7 @@ amziai:
 date_start: '1401'
 date_end: '1429'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - posakis
 ---
@@ -87,5 +88,5 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Lenkai]]

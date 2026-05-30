@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
   - kunigaikštis
@@ -80,6 +81,8 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Liuteris]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Abraomas]]
 - [[objektai/asmenys/Abraomas Kulvietis]]
 - [[objektai/asmenys/Martynas Liuteris]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]

@@ -18,6 +18,7 @@ amziai:
 date_start: '1235'
 date_end: '1959'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - saltinis
 ---

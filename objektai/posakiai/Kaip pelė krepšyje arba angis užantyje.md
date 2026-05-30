@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Kaip pelė krepšyje arba angis užantyje"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Tie velnio sūnūs"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Kaip pelė krepšyje arba angis užantyje

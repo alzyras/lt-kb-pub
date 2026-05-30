@@ -18,6 +18,7 @@ amziai:
 date_start: '1388'
 date_end: '1404'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - ordinas
@@ -91,6 +92,7 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/Vakarų Bažnyčios schizma]]
 - [[objektai/zodynas/neofitas]]
 - [[objektai/grupes/Vokiečiai]]

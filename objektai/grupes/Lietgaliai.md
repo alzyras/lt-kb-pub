@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - kunigas
@@ -97,6 +98,5 @@ tags:
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žiemgaliai]]
-- [[objektai/grupes/Jotvingiai]]
 - [[objektai/zodynas/kuopiniai kaimai]]
 - [[objektai/posakiai/moterų kraštas|moterų kraštas (kraštas)]]

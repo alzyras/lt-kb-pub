@@ -16,6 +16,7 @@ amziai:
 date_start: '1387'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kraštas
   - posakis
@@ -61,8 +62,7 @@ Po šių Vytauto pasisekimų Jogaila smarkiai susirūpina Lietuvos reikalais: no
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vietininkas]]

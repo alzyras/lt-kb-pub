@@ -18,6 +18,7 @@ amziai:
 date_start: '1395'
 date_end: '1409'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karas
@@ -59,4 +60,5 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/asmenys/Saladinas]]

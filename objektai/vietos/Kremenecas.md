@@ -17,6 +17,7 @@ amziai:
 date_start: '1407'
 date_end: '1418'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ordinas
   - vieta

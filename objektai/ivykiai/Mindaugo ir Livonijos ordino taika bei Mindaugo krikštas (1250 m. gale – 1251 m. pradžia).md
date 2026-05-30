@@ -25,6 +25,7 @@ date_start: '1250'
 date_end: '2026'
 patikimumas: 'aukštas'
 laikotarpis: '1250 m. galas – 1251 m. pradžia'
+atnaujinta: '2026-04-28'
 tags:
   - ivykis
   - krikštas
@@ -121,6 +122,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Danielius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Morta]]
@@ -130,4 +132,3 @@ Nenurodyta
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Andrius Algirdaitis]]

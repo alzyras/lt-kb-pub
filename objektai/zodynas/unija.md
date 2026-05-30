@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: unija
 sukurta: '2026-04-25'
 variantai:
-  - unija
-  - nauja unija
+- unija
+- nauja unija
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos: []
 periodas: ''
 periodo_grupes: []
@@ -16,6 +16,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: vidutinis
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # unija
@@ -104,6 +105,7 @@ Valstybinė santvarka po Liublino unijos.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
 - [[objektai/ivykiai/1428 m. Lenčicos suvažiavimas]]
 - [[objektai/autoriai/A. E. Presniakov]]
@@ -134,10 +136,8 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/autoriai/K. Chodynickis]]
 - [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/autoriai/Kochanovskis]]
 - [[objektai/grupes/Kuršo kunigaikštystė]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkijos bajorija]]
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/grupes/Lenkų bajorija]]
@@ -162,11 +162,9 @@ Valstybinė santvarka po Liublino unijos.
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
 - [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
-- [[objektai/asmenys/Vytautas]]
 - [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]
 - [[objektai/autoriai/W. Kamienieckis]]
 - [[objektai/autoriai/Wł. Semkowiczius]]

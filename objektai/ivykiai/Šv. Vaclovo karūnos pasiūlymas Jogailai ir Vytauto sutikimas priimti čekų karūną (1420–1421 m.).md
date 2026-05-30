@@ -17,6 +17,7 @@ amziai:
 date_start: '1420'
 date_end: '1421'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karalius
@@ -97,8 +98,7 @@ Nenurodyta
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vaclovas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Kaributas]]

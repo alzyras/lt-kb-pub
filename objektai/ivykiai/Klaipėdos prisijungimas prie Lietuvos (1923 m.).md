@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Klaipėdos prisijungimas prie Lietuvos (1923 m.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["Klaipėdos prisijungimas", "Klaipėdos sukilimas", "žygis į Klaipėdą", "akcija Klaipėdoje"]
 aliases: ["Klaipėdos prisijungimas", "Klaipėdos sukilimas", "žygis į Klaipėdą", "akcija Klaipėdoje"]
 saltiniai:
@@ -26,6 +26,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Klaipėdos prisijungimas prie Lietuvos (1923 m.)
@@ -214,6 +215,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/asmenys/Pilsudskis]]

@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - mūšis
@@ -68,10 +69,8 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/paprociai/Apgaulingo atsitraukimo manevras]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
 - [[objektai/grupes/Janičarai]]
-- [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]

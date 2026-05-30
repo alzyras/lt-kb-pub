@@ -17,6 +17,7 @@ amziai:
 date_start: '1387'
 date_end: '1390'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - pinigai
   - sąvoka
@@ -86,9 +87,9 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/rublis]]
 - [[objektai/grupes/Čekai]]

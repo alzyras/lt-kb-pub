@@ -18,6 +18,7 @@ amziai:
   - 'XIV'
 date_start: '1370'
 date_end: '1370'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - mūšis
@@ -73,8 +74,7 @@ Lietuviai patyrė didelį pralaimėjimą.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]

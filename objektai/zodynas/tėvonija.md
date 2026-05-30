@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - didikas
   - kunigaikštis
@@ -67,12 +68,8 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Vyšnioveckiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vasalas]]
@@ -80,4 +77,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - [[objektai/asmenys/Elena]]
 - [[objektai/asmenys/Gabrielius Bekešas]]
 - [[objektai/autoriai/J. Jaroszewicz]]
+- [[objektai/posakiai/Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti]]
+- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]

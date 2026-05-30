@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - kunigaikštis
@@ -97,7 +98,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Andrius Polockietis]]
 - [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]]

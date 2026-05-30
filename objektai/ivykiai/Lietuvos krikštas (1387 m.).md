@@ -26,6 +26,7 @@ amziai:
 date_start: '1387'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - diplomatas
   - ivykis
@@ -199,11 +200,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]
 - [[objektai/ivykiai/Nepriklausomybės pradžia]]

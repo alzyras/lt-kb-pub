@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Kto w Wilnie nie bywał, tot czudes nie widał"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Kas Vilniuje nebuvo, tas stebuklų neregėjo"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Kto w Wilnie nie bywał, tot czudes nie widał

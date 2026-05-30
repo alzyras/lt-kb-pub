@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus miesto auksakalių cechas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Vilniaus auksakalių cechas"
   - "auksakalių cechas"
@@ -24,6 +24,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus miesto auksakalių cechas
@@ -123,5 +124,6 @@ Vilniaus miesto amatininkų cechas.
 - [[objektai/zodynas/Cechas]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/asmenys/Motiejus]]
+- [[objektai/asmenys/Pilypas]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]

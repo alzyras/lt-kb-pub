@@ -18,6 +18,7 @@ amziai:
 date_start: '1574'
 date_end: '1650'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - karalius
@@ -190,6 +191,5 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Švedai]]

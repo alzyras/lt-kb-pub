@@ -18,6 +18,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
 ---

@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Lietuvos trispalvė"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "Lietuvos trispalvė"
 aliases: []
@@ -28,6 +28,7 @@ amziai:
 date_start: '1919'
 date_end: '2026'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-13'
 tags:
   - simbolis
 ---

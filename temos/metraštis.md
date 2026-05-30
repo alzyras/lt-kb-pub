@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 7.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -24,7 +24,9 @@ Objektų skaičius: 7.
 
 ### Autoriai
 - [[objektai/autoriai/A. Dambrauskas-Jakštas]]
+- [[objektai/autoriai/Jucevičius L. A]]
 - [[objektai/autoriai/Motiejus Stryjkovskis]]
+- [[objektai/autoriai/Tarvydas S]]
 
 ### Daiktai
 - [[objektai/daiktai/Šventieji medžiai ir akmenys]]

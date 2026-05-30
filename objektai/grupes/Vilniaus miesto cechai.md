@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus miesto cechai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Vilniaus miesto cechų"
   - "Contuberniis Civitatis nostrae Vilnen."
@@ -23,6 +23,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus miesto cechai

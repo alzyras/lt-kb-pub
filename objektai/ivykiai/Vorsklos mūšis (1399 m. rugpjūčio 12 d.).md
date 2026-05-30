@@ -25,6 +25,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - kraštas
@@ -218,19 +219,18 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/autoriai/Detmaro Liubeko]]
 - [[objektai/asmenys/Edigėjus]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
-- [[objektai/autoriai/J. Dlugošas]]

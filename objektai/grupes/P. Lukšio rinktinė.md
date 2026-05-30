@@ -17,6 +17,7 @@ amziai:
 date_start: '1949'
 date_end: '1952'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -88,7 +89,7 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Kęstučio apygarda]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/autoriai/Maironis]]

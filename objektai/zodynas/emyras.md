@@ -15,6 +15,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - kunigaikštis
   - mūšis
@@ -97,7 +98,7 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 - [[objektai/asmenys/Edyga]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Totorių pajėgos]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]
 - [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]

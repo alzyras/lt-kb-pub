@@ -22,6 +22,7 @@ amziai:
 date_start: '1112'
 date_end: '1205'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - kraštas

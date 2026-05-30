@@ -23,6 +23,7 @@ amziai:
 date_start: '1868'
 date_end: '1910'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - paprotys
   - tauta

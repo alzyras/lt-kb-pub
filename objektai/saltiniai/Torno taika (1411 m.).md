@@ -30,6 +30,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Torno taika (1411 m.)

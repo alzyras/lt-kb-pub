@@ -32,6 +32,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags:
   - grupe
 ---
@@ -175,7 +176,7 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Pamario kunigaikščių sąjunga]]

@@ -28,6 +28,7 @@ amziai:
 date_start: '1253'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes

@@ -16,6 +16,7 @@ amziai:
 date_start: '1396'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - mūšis
@@ -62,6 +63,7 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Turkai]]
 - [[objektai/ivykiai/Vorsklos katastrofa]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Čekai]]

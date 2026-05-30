@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - didikas
   - posakis
@@ -51,11 +52,7 @@ ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyt
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]

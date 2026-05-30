@@ -19,6 +19,7 @@ amziai:
 date_start: '1348'
 date_end: '1805'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ordinas
   - upė

@@ -20,6 +20,7 @@ amziai:
 date_start: '1939'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - posakis
 ---
@@ -64,5 +65,6 @@ Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

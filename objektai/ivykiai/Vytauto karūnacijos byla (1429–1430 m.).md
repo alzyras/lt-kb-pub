@@ -10,22 +10,8 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1429 m.'
-  - '1430 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1429'
-date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - karūnacija
 ---
@@ -50,31 +36,62 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-006
-  teiginys: 'Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą.'
+- t-001
+  teiginys: 'Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Lenkai pasienyje sulaikė Cigalos delegaciją ir diplomus, o vainikus vežę pasiuntiniai dėl trukdymų grįžo į Vokietiją.'
+- t-002
+  teiginys: '1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
   pagrindžia:
     - c-002
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos karalium, ką sukliudė Jogailos įpėdiniai, kurių jis net dvejeto susilaukė.'
+- t-004
+  teiginys: 'Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą.'
   pagrindžia:
     - c-004
-- t-009
-  teiginys: 'Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai, nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo terminas 1430.IX.8 d. Vilniuje buvo numatytas — prie atitinkamų kelių valstybės pasieniuose išstatė kariuomenės būrius, saugančius.'
+- t-005
+  teiginys: 'Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą.'
   pagrindžia:
     - c-005
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą.'
+  santrauka: 'Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lenkų ponai įrodinėjo, kad Vytauto karūnavi-
+    mas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lie-
+    tuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą,
+    kurį išsirinktų po Jogailos mirties lenkai. Kai Jogaila savo suti-
+    kimo vis dėlto neatšaukė, lenkų ponai išvažiavo iš Lucko. Iš-
+    važiavo su jais ir Jogaila. Tuo būdu Vytauto karūnacijos klau-
+    simas Lucke liko neišspręstas; jis turėjo būti išspręstas vėliau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: '1430 m. Lenkų ponai prispyrė grįžusį į Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karūnacijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
+    Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
+    nacijos. Atšaukimas buvo laišku praneštas imperatoriui Zigman-
+    tui, kurs laiško nuorašą tuojau nusiuntė Vytautui. Jame Jogaila
+    rašo, kad sutikimą davęs, nepasitaręs su savo ponų taryba; pasi-
+    taręs dabar matąs, kad turįs atšaukti sutikimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-004
+  santrauka: 'Karūnacijos byla čia tiesiogiai siejama su imperatoriaus vainikais ir popiežiaus įsikišimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautui tai davė progos Jogailą kaltinti, jog jis
@@ -84,15 +101,15 @@ Nenurodyta
     niką išsikovoti. Kai imperatorius (Romos karalius) pranešė, jog
     esąs parengęs du vainikus (Vytautui ir jo žmonai), lenkams pavyko
     įtikinti popiežių Martyną V, kad jis sulaikytų Vytauto vainikavimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-002
-  santrauka: 'Lenkai pasienyje sulaikė Cigalos delegaciją ir diplomus, o vainikus vežę pasiuntiniai dėl trukdymų grįžo į Vokietiją.'
+    - t-004
+- c-005
+  santrauka: '1430 m. rugsėjo 8 d. Vilniuje planuotą vainikavimą sužlugdė pasienyje sulaikyta delegacija.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai,
@@ -102,15 +119,15 @@ Nenurodyta
     pravažiavimą. Vienas tų būrių, Jono Czarnkowskio vadovaujamas,
     sugavo Cigalos delegaciją, atėmė diplomus ir vainikavimo reikšmę
     aiškinančius laiškus, delegatus apmušė ir paleido ordino žemėse.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
-- c-003
-  santrauka: 'Lenkai pasienyje sulaikė Cigalos delegaciją ir diplomus, o vainikus vežę pasiuntiniai dėl trukdymų grįžo į Vokietiją.'
+    - t-005
+- c-006
+  santrauka: 'Vilniuje susirinkę svečiai vainikavimo nesulaukė, nes pasiuntiniai su vainikais apsisuko atgal į Vokietiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo metu susirinkę Vilniuje daug kunigaikščių ir kitų svečių
@@ -118,51 +135,13 @@ Nenurodyta
     stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
     Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
     Vokietijon. Vainikavimas susitrukdė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-004
-  santrauka: 'Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos karalium, ką sukliudė Jogailos įpėdiniai, kurių jis net dvejeto susilaukė.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti
-    gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos
-    karalium, ką sukliudė Jogailos įpėdiniai, kurių jis net dvejeto
-    susilaukė. Ir jei dar tikėti tam, kad Vytautas pats tokius gan­
-    dus buvo paleidęs ne tik apie Jogailos ketvirtąją, bet ir apie
-    antrąją žmoną, jog ji turinti santykių su dvariškiais, aišku, kad
-    čia jis ėjo ne tik moralisto pareigas, bet dar turėjo ir kitokių
-    paslėptų tikslų. O kai pamatė, kad tos jo viltys yra žuvusios, tada
-    jis ir ėmė šalintis ir atšalti nuo Lenkijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-008
-- c-005
-  santrauka: 'Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai, nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo terminas 1430.IX.8 d. Vilniuje buvo numatytas — prie atitinkamų kelių valstybės pasieniuose išstatė kariuomenės būrius, saugančius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai,
-    nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo
-    terminas 1430.IX.8 d. Vilniuje buvo numatytas — prie atitinkamų
-    kelių valstybės pasieniuose išstatė kariuomenės būrius, saugančius
-    pravažiavimą. Vienas tų būrių, Jono Czarnkowskio vadovaujamas,
-    sugavo Cigalos delegaciją, atėmė diplomus ir vainikavimo reikšmę
-    aiškinančius laiškus, delegatus apmušė ir paleido ordino žemėse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -170,6 +149,9 @@ Nenurodyta
 - [[temos/konfliktas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/daiktai/Karūna]]

@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - diplomatas
   - karas
@@ -58,12 +59,14 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/daiktai/Bomba]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris)]]
 - [[objektai/asmenys/Stasys Lozoraitis]]
 - [[objektai/zodynas/Status quo]]
+- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
 - [[objektai/zodynas/primus inter pares]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Šventoji Romos imperija]]
 - [[objektai/autoriai/Žalys V]]
 - [[objektai/asmenys/Stasys Antanas Bačkis]]

@@ -16,6 +16,7 @@ amziai:
 date_start: '1325'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - ordinas
@@ -54,11 +55,9 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
 - [[objektai/asmenys/Kazimieras]]
-- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
-- [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/zodynas/Šlėktų laisvė]]
-- [[objektai/asmenys/Kazimieras Didysis]]

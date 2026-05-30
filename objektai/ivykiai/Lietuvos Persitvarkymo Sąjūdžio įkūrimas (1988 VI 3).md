@@ -21,6 +21,7 @@ amziai:
 date_start: '1909'
 date_end: '1991'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
   - karalius

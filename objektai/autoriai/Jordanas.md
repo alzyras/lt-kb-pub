@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
 ---
@@ -23,42 +24,38 @@ tags:
 275, 276 Jordanas, rašytojas 104 Josvainiai 332 Jotvinga, Jotvingija 117, 125, 137, 204, 210, 225 Jučas M.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jordanas buvo rašytojas.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad jordanas, gotų istorikas Varmės vysk.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
+    - c-002
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jordanas buvo rašytojas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-002
+  santrauka: 'Dusburgietis teigia, kad jordanas, gotų istorikas Varmės vysk.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    349
-    Jonikas P. 128
-    Jonynas Ig. 47-49, 53, 56, 58-62,
-    67, 112, 128, 198, 208, 231, 279,
-    294, 309, 371
-    Jono iš Czamkovo kronika 267, 268
-    Jonušas, Mozūrijos kng. 275, 276
-    Jordanas, rašytojas 104
-    Josvainiai 332
-    Jotvinga, Jotvingija 117, 125, 137,
-    204, 210, 225
-    Jučas M. 43, 46, 48, 77, 92, 208,
-    293, 344, 379
-    Julijona Tveriškė, Algirdo žmona
-    259, 263, 267, 271, 276, 277, 280,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    Krikštytojas, šv.
+       Ostrorogas
+       Popė
+       vad. Anlantu, Austrijos k.
+        Vienuolis, br.
+    Jordanas, gotų istorikas
+       Varmės vysk. valdytojas
+    Jozuė
+    Jucevičius L. A.
+    Jučas M.
+    Judas
+    Judas Makabėjus
+    Juodutis (D.— Jodute)
+    Jurginis J. (Юргинис Ю.)
+    Jurgis šv.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Julijona]]
+- [[objektai/grupes/Gotai]]

@@ -22,6 +22,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Detmaro Liubeko kronikos tęsinys

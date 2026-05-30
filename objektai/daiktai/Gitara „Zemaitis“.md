@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Gitara „Zemaitis“"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Gitara „Zemaitis“"
   - "Zemaitis"
@@ -26,6 +26,7 @@ amziai:
 date_start: '1902'
 date_end: '1935'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags:
   - įrankis
 ---

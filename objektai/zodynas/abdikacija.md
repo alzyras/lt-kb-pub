@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "abdikacija"
-sukurta: "2026-05-13"
+sukurta: '2026-05-13'
 variantai:
   - "abdikacijos"
   - "sosto atsisakymo"
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-13'
 tags: []
 ---
 # abdikacija
@@ -75,10 +76,12 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/istorinė-sąvoka - teisinis-terminas]]
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

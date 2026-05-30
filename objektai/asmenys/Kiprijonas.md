@@ -18,6 +18,7 @@ amziai:
 date_start: '1390'
 date_end: '1431'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - vyskupas
@@ -84,7 +85,11 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/bulė]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]
 - [[objektai/grupes/Totoriai]]

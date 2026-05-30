@@ -18,6 +18,7 @@ amziai:
 date_start: '1991'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - seimas
@@ -107,3 +108,4 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 - [[objektai/zodynas/vora]]
 - [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas|Aukščiausioji Taryba-Atkuriamasis Seimas (seimas)]]
+- [[objektai/asmenys/Vytautas Landsbergis]]

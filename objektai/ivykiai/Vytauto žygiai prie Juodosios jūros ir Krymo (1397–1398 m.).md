@@ -29,6 +29,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-04-28'
 tags:
   - karas
 ---
@@ -137,8 +138,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Karaimai]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/grupes/Totoriai]]

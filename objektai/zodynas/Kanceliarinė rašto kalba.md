@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
 ---
@@ -55,7 +56,7 @@ Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Arkivyskupija]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Stačiatikiai]]

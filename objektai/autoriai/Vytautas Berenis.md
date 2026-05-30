@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Vytautas Berenis"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Berenis V."
   - "Vytautas Berenis"
@@ -25,6 +25,7 @@ vaidmenys:
   - autorius
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
 ---

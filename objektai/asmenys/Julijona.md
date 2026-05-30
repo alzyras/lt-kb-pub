@@ -16,6 +16,7 @@ amziai:
 date_start: '1418'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karas
@@ -135,7 +136,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
-- [[objektai/autoriai/Jordanas]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
 - [[objektai/posakiai/nei žemės, nei žmonių]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]

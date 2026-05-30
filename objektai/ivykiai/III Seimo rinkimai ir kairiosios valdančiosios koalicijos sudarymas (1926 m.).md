@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["1926 m. gegužės III Seimo rinkimai", "kairės valdžios suformavimas"]
 aliases: ["1926 m. gegužės III Seimo rinkimai", "kairės valdžios suformavimas"]
 saltiniai:
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)

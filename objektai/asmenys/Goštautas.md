@@ -16,6 +16,7 @@ amziai:
 date_start: '1432'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - didikas
@@ -178,9 +179,6 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]

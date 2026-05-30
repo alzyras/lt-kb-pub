@@ -17,6 +17,7 @@ amziai:
 date_start: '1998'
 date_end: '2000'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - elekcija
   - ivykis
@@ -66,8 +67,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]

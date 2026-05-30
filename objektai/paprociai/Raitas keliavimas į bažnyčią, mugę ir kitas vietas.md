@@ -17,6 +17,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Raitas keliavimas į bažnyčią, mugę ir kitas vietas
@@ -91,5 +92,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Gaspadorius|gaspadorius]]
+- [[objektai/daiktai/Žirgai]]
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/zodynas/Miera|miera]]

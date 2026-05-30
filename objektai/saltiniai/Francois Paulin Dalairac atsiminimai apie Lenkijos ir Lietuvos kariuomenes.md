@@ -25,6 +25,7 @@ amziai:
 date_start: '1649'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes

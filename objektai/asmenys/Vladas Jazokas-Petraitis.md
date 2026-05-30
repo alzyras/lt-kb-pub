@@ -16,6 +16,7 @@ amziai:
 date_start: '1945'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - dokumentas
@@ -56,5 +57,4 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/dokumentas]]
 - [[temos/drabužis]]

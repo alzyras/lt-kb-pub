@@ -17,6 +17,7 @@ amziai:
 date_start: '1380'
 date_end: '1392'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -55,4 +56,4 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Danuta]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]

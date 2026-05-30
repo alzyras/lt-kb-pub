@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -56,4 +57,5 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/grupes/Janičarai]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/raitarai]]

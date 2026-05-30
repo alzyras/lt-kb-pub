@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - mokslininkas
@@ -47,5 +48,4 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Audronius Ažubalis]]
 - [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]

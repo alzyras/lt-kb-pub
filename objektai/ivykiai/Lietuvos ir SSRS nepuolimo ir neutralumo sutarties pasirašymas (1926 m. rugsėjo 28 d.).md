@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["1926 m. Lietuvos ir SSRS sutartis", "nepuolimo ir neutralumo sutartis su SSRS"]
 aliases: ["1926 m. Lietuvos ir SSRS sutartis", "nepuolimo ir neutralumo sutartis su SSRS"]
 saltiniai:
@@ -23,6 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.)

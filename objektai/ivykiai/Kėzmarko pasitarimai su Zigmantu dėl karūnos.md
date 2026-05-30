@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karalius
@@ -72,5 +73,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Mantas]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

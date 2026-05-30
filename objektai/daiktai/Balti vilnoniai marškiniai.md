@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Balti vilnoniai marškiniai
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - marškiniai
 aliases: []
@@ -31,6 +31,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: aukstas
+atnaujinta: '2026-04-24'
 tags: []
 ---
 # Balti vilnoniai marškiniai
@@ -106,11 +107,12 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 - [[temos/drabužis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
 - [[objektai/daiktai/Kilimas]]
 - [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
 - [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]
 - [[objektai/daiktai/Vyženos]]
 - [[objektai/zodynas/Kilimas|kilimas]]
+- [[objektai/asmenys/Hermanas iš Lichtenburgo]]

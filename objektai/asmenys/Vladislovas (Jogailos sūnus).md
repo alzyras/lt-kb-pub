@@ -17,6 +17,7 @@ amziai:
 date_start: '1425'
 date_end: '1430'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - didikas
@@ -81,9 +82,6 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas|1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)]]
 - [[objektai/grupes/Bajorai]]

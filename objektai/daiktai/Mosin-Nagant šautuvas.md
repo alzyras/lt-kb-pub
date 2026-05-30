@@ -20,6 +20,7 @@ amziai:
 date_start: '1262'
 date_end: '1878'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
   - ginklas
@@ -81,4 +82,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/2-asis pėstininkų pulkas]]
+- [[objektai/daiktai/Žirgai]]
 - [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]

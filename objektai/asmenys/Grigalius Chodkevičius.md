@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -64,6 +65,8 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]

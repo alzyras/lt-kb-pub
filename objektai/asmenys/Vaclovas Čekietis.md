@@ -17,6 +17,7 @@ amziai:
 date_start: '1343'
 date_end: '1392'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karalius
@@ -83,10 +84,9 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Henrikas von Plauenas]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Slavai]]
-- [[objektai/asmenys/Vaclovas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Vaclovas]]

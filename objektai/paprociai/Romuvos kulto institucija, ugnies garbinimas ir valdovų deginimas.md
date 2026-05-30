@@ -13,6 +13,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - paprotys
   - valdovas
@@ -98,3 +99,5 @@ Nenurodyta
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/zodynas/amfiktionija]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Krivis]]
+- [[objektai/zodynas/Romuva ir krivis]]

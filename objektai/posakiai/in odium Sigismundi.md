@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ordinas
   - posakis
@@ -58,6 +59,6 @@ Vytautas tai darė ne iš simpatijos pačiam husitizmui, bet iš pykčio ant cie
 - [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/grupes/Čekai]]

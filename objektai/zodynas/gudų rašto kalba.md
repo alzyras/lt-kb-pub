@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - sąvoka
   - unija
@@ -69,4 +70,5 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lotynai]]
 - [[objektai/zodynas/unija]]

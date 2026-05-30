@@ -35,6 +35,7 @@ dalyviai:
   - 'Fiodoras Paleckis'
 susije_irasai: []
 patikimumas: 'aukstas'
+atnaujinta: '2026-05-02'
 tags:
   - mūšis
 ---

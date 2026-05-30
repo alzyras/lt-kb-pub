@@ -20,6 +20,7 @@ amziai:
 date_start: '1387'
 date_end: '1447'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - didikas
@@ -64,8 +65,8 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/didikas]]
 - [[temos/dinastija]]
 
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/marksistinė periodizacija]]

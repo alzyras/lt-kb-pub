@@ -24,6 +24,7 @@ amziai:
 date_start: '1529'
 date_end: '1806'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - didikas

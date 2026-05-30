@@ -26,6 +26,7 @@ amziai:
 date_start: '1412'
 date_end: '1423'
 patikimumas: 'aukstas'
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)
@@ -142,4 +143,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/imperatorius Zigmantas]]
 - [[objektai/grupes/Husitai]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Mantas]]

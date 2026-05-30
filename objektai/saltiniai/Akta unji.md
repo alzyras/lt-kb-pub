@@ -14,6 +14,7 @@ datos:
   - '1385-1791'
   - '1932 m.'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - dokumentas
   - saltinis

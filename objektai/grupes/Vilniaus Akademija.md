@@ -16,6 +16,7 @@ amziai:
 date_start: '1766'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -86,5 +87,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
+- [[objektai/grupes/Lotynai]]
 - [[objektai/grupes/Lietuvos jėzuitų kolegijos]]
 - [[objektai/grupes/Vyriausioji Lietuvos Mokykla]]

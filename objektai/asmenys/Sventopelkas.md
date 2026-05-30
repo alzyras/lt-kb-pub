@@ -1,28 +1,31 @@
 ---
 tipas: 'asmuo'
-pavadinimas: 'Sventopelkas'
+pavadinimas: 'Sventopelkas (Lenkijos karalius)'
 sukurta: '2026-05-29'
 variantai:
   - 'Pamario kunigaikštis Sventopelkas'
   - 'Pomeranijos kunigaikštis'
-aliases: []
+  - 'Sventopelkas'
+aliases:
+  - 'Sventopelkas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 laikotarpis: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos: []
 periodas: ''
 periodo_grupes: []
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-29'
 tags:
   - asmuo
 ---
-# Sventopelkas
+# Sventopelkas (Lenkijos karalius)
 
 ## Santrauka
 
@@ -109,6 +112,66 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     - c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-014
+  teiginys: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Dusburgietis teigia, kad tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius. Vienur švytruojąs Kristaus kariaunos.'
+  pagrindžia:
+    - c-017
+- t-017
+  teiginys: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą].'
+  pagrindžia:
+    - c-020
+- t-020
+  teiginys: 'Dusburgietis teigia, kad pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis, žiaurus ir neteisingas, neilgai tepajėgė nuslėpti įgimtą nedorovingumą, kurį iš jaunų dienų buvo pratęs rodyti; praslinkus vieniems metams nuo tos dienos, kai buvo.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Dusburgietis teigia, kad apie brolių vargus po mūšio Sutriuškinus šiame mūšyje brolius, Sventopelkas didžiai džiaugėsi ir, dvigubai žvaliau kibdamas į savo nedorovingus darbus, dvigubai smarkiau sėtrindamas skaudžias brolių žaizdas, ėmėsi kaip beįmanydamas visokiausių priemonių.'
+  pagrindžia:
+    - c-022
+- t-022
+  teiginys: 'Dusburgietis teigia, kad sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo klastingomis vilionėmis, griebėsi kitų priemonių, svaresnių, vildamasis, jog atėjęs tinkamas ir seniai geidžiamas metas, kada jis, nesutikdamas jokio pasipriešinimo, galėsiąs visai.'
+  pagrindžia:
+    - c-023
+- t-023
+  teiginys: 'Dusburgietis teigia, kad šiems atvykus, broliai be galo džiaugėsi, o Sventopelkas priešingai — taip sunerimo ir išsigando, kad iš tos baimės pabandė susitaikyti su broliais, o to jam nebuvo 282 Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas Sventopelko.'
+  pagrindžia:
+    - c-024
+- t-024
+  teiginys: 'Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems.'
+  pagrindžia:
+    - c-025
+- t-025
+  teiginys: 'Dusburgietis teigia, kad apie Elbingo pilies ir miesto puolimą Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto, ketindamas užimti.'
+  pagrindžia:
+    - c-026
+- t-026
+  teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, Sventopelkas sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo brolių palapinės, pririšdamas savo kovos žirgus.'
+  pagrindžia:
+    - c-027
+- t-027
+  teiginys: 'Dusburgietis teigia, kad apie įvairias Sventopelko derybas ir sutartis Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė: „Esu pasirengęs paisyti teisingumo ir.'
+  pagrindžia:
+    - c-028
+- t-028
+  teiginys: 'Dusburgietis teigia, kad apie Kristburgo pilies paėmimą Neilgai trukus minėtasis Sventopelkas, nesitenkindamas krikščionių kraujo liejimu, ryžosi dar daugiau nusikalsti, vėl sukeldamas aukštybių dievo rūstį.'
+  pagrindžia:
+    - c-029
+- t-030
+  teiginys: 'Dusburgietis teigia, kad apie Pomeranijos kunigaikščio Sventopelko mirtį ir jo sūnaus Mstivojaus sukilimą prieš brolius Tais pačiais metais Sventopelkas, Pomeranijos kunigaikštis, atgulė į patalą, o nujausdamas artėjant mirtį, sušaukė savo sūnus ir, sakydamas paskutinę savo valią.'
+  pagrindžia:
+    - c-031
+- t-031
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję, turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą, Samborą.'
+  pagrindžia:
+    - c-032
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -401,17 +464,360 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-013
+- c-015
+  santrauka: 'Dusburgietis teigia, kad tokį vardą pelno su prūsais bendradarbiavęs Pamario kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs į ginkluotą kovą prieš Ordiną.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Senos  Vokiečių ordino  tradicijos dvasia nušviečiamas Ordino  įsikūrimas Kulmo
+    žemėje, dovanotoje Mazovijos kunigaikščio Konrado, šis. aktas laikomas Ordino veiklos
+    Prūsijoje pagrindu (II, 5, 6). Krikščionių kunigaikščius, kurį laiką kovojusius prieš Ordiną,
+    Dusburgietis vadina išdavikais. Tokį vardą pelno su prūsais bendradarbiavęs Pamario
+    kunigaikštis Sventopelkas (III, 32), Gedimino sąjungininkas Lenkijos karalius Vladislovas
+    Lokietka (Papildymas, 10), kuris, norėdamas atgauti Pamarį, stojęs  į ginkluotą kovą
+    prieš Ordiną.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-017
+  santrauka: 'Dusburgietis teigia, kad tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius. Vienur švytruojąs Kristaus kariaunos.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Narsiai ją
+    užpuolę, privertė bėgti. Tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau
+    įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam
+    nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius. Vienur švytruojąs
+    Kristaus kariaunos kalavijas ryte rijo netikėlių kūnus, kitur ietis, ne veltui plušėdama,
+    sėjo aplinkui žaizdas, nes prūsai niekur negalėjo pasprukti nuo persekiotojų; šitaip buvo
+    suduotas skaudus smūgis prūsų tautai, nes tą dieną krito daugiau nei penki tūkstančiai
+    nukautųjų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-018
+  santrauka: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    32. Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje
+
+      Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių  ir
+    pragaišties, pasak šventojo rašto, be galo klastingos  ir suktos širdies; prūsų tautą,
+    neseniai priėmusią Kristaus tikėjimą, jis pradėjo taikiais žodžiais raginti griebtis klastos,
+    sudarė sąjungą su ta sąlyga, kad jie išvarysią jėga iš Prūsijos žemės Teutonų ordino
+    brolius ir kitus krikščionis266; jiems ši kalba rodėsi esanti gera, daug kas persimetė į jo
+    pusę, ir beveik visi jam prijautė. Kai šitai įvyko, šis kunigaikštis sutvirtino savo pilis Vyslos
+    pakrantėse  ir jose įkurdino nuodėmingus žmones, nedoringus vyrus  ir nusikaltėlius,
+    kurie tapo broliams nelyginant kilpa po kaklu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-020
+  santrauka: 'Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį, o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą].'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kita vertus, jis
+    suprato, kad nereikia atstumti prašančio atleidimo, tad pasirinko šitai, kas jam rodėsi
+    būsią geriau, taigi taiką, nes tik taikos metu gerbiamas tas, kuris teikia taiką. Dėl to,
+    brolių patariamas, sugrąžino jam bažnyčios malonę šiomis sąlygomis: kad jo ir brolių
+    sutartis būtų tvirtesnė, Sventopelkas kaip užstatą atiduosiąs broliams Sartovicų pilį,
+    o įkaitais atsiųsiąs savo pirmagimį sūnų Mstivojų, burggrafą Vimarą [Gneomirą] bei
+    savo kariuomenės vadą Vojaką [Vojachą], be to, paliesdamas ranka švenčiausias dievo
+    evangelijas, prisieksiąs, kad padėsiąs broliams prieš netikėlius, kai šitai būsią reikalinga,
+    ir kad nuo šiol nekamuosiąs nei tikėjimo, nei tikinčiųjų tokiomis baisybėmis, kokių prieš
+    tai yra ėmęsis; šiems pažadams sutvirtinti jis davė broliams raštą, savo antspaudu
+    patvirtintą277. Sitai padarius, sugrąžino brolius bei kitus belaisvius, kuriuos beįmanė
+    surasti, tarp kurių be kitų moterų, vyrų ir vaikų buvo 70 kilmingų ir garbingų matronų;
+    šios taikos broliai taip tvirtai laikėsi, kad paisė ne tik visų kitų dalykų, reikalingų taikai
+    palaikyti, bet nė karto nestojo į kovą su netikėliais nepasitarę su šiuo kunigaikščiu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+    - t-020
+- c-022
+  santrauka: 'Dusburgietis teigia, kad apie brolių vargus po mūšio Sutriuškinus šiame mūšyje brolius, Sventopelkas didžiai džiaugėsi ir, dvigubai žvaliau kibdamas į savo nedorovingus darbus, dvigubai smarkiau sėtrindamas skaudžias brolių žaizdas, ėmėsi kaip beįmanydamas visokiausių priemonių.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolių vargus po mūšio
+
+      Sutriuškinus šiame mūšyje brolius, Sventopelkas didžiai džiaugėsi ir, dvigubai žvaliau
+    kibdamas į savo nedorovingus darbus, dvigubai smarkiau sėtrindamas skaudžias brolių
+    žaizdas, ėmėsi kaip beįmanydamas visokiausių priemonių nuvilioti nuo jų  į didžiausią
+    vargą pakliuvusius jų valdinius ir įkalbinėjimais bei dovanomis palenkti juos savo klastin
+    gai valiai. Tiesa, kurie ne kurie, jo sukiršinti, slapta buvo linkę jam paklusti, tačiau
+    dėl dievo apvaizdos ir brolių apdairumo nė vienas jų nedrįso viešai to rodyti. Šitaip jo
+    klastingi užmojai nuėjo niekais, nes jis nieko nepešė su savo piktais sumanymais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-023
+  santrauka: 'Dusburgietis teigia, kad sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo klastingomis vilionėmis, griebėsi kitų priemonių, svaresnių, vildamasis, jog atėjęs tinkamas ir seniai geidžiamas metas, kada jis, nesutikdamas jokio pasipriešinimo, galėsiąs visai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    ——————————————————
+
+      Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo
+    klastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs
+    tinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,
+    galėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po
+    paskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per
+    Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o
+    visa kita pavertė pelenais bei degėsiais. Tuo metu, kai šitai vyko, Kulmo broliai, susirinkę
+    drauge su Kulmo miesto kilmingaisiais bei miestiečiais, vaitojo, matydami nelaimes,
+    kurių pridarė Sventopelkas su savo kariauna,  ir, mušdamiesi  į krūtinę, su ašaromis
+    meldė dievą, sakydami: „Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo
+    tėvonijos paniekinti“.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-024
+  santrauka: 'Dusburgietis teigia, kad šiems atvykus, broliai be galo džiaugėsi, o Sventopelkas priešingai — taip sunerimo ir išsigando, kad iš tos baimės pabandė susitaikyti su broliais, o to jam nebuvo 282 Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas Sventopelko.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kai šitai buvo padaryta, 1244 atvyko
+    brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
+    Be to, Austrijos kunigaikštis dar atsiuntė šiai žemei padėti 30 raitųjų lankininkų, išlaikomų
+    savo lėšomis. Šiems atvykus, broliai be galo džiaugėsi, o Sventopelkas priešingai — taip
+    sunerimo ir išsigando, kad iš tos baimės pabandė susitaikyti su broliais, o to jam nebuvo
+      282  Manoma, jog Dusburgietis galėjęs šį mūšį prie Kulmo išgalvoti, norėdamas
+    Sventopelko pralaimėjimo vaizdais sušvelninti ankstesnio Ordino pralaimėjimo įspūdį
+    (PKD, p. 44).
+
+    atsakyta, ir senoji taika buvo atnaujinta.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-025
+  santrauka: 'Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
+    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
+    klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
+    daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
+    didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
+    prieš dabartinį Kulmo miestą naują pilį, pavadintą Sveče285 ir turėjusią trukdyti broliams
+    plaukioti Vysla aukštyn ir žemyn. Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
+    plaukti laivais žemyn, o pats su Torunės broliais bei kunigaikščiu Kazimieru nutarė
+    traukti su kariuomene į šią vietą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-026
+  santrauka: 'Dusburgietis teigia, kad apie Elbingo pilies ir miesto puolimą Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto, ketindamas užimti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Elbingo pilies ir miesto puolimą
+
+      Sventopelkas, Pomeranijos kunigaikštis, sužinojęs, kad Elbinge beveik nebeliko nei
+    brolių, nei miestiečių, sutelkė didelę kariuomenę ir patraukė prie šios pilies bei miesto,
+    ketindamas užimti. Šitai matydamos, moterys, nusisegusios moteriškus papuošalus,
+    pasiryžo imtis vyriško darbo ir, prisisegusios prie šlaunų kalavijus, sulipo  į sienas, taip
+    ryžtingai išsirikiuodamos gynybai, kad nė kvapo nebeliko jų lyčiai būdingo trapumo.
+    Todėl kunigaikštis, pamanęs, jog bus sugrįžusi atgal brolių ir miestiečių kariuomenė,
+    pasitraukė sugėdintas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-027
+  santrauka: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, Sventopelkas sutelkė didelę kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo brolių palapinės, pririšdamas savo kovos žirgus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Magistras  ir broliai su jais bei su kunigaikščiu Kazimieru  ir su savaisiais įsibrovė  į
+    Pomeranijos žemę  ir, devynetą dienų  ir naktų tai viena, tai kita kryptimi smogdami
+    stiprius  ir žiaurius smūgius, taip ją nusiaubė, kad nebeliko ten nė vieno kampelio,
+    kurio nebūtų nuniokoję plėšimais ir gaisrais. Tuo metu, kai šitai dėjosi, Sventopelkas
+    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
+    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
+    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
+    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
+    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
+    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
+    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
+    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
+    vyrų, skirtų grobiui saugoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-028
+  santrauka: 'Dusburgietis teigia, kad apie įvairias Sventopelko derybas ir sutartis Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė: „Esu pasirengęs paisyti teisingumo ir.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    60 (59). Apie įvairias Sventopelko derybas ir sutartis
+
+      Sventopelkas, išgirdęs apie magistro atvykimą, paprašė jį atsiųsti valdovą Henriką iš
+    Lichtenšteino, o kai šis atvyko, pareiškė jam daugybę nusiskundimų broliais ir pasakė:
+    „Esu pasirengęs paisyti teisingumo  ir vykdyti visa, ką įsakys broliai, jeigu jie man
+    sugrąžins sūnų, kurį esu jiems davęs kaip įkaitą“. Valdovas Henrikas, turėdamas galvoje,
+    kad kiekvienas privalo paisyti teisingų nurodymų ir pamokymų, jam atsakė: „Nieku būdu
+    negali atgauti savo sūnaus, nes ne kartą esi sulaužęs taikos sutartį, kuriai patvirtinti davei
+    broliams savo sūnų kaip įkaitą, o daug kartų, susidedamas su atsimetėliais ir netikėliais,
+    su kurių kariuomene niokojai krikščionių bei brolių žemę, grobdamas ir degindamas, o
+    tikėjimą, kurį per begalinį vargą ir per garbingas įstangas krikščionys įdiegė, išrovei,
+    vienus krikščionis negailestingai išžudydamas, kitus išsivarydamas  į amžiną vergovę,
+    todėl ne teisingumo ieškoki, bet pasigailėjimo“.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-029
+  santrauka: 'Dusburgietis teigia, kad apie Kristburgo pilies paėmimą Neilgai trukus minėtasis Sventopelkas, nesitenkindamas krikščionių kraujo liejimu, ryžosi dar daugiau nusikalsti, vėl sukeldamas aukštybių dievo rūstį.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Kristburgo pilies paėmimą
+
+       Neilgai trukus minėtasis Sventopelkas, nesitenkindamas krikščionių kraujo liejimu,
+    ryžosi dar daugiau nusikalsti, vėl sukeldamas aukštybių dievo rūstį. Jis mat pavydėjo
+    broliams, neseniai sėkmingai užėmusiems pamedėnų pilį, ir sugalvojo jiems keršyti. Taigi
+    sutelkė visą galybę savo kariuomenės ir Prūsijos naujakrikščių, elgdamasis klastingai kaip
+    ir anksčiau, nes buvo be galo suktas; Padalijo kariuomenę į dvi dalis, viena turėjo pulti
+    pilį iš priekio, kita — iš kitos pusės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-031
+  santrauka: 'Dusburgietis teigia, kad apie Pomeranijos kunigaikščio Sventopelko mirtį ir jo sūnaus Mstivojaus sukilimą prieš brolius Tais pačiais metais Sventopelkas, Pomeranijos kunigaikštis, atgulė į patalą, o nujausdamas artėjant mirtį, sušaukė savo sūnus ir, sakydamas paskutinę savo valią.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Pomeranijos kunigaikščio Sventopelko mirtį ir jo sūnaus Mstivojaus
+                                    sukilimą prieš brolius
+
+       Tais  pačiais metais Sventopelkas, Pomeranijos  kunigaikštis,  atgulė   į  patalą, o
+    nujausdamas artėjant mirtį, sušaukė savo sūnus ir, sakydamas paskutinę savo valią, kurią
+    patvirtino mirtimi, šitaip juos pamokė: „Kai tarp manęs ir brolių kildavo karas, visados
+    nukentėdavau; juos puldavau ir su pagrindu, ir be pagrindo, bet nieko nelaimėdavau,
+    nes dievas su jais ir už juos kovoja. Dėl to jums patariu niekad jiems nesipriešinti, bet
+    nuolankiai juos gerbti“. Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus. Tėvui
+    mirus400 (1299 m. sausio 11 d.), tapęs Pomeranijos kunigaikščiu, akiplėšiškai pradėjo
+    eiti tais klaidingais keliais, kuriais kadaise ėjo tėvas, paakino prūsų kariuomenę deginti
+    ir plėšti Kulmo žemę bei Pamedės vyskupystę, tas jos žemes, kurios buvo prieš jo
+    Nojenburgo pilį401; prūsai nuo vieno Vyslos kranto, o Nojenburgo pilėnai nuo kito užpuolė
+    penkiolika brolių laivų, prikrautų visokiausių reikmenų tikėjimui bei tikintiesiems ginti;
+    galop laivininkai turėjo visą krovinį iš laivų išmesti į upę, nes kitaip patys nebūtų pabėgę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-032
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję, turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą, Samborą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    213 (208). Apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis
+
+      Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję,
+    turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą,
+    Samborą, Vartislavą bei dar vieną507. Vartislavas įstojo į Teutonų ordiną broliu ir anksčiau
+    minėtosios kunigaikštystės dalį, kuri jam atiteko, atidavė labdarybės tikslais Teutonų
+    ordino broliams Prūsijoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Laivai]]
+- [[objektai/asmenys/Lokietka]]
+- [[objektai/asmenys/Mstivojus]]
 - [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Pomeranai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/grupes/Saracėnai]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
+- [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/stalininkas]]
 - [[objektai/zodynas/tėvonija]]
-- [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/zodynas/įkaitai]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/ivykiai/Antrosios laivų kautynės prie Svečės pilies|Antrosios laivų kautynės prie Svečės pilies (pilis)]]
+- [[objektai/ivykiai/Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.)]]
+- [[objektai/asmenys/Ditrichas iš Bernheimo]]
+- [[objektai/asmenys/Fridrichas iš Veidos]]
+- [[objektai/asmenys/Henrikas iš Veidos]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]
+- [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]
+- [[objektai/posakiai/Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti]]
+- [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]
+- [[objektai/asmenys/Poponas iš Osternos]]
+- [[objektai/ivykiai/Poterbergo pilies pastatymas|Poterbergo pilies pastatymas (pilis)]]
+- [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
+- [[objektai/asmenys/Rabė]]
+- [[objektai/asmenys/Samboras]]
+- [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
+- [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]
+- [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]
+- [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]
+- [[objektai/zodynas/šeimyna familia domus]]
+- [[objektai/ivykiai/Elbingo pilies ir miesto puolimas|Elbingo pilies ir miesto puolimas (miestas)]]
+- [[objektai/ivykiai/Kryžiaus karo paskelbimas prieš Sventopelką (1245 m.)]]
+- [[objektai/ivykiai/Naujas Sventopelko karas ir susidūrimas prie Renzeno]]
+- [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
+- [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]
+- [[objektai/ivykiai/Svečės pilies statyba ir nesėkmingas Ordino puolimas|Svečės pilies statyba ir nesėkmingas Ordino puolimas (pilis, XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXV a.)]]

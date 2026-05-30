@@ -7,9 +7,9 @@ variantai:
 aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos:
-  - '1290 m. gegužės 12 d.'
 laikotarpis: '1290 m. gegužės 12 d.'
+datos:
+  - '1290 m.'
 periodas: 'viduramziai'
 periodo_grupes:
   - 'LDK'
@@ -18,6 +18,7 @@ amziai:
 date_start: '1290'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
 tags:
   - ivykis
   - karas
@@ -56,6 +57,10 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras, išplaukė, magistro įsakytas, laivais link Lietuvos, norėdamas išbandyti kai kurias naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,11 +110,20 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Ernekė]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas iš Vienos]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Surminas]]
+- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Nodamas]]
+- [[objektai/zodynas/Pilininkas]]
+- [[objektai/zodynas/šeštinės]]

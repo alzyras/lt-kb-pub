@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: Kazimieras Karigaila
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Kazimieras
   - kunigaikštis Karigaila
@@ -31,6 +31,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - karvedys
   - kunigaikštis
@@ -218,6 +219,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Karigaila]]

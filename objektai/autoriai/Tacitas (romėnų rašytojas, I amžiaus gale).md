@@ -15,6 +15,7 @@ variantai:
   - 'Tacitas'
 aliases:
   - 'Tacitas'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
   - mokslininkas
@@ -41,7 +42,6 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tacitas I amžiaus gale veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'

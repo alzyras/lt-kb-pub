@@ -1,7 +1,7 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: viežlybumas
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - viežlybumą
   - viežlybai
@@ -9,6 +9,7 @@ variantai:
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # viežlybumas
 

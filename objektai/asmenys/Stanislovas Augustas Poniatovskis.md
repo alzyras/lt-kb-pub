@@ -20,6 +20,7 @@ amziai:
 date_start: '1697'
 date_end: '1797'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - dinastija

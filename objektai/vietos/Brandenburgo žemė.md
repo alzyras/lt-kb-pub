@@ -18,6 +18,7 @@ amziai:
 date_start: '1200'
 date_end: '1326'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karalius
   - miestas

@@ -1,0 +1,74 @@
+---
+tipas: saltinis
+pavadinimas: 'Eiliuotoji Livonijos kronika'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1259 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+date_start: '1259'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - karas
+  - mūšis
+  - ordinas
+  - saltinis
+---
+# Eiliuotoji Livonijos kronika
+
+## Santrauka
+
+Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil. Dusburgietis teigia, kad 348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais pasekę ir estai (LRCh, eil.
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais pasekę ir estai (LRCh, eil.'
+  pagrindžia:
+    - c-002
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dusburgiečio krivis
+    tam tikra prasme analogiškas Eiliuotosios Livonijos kronikos žemaičių žyniui, senovės
+    papročiu aukojančiam dievams (jiems duodama trečdalis karo grobio), išburiančiam
+    žemaičių vadams pergalę 1259 m. Skuodo kautynėse (LRCh, eil. 4680), be to, Lietuvos
+    metraščių istorinės tradicijos duomenims apie Gedimino žynį Lizdeiką (ПСРЛ, t. 17, стб.
+    261, 314 ir kt.; t. 32, c. 138; Lietuvos metraštis, p. 71).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad 348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais pasekę ir estai (LRCh, eil.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    348 Eiliuotojoje Livonijos kronikoje, kuriai įvykis artimesnis chronologijos ir teritorijos
+    požiūriu, rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius; kuršiais
+    pasekę ir estai (LRCh, eil. 5601—5643; LIS, 1, p. 49). Šiaip ar taip, kuršių veiksmai
+    vertinami kaip jų pagalba lietuviams (Ivinskis Z., Durbės.., p. 70—71; Lietuvių karas..,
+    p. 153).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

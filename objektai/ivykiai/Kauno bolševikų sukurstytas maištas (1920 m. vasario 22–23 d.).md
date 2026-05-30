@@ -16,6 +16,7 @@ amziai:
 date_start: '1920'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
 ---
@@ -94,3 +95,4 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]

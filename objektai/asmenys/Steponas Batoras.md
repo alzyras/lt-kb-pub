@@ -17,6 +17,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - elekcija
@@ -570,13 +571,11 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     - t-026
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/zodynas/unija]]
 - [[objektai/daiktai/Jono Budrio Polovinsko špaga]]
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
+- [[objektai/grupes/Raudonoji armija]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
 - [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku]]
 - [[objektai/zodynas/kariuomenės konfederacija]]

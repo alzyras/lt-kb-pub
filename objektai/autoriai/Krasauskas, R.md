@@ -16,6 +16,7 @@ amziai:
 date_start: '1898'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
 ---
@@ -58,5 +59,6 @@ Krasauskas, R.
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/R. Krasauskas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/autoriai/Nieborowski, P]]
 - [[objektai/autoriai/P. Nieborowski]]

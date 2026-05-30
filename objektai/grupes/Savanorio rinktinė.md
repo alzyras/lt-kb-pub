@@ -16,6 +16,7 @@ amziai:
 date_start: '1948'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -53,7 +54,7 @@ Po rinktinės vado suėmimo J.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Kęstučio apygarda]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/grupes/Prisikėlimo apygarda]]

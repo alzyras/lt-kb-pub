@@ -18,6 +18,7 @@ amziai:
 date_start: '1768'
 date_end: '1772'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - didikas
   - ivykis
@@ -99,9 +100,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Baro konfederacija]]
 - [[objektai/grupes/Lenkai]]

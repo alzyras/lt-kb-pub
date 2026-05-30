@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: "Aleksandro portretas ir kunigo Korčiako paveikslas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - karaliaus Aleksandro portretas
   - kunigo Korčiako paveikslas
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Aleksandro portretas ir kunigo Korčiako paveikslas

@@ -18,6 +18,7 @@ amziai:
 date_start: '1939'
 date_end: '1979'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - dokumentas
   - ivykis
@@ -79,9 +80,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Rusai]]

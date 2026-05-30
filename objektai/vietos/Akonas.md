@@ -8,7 +8,23 @@ variantai:
 aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1190 m.'
+  - '1250 m.'
+  - '1290 m.'
+  - '1291 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XI'
+  - 'XII'
+  - 'XIII'
+date_start: '1190'
+date_end: '1291'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
 tags:
   - vieta
 ---
@@ -53,6 +69,22 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
     - c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­ trą Pirmas šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras brolis Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą) dieną ir.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Dusburgietis teigia, kad paėmus Akoną, tas pats brolis Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus, kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais 154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Dusburgietis teigia, kad apie Akono miesto sugriovimą 1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Dusburgietis teigia, kad po to daug karalių ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę, tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties viešpaties 1290 metais pagonys iš pamatų sugriovė Akono.'
+  pagrindžia:
+    - c-010
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Citata parodo Akoną kaip Jeruzalės karalystės sostinę ir jos žlugimo ašį.'
@@ -127,3 +159,89 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-007
+  santrauka: 'Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­ trą Pirmas šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras brolis Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą) dieną ir.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    2. Apie brolį Henriką Valpotą, pirmą šventosios Marijos Teutonų namų ligoninės magis­
+                                                 trą
+
+      Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
+    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
+    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
+    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
+    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Dusburgietis teigia, kad paėmus Akoną, tas pats brolis Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus, kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais 154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pirmas  šventosios  Marijos Teutonų namų  Jeruzalėje  ligoninės magistras  brolis
+    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
+    dieną ir palaidotas Akone. Bremeno ir Liubeko miestiečiai, pirmieji šio ordino steigėjai,
+    kurie, kaip jau buvo sakyta, ištesėję įžadą nukeliauti į šventąją žemę ir susirengę grįžti
+    į namus, patarti minėtojo valdovo Fridricho, Švabijos kunigaikščio, bei kitų Vokietijos
+    kilmingųjų, dalyvavusių Akono apsiaustyje, jam ir padovanojo šią ligoninę su visomis
+    gausiai gautomis išmaldomis bei gėrybėmis, kurioje šiems ligoniams  jis drauge su
+    broliais nuolankiai tarnavo ir rūpino visa, kas reikalinga. Paėmus Akoną, tas pats brolis
+    Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
+    kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
+
+      154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
+    — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
+    pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Dusburgietis teigia, kad apie Akono miesto sugriovimą 1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    77. Apie Akono miesto sugriovimą
+
+      1290 viešpaties metais, mergelės Potencianos dieną, tai yra gegužės 19, sultonas
+    sugriovė Akono miestą ir paėmė į nelaisvę bei išžudė be galo daug krikščionių (Mart. p.
+    421; Ptol. 24, 23, 24).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Dusburgietis teigia, kad po to daug karalių ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę, tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties viešpaties 1290 metais pagonys iš pamatų sugriovė Akono.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šitaip jų nedraugai gavo viršų, o jie tapo pažeminti,
+    nes jųjų priešai užgrobė ne tik žadėtąją žemę, bet beveik visas apygardas, miestus bei
+    tvirtoves nuo pat Egipto žemės pakraščių ligi Mezopotamijos daugiau nei dvidešimties
+    dienų kelio ruože, be to, daug kitų miestų bei tvirtovių pajūryje. Po to daug karalių
+    ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę,
+    tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties
+    viešpaties 1290 metais pagonys iš pamatų sugriovė Akono miestą, kuris vienas tebuvo
+    likęs. Dvejopa šio miesto sugriovimo priežastis: pirma, nesantarvė valdovų, kurie,  jį
+    gindami, nerado bendros kalbos, antra, tai, kad kryžininkai, jo šventenybės popiežiaus
+    atsiųsti į pagalbą, neteko sveiko proto ir nuolatiniais maištais bei sąmokslais ardė savo
+
+    galią.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

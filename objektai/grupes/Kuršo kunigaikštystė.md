@@ -21,6 +21,7 @@ amziai:
 date_start: '1561'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - sutartis
@@ -147,6 +148,7 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Livonijos konfederacija]]
+- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]

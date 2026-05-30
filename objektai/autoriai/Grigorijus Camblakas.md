@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Grigorijus Camblakas"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "G. Camblako"
   - "Grigorijų Camblaką"
@@ -26,6 +26,7 @@ amziai:
 date_start: '1415'
 date_end: '1439'
 patikimumas: "aukštas"
+atnaujinta: '2026-05-14'
 tags:
   - autorius
   - dvasininkas

@@ -23,6 +23,7 @@ amziai:
 date_start: '1413'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - kraštas
@@ -187,7 +188,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/autoriai/Jakštas, J]]

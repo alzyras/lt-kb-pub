@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Vilniaus vyskupijos klierikų kolegija"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "klierikų kolegija"
   - "Collegium Clericorum nostrorum"
@@ -27,6 +27,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus vyskupijos klierikų kolegija
@@ -225,7 +226,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - [[objektai/zodynas/dominija]]
 - [[objektai/autoriai/A. Plateris]]
 - [[objektai/ivykiai/Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/zodynas/mokytojų seminarija]]

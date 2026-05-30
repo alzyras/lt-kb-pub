@@ -17,6 +17,7 @@ amziai:
 date_start: '1226'
 date_end: '1228'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - ordinas
@@ -69,9 +70,36 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Albertas (Brandenburgo markgrafas)]]
+- [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
+- [[objektai/asmenys/Albertas iš Meiseno]]
+- [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi]]
+- [[objektai/asmenys/Ditrichas (Meiseno markgrafas)]]
 - [[objektai/grupes/Dobrinės ordinas]]
 - [[objektai/ivykiai/Dobrinės ordino įkūrimas]]
+- [[objektai/asmenys/Eimaras iš Cezarėjos]]
+- [[objektai/asmenys/Fridrichas (Austrijos kunigaikštis)]]
+- [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
+- [[objektai/asmenys/Gardolfas]]
+- [[objektai/asmenys/Henrikas (Brabanto kunigaikštis)]]
+- [[objektai/asmenys/Henrikas (Jeruzalės karalius)]]
+- [[objektai/asmenys/Henrikas (Jeruzalės patriarchas)]]
+- [[objektai/asmenys/Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis)]]
+- [[objektai/asmenys/Henrikas VI]]
+- [[objektai/asmenys/Henrikas iš Kalendino]]
+- [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]
+- [[objektai/asmenys/Hugonas]]
+- [[objektai/grupes/Joanitų ordinas]]
+- [[objektai/asmenys/Jonas iš Hibelino]]
 - [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
+- [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]
+- [[objektai/asmenys/Konradas (Landsbergo markgrafas)]]
+- [[objektai/asmenys/Konradas (Mainco arkivyskupas)]]
+- [[objektai/asmenys/Konradas (Viurcburgo vyskupas)]]
+- [[objektai/asmenys/Reinoldas]]
+- [[objektai/asmenys/Rudolfas (Tiberiados valdovas)]]
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
+- [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]
 - [[objektai/grupes/Vilniaus Akademija]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
+- [[objektai/asmenys/Volfgeris]]

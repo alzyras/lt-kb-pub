@@ -19,6 +19,7 @@ amziai:
 date_start: '1000'
 date_end: '1428'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - ivykis
@@ -99,7 +100,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kontribucija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]

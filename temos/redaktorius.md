@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 23.
+Objektų skaičius: 24.
 
 ## Kaip naudoti
 
@@ -20,7 +20,7 @@ Objektų skaičius: 23.
 
 ### Asmenys
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/asmenys/Sigitas Tamkevičius]]
+- [[objektai/asmenys/Vilhelmas (Sabinos kardinolas)]]
 
 ### Autoriai
 - [[objektai/autoriai/Alfonsas Eidintas]]
@@ -34,6 +34,7 @@ Objektų skaičius: 23.
 - [[objektai/autoriai/M. Jankus]]
 - [[objektai/autoriai/Mikšas]]
 - [[objektai/autoriai/Romas Dubonis]]
+- [[objektai/autoriai/Sigitas Tamkevičius]]
 - [[objektai/autoriai/Skirmantė Ramanauskaitė]]
 - [[objektai/autoriai/Šernas]]
 

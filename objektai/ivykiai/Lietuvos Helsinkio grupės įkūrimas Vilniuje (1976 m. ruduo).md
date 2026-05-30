@@ -20,6 +20,7 @@ amziai:
 date_start: '1976'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dokumentas
   - ivykis
@@ -82,13 +83,13 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-- [[temos/dokumentas]]
-- [[temos/aktas - dokumentas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kauneckas]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Tomas Venclova]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Viktoras Petkus]]

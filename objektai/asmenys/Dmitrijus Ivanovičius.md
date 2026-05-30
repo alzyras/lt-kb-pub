@@ -16,6 +16,7 @@ amziai:
 date_start: '1368'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -66,7 +67,7 @@ tags:
 - [[temos/metraštis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]

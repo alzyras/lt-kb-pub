@@ -1,7 +1,7 @@
 ---
 tipas: vieta
 pavadinimas: 'Lydos pilis (pilis)'
-sukurta: "2026-04-28"
+sukurta: '2026-04-28'
 variantai:
   - 'Lydos pilis'
 aliases:
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # Lydos pilis (pilis)

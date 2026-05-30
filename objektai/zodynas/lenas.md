@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - didikas
   - sąvoka
@@ -55,9 +56,6 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]

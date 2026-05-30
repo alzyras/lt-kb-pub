@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: Pilėnų pilies gynimas (1336 m.)
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - Pilėnų gynimas
   - Pilėnų tragedija
@@ -24,6 +24,7 @@ dalyviai:
   - vokiečiai
 susije_irasai: []
 patikimumas: aukstas
+atnaujinta: '2026-04-24'
 tags:
   - karas
 ---

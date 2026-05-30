@@ -16,6 +16,7 @@ amziai:
 date_start: '1918'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -58,6 +59,7 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/suverenumas]]

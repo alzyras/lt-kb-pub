@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - grupe
   - tikėjimas
@@ -50,7 +51,6 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-- [[temos/tikėjimas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Protestantai]]

@@ -18,6 +18,7 @@ amziai:
 date_start: '1440'
 date_end: '1571'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - mūšis
   - vieta

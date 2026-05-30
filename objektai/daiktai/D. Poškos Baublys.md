@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: D. Poškos Baublys
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - Baublys
 aliases: []
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukstas
+atnaujinta: '2026-04-24'
 tags:
   - daiktas
 ---

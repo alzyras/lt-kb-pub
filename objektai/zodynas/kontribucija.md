@@ -24,6 +24,7 @@ amziai:
 date_start: '1426'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
 ---
@@ -131,7 +132,6 @@ tags:
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/zodynas/hegemonija]]
 - [[objektai/asmenys/Martynas V]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
 - [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
 - [[objektai/zodynas/indulgencija]]

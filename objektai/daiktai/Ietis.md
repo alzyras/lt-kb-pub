@@ -19,6 +19,7 @@ amziai:
 date_start: '1329'
 date_end: '1372'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
   - didikas
@@ -102,11 +103,8 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Margalis (Margirius )]]
@@ -114,8 +112,13 @@ Nenurodyta
 - [[objektai/zodynas/karyba]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
+- [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]
+- [[objektai/posakiai/Už pagarbą, kurią per mano paveikslą esi man parodęs]]
+- [[objektai/daiktai/Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Liuksemburgietis]]
 - [[objektai/zodynas/stabmeldys]]

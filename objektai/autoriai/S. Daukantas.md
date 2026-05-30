@@ -18,6 +18,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - autorius
   - mokslininkas
@@ -135,6 +136,7 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 - [[objektai/grupes/Sakalo bendrovė]]
 - [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]
 - [[objektai/posakiai/mokytiems vyrams išnagrinėti]]
+- [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/grupes/Aušrininkai]]
 - [[objektai/zodynas/Lažas|lažas]]
 - [[objektai/zodynas/Meldžionys|meldžionys]]

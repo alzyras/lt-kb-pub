@@ -16,6 +16,7 @@ amziai:
 date_start: '1361'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -56,7 +57,7 @@ Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis, Lietuvos stačiatiki�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/metropolija]]

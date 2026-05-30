@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Oberostas"
-sukurta: "2026-05-18"
+sukurta: '2026-05-18'
 variantai:
   - "Oberostu"
   - "Oberosto"
@@ -28,6 +28,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-18'
 tags: []
 ---
 # Oberostas

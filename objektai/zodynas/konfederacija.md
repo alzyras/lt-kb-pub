@@ -23,6 +23,7 @@ amziai:
 date_start: '1893'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - karas
@@ -149,6 +150,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
 - [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
+- [[objektai/asmenys/Jekaterina II]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
 - [[objektai/asmenys/Karolis Stanislovas Radvila]]

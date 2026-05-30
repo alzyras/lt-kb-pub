@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Karamzinas"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Karamzyn"
   - "Karamzinas"
@@ -21,6 +21,7 @@ vaidmenys:
   - autorius
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
 ---
@@ -65,6 +66,6 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Karigaila]]
 - [[objektai/asmenys/Aleksandras Balinskis]]

@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
   - kunigaikštis
@@ -44,4 +45,15 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Brandenburgo elektoriai]]
+- [[objektai/asmenys/Albrechtas (Romos karalius)]]
+- [[objektai/asmenys/Albrechtas iš Hageno]]
+- [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
+- [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]]
+- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
+- [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
+- [[objektai/asmenys/Sudargas]]
+- [[objektai/asmenys/Vaclovas (Čekijos karalius)]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/ginklanešys]]
+- [[objektai/zodynas/papilys]]
+- [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]

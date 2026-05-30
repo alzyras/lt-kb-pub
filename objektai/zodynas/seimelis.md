@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - elekcija
@@ -117,9 +118,6 @@ tags:
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/bajorija]]
@@ -129,6 +127,7 @@ tags:
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
 - [[objektai/zodynas/Klaipėdiškiai]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
+- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
 - [[objektai/zodynas/klaipėdiečiai klaipėdiškiai]]

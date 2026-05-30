@@ -18,6 +18,7 @@ amziai:
 date_start: '1351'
 date_end: '1358'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karalius
@@ -74,7 +75,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

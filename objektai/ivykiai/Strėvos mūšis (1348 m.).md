@@ -42,6 +42,7 @@ dalyviai:
 susije_irasai:
   - '[]'
 patikimumas: 'aukstas'
+atnaujinta: '2026-04-24'
 tags:
   - ivykis
   - karas
@@ -179,12 +180,11 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/vyskupo teisėjas]]
 - [[objektai/daiktai/Lankai]]

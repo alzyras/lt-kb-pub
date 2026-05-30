@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Ignacas Onacevičius"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Ignas Onacevičius"
   - "Ignacas Onacevičius"
@@ -26,6 +26,7 @@ vaidmenys:
   - mokslininkas
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
   - mokslininkas

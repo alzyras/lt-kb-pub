@@ -18,6 +18,7 @@ amziai:
 date_start: '1949'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -78,9 +79,10 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Antanas Liesys-Idenas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Robertas (Sicilijos karalius)]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
 - [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]

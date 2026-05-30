@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - dokumentas
   - elekcija
@@ -48,10 +49,6 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-- [[temos/elekcija]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/grupes/Žydai]]

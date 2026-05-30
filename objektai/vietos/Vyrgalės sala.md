@@ -18,6 +18,7 @@ amziai:
 date_start: '1978'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - krikštas
   - upė

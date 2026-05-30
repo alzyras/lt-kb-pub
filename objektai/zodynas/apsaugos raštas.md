@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: apsaugos raštas
 sukurta: '2026-05-05'
 variantai:
-  - apsaugos raštą
+- apsaugos raštą
 aliases: []
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1383 m.'
@@ -25,6 +25,7 @@ date_start: '1350'
 date_end: '2026'
 laikotarpis: 1383 m. liepos 19 d.
 patikimumas: aukštas
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # apsaugos raštas
@@ -79,6 +80,5 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/daiktai/Laivai]]

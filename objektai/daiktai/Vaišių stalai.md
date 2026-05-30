@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: "Vaišių stalai"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - vaišių stalai
   - stalai
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vaišių stalai
@@ -83,5 +84,5 @@ Nenurodyta
 - [[temos/buities-daiktas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Boleslovas]]
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Švitrigaila]]

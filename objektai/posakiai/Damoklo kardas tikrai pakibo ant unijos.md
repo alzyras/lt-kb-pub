@@ -19,6 +19,7 @@ amziai:
 date_start: '1425'
 date_end: '1430'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - karalius

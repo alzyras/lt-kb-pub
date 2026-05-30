@@ -39,6 +39,7 @@ date_start: '1236'
 date_end: '2026'
 susije_irasai: []
 patikimumas: 'žemas'
+atnaujinta: '2026-04-25'
 tags:
   - ginklas
   - vieta

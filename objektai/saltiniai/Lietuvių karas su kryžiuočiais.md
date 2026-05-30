@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - karas
   - saltinis
@@ -24,28 +25,43 @@ tags:
 Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su kryžiuočiais, red. J.
 
 ## Teiginiai
-- t-001
-  teiginys: '„Lietuvių karą su kryžiuočiais“ parengė istorikų kolektyvas, o leidinį redagavo J. Jurginis.'
+- t-002
+  teiginys: 'Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR istorija.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
+    - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 573 D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten — SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino pilininkas.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
-
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: '„Lietuvių karą su kryžiuočiais“ parengė istorikų kolektyvas, o leidinį redagavo J. Jurginis.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-002
+  santrauka: 'Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR istorija.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    (^78) ĮVADAS
-    _gynimas_ [I960]^107. K. Sideravičius: _Nuo Durbės iki Žal­
-    girio_ (1944). Bendrą tų kovų istoriją paruošė istorikų kolektyvas :
-    _Lietuviu karas su kryžiuočiais,_ red. J. Jurginis (LKaKr).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+    prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,
+    kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR
+    istorija. T. 1, p. 55; Jurginis J. Baudžiavos..., p. 34; Lietuvių karas su kryžiuočiais, p.
+    78).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad 573 D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten — SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino pilininkas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    573  D.— per David castellanum de Gartha, Jer.— des burcgrêven von Garten —
+    SRP, 1, p. 603; Dovydas Gardiniškis, Lietuvos didžiojo kunigaikščio vietininkas, Gardino
+    pilininkas. Gardino ir Pskovo gynėjas, greičiausiai Daumanto sūnus (Dovydas— LE, 6;
+    Lietuvių karas..., p. 212 ir kt.).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+## Bibliografiniai įrodymai

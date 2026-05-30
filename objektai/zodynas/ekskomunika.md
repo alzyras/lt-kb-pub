@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - popiežius
   - sąvoka
@@ -58,6 +59,7 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]

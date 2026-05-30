@@ -16,6 +16,7 @@ amziai:
 date_start: '1357'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - ordinas
@@ -59,4 +60,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/žygis]]

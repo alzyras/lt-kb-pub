@@ -1,7 +1,7 @@
 ---
 tipas: ivykis
 pavadinimas: "Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.)"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: ["Lietuvos ir Vokietijos sienos sutartis", "Berlyno sienos linijos nustatymas"]
 aliases: ["Lietuvos ir Vokietijos sienos sutartis", "Berlyno sienos linijos nustatymas"]
 saltiniai:
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.)

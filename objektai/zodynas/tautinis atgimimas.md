@@ -10,26 +10,21 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+laikotarpis: '1861 m.`, `1883 m.`, `1905 m.; nenurodyta'
 datos:
   - '1861 m.'
   - '1883 m.'
-  - '1905 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
-date_start: '1861'
-date_end: '2026'
-laikotarpis: '1861 m.`, `1883 m.`, `1905 m.; nenurodyta'
+  - '1905 m.; nenurodyta'
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags: []
 ---
 # tautinis atgimimas
@@ -58,20 +53,21 @@ lietuvių tautos kultūrinis ir politinis pakilimas, susietas su baudžiavos pan
 Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intensyvaus tautinio judėjimo dešimtmečiu; Daukanto istorijos darbai vertinami kaip svarbūs tautinio atgimimo laikotarpiu.
 
 ## Teiginiai
-- t-006
-  teiginys: 'Daukantas turėjo didelę reikšmę tautinio atgimimo laikotarpiu ir skatino lietuvių tautinės sąmonės raidą.'
+- t-004
+  teiginys: 'Daukanto istorijos darbai turėjo didelę reikšmę tautinio atgimimo laikotarpiu.'
   pagrindžia:
-    - c-001
+    - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Bet nuo jų Lie­ tuvoje prasidėjo naujas trumpas laikotarpis — nuostabus dešimt­ metis intensyvaus tautinio subruzdimo visokiose galimose srityse.'
+- t-005
+  teiginys: 'Daukantas davė reikšmingų paskatų lietuvių tautinės sąmonės išsivystymui.'
   pagrindžia:
-    - c-002
-
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Daukantas turėjo didelę reikšmę tautinio atgimimo laikotarpiu ir skatino lietuvių tautinės sąmonės raidą.'
+- c-003
+  santrauka: Daukanto istorijos darbai turėjo didelę reikšmę tautinio atgimimo laikotarpiu
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jokia Daukanto istorijos rašymo ir jo metodo kritika tačiau
@@ -89,27 +85,8 @@ Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intens
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-002
-  santrauka: 'Bet nuo jų Lie­ tuvoje prasidėjo naujas trumpas laikotarpis — nuostabus dešimt­ metis intensyvaus tautinio subruzdimo visokiose galimose srityse.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jo naujam šuoliui datą sudaro 1883 m. («Aušros» pasirodymas).
-    Tą laikotarpį galima pratęsti gerą šimtmečio ketvirtį, kai lie­
-    tuvių tauta, atgavusi spaudos laisvę, 1905 metų rusų revoliucijos
-    metu pirmą kartą viešai suformulavo savo reikalavimus. Tiesa,
-    1905 metai Lietuvoje nesukėlė nė pusės tokių stiprių ir kruvinų
-    revoliucinių bangų kaip Estijoje ir Latvijoje^20. Bet nuo jų Lie­
-    tuvoje prasidėjo naujas trumpas laikotarpis — nuostabus dešimt­
-    metis intensyvaus tautinio subruzdimo visokiose galimose srityse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-
+    - t-004
+    - t-005
 ## Pastabos
 
 - terminas vartojamas plačiai, kaip kultūrinio ir politinio pakilimo vardas; šaltinyje terminas pavartotas kaip istoriografinis laikotarpio vardas, be atskiro apibrėžimo.
@@ -119,13 +96,17 @@ Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intens
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/autoriai/S. Daukantas]]
+- [[objektai/zodynas/vyskupystė]]
 - [[objektai/ivykiai/1830-1831 m. ir 1863 m. sukilimai]]
 - [[objektai/ivykiai/1905 m. revoliucija Rusijoje]]
 - [[objektai/grupes/Aušrininkai]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/autoriai/Ign. Kraszewskio]]
-- [[objektai/asmenys/Justinas Marcinkevičius]]
+- [[objektai/autoriai/Justinas Marcinkevičius]]
 - [[objektai/autoriai/L. Kondratowicziaus (Wl. Syrokomlės)]]
 - [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
-- [[objektai/asmenys/Vytautas Petkevičius]]
+- [[objektai/autoriai/Vytautas Petkevičius]]

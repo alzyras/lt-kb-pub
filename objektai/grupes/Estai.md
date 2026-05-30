@@ -17,6 +17,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - tauta
@@ -113,16 +114,13 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
+- [[objektai/asmenys/Burchardas iš Hornhauzeno]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/asmenys/Henrikas Botelis]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Suomiai]]
-- [[objektai/grupes/Varmiai]]
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/zodynas/Vidivarijai]]

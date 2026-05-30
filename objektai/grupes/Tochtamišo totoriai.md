@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - mūšis
@@ -138,7 +139,6 @@ tags:
 - [[objektai/ivykiai/Vorsklos katastrofa]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
-- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]

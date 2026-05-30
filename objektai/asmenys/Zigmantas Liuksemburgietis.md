@@ -17,6 +17,7 @@ amziai:
 date_start: '1420'
 date_end: '1430'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - karalius
@@ -284,6 +285,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vasalas]]

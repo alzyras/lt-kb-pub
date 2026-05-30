@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - kraštas
   - paprotys
@@ -138,9 +139,11 @@ Nenurodyta
 - [[objektai/grupes/Anglai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/zodynas/klaipėdiečiai]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/tranzitas]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/zodynas/Suverenitetas]]

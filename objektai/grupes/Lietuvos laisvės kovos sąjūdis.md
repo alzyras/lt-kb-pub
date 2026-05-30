@@ -1,7 +1,7 @@
 ---
 tipas: grupe
 pavadinimas: "Lietuvos laisvės kovos sąjūdis"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "LLKS"
   - "Sąjūdis"
@@ -32,6 +32,7 @@ amziai:
 date_start: '1945'
 date_end: '2026'
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Lietuvos laisvės kovos sąjūdis

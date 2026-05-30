@@ -26,6 +26,7 @@ amziai:
 date_start: '1794'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - kraštas
   - privilegija
@@ -93,5 +94,4 @@ tags:
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/zodynas/autokratinė monarchinė imperija]]

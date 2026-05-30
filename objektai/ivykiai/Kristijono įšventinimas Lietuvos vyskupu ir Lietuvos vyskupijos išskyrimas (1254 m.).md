@@ -16,6 +16,7 @@ amziai:
 date_start: '1254'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karalius
@@ -90,6 +91,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Inocentas IV]]
 - [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/metropolitas]]

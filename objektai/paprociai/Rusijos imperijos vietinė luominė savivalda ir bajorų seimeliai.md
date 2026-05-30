@@ -22,6 +22,7 @@ amziai:
 date_start: '1794'
 date_end: '1795'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - bajorija
   - miestas

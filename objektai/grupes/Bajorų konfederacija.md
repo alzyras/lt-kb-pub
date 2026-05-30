@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - bajorija
   - grupe
@@ -55,11 +56,11 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/ivykiai/Žemaičių sukilimas (1656 m.)]]
+- [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Pacai]]

@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: "naujakrikštis"
-sukurta: "2026-05-30"
+sukurta: '2026-05-30'
 variantai:
   - "naujakrikščių"
 aliases: []
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-30'
 tags: []
 ---
 # naujakrikštis
@@ -60,6 +61,10 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
     - c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Dusburgietis teigia, kad tiems, kurie, išsižadėję stabmeldystės, priima Kristaus tikėjimą, broliai teikia štai šias malones. Aukštos kilmės ir kilmingo kraujo žmogui duoda tiek žemės be prievolių [bona ei libera conferuntur], kad jis galėtų taip gyventi, kaip dera jo luomo žmogui.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Aukštos kilmės ir nekilmingų naujakrikščių padėtis nusakoma nevienodai.
@@ -105,7 +110,12 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   pagrindžia:
     - t-001
     - t-003
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/luomas]]
+- [[objektai/asmenys/Dargis]]
+- [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]
+- [[objektai/asmenys/Fridrichas Kvicas]]
+- [[objektai/paprociai/Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus]]

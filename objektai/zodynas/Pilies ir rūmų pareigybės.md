@@ -1,7 +1,7 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pilies ir rūmų pareigybės (pilis)'
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - 'raktininkas'
   - 'parakčia'
@@ -25,11 +25,12 @@ variantai:
   - 'vyno pilstytoju'
   - 'pilies ir rūmų pareigybės'
 saltiniai:
-  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  - Vytautas Didysis 1350-1430 (1930 m.)
+- Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+- Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: aukštas
 aliases:
   - 'pilies ir rūmų pareigybės'
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # pilies ir rūmų pareigybės (pilis)
@@ -94,8 +95,7 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
 - [[objektai/zodynas/rūmininkas vyno pilstytojas]]

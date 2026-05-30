@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
 ---
@@ -53,7 +54,7 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Bernardas (abatas)]]
+- [[objektai/asmenys/Bernardas]]
 - [[objektai/asmenys/Gertrude Ellion]]
 - [[objektai/asmenys/Sydney Brenner]]
 - [[objektai/zodynas/Adynos|adynos]]

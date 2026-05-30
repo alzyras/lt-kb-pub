@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
 ---
@@ -52,4 +53,5 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Pilys]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

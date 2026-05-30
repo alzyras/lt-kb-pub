@@ -17,6 +17,7 @@ amziai:
 date_start: '1595'
 date_end: '1599'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - posakis
   - tauta

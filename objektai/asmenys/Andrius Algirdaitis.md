@@ -1,7 +1,7 @@
 ---
 tipas: asmuo
 pavadinimas: Andrius Algirdaitis
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - Andrius Algirdaitis
   - Andrius
@@ -27,6 +27,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - kunigaikštis
 ---
@@ -165,35 +166,9 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/paliaubos]]
-- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
-- [[objektai/ivykiai/1991 m. sausio 13 d]]
-- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
-- [[objektai/asmenys/Andrius Polockietis]]
-- [[objektai/asmenys/Andrius Sniadeckis]]
-- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
-- [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis (istorikas)]]
-- [[objektai/asmenys/Johanas Pėteris Frankas]]
-- [[objektai/asmenys/Jozefas Frankas]]
-- [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
-- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.)]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas|Mindaugo krikštas ir karūnos išsirūpinimas (krikštas)]]
-- [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
-- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/asmenys/Spytkas iš Melsztyno]]
-- [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
-- [[objektai/grupes/Rygos vokiečiai]]

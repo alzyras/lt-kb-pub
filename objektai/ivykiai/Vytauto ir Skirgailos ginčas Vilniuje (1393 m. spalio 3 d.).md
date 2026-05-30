@@ -16,6 +16,7 @@ amziai:
 date_start: '1393'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
 ---
@@ -65,5 +66,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Skirgaila]]

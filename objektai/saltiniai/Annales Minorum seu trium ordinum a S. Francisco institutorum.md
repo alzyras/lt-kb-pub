@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Annales Minorum seu trium ordinum a S. Francisco institutorum

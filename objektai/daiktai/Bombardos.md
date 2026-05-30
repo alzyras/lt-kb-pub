@@ -21,6 +21,7 @@ amziai:
 date_start: '1383'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
   - ginklas
@@ -156,5 +157,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vytautas]]

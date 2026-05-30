@@ -1,7 +1,7 @@
 ---
 tipas: posakis
 pavadinimas: "Papam vestrum nec novi, nec nosse cupio"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Jūsų Tėvo nei pažinojau, nei trokštu pažinti"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Papam vestrum nec novi, nec nosse cupio
@@ -118,6 +119,6 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/autoriai/Albertas Krantzas]]

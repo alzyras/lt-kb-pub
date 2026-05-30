@@ -1,0 +1,124 @@
+---
+tipas: ivykis
+pavadinimas: 'Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)'
+sukurta: '2026-05-30'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1229 m.'
+  - '1236 m.'
+  - '1238 m.'
+  - '1242 m.'
+  - '1243 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+date_start: '1229'
+date_end: '1243'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-30'
+tags:
+  - ivykis
+  - mūšis
+  - ordinas
+  - sukilimas
+---
+# Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)
+
+## Santrauka
+
+Dusburgietis teigia, kad lietuviai, atrėmę ir sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą — Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke. Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Dusburgietis teigia, kad lietuviai, atrėmę ir sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą — Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
+  pagrindžia:
+    - c-003
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dusburgietis teigia, kad lietuviai, atrėmę ir sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą — Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
+    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
+    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
+    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
+    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir
+    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir
+    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
+    — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
+    prūsų kovą nuo Lietuvos, jos karinių pastangų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šia proga jis kalba apie didžiulę prūsų  ir
+    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
+    — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
+    prūsų kovą nuo Lietuvos, jos karinių pastangų.
+      Dusburgiečio kronikoje nepaisoma ir kitų faktų145.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vakariniai baltai]]
+- [[objektai/asmenys/Henrikas iš Hohenlohės]]
+- [[objektai/grupes/Lietuviai]]

@@ -15,6 +15,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - grupe
@@ -72,4 +73,5 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/daiktai/Tik Lietuvai būdingi dvinariai žąslai su skersinukais]]

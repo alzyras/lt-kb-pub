@@ -1,12 +1,13 @@
 ---
 tipas: 'zodyno_irasas'
 pavadinimas: kūrėjų kūrėjas
-sukurta: 2026-04-30
+sukurta: '2026-04-30'
 variantai:
   - kūrėjų kūrėjo
 saltiniai:
   - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 patikimumas: aukštas
+atnaujinta: '2026-04-30'
 ---
 # kūrėjų kūrėjas
 
@@ -125,5 +126,6 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - [[objektai/daiktai/Malkinė]]
 - [[objektai/paprociai/Vyresnybės įsakymų skelbimas krivūle]]
 - [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
+- [[objektai/daiktai/Ūkės lazda]]
 - [[objektai/paprociai/Žynio gyvenimas šventoje girioje ir siuntinių priėmimas po lapine]]
 - [[objektai/zodynas/Žemlionis|žemlionis]]

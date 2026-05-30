@@ -26,6 +26,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - simbolis
 ---
@@ -208,7 +209,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/autoriai/Mickevičius]]

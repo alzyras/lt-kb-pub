@@ -37,6 +37,7 @@ amziai:
 date_start: '1368'
 date_end: '2026'
 patikimumas: 'aukstas'
+atnaujinta: '2026-04-28'
 tags:
   - ivykis
   - karas
@@ -166,5 +167,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]

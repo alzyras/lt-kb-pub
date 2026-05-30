@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - daiktas
   - ginklas
@@ -76,9 +77,19 @@ Nenurodyta
 - [[objektai/daiktai/Ietys]]
 - [[objektai/daiktai/Akstys]]
 - [[objektai/daiktai/Balnakilpės]]
+- [[objektai/ivykiai/Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/daiktai/Ietis]]
+- [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]
+- [[objektai/daiktai/Karinė ginkluotė]]
+- [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]
+- [[objektai/ivykiai/Kroicburgo pilies sugriovimas (1263 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Margalis (Margirius )]]
+- [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
+- [[objektai/grupes/Notangai]]
 - [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]
+- [[objektai/daiktai/Skobnis]]
+- [[objektai/daiktai/Skydas]]
 - [[objektai/autoriai/Z. Raulinaitis]]

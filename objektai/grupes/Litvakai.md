@@ -18,6 +18,7 @@ amziai:
 date_start: '1967'
 date_end: '1975'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - mokslininkas

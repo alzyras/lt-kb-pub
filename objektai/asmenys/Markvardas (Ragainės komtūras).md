@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -62,9 +63,14 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Fridrichas, vadinamas Hole]]
+- [[objektai/asmenys/Liudvikas iš Libencelės]]
+- [[objektai/asmenys/Markvardas iš Revelingės]]
+- [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/ginklanešys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

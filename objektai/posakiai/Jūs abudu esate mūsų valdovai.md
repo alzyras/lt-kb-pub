@@ -19,6 +19,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags: []
 ---
 # Jūs abudu esate mūsų valdovai
@@ -68,6 +69,5 @@ Formulė keliuose pasakojimuose pateikiama kaip iškilmingas Jogailos ir Vytauto
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]

@@ -41,6 +41,7 @@ amziai:
 date_start: '1320'
 date_end: '2026'
 patikimumas: 'žemas'
+atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - grupe
@@ -414,6 +415,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Jekaterina II]]
 - [[objektai/zodynas/Jidiš]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
@@ -430,7 +432,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/grupes/Andrejaus Vlasovo armija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/grupes/Armėnai]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/autoriai/Benjaminas iš Tudelio]]
@@ -438,12 +439,14 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/autoriai/Dieckmann Ch]]
 - [[objektai/asmenys/Dominykas Semaško]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
+- [[objektai/asmenys/Henrikas iš Kunceno]]
 - [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
 - [[objektai/daiktai/Išsaugotos Toros]]
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
 - [[objektai/zodynas/Kahalai]]
 - [[objektai/daiktai/Kino kronikos kameros]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuvių aktyvistų frontas]]
@@ -460,7 +463,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/grupes/MOPR]]
 - [[objektai/autoriai/Maironis]]
 - [[objektai/grupes/Miestelėnų luomas]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/ivykiai/Nacių Vokietijos okupacija Lietuvoje (1941-1944 m.)]]
 - [[objektai/asmenys/Otokaras (Čekijos karalius)]]
@@ -475,6 +477,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą]]
 - [[objektai/daiktai/Sutikimo vartai]]
 - [[objektai/autoriai/Sužiedėlis S]]
+- [[objektai/posakiai/Tikiu dievą tėvą, visagalį]]
 - [[objektai/grupes/Tilžės gestapo būrys]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
 - [[objektai/ivykiai/Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.)]]
@@ -491,6 +494,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/zodynas/krajovcai]]
 - [[objektai/zodynas/krajovcai kraštiečiai]]
 - [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/zodynas/pasaulietis]]
 - [[objektai/zodynas/Pusrytės|pusrytės]]
 - [[objektai/zodynas/valymo operacijos]]
 - [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]

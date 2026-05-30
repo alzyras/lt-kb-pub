@@ -26,6 +26,7 @@ amziai:
 date_start: '1648'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus

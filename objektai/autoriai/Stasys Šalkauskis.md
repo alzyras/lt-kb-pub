@@ -18,6 +18,7 @@ amziai:
 date_start: '1919'
 date_end: '2007'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - autorius
   - tauta

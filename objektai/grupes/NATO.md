@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - valstybė
@@ -64,6 +65,7 @@ tags:
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/autoriai/Audronius Ažubalis]]
 - [[objektai/asmenys/Džordžas Bušas]]
 - [[objektai/asmenys/Džordžas Robertsonas]]
 - [[objektai/ivykiai/JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)]]

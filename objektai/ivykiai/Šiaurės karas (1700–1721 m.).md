@@ -19,6 +19,7 @@ amziai:
 date_start: '1700'
 date_end: '1721'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karas

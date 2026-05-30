@@ -21,6 +21,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - kunigaikštis
@@ -156,13 +157,11 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/daiktai/Kristaus Kančios relikvija]]
 - [[objektai/grupes/Maskvos kunigaikštija]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/asmenys/Sofija Vytautaitė]]
 - [[objektai/autoriai/Spycinas]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
-- [[objektai/grupes/Vengrai]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
 - [[objektai/asmenys/Vosylius II]]
 - [[objektai/asmenys/Zofija Algimantaitė]]

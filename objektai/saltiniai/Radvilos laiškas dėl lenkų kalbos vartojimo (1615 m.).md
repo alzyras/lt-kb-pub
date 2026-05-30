@@ -19,6 +19,7 @@ amziai:
 date_start: '1615'
 date_end: '1697'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - mūšis
   - saltinis

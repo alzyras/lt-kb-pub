@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Akademijos teatro įranga
-sukurta: 2026-05-27
+sukurta: '2026-05-27'
 variantai:
   - pakyla
   - avanscenos
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-27'
 tags:
   - įrankis
 ---
@@ -125,4 +126,5 @@ Nenurodyta
 - [[temos/įrankis]]
 
 ### Susiję objektai
+- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]

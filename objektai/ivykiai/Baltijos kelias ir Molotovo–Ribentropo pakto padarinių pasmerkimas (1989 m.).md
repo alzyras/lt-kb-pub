@@ -20,6 +20,7 @@ amziai:
 date_start: '1939'
 date_end: '1989'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-18'
 tags:
   - ivykis
   - tauta

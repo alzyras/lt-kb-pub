@@ -17,6 +17,7 @@ amziai:
 date_start: '1618'
 date_end: '1648'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - karas

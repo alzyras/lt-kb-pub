@@ -18,6 +18,7 @@ amziai:
 date_start: '1955'
 date_end: '1960'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - pilis
   - tauta

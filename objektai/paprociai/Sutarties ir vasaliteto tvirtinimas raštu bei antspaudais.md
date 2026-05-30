@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
+atnaujinta: '2026-05-05'
 tags: []
 ---
 # Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)
@@ -113,8 +114,7 @@ Praktika minima Vytauto santykiuose su Ordinu ir Jogailos dokumentiniame pažad�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/asmenys/Lengvenis]]
 - [[objektai/grupes/Lenkai]]

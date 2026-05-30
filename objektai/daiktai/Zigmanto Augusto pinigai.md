@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - daiktas
   - karalius
@@ -120,6 +121,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Herbas]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Zigmantas Augustas]]

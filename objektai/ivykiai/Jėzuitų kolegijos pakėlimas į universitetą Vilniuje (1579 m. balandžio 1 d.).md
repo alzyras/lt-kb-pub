@@ -24,6 +24,7 @@ dalyviai:
   - 'Valerijonas Protasevičius'
 susije_irasai: []
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.)

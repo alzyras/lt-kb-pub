@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Sidabruotos geležinės balnakilpės
-sukurta: 2026-05-02
+sukurta: '2026-05-02'
 variantai:
   - sidabruotos geležinės XI-XIII a. balnakilpės
   - sidabruotos geležinės XI-XII a. balnakilpės
@@ -23,6 +23,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-02'
 tags:
   - daiktas
 ---
@@ -88,5 +89,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Balnakilpės]]
+- [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/autoriai/Hermanas Vartbergė]]
 - [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]

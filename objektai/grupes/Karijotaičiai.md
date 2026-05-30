@@ -22,6 +22,7 @@ amziai:
 date_start: '1366'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
   - kunigaikštis
@@ -237,15 +238,14 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Ziemovitas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Chadžibėjus]]
 - [[objektai/asmenys/Dmitrijus (totorių vadas)]]
 - [[objektai/asmenys/Kutlubuga]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/daiktai/Vytauto vėliava]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 53.
+Objektų skaičius: 52.
 
 ## Kaip naudoti
 
@@ -27,7 +27,6 @@ Objektų skaičius: 53.
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/asmenys/Teodoras]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 
 ### Autoriai
 - [[objektai/autoriai/I. Jonynas]]
@@ -50,7 +49,7 @@ Objektų skaičius: 53.
 - [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/grupes/Liuksemburgiečių dinastija]]
 - [[objektai/grupes/Piastų dinastija]]
-- [Riurikaičių dinastija](../objektai/grupes/Riurikai%C4%8Di%C5%B3%20dinastija)
+- [[objektai/grupes/Riurikaičių dinastija]]
 - [Romanovų dinastija](../objektai/grupes/Romanov%C5%B3%20dinastija)
 - [Saksų dinastija](../objektai/grupes/Saks%C5%B3%20dinastija)
 - [Vazų dinastija](../objektai/grupes/Vaz%C5%B3%20dinastija)

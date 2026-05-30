@@ -18,6 +18,7 @@ amziai:
 date_start: '1916'
 date_end: '1918'
 patikimumas: 'žemas'
+atnaujinta: '2026-04-25'
 tags:
   - tauta
   - vieta

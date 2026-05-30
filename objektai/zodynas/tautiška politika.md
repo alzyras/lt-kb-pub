@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - ordinas
   - sąvoka
@@ -46,4 +47,4 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Traidenis]]
-- [[objektai/asmenys/Vytenis]]
+- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]

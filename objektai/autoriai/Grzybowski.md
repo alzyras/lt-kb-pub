@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Grzybowski"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Grzybowskis"
   - "Grzybowski"
@@ -24,6 +24,7 @@ vaidmenys:
   - dvasininkas
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags:
   - autorius
 ---

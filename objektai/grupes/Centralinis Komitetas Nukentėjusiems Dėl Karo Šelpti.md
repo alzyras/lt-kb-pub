@@ -29,6 +29,7 @@ amziai:
 date_start: '1915'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-24'
 tags:
   - grupe
   - karas

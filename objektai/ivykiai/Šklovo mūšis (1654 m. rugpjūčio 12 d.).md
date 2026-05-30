@@ -29,6 +29,7 @@ amziai:
 date_start: '1612'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-02'
 tags:
   - mūšis
 ---

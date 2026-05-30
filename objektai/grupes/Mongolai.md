@@ -18,6 +18,7 @@ amziai:
 date_start: '1272'
 date_end: '1328'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - grupe
 ---
@@ -92,10 +93,11 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/asmenys/Karolis IV]]
+- [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kondominiumas]]
 - [[objektai/zodynas/pilėnai nuolatiniai karo tarnybininkai]]
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Haličo kunigaikščiai]]

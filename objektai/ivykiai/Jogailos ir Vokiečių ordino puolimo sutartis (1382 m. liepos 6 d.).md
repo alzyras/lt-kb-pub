@@ -16,6 +16,7 @@ amziai:
 date_start: '1382'
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ivykis
   - karas
@@ -106,11 +107,10 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/paliaubos]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]

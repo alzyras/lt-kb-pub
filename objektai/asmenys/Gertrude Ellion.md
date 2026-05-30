@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - asmuo
 ---
@@ -49,7 +50,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Bernardas (abatas)]]
+- [[objektai/asmenys/Bernardas]]
 - [[objektai/asmenys/Sydney Brenner]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Bernardas Berensonas]]

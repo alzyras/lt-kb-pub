@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai: []
 aliases: []
 saltiniai:
@@ -20,6 +20,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra
@@ -124,7 +125,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/Pilininkas]]

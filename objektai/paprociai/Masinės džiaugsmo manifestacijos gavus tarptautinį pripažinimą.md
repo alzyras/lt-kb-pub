@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -23,6 +23,7 @@ dalyviai:
   - "A. Smetona"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą

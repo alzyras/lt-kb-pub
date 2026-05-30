@@ -10,15 +10,17 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1226 m.'
   - '1230 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
   - 'viduramžiai'
 amziai:
   - 'XIII'
-date_start: '1230'
-date_end: ''
+date_start: '1226'
+date_end: '1230'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - vyskupas
@@ -30,107 +32,123 @@ tags:
 Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, kuriam turėjo ir priklausyti. Kristijonui pasisekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215 m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius. Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo.'
+- t-005
+  teiginys: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai.'
   pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus.'
+    - c-005
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
   pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: '1230 m. Kristijonas, pirmasis prūsų vyskupas misionorius, su Mozūrų kunigaikščiu Konradu pasikvietė į pagalbą Mergelės Marijos ordiną.'
+    - c-006
+- t-007
+  teiginys: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
   pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+    - c-007
+- t-008
+  teiginys: 'Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui Vilhelmui, Dirsovijos grafams — vyresniajam ir.'
   pagrindžia:
-    - c-004
-
+    - c-008
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-005
+  santrauka: 'Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei Dobrynės brolių pastangos, tačiau prūsai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Bet tokio reikšmingo aniems laikams religiškai-politinio fakto,
-    kaip lietuvių tautos krikšto datos atkėlimas eilę generacijų anks­
-    čiau, į XIII amžiaus vidurį, suponuoja reikalą motyvuotai atsakyti
-    bent į tris klausimus. Pirmiausia reikia išaiškinti, kodėl taip ne­
-    patvari buvo mindauginė vyskupija, kurioje nebuvo spėta suorga­
-    nizuoti parapijų. « Lietuvos diecezijai » buvo lemta greitai žlugti,
-    ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
-    pasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn
-    nebeįkėlė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų
-    kraštas, būtent, Prūsų žemė, kuris Livonijos riterių ir kryžininkų
-    prieaugliui tapo rimtas varžovas. Ten nuo 1216 metų, gavęs «Prūsų
-    vyskupo» titulą ir Romos palaikomas, veikė cistersų vienuolis Kris­
-    tijonas^73. Jis paskutinis taikiu būdu bandė krikštyti prūsus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1230 m. Kristijonas, pirmasis prūsų vyskupas misionorius, su Mozūrų kunigaikščiu Konradu pasikvietė į pagalbą Mergelės Marijos ordiną.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
-    sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo
-    prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­
-    čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­
-    jamų kryžių paprastai vadinamas kryžiuočių Ordinu.
-    Taip lietuvių tautos įkliuvo tarp dviejų agresingų, stiprių
-    ir karingų germanų organizacijų.
+    Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“. Ir štai Teutonų
+    ordino broliai pradėję su jais naują karą (II, 7).
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+    - t-005
+- c-006
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
-    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
-    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
-    toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
-    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
+    Apie tai, kaip prūsai niokojo Kulmo žemę
+
+      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
+    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
+    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
+    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
+    Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą.
   citata_rodoma: ''
-  teiginio_tipas: faktas
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-006
+- c-007
+  santrauka: 'Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau suprato, kad ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono ir kai kurių savo didikų patariamas, savo žemei ginti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Kristaus karių ordino brolius
+
+      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
+    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
+    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
+    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
+    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
+    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
+    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
+      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
+    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui Giunteriui, Kujavijos — Mykolui ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui Vilhelmui, Dirsovijos grafams — vyresniajam ir.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šitai padaryta apie 1226 (1230)
+    viešpaties metus173, dalyvaujant pasirašiusiems liudytojams, būtent: Mazovijos vyskupui
+    Giunteriui, Kujavijos — Mykolui  ir Prūsijos — Kristijonui, abatui Gernuldui, dekanui
+    Vilhelmui, Dirsovijos grafams — vyresniajam ir jaunesniajam Boguslavams, kancleriui
+    Jonui, vicekancleriui Grigaliui ir daugybei kitų taurių dvasininkų bei pasauliečių174.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
+- [[objektai/grupes/Cistersų ordinas]]
+- [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]
 - [[objektai/grupes/Dobrinės ordinas]]
 - [[objektai/ivykiai/Dobrinės ordino įkūrimas]]
+- [[objektai/grupes/Dobrynės broliai]]
+- [[objektai/zodynas/Kristaus kariai]]
+- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]
+- [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]
 - [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
 - [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
 - [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais]]
+- [[objektai/ivykiai/Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas]]
 - [[objektai/zodynas/interliudas]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas)]]
+- [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas)]]
+- [[objektai/asmenys/Gernuldas]]
+- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
+- [[objektai/asmenys/Jonas (kancleris)]]
+- [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]
+- [[objektai/asmenys/Mykolas (Kujavijos vyskupas)]]
+- [[objektai/asmenys/Vilhelmas (dekanas)]]

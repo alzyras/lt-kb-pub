@@ -1,7 +1,7 @@
 ---
 tipas: autorius
 pavadinimas: "Romas Dubonis"
-sukurta: "2026-05-27"
+sukurta: '2026-05-27'
 variantai:
   - "Romas Dubonis"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys:
   - meninis redaktorius
 susije_irasai: []
 patikimumas: "aukštas"
+atnaujinta: '2026-05-27'
 tags: []
 ---
 # Romas Dubonis
@@ -70,3 +71,4 @@ Romas Dubonis nurodytas kaip 2007 m. „Vilniaus miesto istorijos“ leidimo men
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lotynai]]

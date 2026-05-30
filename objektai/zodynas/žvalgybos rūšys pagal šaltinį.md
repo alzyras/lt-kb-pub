@@ -13,6 +13,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - sąvoka
 ---
@@ -62,4 +63,5 @@ k atvirų šaltinių žvalgybą (osINT), taktinę ri es bet baat " + Įtvirtinim
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Duona]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

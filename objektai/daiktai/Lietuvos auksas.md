@@ -1,7 +1,7 @@
 ---
 tipas: "daiktas"
 pavadinimas: "Lietuvos auksas"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai:
   - "Lietuvos auksas"
 aliases: []
@@ -22,6 +22,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "vidutinis"
+atnaujinta: '2026-05-14'
 tags:
   - pinigai
 ---

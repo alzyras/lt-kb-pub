@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 5.
+Objektų skaičius: 10.
 
 ## Kaip naudoti
 
@@ -21,9 +21,20 @@ Objektų skaičius: 5.
 ### Asmenys
 - [[objektai/asmenys/Romas Kalanta]]
 
+### Daiktai
+- [[objektai/daiktai/Smilkytuvas ir žvakės]]
+
+### Grupės
+- [[objektai/grupes/Baltų žyniai]]
+
 ### Papročiai
 - [[objektai/paprociai/Maro aukų laidojimas Šv. Roko vienuolių eremitų rankomis]]
 - [[objektai/paprociai/Procesijos ir iškilmingos laidotuvės]]
+- [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]
+- [[objektai/paprociai/Žuvusiųjų laidojimas mūšio lauke po Kulmo kautynių|Žuvusiųjų laidojimas mūšio lauke po Kulmo kautynių (mūšis)]]
+
+### Posakiai
+- [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]
 
 ### Įvykiai
 - [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]

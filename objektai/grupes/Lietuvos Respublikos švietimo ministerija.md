@@ -9,6 +9,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
 ---
@@ -47,7 +48,6 @@ tags:
 ### Susiję objektai
 - [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Adolfas Šapoka]]
+- [[objektai/autoriai/Adolfas Šapoka]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Kazimieras Masiliūnas]]
 - [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]

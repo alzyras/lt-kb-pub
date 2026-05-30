@@ -23,6 +23,7 @@ amziai:
 date_start: '1394'
 date_end: '1432'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - valdovas
@@ -672,30 +673,24 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
-- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
 - [[objektai/grupes/Gediminaičių šeima]]
 - [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Jogailos palikuonys]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - [[objektai/asmenys/Sofija Vytautaitė]]
-- [[objektai/daiktai/Vaišių stalai]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
-- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
 - [[objektai/asmenys/Vyguntas]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
 - [[objektai/grupes/Čekijos husitai]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
 - [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]

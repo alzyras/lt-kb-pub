@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - ivykis
   - karalius
@@ -79,6 +80,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
 - [[objektai/asmenys/Brunonas Bonifacijus]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Netimeras]]

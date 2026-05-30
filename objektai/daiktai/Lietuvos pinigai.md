@@ -1,7 +1,7 @@
 ---
 tipas: daiktas
 pavadinimas: Lietuvos pinigai
-sukurta: 2026-04-24
+sukurta: '2026-04-24'
 variantai:
   - II Lietuvos pinigai
 aliases: []
@@ -36,6 +36,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: aukstas
+atnaujinta: '2026-04-24'
 tags:
   - pinigai
 ---

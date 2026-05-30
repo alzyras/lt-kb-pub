@@ -24,6 +24,7 @@ vaidmenys:
   - Krivių Krivaitis
 susije_irasai: []
 patikimumas: vidutinis
+atnaujinta: '2026-05-27'
 tags:
   - tikėjimas
 ---
@@ -138,8 +139,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
-- [[temos/tikėjimas]]
 
 ### Susiję objektai
+- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/gabija]]

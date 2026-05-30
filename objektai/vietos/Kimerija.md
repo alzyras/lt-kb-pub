@@ -1,7 +1,7 @@
 ---
 tipas: "vieta"
 pavadinimas: "Kimerija"
-sukurta: "2026-04-30"
+sukurta: '2026-04-30'
 variantai:
   - "Kimerija"
   - "Kimerijos"
@@ -21,6 +21,7 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 patikimumas: "aukstas"
+atnaujinta: '2026-04-30'
 tags: []
 ---
 # Kimerija

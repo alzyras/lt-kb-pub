@@ -17,6 +17,7 @@ amziai:
 date_start: '2013'
 date_end: '2026'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-14'
 tags:
   - grupe
   - miestas
@@ -142,7 +143,6 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/asmenys/Zigmantas Vaza]]
 - [[objektai/autoriai/A. Vijūkas Kojelavičius]]
 - [[objektai/asmenys/Albertas Manvydas]]

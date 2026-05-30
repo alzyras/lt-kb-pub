@@ -28,6 +28,7 @@ amziai:
 date_start: '1350'
 date_end: '2026'
 patikimumas: 'aukštas'
+atnaujinta: '2026-04-28'
 tags:
   - daiktas
 ---
@@ -125,10 +126,14 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Iždo ir pilių raktai]]
 - [[objektai/daiktai/Palapinės]]
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]]
+- [[objektai/grupes/Brunsbergo miestiečiai]]
+- [[objektai/ivykiai/Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas|Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas (miestas)]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]
 - [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/zodynas/gurguolė]]
+- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
+- [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai]]
+- [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]
+- [[objektai/zodynas/pilėnas pilėnai]]

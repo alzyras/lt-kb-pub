@@ -24,6 +24,7 @@ amziai:
 date_start: '1242'
 date_end: '2026'
 patikimumas: 'žemas'
+atnaujinta: '2026-04-25'
 tags:
   - ordinas
   - vieta

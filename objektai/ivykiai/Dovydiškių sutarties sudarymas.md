@@ -21,6 +21,7 @@ amziai:
   - 'XIV'
 date_start: '1380'
 date_end: '1380'
+atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - ordinas
@@ -100,7 +101,6 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
 - c-006
   santrauka: 'Vytauto dalyvavimas medžioklėje čia aiškinamas kaip Jogailos priedanga nuo Kęstučio įtarimų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -120,10 +120,9 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vaidotas]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

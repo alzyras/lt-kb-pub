@@ -18,6 +18,7 @@ amziai:
 date_start: '1389'
 date_end: '1425'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - asmuo
   - kunigaikštis
@@ -63,5 +64,5 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 ### Susiję objektai
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/asmenys/Jomantas]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/lenas]]

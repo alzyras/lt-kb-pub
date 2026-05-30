@@ -15,6 +15,7 @@ amziai:
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-20'
 tags:
   - ginklas
   - miestas
@@ -206,6 +207,7 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 - [[objektai/zodynas/karakolė]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/zodynas/raitarai]]
+- [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Švedų gvardijos kavalerija]]
 - [[objektai/asmenys/H. Goštautas]]
 - [[objektai/grupes/LDK 1-oji Tautinė brigada]]

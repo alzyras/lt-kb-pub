@@ -1,7 +1,7 @@
 ---
 tipas: paprotys
 pavadinimas: "Valstybinio turto privatizavimas investiciniais čekiais"
-sukurta: "2026-05-14"
+sukurta: '2026-05-14'
 variantai: []
 aliases: []
 saltiniai:
@@ -23,6 +23,7 @@ dalyviai:
   - "čekių supirkėjai"
 susije_irasai: []
 patikimumas: aukštas
+atnaujinta: '2026-05-14'
 tags: []
 ---
 # Valstybinio turto privatizavimas investiciniais čekiais

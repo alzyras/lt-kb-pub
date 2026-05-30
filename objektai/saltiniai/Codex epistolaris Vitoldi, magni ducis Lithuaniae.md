@@ -17,6 +17,7 @@ datos:
   - '1376-1430'
   - '1882 m.'
 patikimumas: 'vidutinis'
+atnaujinta: '2026-04-25'
 tags: []
 ---
 # Codex epistolaris Vitoldi, magni ducis Lithuaniae
@@ -38,7 +39,6 @@ tags: []
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 - t-004
   teiginys: 'Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.'
   pagrindžia:
@@ -75,7 +75,6 @@ tags: []
   patikimumo_pagrindimas: 'Pilnas leidinio pavadinimas šioje vietoje neišskleistas, bet santrumpa sutampa su anksčiau pateikta bibliografine forma.'
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: Citata pagrindžia bibliografinį C. ep. V. išskleidimą šioje knygoje.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)

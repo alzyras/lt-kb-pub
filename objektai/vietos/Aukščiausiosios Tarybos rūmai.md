@@ -24,6 +24,7 @@ amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
+atnaujinta: '2026-05-02'
 tags: []
 ---
 # Aukščiausiosios Tarybos rūmai (institucija)
