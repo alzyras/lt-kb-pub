@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       tagId: "G-P32S0DY7SH",
     },
     locale: "lt-LT",
-    baseUrl: "alzyras.github.io/lt-kb-pub",
+    baseUrl: "lietuvosistorija.eu",
     ignorePatterns: [
       ".git",
       ".git/**",
@@ -121,6 +121,7 @@ const config: QuartzConfig = {
       }),
       Plugin.CitationSourcesRegistry(),
       Plugin.RobotsTxt(),
+      Plugin.CNAME(),
       Plugin.Assets(),
       Plugin.Static(),
       Plugin.Favicon(),

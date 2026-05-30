@@ -8,19 +8,19 @@ title: Lietuvos istorijos žinių bazė
 
 ## Pagrindinės dėžės
 
-- [Objektai](https://alzyras.github.io/lt-kb-pub/objektai/)
-- [Tyrimai](https://alzyras.github.io/lt-kb-pub/tyrimai/)
-- [Paveikslėliai](https://alzyras.github.io/lt-kb-pub/paveiksleliai/)
+- [Objektai](https://lietuvosistorija.eu/objektai/)
+- [Tyrimai](https://lietuvosistorija.eu/tyrimai/)
+- [Paveikslėliai](https://lietuvosistorija.eu/paveiksleliai/)
 
 ## Objektų kategorijos
 
-- [Asmenys](https://alzyras.github.io/lt-kb-pub/objektai/asmenys/)
-- [Autoriai](https://alzyras.github.io/lt-kb-pub/objektai/autoriai/)
-- [Įvykiai](https://alzyras.github.io/lt-kb-pub/objektai/ivykiai/)
-- [Vietos](https://alzyras.github.io/lt-kb-pub/objektai/vietos/)
-- [Grupės](https://alzyras.github.io/lt-kb-pub/objektai/grupes/)
-- [Daiktai](https://alzyras.github.io/lt-kb-pub/objektai/daiktai/)
-- [Papročiai](https://alzyras.github.io/lt-kb-pub/objektai/paprociai/)
-- [Posakiai](https://alzyras.github.io/lt-kb-pub/objektai/posakiai/)
-- [Žodynas](https://alzyras.github.io/lt-kb-pub/objektai/zodynas/)
-- [Šaltiniai](https://alzyras.github.io/lt-kb-pub/objektai/saltiniai/)
+- [Asmenys](https://lietuvosistorija.eu/objektai/asmenys/)
+- [Autoriai](https://lietuvosistorija.eu/objektai/autoriai/)
+- [Įvykiai](https://lietuvosistorija.eu/objektai/ivykiai/)
+- [Vietos](https://lietuvosistorija.eu/objektai/vietos/)
+- [Grupės](https://lietuvosistorija.eu/objektai/grupes/)
+- [Daiktai](https://lietuvosistorija.eu/objektai/daiktai/)
+- [Papročiai](https://lietuvosistorija.eu/objektai/paprociai/)
+- [Posakiai](https://lietuvosistorija.eu/objektai/posakiai/)
+- [Žodynas](https://lietuvosistorija.eu/objektai/zodynas/)
+- [Šaltiniai](https://lietuvosistorija.eu/objektai/saltiniai/)
