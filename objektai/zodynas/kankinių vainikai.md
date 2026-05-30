@@ -64,5 +64,6 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/tikybos ir bažnyčios priešai]]

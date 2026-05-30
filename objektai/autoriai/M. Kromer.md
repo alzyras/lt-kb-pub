@@ -55,3 +55,4 @@ Kromerio kronikos.
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]

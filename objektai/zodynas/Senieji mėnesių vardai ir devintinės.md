@@ -605,7 +605,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 - [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]
-- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]
 - [[objektai/posakiai/„nei karo, nei taikos“]]
 - [[objektai/posakiai/„nė trijų dienų“]]

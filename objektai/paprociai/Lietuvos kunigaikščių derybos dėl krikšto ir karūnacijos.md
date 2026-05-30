@@ -149,7 +149,6 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Netimeras]]

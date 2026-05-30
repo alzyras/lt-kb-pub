@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Tanenbergas'
+pavadinimas: "Tanenbergas"
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Tannenbergas'
+aliases:
+  - 'Tannenbergas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -27,7 +29,6 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos.'

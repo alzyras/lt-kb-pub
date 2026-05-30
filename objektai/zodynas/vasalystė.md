@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: vasalystė
 sukurta: '2026-04-25'
 variantai:
-- vasalystę
+  - vasalystę
 aliases: []
 saltiniai:
-- A. Šapoka (red.), Lietuvos istorija (1936 m.)
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
 atnaujinta: '2026-04-25'
 tags: []

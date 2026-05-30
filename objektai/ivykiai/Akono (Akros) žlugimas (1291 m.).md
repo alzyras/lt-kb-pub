@@ -69,6 +69,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Mongolai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/naratyviniai šaltiniai]]

@@ -343,7 +343,7 @@ Objektų skaičius: 434.
 - [Čekija](../objektai/vietos/%C4%8Cekija)
 - [Červinskas](../objektai/vietos/%C4%8Cervinskas)
 - [Šklovas](../objektai/vietos/%C5%A0klovas)
-- [Žalgiris](../objektai/vietos/%C5%BDalgiris)
+- [Griunvaldas](../objektai/vietos/Griunvaldas)
 - [Žemaitija](../objektai/vietos/%C5%BDemaitija)
 
 ### Įvykiai
@@ -387,8 +387,8 @@ Objektų skaičius: 434.
 - [Sandomiro pasitarimas dėl Vytauto karūnacijos (1429 m. rugsėjo 8 d.)](../objektai/ivykiai/Sandomiro%20pasitarimas%20d%C4%97l%20Vytauto%20kar%C5%ABnacijos%20%281429%20m.%20rugs%C4%97jo%208%20d.%29)
 - [Smolensko užėmimas (1405 m.)](../objektai/ivykiai/Smolensko%20u%C5%BE%C4%97mimas%20%281405%20m.%29)
 - [Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)](../objektai/ivykiai/Sutartis%20su%20Fridriku%20Brandenburgie%C4%8Diu%20ir%20Jadvygos%20su%C5%BEieduotuv%C4%97s%20%281420%E2%80%931421%20m.%29)
-- [Tanenbergo mūšis (1410 m. liepos 15 d.)](../objektai/ivykiai/Tanenbergo%20m%C5%AB%C5%A1is%20%281410%20m.%20liepos%2015%20d.%29)
-- [Tanenbergo mūšis 1410 m. liepos 15 d](../objektai/ivykiai/Tanenbergo%20m%C5%AB%C5%A1is%201410%20m.%20liepos%2015%20d)
+- [Žalgirio mūšis (1410 m.)](../objektai/ivykiai/%C5%BDalgirio%20m%C5%AB%C5%A1is%20%281410%20m.%29)
+- [Žalgirio mūšis (1410 m.)](../objektai/ivykiai/%C5%BDalgirio%20m%C5%AB%C5%A1is%20%281410%20m.%29)
 - [Torno taika (1411 m.)](../objektai/ivykiai/Torno%20taika%20%281411%20m.%29)
 - [Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)](../objektai/ivykiai/U%C5%BEvolgio%20totori%C5%B3%20sumu%C5%A1imas%20ir%20Machmeto%20i%C5%A1k%C4%97limas%20%C4%AF%20Aukso%20Ordos%20chanus%20%281424%20m.%29)
 - [Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)](../objektai/ivykiai/Vaclovo%20Pragie%C4%8Dio%20sprendimas%20ir%20vieneri%C5%B3%20met%C5%B3%20paliaubos%20su%20Ordinu%20%281409%20m.%29)

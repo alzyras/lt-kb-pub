@@ -115,6 +115,7 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
 - [[objektai/autoriai/Grzybowski]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/posakiai/savo užantyje maitinti gyvatę]]

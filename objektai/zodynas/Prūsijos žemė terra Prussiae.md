@@ -76,6 +76,7 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

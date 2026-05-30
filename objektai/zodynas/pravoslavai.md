@@ -3,15 +3,15 @@ tipas: zodyno_irasas
 pavadinimas: pravoslavai
 sukurta: '2026-05-05'
 variantai:
-- pravoslavai
-- pravoslavams
-- pravoslavų
+  - pravoslavai
+  - pravoslavams
+  - pravoslavų
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 laikotarpis: 1387 m., 1415 m., 1432 m., 1439 m.
 datos:
-- 1387 m., 1415 m., 1432 m., 1439 m.
+  - 1387 m., 1415 m., 1432 m., 1439 m.
 patikimumas: aukštas
 atnaujinta: '2026-05-05'
 tags: []

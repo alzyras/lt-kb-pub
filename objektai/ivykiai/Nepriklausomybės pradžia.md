@@ -94,5 +94,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]

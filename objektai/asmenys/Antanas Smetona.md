@@ -929,6 +929,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tautos atstovai]]
 - [[objektai/daiktai/Šarvuočiai]]

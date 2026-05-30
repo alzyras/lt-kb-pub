@@ -135,6 +135,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - [[objektai/posakiai/supremus dux]]
 - [[objektai/asmenys/Celestinas III]]
 - [[objektai/asmenys/Danielius]]
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Popiežius Celestinas III]]
 - [[objektai/grupes/Tamplierių ordinas]]

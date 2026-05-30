@@ -287,3 +287,4 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - [[objektai/daiktai/Pakeliamas tiltas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/stabmeldys]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]

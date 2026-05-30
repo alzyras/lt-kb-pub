@@ -61,6 +61,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/vietininkas]]

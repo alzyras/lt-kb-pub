@@ -98,6 +98,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/daiktai/Kino kronikos kameros]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]

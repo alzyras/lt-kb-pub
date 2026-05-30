@@ -3,13 +3,13 @@ tipas: zodyno_irasas
 pavadinimas: diarchija
 sukurta: '2026-05-05'
 variantai:
-- dualizmu
-- diarchija
-- diarchiška sistema
-- diarchinė sistema
+  - dualizmu
+  - diarchija
+  - diarchiška sistema
+  - diarchinė sistema
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1377 m.'

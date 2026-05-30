@@ -56,11 +56,11 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Dusburgas]]
 - [[objektai/autoriai/Henrikas Latvis]]
 - [[objektai/autoriai/Hermanas iš Vartbergės]]
 - [[objektai/grupes/Katalikų Bažnyčia]]

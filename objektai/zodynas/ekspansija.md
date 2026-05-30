@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: ekspansija
 sukurta: '2026-05-05'
 variantai:
-- ekspansija
+  - ekspansija
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: aukštas
 atnaujinta: '2026-05-05'
 tags: []

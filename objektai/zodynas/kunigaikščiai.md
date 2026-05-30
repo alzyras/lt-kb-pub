@@ -220,7 +220,6 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/grupes/Okos aukštupio kunigaikščiai]]
 - [[objektai/grupes/Slucko kunigaikščiai]]
 - [[objektai/ivykiai/Vokiečių ordino pasikvietimas pagalbon prieš prūsus]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
 - [[objektai/zodynas/lėnininkai]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]

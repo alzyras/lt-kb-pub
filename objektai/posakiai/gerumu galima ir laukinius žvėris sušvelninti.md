@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: 'gerumu galima ir laukinius žvėris sušvelninti.'
+pavadinimas: "gerumu galima ir laukinius žvėris sušvelninti."
 sukurta: '2026-05-05'
-variantai: []
-aliases: []
+variantai:
+  - '„gerumu galima ir laukinius žvėris sušvelninti.“'
+aliases:
+  - '„gerumu galima ir laukinius žvėris sušvelninti.“'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -54,14 +56,24 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 - t-003
   teiginys: 'Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti.'
   pagrindžia:
-    - c-003
-
+    - c-002
+- t-004
+  teiginys: 'Vytautas, priminus jo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje, atsakė, kad gerumu galima ir laukinius žvėris sušvelninti.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kai
+    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
+    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
+    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
+    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
+    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
+    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
     kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
     riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
     galima ir laukinius žvėris sušvelninti.
@@ -76,7 +88,11 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   santrauka: 'Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kai
+    Kai ant Dniepro
+    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
+    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
+    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
+    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
     kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
     riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
     galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
@@ -90,27 +106,11 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kai
-    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
-    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
-    galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
-    kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
-    rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
-    kalbis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]

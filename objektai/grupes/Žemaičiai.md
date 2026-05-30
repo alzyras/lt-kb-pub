@@ -306,7 +306,6 @@ tags:
 - [[objektai/zodynas/priešmindauginė Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/asmenys/Jonas, vadinamas Pope]]

@@ -73,7 +73,7 @@ Objektų skaičius: 52.
 - [Smolensko sukilimas](../objektai/ivykiai/Smolensko%20sukilimas)
 - [Strėvos mūšis (1348 m.)](../objektai/ivykiai/Str%C4%97vos%20m%C5%AB%C5%A1is%20%281348%20m.%29)
 - [Sukilimas Livonijoje ir Prūsuose po Durbės mūšio](../objektai/ivykiai/Sukilimas%20Livonijoje%20ir%20Pr%C5%ABsuose%20po%20Durb%C4%97s%20m%C5%AB%C5%A1io)
-- [Tanenbergo mūšis 1410 m. liepos 15 d](../objektai/ivykiai/Tanenbergo%20m%C5%AB%C5%A1is%201410%20m.%20liepos%2015%20d)
+- [Žalgirio mūšis (1410 m.)](../objektai/ivykiai/%C5%BDalgirio%20m%C5%AB%C5%A1is%20%281410%20m.%29)
 - [Ukmergės mūšis](../objektai/ivykiai/Ukmerg%C4%97s%20m%C5%AB%C5%A1is)
 - [Vorsklos mūšis](../objektai/ivykiai/Vorsklos%20m%C5%AB%C5%A1is)
 - [Vytenio sąjunga su Rygos arkivyskupu ir rygiečiais](../objektai/ivykiai/Vytenio%20s%C4%85junga%20su%20Rygos%20arkivyskupu%20ir%20rygie%C4%8Diais)

@@ -157,7 +157,6 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]
 - [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
 - [[objektai/ivykiai/Lietuvos okupacija (1940 m.)]]
 - [[objektai/ivykiai/Nepriklausomybės pradžia]]

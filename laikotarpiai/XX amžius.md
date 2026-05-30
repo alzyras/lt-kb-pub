@@ -1142,7 +1142,7 @@ Objektų skaičius: 1222.
 - [Susivienijimo Lietuvių Amerikoje skilimas ir trečiojo susivienijimo atsiradimas (1901–1930 m.)](../objektai/ivykiai/Susivienijimo%20Lietuvi%C5%B3%20Amerikoje%20skilimas%20ir%20tre%C4%8Diojo%20susivienijimo%20atsiradimas%20%281901%E2%80%931930%20m.%29)
 - [Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)](../objektai/ivykiai/Suvalk%C5%B3%20derybos%20ir%20sutartis%20%281920%20m.%20rugs%C4%97jo%2020%20d.%20%E2%80%93%20spalio%207%20d.%29)
 - [Taika su Sovietų Rusija (1920 m. liepos 12 d.)](../objektai/ivykiai/Taika%20su%20Soviet%C5%B3%20Rusija%20%281920%20m.%20liepos%2012%20d.%29)
-- [Tanenbergo mūšis 1410 m. liepos 15 d](../objektai/ivykiai/Tanenbergo%20m%C5%AB%C5%A1is%201410%20m.%20liepos%2015%20d)
+- [Žalgirio mūšis (1410 m.)](../objektai/ivykiai/%C5%BDalgirio%20m%C5%AB%C5%A1is%20%281410%20m.%29)
 - [Targovicos konfederacija (1792—1793 m.)](../objektai/ivykiai/Targovicos%20konfederacija%20%281792%E2%80%941793%20m.%29)
 - [Tautai ir valstybei saugoti įstatymo priėmimas ir nacių organizacijų uždraudimas (1934 m.)](../objektai/ivykiai/Tautai%20ir%20valstybei%20saugoti%20%C4%AFstatymo%20pri%C4%97mimas%20ir%20naci%C5%B3%20organizacij%C5%B3%20u%C5%BEdraudimas%20%281934%20m.%29)
 - [Torno taika (1411 m.)](../objektai/ivykiai/Torno%20taika%20%281411%20m.%29)

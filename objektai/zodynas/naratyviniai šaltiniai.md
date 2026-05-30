@@ -112,6 +112,7 @@ Vartojama šaltiniotyros ir istoriografijos klasifikavimo kalboje.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]

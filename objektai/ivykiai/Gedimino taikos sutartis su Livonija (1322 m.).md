@@ -105,5 +105,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]

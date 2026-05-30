@@ -92,5 +92,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/daiktai/Vėliavos]]

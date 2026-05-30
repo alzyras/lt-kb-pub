@@ -3,13 +3,13 @@ tipas: zodyno_irasas
 pavadinimas: kunigaikštija
 sukurta: '2026-05-05'
 variantai:
-- kunigaikštija
-- kunigaikštijos
-- kunigaikštijoj
-- kunigaikštiją
+  - kunigaikštija
+  - kunigaikštijos
+  - kunigaikštijoj
+  - kunigaikštiją
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1391 m.'
@@ -143,8 +143,6 @@ tags: []
 - [[objektai/grupes/Naugardo respublika]]
 - [[objektai/asmenys/Olesnickio]]
 - [[objektai/ivykiai/Salyno sutartis]]
-- [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)]]
 - [[objektai/asmenys/Teodosijus]]
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/asmenys/Vikintas]]
@@ -163,6 +161,7 @@ tags: []
 - [[objektai/zodynas/pravoslavai]]
 - [[objektai/ivykiai/Švarno išvarymas ir Traidenio įsiviešpatavimas (1269 m.)]]
 - [[objektai/zodynas/švietimo apygarda]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
 - [[objektai/posakiai/„civilizaciniam šuoliui“]]
 - [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]

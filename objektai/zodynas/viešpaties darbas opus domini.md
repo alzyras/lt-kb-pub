@@ -53,5 +53,6 @@ Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirt
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/netikėliai]]

@@ -94,7 +94,6 @@ tags:
 - [[objektai/grupes/Valerijono Bursos studentų bendrija]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/zodynas/artilerijos pasala]]
 - [[objektai/zodynas/etmonas]]

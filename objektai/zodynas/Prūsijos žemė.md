@@ -96,6 +96,7 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

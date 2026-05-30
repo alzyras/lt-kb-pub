@@ -7,7 +7,7 @@ variantai:
 aliases:
   - 'apsigynimo ir puolimo sutartis'
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1430 m.'

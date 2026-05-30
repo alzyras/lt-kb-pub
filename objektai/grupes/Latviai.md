@@ -103,6 +103,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - [[objektai/zodynas/sulatvinimas]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Prūsijos žemė]]
 - [[objektai/autoriai/Endzelins J]]

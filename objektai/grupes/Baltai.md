@@ -172,6 +172,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Germanai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Latviai]]

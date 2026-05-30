@@ -341,6 +341,7 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Martynas iš Golino]]

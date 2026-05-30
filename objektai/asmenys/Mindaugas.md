@@ -191,7 +191,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/asmenys/Edividas]]
 - [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
+- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]
 - [[objektai/asmenys/Liutaveras (Pukaveras)]]

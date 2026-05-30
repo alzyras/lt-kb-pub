@@ -108,7 +108,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - [[objektai/daiktai/Pilies raktai|Pilies raktai (pilis)]]
 - [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/ivykiai/Rūdavos mūšis]]
 - [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
 - [[objektai/grupes/Savanorio rinktinė]]
 - [[objektai/daiktai/Sienodaužiai]]

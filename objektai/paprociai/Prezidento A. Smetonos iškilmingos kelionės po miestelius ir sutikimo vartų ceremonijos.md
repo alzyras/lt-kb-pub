@@ -94,6 +94,7 @@ tags:
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/daiktai/Kino kronikos kameros]]
 - [[objektai/daiktai/Sutikimo vartai]]

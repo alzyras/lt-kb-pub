@@ -55,3 +55,4 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/vakariniai baltai]]

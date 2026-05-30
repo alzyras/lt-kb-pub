@@ -64,11 +64,6 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
-  pagrindžia:
-    - c-007
-    - c-006
 - t-006
   teiginys: 'Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas.'
   pagrindžia:
@@ -80,7 +75,18 @@ Nenurodyta
 - t-010
   teiginys: 'Vytautas nuo pat pirmos krikšto dienos aktyviai daly­ vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­ damas juos krikštytis.'
   pagrindžia:
+    - c-006
+    - c-007
+    - c-008
     - c-011
+- t-012
+  teiginys: '1385–1387 m. Kriavo aktas ir Lietuvos krikštas šiame veikale įvardijami kaip viena iš svarbiųjų Lietuvos istorijos datų.'
+  pagrindžia:
+    - c-008
+- t-013
+  teiginys: '1387 m. lietuvių krikštas Aukštaičių žemėje šiame veikale aptariamas kaip papildomas krikšto aktas Lietuvos krikštijimo istorijoje.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -197,15 +203,35 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-014
+  santrauka: '1387 m. Aukštaičių krikštas ir Vilniaus vyskupijos kūrimas čia vadinami papildomais krikšto aktais.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Panašiai ir Mindaugo krikštui norima skirti tokia pat spren­
+    džiamoji reikšmė, Lietuvos pakrikštijimo pradžia laikant 1251 m.
+    Iš to sektu nuosekli išvada, kad Dlugošo kronikoje smulkiai apra­
+    šytas lietuvių krikštas Aukštaičių žemėje (1387), lygiai kaip ir tuo
+    pat metu Lenkijos karaliaus ir didžiojo Lietuvos kunigaikščio Jogai­
+    los pastoviai sostinėje įsteigtoji vyskupija ir parapijų kūrimas,
+    nebebūtų galėję turėti lemiamo vaidmens Lietuvos krikštijimo
+    istorijoje. Tai bebuvę lenku pagalba įvykdytieji papildomi krikšto
+    aktai^6.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]
 - [[objektai/ivykiai/Nepriklausomybės pradžia]]

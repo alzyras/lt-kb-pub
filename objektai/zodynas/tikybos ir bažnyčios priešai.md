@@ -64,5 +64,6 @@ Dusburgietis teigia, kad petras iš Dusburgo akcentuoja, kad Prūsijoje kariauja
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kankinių vainikai]]

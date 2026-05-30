@@ -85,6 +85,10 @@ Nenurodyta
   teiginys: 'Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 , reiškė galą Vytauto didiesiems planams.'
   pagrindžia:
     - c-008
+- t-010
+  teiginys: 'Vytautui po mūšio nakties tamsoje pavyko pabėgti kartu su Žygimantu ir Švitrigaila.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -230,7 +234,7 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]

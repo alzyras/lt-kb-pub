@@ -60,6 +60,7 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/autoriai/Jordanas]]
 - [[objektai/autoriai/Jordanes]]
 - [[objektai/autoriai/Kassiodoras]]

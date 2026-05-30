@@ -52,4 +52,5 @@ Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]

@@ -143,7 +143,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
 - [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/asmenys/Volfgeris]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
 - [[objektai/zodynas/apostazija]]

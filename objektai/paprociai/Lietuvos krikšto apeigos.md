@@ -195,7 +195,7 @@ Nenurodyta
 - [[temos/ritualas]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/Lietuvos krikštas]]
+- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
