@@ -202,6 +202,16 @@ function canonicalUrl(baseUrl: string, slug: SimpleSlug): string {
   return new URL(slug === "/" ? "" : stripSlashes(encodeURI(slug)), base).toString()
 }
 
+function parseFrontmatterDate(value: unknown): Date | undefined {
+  if (value == null || value === "") {
+    return undefined
+  }
+  const text = String(value).trim()
+  const normalized = /^\d{4}-\d{2}-\d{2}$/.test(text) ? `${text}T00:00:00` : text
+  const date = new Date(normalized)
+  return Number.isNaN(date.getTime()) ? undefined : date
+}
+
 export function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
   const base = cfg.baseUrl ?? ""
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => {
@@ -280,6 +290,9 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
           isObjectPage(relativePath) && filePath ? collectCitationMetadata(markdownSource) : null
         const claims = extractClaims(markdownSource)
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
+          const sitemapModifiedDate =
+            parseFrontmatterDate(frontmatter?.modified ?? frontmatter?.updated ?? frontmatter?.atnaujinta) ??
+            parseFrontmatterDate(frontmatter?.created ?? frontmatter?.date ?? frontmatter?.sukurta)
           linkIndex.set(slug, {
             slug,
             filePath: relativePath,
@@ -291,7 +304,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
               ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
               : undefined,
             date: date,
-            modifiedDate: file.data.dates?.modified,
+            modifiedDate: sitemapModifiedDate,
             description: file.data.description ?? "",
             citationFilterable: Boolean(citationMetadata),
             quoteCount: citationMetadata?.quoteCount ?? 0,
