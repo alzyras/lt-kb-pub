@@ -57,14 +57,14 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   teiginys: 'Reg­ ni Vero nostri anno primo [Tad Jūsų Didenybė tegu ne tik kad neprieštarauja šių padidintų muitų išreikalavimui, bet sa­ vuoju senatoriaus autoritetu ir savo giminės iškilumu bei kilmingumu kad netgi panorėtų ir kitus priversti paklusti šiam sprendimui.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir kaupėsi nauji jų turtai, kurių pėdsakai, net ir prie visiško sunykimo ribos, po tiek amžių trukusios val­ džios ir pasisekimo, stebina savo didybe.'
@@ -266,7 +266,31 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
+- c-007
+  santrauka: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiame laiške po parašais yra penki antspaudai.
+    356
+
+    ## Puslapis 373
+
+    IV KNYGA
+    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
+    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
+    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
+    1493 METAIS
+    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
+    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
+    4to, puikiausiai išsilaikęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
   santrauka: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -326,31 +350,7 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šiame laiške po parašais yra penki antspaudai.
-    356
-
-    ## Puslapis 373
-
-    IV KNYGA
-    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
-    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
-    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
-    1493 METAIS
-    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
-    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
-    4to, puikiausiai išsilaikęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -380,7 +380,6 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
-- [[objektai/asmenys/Kristupas Radvila]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Vilniaus pirkliai]]

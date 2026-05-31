@@ -353,6 +353,22 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   teiginys: 'Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t.'
   pagrindžia:
     - c-052
+- t-061
+  teiginys: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
+  pagrindžia:
+    - c-053
+- t-062
+  teiginys: 'Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D.'
+  pagrindžia:
+    - c-054
+- t-063
+  teiginys: '17 d. (sekmadienį) prie Rudavos bažnytkaimio, netoli Karaliaučiaus, vėl susirinko krūvon.'
+  pagrindžia:
+    - c-055
+- t-064
+  teiginys: '1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais^12 , t.'
+  pagrindžia:
+    - c-056
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -1221,3 +1237,64 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-060
+- c-053
+  santrauka: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šią programą A. Kulvietis
+    bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-
+    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
+    programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
+    tekizmą“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-061
+- c-054
+  santrauka: 'Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve
+    Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į
+    jo veikalą, vad.: Preuszens aeltere Geschichte von August von
+    Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
+    Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-062
+- c-055
+  santrauka: '17 d. (sekmadienį) prie Rudavos bažnytkaimio, netoli Karaliaučiaus, vėl susirinko krūvon.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasidalinę mažais būre­
+    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
+    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
+    netoli Karaliaučiaus, vėl susirinko krūvon.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-063
+- c-056
+  santrauka: '1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais^12 , t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1400 m. Kalėdoms į Karaliaučių nuvykę
+    kilmingieji buvo apdovanoti druska ir vilnoniais audiniais^12 , t. y.
+    to meto Lietuvos branginamomis importo prekėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-064

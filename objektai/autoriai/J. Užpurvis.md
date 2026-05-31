@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'J. Užpurvis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1324'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ordinas
   - tauta
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # J. Užpurvis
 
@@ -29,13 +25,15 @@ tags:
 Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai kurie Dusburgiečio kronikos fragmentai buvo verčiami ir į lietuvių kalbą. Lotyniškojo
@@ -45,9 +43,7 @@ Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos ša
     kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

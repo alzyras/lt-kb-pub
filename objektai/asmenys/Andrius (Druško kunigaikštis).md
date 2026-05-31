@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Andrius (Druško kunigaikštis)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1411 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1411'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - privilegija
   - upė
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Andrius (Druško kunigaikštis)
 
@@ -30,16 +26,21 @@ tags:
 3-oji privilegija rašyta Trakuose, datuota 1411 m., kuria di­ dysis kunigaikštis Vytautas, atsi­ liepdamas į vyskupo Mikalojaus ir Vilniaus kapitulos pareiškimus mainais už dvasininkijos Vechatnicos kaimą Volkovisko paviete, esantį kapitulai netinkamoje.
 
 ## Teiginiai
+
 - t-001
   teiginys: '3-oji privilegija rašyta Trakuose, datuota 1411 m., kuria di­ dysis kunigaikštis Vytautas, atsi­ liepdamas į vyskupo Mikalojaus ir Vilniaus kapitulos pareiškimus mainais už dvasininkijos Vechatnicos kaimą Volkovisko paviete, esantį kapitulai netinkamoje.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '3-oji privilegija rašyta Trakuose, datuota 1411 m., kuria di­ dysis kunigaikštis Vytautas, atsi­ liepdamas į vyskupo Mikalojaus ir Vilniaus kapitulos pareiškimus mainais už dvasininkijos Vechatnicos kaimą Volkovisko paviete, esantį kapitulai netinkamoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    3-oji privilegija rašyta
+    Aktuota ir
+    duota antrą gavėnios sekmadienį
+    (vasario 16-ą) 1410 metais mūsų Vil­
+    niaus pilyje]. 3-oji privilegija rašyta
     Trakuose, datuota 1411 m., kuria di­
     dysis kunigaikštis Vytautas, atsi­
     liepdamas į vyskupo Mikalojaus ir
@@ -64,9 +65,7 @@ tags:
     sūnūs ].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

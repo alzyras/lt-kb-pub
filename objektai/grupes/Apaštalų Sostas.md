@@ -172,4 +172,5 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
 - [[objektai/zodynas/prelatai ir kanauninkai]]
 - [[objektai/asmenys/Motiejus (Vilniaus vyskupas)]]
 - [[objektai/zodynas/Puslapis 77]]
+- [[objektai/zodynas/dominija]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]

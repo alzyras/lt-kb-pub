@@ -1,17 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos, Latvijos ir Estijos Baltijos Valstybių Tarybos įkūrimas (1990 m. gegužės 12 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1934 m.'
+  - '1990 m.'
+date_start: '1934'
+date_end: '1990'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - sutartis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos, Latvijos ir Estijos Baltijos Valstybių Tarybos įkūrimas (1990 m. gegužės 12 d.)
 
@@ -20,42 +24,67 @@ tags:
 1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra užsienio politikos pozicija.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuva, Latvija ir Estija įkūrė Baltijos Valstybių Tarybą bendrai užsienio politikos pozicijai rengti.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: '1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra užsienio politikos pozicija.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuva, Latvija ir Estija įkūrė Baltijos Valstybių Tarybą bendrai užsienio politikos pozicijai rengti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Baltijos valstybių santarvės ir bendradarbiavimo
+    Gerai klostėsi ekonominiai san-
+    tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
+    kašenkos diktatūrinis valdymas. 1990 m. gegužės 12 d. Lietuva, Latvija ir
+    Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo
     sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
     užsienio politikos pozicija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: '1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra užsienio politikos pozicija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1990 m. gegužės 12 d. Lietuva, Latvija ir
+    Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo
+    sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
+    užsienio politikos pozicija. Glaudus trijų Baltijos valstybių bendradarbia-
+    vimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Baltijos Valstybių Taryba|Baltijos Valstybių Taryba (institucija)]]
+- [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija]]

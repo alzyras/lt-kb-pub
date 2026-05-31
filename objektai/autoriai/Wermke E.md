@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Wermke E'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1929 m.'
   - '1974 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1929'
 date_end: '1974'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # Wermke E
 
@@ -28,13 +24,15 @@ tags:
 Dusburgietis teigia, kad wermke E.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad wermke E.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad wermke E.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Wermke E. Bibliographie der Geschichte von Ost- und West-preussen bis 1929— 1962
@@ -42,8 +40,6 @@ Dusburgietis teigia, kad wermke E.
       Wernicke E. Marienwerder.—Marienwerder, 1933.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

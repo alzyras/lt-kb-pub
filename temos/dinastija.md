@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 60.
+Objektų skaičius: 59.
 
 ## Kaip naudoti
 
@@ -29,7 +29,6 @@ Objektų skaičius: 60.
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/asmenys/Teodoras]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 
 ### Autoriai
 - [[objektai/autoriai/I. Jonynas]]
@@ -50,7 +49,7 @@ Objektų skaičius: 60.
 - [[objektai/grupes/Gedimino dinastija]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/grupes/Hohenzollernai]]
-- [Jogailaičiai](../objektai/grupes/Jogailai%C4%8Diai)
+- [[objektai/grupes/Jogailaičiai]]
 - [Jogailaičių dinastija](../objektai/grupes/Jogailai%C4%8Di%C5%B3%20dinastija)
 - [Liuksemburgiečių dinastija](../objektai/grupes/Liuksemburgie%C4%8Di%C5%B3%20dinastija)
 - [Piastų dinastija](../objektai/grupes/Piast%C5%B3%20dinastija)

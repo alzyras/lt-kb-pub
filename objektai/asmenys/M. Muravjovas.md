@@ -1,29 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: 'M. Muravjovas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1861 m.'
   - '1904 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1861'
 date_end: '1904'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
   - kunigas
   - sukilimas
+amziai:
+  - 'XIX'
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # M. Muravjovas
 
@@ -32,28 +28,35 @@ tags:
 Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
+  pagrindžia:
+    - c-001
+
 - t-004
   teiginys: 'Muravjovo Koriko laikais XIX a.'
   pagrindžia:
     - c-004
+
+- t-002
+  teiginys: 'Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
+    Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
+    nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
+    ryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
     vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
     mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai
     išmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių
@@ -62,33 +65,11 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     įstatymų aktuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vilniaus švietimo apygardos globėju.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Juk separatizmas tarpo pirmiausia vietos bajoriškoje
-    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
-    nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
-    nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
-    Rusinimo politika 1864–1904 metais
-    Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-
-    manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į
-    pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vil-
-    niaus švietimo apygardos globėju.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis draudimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m. pavasario.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš to gimė sumanymas pakeisti lietuvių raštijoje tradicinį
@@ -98,13 +79,11 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     pavasario.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Muravjovo Koriko laikais XIX a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų,
@@ -119,11 +98,27 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     Koriko laikais XIX a.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Juk separatizmas tarpo pirmiausia vietos bajoriškoje
+    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
+    nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
+    nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
+    Rusinimo politika 1864–1904 metais
+    Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-
+    manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į
+    pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vil-
+    niaus švietimo apygardos globėju.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -132,5 +127,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/separatizmas]]
+- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]
 - [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

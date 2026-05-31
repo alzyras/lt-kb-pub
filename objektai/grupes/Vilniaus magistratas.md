@@ -107,10 +107,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginys: 'Raštininkas Mikola Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­ rika, XVI, 80, karalius priekaištavo Vilniaus magistratui: Kad nesutaria su bendruomene.'
   pagrindžia:
     - c-014
-- t-015
-  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
-  pagrindžia:
-    - c-015
 - t-016
   teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
   pagrindžia:
@@ -123,14 +119,18 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   teiginys: 'Karalius ŽYGIMANTAS Prikabintas LDK antspaudas Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­ niaus miesto knygos, vykstant ribų komisijos teismams tarp jo did. pono Goreckio, Lydos pav. iždininko, ir garb.'
   pagrindžia:
     - c-018
-- t-019
-  teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
-  pagrindžia:
-    - c-019
 - t-020
   teiginys: '410 ## Puslapis 427 IV KNYGA turgumi naudotis, visiškai negaliojant vaito ar advokato, ar tarėjų bei kitų Vilniaus gyventojų draudimams.'
   pagrindžia:
     - c-020
+- t-021
+  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
+  pagrindžia:
+    - c-022
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar­ kiams, įvairius savo reikalavimus ir sumetimus išsakydamas, užtat 1667 metų balandžio 4 dieną Vilniaus magistratas stojo į teismą su Šv.'
@@ -461,48 +461,6 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
-- c-015
-  santrauka: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , Civitatis
-    famulos et Officiales, ob receptum a subditis Capituli vinum
-    sublimatum, et panes contra constitutionem minores factos,
-    —  • -
-    378
-
-    ## Puslapis 395
-
-    IV KNYGA
-    Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­
-    tuvos, Rusios ir visos Prūsijos bei Mazovijos ir 1.1, kunigaikš­
-    tis. Ponas ir tėvonis. Šiuo raštu skelbiame visiems, kam da­
-    bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
-    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
-    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
-    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
-    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
-    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
-    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
-    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
-    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai
-    anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono
-    Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­
-    reigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks-
-    komunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­
-    mą, kadangi privalo paklusti gausybei teisėjų ir būti jų
-    baudžiami pagal tos [kapitulos] tvarką, ypač esant grynai
-    pasaulietiniams reikalams, iškilusiems ir vykstantiems tarp
-    pasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­
-    ka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o
-    civilinei įstaigai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-015
 - c-016
   santrauka: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -606,7 +564,75 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
-- c-019
+- c-020
+  santrauka: '410 ## Puslapis 427 IV KNYGA turgumi naudotis, visiškai negaliojant vaito ar advokato, ar tarėjų bei kitų Vilniaus gyventojų draudimams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    SIGISMUNDUS Rex.
+    410
+
+    ## Puslapis 427
+
+    IV  KNYGA
+    turgumi naudotis, visiškai negaliojant vaito ar advokato, ar
+    tarėjų bei kitų Vilniaus gyventojų draudimams. Visiems ir
+    kiekvienam nurodome ir griežtai įsakome, kad saviems pi­
+    liečiams ir visiems Vilniaus miesto gyventojams ateiti į bet
+    kurias minėtojo pono vyskupo įrengtas mėsines turguje ir
+    čia pirkti mėsą yra neuždrausta ir leidžiama, kitu atveju [jei
+    draustų], pas mus bus pašaukti ir tam pačiam didžiai ger­
+    biamam ponui dabartiniam ar vėliau būsiančiam vyskupui
+    turės pasiaiškinti ir pasiteisinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , Civitatis
+    famulos et Officiales, ob receptum a subditis Capituli vinum
+    sublimatum, et panes contra constitutionem minores factos,
+    —  • -
+    378
+
+    ## Puslapis 395
+
+    IV KNYGA
+    Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­
+    tuvos, Rusios ir visos Prūsijos bei Mazovijos ir 1.1, kunigaikš­
+    tis. Ponas ir tėvonis. Šiuo raštu skelbiame visiems, kam da­
+    bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
+    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
+    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
+    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
+    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
+    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
+    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
+    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
+    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai
+    anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono
+    Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­
+    reigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks-
+    komunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­
+    mą, kadangi privalo paklusti gausybei teisėjų ir būti jų
+    baudžiami pagal tos [kapitulos] tvarką, ypač esant grynai
+    pasaulietiniams reikalams, iškilusiems ir vykstantiems tarp
+    pasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­
+    ka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o
+    civilinei įstaigai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
   santrauka: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -647,33 +673,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-019
-- c-020
-  santrauka: '410 ## Puslapis 427 IV KNYGA turgumi naudotis, visiškai negaliojant vaito ar advokato, ar tarėjų bei kitų Vilniaus gyventojų draudimams.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    SIGISMUNDUS Rex.
-    410
-
-    ## Puslapis 427
-
-    IV  KNYGA
-    turgumi naudotis, visiškai negaliojant vaito ar advokato, ar
-    tarėjų bei kitų Vilniaus gyventojų draudimams. Visiems ir
-    kiekvienam nurodome ir griežtai įsakome, kad saviems pi­
-    liečiams ir visiems Vilniaus miesto gyventojams ateiti į bet
-    kurias minėtojo pono vyskupo įrengtas mėsines turguje ir
-    čia pirkti mėsą yra neuždrausta ir leidžiama, kitu atveju [jei
-    draustų], pas mus bus pašaukti ir tam pačiam didžiai ger­
-    biamam ponui dabartiniam ar vėliau būsiančiam vyskupui
-    turės pasiaiškinti ir pasiteisinti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
+    - t-022
 
 ## Ryšiai
 ### Susiję objektai
@@ -730,4 +730,3 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
 - [[objektai/zodynas/miesto sargyba ir policija]]
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/ivykiai/Žygimanto privilegijos mėsinėms Vilniaus mieste suteikimas (1543 m.)]]

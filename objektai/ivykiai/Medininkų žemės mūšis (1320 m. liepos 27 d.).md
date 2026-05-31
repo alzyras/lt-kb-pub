@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Medininkų žemės mūšis (1320 m. liepos 27 d.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1320 m.'
   - '1322 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1320'
 date_end: '1322'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - mūšis
+amziai:
+  - 'XIV'
 ---
 # Medininkų žemės mūšis (1320 m. liepos 27 d.)
 
@@ -30,26 +24,31 @@ tags:
 Dusburgietis teigia, kad 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama ginklo kovą prieš Vakarų Europos feodalų agresiją, 1320 m. liepos 27 d. Medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIV a. 3-iajame dešimtmetyje, kai rašė savo kroniką Dusburgietis, Lietuva, tęsdama
@@ -65,9 +64,7 @@ Nenurodyta
     pusėje56.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

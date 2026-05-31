@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - pilis
@@ -26,33 +17,54 @@ tags:
 Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių. Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'''' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
+    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
+    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
+    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
+    liavietės, pradėta statyti Šv. Stanislovo katedra8.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Reikš­
@@ -68,27 +80,9 @@ Nenurodyta
     bokštais ir palisadais apjuosti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
-    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
-    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
-    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
-    liavietės, pradėta statyti Šv. Stanislovo katedra8.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -1,79 +1,52 @@
 ---
 tipas: saltinis
 pavadinimas: 'Karaliaus Aleksandro testamentas (1506 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1506 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1506'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - karalius
   - kunigaikštis
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # Karaliaus Aleksandro testamentas (1506 m.)
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 384 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO TESTAMENTAS 1506 METAI (Iš Dogelio rankraščių buv. Paskutinį testamentą ir paskutinę mūsų žemiau išreikštą valią pateikėme, išdėstėme, išreiškėme ir aprašė­ me bei šiuo raštu aprašome. Visa tai ir kiekviena, atskirai suminėta, į dabartinį testamentą, paskutiniąją mūsų valią, įtraukiame, įrašome, išdėstome; norime ir įsakome, kad visais laikais jis būtų tvir­ tas ir nepakeistas, minėto turinio, kad amžiams išliktų savo galioje, ir jo.
 
+Nenurodyta
+
 ## Teiginiai
+
 - t-001
   teiginys: '## Puslapis 384 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO TESTAMENTAS 1506 METAI (Iš Dogelio rankraščių buv.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Paskutinį testamentą ir paskutinę mūsų žemiau išreikštą valią pateikėme, išdėstėme, išreiškėme ir aprašė­ me bei šiuo raštu aprašome.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Visa tai ir kiekviena, atskirai suminėta, į dabartinį testamentą, paskutiniąją mūsų valią, įtraukiame, įrašome, išdėstome; norime ir įsakome, kad visais laikais jis būtų tvir­ tas ir nepakeistas, minėto turinio, kad amžiams išliktų savo galioje, ir jo.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '## Puslapis 384 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO TESTAMENTAS 1506 METAI (Iš Dogelio rankraščių buv.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
-    ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems
-    LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės,
-    Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glins-
-    ko kunigaikščiui Mykolui, Polocko laikytojui Stanislovui Hle-
-    bavičiui, Kauno laikytojui, mūsų maršalkai ir jos šviesybės
-    rūmininkui Albertui Janavičiui, apaštališkojo sosto protono-
-    taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
-    Erazmo, dalyvavusio sprendime, ranka.
 
-    ## Puslapis 384
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    KARALIAUS ALEKSANDRO TESTAMENTAS
-    1506 METAI
-    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje, prie
-    Diplomatinio koJekso)
-    In Nomine Domini Amen.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
-  santrauka: 'Paskutinį testamentą ir paskutinę mūsų žemiau išreikštą valią pateikėme, išdėstėme, išreiškėme ir aprašė­ me bei šiuo raštu aprašome.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Quem quidem vitae spiritum
@@ -108,13 +81,38 @@ tags:
     imame.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
+    ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems
+    LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės,
+    Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glins-
+    ko kunigaikščiui Mykolui, Polocko laikytojui Stanislovui Hle-
+    bavičiui, Kauno laikytojui, mūsų maršalkai ir jos šviesybės
+    rūmininkui Albertui Janavičiui, apaštališkojo sosto protono-
+    taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
+    Erazmo, dalyvavusio sprendime, ranka.
+
+    ## Puslapis 384
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    KARALIAUS ALEKSANDRO TESTAMENTAS
+    1506 METAI
+    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje, prie
+    Diplomatinio koJekso)
+    In Nomine Domini Amen.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
-  santrauka: 'Visa tai ir kiekviena, atskirai suminėta, į dabartinį testamentą, paskutiniąją mūsų valią, įtraukiame, įrašome, išdėstome; norime ir įsakome, kad visais laikais jis būtų tvir­ tas ir nepakeistas, minėto turinio, kad amžiams išliktų savo galioje, ir jo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 389
@@ -151,8 +149,6 @@ tags:
     mums mielų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003

@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Kownacki'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ginklas
@@ -26,13 +17,15 @@ tags:
 Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta­
@@ -47,8 +40,6 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
     pristatyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

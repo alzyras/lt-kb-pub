@@ -112,7 +112,6 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]

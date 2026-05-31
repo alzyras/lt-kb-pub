@@ -1,31 +1,23 @@
 ---
 tipas: saltinis
 pavadinimas: 'Kronika Lechitów i Polaków'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1253 m.'
-  - '1600 m.'
   - '1822 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XVI'
-  - 'XIX'
 date_start: '1253'
 date_end: '1822'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
   - popiežius
   - saltinis
+amziai:
+  - 'XIII'
+  - 'XIX'
 ---
 # Kronika Lechitów i Polaków
 
@@ -34,13 +26,15 @@ tags:
 Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - lavo Baško (vert.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - lavo Baško (vert.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - lavo Baško (vert.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 205
@@ -61,8 +55,6 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
     kupais. (Žr. 1. 244).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

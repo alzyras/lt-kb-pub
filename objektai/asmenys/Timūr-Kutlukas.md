@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Timūr-Kutlukas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -27,22 +18,30 @@ tags:
 Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą. Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-003
+  teiginys: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Timūr-Kutlukas, rengdamasis žygiui į Sarajų, reikalavo, kad Vytautas išduotų jo priešą Tochtamišą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Besirengdamas žygiui į Sarajų, Aukso
@@ -57,15 +56,13 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     visą birželį telkė karius (savo lietuvius,
     jam pavaldžių rusų kunigaikščių karius ir
     kitus) stovykloje prie Kijevo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Timūr-Kutlukas vadovavo totorių pajėgoms, kuriose buvo ir Krymo emyro Edygos kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Totorių pajėgos
@@ -80,19 +77,67 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
     Kutlukas, paprašęs trijų dienų pagalvoti,
     siuntė Vytautui daug galvijų, jaučių, avių,
     sveikino jį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Greičiausiai Vytauto
+    iniciatyva per Maskvos didįjį kunigaikštį
+    Vasilijų Konstantinopolio patriarchas ra-
+    gino Kijevo metropolitą Kiprijoną kviesti
+    tikinčiuosius į karą prieš totorius.
+    Besirengdamas žygiui į Sarajų, Aukso
+    ordos chanas Timūr-Kutlukas atsiuntė savo
+    pasiuntinius pas lietuvių didįjį kunigaikštį
+    Vytautą, kad išduotų jam pabėgusį „carą“
+    Tochtamišą, jo priešą. O Vytautas atsakęs:
+    „caro Tochtamišo neišduosiu, o su caru
+    Timūr-Kutluku noriu matytis pats“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos jungtinės pajėgos
+
+    Lietuviai, žemaičiai, LDK rusų žemių ku-
+    nigaikščiai, Tochtamišo totoriai, talkinin-
+    kai iš Lenkijos, Kryžiuočių ordino kariai,
+    moldavai.
+
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/asmenys/Edyga]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos jungtinės pajėgos]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Totoriai]]
@@ -103,6 +148,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/asmenys/Spytekas iš Melštyno]]
 - [[objektai/grupes/Tochtamišo totoriai]]
@@ -110,4 +156,4 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/daiktai/Šarvinės pirštinės]]
-- [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
+- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]

@@ -124,4 +124,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/autoriai/Jokūbo Beneto]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/posakiai/vartais į Rusiją]]

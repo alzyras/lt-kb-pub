@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Albertas Janavičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1506 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1506'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - miestas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Albertas Janavičius
 
@@ -30,13 +26,15 @@ tags:
 Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atlikta ir duota Vilniuje, antradie­
@@ -60,9 +58,7 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
     (Iš Dogelio rankraščių buv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -63,10 +63,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginys: '1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu.'
   pagrindžia:
     - c-002
-- t-004
-  teiginys: 'Didžiosios Lenkijos miestai, tarp jų Poznanė, garsėjo turtais ir gyventojų gausa.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   pagrindžia:
@@ -111,6 +107,10 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginys: 'Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 metų, 1538 m.'
   pagrindžia:
     - c-015
+- t-016
+  teiginys: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -142,33 +142,6 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-004
-  santrauka: 'Didžiosios Lenkijos miestai, tarp jų Poznanė, garsėjo turtais ir gyventojų gausa.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jau jam valdant Krušvica, Poznanė ir kiti
-    b)
-    Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbin-
-    Bandtk. Capit. XIV p. 70. Mensam ve- gai laikydavo, kad kiekvieną pa­
-    ro suam sic ordinate, sic honorifice re- prastą dieną keturiasdešimt pagrin-
-    tinebat, quod omni die privato quadra- dinių stalų, neskaitant mažesnių,
-    ginta mensas principales, exceptis parengti stovėdavo]. Tai, ką sako
-    minoribus, erigi faciebat, etc. [O savo Martinas Callas apie Boleslovą,
-    6
-
-    ## Puslapis 23
-
-    ĮVADAS
-    Didžiosios Lenkijos miestai garsėjo turtų ir gyventojų gausa; jau
-    daugybę narsių karių kartu su aplinkinėmis žemėmis pergalin­
-    giems jo pulkams teikėc).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -364,3 +337,30 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-016
+  santrauka: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jau jam valdant Krušvica, Poznanė ir kiti
+    b)
+    Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbin-
+    Bandtk. Capit. XIV p. 70. Mensam ve- gai laikydavo, kad kiekvieną pa­
+    ro suam sic ordinate, sic honorifice re- prastą dieną keturiasdešimt pagrin-
+    tinebat, quod omni die privato quadra- dinių stalų, neskaitant mažesnių,
+    ginta mensas principales, exceptis parengti stovėdavo]. Tai, ką sako
+    minoribus, erigi faciebat, etc. [O savo Martinas Callas apie Boleslovą,
+    6
+
+    ## Puslapis 23
+
+    ĮVADAS
+    Didžiosios Lenkijos miestai garsėjo turtų ir gyventojų gausa; jau
+    daugybę narsių karių kartu su aplinkinėmis žemėmis pergalin­
+    giems jo pulkams teikėc).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016

@@ -1,20 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Baltas apsiaustas su juodu kryžiumi'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
@@ -28,29 +18,35 @@ tags:
 Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad jeruzalės ligoninės brolių ordiną pavargėliams bei paliegėliams slaugyti, o iš tikrųjų brolių bažnyčios karių ordiną, į kurį būrėsi dvasininkai, kariai bei kiti broliai, leisdamas šios ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi ir suteikdamas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai jo šventenybė Jeruzalės patriarchas
@@ -83,9 +79,7 @@ Nenurodyta
     Izraelio teritorijoje), XI a.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

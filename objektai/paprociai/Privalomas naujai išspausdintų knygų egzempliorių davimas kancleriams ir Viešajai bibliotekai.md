@@ -1,26 +1,20 @@
 ---
 tipas: paprotys
 pavadinimas: 'Privalomas naujai išspausdintų knygų egzempliorių davimas kancleriams ir Viešajai bibliotekai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1631 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1631'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - paprotys
   - privilegija
+amziai:
+  - 'XVII'
 ---
 # Privalomas naujai išspausdintų knygų egzempliorių davimas kancleriams ir Viešajai bibliotekai
 
@@ -29,29 +23,35 @@ tags:
 Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno koplyčios sutikimą turėdama, įgijo savo nuosavybei minėtą sklypą ir mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­ legija spaustuve pavertė.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno koplyčios sutikimą turėdama, įgijo savo nuosavybei minėtą sklypą ir mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­ legija spaustuve pavertė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taigi: 180 ## Puslapis 197 Il KNYGA 1631 metais Akademijos kolegija, Dievo Kūno koplyčios sutikimą turėdama, įgijo savo nuosavybei minėtą sklypą ir mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­ legija spaustuve pavertė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi:
@@ -74,9 +74,7 @@ Nenurodyta
     bibliotekai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

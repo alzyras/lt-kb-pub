@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'markgrafas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - sąvoka
@@ -26,22 +16,22 @@ tags:
 Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. Dusburgietis teigia, kad meiseno mkg. (XII a. pab.) Ragainės komt.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad meiseno mkg. (XII a. pab.) Ragainės komt.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad meiseno mkg. (XII a. pab.) Ragainės komt.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Meiseno mkg. (XII a. pab.)
        Ragainės komt.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -84,6 +74,7 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 - [[objektai/asmenys/Konradas (Viurcburgo vyskupas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Liudvikas (Vengrijos karalius)]]
+- [[objektai/posakiai/Maldininke, nuramink žęmę]]
 - [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]
 - [[objektai/paprociai/Naujakrikščių valdymas pagal tą pačią sutartį ir laisves|Naujakrikščių valdymas pagal tą pačią sutartį ir laisves (sutartis)]]
 - [[objektai/grupes/Notangai]]

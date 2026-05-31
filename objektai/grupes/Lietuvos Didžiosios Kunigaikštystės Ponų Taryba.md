@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos Didžiosios Kunigaikštystės Ponų Taryba'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1560 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1560'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - miestas
   - tauta
+amziai:
+  - 'XVI'
 ---
 # Lietuvos Didžiosios Kunigaikštystės Ponų Taryba
 
@@ -30,13 +24,15 @@ tags:
 Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato raštininkų namai ir butai kartą ir visiems laikams bu­ vo atleisti nuo bet kokios nakvynės ir apsistojimo prievolės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato raštininkų namai ir butai kartą ir visiems laikams bu­ vo atleisti nuo bet kokios nakvynės ir apsistojimo prievolės.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato raštininkų namai ir butai kartą ir visiems laikams bu­ vo atleisti nuo bet kokios nakvynės ir apsistojimo prievolės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vaito,
@@ -52,9 +48,7 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     ba Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

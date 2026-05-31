@@ -52,7 +52,6 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/ivykiai/„Varpo“ leidimo pradžia]]
 - [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
 - [[objektai/grupes/Lietuvos komunistų partija]]

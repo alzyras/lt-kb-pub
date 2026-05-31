@@ -51,18 +51,18 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   teiginys: 'Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: '1427 m. sėkmingas Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių ir prašyti paleisti belaisvius.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: '1432 m. Pskovo vietininkai ir bojarinai atvyko pas Švitrigailą ir sudarė su juo sutartį.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -113,8 +113,23 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: '1427 m. sėkmingas Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių ir prašyti paleisti belaisvius.'
+- c-006
+  santrauka: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
+    respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
+    Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
+    galėjimui Rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
@@ -134,9 +149,9 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: '1432 m. Pskovo vietininkai ir bojarinai atvyko pas Švitrigailą ir sudarė su juo sutartį.'
+    - t-007
+- c-008
+  santrauka: 'Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Palenkdamas rusų bojari-
@@ -155,32 +170,28 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
-    respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
-    Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
-    galėjimui Rytuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/bojarinai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/proistorė]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Aleksas Jefremovičius]]
+- [[objektai/asmenys/Ivanas Sidorovičius]]
+- [[objektai/asmenys/Joachimas Pavlovičius]]
 - [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/zodynas/posadnikas bojarinas vietininkas]]

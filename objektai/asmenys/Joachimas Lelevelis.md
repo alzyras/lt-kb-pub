@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Joachimas Lelevelis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1756 m.'
   - '1861 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 date_start: '1756'
 date_end: '1861'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'LDK'
 ---
 # Joachimas Lelevelis
 
@@ -30,17 +26,37 @@ tags:
 Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus. Lelevelis, priverstinai atsistatydino iš globėjo posto A.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Lelevelis, priverstinai atsistatydino iš globėjo posto A.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Caro administracija ėmėsi tyrimo,
+    kuris išsirutuliojo į to meto didžiausią Europoje teismo procesą prieš stu-
+    dentų ir moksleivių jaunimą. Apkaltinus per 100 asmenų, dvidešimt, tarp
+    jų ir A. Mickevičius, ištremti, kiti atiduoti į rekrutus. Išvaryti ir politiš-
+    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
+    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
+    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
+    policiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Lelewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830), chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liudvigas Heinrichas Bojanus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šis laikotarpis bene didžiausio universiteto
@@ -60,27 +76,9 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     tuometinė itin gausi periodika.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Lelevelis, priverstinai atsistatydino iš globėjo posto A.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Išvaryti ir politiš-
-    kai nepatikimi profesoriai, tarp jų J. Lelevelis, priverstinai atsistatydino
-    iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
-    dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
-    policiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

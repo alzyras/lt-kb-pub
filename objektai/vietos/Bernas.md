@@ -48,10 +48,6 @@ tags:
   teiginys: '1917 m. lapkričio 2–10 d. Berne vėl buvo sušaukta nauja konferencija po to, kai Vilniaus konferencija išrinko Lietuvos Tarybą.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio 2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio 2 — 10 d.'
   pagrindžia:
@@ -60,6 +56,10 @@ tags:
   teiginys: '1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
   pagrindžia:
     - c-001
+- t-007
+  teiginys: 'Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio 2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1916 m. kovo 1-5 d. Berne sušaukta konferencija paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
@@ -104,7 +104,22 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
+- c-005
+  santrauka: 'Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio 2 — 10 d.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    pradžioj).
+    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
+    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
+    2 — 10 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
   santrauka: 'Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio 2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -122,19 +137,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio 2 — 10 d.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    pradžioj).
-    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
-    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
-    2 — 10 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
+    - t-007

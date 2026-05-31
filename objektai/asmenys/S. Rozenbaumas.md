@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'S. Rozenbaumas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1918 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1918'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # S. Rozenbaumas
 
@@ -28,13 +24,15 @@ tags:
 Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
@@ -49,9 +47,7 @@ Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be por
     ceministras.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

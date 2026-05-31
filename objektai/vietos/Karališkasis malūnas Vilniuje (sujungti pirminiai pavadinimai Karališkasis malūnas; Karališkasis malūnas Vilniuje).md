@@ -1,34 +1,25 @@
 ---
 tipas: vieta
 pavadinimas: 'Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1435 m.'
-  - '1440 m.'
-  - '1469 m.'
-  - '1491 m.'
   - '1492 m.'
   - '1515 m.'
   - '1522 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
 date_start: '1435'
 date_end: '1522'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - ordinas
   - pilis
+amziai:
+  - 'XV'
+  - 'XVI'
 ---
 # Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje)
 
@@ -37,21 +28,50 @@ tags:
 33 Peremire Korola Kazimira z Opskowem u Wilni meseca dekabra trydcataho dnia, 1440 Indykt 4 [Karaliaus Kazi­ miero sutartis su Pskovu Vilniuje, 1440 metų gruodžio mėnesio 30 die­ ną, 4 indiktas]; iš D o g e l i o, MSS. Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos. Antraštė: Molendinum Vilnense [Vil­ niaus malūnas].
 
 ## Teiginiai
-- t-001
-  teiginys: '33 Peremire Korola Kazimira z Opskowem u Wilni meseca dekabra trydcataho dnia, 1440 Indykt 4 [Karaliaus Kazi­ miero sutartis su Pskovu Vilniuje, 1440 metų gruodžio mėnesio 30 die­ ną, 4 indiktas]; iš D o g e l i o, MSS.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '33 Peremire Korola Kazimira z Opskowem u Wilni meseca dekabra trydcataho dnia, 1440 Indykt 4 [Karaliaus Kazi­ miero sutartis su Pskovu Vilniuje, 1440 metų gruodžio mėnesio 30 die­ ną, 4 indiktas]; iš D o g e l i o, MSS.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Antraštė: Molendinum Vilnense [Vil­ niaus malūnas].'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    40), matyti,
+    266
+
+    ## Puslapis 283
+
+    IV KNYGA
+    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
+    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
+    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
+    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
+    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
+    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
+    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
+    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
+    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
+    malūnas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: '33 Peremire Korola Kazimira z Opskowem u Wilni meseca dekabra trydcataho dnia, 1440 Indykt 4 [Karaliaus Kazi­ miero sutartis su Pskovu Vilniuje, 1440 metų gruodžio mėnesio 30 die­ ną, 4 indiktas]; iš D o g e l i o, MSS.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -99,40 +119,11 @@ tags:
     nusidriekęs palei Vilnios upę prie Karališkojo malūno.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius 1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­ mis, leisdamas imti trečią grūdą iki gyvos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    40), matyti,
-    266
 
-    ## Puslapis 283
-
-    IV KNYGA
-    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
-    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
-    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
-    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
-    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
-    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
-    mis, leisdamas imti trečią grūdą iki gyvos galvos15. O po kele­
-    lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir
-    žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus
-    malūnas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Antraštė: Molendinum Vilnense [Vil­ niaus malūnas].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     15
@@ -142,8 +133,6 @@ tags:
     niaus malūnas].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003

@@ -49,3 +49,4 @@ Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į k
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/zodynas/reformacija]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]

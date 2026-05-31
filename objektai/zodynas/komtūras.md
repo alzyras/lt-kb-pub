@@ -330,7 +330,6 @@ tags:
 - [[objektai/asmenys/Kuno Lichtenšteinas]]
 - [[objektai/daiktai/Kuorai]]
 - [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
 - [[objektai/asmenys/Linkas]]
 - [[objektai/grupes/Livonijos ordinas]]

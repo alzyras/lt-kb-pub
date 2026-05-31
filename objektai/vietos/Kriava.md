@@ -46,11 +46,11 @@ tags:
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
+  teiginys: '7, 1930, 427 p. 246 ii skyrius: valstybės iškilimas Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.'
   pagrindžia:
     - c-003
 - t-004
-  teiginys: '7, 1930, 427 p. 246 ii skyrius: valstybės iškilimas Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.'
+  teiginys: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
   pagrindžia:
     - c-004
 ## Reikšmingi paminėjimai
@@ -88,26 +88,6 @@ tags:
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tada buvo įkurtos ir pirmosios
-    septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
-    kuose, Kriave, Ainoje, Obolcuose^15. Jeigu tarp pirmųjų parapijų
-    neminimi Trakai ir Kaunas, yra ženklas, kad ten iš anksčiau tu­
-
-    ```
-    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS 289
-    ```
-    (^11) **Plg.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
   santrauka: '7, 1930, 427 p. 246 ii skyrius: valstybės iškilimas Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -122,6 +102,27 @@ tags:
     palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.
     Dar sunkesni uždaviniai atiteko Kęstučiui vakarinėje valstybės
     dalyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jogaila važinėjo ir
+    kitur, įsakydamas mesti pagonybę. Tada buvo įkurtos ir pirmosios
+    septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
+    kuose, Kriave, Ainoje, Obolcuose^15. Jeigu tarp pirmųjų parapijų
+    neminimi Trakai ir Kaunas, yra ženklas, kad ten iš anksčiau tu­
+
+    ```
+    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS 289
+    ```
+    (^11) **Plg.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

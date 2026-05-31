@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Iki gyvos galvos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - posakis
@@ -27,13 +18,15 @@ tags:
 Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio ir skaičiaus grivinų, skaičiuo­ jant po keturiasdešimt aštuonis gra­ šius už kiekvieną griviną, šimtą iki gyvos galvos iš mūsų iždo ir šimtą, kol bus pasiekta taika tarp mūsų Lietuvos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio ir skaičiaus grivinų, skaičiuo­ jant po keturiasdešimt aštuonis gra­ šius už kiekvieną griviną, šimtą iki gyvos galvos iš mūsų iždo ir šimtą, kol bus pasiekta taika tarp mūsų Lietuvos.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio ir skaičiaus grivinų, skaičiuo­ jant po keturiasdešimt aštuonis gra­ šius už kiekvieną griviną, šimtą iki gyvos galvos iš mūsų iždo ir šimtą, kol bus pasiekta taika tarp mūsų Lietuvos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ten, be kita ko, pasakyta: ...habito-
@@ -95,9 +88,7 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
     galvos, ir 1.1.].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -115,4 +106,3 @@ Tai žinodami, kaip palankumo ženklą skiriame jam du šimtus lenkiško svorio 
 - [[objektai/asmenys/Šach Achmedas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/posakiai/vyriausiuoju Lietuvos kunigaikščiu]]
-- [[objektai/asmenys/Žygimantas Senasis]]

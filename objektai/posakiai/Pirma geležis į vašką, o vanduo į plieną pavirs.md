@@ -1,26 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: 'Pirma geležis į vašką, o vanduo į plieną pavirs'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - popiežius
   - posakis
   - tikėjimas
+amziai:
+  - 'XIV'
 ---
 # Pirma geležis į vašką, o vanduo į plieną pavirs
 
@@ -29,13 +23,15 @@ tags:
 Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­ sų laiške Popiežiui uždėjome, tad pirma geležis į vašką, o vanduo į plieną pavirs, nei mes savo žodį sulaužysime ar atšauksime.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­ sų laiške Popiežiui uždėjome, tad pirma geležis į vašką, o vanduo į plieną pavirs, nei mes savo žodį sulaužysime ar atšauksime.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­ sų laiške Popiežiui uždėjome, tad pirma geležis į vašką, o vanduo į plieną pavirs, nei mes savo žodį sulaužysime ar atšauksime.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
@@ -54,9 +50,7 @@ Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami 
     nurodyti pranešimai bei įsipareigojimai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

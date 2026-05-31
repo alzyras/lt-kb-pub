@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Vizna'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1294 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1294'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - pilis
   - tikėjimas
   - vieta
+amziai:
+  - 'XIII'
 ---
 # Vizna
 
@@ -30,17 +24,37 @@ tags:
 Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne. Dusburgietis teigia, kad dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    dėl Viznos  pilies sugriovimo, pasitaikino lietuvius  ir ją atstatė. Apie  tai sužinojęs,
+    magistras be galo sunerimo (jis mat būgštavo, kad gali rastis naujų pavojų jam pačiam
+    bei jo žmonėms, tikėjimui bei tikintiesiems) ir įsakė visiems nuo didžiausio iki mažiausio
+    savo valdiniams rengtis karui, nes šitaip tikėjosi galėsiąs vienaip ar kitaip sutrukdyti
+    statybai. Vis dėlto anksčiau, nei jis subūrė brolių kariuomenę  ir ją išdėstė įvairiose
+    vietose, notangai, piktosios dvasios sukurstyti, dar kartą pakluso senam įsiūčiui ir iš
+    neapykantos Jėzui Kristui vėl padarė atskalūnybės nuodėmę, o savo kariuomenės vadu
+    išsirinko vyrą, vardu Sabinas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­ na Tais pačiais 1294 metais, užmiršęs dievo baimę, Boleslovas, Mazovijos kunigaikštis, ieškodamas dingsties suniekinti dievą bei užkrauti krikščionims sunkią ir skaudžią naštą, ne.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
@@ -56,24 +70,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
     ir ją iš pamatų sugriovė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    dėl Viznos  pilies sugriovimo, pasitaikino lietuvius  ir ją atstatė. Apie  tai sužinojęs,
-    magistras be galo sunerimo (jis mat būgštavo, kad gali rastis naujų pavojų jam pačiam
-    bei jo žmonėms, tikėjimui bei tikintiesiems) ir įsakė visiems nuo didžiausio iki mažiausio
-    savo valdiniams rengtis karui, nes šitaip tikėjosi galėsiąs vienaip ar kitaip sutrukdyti
-    statybai.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Trakų kunigaikščio žvėrynas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1384 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1384'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ežeras
   - kunigaikštis
   - miestas
+amziai:
+  - 'XIV'
 ---
 # Trakų kunigaikščio žvėrynas
 
@@ -30,29 +24,35 @@ tags:
 Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas
@@ -82,9 +82,7 @@ Nenurodyta
     tvirtovių būtų priskirtas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

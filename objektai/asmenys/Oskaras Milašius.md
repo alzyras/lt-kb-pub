@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Oskaras Milašius'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -18,40 +15,63 @@ tags:
 Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz). O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją.'
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: 'Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
+    „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-
+    torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
+    ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis. O beveik
+    kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar
     Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,
+    Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry
+    (Romanas Gari) ar Kaune gimęs ir gimnaziją baigęs filosofas Emmanuel
+    Levinas (Emanuelis Levinas).
+    Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
+    žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
+    tina Senda Berenson-Abbot (Senda Berenson-Abot, g. Vilniuje 1868 m.),
+    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
+    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
+    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
+    Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
+    orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripa-
+    žinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba suge-
+    bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti
+    iš Vokietijos politikos diktato ir paskubomis kūrė valdžios ir savivaldybių
+    įstaigas.
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

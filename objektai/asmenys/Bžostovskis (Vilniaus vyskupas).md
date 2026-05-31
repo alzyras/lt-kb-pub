@@ -56,3 +56,10 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/metropolija]]
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
+- [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]
+- [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
+- [[objektai/grupes/Ketverių metų seimas]]
+- [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
+- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]

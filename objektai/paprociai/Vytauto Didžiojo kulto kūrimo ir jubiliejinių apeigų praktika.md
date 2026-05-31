@@ -111,7 +111,6 @@ tags: []
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žydai]]

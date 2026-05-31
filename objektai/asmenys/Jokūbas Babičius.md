@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jokūbas Babičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1522 m.'
   - '1525 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1522'
 date_end: '1525'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - miestas
   - mokslininkas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jokūbas Babičius
 
@@ -31,13 +27,15 @@ tags:
 1525 metais Vilniuje jau veikė spaustu­ vė, kurioje Jokūbas Babičius spausdino slaviškas knygas27.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1525 metais Vilniuje jau veikė spaustu­ vė, kurioje Jokūbas Babičius spausdino slaviškas knygas27.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1525 metais Vilniuje jau veikė spaustu­ vė, kurioje Jokūbas Babičius spausdino slaviškas knygas27.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     270
@@ -69,9 +67,7 @@ tags:
     jimo dorybių, kad evangelija ir šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

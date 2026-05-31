@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Šventaragis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1268 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1268'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
   - kunigaikštis
   - miestas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Šventaragis
 
@@ -30,16 +26,19 @@ tags:
 Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    I. Esą
+    Franciszkanów Litew­
+    skich. Wilno 1740 in 8vo, skyr. I. Esą
     pirmasis toje vietovėje įkurdinęs gy­
     venvietę Germantas, vykdydamas
     savo tėvo, kunigaikščio Šventaragio,
@@ -61,9 +60,7 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     okratinio valdymo centrų tikrai galėjo būti8.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

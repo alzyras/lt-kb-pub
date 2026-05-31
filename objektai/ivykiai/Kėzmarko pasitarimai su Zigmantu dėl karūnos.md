@@ -76,4 +76,3 @@ Nenurodyta
 - [[objektai/asmenys/Mantas]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]

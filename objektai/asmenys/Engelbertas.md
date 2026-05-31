@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Engelbertas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
@@ -27,13 +18,15 @@ tags:
 Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa tikinčiųjų tauta liko visiškai išnaikinti, kuršiai atkrito į senąjį netikėjimą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa tikinčiųjų tauta liko visiškai išnaikinti, kuršiai atkrito į senąjį netikėjimą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa tikinčiųjų tauta liko visiškai išnaikinti, kuršiai atkrito į senąjį netikėjimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Maurikijaus ir jo draugų kankinių dieną patys
@@ -48,9 +41,7 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
     naikins priešo jėgas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

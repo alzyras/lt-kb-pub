@@ -47,14 +47,6 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Augustui II priešiški Sapiegos parėmė švedus, M atsinaujino Lietuvos didikų tarpusavio kova.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Nors ir nelengva buvo sunaikinti Sapiegų galybę, tačiau bajorijai pradėjo sektis.'
   pagrindžia:
@@ -63,6 +55,14 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
   teiginys: 'Sapiegoms jau nebepavykdavo visų savo atstovų įvesti į seimus, ir jų priešai, lenkų remiami, darydavo seimuose jiems daug nemalonumų.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Augustui II priešiški Sapiegos parėmė švedus, M atsinaujino Lietuvos didikų tarpusavio kova.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gavę 100.000 talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai palaikė Augustą.'
@@ -92,37 +92,6 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Augustui II priešiški Sapiegos parėmė švedus, M atsinaujino Lietuvos didikų tarpusavio kova.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Augustui II priešiški Sapiegos parėmė švedus,
-    M atsinaujino Lietuvos didikų tarpusavio kova. Dalis
-
-    \" Lietuvos kariuomenės stojo į kovą su švedais ir
-    AB!
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
-    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
-    įžadu. Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
-    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Nors ir nelengva buvo sunaikinti Sapiegų galybę, tačiau bajorijai pradėjo sektis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -156,11 +125,43 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
+    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
+    įžadu. Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
+    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Augustui II priešiški Sapiegos parėmė švedus, M atsinaujino Lietuvos didikų tarpusavio kova.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    įsiveržė į Lietuvos terito-
+    riją. Augustui II priešiški Sapiegos parėmė švedus,
+    M atsinaujino Lietuvos didikų tarpusavio kova. Dalis
+
+    \" Lietuvos kariuomenės stojo į kovą su švedais ir
+    AB!
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/H. Brantas]]
 - [[objektai/asmenys/J. P. Sapiega]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]

@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1394 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1394'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - kraštas
   - miestas
+amziai:
+  - 'XIV'
 ---
 # Švitrigailos ir Konrado Jungingeno žygis į Lietuvą (1394 m.)
 
@@ -30,28 +24,41 @@ tags:
 Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­ gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­ tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­ sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos -- • -- 135 ##.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­ gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­ tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­ sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos -- • -- 135 ##.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­ gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­ tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­ sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos -- • -- 135 ##.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
     Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
     tiems vien nukariavimais ir, po teisybei, naujos monarchijos
     kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
@@ -71,9 +78,7 @@ Nenurodyta
     bandant nuversti naująjį Lietuvos valdovą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

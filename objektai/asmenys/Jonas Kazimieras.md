@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Kazimieras'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1666 m.'
   - '1667 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1666'
 date_end: '1667'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - privilegija
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jonas Kazimieras
 
@@ -29,16 +25,24 @@ tags:
 Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Andrius Katavičius, didysis Lietuvos
+    Juozapas Petravičius, iš Vilniaus miesto
+    raštininko paskirtas vaitu gruodžio 3 d. - 1649
+    13. Steponas Bilinskis, karališkosios didenybės
+    sekretorius, karališkasis juriskonsultas
+    (Jurisconsultus Regius), patvirtintas iš
+    magistrato - 1662
+    14. Andrius Katavičius, didysis Lietuvos
     raštininkas, kovo 31 d. - 1666
     neteisėtai gauna privilegiją Vilniaus vaitystei,
     bet ją Jonas Kazimieras panaikina sausio 15 d.
@@ -46,9 +50,7 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
     15.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

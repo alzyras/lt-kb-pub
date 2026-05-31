@@ -59,6 +59,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Katalikų veikimo centras]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Stasys Raštikis]]

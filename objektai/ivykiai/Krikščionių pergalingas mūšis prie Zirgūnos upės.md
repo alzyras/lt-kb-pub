@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Krikščionių pergalingas mūšis prie Zirgūnos upės'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
@@ -27,26 +18,31 @@ tags:
 Dusburgietis teigia, kad apie krikščionių pergalingą mūšį, kuriame krito penki tūkstančiai prūsų Šitai padarę, magistras brolis Hermanas ir kiti broliai suburė žiemą231, kai stipriausias šaltis buvo viską sukaustęs, minėtuosius maldininkus, karštai trokštančius sutramdyti prūsų.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie krikščionių pergalingą mūšį, kuriame krito penki tūkstančiai prūsų Šitai padarę, magistras brolis Hermanas ir kiti broliai suburė žiemą231, kai stipriausias šaltis buvo viską sukaustęs, minėtuosius maldininkus, karštai trokštančius sutramdyti prūsų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie krikščionių pergalingą mūšį, kuriame krito penki tūkstančiai prūsų Šitai padarę, magistras brolis Hermanas ir kiti broliai suburė žiemą231, kai stipriausias šaltis buvo viską sukaustęs, minėtuosius maldininkus, karštai trokštančius sutramdyti prūsų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie krikščionių pergalingą mūšį, kuriame krito penki tūkstančiai prūsų
@@ -66,9 +62,7 @@ Nenurodyta
     išganytojo palankumą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

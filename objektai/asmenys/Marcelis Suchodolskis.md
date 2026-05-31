@@ -1,24 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Marcelis Suchodolskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1631 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1631'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Marcelis Suchodolskis
 
@@ -27,13 +23,15 @@ tags:
 Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninkai Marcelis Suchodolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų, Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninkai Marcelis Suchodolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų, Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninkai Marcelis Suchodolskis - 500 auksinų, Stanislovas Goreckis - 2500 auksinų, Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kryžiaus altorių, mišių klausydamiesi, aukotų mal­
@@ -47,12 +45,13 @@ Insuper 750 auksinų sumą užrašė, prie kurios prisidėjo Vilniaus kanauninka
 
     Il KNYGA
     1631 metais garbioji Vilniaus kapitula 4000 auksinų sumą
-    davė kun.
+    davė kun. Pilypui Frizijui, o kun. Frizijus, pridėjęs savų 1500
+    auksinų, iki 5 500 išaugusią sumą atidavė Vilniaus kahalo
+    žydams; nuo šios sumos kahalas iki 1763 metų Valerijono
+    konvikto gyventojams 8 nuošimčius mokėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

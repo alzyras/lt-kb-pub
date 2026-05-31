@@ -83,7 +83,6 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/grupes/Jastžembcų giminė]]
-- [[objektai/grupes/Jogailos giminė]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
 - [[objektai/paprociai/Karo nualintų gyventojų aprūpinimas maistu ir drabužiais]]
 - [[objektai/asmenys/Kazimieras Didysis]]

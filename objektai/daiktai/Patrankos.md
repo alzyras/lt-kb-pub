@@ -83,10 +83,6 @@ Nenurodyta
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-015
-  teiginys: 'Patrankos buvo griozdiškos, didelės, sun­ kiai pervežamos, todėl jos labiau tiko tvirtovėms griauti ir pi­ lims imti.'
-  pagrindžia:
-    - c-006
 - t-016
   teiginys: 'Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik pradžioje tevartojo.'
   pagrindžia:
@@ -99,6 +95,10 @@ Nenurodyta
   teiginys: 'Patrankos padarydavo daug triukšmo, bet maža nau­ dos.'
   pagrindžia:
     - c-009
+- t-019
+  teiginys: 'Patrankos buvo griozdiškos, didelės, sun­ kiai pervežamos, todėl jos labiau tiko tvirtovėms griauti ir pi­ lims imti.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -184,26 +184,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
-- c-006
-  santrauka: 'Patrankos buvo griozdiškos, didelės, sun­ kiai pervežamos, todėl jos labiau tiko tvirtovėms griauti ir pi­ lims imti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    — 76 —
-    ```
-    Artilerija XV šm. dar buvo labai netobula ir ne visuose ka­
-    ruose pritaikoma. Patrankos buvo griozdiškos, didelės, sun­
-    kiai pervežamos, todėl jos labiau tiko tvirtovėms griauti ir pi­
-    lims imti. Šoviniai patrankoms buvo daromi iš akmens arba
-    švino. Patrankos padarydavo daug triukšmo, bet maža nau­
-    dos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-015
 - c-007
   santrauka: 'Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik pradžioje tevartojo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -253,6 +233,26 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-010
+  santrauka: 'Patrankos buvo griozdiškos, didelės, sun­ kiai pervežamos, todėl jos labiau tiko tvirtovėms griauti ir pi­ lims imti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    — 76 —
+    ```
+    Artilerija XV šm. dar buvo labai netobula ir ne visuose ka­
+    ruose pritaikoma. Patrankos buvo griozdiškos, didelės, sun­
+    kiai pervežamos, todėl jos labiau tiko tvirtovėms griauti ir pi­
+    lims imti. Šoviniai patrankoms buvo daromi iš akmens arba
+    švino. Patrankos padarydavo daug triukšmo, bet maža nau­
+    dos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai

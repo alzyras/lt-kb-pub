@@ -1,11 +1,6 @@
 ---
 tipas: ivykis
 pavadinimas: 'Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų'
-aliases:
-  - 'Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -13,23 +8,18 @@ datos:
   - '1244 m.'
   - '1245 m.'
   - '1500 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XIII'
-  - 'XV'
 date_start: '1050'
 date_end: '1500'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - kunigaikštis
   - mūšis
+amziai:
+  - 'XI'
+  - 'XV'
 ---
 # Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)
 
@@ -38,31 +28,37 @@ tags:
 Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo. Dusburgietis teigia, kad 292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo.'
   pagrindžia:
     - c-001
     - c-003
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad 292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs Sventopelkas, o pats su savo bei kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie laimėtą mūšį, kuriame broliai nukovė tūkstantį penkis šimtus pomeranų
@@ -79,26 +75,11 @@ Nenurodyta
     šią pergalę dievui ir džiūgaudami, broliai su dideliu grobiu sugrįžo namo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad 292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas
-    — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolis Poponas, magistras, pasiuntė žvalgus, turėjusius atidžiai pažiūrėti, ką beveikiąs
@@ -111,13 +92,22 @@ Nenurodyta
     kurie, pasiekdami pilį, visi kiti arba paskendo, arba paklojo galvas nuo kalavijo ašmenų.
     Šitaip tą dieną broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų292. Dėkodami už
     šią pergalę dievui ir džiūgaudami, broliai su dideliu grobiu sugrįžo namo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    292 Jer. kalba apie 1050 vyrų, tuo tarpu XIII a. vidurio Henriko iš Hohenlohės pranešimas
+    — tik 500 vyrų (SRP, 5, p. 166). Tai vyko 1244 m. ar 1245 m. pradžioje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

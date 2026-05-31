@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'dvilypis lietuvių-žemaičių etnosas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - tauta
@@ -19,18 +16,27 @@ tags:
 Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kai kurie žemaičiai save laikė vieno dvilypio lietuvių ir žemaičių etnoso dalimi.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai kurie žemaičiai save laikė vieno dvilypio lietuvių ir žemaičių etnoso dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karaliaučiuje žymaus
+    mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
+    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
+    poe­ma „Metai“ (su vertimu į vokiečių kalbą). Jau tuomet pripažinta, kad
+    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
     Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
     tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
     vienas kitas), kurie susitarė kryp-
@@ -44,13 +50,38 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     etnosu, bet jie patys save laikė
     vieno dvilypio lietuvių-žemaičių
     etnoso dalimi).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jau tuomet pripažinta, kad
+    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
+    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
+    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
+    vienas kitas), kurie susitarė kryp-
+    tingai plėtoti aukštosios kultūros
+    kūrimo lietuvių (žemaičių) kalba
+    darbą, o sykiu rūpintis lietuvių
+    ir žemaičių liaudies švietimu jų
+    gimtąja kalba (nors žemaičius
+    kai kas tuomet laikė atskiru,
+    etniniams lietuviams giminingu
+    etnosu, bet jie patys save laikė
+    vieno dvilypio lietuvių-žemaičių
+    etnoso dalimi). Ši grupelė ir lai-
+    koma etninių lietuvių tautinio
+    kultūrinio sąjūdžio pradininkais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

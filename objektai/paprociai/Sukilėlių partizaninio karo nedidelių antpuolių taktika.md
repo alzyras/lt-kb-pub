@@ -109,7 +109,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas Sierakauskas]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1385 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1385'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - ivykis
   - miestas
   - ordinas
+amziai:
+  - 'XIV'
 ---
 # Jogailos išvykimas iš Vilniaus į Krokuvą (1385 m. pabaiga)
 
@@ -30,26 +24,31 @@ tags:
 Juk kai per Jogai­ los apsukrų laviravimą žlugo visos kryžiuočių jam daromos kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­ gaikščių ir didikų svitos lydimas išvyko į Krokuvą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Juk kai per Jogai­ los apsukrų laviravimą žlugo visos kryžiuočių jam daromos kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­ gaikščių ir didikų svitos lydimas išvyko į Krokuvą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Juk kai per Jogai­ los apsukrų laviravimą žlugo visos kryžiuočių jam daromos kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­ gaikščių ir didikų svitos lydimas išvyko į Krokuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
@@ -62,9 +61,7 @@ Nenurodyta
     kimas glaudžiai susijęs su viso krašto likimu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

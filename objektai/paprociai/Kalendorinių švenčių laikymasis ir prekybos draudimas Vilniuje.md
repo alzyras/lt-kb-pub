@@ -1,29 +1,22 @@
 ---
 tipas: paprotys
 pavadinimas: 'Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1580 m.'
-  - '1583 m.'
   - '1586 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1580'
 date_end: '1586'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - paprotys
   - privilegija
+amziai:
+  - 'XVI'
 ---
 # Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje
 
@@ -32,29 +25,35 @@ tags:
 Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lygiai taip pat įžvalgiai karalius užkirto kelią
@@ -156,15 +155,12 @@ Nenurodyta
     lendorių, laikytųsi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Danielius]]
 - [[objektai/asmenys/Eustachijus (raštininkas)]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]

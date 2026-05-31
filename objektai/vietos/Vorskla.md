@@ -70,18 +70,18 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   teiginys: 'Prie Vorsklos, kairiojo Dniepro intako, Vytauto kariuomenė susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-006
-- t-007
-  teiginys: 'Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Andrius žuvo prie Vorsklos 1399 metais.'
-  pagrindžia:
-    - c-008
 - t-009
   teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Andrius žuvo prie Vorsklos 1399 metais.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -197,37 +197,6 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo
-    likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj. Tą
-    Vytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­
-    reiškė savo pretenzijas į Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Andrius žuvo prie Vorsklos 1399 metais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Andrius žuvo prie Vorsklos 1399
-    metais.
-    31
-    Strijkovskis, 1.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 - c-009
   santrauka: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -261,3 +230,45 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Andrius žuvo prie Vorsklos 1399 metais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Strijkovskis ir Koje-
+    1  a v i č i u s supainiojo Andrių, Al­
+    girdo sūnų, su Vaidotu, Kęstučio sū­
+    numi, todėl radosi jų minimas
+    Andrius Vaidotas, Kęstučio sūnus,
+    Polocko kunigaikštis - visai išgalvo­
+    tas. Andrius žuvo prie Vorsklos 1399
+    metais.
+    31
+    Strijkovskis, 1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    163
+    ```
+    ```
+    III.
+    ```
+    Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo
+    likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj. Tą
+    Vytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­
+    reiškė savo pretenzijas į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

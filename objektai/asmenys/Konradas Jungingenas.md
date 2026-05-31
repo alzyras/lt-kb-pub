@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konradas Jungingenas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1394 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1394'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
   - kraštas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Konradas Jungingenas
 
@@ -29,16 +25,19 @@ tags:
 Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­ koti tuos pavojingus jam kaimynus (1394 m.); kitais metais Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­ gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­ koti tuos pavojingus jam kaimynus (1394 m.); kitais metais Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­ gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­ koti tuos pavojingus jam kaimynus (1394 m.); kitais metais Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­ gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Prūsijos ordi­
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
     nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
     koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
     Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
@@ -52,9 +51,7 @@ Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir n
     kiolika dienų teplėšė Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

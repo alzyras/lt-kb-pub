@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'municipalinės laisvės miestiečių luomas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
@@ -27,13 +18,15 @@ tags:
 Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyravimui ir duoti daugiau laisvės miestiečių luomui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyravimui ir duoti daugiau laisvės miestiečių luomui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyravimui ir duoti daugiau laisvės miestiečių luomui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
@@ -48,9 +41,7 @@ Sil­ pno charakterio karalius negalėjo veiksmingai pasipriešinti turčių vyr
     miestai, išaugtų prekyba ir visos tautos gerovė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

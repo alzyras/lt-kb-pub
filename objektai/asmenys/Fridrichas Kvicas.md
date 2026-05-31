@@ -1,29 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: 'Fridrichas Kvicas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1252 m.'
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1252'
 date_end: '1323'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - krikštas
   - miestas
   - ordinas
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Fridrichas Kvicas
 
@@ -32,28 +28,51 @@ tags:
 Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku. Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis. Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie brolio Fridricho Kvico žūtį bei Vėluvos valsčiaus nusiaubimą 1323 me­ tais Tais pačiais metais, švento Petro grandinėse išvakarėse (rugpjūčio 2), lietuviai įsibrovė į Sembos žemę ir Vėluvos valsčiuje sudegino šešis kaimus, be to, nužudė brolį Fridrichą.'
   pagrindžia:
     - c-004
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas iš Altenburgo, brolis Fridrichas Kvicas ir dar vienas brolis patraukė su trimis Ragainės ginklanešiais link Bisenės pilies irgi tuo laiku.'
+
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Bisenės pilies sudeginimą 1316 metais
+    Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,
+    su aštuoniais šimtais vyrų patraukė  į karą  ir, išdėstęs savo karius pasalose, pats su
+    80 vyrų įsibrovė  į Prūsijos žemės valsčių, vardu Unzatrapis, iš kur, sudeginęs keletą
+    namų, išsivarė daug nelaisvėn paimtų žmonių  ir išsigabeno galybę pagrobtų daiktų.
+    Juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,
+    ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo
+    pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami
+    pakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek
+    pavojų, kad retas kuris namo sugrįžo sveikas ir gyvas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    329 (322). Apie Bisenės pilies sudeginimą 1316 metais
 
        Tais pačiais metais, švento Ambraziejaus dieną (balandžo 4), brolis Ditrichas  iš
     Altenburgo, brolis Fridrichas Kvicas  ir dar vienas brolis patraukė su trimis Ragainės
@@ -62,49 +81,11 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
     du ginklanešius, kuriems buvo įsakyta saugoti kelią, pabėgo metę šalin ginklus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
 
-      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
-    broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
-    į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
-    kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
-    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
-    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
-    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,
-    ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo
-    pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami
-    pakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek
-    pavojų, kad retas kuris namo sugrįžo sveikas ir gyvas.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
-  santrauka: 'Dusburgietis teigia, kad apie brolio Fridricho Kvico žūtį bei Vėluvos valsčiaus nusiaubimą 1323 me­ tais Tais pačiais metais, švento Petro grandinėse išvakarėse (rugpjūčio 2), lietuviai įsibrovė į Sembos žemę ir Vėluvos valsčiuje sudegino šešis kaimus, be to, nužudė brolį Fridrichą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolio Fridricho Kvico žūtį bei Vėluvos valsčiaus nusiaubimą 1323 me­
@@ -142,11 +123,48 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
     išsivarė su savimi.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    332 (325). Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
+
+      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
+    broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
+    į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
+    kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
+    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
+    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
+    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-005
+  santrauka: 'Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie 55 lietuvių žūtį 1319 metais
+
+       Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,
+    su aštuoniais šimtais vyrų patraukė  į karą  ir, išdėstęs savo karius pasalose, pats su
+    80 vyrų įsibrovė  į Prūsijos žemės valsčių, vardu Unzatrapis, iš kur, sudeginęs keletą
+    namų, išsivarė daug nelaisvėn paimtų žmonių  ir išsigabeno galybę pagrobtų daiktų.
+    Juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,
+    ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo
+    pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami
+    pakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek
+    pavojų, kad retas kuris namo sugrįžo sveikas ir gyvas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -155,7 +173,6 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 - [[objektai/asmenys/Hartmanas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/naujakrikščiai]]
@@ -164,6 +181,7 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 - [[objektai/asmenys/Ditrichas iš Altenburgo]]
 - [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/zodynas/papilys]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/asmenys/Ulrichas iš Drinlevės]]

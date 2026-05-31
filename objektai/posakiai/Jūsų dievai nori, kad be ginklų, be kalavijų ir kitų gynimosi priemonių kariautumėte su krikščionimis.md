@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - posakis
@@ -25,21 +16,25 @@ tags:
 Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“. Dusburgietis teigia, kad šių žodžių padrąsinti krikščionys, dideliais būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis; sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę ir išsivarė į amžiną vergovę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad šių žodžių padrąsinti krikščionys, dideliais būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis; sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę ir išsivarė į amžiną vergovę.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad kai traukėsi atgal, kai kuriems belaisviams pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis, ir pradėjo nuoširdžiai juos įkalbinėti drąsiai leistis iš.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ši, užjausdama savąją lytį, sušaukė pas save visos
@@ -50,13 +45,11 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
     — nesuskaitomą daugybę žmonių ir gyvulių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad šių žodžių padrąsinti krikščionys, dideliais būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis; sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę ir išsivarė į amžiną vergovę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šių žodžių padrąsinti krikščionys, dideliais
@@ -71,13 +64,11 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
                        5.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad kai traukėsi atgal, kai kuriems belaisviams pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis, ir pradėjo nuoširdžiai juos įkalbinėti drąsiai leistis iš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai traukėsi atgal, kai kuriems belaisviams
@@ -90,11 +81,24 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
     dienai paliko nusiaubta203.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
+    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
+    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
+    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė  į
+    kaimynų krikščionių žemes.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

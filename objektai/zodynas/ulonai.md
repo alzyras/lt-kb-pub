@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'ulonai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -24,13 +15,15 @@ tags:
 Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje, specialiuose raitininkų, vadinamuosiuose totorių ulonų pulkuose, kiti yra tarnautojai, o vargingesni dirba pas privačius as­ menis arba turi menkus žemės plo­ telius, po tėvų mirties.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje, specialiuose raitininkų, vadinamuosiuose totorių ulonų pulkuose, kiti yra tarnautojai, o vargingesni dirba pas privačius as­ menis arba turi menkus žemės plo­ telius, po tėvų mirties.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje, specialiuose raitininkų, vadinamuosiuose totorių ulonų pulkuose, kiti yra tarnautojai, o vargingesni dirba pas privačius as­ menis arba turi menkus žemės plo­ telius, po tėvų mirties.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Seniau totoriai vertėsi
@@ -48,9 +41,7 @@ Dabar Lie­ tuvos totoriai praturtėję, iš tiesų visi tarnauja kariuomenėje,
     Polskich prawach, T.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

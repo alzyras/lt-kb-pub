@@ -37,10 +37,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Per kovas prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai kliudė galutinai laimėti.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Neris anksčiau vadinta ir Panerta, nes, žiūrint nuo aukštų kalnų, atrodė tarsi panirusi.'
   pagrindžia:
@@ -57,6 +53,10 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginys: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Bet plačiai išsiliejusi Neris ir pilni grioviai vandens kliudė galutinai laimėti.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,21 +73,6 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Per kovas prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai kliudė galutinai laimėti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dieną ir naktį ėjo mūšiai prie Vilniaus sienų. Pa­
-    galiau griuvo mūrai ir bokštai į Neries bangas. Daugelyje vie­
-    tų sutvirtinimai buvo išlaužti. Bet plačiai išsiliejusi Neris ir pilni
-    grioviai vandens kliudė galutinai laimėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Neris anksčiau vadinta ir Panerta, nes, žiūrint nuo aukštų kalnų, atrodė tarsi panirusi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -176,3 +161,18 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Bet plačiai išsiliejusi Neris ir pilni grioviai vandens kliudė galutinai laimėti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dieną ir naktį ėjo mūšiai prie Vilniaus sienų. Pa­
+    galiau griuvo mūrai ir bokštai į Neries bangas. Daugelyje vie­
+    tų sutvirtinimai buvo išlaužti. Bet plačiai išsiliejusi Neris ir pilni
+    grioviai vandens kliudė galutinai laimėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

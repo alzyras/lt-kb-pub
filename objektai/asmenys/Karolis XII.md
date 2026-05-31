@@ -44,15 +44,14 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
   pagrindžia:
     - c-004
-
+- t-005
+  teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dalis Livonijos aristokratijos rėmė Augusto II siekius, nes buvo nepatenkinta Karolio XII valdymu.'
@@ -95,27 +94,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iškylanti Rusija Šiaurės karo
-    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
-    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
-    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
-    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
-
-    L I E T U V O S  I S T O R I J A
-    88
-    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
-    Lietuvos uostus Palangoje ir Šventojoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -133,6 +111,28 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    netgi sudarė Kėdainių sutartį su Švedija, ta-
+    čiau švedams įsitvirtinti Lietuvoje nepavyko. Iškylanti Rusija Šiaurės karo
+    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
+    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
+    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
+
+    L I E T U V O S  I S T O R I J A
+    88
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

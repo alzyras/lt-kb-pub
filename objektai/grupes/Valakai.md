@@ -125,7 +125,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/Ermyderiai|ermyderiai]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigaikščiai]]
@@ -145,5 +144,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Mozūrai (XV amžius)]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Žuvėdai]]

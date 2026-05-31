@@ -1,29 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Mindaugo nužudymas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1260 m.'
-  - '1263 m.'
   - '1268 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1260'
 date_end: '1268'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - ordinas
   - popiežius
+amziai:
+  - 'XIII'
 ---
 # Mindaugo nužudymas
 
@@ -32,26 +25,31 @@ tags:
 Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
@@ -70,9 +68,7 @@ Nenurodyta
     krikščionio valdovo statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -85,5 +81,4 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/ivykiai/Mindaugo nužudymas (1263 m.)]]
 - [[objektai/ivykiai/Durbės mūšis]]

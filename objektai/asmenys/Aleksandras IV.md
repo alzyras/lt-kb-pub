@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Aleksandras IV'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1253 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1253'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - popiežius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Aleksandras IV
 
@@ -28,13 +24,15 @@ tags:
 Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperatoriaus sostą 1253 viešpaties metais apaštališkajame soste sėdėjo popiežius Aleksandras IV, kadaise legatas Vilhelmas Lenkijos ir Prūsijos žemėse, o imperatoriaus sostas buvo neužimtas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperatoriaus sostą 1253 viešpaties metais apaštališkajame soste sėdėjo popiežius Aleksandras IV, kadaise legatas Vilhelmas Lenkijos ir Prūsijos žemėse, o imperatoriaus sostas buvo neužimtas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperatoriaus sostą 1253 viešpaties metais apaštališkajame soste sėdėjo popiežius Aleksandras IV, kadaise legatas Vilhelmas Lenkijos ir Prūsijos žemėse, o imperatoriaus sostas buvo neužimtas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Aleksandrą IV, popiežių, ir neužimtą imperatoriaus sostą
@@ -46,9 +44,7 @@ Dusburgietis teigia, kad apie Aleksandrą IV, popiežių, ir neužimtą imperato
     namų broliai bei kiti Kristaus garbintojai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

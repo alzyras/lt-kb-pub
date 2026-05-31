@@ -1,14 +1,15 @@
 ---
 tipas: kokybes_auditas
-pavadinimas: Dviprasmių žmonių auditas - Michał Baliński, Vilniaus miesto istorija (2007 m.)
+pavadinimas: 'Dviprasmių žmonių auditas - Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
-# Dviprasmių žmonių auditas
+# Dviprasmių žmonių auditas - Michał Baliński, Vilniaus miesto istorija (2007 m.)
 
 ## Vykdymo metaduomenys
+
 - knyga: Michał Baliński, Vilniaus miesto istorija (2007 m.)
 - šaltinio_pastaba: `objektai/saltiniai/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - modelis: unknown
@@ -28,6 +29,7 @@ atnaujinta: ''
   - `darbas/prompts/05_quality_control/05_audit_ambiguous_people.md`
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Leonas (Haličo kunigaikščio sūnus)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -38,6 +40,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Žygimantas
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0001` (Žygimantas): Pateiktas tik vienas vardas be numerio ar papildomo identifikatoriaus.
@@ -49,6 +52,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Paleomonas
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0002` (Paleomonas): Vardas pateikiamas tik legendinio pasakojimo ir „tariamojo“ veikėjo kontekste.
@@ -61,6 +65,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Vilius
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0003` (Vilius): Vardas pateiktas tik kaip legendinė kilmės aiškinimo figūra, kurią autorius sieja su žodžių panašumu ir kritikuoja. - `chunk_0003` (Vilius): Vilius pateikiamas tik kaip legendinė, autoriaus kritikuojama miesto vardo kilmės figūra.
@@ -75,6 +80,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Jonas (arkivyskupas)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -88,6 +94,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Jonas (arkivyskupas arba dvasininkas Bonifacijaus kurijoje)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -100,6 +107,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Bonislavas (Mazovijos kunigaikštis?)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. zovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­
@@ -118,6 +126,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Kiršenšteinas
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0006` (Kiršenšteinas): Asmuo įvardytas tik pavarde / vardu be pilno vardo, bet su kilmės ir nuosavybės kontekstu.
@@ -130,6 +139,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Aleksandras (Riazanės kunigaikštis)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0008` (Aleksandras (Riazanės kunigaikštis)): Išnašos cituojamame Kromerio liudijime Riazanės kunigaikštis Aleksandras minimas kaip laidavęs už Kaributą; kūno tekstas tą patį vaidmenį priskiria Olegui, todėl tapatybė neaiški. - `chunk_0008` (Aleksandras (Riazanės kunigaikštis)): Vardas su titulu yra tik išnašos lotyniškoje citatoje ir lietuviškame vertime, bet pagrindinis tekstas analogišką vaidmenį priskiria Olegui.
@@ -155,6 +165,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Parulis
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0010` (Parulis): Tekstas pateikia tik vieną vardą ar pavardę ir pats įveda neapibrėžtai „kažkoks“, nors prideda Vilniaus gyventojo vaidmenį.
@@ -167,6 +178,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Uršulė
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0010` (Uršulė): Tekstas duoda tik vardą ir nurodo, kad pavardė nežinoma, bet pateikia konkretų sandorį.
@@ -180,6 +192,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Mauricijus
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0010` (Mauricijus): Tekstas duoda tik vardą ir nurodo, kad pavardė nežinoma, bet pateikia konkretų sandorį.
@@ -193,6 +206,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Mikalojus (Trakų klebonas)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -205,6 +219,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Limantas
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -218,6 +233,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Zigmantas (1388 m. liudytojas)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -231,6 +247,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Vaitiekus (Lucko vyskupas)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -247,6 +264,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Mikalojus (Trakų vaivada)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -263,6 +281,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Štagelis
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0013` (Štagelis): Šaltinis pateikia tik vienanarį vardą / pavardę ir amato kontekstą.
@@ -275,6 +294,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Zaviša
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0013` (Zaviša): Šaltinis pateikia tik pavardę / vienanarį vardą ir turto sandorio kontekstą.
@@ -292,6 +312,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Kosobudžkis
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -304,6 +325,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Pšemeneckis
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0015` (Pšemeneckis): Pateikta tik pavardė ir data.
@@ -313,6 +335,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Dubrovskis
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -326,6 +349,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Žalinskis / Zaleskis
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0016` (Žalinskis / Zaleskis): Šaltinis pateikia tik pavardės formą ir saugotojo funkciją; `Žalinskis` ir `Zaleskis` gali būti to paties asmens OCR ar vertimo variantai, bet tai reikia tikrinti.
@@ -341,6 +365,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Gzovskis
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0016` (Gzovskis): Šaltinis pateikia tik pavardę ir saugojimo funkciją, be vardo ar titulo.
@@ -351,6 +376,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Alb. Baranovskis
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. priskyrimo_pagrindas: needs_review
@@ -366,6 +392,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Mlodyčius
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika. - `chunk_0020` (Mlodyčius): Pateikta tik dative forma be vardo, pareigų ar platesnio identifikavimo; kontekstas rodo finansinį gavėją.
@@ -382,6 +409,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Adomas (auksakalys)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -394,6 +422,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Antanas (vaistininkas)
 - problema: Žemo patikimumo asmens kandidatas: vienanarė vardo ar pavardės forma, nepakankamas savarankiškas identifikavimas arba pačiame kandidato kontekste pažymėta tapatybės neaiškumo rizika.
@@ -411,6 +440,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Jonas de Lovenbinkė
 - problema: Citatos priskyrimas pažymėtas `priskyrimo_pagrindas: needs_review`; tekstas OCR arba maketo požiūriu pažeistas, todėl netinka patvirtintam teiginiui.
@@ -421,6 +451,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Otto Blanehom
 - problema: Citatos priskyrimas pažymėtas `priskyrimo_pagrindas: needs_review`; tekstas OCR arba maketo požiūriu pažeistas, todėl netinka patvirtintam teiginiui.
@@ -431,6 +462,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Mikalojus Albrechtas Radvila
 - problema: Citatos priskyrimas pažymėtas `priskyrimo_pagrindas: needs_review`; tekstas OCR arba maketo požiūriu pažeistas, todėl netinka patvirtintam teiginiui.
@@ -446,6 +478,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Andrius de Valentinis
 - problema: Kandidato ledger statusas `quote_not_found`; citatos kandidatas turi puslapio ir maketo įterpinių, nors kūno tekste yra asmens paminėjimas.
@@ -475,6 +508,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Andrius Volanas
 - problema: Kandidato ledger statusas `quote_not_found`; asmuo atrodo identifikuojamas, bet dabartinis kandidato citatos inkaravimas nepatvirtintas.
@@ -487,6 +521,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Emanuelis Vega
 - problema: Kandidato ledger statusas `quote_not_found`; paminėjimas yra sąraše su kitais jėzuitais, bet citatos inkaravimas nepatvirtintas.
@@ -498,6 +533,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Andrius Katavičius
 - problema: Kandidato ledger statusas `weak_context`; citata yra chronologinio sąrašo įrašas, ne pilnas pasakojimo kontekstas.
@@ -511,6 +547,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Baltramiejus Cinakis
 - problema: Kandidato ledger statusas `weak_context`; citata yra tik sąrašo eilutė su vardu ir data.
@@ -520,6 +557,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Andrius Gerkevičius
 - problema: Kandidato ledger statusas `weak_context`; citata yra tik sąrašo eilutė su vardu ir data.
@@ -529,6 +567,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Anupras Minkevičius
 - problema: Kandidato ledger statusas `weak_context`; citata yra sąrašo eilutė apie vaito buvimą, bet reikia patikrinti, ar pakanka savarankiškam asmens įrašui.
@@ -538,6 +577,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Fotijus
 - problema: Kandidato ledger statusas `no_quote`; sujungtas kandidatas neturi citatos bloko, nors darbo šaltinio kūne yra paminėjimų apie Maskvos metropolitą Fotijų.
@@ -557,6 +597,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - kandidatas: Elijas (Valakijos vaivada)
 - problema: Kandidato ledger statusas `no_quote`; sujungtas kandidatas neturi citatos bloko, nors darbo šaltinio kūne yra paminėjimas apie Valakijos vaivadą Aleksandro sūnų Eliją.

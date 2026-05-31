@@ -1,28 +1,22 @@
 ---
 tipas: saltinis
 pavadinimas: 'Švitrigailos 1431 m. gruodžio 31 d. laiškas didžiajam magistrui'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1431 m.'
   - '1432 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1431'
 date_end: '1432'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - kunigaikštis
   - miestas
   - saltinis
+amziai:
+  - 'XV'
 ---
 # Švitrigailos 1431 m. gruodžio 31 d. laiškas didžiajam magistrui
 
@@ -31,13 +25,15 @@ tags:
 7 Slaptajame Karaliaučiaus archyve yra daugybė to įrodymų; be kitų, 1431 m. gruodžio 31 d. Švitrigailos laiš­ kas didžiajam magistrui, rašytas iš Vilniaus, pirmadienį prieš Naujuo­ sius metus.
 
 ## Teiginiai
+
 - t-001
   teiginys: '7 Slaptajame Karaliaučiaus archyve yra daugybė to įrodymų; be kitų, 1431 m. gruodžio 31 d. Švitrigailos laiš­ kas didžiajam magistrui, rašytas iš Vilniaus, pirmadienį prieš Naujuo­ sius metus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '7 Slaptajame Karaliaučiaus archyve yra daugybė to įrodymų; be kitų, 1431 m. gruodžio 31 d. Švitrigailos laiš­ kas didžiajam magistrui, rašytas iš Vilniaus, pirmadienį prieš Naujuo­ sius metus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7
@@ -73,8 +69,6 @@ tags:
     paties svečio broliui Prūsijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

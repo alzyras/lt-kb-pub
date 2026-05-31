@@ -290,5 +290,3 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
 - [[objektai/zodynas/žygis]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]
 - [[objektai/grupes/Vilniaus gyventojai]]
-- [[objektai/zodynas/genetinė istorija pragmatiškai-didaktinis istorijos rašymo būdas psichofizinis priežastingumas]]
-- [[objektai/zodynas/pragmatiškai-didaktinė kryptis]]

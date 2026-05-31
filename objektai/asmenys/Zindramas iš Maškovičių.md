@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Zindramas iš Maškovičių'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,21 @@ tags:
 Lenkijos kariams vadovavo Zindramas iš Maškovičių ir Lenkijos maršalas Zbignevas iš Bžezės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkijos kariams vadovavo Zindramas iš Maškovičių ir Lenkijos maršalas Zbignevas iš Bžezės.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkijos kariams vadovavo Zindramas iš Maškovičių ir Lenkijos maršalas Zbignevas iš Bžezės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Samdiniai
+    Lenkų gretose taip
+    pat kovėsi čekų ir moravų samdiniai, pasak
+    šaltinių, jiems samdyti Vytautas Jogailai
+    perdavė 20 tūkst. kapų grašių. Samdiniai
     buvo labai patyrę elitiniai kariai.
 
     Lenkijos kariams vadovavo Zindramas
@@ -43,11 +39,10 @@ Lenkijos kariams vadovavo Zindramas iš Maškovičių ir Lenkijos maršalas Zbig
     a
 
     Peties apsauga.
+    xv a. rekonstrukcija
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Įtvirtintas malūnas prie Baigos'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
 ---
@@ -24,29 +15,35 @@ tags:
 Dusburgietis teigia, kad iII, 24 — per pontem. Čia minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias žemaičių kūlgrindas (Kšivickis L., Žemaičių..., p. 60—72).
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad iII, 24 — per pontem. Čia minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias žemaičių kūlgrindas (Kšivickis L., Žemaičių..., p. 60—72).'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad iII, 24 — per pontem. Čia minimas prie Baigos per vandenis, pelkę ėjęs grįstas kelias, greičiausiai panašus į garsias žemaičių kūlgrindas (Kšivickis L., Žemaičių..., p. 60—72).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     247 D.— pontem paludis juxta stratam, Jer.— brucke; D. III, 24 — per pontem. Čia
@@ -56,9 +53,7 @@ Nenurodyta
     35), apie 4 km į pietryčius nuo Baigos, kur upelį kerta vėlesnis geležinkelis.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

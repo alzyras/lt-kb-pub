@@ -37,10 +37,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės.'
   pagrindžia:
@@ -57,6 +53,10 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   teiginys: 'Per kelis šimtus žingsnių, ant nedidelės aukštumė­ lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods taip pat dviejų aukštų.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,27 +79,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Spalio 8 d. prasidėjo puolimas. Beveik
-    visa Lietuvos kariuomenė buvo likusi
-    Pietų Lietuvoje (lenkams užėmus Varėną,
-    buvo neįmanoma greitai geležinkeliu
-
-    permesti pajėgų Vilniaus
-    gynybai). Želigovskio pajė-
-    gos su negausiomis lietu-
-    vių pajėgomis susidūrė ties
-    Merkio upe.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -167,3 +146,24 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Spalio 8 d. prasidėjo puolimas. Beveik
+    visa Lietuvos kariuomenė buvo likusi
+    Pietų Lietuvoje (lenkams užėmus Varėną,
+    buvo neįmanoma greitai geležinkeliu
+
+    permesti pajėgų Vilniaus
+    gynybai). Želigovskio pajė-
+    gos su negausiomis lietu-
+    vių pajėgomis susidūrė ties
+    Merkio upe.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

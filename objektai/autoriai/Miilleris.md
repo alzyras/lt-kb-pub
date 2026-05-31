@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Miilleris'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1818 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1818'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Miilleris
 
@@ -28,13 +24,15 @@ tags:
 kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, sudarytą pagal Maskvos archyvo torius, turėdamas pasitikėjimą, gavedėjo Miillerio Rusijos genealogivo iš Miillerio ir įdėjo į savo svarbų nes knygas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, sudarytą pagal Maskvos archyvo torius, turėdamas pasitikėjimą, gavedėjo Miillerio Rusijos genealogivo iš Miillerio ir įdėjo į savo svarbų nes knygas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, sudarytą pagal Maskvos archyvo torius, turėdamas pasitikėjimą, gavedėjo Miillerio Rusijos genealogivo iš Miillerio ir įdėjo į savo svarbų nes knygas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau teisus
@@ -47,9 +45,7 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
     vo iš Miillerio ir įdėjo į savo svarbų nes knygas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

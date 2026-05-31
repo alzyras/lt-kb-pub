@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Antanas Šukys'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,20 @@ tags:
 Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas Šukys, tuo metu mokęsis Kauno Karužų mokykloje, prisimena, | kaip buvo renkami kariai sulaikyti per Jiezną besiveržiančios Raudonosios armijos. Antanas Šukys staiga pasijuto blogai, | ir skausmai spaudė jam krūtinę.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Antanas Šukys staiga pasijuto blogai, | ir skausmai spaudė jam krūtinę.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Bendras durtuvo ilgis — 502 mm. Svoris be durtuvo - 4,20 kg
@@ -60,13 +55,24 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
     5
 
     .
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Antanas Šukys staiga pasijuto blogai, | ir skausmai spaudė jam krūtinę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šie sviediniai buvo pripildyti nuodingų dujų. Jie sprogo prie apkasų ir palengva skleidėsi |
+    dujos. Pirmasis buvo apnuodytas 111 būrio būrininkas Klimaitis. Jis staiga pasijuto blogai, |
+    ir skausmai spaudė jam krūtinę. Žmogus niekur negalėjo rasti ramybės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

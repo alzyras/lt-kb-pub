@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Maudelis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - krikštas
@@ -26,25 +17,29 @@ tags:
 Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su visomis savo šeimynomis ir, krikšto.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Po to, kai mūsų aukščiau minėtas
+    1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
+    varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
+    kad jie ateityje niekada nemėginsią imtis tokių baisingų veiksmų, bet būsią nuolankiai
+    paklusnūs tikėjimui ir brolių valdžiai, magistras ir broliai, susirūpinę krikščionių [žemių]
+    ribų praplėtimu, nukreipė savo ginklus prieš nadruvius. Po to, kai mūsų aukščiau minėtas
     Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais savo artimaisiais pasidavė tikėjimui
     bei broliams, daug galingų ir kilmingų Nadruvos vyrų vienas po kito atėjo pas brolius su
     visomis savo šeimynomis ir, krikšto prikelti naujam gyvenimui bei išsižadėję stabų, ėmė
     tarnauti gyvajam dievui Jėzui Kristui.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

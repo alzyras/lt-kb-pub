@@ -68,10 +68,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   teiginys: 'Jeigu su atida peržvelgsime laiškus, Gedimino vardu rašytus dominikonų ordinui, minoritams ir Vokietijos mies­ tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­ dijančių juos Rygos arkivyskupo prasimanymu ir klastote esant.'
   pagrindžia:
     - c-008
-- t-009
-  teiginys: 'Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­ beko katedros kanauninkų, dominikonų ordino vienuoliams ir.'
-  pagrindžia:
-    - c-009
 - t-010
   teiginys: 'Kryžiaus ir dominikonų ordino brolių, Algirdo laikais sugriautų, tebu­ vo išlikęs Gedimino, geranoriško krikščionybės atžvilgiu, atminimas.'
   pagrindžia:
@@ -88,10 +84,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   teiginys: 'Aleksan­ dras, toje vietoje įkurdinęs dominikonus, Vingrių šaltinių nesugrąžino miestui, bet sutiko juos kartu su klebonija 6 Tai matyti iš Žygimanto Senojo 1536 metų rugpjūčio 29 dienos (Archiwum Miejs.'
   pagrindžia:
     - c-013
-- t-014
-  teiginys: 'Archyve yra šio šalti­ nio pardavimo iš dominikonų mies­ tui sutartis, sudaryta 1536 metų Šv.'
-  pagrindžia:
-    - c-014
 - t-015
   teiginys: 'Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv.'
   pagrindžia:
@@ -100,6 +92,14 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   teiginys: 'Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno.'
   pagrindžia:
     - c-016
+- t-017
+  teiginys: 'Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­ beko katedros kanauninkų, dominikonų ordino vienuoliams ir.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Archyve yra šio šalti­ nio pardavimo iš dominikonų mies­ tui sutartis, sudaryta 1536 metų Šv.'
+  pagrindžia:
+    - c-018
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominikonams, prie Vilniaus pilies pastatydino jiems vienuolynus ir bažnyčias, o kad krašte plistų amatai, leido naujai įkurtame mieste apsigyventi gausiems atėjū­ nams iš Vokietijos ir.'
@@ -354,27 +354,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-009
-  santrauka: 'Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­ beko katedros kanauninkų, dominikonų ordino vienuoliams ir.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jam
-    lengviausia buvo atsekti tikrą įvykių eigą. Rygos miesto tarė­
-    jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323
-    metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant
-    imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­
-    beko katedros kanauninkų, dominikonų ordino vienuoliams
-    ir miesto tarybos nariams, įteikė dominikonų ordino kuni­
-    gams tariamus karaliaus Gedimino laiškus, prašydami juos
-    čia pat skaityti. Tad buvo perskaitytas tas laiškas ir du kiti,
-    kurie buvo įteikti miesto tarybai ir minoritų kustodui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
 - c-010
   santrauka: 'Kryžiaus ir dominikonų ordino brolių, Algirdo laikais sugriautų, tebu­ vo išlikęs Gedimino, geranoriško krikščionybės atžvilgiu, atminimas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -494,34 +473,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
-- c-014
-  santrauka: 'Archyve yra šio šalti­ nio pardavimo iš dominikonų mies­ tui sutartis, sudaryta 1536 metų Šv.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pirmąją iš griuvėsių prikėlė karalius ir pa­
-    vertė patogiais savo apartamentais11, antrosios atstatymu
-    10
-    Po didelių ginčų Vingrių Šaltiniai,
-    šiandien vadinami Vingriais arba
-    Vengriais, pagaliau sugrįžo miesto
-    nuosavybėn. Archyve yra šio šalti­
-    nio pardavimo iš dominikonų mies­
-    tui sutartis, sudaryta 1536 metų Šv.
-    Elenos dieną, už šimtą kapų lietu­
-    viškų grašių ir dešimtį pūdų pipirų:
-    Vendimus abscedimus, et resignamus
-    vivum nostrum Vingier, seu torrentem
-    vulgariterque dictum extra civitatis mo­
-    enia existentem, una cum alveo et aqua
-    ex indė fluenti et canalibus, omnique
-    usu et fructu quibusvis emolumentis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
 - c-015
   santrauka: 'Dominyko ordino brolių pa­ mokslininkų vienuolyno, esančio prie Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -572,6 +523,55 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: 'Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­ beko katedros kanauninkų, dominikonų ordino vienuoliams ir.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jam
+    lengviausia buvo atsekti tikrą įvykių eigą. Rygos miesto tarė­
+    jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323
+    metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant
+    imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­
+    beko katedros kanauninkų, dominikonų ordino vienuoliams
+    ir miesto tarybos nariams, įteikė dominikonų ordino kuni­
+    gams tariamus karaliaus Gedimino laiškus, prašydami juos
+    čia pat skaityti. Tad buvo perskaitytas tas laiškas ir du kiti,
+    kurie buvo įteikti miesto tarybai ir minoritų kustodui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Archyve yra šio šalti­ nio pardavimo iš dominikonų mies­ tui sutartis, sudaryta 1536 metų Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pirmąją iš griuvėsių prikėlė karalius ir pa­
+    vertė patogiais savo apartamentais11, antrosios atstatymu
+    10
+    Po didelių ginčų Vingrių Šaltiniai,
+    šiandien vadinami Vingriais arba
+    Vengriais, pagaliau sugrįžo miesto
+    nuosavybėn. Archyve yra šio šalti­
+    nio pardavimo iš dominikonų mies­
+    tui sutartis, sudaryta 1536 metų Šv.
+    Elenos dieną, už šimtą kapų lietu­
+    viškų grašių ir dešimtį pūdų pipirų:
+    Vendimus abscedimus, et resignamus
+    vivum nostrum Vingier, seu torrentem
+    vulgariterque dictum extra civitatis mo­
+    enia existentem, una cum alveo et aqua
+    ex indė fluenti et canalibus, omnique
+    usu et fructu quibusvis emolumentis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
@@ -580,7 +580,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - [[objektai/asmenys/Elena]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas fon Calmaras]]
 - [[objektai/asmenys/Korčiakas]]
 - [[objektai/autoriai/Kotzebue]]
 - [[objektai/grupes/Krikščionys]]
@@ -605,10 +604,6 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 - [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
 - [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]
 - [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]
-- [[objektai/asmenys/Janas fon Bremenas]]
-- [[objektai/asmenys/Jonas Roghenas]]
-- [[objektai/grupes/Liubeko miesto taryba]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]
 - [[objektai/zodynas/kanonizavimas ir palaikų pakylėjimas]]
-- [[objektai/zodynas/prelatai ir kanauninkai]]

@@ -70,10 +70,6 @@ tags:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.'
   pagrindžia:
@@ -178,6 +174,10 @@ tags:
   teiginys: 'Jos pri­ klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.'
   pagrindžia:
     - c-032
+- t-033
+  teiginys: 'Užpuolė dar Naugarduką ir kt.'
+  pagrindžia:
+    - c-033
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -250,19 +250,6 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet ir tuo jis nepasiten­
-    kino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -801,3 +788,16 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-032
+- c-033
+  santrauka: 'Užpuolė dar Naugarduką ir kt.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet ir tuo jis nepasiten­
+    kino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Tautvila'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -27,13 +18,15 @@ tags:
 Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­ čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­ fas Algardas34.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - • —
@@ -71,12 +64,11 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
     patį mirtinai iš lanko paleista strėle
     pervėrė, pamindamas deramas pus­
     broliui, riteriui kunigaikščiui, prie­
-    dermes/7  Knyga XIII, p.
+    dermes/7  Knyga XIII, p. 455, Varš.
+    leid.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

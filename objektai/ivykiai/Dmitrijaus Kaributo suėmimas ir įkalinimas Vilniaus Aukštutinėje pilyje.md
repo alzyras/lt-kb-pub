@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
@@ -27,26 +18,31 @@ tags:
 Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Paminėsime tad tik
@@ -70,9 +66,7 @@ Nenurodyta
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

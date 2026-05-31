@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Spaustuvės išlaikymo alaus statinė ir duonos kepalai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
 ---
@@ -24,32 +15,44 @@ tags:
 Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­ per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­ nio alaus oxeftą duoti tenebatur [privalėjo].
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­ per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­ nio alaus oxeftą duoti tenebatur [privalėjo].'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Notandum [pa­ žymėtina], kurios pro contigenti lucro [iš gaunamo pelno] skiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­ per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­ nio alaus oxeftą duoti tenebatur [privalėjo].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    auksinų. Notandum [pa­
+    Spaustuvės lėšas sudaro pajamos, gautos už parduotas
+    joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­
+    doms] - spaudmenims, popieriui, atlyginimams, rinkėjams
+    ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau
+    kaip 20 žmonių maitinimui, item pro sartis et tectis [remon­
+    tui], to paties mūrinio namo remontui, per metus vos tegau­
+    na habitualiter [išskirtinai] 2000 lenk. auksinų. Notandum [pa­
     žymėtina], kurios pro contigenti lucro [iš gaunamo pelno]
     skiriamos kolegijos prefekto ir padėjėjo maitinimui, et insu­
     per [ir priedo] kas savaitę statinę alaus, alias oxeft ir silpnes­
@@ -58,9 +61,7 @@ Nenurodyta
     ir tiems patiems 8 valgį iš kolegijos virtuvės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

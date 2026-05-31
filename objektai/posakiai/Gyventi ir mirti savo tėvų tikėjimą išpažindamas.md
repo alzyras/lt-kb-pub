@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: 'Gyventi ir mirti savo tėvų tikėjimą išpažindamas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1006 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
 date_start: '1006'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
   - popiežius
   - posakis
+amziai:
+  - 'XI'
 ---
 # Gyventi ir mirti savo tėvų tikėjimą išpažindamas
 
@@ -30,13 +24,15 @@ tags:
 Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­ pareigojimų Ordinui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­ pareigojimų Ordinui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­ pareigojimų Ordinui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame
@@ -66,9 +62,7 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
     laikydamiesi gyveno ir mirė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

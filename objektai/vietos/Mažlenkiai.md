@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Mažlenkiai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - unija
   - vieta
@@ -19,16 +16,20 @@ tags:
 Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Liublino unijos metu Mažlenkiai buvo viena iš dviejų Lenkijos provincijų, rengusių atskirus generalinius seimelius.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Liublino unijos metu Mažlenkiai buvo viena iš dviejų Lenkijos provincijų, rengusių atskirus generalinius seimelius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau sei-
@@ -46,10 +47,32 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
     važiavimai, vadinami
     generaliniais sei-
     meliais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Generaliniai seime-
+    liai. Sudarant Liublino
+    uniją, Lenkijoje, be sei-
+    melių, dar būdavo daro-
+    mi dviejų jos provincijų
+    — Didlenkių ir Mažlen-
+    kių — atskiri astovų su-
+    važiavimai, vadinami
+    generaliniais sei-
+    meliais. Mat, anks-
+    čiau Lenkija buvo susi-
+    dėjusi iš dviejų valsty-
+    bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
+    išnykusios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

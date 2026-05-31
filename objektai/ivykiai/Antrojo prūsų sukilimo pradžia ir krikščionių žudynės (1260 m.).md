@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1260 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1260'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigas
   - ordinas
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)
 
@@ -30,30 +24,57 @@ tags:
 Dusburgietis teigia, kad apie antrąją prūsų atskalūnybę, kuri truko 15 metų Tais pačiais metais (1260, rugsėjo 20 d.), švento Mato, apaštalo bei evangelisto, 355 Volradų giminė buvo žinoma Vestfalijoje. Dusburgietis teigia, kad apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie antrąją prūsų atskalūnybę, kuri truko 15 metų Tais pačiais metais (1260, rugsėjo 20 d.), švento Mato, apaštalo bei evangelisto, 355 Volradų giminė buvo žinoma Vestfalijoje.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie antrąją prūsų atskalūnybę, kuri truko 15 metų Tais pačiais metais (1260, rugsėjo 20 d.), švento Mato, apaštalo bei evangelisto, 355 Volradų giminė buvo žinoma Vestfalijoje.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie didelį krikščionių kraujo praliejimą
+
+      Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
+    išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti. Jie šitai
+    ir padarė, nes visus krikščionis, kurie nespėjo Prūsijos žemėje pasislėpti už įtvirtinimų,
+    arba be gailesčio išžudė, arba išsivarė į amžinąją vergovę; degindami dievo bažnyčias,
+    koplyčias  ir kitus maldos namus, niekindami bažnyčios šventenybes, neleistiniems
+    tikslams pavartodami šventus rūbus ir šventas taures, jie be pasigailėjimo žudė kunigus
+    bei kitus bažnyčios tarnus. Sembai pagavo vieną kunigą, Teutonų ordino brolį, atsiųstą jų
+    krikštyti, ir, suspaudę jam kaklą dviem kartimis, tol kankino, kol šis numirė, tvirtindami,
+    kad šitokia kankinių už tikėjimą mirtis ir prideranti šventiems vyrams, nes nedrįstą jų
+    kraujo pralieti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie antrąją prūsų atskalūnybę, kuri truko 15 metų Tais pačiais metais (1260, rugsėjo 20 d.), švento Mato, apaštalo bei evangelisto, 355 Volradų giminė buvo žinoma Vestfalijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie antrąją prūsų atskalūnybę, kuri truko 15 metų
@@ -74,16 +95,15 @@ Nenurodyta
     bartai — Divaną361.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
+
+- c-003
   santrauka: 'Dusburgietis teigia, kad apie didelį krikščionių kraujo praliejimą Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie didelį krikščionių kraujo praliejimą
+    90 (85). Apie didelį krikščionių kraujo praliejimą
 
       Šie kariuomenių vadai ir vyresnieji paskyrė dieną, kada, visi susirinkę ginkluoti, turėjo
     išžudyti visus žmones, išpažįstančius krikščionių tikėjimą, ir visiškai juos išnaikinti. Jie šitai
@@ -91,17 +111,12 @@ Nenurodyta
     arba be gailesčio išžudė, arba išsivarė į amžinąją vergovę; degindami dievo bažnyčias,
     koplyčias  ir kitus maldos namus, niekindami bažnyčios šventenybes, neleistiniems
     tikslams pavartodami šventus rūbus ir šventas taures, jie be pasigailėjimo žudė kunigus
-    bei kitus bažnyčios tarnus. Sembai pagavo vieną kunigą, Teutonų ordino brolį, atsiųstą jų
-    krikštyti, ir, suspaudę jam kaklą dviem kartimis, tol kankino, kol šis numirė, tvirtindami,
-    kad šitokia kankinių už tikėjimą mirtis ir prideranti šventiems vyrams, nes nedrįstą jų
-    kraujo pralieti.
+    bei kitus bažnyčios tarnus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

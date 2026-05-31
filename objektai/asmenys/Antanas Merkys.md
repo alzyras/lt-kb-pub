@@ -140,7 +140,6 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/A. Merkys]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]

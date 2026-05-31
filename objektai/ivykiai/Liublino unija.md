@@ -64,10 +64,6 @@ Nenurodyta
   teiginys: 'Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Derybų procese žaisdamas dviprasmybėmis, Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
   pagrindžia:
@@ -76,6 +72,10 @@ Nenurodyta
   teiginys: 'Liublino unijos nauda pasireiškė jau netrukus.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Derybų procese žaisdamas dviprasmybėmis, Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -162,33 +162,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Derybų procese žaisdamas dviprasmybėmis, Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    “
-    Po šių žodžių lietuviai su ašaromis puolė ant kelių prieš karalių, tai
-    pravirkdė netgi lenkus. Atrodo, kad J. J. Chodkevičiaus ašaros taip pat
-    buvo diplomatijos išraiška. Derybų procese žaisdamas dviprasmybėmis,
-    Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų
-    klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad
-    Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine pro-
-    vincija), ar ir Lietuvos antspaudais. Lyg ir sutikdamas su lenkų nuomone,
-    pritardamas vienam bendram antspaudui, jis čia pat prašė nepanaikinti
-    ir Lietuvos antspaudų. Tai akivaizdus prieštaravimas. Apgindamas LDK
-    antspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-
-    vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
-    ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
-    tybingumą. Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-
-    vų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities
-    kelius ten, kur, atrodė, jų nėra.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -225,6 +198,33 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Derybų procese žaisdamas dviprasmybėmis, Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Po šių žodžių lietuviai su ašaromis puolė ant kelių prieš karalių, tai
+    pravirkdė netgi lenkus. Atrodo, kad J. J. Chodkevičiaus ašaros taip pat
+    buvo diplomatijos išraiška. Derybų procese žaisdamas dviprasmybėmis,
+    Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų
+    klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad
+    Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine pro-
+    vincija), ar ir Lietuvos antspaudais. Lyg ir sutikdamas su lenkų nuomone,
+    pritardamas vienam bendram antspaudui, jis čia pat prašė nepanaikinti
+    ir Lietuvos antspaudų. Tai akivaizdus prieštaravimas. Apgindamas LDK
+    antspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-
+    vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
+    ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
+    tybingumą. Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-
+    vų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities
+    kelius ten, kur, atrodė, jų nėra.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai

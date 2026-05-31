@@ -1,28 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'bursa'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1579 m.'
   - '1582 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1579'
 date_end: '1582'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # bursa
 
@@ -31,41 +25,20 @@ tags:
 Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­ gė neturtingiems studentams bursą, pavadintą Valerijono vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos jėzuitų priežiūrai ir globai58. 58 Valerianae Bursae Erectio et Provisio [Valerijono bursos statyba ir aprū­ pinimas], Vilniaus kapitulos archy­ ve.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­ gė neturtingiems studentams bursą, pavadintą Valerijono vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos jėzuitų priežiūrai ir globai58.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: '58 Valerianae Bursae Erectio et Provisio [Valerijono bursos statyba ir aprū­ pinimas], Vilniaus kapitulos archy­ ve.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­ gė neturtingiems studentams bursą, pavadintą Valerijono vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos jėzuitų priežiūrai ir globai58.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vyskupo Protasevičiaus
-    funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
-    kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­
-    rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai
-    išleisti dekretai57. Neapsiribodamas pavyzdžio verta savo
-    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
-    gė neturtingiems studentams bursą, pavadintą Valerijono
-    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
-    jėzuitų priežiūrai ir globai58. Protasevičiaus pėdomis sekė ir
-    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
-    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
-    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
-    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: '58 Valerianae Bursae Erectio et Provisio [Valerijono bursos statyba ir aprū­ pinimas], Vilniaus kapitulos archy­ ve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     58
@@ -98,11 +71,31 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
     goje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vyskupo Protasevičiaus
+    funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
+    kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­
+    rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai
+    išleisti dekretai57. Neapsiribodamas pavyzdžio verta savo
+    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
+    gė neturtingiems studentams bursą, pavadintą Valerijono
+    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
+    jėzuitų priežiūrai ir globai58. Protasevičiaus pėdomis sekė ir
+    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
+    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
+    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
+    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

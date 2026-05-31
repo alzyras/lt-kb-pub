@@ -93,8 +93,6 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]
-- [[objektai/asmenys/Antanas Slučka-Šarūnas]]
-- [[objektai/asmenys/Antanas Starkus-Montė]]
 - [[objektai/asmenys/J. Reikala]]
 - [[objektai/asmenys/K. Škirpa]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]

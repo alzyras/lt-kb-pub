@@ -237,6 +237,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
   pagrindžia:
     - c-047
+- t-048
+  teiginys: 'Korčino aktas, stojo skersai kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta prieš jo pretenzijas į Lucką^1 ).'
+  pagrindžia:
+    - c-048
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -1038,6 +1042,23 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-047
+- c-048
+  santrauka: 'Korčino aktas, stojo skersai kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta prieš jo pretenzijas į Lucką^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dar
+    1392 m. pavasarį niekas negalėjo įspėti tokio Jogailos pasikei­
+    timo politikoj, nes dar tų pačių metų bal. 16 d. išdavė Lvove pri­
+    vilegiją, kuri taip pat, kaip ir N. Korčino aktas, stojo skersai
+    kelio Vytauto siekimams Lietuvoj, ypač buvo aiškiai atkreipta
+    prieš jo pretenzijas į Lucką^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-048
 
 ## Pavadinimai šaltiniuose
 

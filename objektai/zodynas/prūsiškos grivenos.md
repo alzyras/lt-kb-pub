@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'prūsiškos grivenos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1392 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1392'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - ordinas
   - sąvoka
+amziai:
+  - 'XIV'
 ---
 # prūsiškos grivenos
 
@@ -29,13 +23,15 @@ tags:
 Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių metraštininkų, siekė maž­ ne penkiskart po šimtą tūkstančių prūsiškų grive'nų42.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių metraštininkų, siekė maž­ ne penkiskart po šimtą tūkstančių prūsiškų grive''nų42.'
+  teiginys: 'Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių metraštininkų, siekė maž­ ne penkiskart po šimtą tūkstančių prūsiškų grive''''nų42.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių metraštininkų, siekė maž­ ne penkiskart po šimtą tūkstančių prūsiškų grive''nų42.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     130
@@ -65,9 +61,7 @@ Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių
     ne penkiskart po šimtą tūkstančių prūsiškų grive'nų42.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

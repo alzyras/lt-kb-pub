@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1990 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1990'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)
 
@@ -28,60 +22,69 @@ tags:
 Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11– 13 d.). Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11– 13 d.).'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11– 13 d.).'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11– 13 d.).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
     13 d.). Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
+    Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
+    Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
+    Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Są-
+    jūdininkai buvo pasiryžę skelbti Lietuvos valstybę. Net 1990 m. sausio
+    11–13 d. M. Gorbačiovo vizitas į Lietuvą neatbaidė LPS nuo šių planų.
     Nors M. Gorbačiovas aiškino, kad vienintelė Lietuva iš socializmo išsun-
     kė viską, kas geriausia, Lietuvai stigo esminio tikslo – nepriklausomybės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Griebtasi šantažo – grasinta
@@ -94,12 +97,11 @@ Nenurodyta
     Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m. sausio 11–
     13 d.). Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės.
     Vladimiro Gulevičiaus, Kęstučio Jankausko nuotrauka
-    Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m.
+    Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d.
+    Mergaitė su plakatu reikalauja ne LSSR, o LR – Lietuvos Respublikos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

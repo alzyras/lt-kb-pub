@@ -1,9 +1,6 @@
 ---
 tipas: daiktas
 pavadinimas: 'Laivai, valtys, sieliai ir plaustai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -11,23 +8,18 @@ datos:
   - '1257 m.'
   - '1323 m.'
   - '1325 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XIII'
-  - 'XIV'
 date_start: '1160'
 date_end: '1325'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
   - miestas
   - tauta
+amziai:
+  - 'XII'
+  - 'XIV'
 ---
 # Laivai, valtys, sieliai ir plaustai
 
@@ -36,107 +28,60 @@ tags:
 Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę. Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd).'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Ar­ ba, priešingai, po vandeniu slypin­ čiais rifais klastingai prigaudavo pir­ 16 ## Puslapis 33 I KNYGA klius, išdrįsusius, Lietuvai su Prūsi­ ja ėmus prekiauti, leistis į pirmąją kelionę sieliais.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'J a r o- 68 ## Puslapis 85 I KNYGA ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.'
-  pagrindžia:
-    - c-005
+
 - t-006
   teiginys: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
   pagrindžia:
     - c-006
 
+- t-003
+  teiginys: 'Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd).'
+  pagrindžia:
+    - c-001
+
+- t-005
+  teiginys: 'J a r o- 68 ## Puslapis 85 I KNYGA ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.'
+  pagrindžia:
+    - c-005
+
+- t-004
+  teiginys: 'Ar­ ba, priešingai, po vandeniu slypin­ čiais rifais klastingai prigaudavo pir­ 16 ## Puslapis 33 I KNYGA klius, išdrįsusius, Lietuvai su Prūsi­ ja ėmus prekiauti, leistis į pirmąją kelionę sieliais.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Benjaminas iš Tudelio, žydų kilmės ke­ liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd).'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    7
 
-    ## Puslapis 24
-
-    ĮVADAS
-    Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­
-    vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­
-    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
-    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
-    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
-    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
-    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
-    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
-    dajam.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Būtent toje epochoje narsių piratų valdomi prasti, bet mitrūs ir lengvi laivai pasklido iš Skandinavijos pu­ siasalio po visą Baltijos pakrantę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nors jau V amžiaus pabaigoje,
-    tuoj po Romos valstybės žlugimo,
-    Europos Šiaurės kraštai kentėjo nuo
-    normanų puldinėjimų, bet jie nebu­
-    vo tokie reikšmingi ir grėsmingi,
-    kaip prasidėjusieji sulig didelės Ka­
-    rolio Didžiojo monarchijos žlugimu.
-    Būtent toje epochoje narsių piratų
-    valdomi prasti, bet mitrūs ir lengvi
-    laivai pasklido iš Skandinavijos pu­
-    siasalio po visą Baltijos pakrantę.
-    Sagos, kitaip sakant, senovinės tos
-    tautos legendos, eilėmis ir proza
-    15
-
-    ## Puslapis 32
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
-    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
-    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
-    bei Lenkiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Man vis dėlto atrodo,
@@ -159,44 +104,31 @@ Nenurodyta
     Karelijoje, tarp vietinių gyventojų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Ar­ ba, priešingai, po vandeniu slypin­ čiais rifais klastingai prigaudavo pir­ 16 ## Puslapis 33 I KNYGA klius, išdrįsusius, Lietuvai su Prūsi­ ja ėmus prekiauti, leistis į pirmąją kelionę sieliais.'
+
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    5
-    Žodį Vilija, jeigu jo kilmės imtume
-    ieškoti lietuvių kalboje, galima tarti
-    kilus nuo Wiloju [vilioju] - gundau,
-    arba nuo Wilius [vylius] - klasta, tad
-    tokiu atveju Vilija reikštų Vilioklė.
-    Gal dėl to, kad ta nuostabi upė vi­
-    liojo ir masino prie savo krantų vie­
-    nišus, klajojančius po gūdžias girias
-    senovės lietuvius ir jų vaidilas. Ar­
-    ba, priešingai, po vandeniu slypin­
-    čiais rifais klastingai prigaudavo pir­
-    16
-
-    ## Puslapis 33
-
-    I  KNYGA
-    klius, išdrįsusius, Lietuvai su Prūsi­
-    ja ėmus prekiauti, leistis į pirmąją
-    kelionę sieliais.
+    Lindenblatt Jahrbücher, p. 9 4 .
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-006
+
 - c-005
-  santrauka: 'J a r o- 68 ## Puslapis 85 I KNYGA ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Energingas Garteno (Gar­
@@ -251,33 +183,92 @@ Nenurodyta
     plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    9 4 .
-    52
-    Tas žygis buvo paskubomis ir slap­
-    ta suruoštas, ir todėl didysis magist­
-    ras tuokart mažai teturėjo svetimša­
-    lių, juk nesigarsino po visą Europą,
-    o slapčia iš Marienburgo išplaukė
-    Vysla laivais, paskui jūros įlanka
-    įplaukė į Nemuną. Mūsų istorikai
-    bendrais bruožais ir ne taip išsamiai
-    apie šitai pasakoja.
+    Nors jau V amžiaus pabaigoje,
+    tuoj po Romos valstybės žlugimo,
+    Europos Šiaurės kraštai kentėjo nuo
+    normanų puldinėjimų, bet jie nebu­
+    vo tokie reikšmingi ir grėsmingi,
+    kaip prasidėjusieji sulig didelės Ka­
+    rolio Didžiojo monarchijos žlugimu.
+    Būtent toje epochoje narsių piratų
+    valdomi prasti, bet mitrūs ir lengvi
+    laivai pasklido iš Skandinavijos pu­
+    siasalio po visą Baltijos pakrantę.
+    Sagos, kitaip sakant, senovinės tos
+    tautos legendos, eilėmis ir proza
+    15
+
+    ## Puslapis 32
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
+    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
+    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
+    bei Lenkiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
+    - t-002
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    5
+    Žodį Vilija, jeigu jo kilmės imtume
+    ieškoti lietuvių kalboje, galima tarti
+    kilus nuo Wiloju [vilioju] - gundau,
+    arba nuo Wilius [vylius] - klasta, tad
+    tokiu atveju Vilija reikštų Vilioklė.
+    Gal dėl to, kad ta nuostabi upė vi­
+    liojo ir masino prie savo krantų vie­
+    nišus, klajojančius po gūdžias girias
+    senovės lietuvius ir jų vaidilas. Ar­
+    ba, priešingai, po vandeniu slypin­
+    čiais rifais klastingai prigaudavo pir­
+    16
+
+    ## Puslapis 33
+
+    I  KNYGA
+    klius, išdrįsusius, Lietuvai su Prūsi­
+    ja ėmus prekiauti, leistis į pirmąją
+    kelionę sieliais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    7
+
+    ## Puslapis 24
+
+    ĮVADAS
+    Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­
+    vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­
+    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
+    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
+    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
+    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
+    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
+    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
+    dajam.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

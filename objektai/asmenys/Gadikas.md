@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Gadikas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,21 @@ tags:
 Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Šio pakraščio vadą, vardu Gadikas338, nužudė
+    Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
+    kurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],
+    nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
+    ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
     drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
     moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
 
@@ -43,12 +39,34 @@ Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drau
                    77 (76).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie vienos Notangos dalies nuniokojimą
+
+      Tas pats komtūras sutelkė kariuomenę su Vonsdorfo vyrais ir kai kuriais kitais [prūsais],
+    kurie jam buvo paklusnūs,  ir įsibrovė  į vieną Notangos žemės pakraštį [confinium],
+    nenorėjusį pritarti taikos sutartims, pastaruoju metu sudarytoms su kitomis [žemėmis],
+    ir jį nuniokojo, plėšdamas bei degindamas. Šio pakraščio vadą, vardu Gadikas338, nužudė
+    drauge su dviem jo sūnumis bei daugybe kitų žmonių, o jo žmoną bei visą šeimyną su
+    moterimis ir mažais vaikais išsivarė kartu su kitu grobiu.
+
+
+
+
+                   77 (76).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/komtūras]]
+- [[objektai/ivykiai/Notangos pakraščio nuniokojimas ir Gadiko žūtis]]

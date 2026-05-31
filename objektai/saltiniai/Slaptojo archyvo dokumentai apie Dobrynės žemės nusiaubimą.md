@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Slaptojo archyvo dokumentai apie Dobrynės žemės nusiaubimą'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
@@ -25,36 +16,20 @@ tags:
 Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės žemė ir kaimyninės Kulmo žemės] kentė­ jo per tą antpuolį. (kuris nurodo užmuštų buvus 47 dvasininkus ir benedikti­ nus), dar du dokumentai Slapt.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės žemė ir kaimyninės Kulmo žemės] kentė­ jo per tą antpuolį.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '(kuris nurodo užmuštų buvus 47 dvasininkus ir benedikti­ nus), dar du dokumentai Slapt.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės žemė ir kaimyninės Kulmo žemės] kentė­ jo per tą antpuolį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    h
-    D u s b. c. 399, mini tik pačią Dobry­
-    nės kunigaikštystę, bet viename do­
-    kumente Slapt. arch. Spinta XI, Nr.
-    18 sakoma: terra Dobrynensis et con­
-    finia Culmensia [Dobrynės žemė ir
-    kaimyninės Kulmo žemės] kentė­
-    jo per tą antpuolį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-001
+  teiginys: 'Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės žemė ir kaimyninės Kulmo žemės] kentė­ jo per tą antpuolį.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: '(kuris nurodo užmuštų buvus 47 dvasininkus ir benedikti­ nus), dar du dokumentai Slapt.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     k
@@ -69,8 +44,54 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
     3 yra paminėję.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Grigaliaus šven­
+    tės tie patys lietuviai į Memelio
+    miestą ginkluota jėga priešiškai įsi­
+    veržė ir jį su jo priemiesčiais, išsky­
+    rus pačią pilį, apjuostą siena, kurio­
+    je to paties Ordino brolių būta,
+    paėmė, sudegino ir iki pamatų su­
+    griovė, ten pat daugybę žmonių nu­
+    žudė ir paėmė į nelaisvę merginų,
+    moterų ir kitų, kuriuos tik įstengė
+    pagrobti].
+    g
+    Dyploma tą patį byloja ir Wehlau va­
+    dina Wilnnouwe.
+    h
+    D u s b. c. 399, mini tik pačią Dobry­
+    nės kunigaikštystę, bet viename do­
+    kumente Slapt. arch. Spinta XI, Nr.
+    18 sakoma: terra Dobrynensis et con­
+    finia Culmensia [Dobrynės žemė ir
+    kaimyninės Kulmo žemės] kentė­
+    jo per tą antpuolį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: '(kuris nurodo užmuštų buvus 47 dvasininkus ir benedikti­ nus), dar du dokumentai Slapt.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Apie daugelio dva­
+    sininkų nužudymą, be Dyploma
+    Eberh. Bisk. (kuris nurodo užmuštų
+    buvus 47 dvasininkus ir benedikti­
+    nus), dar du dokumentai Slapt. arch.
+    Spinta XI, Nr. 19 ir ten pat LIV, Nr.
+    3 yra paminėję.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

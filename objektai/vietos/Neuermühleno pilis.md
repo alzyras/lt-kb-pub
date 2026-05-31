@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Neuermühleno pilis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kraštas
@@ -27,16 +18,31 @@ tags:
 109 Neroma, kraštas 121 Neronas 93, 200 Nestoro kronika 103, 117, 118, 121 Nesvyžius 125 Neta, upė 326 Neuermühleno pilis 221-223 Neumarkas 237 Neuenburgo Vysk.
 
 ## Teiginiai
+
 - t-001
   teiginys: '109 Neroma, kraštas 121 Neronas 93, 200 Nestoro kronika 103, 117, 118, 121 Nesvyžius 125 Neta, upė 326 Neuermühleno pilis 221-223 Neumarkas 237 Neuenburgo Vysk.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '109 Neroma, kraštas 121 Neronas 93, 200 Nestoro kronika 103, 117, 118, 121 Nesvyžius 125 Neta, upė 326 Neuermühleno pilis 221-223 Neumarkas 237 Neuenburgo Vysk.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kun­
+    Naugardo metraštis 163-164, 168,
+    183, 244, 311, 320
+    Naugardukas 119, 125, 126, 156,
+    157, 164, 178, 195, 201, 205, 219,
+    223, 228, 243, 245, 304
+    Naujapilis 273
+    Naujasis Kaunas 251
+    Naujieji Trakai 315
+    Naujoji Romuva 41, 128, 279, 289
+    Navakas J. 59
+    Navaktenė 71, žr. Deveikė
+    Navickas K. 140
+    Navickaitė-Kuncienė O. 76, 97,
+    105, 112, 140, 147, 151, žr. Kun­
     cienė
     Neidenburgas 253
     Nemenčinė 112, 289
@@ -61,11 +67,17 @@ tags:
     Neta, upė 326
     Neuermühleno pilis 221-223
     Neumarkas 237
-    Neuenburgo Vysk.
+    Neuenburgo Vysk. 175
+    Neva, upė 22, 101, 114
+    Nevėžis 22, 127, 216, 226, 251, 252,
+    278, 315, 326, 328, 329, 331, 333,
+    335, 345
+    Nieborowski P. 353
+    Niekudavas, Kalugos gub. 313
+    Niešava, žemė 353, 359
+    Nikeforas Gregoras 143, 257
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

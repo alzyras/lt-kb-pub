@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Kamenecas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
@@ -27,17 +18,20 @@ tags:
 Švitrigaila, neseniai susi­ vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei tas valdovas numirs ir, remiamas galingų šalininkų - rusų apeigų Lietuvos kunigaikščių bei didikų - labiausiai. Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Švitrigaila, neseniai susi­ vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei tas valdovas numirs ir, remiamas galingų šalininkų - rusų apeigų Lietuvos kunigaikščių bei didikų - labiausiai.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Švitrigaila, neseniai susi­ vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei tas valdovas numirs ir, remiamas galingų šalininkų - rusų apeigų Lietuvos kunigaikščių bei didikų - labiausiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kazimiero mirtis —  Didysis kunigaikštis
@@ -66,13 +60,11 @@ tags:
     Algirdaičių tiko į didžiuosius kunigaikščius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogaila taip pat
@@ -86,8 +78,6 @@ tags:
     ju kunigaikščiu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

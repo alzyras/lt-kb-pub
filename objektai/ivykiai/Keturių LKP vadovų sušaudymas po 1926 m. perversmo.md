@@ -58,5 +58,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Lietuvos komunistų partija]]

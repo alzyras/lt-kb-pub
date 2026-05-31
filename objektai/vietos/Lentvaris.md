@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Lentvaris'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -24,16 +15,34 @@ tags:
 Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  santrauka: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
+    Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
+    Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
+    kelį pro Lentvarį pulti Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     rusų bei lietuvių kalbomis, pasveikino ir
@@ -45,10 +54,8 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
     Stakliškes, o kitą dieną jo priešakiniai da-
     liniai, susišaudę su lietuvių husarų žvalgų
     būriu, užėmė netoli Prienų esantį Jiezną.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001

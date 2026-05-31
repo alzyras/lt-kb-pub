@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kalykla, ediktas ir konstitucija pinigų potvarkyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - privilegija
@@ -27,16 +18,18 @@ tags:
 Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    —  369-
+    Fol. —  369-
     (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)
     Žygimantas Augustas ir 1.1. Visiems bendrai ir kiekvie­
     nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes,
@@ -61,9 +54,7 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
     gale plačiau atlikta ir garantuota.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

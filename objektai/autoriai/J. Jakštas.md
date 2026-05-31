@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'J. Jakštas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1929 m.'
   - '1943 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1929'
 date_end: '1943'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ordinas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
 ---
 # J. Jakštas
 
@@ -29,13 +25,15 @@ tags:
 Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos istorijos dirvone gana pozityviu būdu pasirodė J.
@@ -49,9 +47,7 @@ Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje ist
     su vokie čiu ordinu (JoŠ).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

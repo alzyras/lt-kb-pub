@@ -1,30 +1,23 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1000 m.'
   - '1382 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'X'
-  - 'XIV'
 date_start: '1000'
 date_end: '1382'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
   - mūšis
   - pilis
+amziai:
+  - 'X'
+  - 'XIV'
 ---
 # Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)
 
@@ -33,30 +26,36 @@ tags:
 Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­ gaila, esą pasirengęs taikytis. Tačiau, apsuptas išdavikų, buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­ tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių budelių pasmaugtas36.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­ gaila, esą pasirengęs taikytis.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tačiau, apsuptas išdavikų, buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­ tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių budelių pasmaugtas36.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­ gaila, esą pasirengęs taikytis.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­ gaila, esą pasirengęs taikytis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
@@ -109,13 +108,11 @@ Nenurodyta
     stovyklą kuo greičiau susitarti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau, apsuptas išdavikų, buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­ tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių budelių pasmaugtas36.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     37
@@ -132,9 +129,7 @@ Nenurodyta
     vo37.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

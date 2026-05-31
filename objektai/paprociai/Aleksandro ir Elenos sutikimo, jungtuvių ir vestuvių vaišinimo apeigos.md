@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
@@ -27,29 +18,35 @@ tags:
 Tada Aleksandras šalia prašmatniose rogėse sėdin­ čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į Šv.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tada Aleksandras šalia prašmatniose rogėse sėdin­ čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į Šv.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tada Aleksandras šalia prašmatniose rogėse sėdin­ čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ją sutiko pats Aleksandras per pusę mylios nuo
@@ -69,9 +66,7 @@ Nenurodyta
     42 daugelyje rusų metraščių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

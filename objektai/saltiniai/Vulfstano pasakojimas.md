@@ -1,21 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vulfstano pasakojimas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'IX'
-  - 'XIII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ežeras
@@ -29,17 +18,20 @@ tags:
 Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Truso. Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     238 D — stagnum Drusine, Jer — Drûsin; XIII a. vidurio dokumentuose — Drusnie,
@@ -49,13 +41,11 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
     o Aismarių įlanka, prie kurios — svarbus baltų prekybos centras Truso.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie vieną stebuklą Daug kartų Elbingo broliai garbingai kariavo su pagudėnais, o tų karų niekas nestengtų 241 Kalbama apie Aismares (Vulfstano Estmere — SRP, I, p. 733).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieną stebuklą
@@ -71,8 +61,6 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
     Vėlius N., Senovės baltų..., p. 224).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

@@ -54,7 +54,7 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Torno taika]]
+- [[objektai/ivykiai/Torno taika (1411 m.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

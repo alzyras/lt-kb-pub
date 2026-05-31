@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Molėtai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - pilis
@@ -27,16 +18,18 @@ tags:
 I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    112.
+    X, p. 112.
     I1l
 
     ## Puslapis 128
@@ -51,8 +44,6 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

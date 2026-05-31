@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ivanas (Tverės didysis kunigaikštis)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
@@ -27,16 +18,20 @@ tags:
 Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigaikštienės su vaikais lankymasis Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigaikštienės su vaikais lankymasis Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš mūšį
@@ -53,21 +48,46 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 
     Vytauto planams talkino pusbrolis
     Jogaila Algirdaitis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigaikštienės su vaikais lankymasis Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kafos apy-
+    linkės buvo pavestos valdyti į Lietuvos
+    pusę perėjusiam totorių caraičiui Musat-
+    Chanui, taigi perėjo į tam tikrą Lietuvos
+    kontrolę.
+
+    Prieš mūšį
+
+    Vytauto dukters Sofijos Vytautaitės,
+    Maskvos didžiosios kunigaikštienės su
+    vaikais lankymasis Smolenske pas Vytautą
+    garantavo Maskvos didžiojo kunigaikščio
+    Vasilijaus neutralumą. Dar anksčiau pas
+    Vytautą lankėsi ir Tverės didysis kunigaikš-
+    tis Ivanas su kunigaikštiene ir vaikais, savo
+    bajorais, išlydėtas „garbingai ir su daugybe
+    dovanų“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/ivykiai/1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
 - [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
@@ -89,11 +109,11 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 - [[objektai/grupes/Perekopo orda]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
 - [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
+- [[objektai/grupes/Pskovo respublika]]
 - [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]
 - [[objektai/grupes/Rusijos kariuomenės korpusas]]
-- [[objektai/grupes/Senevlianai]]
 - [[objektai/asmenys/Sofija Vytautaitė]]
 - [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]
 - [[objektai/daiktai/Spaustuvės]]

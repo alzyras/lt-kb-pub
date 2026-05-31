@@ -1,9 +1,6 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'maldininkai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -12,23 +9,18 @@ datos:
   - '1316 m.'
   - '1322 m.'
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XIII'
-  - 'XIV'
 date_start: '1096'
 date_end: '1324'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - sąvoka
   - valdovas
+amziai:
+  - 'XI'
+  - 'XIV'
 ---
 # maldininkai
 
@@ -37,33 +29,60 @@ tags:
 Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų. Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais. Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
-  pagrindžia:
-    - c-005
+
 - t-006
   teiginys: 'Dusburgietis teigia, kad padrąsintas dieviškojo apreiškimo ir užsidegęs karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė.'
   pagrindžia:
     - c-006
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
+  pagrindžia:
+    - c-004
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
+  pagrindžia:
+    - c-003
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
+
+- c-005
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ilgai meldęsis,
+    šis didžiai krikščioniškasis karalius šitaip pasakė: „Einu  į tavo namus, lenkiuosi tavo
+    šventovei, tavajam vardui dėkoju, viešpatie”, o šitai pasakęs, atidavė dievui sielą. Kita
+    kariuomenės dalis nužygiavo  į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos
+    karalius, jie labai nudžiugo ir taip užgriuvo sultoną bei jo žmones, kad privertė juos taikytis
+    šitokiomis sąlygomis: sultonas grąžinsiąs visus į nelaisvę paimtus krikščionis; visuose jo
+    karalystės miestuose pastačius dievo bažnyčių, jis Įeisiąs visoje savo karalystėje skelbti
+    Kristaus tikėjimą; visi norintys priimti krikštą galėsią būti apkrikštyti, o jis pats mokėsiąs
+    krikščionims duoklę. Neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe
+    frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys
+    vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Medininkų valsčiaus apiplėšimą 1316 metais
@@ -77,13 +96,28 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
     riterius.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    17. Apie Šventos Elžbietos vyro mirtį
+
+      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
+    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
+
+
+
+                  18.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
@@ -99,13 +133,11 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
     ietimis, nei kalavijais, nei kokiais kitais ginklais.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
@@ -116,55 +148,14 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 
 
 
-       349 (342).
+       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Šventos Elžbietos vyro mirtį
 
-      1227 viešpaties metais rugsėjo 11 dieną maldininko kelionėje po kryžiaus žygio vėliava
-    mirė Sicilijos mieste, vardu Ortrantas, šventos Elžbietos vyras, landgrafas.
-
-
-
-                  18.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Dusburgietis teigia, kad neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kita
-    kariuomenės dalis nužygiavo  į priekį; kai prie jų priėjo su saviškiais Karolis, Sicilijos
-    karalius, jie labai nudžiugo ir taip užgriuvo sultoną bei jo žmones, kad privertė juos taikytis
-    šitokiomis sąlygomis: sultonas grąžinsiąs visus į nelaisvę paimtus krikščionis; visuose jo
-    karalystės miestuose pastačius dievo bažnyčių, jis Įeisiąs visoje savo karalystėje skelbti
-    Kristaus tikėjimą; visi norintys priimti krikštą galėsią būti apkrikštyti, o jis pats mokėsiąs
-    krikščionims duoklę. Neilgai trukus po to atvyko Eduardas, Anglijos karalius, su daugybe
-    frizų bei maldininkų, o visą šią kariuomenę sudarė 200 tūkstančių karių, ir krikščionys
-    vylėsi ne tik užkariausią šventąją žemę, bet ir pajungsią sau saracėnų žemę.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
-  santrauka: 'Dusburgietis teigia, kad padrąsintas dieviškojo apreiškimo ir užsidegęs karšta tikėjimo meile, jis su anksčiau minėtojo patriarcho Simeono bei kitų tikinčiųjų, gyvenančių Jeruzalėje, laiškais pirmiausia leidosi pas jo šventenybę popiežių Urboną II, kuris jį maloniai priėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Padrąsintas  dieviškojo apreiškimo  ir užsidegęs
@@ -194,9 +185,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
     su vienu ir Petros — su vienu sufraganu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
 
@@ -225,8 +214,11 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - [[objektai/asmenys/Engelbertas I]]
 - [[objektai/asmenys/Gerlachas Rudasis]]
 - [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]
+- [[objektai/asmenys/Henrikas iš Svarcburgo]]
 - [[objektai/asmenys/Henrikas iš Veidos]]
 - [[objektai/autoriai/J. Foigtas]]
+- [[objektai/posakiai/Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,]]
+- [[objektai/asmenys/Jeronimas]]
 - [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
 - [[objektai/grupes/Kalavijuočių ordinas]]

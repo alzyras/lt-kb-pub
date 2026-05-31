@@ -1,9 +1,6 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'priešmindauginė Lietuva'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -12,20 +9,17 @@ datos:
   - '1210 m.'
   - '1218 m.'
   - '1219 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1205'
 date_end: '1219'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - popiežius
   - sutartis
   - sąvoka
+amziai:
+  - 'XIII'
 ---
 # priešmindauginė Lietuva
 
@@ -34,13 +28,15 @@ tags:
 Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m. (t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m. (t.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m. (t.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     „Lietuvos ir Jotvingių“ veiksmai prieš Volynę šaltiniuose ryškiai atsispindi prie 1205 m.
@@ -48,12 +44,11 @@ Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę š
     žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23,
     Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija)
     1219 m. sudarė sutartį su Volyne24, nes kilo pavojus Lietuvai, greičiausiai siekta apginti
-    ir prūsų kraštą.
+    ir prūsų kraštą. Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
+    koalicijos dalyvių — Lenkiją25.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

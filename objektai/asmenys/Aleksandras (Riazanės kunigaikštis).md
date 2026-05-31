@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Aleksandras (Riazanės kunigaikštis)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1396 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1396'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Aleksandras (Riazanės kunigaikštis)
 
@@ -30,16 +26,21 @@ tags:
 p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už savo žentą Kaributą jo laikais buvo karališkajame archyve: Atque hinc nata esse videtur sponsio Alexandri Resanensium Ducis pro Coributho regi facta, et literarum monu­ mentis, quae.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už savo žentą Kaributą jo laikais buvo karališkajame archyve: Atque hinc nata esse videtur sponsio Alexandri Resanensium Ducis pro Coributho regi facta, et literarum monu­ mentis, quae.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už savo žentą Kaributą jo laikais buvo karališkajame archyve: Atque hinc nata esse videtur sponsio Alexandri Resanensium Ducis pro Coributho regi facta, et literarum monu­ mentis, quae.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
+    Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
+    priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­
+    kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­
+    bių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
     data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
     tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
     mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
@@ -63,9 +64,7 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
     karalius iš kalėjimo paleistas].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas (Sarginio sūnus)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
@@ -27,16 +18,18 @@ tags:
 Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovimą Kai broliai, padėję daug darbo ir pasidarę daug išlaidų, atstatė Marienverderio miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė prie Belichovo pilies427, pastatytos Osos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie antrąjį minėtojo Marienverderio miesto sugriovimą
+    148 (143). Apie antrąjį minėtojo Marienverderio miesto sugriovimą
 
       Kai  broliai, padėję daug darbo  ir pasidarę daug  išlaidų, atstatė Marienverderio
     miestą, vieną kartą prūsai, su didžiausia kariuomene nusiaubę Kulmo žemę, patraukė
@@ -46,9 +39,7 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
     šalys patyrė didelių nuostolių sužeistaisiais.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

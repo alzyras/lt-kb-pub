@@ -63,7 +63,6 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Turkai]]
 - [[objektai/ivykiai/Vorsklos katastrofa]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Čekai]]

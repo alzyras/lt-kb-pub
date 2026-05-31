@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Hermanas Corneris Korneris'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1006 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
 date_start: '1006'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - miestas
   - pilis
   - tikėjimas
+amziai:
+  - 'XI'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Hermanas Corneris Korneris
 
@@ -30,19 +26,23 @@ tags:
 Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Wilna, 1. 177.
     33
     Žr. Hermano C  o  r  neri o,
     dominikono, Kroniką, Naruševi­
@@ -58,13 +58,11 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     pilį].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Kornerio (Chron.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas pareiškimas prieštarauja Koje-
@@ -74,9 +72,7 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
     tėvų tikėjimą išpažindamas!
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

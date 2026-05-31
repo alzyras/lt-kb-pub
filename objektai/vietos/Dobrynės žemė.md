@@ -1,28 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Dobrynės žemė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: '1324'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ginklas
   - miestas
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Dobrynės žemė
 
@@ -31,16 +25,24 @@ tags:
 Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tačiau Gediminas, jei galiu taip
+    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
+    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
+    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
+    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
+    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
+    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
+    timšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip
     sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
     1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
     97
@@ -60,8 +62,6 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
     lor evidenter!
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

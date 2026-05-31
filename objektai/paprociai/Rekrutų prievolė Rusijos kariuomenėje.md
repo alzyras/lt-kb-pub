@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Rekrutų prievolė Rusijos kariuomenėje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - paprotys
@@ -26,29 +17,35 @@ tags:
 LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių padėties iš esmės nepakeitė.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių padėties iš esmės nepakeitė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių padėties iš esmės nepakeitė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors didžiosios etninės
@@ -61,8 +58,11 @@ Nenurodyta
     dvigubinama).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/rekrutų prievolė]]
+- [[objektai/zodynas/rekrutų prievolė rekrutai]]

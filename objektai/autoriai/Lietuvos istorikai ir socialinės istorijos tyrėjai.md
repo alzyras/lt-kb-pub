@@ -39,26 +39,10 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginys: ', 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: '79, 1972, 170-172 p. (^107) Kiti jo darbai: Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu, 1236-1263 (VPIMD, t.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'knygą su plačiu šaltinių aprašymu ir gausia bibliografija : Lietuva tautų kovoje prieš Aukso Ordą.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­ mais rašė istorikai: P.'
   pagrindžia:
     - c-006
-- t-007
-  teiginys: '(^112) Apie Lietuvos metrikos (teismo byla knygų) teisminę terminologiją (Teisė, t.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: '2, 1960, 249-260 p.) ; Napoleono armijos kelias per Lietuvą (^80) ĮVADAS vickis (IstV, t.'
-  pagrindžia:
-    - c-008
 - t-009
   teiginys: 'Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.'
   pagrindžia:
@@ -71,10 +55,6 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginys: 'Girdzijaus­ kienė: 1905-1907 metų revoliucija Lietuvoje (1955).'
   pagrindžia:
     - c-011
-- t-012
-  teiginys: '(^122) Revoliucinės valdžios kūrimasis Lietuvos valsčiuose 1905-1907 m. revo­ liucijoje (AkMD, t.'
-  pagrindžia:
-    - c-012
 - t-013
   teiginys: 'Lietuviškos spaudos draudimo XIX a.'
   pagrindžia:
@@ -91,6 +71,26 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginys: 'Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu (BBK, t.'
   pagrindžia:
     - c-016
+- t-017
+  teiginys: '79, 1972, 170-172 p. (^107) Kiti jo darbai: Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu, 1236-1263 (VPIMD, t.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'knygą su plačiu šaltinių aprašymu ir gausia bibliografija : Lietuva tautų kovoje prieš Aukso Ordą.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: '(^112) Apie Lietuvos metrikos (teismo byla knygų) teisminę terminologiją (Teisė, t.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: '2, 1960, 249-260 p.) ; Napoleono armijos kelias per Lietuvą (^80) ĮVADAS vickis (IstV, t.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: '(^122) Revoliucinės valdžios kūrimasis Lietuvos valsčiuose 1905-1907 m. revo­ liucijoje (AkMD, t.'
+  pagrindžia:
+    - c-021
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos istorijos klausimus gvildeno jau minėtas P.'
@@ -137,39 +137,6 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: '79, 1972, 170-172 p. (^107) Kiti jo darbai: Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu, 1236-1263 (VPIMD, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    );** **_Nuo Krėvos sutarties iki Liublino unijos_** **(1970) ; plg. J. Ochmańskio
-    rec., KH, t. 79, 1972, 170-172 p.**
-    (^107) **Kiti jo darbai:** **_Lietuvių kova su vokiškaisiais agresoriais Mindaugo
-    valdymo laikotarpiu,_** **1236-1263 (VPIMD, t.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'knygą su plačiu šaltinių aprašymu ir gausia bibliografija : Lietuva tautų kovoje prieš Aukso Ordą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-    (^109) **Pirma apie juos davė straipsnius (AkMD, t. 22, 1966, 185-198 p.;
-    t. 26, 1968, 117-140 p.), paskui išl. knygą su plačiu šaltinių aprašymu ir
-    gausia bibliografija :** **_Lietuva tautų kovoje prieš Aukso Ordą. Nuo Batu ant­
-    plūdžio iki mūšio prie Mėlynųjų Vandenų,_** **Vilnius 1975.**
-    (^110) **Jo studijos:** **_Valstiečių bendruomenė ir feodalinė tėvonija Lietuvoje
-    XIII-XIV a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Žemdirbystės istorijos Lietuvoje ir ekonomikos klausi­ mais rašė istorikai: P.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -185,42 +152,6 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: '(^112) Apie Lietuvos metrikos (teismo byla knygų) teisminę terminologiją (Teisė, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-    (^112) **_Apie Lietuvos metrikos (teismo byla knygų) teisminę terminologiją_**
-    **(Teisė, t. 4, 1964, 137-155 p.);** **_Iš_** **«** **_Lietuvos metrikos_** **»** **_istorijos ir_** **«** **_Teismo
-    bylų knygų_** **»** **_turinys_** **(Liet. Žemės Ūkio akademija, Darbai, t. 5, 1959, 41-
-    50 p.). —V. Raudeliūnas išsp., pvz.,** **_Antrojo Lietuvos Statuto leidima_** **i, žr.
-    LTSR Aukštųjų mokyklų mokslo darbai, 12, 1973, 1 sąs., 13-17 p. ;** **_Ukraj-
-    yn’sky spisky Drugogo Litovs'kogo Statuta,_** **žr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: '2, 1960, 249-260 p.) ; Napoleono armijos kelias per Lietuvą (^80) ĮVADAS vickis (IstV, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-    (^116) **_Napoleono armijos įsiveržimas į Kauną 1812 m._** **(amžininko aprašy­
-    mas) (IstV, t. 2, 1960, 249-260 p.) ;** **_Napoleono armijos kelias per Lietuvą_**
-
-
-    (^80) ĮVADAS
-    vickis (IstV, t.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 - c-009
   santrauka: 'Strazdūnaitė: Valstiečių kasos ir teismai Lietuvoje XIX a.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -268,27 +199,6 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-- c-012
-  santrauka: '(^122) Revoliucinės valdžios kūrimasis Lietuvos valsčiuose 1905-1907 m. revo­ liucijoje (AkMD, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-    (^122) **_Revoliucinės valdžios kūrimasis Lietuvos valsčiuose 1905-1907 m. revo­
-    liucijoje_** **(AkMD, t. 15, 1963, 73-104 p.) ;** **_Lietuvos valstiečių kova dėl ginčy-_**
-
-
-    ```
-    LIETUVOS ISTORIOGRAFIJA 81
-    ```
-    ```
-    171-174p.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
 - c-013
   santrauka: 'Lietuviškos spaudos draudimo XIX a.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -350,19 +260,106 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: '79, 1972, 170-172 p. (^107) Kiti jo darbai: Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu, 1236-1263 (VPIMD, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    );** **_Nuo Krėvos sutarties iki Liublino unijos_** **(1970) ; plg. J. Ochmańskio
+    rec., KH, t. 79, 1972, 170-172 p.**
+    (^107) **Kiti jo darbai:** **_Lietuvių kova su vokiškaisiais agresoriais Mindaugo
+    valdymo laikotarpiu,_** **1236-1263 (VPIMD, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'knygą su plačiu šaltinių aprašymu ir gausia bibliografija : Lietuva tautų kovoje prieš Aukso Ordą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^109) **Pirma apie juos davė straipsnius (AkMD, t. 22, 1966, 185-198 p.;
+    t. 26, 1968, 117-140 p.), paskui išl. knygą su plačiu šaltinių aprašymu ir
+    gausia bibliografija :** **_Lietuva tautų kovoje prieš Aukso Ordą. Nuo Batu ant­
+    plūdžio iki mūšio prie Mėlynųjų Vandenų,_** **Vilnius 1975.**
+    (^110) **Jo studijos:** **_Valstiečių bendruomenė ir feodalinė tėvonija Lietuvoje
+    XIII-XIV a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: '(^112) Apie Lietuvos metrikos (teismo byla knygų) teisminę terminologiją (Teisė, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^112) **_Apie Lietuvos metrikos (teismo byla knygų) teisminę terminologiją_**
+    **(Teisė, t. 4, 1964, 137-155 p.);** **_Iš_** **«** **_Lietuvos metrikos_** **»** **_istorijos ir_** **«** **_Teismo
+    bylų knygų_** **»** **_turinys_** **(Liet. Žemės Ūkio akademija, Darbai, t. 5, 1959, 41-
+    50 p.). —V. Raudeliūnas išsp., pvz.,** **_Antrojo Lietuvos Statuto leidima_** **i, žr.
+    LTSR Aukštųjų mokyklų mokslo darbai, 12, 1973, 1 sąs., 13-17 p. ;** **_Ukraj-
+    yn’sky spisky Drugogo Litovs'kogo Statuta,_** **žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: '2, 1960, 249-260 p.) ; Napoleono armijos kelias per Lietuvą (^80) ĮVADAS vickis (IstV, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^116) **_Napoleono armijos įsiveržimas į Kauną 1812 m._** **(amžininko aprašy­
+    mas) (IstV, t. 2, 1960, 249-260 p.) ;** **_Napoleono armijos kelias per Lietuvą_**
+
+
+    (^80) ĮVADAS
+    vickis (IstV, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: '(^122) Revoliucinės valdžios kūrimasis Lietuvos valsčiuose 1905-1907 m. revo­ liucijoje (AkMD, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^122) **_Revoliucinės valdžios kūrimasis Lietuvos valsčiuose 1905-1907 m. revo­
+    liucijoje_** **(AkMD, t. 15, 1963, 73-104 p.) ;** **_Lietuvos valstiečių kova dėl ginčy-_**
+
+
+    ```
+    LIETUVOS ISTORIOGRAFIJA 81
+    ```
+    ```
+    171-174p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Antspaudai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/ekonomija]]
 - [[objektai/zodynas/gubernija]]
-- [[objektai/zodynas/inventoriai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/santvarka]]

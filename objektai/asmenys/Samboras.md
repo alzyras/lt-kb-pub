@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Samboras'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -27,17 +18,37 @@ tags:
 Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaikštis Odoničius bei daug kitų kilmingų bei galingų vyrų, gyvenančių tarp Oderio ir Vyslos upių ir tarp Bebro ir Netos upių, be to, Sventopelkas, Pomeranijos kunigaikštis230, su savo broliu Samboru. Dusburgietis teigia, kad tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaikštis Odoničius bei daug kitų kilmingų bei galingų vyrų, gyvenančių tarp Oderio ir Vyslos upių ir tarp Bebro ir Netos upių, be to, Sventopelkas, Pomeranijos kunigaikštis230, su savo broliu Samboru.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaikštis Odoničius bei daug kitų kilmingų bei galingų vyrų, gyvenančių tarp Oderio ir Vyslos upių ir tarp Bebro ir Netos upių, be to, Sventopelkas, Pomeranijos kunigaikštis230, su savo broliu Samboru.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Narsiai ją
+    užpuolę, privertė bėgti. Tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau
+    įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam
+    nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius. Vienur švytruojąs
+    Kristaus kariaunos kalavijas ryte rijo netikėlių kūnus, kitur ietis, ne veltui plušėdama,
+    sėjo aplinkui žaizdas, nes prūsai niekur negalėjo pasprukti nuo persekiotojų; šitaip buvo
+    suduotas skaudus smūgis prūsų tautai, nes tą dieną krito daugiau nei penki tūkstančiai
+    nukautųjų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaikštis Odoničius bei daug kitų kilmingų bei galingų vyrų, gyvenančių tarp Oderio ir Vyslos upių ir tarp Bebro ir Netos upių, be to, Sventopelkas, Pomeranijos kunigaikštis230, su savo broliu Samboru.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Marienverderio miesto pastatymą
@@ -76,29 +87,9 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
     pilį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tačiau Pomeranijos kunigaikštis bei jo brolis Samboras, daugiau
-    įgudę kovoti su prūsais, su savo ginklanešiais užstojo kelius užtvarose, kad niekam
-    nepavyktų pasprukti, ir tada pradėjo įnirtingai naikinti nusidėjėlius. Vienur švytruojąs
-    Kristaus kariaunos kalavijas ryte rijo netikėlių kūnus, kitur ietis, ne veltui plušėdama,
-    sėjo aplinkui žaizdas, nes prūsai niekur negalėjo pasprukti nuo persekiotojų; šitaip buvo
-    suduotas skaudus smūgis prūsų tautai, nes tą dieną krito daugiau nei penki tūkstančiai
-    nukautųjų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1990 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1990'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - seimas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)
 
@@ -30,37 +24,46 @@ tags:
 Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai. Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Istorinėje LSSR Aukščiau-
+    Tapo aišku, kad Lietuva pasuko nauju keliu,
+    komunistų partija neteko vienvaldystės, o dauguma žmonių yra aiškiai
+    apsisprendę dėl Lietuvos nepriklausomybės. Istorinėje LSSR Aukščiau-
     siosios Tarybos sesijoje 1990 m. kovo 11 d., LPS deputatų klubui paruo-
     šus dokumentus ir nusprendus, kad nepriklausomybę reikia paskelbti iš
     karto, veikta ryžtingai. Sąjūdžio kandidatai, laikydamiesi savo rinkiminių
@@ -76,28 +79,30 @@ Nenurodyta
     Aloyzas Sakalas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pasinaudojęs palankiomis aplinkybėmis ir pasirinkęs neginkluotos
+    Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šalti-
+    nis. Pasinaudojęs palankiomis aplinkybėmis ir pasirinkęs neginkluotos
     kovos būdą, suvienijęs po savo vėliava įvairiausius visuomenės sluoks-
     nius, Sąjūdis atvedė Lietuvą į laisvę, svariai prisidėjo prie SSRS, visos
-    komunistinės sistemos žlugimo.
+    komunistinės sistemos žlugimo. Šiaip jau romiems rusams irgi trūko
+    kantrybė, tiek metų klausantis komunistų melo apie būsimą komunizmo
+    rojų ir nė vienam jų pažadui netapus realybe, jų nebetenkino SSRS kaip
+    branduolinės ir kosmosą įsisavinusios supervalstybės aureolė, kurioje
+    senimas šypsosi bedantėmis burnomis, parduotuvėse tuščia, butai ankšti
+    arba tik statomi, viskam gauti eilės, talonai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip
@@ -115,11 +120,38 @@ Nenurodyta
     komunistinės sistemos žlugimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Sąjūdžio kandidatai, laikydamiesi savo rinkiminių pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Istorinėje LSSR Aukščiau-
+    siosios Tarybos sesijoje 1990 m. kovo 11 d., LPS deputatų klubui paruo-
+    šus dokumentus ir nusprendus, kad nepriklausomybę reikia paskelbti iš
+    karto, veikta ryžtingai. Sąjūdžio kandidatai, laikydamiesi savo rinkiminių
+    pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku
+    išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją
+    Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai
+    sugrąžino senąjį jos valstybės pavadinimą „Lietuvos Respublika“, o Vytį
+    Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d.
+    Lietuvos Respublikos AT-AS vadovai: centre – Tarybos pirmininkas
+    Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka
+    ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas
+    Česlovas Stankevičius, Lietuvos Respublikos AT Prezidiumo narys
+    Aloyzas Sakalas. Pauliaus Lileikio nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    242
+    paskelbė oficialiu valstybės herbu ir
+    ženklu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

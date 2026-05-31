@@ -63,7 +63,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/daiktai/Lietuvos trispalvė]]

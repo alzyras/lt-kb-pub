@@ -93,7 +93,6 @@ Nenurodyta
 - [[objektai/asmenys/F. Rolandas]]
 - [[objektai/grupes/Gardino pulkas]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
-- [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
 - [[objektai/autoriai/Gurnickis]]
 - [[objektai/grupes/II brigada]]

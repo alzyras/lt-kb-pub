@@ -84,10 +84,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginys: 'Toliau į pietvakarius ėjo jotvingių žemė.'
   pagrindžia:
     - c-012
-- t-013
-  teiginys: 'Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug.'
-  pagrindžia:
-    - c-013
 - t-014
   teiginys: 'Jeigu lietuvių skaičius nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra atsitikę su jotvingiais.'
   pagrindžia:
@@ -104,6 +100,10 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   teiginys: '1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­ riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai puolė Sembą.'
   pagrindžia:
     - c-017
+- t-018
+  teiginys: 'Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -302,29 +302,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-- c-013
-  santrauka: 'Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šalia karinių ir administracinių (teisinių) funkcijų savo valdose,
-    lyg mažytėse valstybėlėse, tokie kunigai reikšmingais karo žygių
-    bei visuomeninio gyvenimo momentais virsdavo « kunigais » dabar-
-
-
-    ```
-    SOCIALINIAI IR EKONOMINIAI SANTYKIAI 133
-    ```
-    tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
-    pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
-    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
-    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
 - c-014
   santrauka: 'Jeigu lietuvių skaičius nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra atsitikę su jotvingiais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -402,6 +379,29 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-018
+  santrauka: 'Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šalia karinių ir administracinių (teisinių) funkcijų savo valdose,
+    lyg mažytėse valstybėlėse, tokie kunigai reikšmingais karo žygių
+    bei visuomeninio gyvenimo momentais virsdavo « kunigais » dabar-
+
+
+    ```
+    SOCIALINIAI IR EKONOMINIAI SANTYKIAI 133
+    ```
+    tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
+    pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
+    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
+    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
@@ -412,7 +412,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - [[objektai/grupes/Jotvingai]]
 - [[objektai/asmenys/Visvaldis]]
 - [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Danielius]]
 - [[objektai/grupes/Gotai]]
 - [[objektai/daiktai/Klėtis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
@@ -435,7 +434,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 - [[objektai/grupes/Pamarėnai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/autoriai/Vanagas A]]
-- [[objektai/autoriai/Zajączkowski S]]
 - [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/grupes/Žemaičiai]]

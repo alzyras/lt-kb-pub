@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Skomanto naktinis puolimas prie Birgelavos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1263 m.'
   - '1264 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1263'
 date_end: '1264'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
   - mūšis
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Skomanto naktinis puolimas prie Birgelavos
 
@@ -31,26 +25,31 @@ tags:
 Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmo žemės nuniokojimą ir kai kurių brolių bei ginklanešių žūtį
@@ -76,9 +75,7 @@ Nenurodyta
     pasirengę mūšiui, ir nukovė du brolius, vieną broliuką ir daug ginklanešių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

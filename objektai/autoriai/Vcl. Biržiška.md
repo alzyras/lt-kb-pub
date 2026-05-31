@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Vcl. Biržiška'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1953 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1953'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - valstybė
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Vcl. Biržiška
 
@@ -28,16 +24,19 @@ tags:
 Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill 1953, 39-52 p. (^244) II skyrius: valstybės iškilimas gaikštijos gyventojams, kai religinis priklausomumas politikoje ėmė vaidinti svarbią rolę, kliudė rytinėse žemėse išlaikyti Vilniaus dvaro.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill 1953, 39-52 p. (^244) II skyrius: valstybės iškilimas gaikštijos gyventojams, kai religinis priklausomumas politikoje ėmė vaidinti svarbią rolę, kliudė rytinėse žemėse išlaikyti Vilniaus dvaro.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill 1953, 39-52 p. (^244) II skyrius: valstybės iškilimas gaikštijos gyventojams, kai religinis priklausomumas politikoje ėmė vaidinti svarbią rolę, kliudė rytinėse žemėse išlaikyti Vilniaus dvaro.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    **
+    (^12) **LUB, VI, 140. Plg. J. Adamus :** **_O tytule panującego,_** **KH, 1930,
+    313-314 p.**
     (^13) **Plg. Vcl. Biržiška :** **_Senųjų lietuviškų knygų istorija_** **, I, Chicago, Ill
     1953, 39-52 p.**
 
@@ -48,8 +47,6 @@ Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill 1953, 39-52
     dvaro atstovaujamą valstybingumą (Eigenstaatlichkeit).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Romuva krivis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
@@ -26,17 +16,20 @@ tags:
 Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį. Romuvoje pagrindinis kulto objektas buvo ugnis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai-
@@ -46,23 +39,21 @@ tags:
     Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ro-
     muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
-    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a.
+    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis. XIII a. susiformavo
+    Lietuvos giria iš A. Grottgerio piešinių ciklo
+    „Litwa“, 1864–1866 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -72,3 +63,4 @@ tags:
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Krivis]]
 - [[objektai/zodynas/Romuva ir krivis]]
+- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

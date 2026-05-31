@@ -175,7 +175,6 @@ Nenurodyta
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/autoriai/V. Kudirka]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/rusinimas]]

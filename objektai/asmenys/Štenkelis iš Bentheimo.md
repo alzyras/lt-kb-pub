@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Štenkelis iš Bentheimo'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
@@ -25,16 +16,20 @@ tags:
 Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį; maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį; maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį; maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės
+    Broliai ir maldininkai nutarė, kad viena dalis jų kariuomenės
+    sugrįžtų atgal ir pakartotinai nusiaubtų minėtąją žemę, o kita dalis — paliktų toje pačioje
+    vietoje. Kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės
     siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį;
     maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu
     Štenkelis iš Bentheimo, kuris kadaise patyrė iš vieno vyskupo pamokslo, kad tikinčiųjų,
@@ -45,9 +40,7 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
     pareikalavusi ir vienoje, ir kitoje pusėje daugybės mirtinai sužeistų arba užmuštų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

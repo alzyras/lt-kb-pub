@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'šeimynykštis famulus'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - pilis
@@ -27,38 +18,23 @@ tags:
 Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius. Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
-    Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
 
-
-
-
-                 211 (206).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis, garsėjęs kaip labai gabus račius ir didelis karo pabūklų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie vieną nuostabų atsivertimą
+    245 (238). Apie vieną nuostabų atsivertimą
 
       Tuo metu Marienburgo pilyje gyveno brolis Gerhardas; anksčiau, kai dar nedėvėjo
     vienuolio apsiausto, jis buvo šviesiausiojo valdovo Brandenburgo markgrafo šeimynykštis,
@@ -71,11 +47,26 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
     numirėliai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
+    kalaviju nukovė savo varžovą. Vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo
+    Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
+
+
+
+
+                 211 (206).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

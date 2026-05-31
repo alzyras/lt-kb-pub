@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'atskalūnai eretikai kitatikystė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1542 m.'
   - '1555 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1542'
 date_end: '1555'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigas
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # atskalūnai eretikai kitatikystė
 
@@ -29,13 +23,15 @@ tags:
 Šis Vilniuje 1542 metais išleistas dekretas patvirtino jau ankstesniais raštais Vilniaus ir kitiems Lietuvos vysku­ pams suteiktą valdžią: įsigilinti į atskalūnų veiksmus pagal kanonus, įspėti eretikus ir juos atitinkamai bausti pagal sak­ ralinės teisės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šis Vilniuje 1542 metais išleistas dekretas patvirtino jau ankstesniais raštais Vilniaus ir kitiems Lietuvos vysku­ pams suteiktą valdžią: įsigilinti į atskalūnų veiksmus pagal kanonus, įspėti eretikus ir juos atitinkamai bausti pagal sak­ ralinės teisės.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šis Vilniuje 1542 metais išleistas dekretas patvirtino jau ankstesniais raštais Vilniaus ir kitiems Lietuvos vysku­ pams suteiktą valdžią: įsigilinti į atskalūnų veiksmus pagal kanonus, įspėti eretikus ir juos atitinkamai bausti pagal sak­ ralinės teisės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     282
@@ -55,9 +51,7 @@ tags:
     tos, maksimomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

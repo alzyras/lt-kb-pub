@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Pirmoji šalies dainų šventė Kaune (1924 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1924 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1924'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - mokslininkas
+amziai:
+  - 'XX'
 ---
 # Pirmoji šalies dainų šventė Kaune (1924 m.)
 
@@ -29,26 +23,31 @@ tags:
 Gimė naujos tradicijos – 1924 m. Kaune surengta pirmoji šalies dainų šventė.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gimė naujos tradicijos – 1924 m. Kaune surengta pirmoji šalies dainų šventė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gimė naujos tradicijos – 1924 m. Kaune surengta pirmoji šalies dainų šventė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių kalba tapo ne tik vals-
@@ -57,9 +56,7 @@ Nenurodyta
     ta pirmoji šalies dainų šventė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

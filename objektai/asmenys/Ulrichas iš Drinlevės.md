@@ -1,21 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ulrichas iš Drinlevės'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1319 m.'
+date_start: '1319'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Ulrichas iš Drinlevės
 
@@ -24,15 +23,21 @@ tags:
 Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
+    Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,
+    su aštuoniais šimtais vyrų patraukė  į karą  ir, išdėstęs savo karius pasalose, pats su
+    80 vyrų įsibrovė  į Prūsijos žemės valsčių, vardu Unzatrapis, iš kur, sudeginęs keletą
+    namų, išsivarė daug nelaisvėn paimtų žmonių  ir išsigabeno galybę pagrobtų daiktų.
     Juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,
     ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo
     pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami
@@ -40,11 +45,30 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
     pavojų, kad retas kuris namo sugrįžo sveikas ir gyvas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras, ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie 55 lietuvių žūtį 1319 metais
+
+       Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas,
+    su aštuoniais šimtais vyrų patraukė  į karą  ir, išdėstęs savo karius pasalose, pats su
+    80 vyrų įsibrovė  į Prūsijos žemės valsčių, vardu Unzatrapis, iš kur, sudeginęs keletą
+    namų, išsivarė daug nelaisvėn paimtų žmonių  ir išsigabeno galybę pagrobtų daiktų.
+    Juos persekioti leidosi su būreliu karių brolis Ulrichas iš Drinlevės, Tepliavos komtūras,
+    ir brolis Fridrichas Kvicas, jo padėjėjas; iš pradžių išardę tiltą, kuriuo lietuviai turėjo
+    pereiti, jie nukovė 55 jų vyrus ir atsiėmė iš jų visą grobį, kurį šie gabenosi. Kiti bėgdami
+    pakliuvo į jų pasalas, ir visi, apimti baimės, iš karto pasitraukė, tačiau kelyje patyrė tiek
+    pavojų, kad retas kuris namo sugrįžo sveikas ir gyvas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

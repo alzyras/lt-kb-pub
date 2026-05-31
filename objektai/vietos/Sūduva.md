@@ -66,22 +66,22 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
   pagrindžia:
     - c-006
-- t-007
-  teiginys: 'Dusburgietis teigia, kad 1421 m. Lietuvos atstovai pabrėžė, kad Žemaitija ir Sūduva esančios senovinės Lietuvos žemės, kur „...žmonės kalbėjo ir dabar kalba lietuvių kalba [...] neturi ir niekad neturėjo kitos kalbos kaip kad lietuvių, nes nebuvo ir šiandien bent nėra to, kad.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Dusburgietis teigia, kad taigi ir kalbant apie Sūduvą, senąją jotvingių žemę, akcentuojamas teritorijos bei kalbos bendrumas.'
-  pagrindžia:
-    - c-008
-- t-009
-  teiginys: 'Dusburgietis šiuo kraštovardžiu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.'
-  pagrindžia:
-    - c-009
 - t-010
   teiginys: 'Dusburgietis teigia, kad suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių) teritorijos plačiąja prasme dalis.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Dusburgietis teigia, kad 1421 m. Lietuvos atstovai pabrėžė, kad Žemaitija ir Sūduva esančios senovinės Lietuvos žemės, kur „...žmonės kalbėjo ir dabar kalba lietuvių kalba [...] neturi ir niekad neturėjo kitos kalbos kaip kad lietuvių, nes nebuvo ir šiandien bent nėra to, kad.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Dusburgietis teigia, kad taigi ir kalbant apie Sūduvą, senąją jotvingių žemę, akcentuojamas teritorijos bei kalbos bendrumas.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Dusburgietis šiuo kraštovardžiu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -188,49 +188,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Dusburgietis teigia, kad 1421 m. Lietuvos atstovai pabrėžė, kad Žemaitija ir Sūduva esančios senovinės Lietuvos žemės, kur „...žmonės kalbėjo ir dabar kalba lietuvių kalba [...] neturi ir niekad neturėjo kitos kalbos kaip kad lietuvių, nes nebuvo ir šiandien bent nėra to, kad.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1421 m. Lietuvos atstovai pabrėžė, kad Žemaitija ir Sūduva
-    esančios senovinės Lietuvos žemės, kur „...žmonės kalbėjo ir dabar kalba lietuvių kalba
-    [...] neturi  ir niekad neturėjo kitos kalbos kaip kad lietuvių, nes nebuvo  ir šiandien
-    bent nėra to, kad lietuviai jos nesuprastų arba nebūtų supratę.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Dusburgietis teigia, kad taigi ir kalbant apie Sūduvą, senąją jotvingių žemę, akcentuojamas teritorijos bei kalbos bendrumas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    “43. Taigi  ir kalbant
-    apie Sūduvą, senąją jotvingių žemę, akcentuojamas teritorijos bei kalbos bendrumas.
-    Ši tradicija buvo žinoma ir kaimyniniuose kraštuose.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Dusburgietis šiuo kraštovardžiu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    — Sudowen. Dusburgietis šiuo kraštovardžiu
-    vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a. Jo ribos su lietuvių gyvenamuoju
-    plotu nėra aiškios.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
 - c-010
   santrauka: 'Dusburgietis teigia, kad suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių) teritorijos plačiąja prasme dalis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -244,3 +201,46 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Dusburgietis teigia, kad 1421 m. Lietuvos atstovai pabrėžė, kad Žemaitija ir Sūduva esančios senovinės Lietuvos žemės, kur „...žmonės kalbėjo ir dabar kalba lietuvių kalba [...] neturi ir niekad neturėjo kitos kalbos kaip kad lietuvių, nes nebuvo ir šiandien bent nėra to, kad.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1421 m. Lietuvos atstovai pabrėžė, kad Žemaitija ir Sūduva
+    esančios senovinės Lietuvos žemės, kur „...žmonės kalbėjo ir dabar kalba lietuvių kalba
+    [...] neturi  ir niekad neturėjo kitos kalbos kaip kad lietuvių, nes nebuvo  ir šiandien
+    bent nėra to, kad lietuviai jos nesuprastų arba nebūtų supratę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Dusburgietis teigia, kad taigi ir kalbant apie Sūduvą, senąją jotvingių žemę, akcentuojamas teritorijos bei kalbos bendrumas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    “43. Taigi  ir kalbant
+    apie Sūduvą, senąją jotvingių žemę, akcentuojamas teritorijos bei kalbos bendrumas.
+    Ši tradicija buvo žinoma ir kaimyniniuose kraštuose.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Dusburgietis šiuo kraštovardžiu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    — Sudowen. Dusburgietis šiuo kraštovardžiu
+    vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a. Jo ribos su lietuvių gyvenamuoju
+    plotu nėra aiškios.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013

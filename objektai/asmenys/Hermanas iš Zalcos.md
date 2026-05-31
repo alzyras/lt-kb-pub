@@ -471,7 +471,6 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Venedai]]
-- [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
 - [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą]]

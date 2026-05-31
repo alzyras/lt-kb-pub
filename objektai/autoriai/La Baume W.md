@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'La Baume W'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - žemėlapis
@@ -25,13 +16,15 @@ tags:
 Dusburgietis teigia, kad und La Baume W., Kulturen..., p. 262, 269, 271, 274, 197; tų pačių, Atlas..., 1, žemėlapiai 8, 10—12; Таутавичюс A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad und La Baume W., Kulturen..., p. 262, 269, 271, 274, 197; tų pačių, Atlas..., 1, žemėlapiai 8, 10—12; Таутавичюс A.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad und La Baume W., Kulturen..., p. 262, 269, 271, 274, 197; tų pačių, Atlas..., 1, žemėlapiai 8, 10—12; Таутавичюс A.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Archeologijos duomenys rodo, jog skalvių gentinė kultūra buvusi ryški (ypač Nemuno
@@ -40,9 +33,7 @@ Dusburgietis teigia, kad und La Baume W., Kulturen..., p. 262, 269, 271, 274, 19
     Atlas..., 1, žemėlapiai 8, 10—12; Таутавичюс A. 3., Балтские племена..., с. 48).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

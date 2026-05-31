@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vėliavų su kryžiais kėlimas kaip kovos su pagonimis ženklas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - paprotys
@@ -26,29 +17,35 @@ tags:
 Gynėjai iškėlė vėliavas su kryžiais, kaip ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­ vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie lio skundų ir ginčų tarp Jogailos ir Ordino priežastis; pastarasis smar­ kiai gynėsi.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gynėjai iškėlė vėliavas su kryžiais, kaip ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­ vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie lio skundų ir ginčų tarp Jogailos ir Ordino priežastis; pastarasis smar­ kiai gynėsi.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gynėjai iškėlė vėliavas su kryžiais, kaip ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­ vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie lio skundų ir ginčų tarp Jogailos ir Ordino priežastis; pastarasis smar­ kiai gynėsi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tas šaunus karys, išvaręs iš tvir­
@@ -71,9 +68,7 @@ Nenurodyta
     manymais, žeidžiančiais Ordiną.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

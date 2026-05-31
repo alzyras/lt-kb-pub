@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'diecezija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
@@ -27,17 +18,20 @@ tags:
 Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės. Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iškilmingai,
@@ -55,13 +49,11 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     tiems Lietuvoje Kristaus tikėjimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam bet ir kai kuriais padavimais ar užuominomis, kurias aptikau Vil­ niaus kapitulos ar Karaliauč.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius tuoj pat
@@ -79,9 +71,7 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     pui bei šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -278,7 +278,6 @@ Nenurodyta
 - [[objektai/asmenys/Paulius Vladimiri]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
-- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/Meldžionys|meldžionys]]
 - [[objektai/zodynas/vachmistras]]

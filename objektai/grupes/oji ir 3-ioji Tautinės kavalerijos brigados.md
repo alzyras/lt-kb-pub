@@ -1,26 +1,20 @@
 ---
 tipas: grupe
 pavadinimas: 'oji ir 3-ioji Tautinės kavalerijos brigados'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '2004 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
 date_start: '2004'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - sukilimas
   - tauta
+amziai:
+  - 'XXI'
 ---
 # oji ir 3-ioji Tautinės kavalerijos brigados
 
@@ -29,13 +23,15 @@ tags:
 Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos brigados, mjr.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos brigados, mjr.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos brigados, mjr.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau Vilnių nuo rusų puolimo gynė
@@ -46,12 +42,12 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     LDK kariuomenės
     artileristai prasidėjus
     sukilimui Vilniuje
-    (2004 m.
+    (2004 m. vykusi
+    1794 m. sukilimo
+    kovų inscenizacija)
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

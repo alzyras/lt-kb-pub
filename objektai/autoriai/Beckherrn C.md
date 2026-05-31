@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Beckherrn C'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ginklas
@@ -27,34 +18,36 @@ tags:
 Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber. Dusburgietis teigia, kad ši pilaitė prie įėjimo į Notangą buvusi, kaip manoma, prie gyvenvietės Pilzen (Beckherrn C., Das „propugnaculum.., p. 299—300), kiek į šiaurę nuo jos, Knivitės aukštupio deš.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C..'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad ši pilaitė prie įėjimo į Notangą buvusi, kaip manoma, prie gyvenvietės Pilzen (Beckherrn C., Das „propugnaculum.., p. 299—300), kiek į šiaurę nuo jos, Knivitės aukštupio deš.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C..'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     210 Apie prūsų ginklus, karybą — Beckherrn C.. Bewaffnung..., p. 359—392. Okulicz-
     Kozaryn L. Zycie..., p. 218—221.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (Videvučio) sūnaus Samo pilis, čia prūsai uždegdavę pavojų skelbiančius laužus (SU, 1, Nr. 58, 182; 2, Nr. 304; PUB, 2, 2, Nr. 663; 3, 2, Nr. 644; 4, Nr. 26; Hennenberger C, Erclerung.., p. 136; Sch-K; Faber.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     382 D.— in territorio Rinow, Jer.— gebite Rinow (XIII a.— Erino, Rynow, vėliau —
@@ -70,13 +63,11 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
     6; HGAPW).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad ši pilaitė prie įėjimo į Notangą buvusi, kaip manoma, prie gyvenvietės Pilzen (Beckherrn C., Das „propugnaculum.., p. 299—300), kiek į šiaurę nuo jos, Knivitės aukštupio deš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     407 D.— invenit propugnaculum in introitu terre Nattangie; Jer.— dî zucht kegn
@@ -88,9 +79,7 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
     D. minima prekyviete (žr. žemiau).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mikalojus Husovianas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1523 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1523'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Mikalojus Husovianas
 
@@ -28,15 +24,20 @@ tags:
 Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto laikus parodyti kaip idealą savo laikų visuomenei.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto laikus parodyti kaip idealą savo laikų visuomenei.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto laikus parodyti kaip idealą savo laikų visuomenei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    ženklas, o būdvardis „palemoniškas“ proginėje literatūroje funkcionavo
+    kaip žodžio „lietuviškas“ atitikmuo, Vilniaus universitetas vadintas „Pa-
+    lemono universitetu“, Vilnius – „Lietuvos palemoniškųjų miestų sostine“.
     Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
     mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras
     renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Gies-
@@ -44,8 +45,6 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
     laikus parodyti kaip idealą savo laikų visuomenei.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

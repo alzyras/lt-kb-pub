@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'ulusas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - tauta
@@ -26,13 +17,15 @@ tags:
 Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­ riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulusą, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug žemės valdų ir.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­ riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulusą, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug žemės valdų ir.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­ riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulusą, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug žemės valdų ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     142
@@ -51,9 +44,7 @@ Juos Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­ vo pirmtakais G
     Naruszewicz Taurikoje, 1 .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

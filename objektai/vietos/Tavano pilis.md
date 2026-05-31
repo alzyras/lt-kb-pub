@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Tavano pilis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - pilis
@@ -27,13 +18,15 @@ tags:
 Lietuvių Tavano pilyje, sto­ vinčioje prie Dniepro, Vytautas įstei­ gė muitinę, vadintą Vytauto pirtimi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvių Tavano pilyje, sto­ vinčioje prie Dniepro, Vytautas įstei­ gė muitinę, vadintą Vytauto pirtimi.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvių Tavano pilyje, sto­ vinčioje prie Dniepro, Vytautas įstei­ gė muitinę, vadintą Vytauto pirtimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     79
@@ -50,11 +43,9 @@ Lietuvių Tavano pilyje, sto­ vinčioje prie Dniepro, Vytautas įstei­ gė mui
     Rytais. Lietuvių Tavano pilyje, sto­
     vinčioje prie Dniepro, Vytautas įstei­
     gė muitinę, vadintą Vytauto pirtimi.
-    Žr.
+    Žr. M i c h a 1  o n i s Lit. de Morib.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

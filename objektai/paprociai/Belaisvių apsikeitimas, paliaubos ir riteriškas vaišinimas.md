@@ -72,15 +72,15 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: '8 — Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­ gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
+  teiginys: 'Livonijos kronikininkas Hermanas iš Vartbur­ go baigia savo kroniką žinute, kad kardininkai iš to žygio parsi­ vedę 500 lietuvių belaisvių ir 723 arklius.'
   pagrindžia:
     - c-004
 - t-008
-  teiginys: 'Nors Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­ pukares, vienas kitą riteriškai pavaišinti.'
+  teiginys: '8 — Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­ gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
   pagrindžia:
     - c-005
 - t-009
-  teiginys: 'Livonijos kronikininkas Hermanas iš Vartbur­ go baigia savo kroniką žinute, kad kardininkai iš to žygio parsi­ vedę 500 lietuvių belaisvių ir 723 arklius.'
+  teiginys: 'Nors Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­ pukares, vienas kitą riteriškai pavaišinti.'
   pagrindžia:
     - c-006
 
@@ -132,45 +132,6 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
   pagrindžia:
     - t-006
 - c-004
-  santrauka: '8 — Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­ gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    — 8 —
-    ```
-    Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­
-    gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti
-    paliaubas. Čia reikia pastebėti, kad Vinrichas von Kniprodė,
-    būdamas gabus ir lankstus politikas, nuolat kariaudamas su
-    Kęstučiu, ėmėsi kitokios taktikos, negu jo pirmtakūnai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-005
-  santrauka: 'Nors Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­ pukares, vienas kitą riteriškai pavaišinti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Čia reikia pastebėti, kad Vinrichas von Kniprodė,
-    būdamas gabus ir lankstus politikas, nuolat kariaudamas su
-    Kęstučiu, ėmėsi kitokios taktikos, negu jo pirmtakūnai. Nors
-    Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors
-    sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­
-    pukares, vienas kitą riteriškai pavaišinti.
-
-    ```
-    Kada 1379 metais liepos mėn.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-006
   santrauka: 'Livonijos kronikininkas Hermanas iš Vartbur­ go baigia savo kroniką žinute, kad kardininkai iš to žygio parsi­ vedę 500 lietuvių belaisvių ir 723 arklius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -187,6 +148,49 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
     paliaubas. Čia reikia pastebėti, kad Vinrichas von Kniprodė,
     būdamas gabus ir lankstus politikas, nuolat kariaudamas su
     Kęstučiu, ėmėsi kitokios taktikos, negu jo pirmtakūnai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-005
+  santrauka: '8 — Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­ gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    — 8 —
+    ```
+    Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­
+    gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti
+    paliaubas. Čia reikia pastebėti, kad Vinrichas von Kniprodė,
+    būdamas gabus ir lankstus politikas, nuolat kariaudamas su
+    Kęstučiu, ėmėsi kitokios taktikos, negu jo pirmtakūnai. Nors
+    Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors
+    sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­
+    pukares, vienas kitą riteriškai pavaišinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-006
+  santrauka: 'Nors Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­ pukares, vienas kitą riteriškai pavaišinti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nors
+    Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors
+    sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­
+    pukares, vienas kitą riteriškai pavaišinti.
+
+    ```
+    Kada 1379 metais liepos mėn. pabaigoje Kęstutis su Ordino
+    maršalu vyko Kaunan pasikeisti patekusiais nelaisvėn karei­
+    viais, Jogaila prašės leisti ir jam atsiųsti savo pasiuntinius į
+    tuos pasitarimus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -739,6 +739,23 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-031
+- c-032
+  santrauka: '1 '' - --- - -■ N VYTENIS, Traidenio sūnus, did. Lietuvos kunigaikštis 1283 m., nužudytas 1315 m.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    -1
+    '
+    - --- - -■  N
+    VYTENIS, Traidenio sūnus,
+    did. Lietuvos kunigaikštis
+    1283 m., nužudytas 1315 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
 
 ## Ryšiai
 ### Susiję objektai
@@ -754,10 +771,7 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Traidenis]]
-- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/netikėliai]]
@@ -784,5 +798,5 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 - [[objektai/zodynas/popiežiaus legatas]]
 - [[objektai/zodynas/tautiška politika]]
 - [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
-- [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]
 - [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]
+- [[objektai/asmenys/Traidenis]]

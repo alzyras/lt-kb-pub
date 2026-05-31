@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Menko grobio ir tuščios garbės pasigviešę'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - miestas
@@ -27,13 +18,15 @@ tags:
 Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut'u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut''u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.'
+  teiginys: 'Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut''''u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut''u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  •  —
@@ -58,9 +51,7 @@ Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkirši
     imperatorių Vaclovą abiejų tautų teisėju pasirinkę32.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

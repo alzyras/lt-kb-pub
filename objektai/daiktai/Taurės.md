@@ -49,10 +49,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Iškilo girtuokliavimo kultas: didikai ir bajorija savo šeimos brangenybių tarpe turėjo su įvairiomis iškilmėmis susijusių taurių; jei iš jų kada nors buvo gėręs koks karalius, tai taurės buvo laikomos, kaip ypatingos šventenybės, pagarbioje vietoje.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Gėrimo indą, vadinamą stotkeliu, senovėje dar vadino taure arba taurage.'
   pagrindžia:
@@ -80,7 +76,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
 - c-002
   santrauka: Gėrimo indą, vadinamą stotkeliu, senovėje dar vadino taure arba taurage.
   šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]

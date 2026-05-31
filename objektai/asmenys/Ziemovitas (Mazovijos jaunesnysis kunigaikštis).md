@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ziemovitas (Mazovijos jaunesnysis kunigaikštis)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,13 +18,15 @@ tags:
 Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­ gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­ gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­ gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia, krašto reikalus
@@ -48,9 +41,7 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
     Lenkiją, Vilnių palikęs.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

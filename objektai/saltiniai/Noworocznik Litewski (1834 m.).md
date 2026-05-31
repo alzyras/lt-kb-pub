@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Noworocznik Litewski (1834 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1834 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1834'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Noworocznik Litewski (1834 m.)
 
@@ -28,15 +22,20 @@ tags:
 Onos bažnytėlę, pa­ teikta Noworocznik Litewski, 1834 m., 298 ## Puslapis 315 IV KNYGA didžponiai, nors jų norą keltis į puikybę ir visur vadovauti karalius prilaikydavo už vadžių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Onos bažnytėlę, pa­ teikta Noworocznik Litewski, 1834 m., 298 ## Puslapis 315 IV KNYGA didžponiai, nors jų norą keltis į puikybę ir visur vadovauti karalius prilaikydavo už vadžių.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Onos bažnytėlę, pa­ teikta Noworocznik Litewski, 1834 m., 298 ## Puslapis 315 IV KNYGA didžponiai, nors jų norą keltis į puikybę ir visur vadovauti karalius prilaikydavo už vadžių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Tačiau ištisiniai pastatai, kokius ma­
+    tome dabar, atsirado jau antrojoje
+    XVIII amžiaus pusėje.
     71
     Žinia apie Šv. Onos bažnytėlę, pa­
     teikta Noworocznik Litewski, 1834 m.,
@@ -49,8 +48,6 @@ Onos bažnytėlę, pa­ teikta Noworocznik Litewski, 1834 m., 298 ## Puslapis 31
     karalius prilaikydavo už vadžių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

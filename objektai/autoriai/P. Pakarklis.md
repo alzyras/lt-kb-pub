@@ -1,24 +1,25 @@
 ---
 tipas: autorius
 pavadinimas: 'P. Pakarklis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1945 m.'
+  - '1948 m.'
+date_start: '1945'
+date_end: '1948'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - karas
   - mūšis
   - ordinas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # P. Pakarklis
 
@@ -27,72 +28,52 @@ tags:
 Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą buv. Dusburgietis teigia, kad tautiniai santykiai..., p. 24—27; Pakarklis P. Dusburgietis teigia, kad 5 Pakarklis P.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą buv.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad tautiniai santykiai..., p. 24—27; Pakarklis P.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad 5 Pakarklis P.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
   pagrindžia:
     - c-004
+
 - t-005
   teiginys: 'P. Pakarklis dar parašė : Lietuvos Didžiųjų Kunigaikščių metraštis (AkMD, t.'
   pagrindžia:
     - c-005
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 5 Pakarklis P.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad tautiniai santykiai..., p. 24—27; Pakarklis P.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą buv.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą buv.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    P. Pakarklis plėtojo
+    Antra vertus, remiantis prūsų—lietuvių bendrybėmis, užfiksuotomis XV—XVI bei
+    ankstesnių amžių šaltiniuose, istoriografijoje formavosi nuomonė, kad ne tik Nadruva
+    bei Skalva, bet ir Semba yra dalis Žemaitijos, kad tai tik atskiri lietuvių kalbos dialektai;
+    vakarinių baltų, arba prūsų, kalba laikyta, tik lietuvių kalbos tarme4. P. Pakarklis plėtojo
     mintį, kad ir Pavyslio gyventojai kadaise vadinti lietuviais, kad prieš kryžiuočių įsibrovimą
     buv. Rytprūsių ir Lietuvos gyventojai buvę vienos ir tos pačios kalbos, vienu ir tuo pačiu
     vardu vadinami savo kaimynų, išpažinę vieną  ir tą pačią tikybą (dvasinės kultūros
     bendrumo požymis), sudarę vieną ir tą patį politinį vienetą5.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad tautiniai santykiai..., p. 24—27; Pakarklis P.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    4 Pierson W. Über die Nationalität..., S. 10, 16; Weber L. Preussen..., S. 18; Vileišis
-    V. Tautiniai santykiai..., p. 24—27; Pakarklis P. Mažoji Lietuva..., p. 41—64; Lietuvos
-    istorija / Red. A. Šapoka, p. 604; Matusas J. Ar prūsai..., p. 697—705.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad 5 Pakarklis P.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    5 Pakarklis P. Kryžiuočių..., p. 15—23.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sventopelko karą su Teutonų ordino broliais
@@ -106,28 +87,55 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
     158—159; Batūra R., Šiaulių.., p. 22—24).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
-  santrauka: 'P. Pakarklis dar parašė : Lietuvos Didžiųjų Kunigaikščių metraštis (AkMD, t.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    , 57-74 p.**
+    — Žr. LE, t. 36, 384-385 p.**
+    (^103) **Tuo tarpu apie grublėtąją keramiką Lietuvoje rašė Y. Daugudis
+    (AkMD, t. 22, 1966, 55-65 p.) ; be to, jis domėjosi ir Aukštadvario pilia­
+    kalniu (AkMD, t. 12, 1962, 43-67 p.).**
+    (^104) **AkMD, t. 32, 33 ir 34, 1970, 113-133 p., 113-129 p., 57-74 p.**
     (^105) **Parašė, be kitko :** **_Lietuvių kova prieš kalavijuočius_** **(1945),** **_Kry­
     žiuočių valstybės santvarkos bruožai_** **(1948) ; vienašališkai poleminė yra jo
     knyga** **_Popiežiai lietuvių tautos priešai_** **(1948).**
     (^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,
-    t.
+    t. 3, 1957, 111-120 p.) ;** **_Naujausi Lenkijos liaudies respublikos istoriku darbai
+    apie Lietuvos Didžiąją Kunigaikštystę_** **(AkMD, t. 7, 1959, 77-87 p.),** **_Rusų
+    istorikai apie Lietuvos Didžiąją Kunigaikštystę_** **(AkMD, t. 9, 1960, 67-77 p.),**
+    **_Bandymai išlaisvinti valstiečius Lietuvoje XVIII a. pabaigoje - XIX a. pra­
+    džioje_** **(AkMD, t. 34, 1970, 85-96 p.);** **_Slaptos studentų draugijos Vilniaus
+    Medicinos-Chirurgijos Akademijoje 1832-1841 m._** **(AkMD, t. 4, 1958, 135-**
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    4 Pierson W. Über die Nationalität..., S. 10, 16; Weber L. Preussen..., S. 18; Vileišis
+    V. Tautiniai santykiai..., p. 24—27; Pakarklis P. Mažoji Lietuva..., p. 41—64; Lietuvos
+    istorija / Red. A. Šapoka, p. 604; Matusas J. Ar prūsai..., p. 697—705.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    5 Pakarklis P. Kryžiuočių..., p. 15—23.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

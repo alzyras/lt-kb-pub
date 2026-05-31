@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Otonas Didysis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
@@ -27,13 +18,15 @@ tags:
 Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų (Schultheiss) ir teisių, jiems duotų lombardų, ir Romos institu­ cijų pavyzdžiu savo valdžios priekyje pastatė konsulus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų (Schultheiss) ir teisių, jiems duotų lombardų, ir Romos institu­ cijų pavyzdžiu savo valdžios priekyje pastatė konsulus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusikratė teutonų pareigūnų (Schultheiss) ir teisių, jiems duotų lombardų, ir Romos institu­ cijų pavyzdžiu savo valdžios priekyje pastatė konsulus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pastarųjų miestams suteikiami
@@ -49,9 +42,7 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
     kiškomis feodalinėmis valstybėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

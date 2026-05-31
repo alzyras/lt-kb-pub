@@ -64,4 +64,3 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
 - [[objektai/asmenys/Jonas Kalita]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Danielius]]

@@ -77,6 +77,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Turkai]]
 - [[objektai/asmenys/Vilhelmas]]
 - [[objektai/grupes/Švedai]]

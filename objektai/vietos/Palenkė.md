@@ -63,10 +63,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės vaivadijas.'
   pagrindžia:
     - c-007
-- t-008
-  teiginys: 'Sudėtingai klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį.'
-  pagrindžia:
-    - c-008
 - t-009
   teiginys: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
   pagrindžia:
@@ -115,6 +111,10 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginys: 'Vakarinė valstybės dalis, būtent, Trakų kunigaikštija, Gar­ dino ir Palenkės sritys buvo Kęstučio dalis.'
   pagrindžia:
     - c-020
+- t-021
+  teiginys: 'Sudėtingai klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį.'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -210,20 +210,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-- c-008
-  santrauka: 'Sudėtingai klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sudėtingai
-    klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai
-    ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį. Tačiau didžiausias pavojus Lietuvai brendo rytuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 - c-009
   santrauka: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -437,3 +423,18 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+- c-021
+  santrauka: 'Sudėtingai klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rūpesčių ir toliau kėlė Ordino livoniškoji atšaka,
+    periodiškai puldinėdama Lietuvą ir stengdamasi įsikišti į Lietuvoje po Vytauto mirties įsiplieskusius vidinius konfliktus. Sudėtingai
+    klostėsi santykiai su Lenkija, ši stengėsi išnaudoti Lietuvos politinę krizę, siekdama paversti ją politiškai priklausoma, o teritoriniai
+    ginčai dėl Palenkės žemės buvo pasiekę ir karinės konfrontacijos lygį. Tačiau didžiausias pavojus Lietuvai brendo rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021

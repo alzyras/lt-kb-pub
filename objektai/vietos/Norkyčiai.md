@@ -1,27 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Norkyčiai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1981 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XIV'
-  - 'XVI'
-  - 'XX'
 date_start: '1981'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XX'
 ---
 # Norkyčiai
 
@@ -30,17 +22,20 @@ tags:
 Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn. Dusburgietis teigia, kad senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje, kur ant aukštos kalvos senos baltų gyvenvietės (1981 m. rasta I m. e.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje, kur ant aukštos kalvos senos baltų gyvenvietės (1981 m. rasta I m. e.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Norkyčių buvusi kadaise vaidilos (Weidulutten) globoje (Prätorius M., Deliciae..., kn.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Reikšminga, kad senuose pasakojimuose,
@@ -49,13 +44,11 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
     (VVU) 157; r. p. (MA) 279; š. p. 576).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje, kur ant aukštos kalvos senos baltų gyvenvietės (1981 m. rasta I m. e.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senieji Norkyčiai buvę per 6—7 km žemiau nuo minimos vietos, Auksinės vingyje,
@@ -66,8 +59,6 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
     Karaliaučiaus kelio (dab. Meždurečjė). Senoje vietoje beliko apleistas Pilies kalnas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

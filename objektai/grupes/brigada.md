@@ -1,24 +1,18 @@
 ---
 tipas: grupe
 pavadinimas: 'brigada'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '2000 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '2000'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # brigada
 
@@ -27,36 +21,20 @@ tags:
 Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šaudymo
-    tempas - 300-450 šuvių/min, efektyvaus šaudymo nuotolis —
-    2000 m. Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg)
 
-    Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašo naktinę žvalgybinę-
-    diversinę operaciją į priešo užnugarį - bolševikų divizijos štabą. Marijampolės batali-
-    onas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją
-    vykdžiusi I brigada.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karin. S. Nastopkos vadovaujamos 11 bri-
@@ -70,11 +48,26 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
     niją ir veržtis toliau Daugpilio kryptimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šaudymo
+    tempas - 300-450 šuvių/min, efektyvaus šaudymo nuotolis —
+    2000 m. Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg)
+
+    Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašo naktinę žvalgybinę-
+    diversinę operaciją į priešo užnugarį - bolševikų divizijos štabą. Marijampolės batali-
+    onas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją
+    vykdžiusi I brigada.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -84,10 +77,12 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - [[objektai/grupes/I brigada]]
 - [[objektai/zodynas/viršila]]
 - [[objektai/grupes/1-asis pėstininkų pulkas]]
+- [[objektai/grupes/11 brigada]]
 - [[objektai/grupes/4-asis pėstininkų pulkas]]
 - [[objektai/grupes/A. Mokšeckio brigada]]
 - [[objektai/grupes/Antantė]]
 - [[objektai/asmenys/Bogdanas Knorringas]]
+- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
 - [[objektai/grupes/Gardino pulkas]]
 - [[objektai/ivykiai/Giedraičių kautynės]]
 - [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
@@ -104,7 +99,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 - [[objektai/asmenys/V. Skorupskis]]
 - [[objektai/grupes/Vyriausioji Lietuvos karinė vadovybė]]
 - [[objektai/zodynas/demobilizacija]]
-- [[objektai/grupes/11 brigada]]
 - [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
 - [[objektai/asmenys/Juozapas Bielakas]]
 - [[objektai/asmenys/Mykolas Sulistrovskis]]

@@ -106,7 +106,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/daiktai/Kalavijai]]
-- [[objektai/daiktai/Kovos kirviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Margalis (Margirius )]]
 - [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]

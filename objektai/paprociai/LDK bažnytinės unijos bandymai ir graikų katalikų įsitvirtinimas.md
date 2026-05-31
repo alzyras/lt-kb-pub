@@ -1,29 +1,22 @@
 ---
 tipas: paprotys
 pavadinimas: 'LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1387 m.'
   - '1500 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVII'
 date_start: '1387'
 date_end: '1500'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - unija
   - vyskupas
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas
 
@@ -32,29 +25,35 @@ tags:
 Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 71 trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai pačiai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 71 trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai pačiai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 71 trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai pačiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
@@ -70,9 +69,7 @@ Nenurodyta
     Naugarduke bei Vilniuje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

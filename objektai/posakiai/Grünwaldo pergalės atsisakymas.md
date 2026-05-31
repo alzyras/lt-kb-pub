@@ -55,5 +55,5 @@ Ją Dlugošas vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai bu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Dlugošas]]
-- [[objektai/ivykiai/Torno taika]]
+- [[objektai/ivykiai/Torno taika (1411 m.)]]
 - [[objektai/zodynas/kunigaikštija]]

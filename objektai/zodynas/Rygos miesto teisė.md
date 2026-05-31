@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Rygos miesto teisė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - sąvoka
@@ -25,13 +16,15 @@ tags:
 72 ## Puslapis 89 I KNYGA bo prievolių, tam laikui praėjus, turės, priklausomai nuo žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­ sė, nebent teisės žinovų potvarkiu kita nustatyta.
 
 ## Teiginiai
+
 - t-001
   teiginys: '72 ## Puslapis 89 I KNYGA bo prievolių, tam laikui praėjus, turės, priklausomai nuo žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­ sė, nebent teisės žinovų potvarkiu kita nustatyta.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '72 ## Puslapis 89 I KNYGA bo prievolių, tam laikui praėjus, turės, priklausomai nuo žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­ sė, nebent teisės žinovų potvarkiu kita nustatyta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žemdirbiams, kurie norėtų
@@ -53,9 +46,7 @@ tags:
     resnė atrodytų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

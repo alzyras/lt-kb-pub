@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Karaliaus Aleksandro privilegija Elenai dėl Kniazičių, Teterino ir Popova Huros (1501 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1501 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1501'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # Karaliaus Aleksandro privilegija Elenai dėl Kniazičių, Teterino ir Popova Huros (1501 m.)
 
@@ -30,42 +24,20 @@ tags:
 [savo ranka] (parašas) 357 ## Puslapis 374 VILNIAUS MIESTO ISTORIJA// TOMAS Dekretą KARALIAUS ALEKSANDRO PRIVILEGIJA, DUOTA KARALIENEI ELENAI, KNIAZIČIŲ, TETERINO DVARAMS IR POPOVA HUROS PILIAI IR T T 1501 META (Iš Dogelio rankraščių buv. Gilios išminties karaliai ir valdovai su­ prato, kad jų valdymo metu nuveikti darbai turi būti įam­ žinti rašto paminklais ir patikimais paliudijimais.
 
 ## Teiginiai
-- t-001
-  teiginys: '[savo ranka] (parašas) 357 ## Puslapis 374 VILNIAUS MIESTO ISTORIJA// TOMAS Dekretą KARALIAUS ALEKSANDRO PRIVILEGIJA, DUOTA KARALIENEI ELENAI, KNIAZIČIŲ, TETERINO DVARAMS IR POPOVA HUROS PILIAI IR T T 1501 META (Iš Dogelio rankraščių buv.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Gilios išminties karaliai ir valdovai su­ prato, kad jų valdymo metu nuveikti darbai turi būti įam­ žinti rašto paminklais ir patikimais paliudijimais.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '[savo ranka] (parašas) 357 ## Puslapis 374 VILNIAUS MIESTO ISTORIJA// TOMAS Dekretą KARALIAUS ALEKSANDRO PRIVILEGIJA, DUOTA KARALIENEI ELENAI, KNIAZIČIŲ, TETERINO DVARAMS IR POPOVA HUROS PILIAI IR T T 1501 META (Iš Dogelio rankraščių buv.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    P. [savo ranka]
-    (parašas)
-    357
 
-    ## Puslapis 374
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    Dekretą
-    KARALIAUS ALEKSANDRO PRIVILEGIJA,
-    DUOTA KARALIENEI ELENAI, KNIAZIČIŲ,
-    TETERINO DVARAMS IR POPOVA HUROS PILIAI IR T T
-    1501 META
-    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje)
-    In Nomine Sanctae et Individuae Trinitatis, Amen.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: '[savo ranka] (parašas) 357 ## Puslapis 374 VILNIAUS MIESTO ISTORIJA// TOMAS Dekretą KARALIAUS ALEKSANDRO PRIVILEGIJA, DUOTA KARALIENEI ELENAI, KNIAZIČIŲ, TETERINO DVARAMS IR POPOVA HUROS PILIAI IR T T 1501 META (Iš Dogelio rankraščių buv.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Gilios išminties karaliai ir valdovai su­ prato, kad jų valdymo metu nuveikti darbai turi būti įam­ žinti rašto paminklais ir patikimais paliudijimais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Item et alias villas spectantes ad Curiam
@@ -87,8 +59,32 @@ tags:
     nas ir tėvonis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Rašytas Vilniuje, sausio 13 dieną,
+    Il indikte.
+    (1493 m. sausio 13 d.)
+    M.P. [savo ranka]
+    (parašas)
+    357
+
+    ## Puslapis 374
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Dekretą
+    KARALIAUS ALEKSANDRO PRIVILEGIJA,
+    DUOTA KARALIENEI ELENAI, KNIAZIČIŲ,
+    TETERINO DVARAMS IR POPOVA HUROS PILIAI IR T T
+    1501 META
+    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje)
+    In Nomine Sanctae et Individuae Trinitatis, Amen.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

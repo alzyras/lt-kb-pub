@@ -1,32 +1,25 @@
 ---
 tipas: ivykis
 pavadinimas: 'Salaspilio (Kirchholmo) mūšis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1529 m.'
-  - '1566 m.'
   - '1588 m.'
   - '1605 m.'
   - '1620 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 date_start: '1529'
 date_end: '1620'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - mūšis
   - seimas
   - tauta
+amziai:
+  - 'XVI'
+  - 'XVII'
 ---
 # Salaspilio (Kirchholmo) mūšis
 
@@ -35,34 +28,41 @@ tags:
 Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes. 1605 m. mūšyje prie Kirchholmo netoli Rygos J.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: '1605 m. mūšyje prie Kirchholmo netoli Rygos J.'
   pagrindžia:
     - c-003
 
+- t-001
+  teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bendras vidaus politinis
@@ -74,13 +74,11 @@ Nenurodyta
     kuriose lietuviai kovojo petys į petį su rusėnais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kova dėl Livonijos daugiausia buvo suin-
@@ -90,13 +88,11 @@ Nenurodyta
     Rygą ir užvaldė Baltijos pakrantes.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: '1605 m. mūšyje prie Kirchholmo netoli Rygos J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1605 m. mūšyje prie Kirchholmo netoli Rygos J. K. Chodkevičiaus
@@ -105,9 +101,7 @@ Nenurodyta
     Dail. P. Snayrs, apie 1620 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -120,3 +114,4 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/ATR karai su Švedija XVII a]]
+- [[objektai/grupes/Chodkevičiai]]

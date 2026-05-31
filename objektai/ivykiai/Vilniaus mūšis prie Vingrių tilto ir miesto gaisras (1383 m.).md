@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1383 m.'
   - '1388 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1383'
 date_end: '1388'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - miestas
   - mūšis
+amziai:
+  - 'XIV'
 ---
 # Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)
 
@@ -31,30 +25,36 @@ tags:
 Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo kalvų 38 V o i g t, V, 415 į savo istoriją yra įdėjęs labai svarbų Jogailos laišką di­ džiajam magistrui, kur teisingai ir pabrėžtinai prikaišioja kryžiuočiams nedorus Ordino poelgius. Tačiau mūšio metu į me­ dinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį didelę Vilniaus dalį pasiglemžė ugnis.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo kalvų 38 V o i g t, V, 415 į savo istoriją yra įdėjęs labai svarbų Jogailos laišką di­ džiajam magistrui, kur teisingai ir pabrėžtinai prikaišioja kryžiuočiams nedorus Ordino poelgius.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tačiau mūšio metu į me­ dinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį didelę Vilniaus dalį pasiglemžė ugnis.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo kalvų 38 V o i g t, V, 415 į savo istoriją yra įdėjęs labai svarbų Jogailos laišką di­ džiajam magistrui, kur teisingai ir pabrėžtinai prikaišioja kryžiuočiams nedorus Ordino poelgius.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo kalvų 38 V o i g t, V, 415 į savo istoriją yra įdėjęs labai svarbų Jogailos laišką di­ džiajam magistrui, kur teisingai ir pabrėžtinai prikaišioja kryžiuočiams nedorus Ordino poelgius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Didysis magistras į Vilnių išsiuntė
@@ -95,13 +95,11 @@ Nenurodyta
     urduliuodamos, plovė miesto aptvarus40.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau mūšio metu į me­ dinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį didelę Vilniaus dalį pasiglemžė ugnis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Su trigubai di­
@@ -112,9 +110,7 @@ Nenurodyta
     per kurį didelę Vilniaus dalį pasiglemžė ugnis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

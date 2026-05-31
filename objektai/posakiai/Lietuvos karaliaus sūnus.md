@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: 'Lietuvos karaliaus sūnus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1295 m.'
   - '1296 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1295'
 date_end: '1296'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
   - posakis
+amziai:
+  - 'XIII'
 ---
 # Lietuvos karaliaus sūnus
 
@@ -30,13 +24,15 @@ tags:
 Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytenio kovos su ordinu ir jo sąjunga su Ryga**
@@ -49,9 +45,7 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
     šaltiniai jo nemini.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

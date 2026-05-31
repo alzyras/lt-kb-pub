@@ -1,25 +1,10 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "amfiktionija"
-sukurta: '2026-05-13'
-variantai:
-  - "amfiktioniją"
-aliases: []
+pavadinimas: 'amfiktionija'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "Senovės graikų analogijos lietuvių pagonybės institucijai kontekstas"
-datos: []
-periodas: "senove"
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "aukštas"
-atnaujinta: '2026-05-13'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 tags: []
 ---
 # amfiktionija
@@ -33,6 +18,7 @@ Amfiktionija paaiškinama kaip polių sąjunga, sudaryta tarpgentinėje teritori
 Vartojamos formos: `amfiktioniją`.
 
 ## Laikotarpis ir datos
+
 - laikotarpis: Senovės graikų analogijos lietuvių pagonybės institucijai kontekstas
 
 ## Reikšmė iš konteksto
@@ -44,39 +30,56 @@ Terminas pateikiamas kaip senovės graikų analogija, padedanti aiškinti žynio
 Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Amfiktionija apibūdinama kaip polių sąjunga.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
-    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
-    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
-  pagrindžia: []
+
 - c-002
-  santrauka: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šio proceso ankstyvąja apraiška reikėtų laikyti
+    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
+    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
     Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
     (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
     sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šio proceso ankstyvąja apraiška reikėtų laikyti
+    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
+    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
+    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
+    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
+    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+
+- c-003
+  santrauka: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
+    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
+    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
+    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
+    muvoje pagrindinis kulto objektas buvo ugnis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -50,15 +50,14 @@ tags:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus » (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
   pagrindžia:
     - c-004
-
+- t-005
+  teiginys: 'Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus » (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
@@ -87,21 +86,6 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus » (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tai buvo, šaltiniais paremta studijėlė,
-    « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus »
-    (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo
-    Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -119,3 +103,18 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus » (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tai buvo, šaltiniais paremta studijėlė,
+    « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus »
+    (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo
+    Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

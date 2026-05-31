@@ -1,53 +1,20 @@
 ---
 tipas: grupe
 pavadinimas: 'Šv. Kazimiero Draugija knygoms ir laikraščiams leisti'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
-saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1905 m.'
   - '1906 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1905'
 date_end: '1906'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # Šv. Kazimiero Draugija knygoms ir laikraščiams leisti
 
 ## Santrauka
 
 Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.
-
-## Teiginiai
-- t-001
-  teiginys: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
-  pagrindžia:
-    - c-001
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    ** Po 1905 m. revoliucijos palengvėjo
-    ir kultūrinių draugijų steigimas. Todėl 1906 m. Kaune buvo
-
-
-    įkurta Šv. Kazimiero Draugija knygoms ir laikraš-
-    čiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado
-    „Vienybė" ir „Draugija").
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

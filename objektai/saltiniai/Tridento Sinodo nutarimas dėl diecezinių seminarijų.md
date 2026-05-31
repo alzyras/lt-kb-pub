@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Tridento Sinodo nutarimas dėl diecezinių seminarijų'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - saltinis
@@ -26,17 +17,20 @@ tags:
 Šven­ tasis ekumeninis Tridento Sinodas nusprendė, kad norint išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­ vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai gyvuojančią. Pripažįstame šios Dievo apvaizdai padedant mūsų funduotos ir apdovanotos kolegijos administravimą, valdymą ir vadovavimą taip, kaip šventojo Tridento pasi­ tarimo dekrete ir nutarime mums yra pavesta, ir paminėtą administravimo būdą kuo tiksliausiai siekiame.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Šven­ tasis ekumeninis Tridento Sinodas nusprendė, kad norint išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­ vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai gyvuojančią.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Pripažįstame šios Dievo apvaizdai padedant mūsų funduotos ir apdovanotos kolegijos administravimą, valdymą ir vadovavimą taip, kaip šventojo Tridento pasi­ tarimo dekrete ir nutarime mums yra pavesta, ir paminėtą administravimo būdą kuo tiksliausiai siekiame.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Šven­ tasis ekumeninis Tridento Sinodas nusprendė, kad norint išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­ vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai gyvuojančią.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šven­ tasis ekumeninis Tridento Sinodas nusprendė, kad norint išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­ vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai gyvuojančią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Quod quidem praedium cum kominikus, villis,
@@ -55,13 +49,11 @@ tags:
     dyti bažnytinių pareigų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Pripažįstame šios Dievo apvaizdai padedant mūsų funduotos ir apdovanotos kolegijos administravimą, valdymą ir vadovavimą taip, kaip šventojo Tridento pasi­ tarimo dekrete ir nutarime mums yra pavesta, ir paminėtą administravimo būdą kuo tiksliausiai siekiame.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     išrūpintų beneficijų būtų paskirta teisėta dova­
@@ -88,8 +80,6 @@ tags:
     perpetuum.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

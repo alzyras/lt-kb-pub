@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Krautuvių Pilis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - miestas
@@ -27,21 +18,44 @@ tags:
 Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28. Viena jų va­ dinama Krautuvių Pilimi, kurioje su­ sirinko keletas tūkstančių ginkluotų žmonių, vyresnieji bei abiejų lyčių prastuomenė, - ir pilies ginti, ir ieš­ kodami ten saugaus prieglobsčio. Ar išdaviko, ar priešo sumaniai padegta ugnis staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Viena jų va­ dinama Krautuvių Pilimi, kurioje su­ sirinko keletas tūkstančių ginkluotų žmonių, vyresnieji bei abiejų lyčių prastuomenė, - ir pilies ginti, ir ieš­ kodami ten saugaus prieglobsčio.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Ar išdaviko, ar priešo sumaniai padegta ugnis staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Viena jų va­ dinama Krautuvių Pilimi, kurioje su­ sirinko keletas tūkstančių ginkluotų žmonių, vyresnieji bei abiejų lyčių prastuomenė, - ir pilies ginti, ir ieš­ kodami ten saugaus prieglobsčio.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Svetimšalių ataka buvo
+    smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­
+    si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­
+    na Žemutinėje pilyje ir pagavo medinius statinius, aptva­
+    rus, užkardas. Ar išdaviko, ar priešo sumaniai padegta ugnis
+    staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį. Že­
+    maičiai ir anglai nuo kalnų, o prancūzai ir vokiečiai nuo Vi­
+    lijos pusės, tumulais puola į pilį, prasideda baisi sumaištis,
+    drąsos netenka net narsuoliai, žudynėse ir gaisruose viskas
+    žūva - ir žmonės, ir trobos, ir manta29.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-001
-  santrauka: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie jos šliejosi
@@ -58,13 +72,11 @@ tags:
     lonos miestelį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Viena jų va­ dinama Krautuvių Pilimi, kurioje su­ sirinko keletas tūkstančių ginkluotų žmonių, vyresnieji bei abiejų lyčių prastuomenė, - ir pilies ginti, ir ieš­ kodami ten saugaus prieglobsčio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     28
@@ -85,29 +97,6 @@ tags:
     kodami ten saugaus prieglobsčio.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Ar išdaviko, ar priešo sumaniai padegta ugnis staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Svetimšalių ataka buvo
-    smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­
-    si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­
-    na Žemutinėje pilyje ir pagavo medinius statinius, aptva­
-    rus, užkardas. Ar išdaviko, ar priešo sumaniai padegta ugnis
-    staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį. Že­
-    maičiai ir anglai nuo kalnų, o prancūzai ir vokiečiai nuo Vi­
-    lijos pusės, tumulais puola į pilį, prasideda baisi sumaištis,
-    drąsos netenka net narsuoliai, žudynėse ir gaisruose viskas
-    žūva - ir žmonės, ir trobos, ir manta29.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003

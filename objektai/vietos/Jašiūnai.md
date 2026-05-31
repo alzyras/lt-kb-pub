@@ -1,26 +1,20 @@
 ---
 tipas: vieta
 pavadinimas: 'Jašiūnai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1811 m.'
   - '1848 m.'
   - '1864 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1811'
 date_end: '1864'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XIX'
 ---
 # Jašiūnai
 
@@ -29,25 +23,30 @@ tags:
 Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo kaip nuosavybę. Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo kaip nuosavybę.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­ se, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­ se, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai - nenuginčijami žmonių gyvenimo nuo.'
   pagrindžia:
     - c-004
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo kaip nuosavybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būsimo
@@ -57,13 +56,25 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     kaip nuosavybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
+    vykusios represijos sustabdė istoriko planų įgyvendinimą, nors
+    jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
+    lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
+    M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-002
-  santrauka: 'Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1848 m. M. Balinskis sugrįžta į Lietuvą ir apsigyvena savo
@@ -71,26 +82,11 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     Vladislovo savižudybė, sunki šeimos materialinė padėtis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1864 m. sausio 1 d.
-    M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: 'Seniau Rūdninkų girios išties buvo ne­ peržengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­ se, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­ se, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai - nenuginčijami žmonių gyvenimo nuo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pati vietovė, su­
@@ -106,8 +102,6 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     būtų surasti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004

@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Responsio per Procuratorem Ordinis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
@@ -27,16 +18,21 @@ tags:
 Ordinis apie tai plačiai pasa­ koja.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ordinis apie tai plačiai pasa­ koja.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ordinis apie tai plačiai pasa­ koja.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Ordinis apie tai plačiai pasa­
+    334.
+    b
+    Minėtas anksčiau Responsio per Pro­
+    curat. Ordinis apie tai plačiai pasa­
     koja. Be kita ko, ten yra pasakyta:
     Tempore Friderici dudum Archiepisco-
     pi, idem Archiepiscopus cum suis com­
@@ -66,8 +62,6 @@ Ordinis apie tai plačiai pasa­ koja.
     triuškinimo ir per tai Ordiną pulti].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

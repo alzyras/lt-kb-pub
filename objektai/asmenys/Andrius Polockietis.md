@@ -105,3 +105,4 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 - [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Skirgaila]]

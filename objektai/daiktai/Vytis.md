@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vytis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - elekcija
@@ -26,32 +17,43 @@ tags:
 Sovietinį Lietuvos SSR herbą keičia Vytis 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 243 Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sovietinį Lietuvos SSR herbą keičia Vytis 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 243 Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sovietinį Lietuvos SSR herbą keičia Vytis 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 243 Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taip
+    Tačiau šios konstitucijos veikimas visa apim-
+    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
+    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
+    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
+    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
+    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai. Taip
     įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos vals-
     tybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų
     jurisdikcijos.
@@ -63,9 +65,7 @@ Nenurodyta
     nis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -80,7 +80,6 @@ Nenurodyta
 - [[objektai/asmenys/B. Kolyška]]
 - [[objektai/asmenys/Bronislovas Kuzmickas]]
 - [[objektai/posakiai/Christ ist erstanden]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/daiktai/Herbai]]
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/asmenys/Kazimieras Motieka]]
@@ -98,6 +97,7 @@ Nenurodyta
 - [[objektai/grupes/Lisovčikai]]
 - [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/grupes/Notangai]]
+- [[objektai/zodynas/Pokomunistinė erdvė]]
 - [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/autoriai/V. Kudirka]]
@@ -108,6 +108,8 @@ Nenurodyta
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/vachmistras]]
 - [[objektai/asmenys/Česlovas Stankevičius]]
+- [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Miligedas]]
 - [[objektai/daiktai/Ringrafas]]
 - [[objektai/asmenys/Steponas Batoras]]

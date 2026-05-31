@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas iš Kunceno'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
@@ -27,21 +18,25 @@ tags:
 Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Dusburgietis teigia, kad kai brolis Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai. Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad kai brolis Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad kai brolis Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolį Henriką iš Kunceno
@@ -53,13 +48,11 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     didelį grobį“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad kai brolis Henrikas pasižadėjo įstoti į Teutonų ordiną, išnyko visas šis sambūris ir visi šie regėjimai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Ilgokai jam grasinę, galop tarėjai paprašė
@@ -69,16 +62,17 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     kilmingai, jaunai ir švelniai moteriai, kuri, jo paprašyta skyrybų, ryžtingai atsisakė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius begardų drabužiais, vienas stovėjo dešinėje, kitas — kairėje, jiedu ginčijosi dėl tikėjimo tiesų, ir žydas, nuginčijęs krikščionį, tarė: „Henrikai, dabar girdėjai, kad tavo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
+    Moteris, tiek kartų ir taip
+    smarkiai bauginama siaubingų bildesių, daugel sykių gąsdinama stebuklingų balsų,
+    nebeturėjo jėgų ilgiau priešintis šventam vyro sumanymui, todėl ir nusileido, duodama
+    jam valią stoti į bet kurį vienuolyną. Šitaip atgavęs laisvę, jis, atvykęs į Prūsijos kraštą,
     davė įžadus Teutonų ordinui; kaip anksčiau, būdamas pasauliečiu, pranoko savo bendrus
     piktadarybėmis, taip dabar, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
     Vieną kartą, sunkios negalės kamuojamas, jis išvydo žydą ir krikščionį, apsivilkusius
@@ -87,11 +81,23 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     negali tavęs išganyti, tad išpažink žydų tikėjimą“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    284 (277). Apie brolį Henriką iš Kunceno
+
+      Tuo metu Prūsijoje mirė brolis Henrikas iš Kunceno, gimęs Tiuringijoje. Būdamas
+    pasauliečiu,  jis garsėjo kaip baisus žiauruolis, didelis grobikas  ir piktadarys.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

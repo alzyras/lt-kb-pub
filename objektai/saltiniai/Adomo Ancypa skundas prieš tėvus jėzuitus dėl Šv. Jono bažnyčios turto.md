@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Adomo Ancypa skundas prieš tėvus jėzuitus dėl Šv. Jono bažnyčios turto'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1654 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1654'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - saltinis
+amziai:
+  - 'XVII'
 ---
 # Adomo Ancypa skundas prieš tėvus jėzuitus dėl Šv. Jono bažnyčios turto
 
@@ -28,13 +22,15 @@ tags:
 Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­ mas ankstesniuosius tėvus jėzuitus: lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas, ad mentem fundacijų laiko Elniakampius, Putviškes, Pukančius.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­ mas ankstesniuosius tėvus jėzuitus: lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas, ad mentem fundacijų laiko Elniakampius, Putviškes, Pukančius.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­ mas ankstesniuosius tėvus jėzuitus: lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas, ad mentem fundacijų laiko Elniakampius, Putviškes, Pukančius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Asesorių sprendimas byloje su Vil­
@@ -48,11 +44,11 @@ Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijo
     mas ankstesniuosius tėvus jėzuitus:
     lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas,
     ad mentem fundacijų laiko Elniakampius, Putviškes, Pukan-
-    čius ir Rudaminą su žemėmis, ežerais ir t.
+    čius ir Rudaminą su žemėmis, ežerais ir t. t., duodamas iš­
+    laikymą savo adjutoriams; kad iki šiol aukas bažnyčiai ne­
+    šamas ir mokesčius surenkamus už namus imdavo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

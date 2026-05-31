@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus turgus ir aikštė (sujungti pirminiai pavadinimai Vilniaus turgus; Vilniaus turgus ir aikštė)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
@@ -27,17 +18,20 @@ tags:
 Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos. Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame visiems ir
@@ -59,13 +53,11 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
     nuo minėto pono Vilniaus vyskupo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi, kai šis
@@ -88,8 +80,6 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
     są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

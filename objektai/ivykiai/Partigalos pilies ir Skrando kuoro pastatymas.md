@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Partigalos pilies ir Skrando kuoro pastatymas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - pilis
@@ -25,26 +16,31 @@ tags:
 Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     23. Apie Partigalos pilies ir Skrando kuoro pastatymą
@@ -55,8 +51,11 @@ Nenurodyta
     puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Gubučiai]]
+- [[objektai/zodynas/kuoras propugnaculum pilaitė]]

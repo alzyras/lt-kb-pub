@@ -1,25 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Matulevičius A. Dėl lietuvių Prūsijoje etninės ribos XVIII a. pradžioje'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1701 m.'
+  - '1800 m.'
   - '1972 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
+date_start: '1701'
+date_end: '1972'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XVIII'
   - 'XX'
-date_start: '1972'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
-tags:
-  - saltinis
 ---
 # Matulevičius A. Dėl lietuvių Prūsijoje etninės ribos XVIII a. pradžioje
 
@@ -28,21 +24,22 @@ tags:
 Dusburgietis teigia, kad matulevičius A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad matulevičius A.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad matulevičius A.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Matulevičius A. Dėl lietuvių Prūsijoje etninės ribos XVIII a. pradžioje.—LMAD, 1972,
     t. 1 (38), p. 103—119.
+      Matusas J. Ar prūsai buvo lietuviai?
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

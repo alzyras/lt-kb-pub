@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Komjaunimas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -18,40 +15,64 @@ tags:
 Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl nemaža dalis kultūrininkų
+    stengėsi elgtis kaip reikalauta ir gyveno dvigubą – viešą ir asmeninį – gy-
+    venimą. Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
+    dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
+    Universitete ir aukštosiose mokyklose iš kitų respublikų atsiųsti specialistai
+    dėstė tik rusiškai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ją ruošė totaliai kontroliuojama švieti-
+    mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti
+    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
+    gą. Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
+    steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kam-
+    peliai, leisti sienlaikraščiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
   santrauka: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
+    dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
     Universitete ir aukštosiose mokyklose iš kitų respublikų atsiųsti specialistai
+    dėstė tik rusiškai. Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
+    organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

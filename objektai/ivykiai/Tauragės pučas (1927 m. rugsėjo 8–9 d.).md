@@ -60,4 +60,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
-- [[objektai/grupes/Socialdemokratai]]

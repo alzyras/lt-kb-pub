@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - posakis
@@ -25,16 +16,18 @@ tags:
 Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie karo laivus ir markgrafo pasitraukimą
+    15. Apie karo laivus ir markgrafo pasitraukimą
 
       Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių. Taigi
     ir šis markgrafas, apdairus ir protingas vyras, įsakė pastatyti du karo laivus, iš katrų
@@ -42,9 +35,7 @@ Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintinga
     „Maldininke, nuramink žęmę“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

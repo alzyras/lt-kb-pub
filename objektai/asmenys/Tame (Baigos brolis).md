@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Tame (Baigos brolis)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1321 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1321'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Tame (Baigos brolis)
 
@@ -28,13 +24,15 @@ tags:
 Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties nė karto neišėjęs už šios pilies sienų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties nė karto neišėjęs už šios pilies sienų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties nė karto neišėjęs už šios pilies sienų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Baigos brolį Tamę ir jo gyvenimą
@@ -47,9 +45,7 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
     be maisto ir po to laimingai atidavė viešpačiui sielą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -83,14 +79,12 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 - [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
 - [[objektai/asmenys/Ona Jogailaitė]]
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė]]
 - [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]
 - [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
 - [[objektai/ivykiai/Salyno sutartis]]
 - [[objektai/ivykiai/Sicilijos prancūzų žudynės (1281 m.)]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
-- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
 - [[objektai/zodynas/Variagai]]
 - [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]
 - [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]
@@ -99,6 +93,7 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/zodynas/Medė|medė]]
+- [[objektai/zodynas/memorialas]]
 - [[objektai/zodynas/nuodėmių atleidimas]]
 - [[objektai/posakiai/savo užantyje maitinti gyvatę]]
 - [[objektai/zodynas/Stigavoja|stigavoja]]
@@ -106,4 +101,3 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje|Žuvų tvenkinys Ragainės pilyje (pilis)]]
-- [[objektai/paprociai/Žynio gyvenimas šventoje girioje ir siuntinių priėmimas po lapine]]

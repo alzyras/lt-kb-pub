@@ -1,28 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Ordino karo religinio įprasminimo praktika'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1324'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - mūšis
   - ordinas
   - paprotys
+amziai:
+  - 'XIV'
 ---
 # Ordino karo religinio įprasminimo praktika
 
@@ -31,45 +24,55 @@ tags:
 Dusburgietis teigia, kad kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87).. Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz., Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi. Dusburgietis teigia, kad 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87)..'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz., Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus ginklus“).'
   pagrindžia:
     - c-004
+
 - t-005
   teiginys: 'Dusburgietis teigia, kad ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9). Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis.'
   pagrindžia:
     - c-005
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.'
+  pagrindžia:
+    - c-003
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87)..'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos einančios į dangų ir tuo pelnančios amžiną palaimą, kad žuvusius laiminanti pati mergelė Marija, o jų sielas po mūšio neša angelai ir t. t. (III, 41, 69, 86, 87)..'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikoje akcentuojama, kad kryžiuočių, žuvusių kovoje su prūsais ar lietuviais, sielos
@@ -79,13 +82,11 @@ Nenurodyta
     (III, 54). Tai jau kryžiuočių kovinės dvasios ugdymas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais skyreliais, kuriuose kiekvienam riterių ginklui suteikiama religinė prasmė: jeigu, pvz., Ordino broliai, atvykę Prūsų žemėn, griebiasi kalavijo, vadinasi, jie griebiasi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kad Ordino užduotis — kariauti, ypač Prūsijoje bei Lietuvoje, pabrėžiama specialiais
@@ -95,13 +96,11 @@ Nenurodyta
     pabrėžiama religinė vedamo karo esmė: „...juk čia ne jūsų, bet dievo kova“66.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad 600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
@@ -121,13 +120,27 @@ Nenurodyta
     sielos „esančios išganytos“ (III, 92), o žuvę gauna „kankinių vainikus“ (III, 123).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-005
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
+    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
+      Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
+    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
+    ekspansija  į baltų žemes. Vokiškojo Ordino, visokeriopai remiamo popiežiaus kurijos,
+    priešai Petrui iš Dusburgo visada yra dievo priešai, jis nieku būdu nenori suprasti, kad
+    pagonys prūsai  ir lietuviai gali kovoti už laisvę, už savarankišką vystymąsi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino riterių ginklams suteikdamas šventumo aureolę (skyreliai „apie daiktiškus ir dvasiškus ginklus“).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Petras iš Dusburgo visaip aukština užkariavimus ir žudynes „viešpaties kare“, Ordino
@@ -138,27 +151,9 @@ Nenurodyta
     linksmybę“ (II. 8).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Dusburgietis teigia, kad ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9). Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
-    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
-      Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
-    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
-    ekspansija  į baltų žemes.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Susiję objektai

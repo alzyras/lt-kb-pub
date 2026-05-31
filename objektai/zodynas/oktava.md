@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'oktava'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1330 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1330'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - ordinas
   - popiežius
+amziai:
+  - 'XIV'
 ---
 # oktava
 
@@ -30,38 +24,23 @@ tags:
 Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir. Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena ir.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
 
-      Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
-    Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena
-    ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
-
-    Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie didžiojo magistro mirtį
+    20. Apie didžiojo magistro mirtį
 
       Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
     18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
@@ -72,11 +51,25 @@ Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o si
     Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    99. Apie tai, kaip nukrito popiežius bei jo vainikas, o siena nuslėgė daugybę žmonių
+
+      Kai šis popiežius Klemensas po savo vainikavimo (lapkričio 18) leidosi per švento
+    Martyno oktavą iš švento Justo bažnyčios, kuri ant kalno prie Liono, išgriuvo mūro siena
+    ir nuslėgė daug žmonių, o Britanijos kunigaikštis, vedęs popiežiaus arklį, irgi čia sužuvo.
+
+    Karolis, Prancūzijos karaliaus brolis, buvo smarkiai sužeistas, nukentėjo ir pats popiežius.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

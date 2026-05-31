@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Novatoriškas lietuvių kalbos elementorius žemaičių tarme'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1799 m.'
   - '1848 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 date_start: '1799'
 date_end: '1848'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - tauta
+amziai:
+  - 'XVIII'
+  - 'XIX'
 ---
 # Novatoriškas lietuvių kalbos elementorius žemaičių tarme
 
@@ -30,13 +24,15 @@ tags:
 Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
@@ -63,8 +59,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     vyks.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

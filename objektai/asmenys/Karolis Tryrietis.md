@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Karolis Tryrietis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
@@ -27,13 +18,20 @@ tags:
 Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­ manančių teisę vyrų, didelio būrio savo riterių ir buvo po­ piežiaus maloniai bei pagarbiai priimtasy. Karolis Tryrietis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­ manančių teisę vyrų, didelio būrio savo riterių ir buvo po­ piežiaus maloniai bei pagarbiai priimtasy.'
   pagrindžia:
     - c-001
+
+- t-002
+  teiginys: 'Karolis Tryrietis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­ manančių teisę vyrų, didelio būrio savo riterių ir buvo po­ piežiaus maloniai bei pagarbiai priimtasy.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     78
@@ -50,8 +48,37 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
     nu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Karolis Tryrietis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    79
+
+    ## Puslapis 96
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pakilo didysis magistras atsakyti į priekaištus ir apginti Or­
+    diną. Italų kalbos mokėjimas leido jam sakyti kalbą be vertė­
+    jo, tad jis, stojęs prieš popiežių ir kardinolus, kalbėjo taip iškal­
+    bingai, su tokiu žavesiu, taip įtaigiai, parodęs tokį Ordino
+    santykių su Rygos Bažnyčia išmanymą, kad visus palenkė į
+    savo pusę ir net didžiausius priešininkus privertė susimąsty­
+    ti. Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­
+    ka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali
+    būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]

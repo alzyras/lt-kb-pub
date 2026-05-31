@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Kartūzų ordinas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1078 m.'
   - '1082 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
 date_start: '1078'
 date_end: '1082'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - ordinas
   - popiežius
+amziai:
+  - 'XI'
 ---
 # Kartūzų ordinas
 
@@ -30,13 +24,15 @@ tags:
 Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
@@ -44,9 +40,7 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
       Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

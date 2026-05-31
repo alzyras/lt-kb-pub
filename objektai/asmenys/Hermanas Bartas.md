@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Hermanas Bartas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1210 m.'
   - '1239 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1210'
 date_end: '1239'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Hermanas Bartas
 
@@ -28,16 +24,18 @@ tags:
 Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie brolį Hermaną, trečią magistrą
+    4. Apie brolį Hermaną, trečią magistrą
 
        Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė
     gegužės 20 dieną ir palaidotas Akone157.
@@ -51,9 +49,7 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
     o mirė liepos 24 dieną  ir palaidotas Barletoje158.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

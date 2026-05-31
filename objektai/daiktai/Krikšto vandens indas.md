@@ -1,29 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Krikšto vandens indas (krikštas, XIII a.)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Krikšto vandens indas'
-aliases:
-  - 'Krikšto vandens indas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1298 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1298'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - kraštas
   - krikštas
   - kunigas
+amziai:
+  - 'XIII'
 ---
 # Krikšto vandens indas (krikštas, XIII a.)
 
@@ -32,29 +24,35 @@ tags:
 Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo 29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus gyventojus ir vieną kunigą, o moteris bei.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Straisbergo miesto sugriovimą 1298 metais
@@ -73,9 +71,7 @@ Nenurodyta
            271 (264).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -83,4 +79,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Konradas]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/asmenys/Konradas Žakas]]
 - [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]

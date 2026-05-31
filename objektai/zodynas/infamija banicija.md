@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'infamija banicija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - pinigai
@@ -27,13 +18,15 @@ tags:
 Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol negaliodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol negaliodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol negaliodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos iždininkas visas krašto pajamas paimdavo į
@@ -49,9 +42,7 @@ Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija
     būtent hetmono ir iždininko.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

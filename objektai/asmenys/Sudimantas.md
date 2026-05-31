@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Sudimantas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1389 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1389'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - pilis
   - popiežius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Sudimantas
 
@@ -30,17 +26,20 @@ tags:
 Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19. Vienas tik Sudimantas, lietuvių vadas, sučiuptas per puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­ das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė nuteisdami jį pakarti kaip išdaviką.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Vienas tik Sudimantas, lietuvių vadas, sučiuptas per puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­ das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė nuteisdami jį pakarti kaip išdaviką.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pastarieji, gurguolei atvykus iki Žemu­
@@ -59,13 +58,11 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Vienas tik Sudimantas, lietuvių vadas, sučiuptas per puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­ das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė nuteisdami jį pakarti kaip išdaviką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau veltui Švit­
@@ -81,9 +78,7 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     kotos, ir tik tada didysis magistras įsakė trauktis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

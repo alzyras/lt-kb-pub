@@ -1,30 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Bajerburgo pilis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1200 m.'
   - '1337 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XIV'
 date_start: '1200'
 date_end: '1337'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - valdovas
   - vieta
+amziai:
+  - 'XII'
+  - 'XIV'
 ---
 # Bajerburgo pilis
 
@@ -33,16 +26,24 @@ tags:
 Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    O vis dėlto Vilniuje, galingos valstybės sostinėje,
+    Betgi toje epochoje, kai naujos civilizacijos
+    spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
+    nepaisant Lietuvos valdovų išmintingų siekių, karo reikalai
+    ir užgrobimai labiau už įstatymų leidimą ar krašto valdy­
+    mą visiems rūpėjo, dar skendint barbariškų laikų tamsoj ar­
+    gi galima laiduoti už bet kokių įstatymų pastovumą ir pati­
+    kimumą? O vis dėlto Vilniuje, galingos valstybės sostinėje,
     Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
     tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
     čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
@@ -62,8 +63,6 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     dinę keletą namų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

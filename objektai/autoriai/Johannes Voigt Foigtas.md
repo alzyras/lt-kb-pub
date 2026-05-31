@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Johannes Voigt Foigtas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - karalius
   - kunigaikštis
   - miestas
+amziai: []
+periodo_grupes: []
 ---
 # Johannes Voigt Foigtas
 
@@ -27,19 +23,27 @@ tags:
 Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina savo mylima šeiminin­ ke (seine liebe Hausfrau), jau metai kaip serga, ir kad liga kaip tik šiuo metu taip paūmėjo, jog visiškai nie­ ko negalinti valgyti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Foigto vertimas į len kųk ir teksto lotynų k.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Johannes Voigt Foigtas vadina savo mylima šeiminin­ ke (seine liebe Hausfrau), jau metai kaip serga, ir kad liga kaip tik šiuo metu taip paūmėjo, jog visiškai nie­ ko negalinti valgyti.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Foigto vertimas į len kųk ir teksto lotynų k.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Il
+    APIE VALDOVO GEDIMINO LAIŠKUS, RAŠYTUS IŠ VILNIAUS,
+    JŲ AUTENTIŠKUMĄ IR APIE ĮVYKIUS, KURIE BUVO JŲ
+    PASKELBIMO PASEKMĖ
+    A.
     Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve
     Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į
     jo veikalą, vad.: Preuszens aeltere Geschichte von August von
@@ -47,15 +51,16 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
     Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Johannes Voigt Foigtas vadina savo mylima šeiminin­ ke (seine liebe Hausfrau), jau metai kaip serga, ir kad liga kaip tik šiuo metu taip paūmėjo, jog visiškai nie­ ko negalinti valgyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Pasta­
+    rasis varį (miedź - mied') palaikė me­
+    dumi (miód).
     53
     F o i g t a s savo Marienburgo miesto
     ir pilies istorijoje (Geschichte Marien-
@@ -75,9 +80,7 @@ Foigto vertimas į len kųk ir teksto lotynų k. Johannes Voigt Foigtas vadina s
     dytoją ir giria didelį jo patyrimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

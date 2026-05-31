@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Radvila (maršalka)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
@@ -26,13 +17,15 @@ tags:
 Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­ go valdovo rankų priimtų įvesdinimą, po to, globojamas maršalkos Radvilos, buvo išsiųstas į.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­ go valdovo rankų priimtų įvesdinimą, po to, globojamas maršalkos Radvilos, buvo išsiųstas į.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­ go valdovo rankų priimtų įvesdinimą, po to, globojamas maršalkos Radvilos, buvo išsiųstas į.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau nau­
@@ -49,9 +42,7 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
     kloties laikai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -88,6 +79,7 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
 - [[objektai/paprociai/Protestantų pamaldos lenkiškai]]
 - [[objektai/zodynas/Puslapis 77]]
@@ -109,7 +101,6 @@ Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į 
 - [[objektai/ivykiai/coaequatio iurium įstatymo priėmimas (1697 m.)]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/zodynas/koadjutorius]]
-- [[objektai/posakiai/lenkai, nepataikę į duris, bus pro langus išmėtyti]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/reformacija]]

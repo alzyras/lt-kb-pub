@@ -1,34 +1,25 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'oficialusis kultūros modelis lietuviakalbė programa'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1595 m.'
   - '1599 m.'
   - '1620 m.'
-  - '1646 m.'
-  - '1737 m.'
   - '1741 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1595'
 date_end: '1741'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - mokslininkas
   - sąvoka
   - tauta
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # oficialusis kultūros modelis lietuviakalbė programa
 
@@ -37,17 +28,20 @@ tags:
 Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį. Daukšos lietuviakalbė programa nebuvo įgyvendinta.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Daukšos lietuviakalbė programa nebuvo įgyvendinta.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK –
@@ -62,13 +56,11 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
     kalba sukurti oficialųjį kultūros modelį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Daukšos lietuviakalbė programa nebuvo įgyvendinta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Unikali M. Daukšos veikla pa-
@@ -100,9 +92,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
     lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -113,4 +103,5 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/oficialusis kultūros modelis]]
 - [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“]]

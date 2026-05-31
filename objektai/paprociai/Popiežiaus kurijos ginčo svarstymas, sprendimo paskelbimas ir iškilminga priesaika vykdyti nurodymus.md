@@ -1,31 +1,23 @@
 ---
 tipas: paprotys
 pavadinimas: 'Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1034 m.'
-  - '1035 m.'
-  - '1323 m.'
   - '1324 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XIV'
 date_start: '1034'
 date_end: '1324'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - ordinas
   - paprotys
   - popiežius
+amziai:
+  - 'XI'
+  - 'XIV'
 ---
 # Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus
 
@@ -34,29 +26,35 @@ tags:
 Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po slapto jų pokal­
@@ -164,9 +162,7 @@ Nenurodyta
     p. 283.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

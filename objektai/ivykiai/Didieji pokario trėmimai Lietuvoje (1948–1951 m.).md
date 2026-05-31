@@ -1,16 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Didieji pokario trėmimai Lietuvoje (1948–1951 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1944 m.'
+  - '1948 m.'
+  - '1951 m.'
+date_start: '1944'
+date_end: '1951'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
+amziai:
+  - 'XX'
 ---
 # Didieji pokario trėmimai Lietuvoje (1948–1951 m.)
 
@@ -19,42 +24,69 @@ tags:
 Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Slopinant ginkluotą pasipriešinimą 1948 m. gegužę buvo ištremti 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 Lietuvos gyventojai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Slopinant ginkluotą pasipriešinimą 1948 m. gegužę buvo ištremti 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 Lietuvos gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietu-
+    Dislokuotos Lietuvoje NKVD
+    divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį
+    okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst. Lietu-
     vos gyventojų patyrė vienokią ar kitokią okupantų prievartą. Slopinant
     ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m.
     gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyvento-
     jai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dislokuotos Lietuvoje NKVD
+    divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį
+    okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst. Lietu-
+    vos gyventojų patyrė vienokią ar kitokią okupantų prievartą. Slopinant
+    ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m.
+    gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyvento-
+    jai. Po šių didžiųjų trėmimų kaimo žmonių opozicija sovietų politikai
+    ir pasipriešinimas buvo palaužti, visi masiškai pradėjo stoti į steigiamus
+    kolūkius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

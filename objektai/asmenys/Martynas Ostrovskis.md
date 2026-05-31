@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Martynas Ostrovskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1547 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1547'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - privilegija
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Martynas Ostrovskis
 
@@ -30,13 +26,15 @@ tags:
 Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­ nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas 34 Privilegija, duota Paleckiui steigti šią liejyklą, yra rašyta.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­ nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas 34 Privilegija, duota Paleckiui steigti šią liejyklą, yra rašyta.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­ nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas 34 Privilegija, duota Paleckiui steigti šią liejyklą, yra rašyta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trys į
@@ -92,9 +90,7 @@ Trys į Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­ tiekus Ch
     meno kūriniais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -62,6 +62,3 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]
-- [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/ivykiai/Žygimanto privilegijos mėsinėms Vilniaus mieste suteikimas (1543 m.)]]

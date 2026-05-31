@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'vaitas ir tarėjai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - privilegija
@@ -27,17 +18,20 @@ tags:
 Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo. Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­
@@ -62,13 +56,11 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
     civilinei įstaigai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir todėl patiems ar jų
@@ -93,11 +85,10 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
     subditis Capituli, etiam de Villis eorum, panes in Civitatem
     Vilnensem ducere, et vendere, alijs diebus pro Civibus dunta-
     xat liberis manentibus, juribus et privilegijs Civitati Vilnen.
+    concessis salvis remanentibus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

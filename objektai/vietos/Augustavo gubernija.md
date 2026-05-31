@@ -38,15 +38,14 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.'
   pagrindžia:
-    - c-002
-- t-003
+    - c-004
+- t-005
   teiginys: 'Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje (AkMD, t.'
   pagrindžia:
-    - c-003
-
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje.'
@@ -70,30 +69,29 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
+- c-004
   santrauka: 'Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Mackevičiaus sukilėliams pavyko atlai-
+    kyti Narvos pėstininkų pulko vado barono
+    Dellingsgauzeno vadovaujamo dalinio
+    puolimą.
+
     Per 1863 metus atkakliausiai sukilėliai ko-
     vėsi su caro kariuomene Kauno gubernijoje,
     kurioje įvyko 168 mūšiai ir susidūrimai su
     caro kariuomene. Vilniaus gubernijoje - 81
     mūšis, Augustavo gubernijoje, į kurią įėjo
     lietuviškoji Užnemunė - 62 mūšiai.
-
-    Prieš mūšį
-
-    Lietuvos sukilėlių vadovybė vyriausiuoju
-    sukilėlių ginkluotojų pajėgų vadu 1863
-    m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
+    - t-004
+- c-005
   santrauka: 'Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje (AkMD, t.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -106,4 +104,4 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-005

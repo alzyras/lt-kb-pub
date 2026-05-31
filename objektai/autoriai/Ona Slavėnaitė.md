@@ -123,4 +123,3 @@ Ona Slavėnaitė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
 - [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/MINTIS]]

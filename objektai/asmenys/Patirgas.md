@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Patirgas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1348 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1348'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - tauta
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Patirgas
 
@@ -28,13 +24,15 @@ tags:
 Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, Butautas, Vaidotas, Vytautas, Tautvila ir Zigmantas; dukte­ rys : Miklausa, Danuta, Ringailė ir vienos vardas nežinomas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, Butautas, Vaidotas, Vytautas, Tautvila ir Zigmantas; dukte­ rys : Miklausa, Danuta, Ringailė ir vienos vardas nežinomas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, Butautas, Vaidotas, Vytautas, Tautvila ir Zigmantas; dukte­ rys : Miklausa, Danuta, Ringailė ir vienos vardas nežinomas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kęstutis, matyt, buvo buvęs du kartu
@@ -50,9 +48,7 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
     palyginti, jaunas mirė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

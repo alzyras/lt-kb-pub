@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Dovilas, arba Dovydas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1128 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 date_start: '1128'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - miestas
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Dovilas, arba Dovydas
 
@@ -30,20 +26,23 @@ tags:
 48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą. DOVILAS ar DOVYDAS Rostislavovičius, Lietuvos kunigaikštis -----------^ ----------s VIDAS, pramintas Vilku, ERDENAS ar Liet.
 
 ## Teiginiai
-- t-001
-  teiginys: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'DOVILAS ar DOVYDAS Rostislavovičius, Lietuvos kunigaikštis -----------^ ----------s VIDAS, pramintas Vilku, ERDENAS ar Liet.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    48), liudija, kad XII amžiuje jau
+    I. 48), liudija, kad XII amžiuje jau
     būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
     lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
     čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
@@ -55,16 +54,15 @@ tags:
     vas3.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'DOVILAS ar DOVYDAS Rostislavovičius, Lietuvos kunigaikštis -----------^ ----------s VIDAS, pramintas Vilku, ERDENAS ar Liet.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Išvyko į Kon­
+    kun. Mstis­
+    lavo Vladimirovičiaus išvytas su broliais iš Polocko 1129 m. Išvyko į Kon­
     stantinopolį, iš kur paskui pakviestas.
     DOVILAS ar DOVYDAS
     Rostislavovičius, Lietuvos
@@ -74,9 +72,7 @@ tags:
     Liet.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

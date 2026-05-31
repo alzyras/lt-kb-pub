@@ -128,6 +128,3 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/teisinis-terminas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Zigmantas]]

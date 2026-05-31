@@ -1,26 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vytauto pareiškimas dėl derybų su Ordinu vietos ir dienos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1414 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1414'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
   - saltinis
+amziai:
+  - 'XV'
 ---
 # Vytauto pareiškimas dėl derybų su Ordinu vietos ir dienos
 
@@ -29,13 +23,15 @@ tags:
 Dar žr.: Vytauto pareiš­ kimas asmeninių derybų dėl taikos tarp jo ir Lenkijos karaliaus, iš vie­ nos pusės, bei būsimu didžiuoju ma­ gistru ir visu Ordinu, iš kitos, die­ nos ir vietos nustatymo dėlei.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dar žr.: Vytauto pareiš­ kimas asmeninių derybų dėl taikos tarp jo ir Lenkijos karaliaus, iš vie­ nos pusės, bei būsimu didžiuoju ma­ gistru ir visu Ordinu, iš kitos, die­ nos ir vietos nustatymo dėlei.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dar žr.: Vytauto pareiš­ kimas asmeninių derybų dėl taikos tarp jo ir Lenkijos karaliaus, iš vie­ nos pusės, bei būsimu didžiuoju ma­ gistru ir visu Ordinu, iš kitos, die­ nos ir vietos nustatymo dėlei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar žr.: Vytauto pareiš­
@@ -51,8 +47,6 @@ Dar žr.: Vytauto pareiš­ kimas asmeninių derybų dėl taikos tarp jo ir Lenk
     T. I, Nr. 698.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

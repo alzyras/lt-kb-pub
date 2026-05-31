@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Pusę darbo padaro tasai, kas netrunka jo imtis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
@@ -27,16 +18,22 @@ tags:
 Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to, prisimindamas šiuos poeto žodžius: Pusę darbo padaro tasai, kas netrunka jo imtis — sutelkė savo žmones ir prieš.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to, prisimindamas šiuos poeto žodžius: Pusę darbo padaro tasai, kas netrunka jo imtis — sutelkė savo žmones ir prieš.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to, prisimindamas šiuos poeto žodžius: Pusę darbo padaro tasai, kas netrunka jo imtis — sutelkė savo žmones ir prieš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Jie ir paprašė minėtąjį kunigaikštį pastatydinti
+    Aptarę karui reikalingus ginklus, turime grįžti prie savo tiesioginio uždavinio (1226).
+    Kadangi minėtieji Teutonų namų ordino broliai, tai yra brolis Konradas bei jo bičiulis,
+    neturėjo kur  Prūsijos žemėje, minėtojo Lenkijos kunigaikščio jau anksčiau jiems
+    atiduotoje, galvos priglausti, juodu sugalvojo iš toliau siekti užsibrėžto tikslo, iš už Vyslos,
+    kuri juos saugotų, būdama tarp jų ir prūsų. Jie ir paprašė minėtąjį kunigaikštį pastatydinti
     jiems vieną pilį, o jis, būdamas didžiai tikintis žmogus ir uolus dievo gerbėjas, be to,
     prisimindamas šiuos poeto žodžius:
 
@@ -48,9 +45,7 @@ Dusburgietis teigia, kad jie ir paprašė minėtąjį kunigaikštį pastatydinti
     kas tai yra „daiktiški ir dvasiniai ginklai” ir kokią jie teikia naudą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

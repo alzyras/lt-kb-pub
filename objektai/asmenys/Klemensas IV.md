@@ -1,17 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Klemensas IV'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1268 m.'
+date_start: '1268'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - popiežius
   - valdovas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Klemensas IV
 
@@ -20,33 +25,54 @@ tags:
 Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tačiau praėjus keletui
+    Mindaugas ryžosi kariauti su Vokiečių ordinu. Kartais teigia-
+    ma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui
     metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
     Mindaugą vadina „šviesaus atminimo valdovu“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje Mindaugą vadina „šviesaus atminimo valdovu“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kartais teigia-
+    ma, kad Mindaugas atsimetė ir nuo krikščionybės. Tačiau praėjus keletui
+    metų po Mindaugo mirties, 1268-aisiais, popiežius Klemensas IV bulėje
+    Mindaugą vadina „šviesaus atminimo valdovu“. Mindaugo krikštas nepa-
+    šalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-
+    maitija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/posakiai/„šviesaus atminimo valdovu“]]
 - [[objektai/ivykiai/Durbės mūšis]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/Mindaugo nužudymas]]

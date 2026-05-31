@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kirilika'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
@@ -25,13 +16,15 @@ tags:
 Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
@@ -44,9 +37,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     lietuvių „suartinimo“ su rusų kultūra gija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -59,3 +50,4 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - [[objektai/paprociai/Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
 - [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]
+- [[objektai/posakiai/„lenkų suartinimo su rusais“]]

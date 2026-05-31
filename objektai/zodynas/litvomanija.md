@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'litvomanija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1902 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
 date_start: '1902'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigas
   - sąvoka
   - tauta
+amziai:
+  - 'XX'
 ---
 # litvomanija
 
@@ -30,13 +24,15 @@ tags:
 Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai nesusipratę kunigai jau rimtai kirtosi su lietuvių aspiracijomis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai nesusipratę kunigai jau rimtai kirtosi su lietuvių aspiracijomis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai nesusipratę kunigai jau rimtai kirtosi su lietuvių aspiracijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
@@ -57,9 +53,7 @@ Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai
     lietuvių siekių, o bendradarbiavimą su jais laikė negarbe.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

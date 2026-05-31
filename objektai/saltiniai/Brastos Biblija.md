@@ -1,31 +1,23 @@
 ---
 tipas: saltinis
 pavadinimas: 'Brastos Biblija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1553 m.'
-  - '1562 m.'
   - '1563 m.'
-  - '1569 m.'
   - '1575 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1553'
 date_end: '1575'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - miestas
   - reforma
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # Brastos Biblija
 
@@ -34,17 +26,20 @@ tags:
 Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis. Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Ra-
@@ -60,13 +55,11 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
     mas Lietuvoje virto nenutrūkstamu procesu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reformacija tapo nauju lenkėjimo postūmiu. Radvila Juodasis
@@ -86,8 +79,6 @@ Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Ju
     triviumas, kolegijos ir universitetas).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Pijopas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -26,16 +17,18 @@ tags:
 Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs visą savo kariuomenę, apsiautė Baigos pilį ir, būdamas viršininkas, įsigeidė pats kaip karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs visą savo kariuomenę, apsiautė Baigos pilį ir, būdamas viršininkas, įsigeidė pats kaip karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs visą savo kariuomenę, apsiautė Baigos pilį ir, būdamas viršininkas, įsigeidė pats kaip karo vadas kitų akivaizdoje pasižymėti kovoje, tačiau.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Baigos pilies apgulą
+    20. Apie Baigos pilies apgulą
 
       Kai žinia apie šiuos įvykius pasiekė prūsus, vienas iš jų, Pijopas, varmių vadas, sutelkęs
     visą savo kariuomenę, apsiautė Baigos pilį  ir, būdamas viršininkas, įsigeidė pats kaip
@@ -49,9 +42,7 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
                    21.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

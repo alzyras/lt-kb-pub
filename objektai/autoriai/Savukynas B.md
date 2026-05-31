@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Savukynas B'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1243 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1243'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Savukynas B
 
@@ -27,13 +23,15 @@ tags:
 Dusburgietis teigia, kad pragaras, pragarmė (PUB, 1, 1, Nr. 143, p. 108, 1243 m.— Pregora sive Lipza; GAO, p. 135; Būga K., 1, p. 511; Savukynas B., Dėl M.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad pragaras, pragarmė (PUB, 1, 1, Nr. 143, p. 108, 1243 m.— Pregora sive Lipza; GAO, p. 135; Būga K., 1, p. 511; Savukynas B., Dėl M.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad pragaras, pragarmė (PUB, 1, 1, Nr. 143, p. 108, 1243 m.— Pregora sive Lipza; GAO, p. 135; Būga K., 1, p. 511; Savukynas B., Dėl M.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     374 D.— Super aquam Prigore, Jer. — Pregor; Prieglius, pr. Preigarā (lie. *Priegara),
@@ -43,8 +41,6 @@ Dusburgietis teigia, kad pragaras, pragarmė (PUB, 1, 1, Nr. 143, p. 108, 1243 m
     171; plg. Vėlius N., Senovės baltų..., p. 206—207).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

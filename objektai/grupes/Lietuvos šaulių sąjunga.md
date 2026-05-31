@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos šaulių sąjunga'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1940 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1940'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos šaulių sąjunga
 
@@ -30,78 +24,35 @@ tags:
 Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys. O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių. Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'
+  pagrindžia:
+    - c-001
+
 - t-004
   teiginys: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
   pagrindžia:
     - c-004
+
 - t-005
   teiginys: 'Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų nedetalizavo.'
   pagrindžia:
     - c-005
 
+- t-002
+  teiginys: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+
 - c-005
-  santrauka: 'Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų nedetalizavo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų
@@ -111,11 +62,92 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
     žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
+    sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
+    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
+    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
+    Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų
+    nedetalizavo. O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
+    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
+    riausybę jėga atsiimti Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rugsėjį Himansas dar pataisė planą lietuvių
+    naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
+    nio rajono statusą. Dabar abi derybų šalys stengėsi, kad susitarimas neį-
+    vyktų, tik kad ne jos liktų dėl to kaltos.
+    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
+    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
+    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
+    Trojos arklys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
+    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
+    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
+    liau – Raudonosios armijos 29-uoju šaulių korpusu). Liepos 11 dieną su-
+    stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Net didžiausi SSRS simpatikai
+    prikando liežuvius – bolševizmą galima pažinti tik jame pagyvenus.
+    Represijos ir 1941 metų
+    Birželio sukilimas
+    Represijos, areštai, deportacijos, jų baimė – sudedamoji
+    bolševikų vykdytos politikos dalis. 1940 m. liepos 6 d. Valstybės saugumo
+    departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
+    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
+    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
+    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-006
+  santrauka: 'Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietuvos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų Trojos arklys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dabar abi derybų šalys stengėsi, kad susitarimas neį-
+    vyktų, tik kad ne jos liktų dėl to kaltos.
+    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
+    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
+    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
+    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
@@ -129,4 +161,8 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Lietuvos kariuomenės pertvarkymas į Liaudies kariuomenę ir Šaulių sąjungos veiklos sustabdymas (1940 m. liepos 3-11 d.)]]
+- [[objektai/grupes/Raudonoji armija]]
 - [[objektai/grupes/Voldemarininkai]]
+- [[objektai/posakiai/„lenkų Trojos arklys“]]

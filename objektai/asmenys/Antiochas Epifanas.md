@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Antiochas Epifanas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ritualas
@@ -27,16 +18,24 @@ tags:
 Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Nedera, be to,
+    Mat Cereto vardas verčiamas žodžiu „naikintojas“, o Feleto —
+    „gelbėtojas“. Kadangi Dovydas buvo pranašas  ir jo lūpomis bylojo šventoji dvasia,
+    kadangi gebėjo regėti tiesos raštuose ir esamus, ir būsimus dalykus, todėl šitokia savo
+    sargybinių atranka jis mus pamokė, kad ir naujausiais laikais bažnyčios galva Kristus
+    privalėsiąs turėti sargybinių, kurie, nebrangindami savo gyvybės, prisisegs prie šlaunies
+    šventąjį kalaviją, kad tie, kurie supa drąsiausiojo Izraelio vyro Saliamono guolį, išvytų iš
+    krikščionių gyvenamų plotų klastingos tamsybės naktines šmėklas. Nedera, be to,
     užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis,
     nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo,
     nugalėjo Antiochą Epifaną  ir išrovė neteisybės šaknis, tad įveikė tą, kuris stengėsi
@@ -44,9 +43,7 @@ Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malo
     remiami, apvalė šventas vietas, atgavo Siono arką ir sugrąžino žemei ramybę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

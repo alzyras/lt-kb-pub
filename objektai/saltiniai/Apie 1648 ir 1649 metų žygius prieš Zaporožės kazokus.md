@@ -58,36 +58,16 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ apie Lojevo mūšį.'
-  pagrindžia:
-    - c-003
 - t-006
   teiginys: '„1649 metais [...] kelios valandos iki vidurdienio iš pirmųjų priešų, staiga pasileidusių ant buvusių prie pat stovyklos pašarininkų, buvo gauta žinia apie pavojų, ir lauko etmono įsakymu buvo duotas signalas stvertis ginklų.'
   pagrindžia:
     - c-004
+- t-007
+  teiginys: 'Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ apie Lojevo mūšį.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ apie Lojevo mūšį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Svetimšalių autoramento
-    pėstininkai būdavo ginkluoti ietimis arba muškietomis =
-
-    LOJEVO MUSIS
-
-    Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
-    prieš Zaporožės kazokus“ apie Lojevo mūšį.
-
-    „1649 metais [.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-004
   santrauka: '„1649 metais [...] kelios valandos iki vidurdienio iš pirmųjų priešų, staiga pasileidusių ant buvusių prie pat stovyklos pašarininkų, buvo gauta žinia apie pavojų, ir lauko etmono įsakymu buvo duotas signalas stvertis ginklų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -124,6 +104,25 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-005
+  santrauka: 'Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ apie Lojevo mūšį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
+    kas-ietininkas (pikinierius). Svetimšalių autoramento
+    pėstininkai būdavo ginkluoti ietimis arba muškietomis =
+
+    LOJEVO MUSIS
+
+    Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
+    prieš Zaporožės kazokus“ apie Lojevo mūšį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Bibliografiniai įrodymai
 - c-001

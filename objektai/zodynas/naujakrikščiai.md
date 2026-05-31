@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'naujakrikščiai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - ordinas
@@ -27,13 +18,15 @@ tags:
 Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbaigė taip: „Bažnyčios tarnams trukdo skleisti tarp pagonių Evangelijos šviesą ir atsako jiems reikalingo sau­ gumo keliaujant per anų žemes, kad naujakrikščius apdeda nepakeliama prievolių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbaigė taip: „Bažnyčios tarnams trukdo skleisti tarp pagonių Evangelijos šviesą ir atsako jiems reikalingo sau­ gumo keliaujant per anų žemes, kad naujakrikščius apdeda nepakeliama prievolių.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbaigė taip: „Bažnyčios tarnams trukdo skleisti tarp pagonių Evangelijos šviesą ir atsako jiems reikalingo sau­ gumo keliaujant per anų žemes, kad naujakrikščius apdeda nepakeliama prievolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po slapto jų pokal­
@@ -61,9 +54,7 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
     deli.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -89,7 +80,6 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 - [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]
 - [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
-- [[objektai/grupes/Rygos vyskupija Rygos Bažnyčia]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
 - [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]

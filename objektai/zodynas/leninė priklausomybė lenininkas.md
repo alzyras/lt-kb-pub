@@ -70,7 +70,3 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/MINTIS]]

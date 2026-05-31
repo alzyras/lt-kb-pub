@@ -1,30 +1,22 @@
 ---
 tipas: paprotys
 pavadinimas: 'Riterių garbės puota prieš karo žygį'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1390 m.'
-  - '1391 m.'
-  - '1392 m.'
   - '1393 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1390'
 date_end: '1393'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
   - paprotys
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Riterių garbės puota prieš karo žygį
 
@@ -33,29 +25,35 @@ tags:
 Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėjus prie upės pavadinimo priešdėlį -pa: pvz.: Paširvintys - nuo Širvintos upės; Pamerkys - nuo Mer­ kio upės; Pamusiai - nuo Musės upės; Panevėžys - nuo Nevėžio; Pa­ dubysis - nuo.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėjus prie upės pavadinimo priešdėlį -pa: pvz.: Paširvintys - nuo Širvintos upės; Pamerkys - nuo Mer­ kio upės; Pamusiai - nuo Musės upės; Panevėžys - nuo Nevėžio; Pa­ dubysis - nuo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėjus prie upės pavadinimo priešdėlį -pa: pvz.: Paširvintys - nuo Širvintos upės; Pamerkys - nuo Mer­ kio upės; Pamusiai - nuo Musės upės; Panevėžys - nuo Nevėžio; Pa­ dubysis - nuo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anglija, Škotija ir Prancūzija gerokai papildė sa-
@@ -124,9 +122,7 @@ Nenurodyta
     ne penkiskart po šimtą tūkstančių prūsiškų grive'nų42.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Jastžembcų giminė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
@@ -27,13 +18,15 @@ tags:
 Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­ rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­ nuolį, Cereto vyskupą, kadaise Vengrijos karalienės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iškilmingai,
@@ -51,9 +44,7 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
     tiems Lietuvoje Kristaus tikėjimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

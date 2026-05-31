@@ -61,8 +61,6 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/sritinė kunigaikštystė]]

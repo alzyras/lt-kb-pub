@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Babilono Talmudas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - saltinis
@@ -25,17 +16,20 @@ tags:
 Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba. Ne veltui sklido gandai, kad visi Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Ne veltui sklido gandai, kad visi Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
@@ -49,13 +43,11 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
     mas ir komentavimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Ne veltui sklido gandai, kad visi Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
@@ -64,8 +56,6 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
     ilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

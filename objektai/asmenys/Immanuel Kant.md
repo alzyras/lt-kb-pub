@@ -1,22 +1,19 @@
 ---
 tipas: asmuo
 pavadinimas: 'Immanuel Kant'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - tauta
+amziai:
+  - 'IMM'
+periodo_grupes: []
 ---
 # Immanuel Kant
 
@@ -25,13 +22,15 @@ tags:
 Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“ Immanuel Kant (1724–1804) Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės Š iuo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“ Immanuel Kant (1724–1804) Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės Š iuo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“ Immanuel Kant (1724–1804) Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmės Š iuo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     III s k y r i u s
@@ -50,12 +49,11 @@ Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti ats
     Š
     iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)
     priklausė autokratinei Rusijos imperijai (išskyrus pus-
-    mečiui 1812 m.
+    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
+    liudą“).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

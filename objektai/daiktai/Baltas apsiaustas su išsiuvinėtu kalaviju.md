@@ -96,6 +96,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]

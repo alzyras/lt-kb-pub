@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'dvarų milicija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,16 +15,20 @@ tags:
 Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia jau buvo sutraukta visa Sapiegų kariuomenė
@@ -35,15 +36,31 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
     buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos
     Lietuvos bajorija ir visi didžiūnai. Jie kiekvienas irgi atsivedė
     samdytos kariuomenės — savo dvarų milicijos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau Sapiegų priešų jėgos
+    buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos
+    Lietuvos bajorija ir visi didžiūnai. Jie kiekvienas irgi atsivedė
+    samdytos kariuomenės — savo dvarų milicijos. Bajorija sudarė
+    konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti
+    Sapiegos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Sapiegos]]
 - [[objektai/grupes/Sapiegų kariuomenė]]
+- [[objektai/zodynas/konfederacija]]

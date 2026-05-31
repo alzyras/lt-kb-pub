@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'inkorporuoti'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - upė
@@ -25,16 +16,23 @@ tags:
 Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upės, kuriuos mes iš Seislavo kuni­ gaikštienės atėmėme, norime grąžinti, inkorporuoti ir užra­ šyti bei šiuo raštu inkorporuojame, grąžiname ir užrašome minėtam Teterino dvarui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upės, kuriuos mes iš Seislavo kuni­ gaikštienės atėmėme, norime grąžinti, inkorporuoti ir užra­ šyti bei šiuo raštu inkorporuojame, grąžiname ir užrašome minėtam Teterino dvarui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upės, kuriuos mes iš Seislavo kuni­ gaikštienės atėmėme, norime grąžinti, inkorporuoti ir užra­ šyti bei šiuo raštu inkorporuojame, grąžiname ir užrašome minėtam Teterino dvarui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    et Losicien. nec non cum omnibus Kmetb oni-
+    Item et
+    alia bona, seu Curiam dictam Smolniany, cum omnibus ter­
+    rigenis, Smolnianskiemi, et Czyrczynskiemi, et cum omni­
+    bus bominibus Smolnien. et Czyrczynskiemi, similiter Cu­
+    riam dictam Hrodziscze, et Losicze, cum omnibus terrigenis
+    Hrodziscien. et Losicien. nec non cum omnibus Kmetb oni-
     bus, quae Bona quondam erant Siemion Ducis Bielski, om­
     nia sic expressa, bona, seu Curias nominatas expresse, illustri
     Helenae Duci Magnae n-rae, et contborali cbarissimae, dedi­
@@ -72,9 +70,7 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
     minėtam Teterino dvarui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

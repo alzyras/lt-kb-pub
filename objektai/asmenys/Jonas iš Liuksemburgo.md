@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas iš Liuksemburgo'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1329 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1329'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - pilis
   - tikėjimas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jonas iš Liuksemburgo
 
@@ -30,16 +26,18 @@ tags:
 Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Medvėgalio pilėnus
+    9. Apie Medvėgalio pilėnus
 
     1329 viešpaties metais  į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
     karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
@@ -52,12 +50,11 @@ Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Pr
     pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

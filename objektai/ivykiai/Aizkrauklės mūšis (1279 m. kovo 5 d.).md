@@ -103,6 +103,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Auksė Ūsienė]]
 - [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/autoriai/Vytautas Lesčius]]

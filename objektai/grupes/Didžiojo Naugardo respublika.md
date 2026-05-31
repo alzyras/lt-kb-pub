@@ -250,6 +250,7 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/proistorė]]
 - [[objektai/asmenys/Chariničius]]

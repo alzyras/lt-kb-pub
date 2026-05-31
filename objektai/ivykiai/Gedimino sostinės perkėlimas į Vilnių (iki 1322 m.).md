@@ -1,24 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Gedimino sostinės perkėlimas į Vilnių (iki 1322 m.)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1322 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1322'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XIV'
 ---
 # Gedimino sostinės perkėlimas į Vilnių (iki 1322 m.)
 
@@ -27,50 +21,44 @@ tags:
 Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun jau buvo perkėlęs savo sostinę^15. Gedimino mirties aplinkybės nėra žinomos.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vėliausiai 1322 m. Gediminas jau buvo perkėlęs savo sostinę į Vilnių.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio vilko » sapno yra nebeįsivaizduojama.'
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vėliausiai 1322 m. Gediminas jau buvo perkėlęs savo sostinę į Vilnių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
-    jau buvo perkėlęs savo sostinę^15. Kai rytiniame savo šone Lietuva
-    vis daugiau įgijo žemių, reikėjo ir sostinei parinkti vietą labiau
-    etnografinių lietuvių žemių rytuose.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-003
+  teiginys: 'Gediminas Vilniun jau buvo perkėlęs savo sostinę^15.'
   pagrindžia:
-    - t-001
+    - c-003
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio vilko » sapno yra nebeįsivaizduojama.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vilniaus įkūrimo legenda taip įaugo
+    Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
     į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
     «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
     vilko » sapno yra nebeįsivaizduojama.
@@ -78,11 +66,37 @@ Nenurodyta
     jau buvo perkėlęs savo sostinę^15.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
+    jau buvo perkėlęs savo sostinę^15. Kai rytiniame savo šone Lietuva
+    vis daugiau įgijo žemių, reikėjo ir sostinei parinkti vietą labiau
+    etnografinių lietuvių žemių rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: 'Gediminas Vilniun jau buvo perkėlęs savo sostinę^15.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gediminas Vilniun
+    jau buvo perkėlęs savo sostinę^15. Kai rytiniame savo šone Lietuva
+    vis daugiau įgijo žemių, reikėjo ir sostinei parinkti vietą labiau
+    etnografinių lietuvių žemių rytuose.
+    Gedimino mirties aplinkybės nėra žinomos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vytauto privilegija Trakams (1384 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1384 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1384'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - kunigaikštis
   - miestas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Vytauto privilegija Trakams (1384 m.)
 
@@ -30,13 +24,15 @@ tags:
 Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho naroienia 1384, mca Augusta 23 dnia Indykta, skaitome, kad Trakai jau tuo­ met, tai yra prieš krikščionybės įvedimą Lietuvoje, buvo ganėtinai svarbus Lietuvos miestas, kad ten jau.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho naroienia 1384, mca Augusta 23 dnia Indykta, skaitome, kad Trakai jau tuo­ met, tai yra prieš krikščionybės įvedimą Lietuvoje, buvo ganėtinai svarbus Lietuvos miestas, kad ten jau.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho naroienia 1384, mca Augusta 23 dnia Indykta, skaitome, kad Trakai jau tuo­ met, tai yra prieš krikščionybės įvedimą Lietuvoje, buvo ganėtinai svarbus Lietuvos miestas, kad ten jau.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gediminas
@@ -66,8 +62,6 @@ Vieno­ je Vytauto privilegijoje, suteiktoje Trakams, rašytoje pod lita Bożeho
     tvirtovių būtų priskirtas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

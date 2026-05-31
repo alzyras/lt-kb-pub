@@ -191,6 +191,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Baptista Cigala]]
 - [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]

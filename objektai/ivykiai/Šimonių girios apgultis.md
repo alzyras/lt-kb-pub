@@ -103,7 +103,6 @@ Nenurodyta
 - [[objektai/daiktai/Partizanų bunkeriai]]
 - [[objektai/grupes/Algimanto apygarda]]
 - [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/grupes/Rytų Lietuvos sritis]]
 - [[objektai/grupes/Šarūno rinktinė]]

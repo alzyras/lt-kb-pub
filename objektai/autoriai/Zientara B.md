@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Zientara B'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1223 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1223'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - diplomatas
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Zientara B
 
@@ -30,17 +26,20 @@ tags:
 Dusburgietis teigia, kad papiestwo..., p. 101 104; Zientara B. Dusburgietis teigia, kad stanowisko ziemi chełmińskiej..., p. 280—337; HP, 1, 1, p. 435—440, PKD, p. 31—36; Zientara B.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad papiestwo..., p. 101 104; Zientara B.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad stanowisko ziemi chełmińskiej..., p. 280—337; HP, 1, 1, p. 435—440, PKD, p. 31—36; Zientara B.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad papiestwo..., p. 101 104; Zientara B.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad papiestwo..., p. 101 104; Zientara B.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Daugelis Ordino brolių paėjo iš Meklenburgo, spėjamosios Kristijono
@@ -49,13 +48,11 @@ Dusburgietis teigia, kad papiestwo..., p. 101 104; Zientara B. Dusburgietis teig
     p. 101 104; Zientara B. Sprawy pruskie..., p. 37; Powierski J. Przekaz..., p. 409—410).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad stanowisko ziemi chełmińskiej..., p. 280—337; HP, 1, 1, p. 435—440, PKD, p. 31—36; Zientara B.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Imperatorius, naudodamasis „teise” lemti pagoniškųjų žemių
@@ -66,9 +63,7 @@ Dusburgietis teigia, kad papiestwo..., p. 101 104; Zientara B. Dusburgietis teig
     39).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

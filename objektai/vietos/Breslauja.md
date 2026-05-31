@@ -42,22 +42,22 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Jam į pagalbą atėjo Livonijos magistras ir jie Breslaujoje sujungė savo pajėgas.'
-  pagrindžia:
-    - c-002
 - t-004
   teiginys: 'Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Po Gedimino mirties Jaunutis paveldėjo ne tik sostą, bet ir Ašmeną, Ukmergę bei Breslaują.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Jam į pagalbą atėjo Livonijos magistras ir jie Breslaujoje sujungė savo pajėgas.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: '■ • - 25 ## Puslapis 42 VILNIAUS MIESTO ISTORIJA / TOMAS bet ir Ašmeną, Ukmergę ir Breslaują.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,23 +77,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jam į pagalbą atėjo Livonijos magistras ir jie Breslaujoje sujungė savo pajėgas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jam į pagalbą atėjo
-    Livonijos magistras ir
-    jie Breslaujoje sujungė
-    savo pajėgas. Tačiau
-    „užpylus žemę liūtimis“
-    žygiuoti gilyn į Lietuvą buvo nebegalima.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-004
   santrauka: 'Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -109,8 +92,47 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Po Gedimino mirties Jaunutis paveldėjo ne tik sostą, bet ir Ašmeną, Ukmergę bei Breslaują.'
+- c-006
+  santrauka: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    vyres­
+    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
+    valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Jam į pagalbą atėjo Livonijos magistras ir jie Breslaujoje sujungė savo pajėgas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tais metais
+    Švitrigaila su LDK ry-
+    tinių žemių rusų ku-
+    nigaikščiais ir bajorais
+    „išžygiavo į Lietuvą“.
+    Jam į pagalbą atėjo
+    Livonijos magistras ir
+    jie Breslaujoje sujungė
+    savo pajėgas. Tačiau
+    „užpylus žemę liūtimis“
+    žygiuoti gilyn į Lietuvą buvo nebegalima.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: '■ • - 25 ## Puslapis 42 VILNIAUS MIESTO ISTORIJA / TOMAS bet ir Ašmeną, Ukmergę ir Breslaują.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
@@ -156,21 +178,4 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    vyres­
-    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
-    valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­
-    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
-    Ukmerge, Breslauja (Braslaw).
-    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-008

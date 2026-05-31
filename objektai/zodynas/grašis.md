@@ -91,7 +91,6 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 - [[objektai/zodynas/rublis]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Ivanas Vasiljevičius]]
-- [[objektai/asmenys/Mendli Girėjus]]
 - [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/vietininkas]]

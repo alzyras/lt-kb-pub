@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Žirgai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
 ---
@@ -24,29 +15,35 @@ tags:
 Dusburgietis teigia, kad kartą vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė: „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi didelį grobį“.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kartą vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė: „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi didelį grobį“.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kartą vakarėjant jis išvydo link jo atjojant juodų juodžiausiu žirgu raitelį, kuris jam tarė: „Henrikai, eikš su manimi, bet vienui vienas, nuvesiu tave į tokią vietą, kur tu pelnysi didelį grobį“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kartą
@@ -65,9 +62,7 @@ Nenurodyta
     vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -109,7 +104,7 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Matas (Pipino sūnus)]]
+- [[objektai/asmenys/Mengli-Girėjus]]
 - [[objektai/daiktai/Mosin-Nagant šautuvas]]
 - [[objektai/asmenys/Ottonas Luterbergas]]
 - [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
@@ -142,5 +137,4 @@ Nenurodyta
 - [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams]]
 - [[objektai/zodynas/žirgų kapai]]
 - [[objektai/zodynas/žygūnai]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/lengvoji kavalerija]]

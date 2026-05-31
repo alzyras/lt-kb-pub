@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jokūbas (vėliau Urbonas IV)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1246 m.'
   - '1260 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1246'
 date_end: '1260'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - mūšis
   - popiežius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Jokūbas (vėliau Urbonas IV)
 
@@ -31,13 +27,15 @@ tags:
 Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau priešinęsis broliams ir iki savo gyvenimo pabaigos ištikimai laikėsi sutarties, kurią tarp jo ir brolių buvo sudaręs Jokūbas, Liuticho [Liežo] arkidiakonas, vėliau tapęs popiežiumi Urbonu IV.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau priešinęsis broliams ir iki savo gyvenimo pabaigos ištikimai laikėsi sutarties, kurią tarp jo ir brolių buvo sudaręs Jokūbas, Liuticho [Liežo] arkidiakonas, vėliau tapęs popiežiumi Urbonu IV.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau priešinęsis broliams ir iki savo gyvenimo pabaigos ištikimai laikėsi sutarties, kurią tarp jo ir brolių buvo sudaręs Jokūbas, Liuticho [Liežo] arkidiakonas, vėliau tapęs popiežiumi Urbonu IV.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo pat metu ir dėl
@@ -59,9 +57,7 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
     [Liežo] arkidiakonas, vėliau tapęs popiežiumi Urbonu IV.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,44 +1,44 @@
 ---
 tipas: posakis
 pavadinimas: 'Viešpaties vardu Amen'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1388 m.'
   - '1507 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVI'
 date_start: '1388'
 date_end: '1507'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - posakis
+amziai:
+  - 'XIV'
+  - 'XVI'
 ---
 # Viešpaties vardu Amen
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.
 
+Nenurodyta
+
 ## Teiginiai
+
 - t-001
   teiginys: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 210
@@ -88,9 +88,7 @@ tags:
     išaiškinti ir parašyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

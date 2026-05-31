@@ -1,25 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Nalepa J'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1278 m.'
   - '1283 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1278'
 date_end: '1283'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Nalepa J
 
@@ -28,41 +24,30 @@ tags:
 Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos, Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41— 42), kartais —apie Vangrapės aukštupį, dab. Dusburgietis teigia, kad 165—176; Tarvydas S., Vakarinių..., p. 55—59; [Nalepa J.] Polekszanie, p. 212— 213; to paties, [Dėl A. Dusburgietis teigia, kad kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136, 145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości..., p. 128; to paties, Stabo..., p. 146—148; CV, t.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos, Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41— 42), kartais —apie Vangrapės aukštupį, dab.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 165—176; Tarvydas S., Vakarinių..., p. 55—59; [Nalepa J.] Polekszanie, p. 212— 213; to paties, [Dėl A.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136, 145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości..., p. 128; to paties, Stabo..., p. 146—148; CV, t.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad kamienne ir kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui polonizuoti (Nalepa J., Stabo..., p. 146—148).'
   pagrindžia:
     - c-004
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos, Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41— 42), kartais —apie Vangrapės aukštupį, dab.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos,
-    Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41—
-    42), kartais —apie Vangrapės aukštupį, dab. Vengoževo (Węgorzewo) apylinkėse —
-    (Okulicz J. Pradzieje..., p. 466) arba į pietryčius nuo Suduonios (Powierski J., Uwagi...,
-    p. 124).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 165—176; Tarvydas S., Vakarinių..., p. 55—59; [Nalepa J.] Polekszanie, p. 212— 213; to paties, [Dėl A.'
   pagrindžia:
-    - t-001
+    - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos, Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41— 42), kartais —apie Vangrapės aukštupį, dab.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad 165—176; Tarvydas S., Vakarinių..., p. 55—59; [Nalepa J.] Polekszanie, p. 212— 213; to paties, [Dėl A.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Plačiau apie sūduvius, arba jotvingius, žr. Būga K., 3, p. 116—117,
@@ -78,27 +63,25 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
     Kulikauskas P., Užnemunės..., p. 90—99.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136, 145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości..., p. 128; to paties, Stabo..., p. 146—148; CV, t.'
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136,
-    145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości...,
-    p. 128; to paties, Stabo..., p. 146—148; CV, t. 34, p. 85; MGP, p. 50).
+    Pirmykštės (gentinės) Sūduvos siaurąja prasme, egzistavusios šalia Dainavos, Jotvingijos,
+    Poleksijos, ieškoma apie Sūduonią, Šešupės aukštupyje (Nalepa J., Jaćwięgowe, p, 41—
+    42), kartais —apie Vangrapės aukštupį, dab. Vengoževo (Węgorzewo) apylinkėse —
+    (Okulicz J. Pradzieje..., p. 466) arba į pietryčius nuo Suduonios (Powierski J., Uwagi...,
+    p. 124).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad kamienne ir kt.) Mėrūniškių regione (į šiaurės vakarus nuo Suvalkų) rodo, kad nusiaubtose savose centrinėse žemėse jotvingiai išliko dar ilgai po 1283 m., tik vėliau buvo palaipsniui polonizuoti (Nalepa J., Stabo..., p. 146—148).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nauji vietovardžių tyrimai (ež. Stabo — dab. Kamienne  ir
@@ -107,11 +90,21 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
     polonizuoti (Nalepa J., Stabo..., p. 146—148).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kalbama, matyt, apie 1278—1279 m. antpuolį (Būga K., 2, p. 103; 3, p. 136,
+    145, 152; Kamiński A., Jaćwież..., p. 105— 106; Nalepa J., Przyczynek do znajomości...,
+    p. 128; to paties, Stabo..., p. 146—148; CV, t. 34, p. 85; MGP, p. 50).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

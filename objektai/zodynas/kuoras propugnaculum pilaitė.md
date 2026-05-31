@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kuoras propugnaculum pilaitė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1300 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1300'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - pilis
   - sąvoka
   - upė
+amziai:
+  - 'XIII'
 ---
 # kuoras propugnaculum pilaitė
 
@@ -30,33 +24,76 @@ tags:
 Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] circa Wildenbergk; Jer.— vestin) turėjo būti greta vėlesnės kryžiuočių Marienburgo pilies, o gal ir jos vietoje (plg. Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250. Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] circa Wildenbergk; Jer.— vestin) turėjo būti greta vėlesnės kryžiuočių Marienburgo pilies, o gal ir jos vietoje (plg.'
-  pagrindžia:
-    - c-001
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad kiekvieną pilį apsupo trimis stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.'
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] circa Wildenbergk; Jer.— vestin) turėjo būti greta vėlesnės kryžiuočių Marienburgo pilies, o gal ir jos vietoje (plg.'
   pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
-  pagrindžia:
-    - c-006
+    - c-001
+
 - t-007
   teiginys: 'Dusburgietis teigia, kad apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo, kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo šventenybes.'
   pagrindžia:
     - c-007
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
+  pagrindžia:
+    - c-006
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
+  pagrindžia:
+    - c-005
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad kiekvieną pilį apsupo trimis stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.'
+  pagrindžia:
+    - c-004
+
+- t-008
+  teiginys: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
+  pagrindžia:
+    - c-008
+
 ## Reikšmingi paminėjimai
+
+- c-006
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Bartenšteino pilies puolimą
+
+      Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
+    įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris
+    apgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę
+
+    MGP, p. 50).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
+    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
+    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
+    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė
+    antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
+    broliai ir kiti žmonės šiose pilyse.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] circa Wildenbergk; Jer.— vestin) turėjo būti greta vėlesnės kryžiuočių Marienburgo pilies, o gal ir jos vietoje (plg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     239 D. — Wildenbergk, Jer.— Wildinberc; vėliau Willenberg, dab. Vilbarkas — pietinis
@@ -67,48 +104,50 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     208—1 paaiškinimus).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Sitai padarę, kunigaikštis bei broliai su savo
+    Pomando patariami, susirinko visi Varmės, Notangos, Bartos galingesnieji bei kiti kariauti
+    pasirengę vyrai ir apsupo Baigos pilį, įsitaisę čia karo stovyklas, tačiau broliai, iš anksto
+    žinodami, ką jie daro ir kaip tvarkosi, sutelkė minėtojo Braunšveigo kunigaikščio bei kitų
+    maldininkų jėgas ir pakilo į kovę, ir visus išžudė, nepalikdami nė vieno, kuris tokį įvykį
+    galėtų papasakoti busimosioms kartoms. Sitai padarę, kunigaikštis bei broliai su savo
     kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami
     pelenais, o žmones išsivesdami  į nelaisvę arba išžudydami. Toliau būdamas Baigos
     pilyje, kunigaikštis tais metais ne sykį grūmėsi kovos lauke su prūsais ir daug kartų
     taip kamavo prusus, kad tie nė atsikvėpti negalėjo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad kiekvieną pilį apsupo trimis stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.'
+
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kiekvieną pilį apsupo trimis
-    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
-    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies. Vargu ar kas stengtų apsakyti, kiek atrėmė
-    antpuolių, kokių patyrė pavojų, kokį nepakeliamą alkį ir šiaip stygių kentė apsuptieji
-    broliai ir kiti žmonės šiose pilyse.
+    Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
+
+      Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
+    kurį šiems reikėjo perkelti iš vieno kuoro  į kitą ir kuriame prūsai buvo pratę virti savo
+    šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum]. Į šią kovą broliai
+    stojo su 150 vyrų, o tada ir užvirė didelis mūšis. Galop broliai viešpaties valia užgrobė
+    katilą ir, verždamiesi toliau, iš pamatų sugriovė visus tris kuorus, iš 1300 vyrų, kurie
+    turėjo juos ginti, retas kuris išvengė mirties, o brolių pusėje krito nukautas tik vienas
+    maršalas392.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-007
+
 - c-005
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
+    103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
 
       Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas
     priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop  visi  it vienas sutarė
@@ -123,49 +162,40 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     matęs vedant nedidelį karių būrį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-006
+
+- c-008
+  santrauka: 'Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    23. Apie Partigalos pilies ir Skrando kuoro pastatymą
+
+      Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams;
+    jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą
+    [propugnaculum[ Skrando kalne250, sustiprinę  jį visokiais  kariais. Šie kasdien taip
+    puldinėjo Baigos pilies brolius, kad niekas nedrįso rodytis už pilies sienų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-009
   santrauka: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Bartenšteino pilies puolimą
+    119 (114). Apie Bartenšteino pilies puolimą
 
       Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
     įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris
-    apgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę
-
-    MGP, p.
+    apgulos mašinas, kuriomis puldinėjo pilį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Dusburgietis teigia, kad apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo, kurį šiems reikėjo perkelti iš vieno kuoro į kitą ir kuriame prūsai buvo pratę virti savo šventenybes.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie trijų kuorų sunaikinimą ir daugiau nei tūkstančio prūsų žūtį
-
-      Po to prasidėjo brolių šeimynos ir pilį supančiųjų prūsų susirėmimas dėl vieno katilo,
-    kurį šiems reikėjo perkelti iš vieno kuoro  į kitą ir kuriame prūsai buvo pratę virti savo
-    šventenybes, kaip reikalauja jų apeigos [secundum ritum ipsorum]. Į šią kovą broliai
-    stojo su 150 vyrų, o tada ir užvirė didelis mūšis. Galop broliai viešpaties valia užgrobė
-    katilą ir, verždamiesi toliau, iš pamatų sugriovė visus tris kuorus, iš 1300 vyrų, kurie
-    turėjo juos ginti, retas kuris išvengė mirties, o brolių pusėje krito nukautas tik vienas
-    maršalas392.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
@@ -176,5 +206,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]
+- [[objektai/grupes/Gubučiai]]
 - [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]
 - [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
+- [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas]]

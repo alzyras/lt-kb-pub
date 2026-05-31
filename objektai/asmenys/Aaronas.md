@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Aaronas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1059 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
 date_start: '1059'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+amziai:
+  - 'XI'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Aaronas
 
@@ -28,13 +24,15 @@ tags:
 Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vyskupas ir paskutinysis jų prancū­ zų kilmės, turėjo Prancūzijoje būda­ mas herbą, labai paplitusį - trijų karališkų karūnų, aukso spalvos, baltame fone, ant kario skydo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vyskupas ir paskutinysis jų prancū­ zų kilmės, turėjo Prancūzijoje būda­ mas herbą, labai paplitusį - trijų karališkų karūnų, aukso spalvos, baltame fone, ant kario skydo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vyskupas ir paskutinysis jų prancū­ zų kilmės, turėjo Prancūzijoje būda­ mas herbą, labai paplitusį - trijų karališkų karūnų, aukso spalvos, baltame fone, ant kario skydo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aaro-
@@ -56,9 +54,7 @@ Aaronas, pirmasis Tyneco abatas, o vė­ liau septintasis iš eilės Krokuvos vy
     1059 metų spalio 9 dieną.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

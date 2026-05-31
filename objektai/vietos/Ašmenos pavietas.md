@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Ašmenos pavietas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - miestas
@@ -26,16 +17,23 @@ tags:
 Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Ašmenos paviete.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Ašmenos paviete.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Ašmenos paviete.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Katilas, mobilizacijos
+    1700 m. į respublikonų judėjimą
+    aktyviai įsijungė broliai Jonušas ir Myko-
+    las Višnioveckiai, jauni ir labai turtingi di-
+    dikai, kurių įtaka judėjime sparčiai augo.
+    LDK rytinių vaivadijų - Baltosios Rusios
+    bajoriją telkė M. K. Katilas, mobilizacijos
     vieta jai buvo paskirta Vileikos miestelio
     apylinkės Ašmenos paviete. G. A. Oginskis
 
@@ -46,8 +44,6 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
     Lenkijoje - Voluinėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

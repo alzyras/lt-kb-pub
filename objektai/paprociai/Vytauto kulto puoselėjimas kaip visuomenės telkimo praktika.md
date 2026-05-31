@@ -1,20 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - valstybė
@@ -26,29 +16,35 @@ tags:
 Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais pavadinama imperija.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais pavadinama imperija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien kartais pavadinama imperija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vytauto laikų Lietuva labiausiai priartėjo prie valstybės, kuri šiandien
@@ -63,9 +59,7 @@ Nenurodyta
     sąjungą, kurios hegemonė būtų Lenkija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

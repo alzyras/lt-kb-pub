@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Pliekta'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1399 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1399'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jonas Pliekta
 
@@ -28,23 +24,25 @@ tags:
 Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais, tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    , mirė 1399 m.
+    1. Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­
+    no, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas,
+    iškeltas į tas pareigas 1387 m., mirė 1399 m.
     2. Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais,
     tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -121,10 +121,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užpuolimą 1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė.'
   pagrindžia:
     - c-023
-- t-024
-  teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
-  pagrindžia:
-    - c-024
 - t-025
   teiginys: 'Tačiau ordinas Ragainėje juos sulaikė.'
   pagrindžia:
@@ -145,6 +141,10 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginys: 'Šalia paties Vytauto būrių iš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­ chas^30.'
   pagrindžia:
     - c-029
+- t-030
+  teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
+  pagrindžia:
+    - c-030
 
 ## Reikšmingi paminėjimai
 - c-008
@@ -438,23 +438,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-023
-- c-024
-  santrauka: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    ). Kryžiuočiai, atslinkę prie Nemuno, tuojau
-    pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės
-
-
-    pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo
-    ją atlaikyti).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-024
 - c-025
   santrauka: 'Tačiau ordinas Ragainėje juos sulaikė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -542,3 +525,20 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-029
+- c-030
+  santrauka: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ). Kryžiuočiai, atslinkę prie Nemuno, tuojau
+    pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės
+
+
+    pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo
+    ją atlaikyti).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030

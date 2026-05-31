@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Engelbertas I'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1262 m.'
   - '1263 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1262'
 date_end: '1263'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - pilis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Engelbertas I
 
@@ -30,13 +26,15 @@ tags:
 Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
@@ -56,14 +54,28 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
       369 1262—1263 m.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Todėl jie nuolankiai ir gailiai kėlė
+    akis  į dangų, su ašaromis šaukdamiesi viešpaties pagalbos,  ir viešpats jų išklausė.
+    Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
+    kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
+    pavakarę, jie atvyko į Karaliaučiaus pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Kuorai]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]

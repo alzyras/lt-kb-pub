@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vilniaus magistrato knygos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1536 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1536'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - saltinis
   - upė
+amziai:
+  - 'XVI'
 ---
 # Vilniaus magistrato knygos
 
@@ -30,16 +24,19 @@ tags:
 Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­ niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­ kai, taip pat.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­ niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­ kai, taip pat.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­ niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­ kai, taip pat.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Dalyvaujant
+    Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki
+    šimtai trisdešimt trečiaisiais Viešpaties metais. Dalyvaujant
     didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­
     kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­
     niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos
@@ -66,8 +63,6 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
     Viešpaties vardu Amen.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

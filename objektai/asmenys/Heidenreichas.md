@@ -1,31 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: 'Heidenreichas (vyskupas, XIII–XIV a.)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Heidenreichas'
-aliases:
-  - 'Heidenreichas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1246 m.'
   - '1326 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1246'
 date_end: '1326'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - pilis
   - upė
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Heidenreichas (vyskupas, XIII–XIV a.)
 
@@ -34,13 +28,15 @@ tags:
 Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie brolį Heidenreichą, Kulmo vyskupą Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas432.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie brolį Heidenreichą, Kulmo vyskupą Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas432.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie brolį Heidenreichą, Kulmo vyskupą Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas432.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
@@ -70,9 +66,7 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
     Prūsijos žemėje krikščionims teksią dar daug patirti vargo bei kančių nuo prūsų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

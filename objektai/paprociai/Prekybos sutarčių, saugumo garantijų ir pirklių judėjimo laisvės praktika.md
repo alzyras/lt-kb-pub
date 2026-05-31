@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1432 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1432'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - karalius
   - kunigaikštis
   - paprotys
+amziai:
+  - 'XV'
 ---
 # Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika
 
@@ -30,78 +24,45 @@ tags:
 Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6. Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­ ku8. 8 Iki mūsų laikų Slaptajame Karaliau­ čiaus archyve išliko didžiojo kuni­ gaikščio Švitrigailos laiškas, kuriame didžiojo magistro prašo saugumo ga­ rantijų Bomannui, Vilniaus gyvento­ jui, vykstančiam į Gdanską su pre­ kybiniais reikalais.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­ ku8.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: '8 Iki mūsų laikų Slaptajame Karaliau­ čiaus archyve išliko didžiojo kuni­ gaikščio Švitrigailos laiškas, kuriame didžiojo magistro prašo saugumo ga­ rantijų Bomannui, Vilniaus gyvento­ jui, vykstančiam į Gdanską su pre­ kybiniais reikalais.'
   pagrindžia:
     - c-003
 
+- t-001
+  teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Volumes gyventojai, jausdami karaliui anti­
-    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
-    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
-    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
-    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
-    tarti, sudarė su juo ilgalaikes paliaubas. Tik tada Švitrigaila
-    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
-    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
-    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
-    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
-    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
-    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
-    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­ ku8.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Valdant Švitrigailai, Vilniaus miestietis
-    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
-    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
-    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
-    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
-    čio dvare9.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: '8 Iki mūsų laikų Slaptajame Karaliau­ čiaus archyve išliko didžiojo kuni­ gaikščio Švitrigailos laiškas, kuriame didžiojo magistro prašo saugumo ga­ rantijų Bomannui, Vilniaus gyvento­ jui, vykstančiam į Gdanską su pre­ kybiniais reikalais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     8
@@ -137,11 +98,48 @@ Nenurodyta
     mo".
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Volumes gyventojai, jausdami karaliui anti­
+    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
+    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
+    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
+    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
+    tarti, sudarė su juo ilgalaikes paliaubas. Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Per itin galingas Švitrigailos sąjungas radosi di­
+    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
+    Vokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -85,5 +85,3 @@ Lietuvos visuomenė dar nebuvo politiškai susipratusi.
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
-- [[objektai/grupes/Socialdemokratai]]
-- [[objektai/grupes/Tautininkai]]

@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Seimo vienbalsiškumo ir liberum veto norma'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - miestas
@@ -27,29 +18,35 @@ tags:
 Pagal liberum veto teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis santvarkomis ir trukdė stiprinti bei centralizuoti valstybę.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pagal liberum veto teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis santvarkomis ir trukdė stiprinti bei centralizuoti valstybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pagal liberum veto teisę bajoriškojo parlamento – Seimo sprendimai turėjo būti priimami vienu balsu, o tai ypač kontrastavo su Vakarų Europos absoliutistinėmis santvarkomis ir trukdė stiprinti bei centralizuoti valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenki-
@@ -68,9 +65,7 @@ Nenurodyta
     tiems karaimams, totoriams ir žydams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -83,3 +78,4 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/Bajorų respublika liberum veto]]

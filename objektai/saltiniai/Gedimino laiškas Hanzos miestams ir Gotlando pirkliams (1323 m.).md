@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - kunigas
   - saltinis
   - valdovas
+amziai:
+  - 'XIV'
 ---
 # Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.)
 
@@ -30,25 +24,30 @@ tags:
 Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­ gubai padarysime ir dar daugiau, nes mes pasiuntėme mū­ sų laišką mūsų tėvui, šventajam viešpačiui popiežiui dėl susivienijimo su dievo bažnyčia ir su neapsakomu nekan­ trumu. Taip pat, be visa to, [ką suteikė] mūsų pirmta­ kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­ lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­ jamomis kiekvieną pagal jo. ## Puslapis 77 I KNYGA vaikais, žmonomis ir galvijais, tegu ateina ir išeina pagal savo norą visiškai be jokio trukdymo; tai šiuo savo laišku užtikrin­ dami, prižadame, kad jie bus saugūs ir neliečiami jokių netei­ sėtų mano pavaldinių pretenzijų.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­ gubai padarysime ir dar daugiau, nes mes pasiuntėme mū­ sų laišką mūsų tėvui, šventajam viešpačiui popiežiui dėl susivienijimo su dievo bažnyčia ir su neapsakomu nekan­ trumu.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Taip pat, be visa to, [ką suteikė] mūsų pirmta­ kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­ lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­ jamomis kiekvieną pagal jo.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: '## Puslapis 77 I KNYGA vaikais, žmonomis ir galvijais, tegu ateina ir išeina pagal savo norą visiškai be jokio trukdymo; tai šiuo savo laišku užtikrin­ dami, prižadame, kad jie bus saugūs ir neliečiami jokių netei­ sėtų mano pavaldinių pretenzijų.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Šio antspaudo niekintojus šiuo savo laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios garbės neturinčius žmones.'
   pagrindžia:
     - c-004
+
+- t-001
+  teiginys: 'Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­ gubai padarysime ir dar daugiau, nes mes pasiuntėme mū­ sų laišką mūsų tėvui, šventajam viešpačiui popiežiui dėl susivienijimo su dievo bažnyčia ir su neapsakomu nekan­ trumu.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Taip pat, be visa to, [ką suteikė] mūsų pirmta­ kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­ lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­ jamomis kiekvieną pagal jo.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: '## Puslapis 77 I KNYGA vaikais, žmonomis ir galvijais, tegu ateina ir išeina pagal savo norą visiškai be jokio trukdymo; tai šiuo savo laišku užtikrin­ dami, prižadame, kad jie bus saugūs ir neliečiami jokių netei­ sėtų mano pavaldinių pretenzijų.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­ gubai padarysime ir dar daugiau, nes mes pasiuntėme mū­ sų laišką mūsų tėvui, šventajam viešpačiui popiežiui dėl susivienijimo su dievo bažnyčia ir su neapsakomu nekan­ trumu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jei jie [se­
@@ -73,15 +72,62 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     tokių vienuolių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Taip pat, be visa to, [ką suteikė] mūsų pirmta­ kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­ lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­ jamomis kiekvieną pagal jo.'
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
+    kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios
+    garbės neturinčius žmones.
+    Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­
+    tystę galės kiekvienas saugiai atvykti į mano valdomą žemę.
+    Duota Vilniuje 1323 viešpaties metais, pačioje Kristaus
+    kūno dienoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ## Puslapis 77
+
+    I  KNYGA
+    vaikais, žmonomis ir galvijais, tegu ateina ir išeina pagal savo
+    norą visiškai be jokio trukdymo; tai šiuo savo laišku užtikrin­
+    dami, prižadame, kad jie bus saugūs ir neliečiami jokių netei­
+    sėtų mano pavaldinių pretenzijų.
+    Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
+    pasilikti, duodame [žemę] bei suteikiame [privilegiją] de­
+    šimt metų [ją] dirbti laisvai ir be mokesčių, o pusę to laiko
+    tebūna jie atleisti nuo bet kokios karališkos prievolės; mi­
+    nėtam terminui praėjus, priklausomai nuo žemės derlin­
+    gumo, jie duos dešimtinę, kaip ir kitose karalystėse bei tau­
+    tose paprastai jie duodavo, tačiau su tokiu [skirtumu], kad
+    mūsuose grūdas bus gausesnis, negu paprastai yra kitose
+    karalystėse.
+    Tie visi žmonės tesinaudoja Rygos miesto civiline teise,
+    jei paskui nebus geriau sumanyta išmintingųjų tarybos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
+    vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­
+    mo vertus vyrus; mes, be savo parašo ir be šio savo laiško,
+    sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­
+    mingai prižadame jums visiems, kad nustatysime tokią tar­
+    pusavio taiką, apie kokią krikščionys niekados nė negalvojo.
     Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­
     nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,
     [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­
@@ -108,55 +154,6 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
     consueverunt.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '## Puslapis 77 I KNYGA vaikais, žmonomis ir galvijais, tegu ateina ir išeina pagal savo norą visiškai be jokio trukdymo; tai šiuo savo laišku užtikrin­ dami, prižadame, kad jie bus saugūs ir neliečiami jokių netei­ sėtų mano pavaldinių pretenzijų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ## Puslapis 77
-
-    I  KNYGA
-    vaikais, žmonomis ir galvijais, tegu ateina ir išeina pagal savo
-    norą visiškai be jokio trukdymo; tai šiuo savo laišku užtikrin­
-    dami, prižadame, kad jie bus saugūs ir neliečiami jokių netei­
-    sėtų mano pavaldinių pretenzijų.
-    Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
-    pasilikti, duodame [žemę] bei suteikiame [privilegiją] de­
-    šimt metų [ją] dirbti laisvai ir be mokesčių, o pusę to laiko
-    tebūna jie atleisti nuo bet kokios karališkos prievolės; mi­
-    nėtam terminui praėjus, priklausomai nuo žemės derlin­
-    gumo, jie duos dešimtinę, kaip ir kitose karalystėse bei tau­
-    tose paprastai jie duodavo, tačiau su tokiu [skirtumu], kad
-    mūsuose grūdas bus gausesnis, negu paprastai yra kitose
-    karalystėse.
-    Tie visi žmonės tesinaudoja Rygos miesto civiline teise,
-    jei paskui nebus geriau sumanyta išmintingųjų tarybos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Šio antspaudo niekintojus šiuo savo laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios garbės neturinčius žmones.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
-    kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios
-    garbės neturinčius žmones.
-    Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­
-    tystę galės kiekvienas saugiai atvykti į mano valdomą žemę.
-    Duota Vilniuje 1323 viešpaties metais, pačioje Kristaus
-    kūno dienoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004

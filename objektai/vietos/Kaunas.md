@@ -563,6 +563,10 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginys: 'Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai atgimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir.'
   pagrindžia:
     - c-098
+- t-098
+  teiginys: '1920 m. vasario 22-23 d. Kaune kilo bolševikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti Lietuvą atvira karine jėga.'
+  pagrindžia:
+    - c-099
 
 ## Reikšmingi paminėjimai
 
@@ -2342,3 +2346,18 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-097
+- c-099
+  santrauka: '1920 m. vasario 22-23 d. Kaune kilo bolševikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti Lietuvą atvira karine jėga.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1920 m. vasario 22-23 d. Kaune kilo bolše-
+    vikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę
+    poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti
+    Lietuvą atvira karine jėga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-098

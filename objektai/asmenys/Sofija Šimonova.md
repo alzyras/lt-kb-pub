@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Sofija Šimonova'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
@@ -26,17 +17,37 @@ tags:
 Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų. Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­ tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik nuo kviečių....................Įprastą dešimtinę privalo mokė­ ti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­ tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik nuo kviečių....................Įprastą dešimtinę privalo mokė­ ti.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Be tö, ir ba­
+    jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
+    tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš
+    savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik
+    nuo kviečių....................Įprastą dešimtinę privalo mokė­
+    ti ir visi, gyvenantys minėtos bažnyčios teritorijoje, su visa
+    Gelvonų sritim bei tie, kurie anksčiau nuo seno dešimtinę
+    duodavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu
@@ -61,30 +72,9 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
     visų naminių gyvulių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­ tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik nuo kviečių....................Įprastą dešimtinę privalo mokė­ ti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be tö, ir ba­
-    jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
-    tinę kviečių iš visų laukų; taip ir bajorė Ona Tarnavska iš
-    savo dvaro nuo visų javų, o iš Stanislovo Vaitkavičiaus tik
-    nuo kviečių....................Įprastą dešimtinę privalo mokė­
-    ti ir visi, gyvenantys minėtos bažnyčios teritorijoje, su visa
-    Gelvonų sritim bei tie, kurie anksčiau nuo seno dešimtinę
-    duodavo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

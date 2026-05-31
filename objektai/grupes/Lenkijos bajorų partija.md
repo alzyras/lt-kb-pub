@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Lenkijos bajorų partija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1672 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1672'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - karalius
   - seimas
+amziai:
+  - 'XVII'
 ---
 # Lenkijos bajorų partija
 
@@ -30,17 +24,20 @@ tags:
 Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prancūzijos kan-
@@ -51,13 +48,11 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
     šeimos net vedė žmoną.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik abiem pusėm
@@ -69,9 +64,7 @@ Prancūzijos kandidato partija tuojau pradėjo ruoštis jį pašalinti. Prancūz
     ištremti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

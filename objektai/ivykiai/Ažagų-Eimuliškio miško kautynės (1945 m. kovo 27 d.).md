@@ -211,6 +211,5 @@ Nenurodyta
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/grupes/NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas]]

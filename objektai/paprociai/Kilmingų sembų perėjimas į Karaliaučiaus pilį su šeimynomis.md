@@ -1,21 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis (pilis)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis'
-aliases:
-  - 'Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - pilis
@@ -27,21 +16,27 @@ tags:
 Dusburgietis teigia, kad apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš viešpaties rykštę ir.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš viešpaties rykštę ir.'
   pagrindžia:
@@ -49,8 +44,8 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių Nė šis smarkus sukrėtimas neįvarė sembams proto ir nepaskatino jų sugrįžti į šventosios motinos bažnyčios prieglobstį, anaiptol, apmaudo kurstomi, įžūliai sukilo prieš viešpaties rykštę ir.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     100 (95). Apie tikinčiuosius sembus, prisidėjusius prie Karaliaučiaus brolių
@@ -67,13 +62,11 @@ Nenurodyta
      101 (96).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nė  šis smarkus sukrėtimas neįvarė sembams proto  ir nepaskatino jų sugrįžti  į
@@ -81,11 +74,9 @@ Nenurodyta
     viešpaties rykštę ir pradėjo kuo atkakliausiai kariauti su broliais, išskyrus kai kuriuos
     garsios giminės bei kilmingus vyrus, kurie, palikę gimtuosius namus, vienas po kito su
     šeimynomis atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių372.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

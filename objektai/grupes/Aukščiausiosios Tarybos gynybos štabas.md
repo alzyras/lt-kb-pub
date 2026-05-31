@@ -56,7 +56,6 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Audrius Butkevičius]]
-- [[objektai/asmenys/E. Kasperavičius]]
 - [[objektai/asmenys/Jonas Gečas]]
 - [[objektai/asmenys/Virginijus Česnulevičius]]
 - [[objektai/zodynas/leičiai]]

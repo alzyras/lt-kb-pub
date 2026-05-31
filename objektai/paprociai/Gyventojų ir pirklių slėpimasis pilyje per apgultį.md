@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Gyventojų ir pirklių slėpimasis pilyje per apgultį'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
@@ -27,88 +18,40 @@ tags:
 Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28. To­ je pilyje krikščionis kunigaikštis, mū­ sų mielasis brolis, ponas Kazimieras, vadovavo įgulai." 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'To­ je pilyje krikščionis kunigaikštis, mū­ sų mielasis brolis, ponas Kazimieras, vadovavo įgulai." 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
-    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
-    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
-    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
-    pats miesto centras, nedidelis, su mediniais namais, bet su
-    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
-    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
-    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
-    mi28. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­
-    rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pi-
-    buvo prisistatęs Vytautui stovyklo­
-    je prie Smolensko su bajorais ir, Vy­
-    tautui tą miestą užėmus, priėmė iš
-    šio monarcho jam skirtą valdą - Po-
-    lonos miestelį. Žr. K a r a m z i n,
-    Hist. Ros. T. V. vert. į lenk. k. p. 137-
-    138. Panaši užuomina apie šį Glebą
-    Kronika Ruška, išleista Danilovi-
-    č i a u s, įdėta Latopisiec Litewski, p.
-    212. Tie kunigaikščiai nebuvo prie
-    Vilniaus nužudyti, bet paimti į ne­
-    laisvę Skirgailos stovyklos prie Vi-
-    žūnų užėmimo metu, apie ką aiškiai
-    byloja D a n i 1 o v i č i a u s Latopi­
-    siec, p. 45.
-    28
-    Das Cromehus arba Kromhus - senuo­
-    siuose kryžiuočiu raštuose. K a r a-
-    1 i a u č. S1 a p t. arch., anot F o i g-
-    t o, V, p. 544, yra vienas pranešimas
-    iš lenkų krašto, rašytas senąja vokie­
-    čių kalba: Fol. E, p. 70, kuriame esa­
-    ma tokių žodžių: „Apsupome W ille
-    (tai yra Vilnių), lietuvių žemėse patį
-    pavojingiausią miestą, kur buvo trys
-    pilys, saugomos įgulos. Viena jų va­
-    dinama Krautuvių Pilimi, kurioje su­
-    sirinko keletas tūkstančių ginkluotų
-    žmonių, vyresnieji bei abiejų lyčių
-    prastuomenė, - ir pilies ginti, ir ieš­
-    kodami ten saugaus prieglobsčio. To­
-    je pilyje krikščionis kunigaikštis, mū­
-    sų mielasis brolis, ponas Kazimieras,
-    vadovavo įgulai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-003
+  teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
   pagrindžia:
-    - t-001
+    - c-003
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'To­ je pilyje krikščionis kunigaikštis, mū­ sų mielasis brolis, ponas Kazimieras, vadovavo įgulai." 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     28
@@ -139,24 +82,38 @@ Nenurodyta
     tikras brolis Kazimieras - kunigaikštis Karigaila.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
+- c-003
+  santrauka: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
+    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
+    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
+    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
+    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
+    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
+    mi28.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/asmenys/Karigaila]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pakancleris]]
 - [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]
+- [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]

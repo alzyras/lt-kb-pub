@@ -1,25 +1,19 @@
 ---
 tipas: posakis
 pavadinimas: 'Už pagarbą, kurią per mano paveikslą esi man parodęs'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1411 m.'
   - '1419 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1411'
 date_end: '1419'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
+amziai:
+  - 'XV'
 ---
 # Už pagarbą, kurią per mano paveikslą esi man parodęs
 
@@ -28,13 +22,15 @@ tags:
 Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus nieko nežinąs, išskyrus vienui vieną, būtent, kai su didele kariuomene buvo įsibrovęs į Lenkiją, vienas sūduvis išsivežęs švenčiausiosios mergelės Marijos su kūdikėliu ant rankų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus nieko nežinąs, išskyrus vienui vieną, būtent, kai su didele kariuomene buvo įsibrovęs į Lenkiją, vienas sūduvis išsivežęs švenčiausiosios mergelės Marijos su kūdikėliu ant rankų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus nieko nežinąs, išskyrus vienui vieną, būtent, kai su didele kariuomene buvo įsibrovęs į Lenkiją, vienas sūduvis išsivežęs švenčiausiosios mergelės Marijos su kūdikėliu ant rankų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis atsakė, kad esąs nukovęs daugybę krikščionių, o apie kokius gerus darbus
@@ -53,9 +49,7 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
     mano sūnaus karalystėje“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

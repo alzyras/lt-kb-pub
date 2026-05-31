@@ -1,20 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„Vyskupo M. Valančiaus „kunigaikštystė““'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVIII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
@@ -28,15 +18,19 @@ tags:
 Vyskupo M.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vyskupo M.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vyskupo M.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Valdžia konfiskavo daug dvarų, uždarė katalikų vienuolynus ir bažnyčias
+    ir nutarė, kad atsirado proga galutinai išspręsti „lenkų klausimą“.
     Vyskupo M. Valančiaus
     „kunigaikštystė“
     XVIII a. pabaigoje Prancūzijos didžioji revoliucija pagim-
@@ -47,9 +41,7 @@ Vyskupo M.
     eiti prie aukštosios kultūros.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

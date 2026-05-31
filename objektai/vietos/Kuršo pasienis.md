@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Kuršo pasienis'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -18,16 +15,20 @@ tags:
 Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Generolams sutarus perskirti jėgas, Dembinskis turėjo eiti į Kuršo pasienį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Kuršėnuose
@@ -40,10 +41,25 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
     bajorija buvo labai nepatenkinta generolais. Pagaliau generolai
     sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
     į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Krašto
+    bajorija buvo labai nepatenkinta generolais. Pagaliau generolai
+    sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
+    į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
+    Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot
+    kovojęs su rusais, prieš pereidamas Prūsijos sieną, padėjo gink-
+    lus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

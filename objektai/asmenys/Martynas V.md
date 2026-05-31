@@ -413,6 +413,5 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
-- [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Maskvos metropolitai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - grupe
@@ -27,17 +18,20 @@ tags:
 Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religinė viršenybė rusiškojo tikėjimo vyskupų Lietuvo­ je atžvilgiu. Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs išprašyti Kijevo metropolijos prijungimą prie Maskvos; gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­ imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­ vą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religinė viršenybė rusiškojo tikėjimo vyskupų Lietuvo­ je atžvilgiu.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs išprašyti Kijevo metropolijos prijungimą prie Maskvos; gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­ imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­ vą.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religinė viršenybė rusiškojo tikėjimo vyskupų Lietuvo­ je atžvilgiu.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religinė viršenybė rusiškojo tikėjimo vyskupų Lietuvo­ je atžvilgiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas
@@ -59,13 +53,11 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
     politams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs išprašyti Kijevo metropolijos prijungimą prie Maskvos; gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­ imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­ vą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
@@ -87,9 +79,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
     ju.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -51,7 +51,6 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
 - [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]
-- [[objektai/grupes/Kijevo Rusia]]
 - [[objektai/posakiai/na Litvu]]
 - [[objektai/grupes/Čekų ir Silezijos savanoriai]]
 - [[objektai/asmenys/Švitrigaila]]

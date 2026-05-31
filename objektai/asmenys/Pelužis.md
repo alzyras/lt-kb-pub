@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Pelužis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1289 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1289'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - karalius
   - kunigaikštis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Pelužis
 
@@ -30,22 +26,25 @@ tags:
 Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė. Dusburgietis teigia, kad kai jie priėjo šio kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė juos ir nužudė 70 kunigaikščių drauge su namų šeimininku.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai jie priėjo šio kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė juos ir nužudė 70 kunigaikščių drauge su namų šeimininku.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad iII, 235), sukilimą prūsai galėjo rengti 1289 m. Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės.'
   pagrindžia:
     - c-003
 
+- t-001
+  teiginys: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
@@ -53,35 +52,24 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
     paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
     vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
-    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad kai jie priėjo šio kunigaikščio sodybą, užtiko ten sukviestus į vestuves beveik visus Lietuvos karalystės kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė juos ir nužudė 70 kunigaikščių drauge su namų šeimininku.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai jie priėjo šio
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas. Kai jie priėjo šio
     kunigaikščio sodybą, užtiko ten sukviestus  į vestuves beveik visus Lietuvos karalystės
     kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė
     juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
-    ten buvo daugybė.
+    ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
+    žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad iII, 235), sukilimą prūsai galėjo rengti 1289 m. Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    III, 235), sukilimą prūsai galėjo rengti 1289 m.
+    523 Apie Pagudėje ir Bartoje rengiamą sukilimą prieš Ordiną Dusburgietis kalba kaip
+    apie 1286 m. įvykį. Kadangi sukilimo rengimas čia siejamas su Ragainės pilies statyba,
+    datuojama * 1289 m. (žr. D. III, 235), sukilimą prūsai galėjo rengti 1289 m.
 
     Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
     vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
@@ -91,11 +79,29 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
+    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
+    karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras
+    paskyrė jam į bendrus Martyną iš Golino, Konradą, pravarde Velnias, ir dar vieną [vyrą],
+    vardu Stavimėlas, bei 20 kitų narsių vyrų, labai įgudusių plėšikauti; šie visi drauge
+    su juo ir patraukė su ginklu rankose atkeršyti už patirtas skriaudas. Kai jie priėjo šio
+    kunigaikščio sodybą, užtiko ten sukviestus  į vestuves beveik visus Lietuvos karalystės
+    kilminguosius kaimynus; kai šie, iš seno savo įpročio nusigėrę, sugulė pailsėti, užpuolė
+    juos ir nužudė 70 kunigaikščių drauge su namų šeimininku, neskaitant kitų žmonių, kurių
+    ten buvo daugybė. Jaunąjį bei jaunąją, kunigaikščių žmonas su šeimyna ir vaikais, šimtą
+    žirgų, auksą bei sidabrą525 ir visus namų apyvokos daiktus jie išsigabeno su savimi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

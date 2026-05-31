@@ -1,27 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Trumpieji Prūsijos analai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1337 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1337'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - saltinis
   - tauta
+amziai:
+  - 'XIV'
 ---
 # Trumpieji Prūsijos analai
 
@@ -30,13 +23,15 @@ tags:
 Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi 87 Пашуто В.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi 87 Пашуто В.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi 87 Пашуто В.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Panašaus turinio „Trumpieji Prūsijos analai“ (pratęsti iki 1337 m.)98 bei į Vieną patekusi
@@ -59,8 +54,6 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
     Volfenbiutelio bibliotekos kopija99.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,32 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos Respublikos kultūros ministerija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1794 m.'
-  - '1836 m.'
-  - '1837 m.'
-  - '1864 m.'
   - '2007 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
-  - 'XIX'
-  - 'XXI'
 date_start: '1794'
 date_end: '2007'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - miestas
+amziai:
+  - 'XVIII'
+  - 'XXI'
 ---
 # Lietuvos Respublikos kultūros ministerija
 
@@ -35,16 +24,18 @@ tags:
 Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Respublikos kultūros ministerija Knyga išleista Lietuvos tūkstantmečio minėjimo direkcijai parėmus Redaktorė Skirmantė Ramanauskaitė Knygos dailininkas Romas Dubonis ISBN.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    45
+    UDK 947.45
     Ba237
     Versta iš
     Michała Balińskiego
@@ -79,12 +70,11 @@ Drukiem Antoniego Marcinowskiego, 1836-1837 Knygos leidimą parėmė Lietuvos Re
     Mykolas Balinskis -
     Vilniaus miesto istorikas
     1*1 ykolo Balinskio (1794-1864) gyvenimas ir veikla atspindė­
-    jo plačią ir sudėtingą pirmosios XIX a.
+    jo plačią ir sudėtingą pirmosios XIX a. pusės Lietuvos istorijos
+    įvykių raidą. Šiuo atžvilgiu jam pasisekė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„visada buvo lietuviškas“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - posakis
@@ -27,16 +18,19 @@ tags:
 Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Versalio
+    Pralaimėjusi karą Vokietija tam ener-
+    gingai nesipriešino, manydama sumažinti sąjungininkų intrigas. Versalio
     sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir
     perdavė laikinai sąjungininkų kontrolei. Prancūzija Žoržo B. Klemanso
     (Georges B. Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai
@@ -45,9 +39,7 @@ Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų
     jūrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

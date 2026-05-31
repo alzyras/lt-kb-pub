@@ -46,10 +46,6 @@ tags:
   teiginys: 'Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Jis buvo atgaben­ tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas gyventi į Trakus.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
   pagrindžia:
@@ -86,6 +82,10 @@ tags:
   teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
   pagrindžia:
     - c-013
+- t-014
+  teiginys: 'Jis buvo atgaben­ tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas gyventi į Trakus.'
+  pagrindžia:
+    - c-014
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '- • - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei.'
@@ -158,24 +158,6 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Jis buvo atgaben­ tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas gyventi į Trakus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jis buvo atgaben­
-    tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas
-    gyventi į Trakus. Jo reikalu ne kartą į Vilnių buvo atvažia­
-    vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­
-    niaus pilyje tuomet kildavęs didelis sujudimas. Totorių ant­
-    puoliai darėsi tokie akivaizdūs, jog net Vilniui galėjo grėsti
-    pavojus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -403,3 +385,21 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-014
+  santrauka: 'Jis buvo atgaben­ tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas gyventi į Trakus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jis buvo atgaben­
+    tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas
+    gyventi į Trakus. Jo reikalu ne kartą į Vilnių buvo atvažia­
+    vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­
+    niaus pilyje tuomet kildavęs didelis sujudimas. Totorių ant­
+    puoliai darėsi tokie akivaizdūs, jog net Vilniui galėjo grėsti
+    pavojus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014

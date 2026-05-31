@@ -1,15 +1,15 @@
 ---
 tipas: kokybės auditas
 pavadinimas: 'Dviprasmių žmonių auditas - Petras Dusburgietis, Prūsijos žemės kronika (1985 m.) - 2026-05-29'
-statusas: reikia patikrinti
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
-# Dviprasmių žmonių auditas
+# Dviprasmių žmonių auditas - Petras Dusburgietis, Prūsijos žemės kronika (1985 m.) - 2026-05-29
 
 ## Vykdymo metaduomenys
+
 - knyga: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
 - source_file: `darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md`
 - modelis: unknown
@@ -29,6 +29,7 @@ atnaujinta: ''
   - `darbas/prompts/05_quality_control/05_audit_ambiguous_people.md`
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md` — Bernardas / Domininkas / Pranciškus / Augustinas
 - problema: Visi keturi kandidatai remiasi vien tik vienvardžiu šventųjų sąrašu stebuklingo regėjimo epizode. Šaltinis nepasako, kuris Bernardas, kuris Augustinas ar kuris Pranciškus turimas galvoje, todėl tai per silpna viešiems asmenų įrašams ar prijungimui prie esamų vienvardžių pastabų.
 - citata:
@@ -38,6 +39,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md` — Agota / Boleslovas / Kazimieras / Zemovitas
 - problema: Tapatybė čia laikosi tik ant vienos giminystės formulės apie Konrado žmoną ir sūnus. Nė vienas iš šių vardų šiame šaltinio fragmente negauna savarankiško identifikatoriaus, todėl jų kėlimas į viešus įrašus sukurtų labai miglotas vienvardes pastabas.
 - citata:
@@ -49,6 +51,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md` — Boguslavas (vyresnysis Dirsovijos grafas) / Boguslavas (jaunesnysis Dirsovijos grafas)
 - problema: Abu bendravardžiai pasirodo tik viename liudytojų sąraše ir atskiriami vien formula „vyresnysis / jaunesnysis“. To pakanka atradimo lygiui, bet nepakanka saugiai viešai tapatybei, nes jokio kito individualizuojančio konteksto šaltinis šioje vietoje neduoda.
 - citata:
@@ -60,6 +63,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md` — Karolis (Prancūzijos karaliaus brolis) / Vaclovas (Čekijos karalius)
 - problema: Abu kandidatai turi titulą ar ryšį, bet šio šaltinio vietinis tekstas vis tiek neleidžia tiksliai nustatyti, kuris konkretus Karolis ir kuris konkretus Vaclovas turimas galvoje. Tokie atvejai rizikingi, nes iš išorės žinomų identitetų čia naudoti negalima.
 - citata:
@@ -76,6 +80,7 @@ atnaujinta: ''
 - būsena: palikti kandidatu
 
 ## Įrašas arba kandidatas
+
 - failas: `../lt-kb-pub/objektai/asmenys/Konradas.md`
 - problema: Viešas vienvardis įrašas dubliuoja registre jau esantį `Konradas (Mozūrijos kunigaikštis)` ir yra pavojingas šiam šaltiniui, nes čia tas pats asmuo keliskart įvardijamas su aiškiu kunigaikščio titulu. Tolimesnis pildymas į bendrinį `Konradas.md` skatintų neteisingą įvairių Konradų suliejimą.
 - citata:
@@ -87,6 +92,7 @@ atnaujinta: ''
 - būsena: pervadinti
 
 ## Įrašas arba kandidatas
+
 - failas: `../lt-kb-pub/objektai/asmenys/Aleksandras.md`; dabartinis kandidatas `Aleksandras`
 - problema: Viešas vienvardis įrašas jau žymi kitą Aleksandrą, o dabartinis šaltinis pateikia dar vieną vien vardu minimą 1365 m. žygio dalyvį. Tokia vardinė kolizija ypač pavojinga, nes būtų labai lengva neteisingai prijungti naują citatą prie esamo įrašo vien dėl pirmojo vardo sutapimo.
 - citata:
@@ -98,6 +104,7 @@ atnaujinta: ''
 - būsena: reikia patikrinti
 
 ## Įrašas arba kandidatas
+
 - failas: `darbas/tmp/candidates/people/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md` — Petras Dusburgietis; `../lt-kb-pub/objektai/autoriai/Petras Dusburgietis.md`; `../lt-kb-pub/objektai/autoriai/Dusburgas.md`
 - problema: Tas pats autorius viešajame sluoksnyje jau modeliuojamas dviem skirtingais autoriaus įrašais, o people kandidatas dar papildomai temptų jį į atskirą asmens modelį. Tai tiesiogiai atitinka riziką „person note duplicated as an author without explicit reason“.
 - citata:

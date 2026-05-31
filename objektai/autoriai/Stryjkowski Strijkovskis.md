@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Stryjkowski Strijkovskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
   - miestas
   - valdovas
+amziai: []
+periodo_grupes: []
 ---
 # Stryjkowski Strijkovskis
 
@@ -27,82 +23,35 @@ tags:
 7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn. Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk. 31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.
 
 ## Teiginiai
-- t-001
-  teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: '31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
+  pagrindžia:
+    - c-001
+
 - t-004
-  teiginys: '48 ## Puslapis 65 I KNYGA Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­ čius'' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­ dami įvykį, kuris galėjo būti tam vada.'
+  teiginys: '48 ## Puslapis 65 I KNYGA Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­ čius'''' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­ dami įvykį, kuris galėjo būti tam vada.'
   pagrindžia:
     - c-004
+
 - t-005
   teiginys: 'To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis.'
   pagrindžia:
     - c-005
+
+- t-002
+  teiginys: 'Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '7 Šventaragio vardo kilmę aiškina Stryjkowski savo kronikoje kn.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    7
-    Šventaragio vardo kilmę aiškina
-    Stryjkowski savo kronikoje kn.
-    VIII, p. 345-348; Kojałowicz,
-    Hist. Lithu. Pars. I. lib. V, p. 138 ir
-    Grzybowski  knygoje Skarb nie-
-    oszacowany 00. Franciszkanów Litew­
-    skich. Wilno 1740 in 8vo, skyr. I.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Petro bažnyčią Antakalny­ je, pagonių šventyklos vietoje, kurią mini Strijkovskis (Sk.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    20
-    G r z y b o w s k i, Sk. XI, 1. 90. Anot
-    kitų padavimų, Goštautas pastaty­
-    dinęs Šv. Petro bažnyčią Antakalny­
-    je, pagonių šventyklos vietoje, kurią
-    mini Strijkovskis (Sk. IV, 1.400).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '31 Strijkovskis, 1.465, o juo sekda­ mas ir K o j e 1 a v i č i u s, p. 361, plačiai aprašo, kokių gudrybių tą­ kart ėmėsi Kęstutis, puldamas Vilnių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    31
-    Strijkovskis, 1.465, o juo sekda­
-    mas ir K o j e 1  a v i č i u s, p. 361,
-    plačiai aprašo, kokių gudrybių tą­
-    kart ėmėsi Kęstutis, puldamas Vil-
-    nių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: '48 ## Puslapis 65 I KNYGA Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­ čius'' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­ dami įvykį, kuris galėjo būti tam vada.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     48
@@ -152,13 +101,26 @@ tags:
     tą buvus jau XII amžiuje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    20
+    G r z y b o w s k i, Sk. XI, 1. 90. Anot
+    kitų padavimų, Goštautas pastaty­
+    dinęs Šv. Petro bažnyčią Antakalny­
+    je, pagonių šventyklos vietoje, kurią
+    mini Strijkovskis (Sk. IV, 1.400).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-005
-  santrauka: 'To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo neat­
@@ -172,11 +134,49 @@ tags:
     šis tas iš technikos, tarp kurių - malūnas, kalvė ir lentpjūvė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Strijkovskis ir Koje-
+    1  a v i č i u s supainiojo Andrių, Al­
+    girdo sūnų, su Vaidotu, Kęstučio sū­
+    numi, todėl radosi jų minimas
+    Andrius Vaidotas, Kęstučio sūnus,
+    Polocko kunigaikštis - visai išgalvo­
+    tas. Andrius žuvo prie Vorsklos 1399
+    metais.
+    31
+    Strijkovskis, 1.465, o juo sekda­
+    mas ir K o j e 1  a v i č i u s, p. 361,
+    plačiai aprašo, kokių gudrybių tą­
+    kart ėmėsi Kęstutis, puldamas Vil-
+    nių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    7
+    Šventaragio vardo kilmę aiškina
+    Stryjkowski savo kronikoje kn.
+    VIII, p. 345-348; Kojałowicz,
+    Hist. Lithu. Pars. I. lib. V, p. 138 ir
+    Grzybowski  knygoje Skarb nie-
+    oszacowany 00. Franciszkanów Litew­
+    skich. Wilno 1740 in 8vo, skyr. I.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

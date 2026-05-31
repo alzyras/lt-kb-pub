@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Albrechtas iš Hageno'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1317 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1317'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Albrechtas iš Hageno
 
@@ -29,39 +25,31 @@ tags:
 Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo. Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į. Dusburgietis teigia, kad apie vieną įvykį 1317 metais Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie vieną įvykį 1317 metais Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo.'
   pagrindžia:
     - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
-    priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis
-    Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;
-    užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
-    pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į.'
   pagrindžia:
-    - t-001
+    - c-002
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo ir galingo vyro, vardu Sudargas, kiemą576, jį pavertė pelenais drauge su aplinkiniais kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
+    Antra
+    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
+    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
+    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
     Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
     ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
     kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
@@ -69,16 +57,14 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     bet taip pat nieko nepešė, nes jos vedliai pasiklydo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad apie vieną įvykį 1317 metais Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie vieną įvykį 1317 metais
+    333 (326). Apie vieną įvykį 1317 metais
 
       Šiame žygyje atsitiko vienas įsidėmėtinas įvykis, mat, kai brolis Albrechtas iš Hageno
     šuoliais leidosi  į jam skirtą vietą, vienas ginklanešys nukrito nuo suklupusio žirgo. Kai
@@ -89,11 +75,26 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     atvykęs, patraukė  į Ragainę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis
+    pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva,
+    perduoti jam Skalvių pilį. Atidžiai ir patikliai  jį išklausęs, karalius tą pačią žiemą jam
+    davė karių. Jie, priėję šią pilį, nužudė brolį Liudviką, vadinamą Okse; vėliau, kai slaptai
+    priėjo pilies vartus, jiems narsiai pasipriešino, išgirdę karių sukeltą triukšmą, brolis
+    Konradas ir brolis Albrechtas iš Hageno su savo ginklanešiais, nors jų nedaug beturėjo;
+    užvirė ilgos grumtynės, neteikusios nė vienai šaliai persvaros; vis dėlto galop jiems
+    pavyko vargais negalais apginti pilį nuo netikėlių, nors abi šalys patyrė sunkių nuostolių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -44,7 +44,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Zigmantas I buvo Jono II tėvas; Jonas II 1519 m. paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją.'
+  teiginys: 'Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 metų, 1538 m.'
   pagrindžia:
     - c-003
 
@@ -84,7 +84,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Zigmantas I buvo Jono II tėvas; Jonas II 1519 m. paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją.'
+  santrauka: 'Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 metų, 1538 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
@@ -104,8 +104,11 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 - [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/hegemonija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/„niekieno neatsiklausdamas“]]
+- [[objektai/asmenys/Jonas II]]

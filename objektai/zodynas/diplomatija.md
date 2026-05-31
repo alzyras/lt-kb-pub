@@ -70,8 +70,6 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
 - [[objektai/asmenys/Juzefas Bekas]]
 - [[objektai/grupes/LCVA]]
 - [[objektai/grupes/LGGRTC Genocido aukų muziejus]]
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
 - [[objektai/zodynas/Modus vivendi]]

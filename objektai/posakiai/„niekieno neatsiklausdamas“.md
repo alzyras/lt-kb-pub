@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: '„niekieno neatsiklausdamas“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1429 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1429'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - popiežius
   - posakis
+amziai:
+  - 'XV'
 ---
 # „niekieno neatsiklausdamas“
 
@@ -30,13 +24,15 @@ tags:
 Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu valdovu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu valdovu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas, kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu valdovu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
@@ -55,9 +51,7 @@ Vytauto apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
     valdovu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

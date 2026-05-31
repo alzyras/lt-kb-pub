@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Zemovitas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1224 m.'
   - '1225 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1224'
 date_end: '1225'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - ordinas
   - sutartis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Zemovitas
 
@@ -31,13 +27,15 @@ tags:
 Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir Zemovito171, kurie sutartinai viskam pritarė ir vieningai viską palaikė, atidavė Teutonų namų ordino broliams, jau dabar čia esantiems ir ateityje atvyksiantiems, Kulmo ir Lubavos žemes, be to, tas žemes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Juos išklausęs, minėtasis valdovas Konradas, Lenkijos
@@ -60,9 +58,7 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
     šiuo atveju galėtų praversti jam pačiam, jo žmonai, jo vaikams ar jų palikuonims.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

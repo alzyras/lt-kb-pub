@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Deja mums Kam mes gimėme'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - posakis
@@ -26,17 +17,32 @@ tags:
 Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą ir savo žemės sunaikinimą ir sėdėtume čia, kai ji atiduodama į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo nedraugų kalavijo“. Dusburgietis teigia, kad mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą ir savo žemės sunaikinimą ir sėdėtume čia, kai ji atiduodama į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo nedraugų kalavijo“.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą ir savo žemės sunaikinimą ir sėdėtume čia, kai ji atiduodama į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo nedraugų kalavijo“.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
+    dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
+    gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą ir savo žemės sunaikinimą ir sėdėtume čia, kai ji atiduodama į nedraugų rankas?“ „...jos seneliai užmušti, jos jaunikaičiai žuvo nuo nedraugų kalavijo“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jiems pasitraukus, broliai, išvydę visas nelaimes, pridarytas
@@ -46,25 +52,9 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
     nedraugų kalavijo“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    mūsų grožis ir mūsų garbingumas sunaikinti, pagonys juos sutepė. Tai kam gi mums
-    dar begyventi?“ Todėl suplėšė savo drabužius ir apsivilko ašutinėmis, o drauge su jais
-    gedėjo didelės baimės apimti žmonės, kurie dar buvo išlikę gyvi.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

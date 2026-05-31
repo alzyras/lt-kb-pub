@@ -32,7 +32,7 @@ tags:
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lauryno Ivinskio kalendorius M. Balinskis minėjo pristatydamas kultūrinį sąjūdį Žemaitijoje.'
+  teiginys: 'Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­ rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lauryno Ivinskio kalendorius M. Balinskis minėjo pristatydamas kultūrinį sąjūdį Žemaitijoje.'
+  santrauka: 'Balinskis supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­ rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     M. Balinskis
@@ -74,4 +74,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Vilniaus archeologijos komisija]]

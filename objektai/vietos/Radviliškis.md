@@ -40,26 +40,26 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-008
   teiginys: 'Buvo priversta taip pat prie Radviliškio kautis su plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų savanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimėjusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės Lietuvos.'
   pagrindžia:
-    - c-002
-- t-003
+    - c-007
+- t-009
   teiginys: 'Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
   pagrindžia:
-    - c-003
-- t-004
+    - c-008
+- t-010
   teiginys: 'Klaipėdos kraštu (O Radviliškyje jie sutinka kitą sukilėlių traukinį, — — Geležinkelio linijos, | vadovaujamą M.'
   pagrindžia:
-    - c-004
-- t-005
+    - c-009
+- t-011
   teiginys: 'Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
   pagrindžia:
-    - c-005
-- t-007
+    - c-010
+- t-012
   teiginys: 'Po daugelio nesėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d. įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas bunkeryje tarp Radviliškio ir Baisogalos.'
   pagrindžia:
-    - c-006
+    - c-011
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.'
@@ -77,11 +77,14 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
+- c-007
   santrauka: 'Buvo priversta taip pat prie Radviliškio kautis su plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų savanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimėjusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės Lietuvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Buvo priversta taip pat prie Radviliškio kautis su
+    turėjo
+    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
+    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
+    pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
     plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
     vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
     jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
@@ -93,8 +96,8 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
+    - t-008
+- c-008
   santrauka: 'Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -113,8 +116,8 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
+    - t-009
+- c-009
   santrauka: 'Klaipėdos kraštu (O Radviliškyje jie sutinka kitą sukilėlių traukinį, — — Geležinkelio linijos, | vadovaujamą M.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -133,8 +136,8 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-005
+    - t-010
+- c-010
   santrauka: 'Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -155,9 +158,9 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: '1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.'
+    - t-011
+- c-011
+  santrauka: 'Po daugelio nesėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d. įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas bunkeryje tarp Radviliškio ir Baisogalos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po daugelio nesėkmingų
@@ -182,4 +185,4 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
+    - t-012

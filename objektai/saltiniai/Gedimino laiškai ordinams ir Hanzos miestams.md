@@ -42,14 +42,14 @@ tags:
   teiginys: 'IV, p. 627 sq.) autorius, kuris nenorėjo, kaip kad jo pirmtakai, Prūsijos kronikininkai, būti visada nešališkas lietuvių gen­ ties istorijos įvykių teisėjas, ginčija tų laiškų autentiškumą, tvirtinda­ mas esą buvo parengti ir išsiuntinė­ ti Rygos arkivyskupo.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: ') autorius, kuris nenorėjo, kaip kad jo pirmtakai, Prūsijos kronikininkai, būti visada nešališkas lietuvių gen­ ties istorijos įvykių teisėjas, ginčija tų laiškų autentiškumą, tvirtinda­ mas esą buvo parengti ir išsiuntinė­ ti Rygos arkivyskupo, kryžiuočių.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Apie Gedimino laiškus pasakytina, kad juos įdeda­ me į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: ') autorius, kuris nenorėjo, kaip kad jo pirmtakai, Prūsijos kronikininkai, būti visada nešališkas lietuvių gen­ ties istorijos įvykių teisėjas, ginčija tų laiškų autentiškumą, tvirtinda­ mas esą buvo parengti ir išsiuntinė­ ti Rygos arkivyskupo, kryžiuočių.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
@@ -134,7 +134,23 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
+- c-005
+  santrauka: 'Apie Gedimino laiškus pasakytina, kad juos įdeda­ me į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Apie Gedimino
+    laiškus pasakytina, kad juos įdeda­
+    me į papildymus kartu su vertimu į
+    lenkų kalbą ir Foigto pastabomis.
+    (Žr. Il priedą).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
   santrauka: ') autorius, kuris nenorėjo, kaip kad jo pirmtakai, Prūsijos kronikininkai, būti visada nešališkas lietuvių gen­ ties istorijos įvykių teisėjas, ginčija tų laiškų autentiškumą, tvirtinda­ mas esą buvo parengti ir išsiuntinė­ ti Rygos arkivyskupo, kryžiuočių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -166,20 +182,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Apie Gedimino laiškus pasakytina, kad juos įdeda­ me į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Apie Gedimino
-    laiškus pasakytina, kad juos įdeda­
-    me į papildymus kartu su vertimu į
-    lenkų kalbą ir Foigto pastabomis.
-    (Žr. Il priedą).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
+    - t-006

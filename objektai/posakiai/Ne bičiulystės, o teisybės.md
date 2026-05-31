@@ -69,5 +69,3 @@ tags: []
 
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
-- [[objektai/posakiai/kol jis gyvas busiąs, o taip pat ir jo įpėdiniai, niekada nuo tų žemių neatsisakysią]]

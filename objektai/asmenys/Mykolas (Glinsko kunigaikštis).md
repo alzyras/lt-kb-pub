@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mykolas (Glinsko kunigaikštis)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,16 +18,19 @@ tags:
 Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Atlikta ir duota Vilniuje, antradie­
+    To viso aiškiam paliudijimui mūsų antspaudas prie
+    šio rašto yra prikabintas. Atlikta ir duota Vilniuje, antradie­
     nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai­
     siais Viešpaties metais nuo jo gimimo, mūsų valdymo antrai­
     siais. Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
@@ -50,9 +44,7 @@ Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albe
     Erazmo, dalyvavusio sprendime, ranka.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

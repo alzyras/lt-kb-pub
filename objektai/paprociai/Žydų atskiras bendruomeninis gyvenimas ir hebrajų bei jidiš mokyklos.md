@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - tauta
@@ -26,33 +17,40 @@ tags:
 Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus. Apskritai žydai gyveno atskirą bendruomeninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas kėlė Lietuvos žydus gyventi į Palestiną.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Apskritai žydai gyveno atskirą bendruomeninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas kėlė Lietuvos žydus gyventi į Palestiną.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
@@ -70,13 +68,11 @@ Nenurodyta
     žydai tarpusavyje dažnai vartojo rusų kalbą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Apskritai žydai gyveno atskirą bendruomeninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas kėlė Lietuvos žydus gyventi į Palestiną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kai kuriose srityse žydai tvirtai
@@ -87,9 +83,7 @@ Nenurodyta
     Lenkai, sudarę apie 3,2 proc.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

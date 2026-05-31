@@ -35,14 +35,14 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Jo hochmeisterio^1 ) didžio­ jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo objektas.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Kęstučiui dar smarkiau, negu pirmtakū­ nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro valdžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­ prodė (1351—1382).'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Jo hochmeisterio^1 ) didžio­ jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo objektas.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vinrichas von Kniprodė 1351–1382 m. turėjo Ordino magistro valdžią ir buvo laikomas veikliu bei energingu vokiečiu.'
@@ -61,26 +61,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jo hochmeisterio^1 ) didžio­ jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo objektas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Keturioliktas amžius, ypač jo antroji pusė
-    —Ordino (labiausiai kryžiuočių, kuris iš tikrųjų ir buvo svar­
-    biausioji jėga) klestėjimo laikotarpis. Jo hochmeisterio^1 ) didžio­
-    jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino
-    valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
-    objektas. Jei tais laikais norėjai pamatyti valstybę keliančią
-    savo piliečių švietimą, pavyzdingai savo pareigas einančią ad­
-    ministraciją, valstybės organų rankose klestinčią prekybą,
-    aukso kupiną iždą — turėjai važiuoti Ordino valstybėn.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Kęstučiui dar smarkiau, negu pirmtakū­ nams, tenka gintis nuo Ordino įsiveržimų, nes tada magistro valdžią turėjo veiklus ir energingas vokietis Vinrichas von Kni­ prodė (1351—1382).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -105,6 +85,24 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Jo hochmeisterio^1 ) didžio­ jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo objektas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    abu Ordinai buvo susijungę į vieną, veikė vienos va­
+    dovybės valdžioje. Keturioliktas amžius, ypač jo antroji pusė
+    —Ordino (labiausiai kryžiuočių, kuris iš tikrųjų ir buvo svar­
+    biausioji jėga) klestėjimo laikotarpis. Jo hochmeisterio^1 ) didžio­
+    jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino
+    valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
+    objektas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

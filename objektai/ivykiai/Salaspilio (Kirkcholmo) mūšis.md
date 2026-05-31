@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Salaspilio (Kirkcholmo) mūšis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1605 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1605'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+amziai:
+  - 'XVII'
 ---
 # Salaspilio (Kirkcholmo) mūšis
 
@@ -28,30 +22,50 @@ tags:
 Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio. Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Besitraukiantys švedų pėstininkai bandė
+    slėptis Salaspilio (Kircholmo) bažnyčioje.
+    Tačiau jų pasipriešinimas buvo palaužtas.
+    Eiliniai kariai buvo išžudyti, o karininkai
+    paimti į nelaisvę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Abi kariuomenės Salaspilio mūšis 1605 m. rugsėjo 27 d. Antrasis etapas nepajudėjusios išstovėjo iki vidudienio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karolis Chodkevičius pastebėjo, kad
@@ -69,27 +83,9 @@ Nenurodyta
     nepajudėjusios išstovėjo iki vidudienio.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Besitraukiantys švedų pėstininkai bandė
-    slėptis Salaspilio (Kircholmo) bažnyčioje.
-    Tačiau jų pasipriešinimas buvo palaužtas.
-    Eiliniai kariai buvo išžudyti, o karininkai
-    paimti į nelaisvę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -753,6 +753,10 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginys: 'Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgrobę svetimą kraštą, „nespausdavo“, t.'
   pagrindžia:
     - c-194
+- t-157
+  teiginys: 'Lietuvos kariuomenė pradėjo rinktis gegužės mėn.'
+  pagrindžia:
+    - c-195
 
 ## Reikšmingi paminėjimai
 
@@ -4077,6 +4081,20 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-156
+- c-195
+  santrauka: 'Lietuvos kariuomenė pradėjo rinktis gegužės mėn.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuvos kariuomenė
+    pradėjo rinktis gegužės mėn. pabaigoj ar birželio mėn.
+    pradžioj; rinkosi, tur būt, Trakuose ar Gardine.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-157
 
 ## Ryšiai
 ### Susiję objektai
@@ -4920,11 +4938,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/posakiai/„žydšaudžiais“]]
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Anglai]]
 - [[objektai/zodynas/Austurweg]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Deglas]]
-- [[objektai/asmenys/Dovydas]]
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Estai]]
 - [[objektai/asmenys/Fridrichas]]
@@ -4954,7 +4970,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/Latviai]]
 - [[objektai/asmenys/Lengvenis]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/grupes/Liuteronai]]
@@ -4970,7 +4985,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/Prūsijos žemė]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/daiktai/Rūbai]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/asmenys/Surminas]]
 - [[objektai/grupes/Sėliai]]
@@ -4991,7 +5005,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/karyba]]
-- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/kur akys veda, kur kojos neša]]
 - [[objektai/zodynas/magistras]]
@@ -5036,6 +5049,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/Andrejaus Vlasovo armija]]
 - [[objektai/asmenys/Andrejus Sacharovas]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
+- [[objektai/grupes/Anglai]]
 - [[objektai/grupes/Anglų riteriai]]
 - [[objektai/asmenys/Antanas Baranauskas]]
 - [[objektai/autoriai/Antanas Kulakauskas]]
@@ -5095,6 +5109,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/ivykiai/Dobrynės kunigaikštystės apiplėšimas ir 70 lietuvių žūtis (1300 m.)]]
 - [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/asmenys/Dovydas]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/grupes/Draugija užsienio lietuviams remti]]
 - [[objektai/autoriai/Dundulienė P]]
@@ -5196,7 +5211,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Jonas (popiežius)]]
 - [[objektai/asmenys/Jonas Basanavičius]]
 - [[objektai/asmenys/Jonas Lonei]]
-- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Jonas iš Lietuvos kunigaikščių]]
 - [[objektai/asmenys/Jonas Černius]]
 - [[objektai/asmenys/Jonas, vadinamas Pope]]
@@ -5217,7 +5231,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/autoriai/Jurginis J]]
 - [[objektai/asmenys/Jurgis Radvila]]
 - [[objektai/asmenys/Justinas Staugaitis]]
-- [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/autoriai/Jūratė Dalia Baronienė]]
 - [[objektai/asmenys/K. Škirpa]]
 - [[objektai/zodynas/Kahalai]]
@@ -5279,6 +5292,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/Latvijos Lietuvių Sąjunga]]
 - [[objektai/ivykiai/Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.)]]
 - [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/daiktai/Lenkijos kariuomenės 9-ojo pėstininkų pulko krūtininis ženklas]]
 - [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
 - [[objektai/grupes/Lenkų didžponiai]]
@@ -5514,7 +5528,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/daiktai/Sieliai]]
 - [[objektai/asmenys/Silvestras Valiūnas]]
 - [[objektai/asmenys/Simonas (Maskvos kunigaikštis)]]
-- [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/asmenys/Skaldonis]]
 - [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
 - [[objektai/asmenys/Skirgaila]]
@@ -5807,7 +5820,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/zodynas/Pažinės|pažinės]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
 - [[objektai/posakiai/„Lietuvos kova dėl valstybinio savarankiškumo XV amž.“]]
-- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
 - [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
 - [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]
 - [[objektai/ivykiai/Dviejų kaimų sudeginimas Medininkų valsčiuje (1316 m. vasara)]]

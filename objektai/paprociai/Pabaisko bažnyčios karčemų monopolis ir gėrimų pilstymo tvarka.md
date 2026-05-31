@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - privilegija
@@ -25,29 +16,35 @@ tags:
 Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbationem 244 ## Puslapis 261 III KNYGA būtų nukelta arba taptų filija ir priklausytų Pabaisko baž­ nyčiai, kaip kad yra Vronove ir Viešėje stovinčios bažny­ čios.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbationem 244 ## Puslapis 261 III KNYGA būtų nukelta arba taptų filija ir priklausytų Pabaisko baž­ nyčiai, kaip kad yra Vronove ir Viešėje stovinčios bažny­ čios.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbationem 244 ## Puslapis 261 III KNYGA būtų nukelta arba taptų filija ir priklausytų Pabaisko baž­ nyčiai, kaip kad yra Vronove ir Viešėje stovinčios bažny­ čios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Item Decima in Wieprze om­
@@ -73,9 +70,7 @@ Nenurodyta
     ta ir sunaikinta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

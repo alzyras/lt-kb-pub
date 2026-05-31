@@ -108,7 +108,6 @@ Nenurodyta
 - [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/hegemonija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

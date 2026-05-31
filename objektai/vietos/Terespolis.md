@@ -1,28 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Terespolis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1794 m.'
   - '1811 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 date_start: '1794'
 date_end: '1811'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - vieta
+amziai:
+  - 'XVIII'
+  - 'XIX'
 ---
 # Terespolis
 
@@ -31,24 +25,44 @@ tags:
 Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Terespolio) tęsėsi apie 10 km, tačiau jų metu didesnių nuostolių S.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Didžiausias persekiojimo susidūrimas įvyko jau už Terespolio, o visas persekiojimas tęsėsi apie 10 kilometrų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Terespolis nebuvo Balinskių giminės paveldima nuosavybė.'
   pagrindžia:
     - c-003
 
+- t-001
+  teiginys: 'Didžiausias persekiojimo susidūrimas įvyko jau už Terespolio, o visas persekiojimas tęsėsi apie 10 kilometrų.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­ li Vitebsko.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Terespolio) tęsėsi apie 10 km, tačiau jų metu didesnių nuostolių S.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai didelis jo nuopelnas.
+    M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
+    li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
+    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
+    mas"2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Didžiausias persekiojimo susidūrimas įvyko jau už Terespolio, o visas persekiojimas tęsėsi apie 10 kilometrų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rusų kavalerija sugebėjo keliose Bugo
@@ -62,30 +76,13 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
     Mūšio padariniai
 
     Mūšis truko apie 8 valandas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    M. Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, neto­
-    li Vitebsko. Kaip pats prisipažino atsiminimuose, turėjęs „gimti
-    Mickūnuose, jei ne tų prakeiktųjų jėgerių ir kazokų užpuoli­
-    mas"2.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-001
+
 - c-003
-  santrauka: 'Terespolis nebuvo Balinskių giminės paveldima nuosavybė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būsimo
@@ -95,8 +92,23 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
     kaip nuosavybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Terespolio) tęsėsi apie 10 km, tačiau jų metu didesnių nuostolių S.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rusų kavalerija sugebėjo keliose Bugo
+    brastose forsuoti upę ir ji pasileido pas-
+    kui besitraukiančią lietuvių kariuomenę.
+    Persekiojimas, kurio metu įvyko keletas
+    susidūrimų (didžiausias jau už Terespolio)
+    tęsėsi apie 10 km, tačiau jų metu didesnių
+    nuostolių S. Zabiela nepatyrė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004

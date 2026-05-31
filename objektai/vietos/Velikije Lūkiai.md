@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Velikije Lūkiai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
@@ -27,13 +18,15 @@ tags:
 Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš tą patį mūsų priešą Maskvos kunigaikštį ties Velikije Lūki, mūsų paskirtas vadovauti mūsų vengrų kariuomenės riteriams, ata­ kuojant priešo pilis ir visur, kur tik buvo nukreiptas su mū­.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš tą patį mūsų priešą Maskvos kunigaikštį ties Velikije Lūki, mūsų paskirtas vadovauti mūsų vengrų kariuomenės riteriams, ata­ kuojant priešo pilis ir visur, kur tik buvo nukreiptas su mū­.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš tą patį mūsų priešą Maskvos kunigaikštį ties Velikije Lūki, mūsų paskirtas vadovauti mūsų vengrų kariuomenės riteriams, ata­ kuojant priešo pilis ir visur, kur tik buvo nukreiptas su mū­.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 437
@@ -71,8 +64,6 @@ Taip pat ir vė­ liau, antrąsyk mūsiškiams pajudėjus ir patraukus prieš t�
     suotinę teisę atiteko mums, valdovui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

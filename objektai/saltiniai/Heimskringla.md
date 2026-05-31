@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Heimskringla'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1697 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1697'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - saltinis
+amziai:
+  - 'XVII'
 ---
 # Heimskringla
 
@@ -28,13 +22,15 @@ tags:
 Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žemės ru­ tulys, pirmiausia atspausdintas iš rankraščio, pasirodė 1697 metais Stokholme, in folio, Peringskioeld o išleistas trimis kalbomis: islan­ dų, švedų ir lotynų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žemės ru­ tulys, pirmiausia atspausdintas iš rankraščio, pasirodė 1697 metais Stokholme, in folio, Peringskioeld o išleistas trimis kalbomis: islan­ dų, švedų ir lotynų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žemės ru­ tulys, pirmiausia atspausdintas iš rankraščio, pasirodė 1697 metais Stokholme, in folio, Peringskioeld o išleistas trimis kalbomis: islan­ dų, švedų ir lotynų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Užsimo­
@@ -63,8 +59,6 @@ Jo kū­ rinys, pavadintas Heimskringla, tai yra Pasaulis, arba tiksliau - Žem�
     giesmes.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

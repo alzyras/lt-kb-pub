@@ -117,6 +117,5 @@ Nenurodyta
 - [[objektai/asmenys/Jokūbas Šimkevičius]]
 - [[objektai/asmenys/Juozapas Zavadskis]]
 - [[objektai/asmenys/Kazimieras Kontrimas]]
-- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/asmenys/Janas Lasickis]]
 - [[objektai/autoriai/Janas Lasickis Joh. Lasicius]]

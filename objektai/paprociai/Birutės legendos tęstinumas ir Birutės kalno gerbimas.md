@@ -1,20 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Birutės legendos tęstinumas ir Birutės kalno gerbimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - tauta
@@ -26,29 +16,35 @@ tags:
 Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugelis tautų sukūrė epą, t. y. pasakojimus apie dievus, pusdievius
@@ -66,9 +62,7 @@ Nenurodyta
     dalimi reikėtų laikyti ir Šventaragio legendą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

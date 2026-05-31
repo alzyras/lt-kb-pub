@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Riurikas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - upė
@@ -25,13 +16,15 @@ tags:
 Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", yra kaip tik tas, kuris, viena vertus, atbloškė Riuriką ir jo variagus į Rusiją, kita ver­ tus, galbūt tariamąjį Palemoną su draugais - į Lietuvą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", yra kaip tik tas, kuris, viena vertus, atbloškė Riuriką ir jo variagus į Rusiją, kita ver­ tus, galbūt tariamąjį Palemoną su draugais - į Lietuvą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", yra kaip tik tas, kuris, viena vertus, atbloškė Riuriką ir jo variagus į Rusiją, kita ver­ tus, galbūt tariamąjį Palemoną su draugais - į Lietuvą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors ir patogio­
@@ -55,9 +48,7 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
     laikams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -66,6 +57,5 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
 - [[objektai/zodynas/Feodalinis ir leninis valdymas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
-- [[objektai/grupes/Riuriko giminė]]
 - [[objektai/asmenys/Rogvoldas Borisovičius]]
 - [[objektai/zodynas/Variagai]]

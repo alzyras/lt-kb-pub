@@ -1,28 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: '1324'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - kunigas
   - miestas
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)
 
@@ -31,66 +25,34 @@ tags:
 Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 . Gedimini) fines Christianorum 69 ## Puslapis 86 VILNIAUS MIESTO ISTORIJA I TOMAS nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta apie du tūkstančius gyventojų. Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 .'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Gedimini) fines Christianorum 69 ## Puslapis 86 VILNIAUS MIESTO ISTORIJA I TOMAS nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta apie du tūkstančius gyventojų.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 .'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­ gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­ linkės1 1 .'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tokios
-    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
-    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
-    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
-    trisdešimt šešiais kariais nužudė8.
-    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
-    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
-    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
-    linkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
-    Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Gedimini) fines Christianorum 69 ## Puslapis 86 VILNIAUS MIESTO ISTORIJA I TOMAS nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta apie du tūkstančius gyventojų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    e. Gedimini) fines Christianorum
-    69
 
-    ## Puslapis 86
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta
-    apie du tūkstančius gyventojų. Ištisi kaimai visoje kunigaikš­
-    tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­
-    imtų į nelaisvę priskaičiuota iki devynių tūkstančių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik 1323 ir 1324 metais su plėšikaujančia ir viską naikinančia 97 ## Puslapis 114 VILNIAUS MIESTO ISTORIJA I TOMAS ginkluota kariauna įsiveržia į Mazoviją ir Dobrynės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tačiau Gediminas, jei galiu taip
+    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
+    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
+    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
+    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
+    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
+    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
+    timšalių atvykimo reikalus. Tačiau Gediminas, jei galiu taip
     sakyti, laiškų rašytojui padarė tikrą kiaulystę, nes kaip tik
     1323 ir 1324 metais su plėšikaujančia ir viską naikinančia
     97
@@ -110,8 +72,44 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
     lor evidenter!
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    e. Gedimini) fines Christianorum
+    69
+
+    ## Puslapis 86
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta
+    apie du tūkstančius gyventojų. Ištisi kaimai visoje kunigaikš­
+    tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­
+    imtų į nelaisvę priskaičiuota iki devynių tūkstančių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tokios
+    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
+    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
+    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
+    trisdešimt šešiais kariais nužudė8.
+    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
+    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
+    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
+    linkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
+    Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

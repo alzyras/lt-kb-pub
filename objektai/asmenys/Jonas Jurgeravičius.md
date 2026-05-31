@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Jurgeravičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - privilegija
@@ -25,13 +16,15 @@ tags:
 Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Šimonovos ir ypač Viesos kai­ me duotas privilegijas, nesvarbu, ar jos mūsų naujai duotos ir paskelbtos, ar vėliau gali būti duotos ir paskelbtos, šiuo atšaukiame ir norime, kad būtų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jeigu
@@ -56,9 +49,7 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
     visų naminių gyvulių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

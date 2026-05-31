@@ -101,6 +101,7 @@ Nenurodyta
 - [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/grinda]]
 - [[objektai/zodynas/indiktas]]
+- [[objektai/zodynas/neofitai]]
 - [[objektai/zodynas/trečias grūdas]]
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
 - [[objektai/daiktai/Įtvirtintas malūnas prie Baigos]]

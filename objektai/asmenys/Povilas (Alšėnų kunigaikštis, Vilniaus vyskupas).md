@@ -63,14 +63,14 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
   pagrindžia:
     - c-008
-- t-009
-  teiginys: 'Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.'
-  pagrindžia:
-    - c-009
 - t-010
   teiginys: 'Taigi mes jo teisėtam prašymui pritardami ir, norėdami sustiprinti Die­ vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­ riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­ čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.'
+  pagrindžia:
+    - c-011
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus ................Jonui, Jurgiui Astikaičiui, Trakų...................'
@@ -283,7 +283,36 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-009
+- c-010
+  santrauka: 'Taigi mes jo teisėtam prašymui pritardami ir, norėdami sustiprinti Die­ vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­ riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­ čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taigi mes jo
+    teisėtam prašymui pritardami ir, norėdami sustiprinti Die­
+    vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­
+    riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­
+    čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje,
+    kuri jam atrodo tinkamesnė, įrengti ir pastatyti tiek krautu­
+    vių mėsininkams, kiek nuo seno tarp kitų miestietiškų mė­
+    sos prekyviečių turguje ir Vilniaus aikštėje pats vyskupas
+    turėjo ir valdė. Tam pačiam ponui dabartiniam vyskupui ir
+    jo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­
+    są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.
+    Leidžiame jas mėsininkams, kuriems tik norėtų, savo nuo­
+    žiūra, išnuomoti ar juos samdyti, taip pat tose pačiose mėsi­
+    nėse galvijus, gyvulius, laukinius gyvūnus ir visokių rūšių
+    nupenėtus naminius gyvūnus pirkti, parduoti, skersti, mė­
+    są laisvai išdėstyti ir ja prekiauti, nekliudant mūsų Vilniaus
+    piliečiams ir bet kokiems kitiems, bet kokios padėties, luo­
+    mo ir kilmės žmonėms.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
   santrauka: 'Taigi, kai šis ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­ rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­ dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­ klausančioje jam ir jo katedros bažnyčiai, savo ir savo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -317,36 +346,7 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Taigi mes jo teisėtam prašymui pritardami ir, norėdami sustiprinti Die­ vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­ riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­ čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taigi mes jo
-    teisėtam prašymui pritardami ir, norėdami sustiprinti Die­
-    vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­
-    riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­
-    čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje,
-    kuri jam atrodo tinkamesnė, įrengti ir pastatyti tiek krautu­
-    vių mėsininkams, kiek nuo seno tarp kitų miestietiškų mė­
-    sos prekyviečių turguje ir Vilniaus aikštėje pats vyskupas
-    turėjo ir valdė. Tam pačiam ponui dabartiniam vyskupui ir
-    jo įpėdiniams, Vilniaus vyskupams, suteikiame pilną bei vi­
-    są valdžią ir minėtų mėsos krautuvių kūrimo jurisdikciją.
-    Leidžiame jas mėsininkams, kuriems tik norėtų, savo nuo­
-    žiūra, išnuomoti ar juos samdyti, taip pat tose pačiose mėsi­
-    nėse galvijus, gyvulius, laukinius gyvūnus ir visokių rūšių
-    nupenėtus naminius gyvūnus pirkti, parduoti, skersti, mė­
-    są laisvai išdėstyti ir ja prekiauti, nekliudant mūsų Vilniaus
-    piliečiams ir bet kokiems kitiems, bet kokios padėties, luo­
-    mo ir kilmės žmonėms.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
@@ -373,12 +373,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 - [[objektai/paprociai/Bažnytinių mėsinių nuoma ir laisva mėsos prekyba Vilniuje]]
 - [[objektai/daiktai/Būgnas-timpanas (būgnas-katilas)]]
 - [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]
-- [[objektai/asmenys/Elžbieta Pečkavičiūtė]]
-- [[objektai/asmenys/Felicija Pečkavičiūtė]]
 - [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
-- [[objektai/asmenys/Jonas Pečkavičius]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/ivykiai/Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)]]

@@ -55,8 +55,6 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
 ### Susiję objektai
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/supremus dux magnus dux]]

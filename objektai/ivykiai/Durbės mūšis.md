@@ -1,29 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Durbės mūšis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1260 m.'
-  - '1263 m.'
   - '1268 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1260'
 date_end: '1268'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - ordinas
   - popiežius
+amziai:
+  - 'XIII'
 ---
 # Durbės mūšis
 
@@ -32,26 +25,31 @@ tags:
 Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
@@ -70,9 +68,7 @@ Nenurodyta
     krikščionio valdovo statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -85,9 +81,8 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/Auksė Ūsienė]]
 - [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
-- [[objektai/autoriai/Vytautas Lesčius]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Mindaugo nužudymas]]

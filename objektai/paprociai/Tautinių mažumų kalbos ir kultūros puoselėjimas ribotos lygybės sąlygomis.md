@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Tautinių mažumų kalbos ir kultūros puoselėjimas ribotos lygybės sąlygomis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1937 m.'
   - '1939 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1937'
 date_end: '1939'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Tautinių mažumų kalbos ir kultūros puoselėjimas ribotos lygybės sąlygomis
 
@@ -30,29 +24,35 @@ tags:
 Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės poli-
@@ -68,12 +68,13 @@ Nenurodyta
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     171
     Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
-    po 1939 m.
+    po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė
+    savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-
+    nas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS,
+    bolševizmui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

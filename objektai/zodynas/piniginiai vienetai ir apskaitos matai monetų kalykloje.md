@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'piniginiai vienetai ir apskaitos matai monetų kalykloje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pinigai
   - sąvoka
@@ -26,15 +17,23 @@ tags:
 Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos išleistų monetų ketverių metų ap­ skaitą: šešiasdešimt tūkstančių auk­ sinų ir tūkstantis auksinų ir devyni šimtai auksinų ir dvidešimt auksi­ nų, o auksinai po dvidešimt grašių ir po.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos išleistų monetų ketverių metų ap­ skaitą: šešiasdešimt tūkstančių auk­ sinų ir tūkstantis auksinų ir devyni šimtai auksinų ir dvidešimt auksi­ nų, o auksinai po dvidešimt grašių ir po.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos išleistų monetų ketverių metų ap­ skaitą: šešiasdešimt tūkstančių auk­ sinų ir tūkstantis auksinų ir devyni šimtai auksinų ir dvidešimt auksi­ nų, o auksinai po dvidešimt grašių ir po.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Prūsi­
+    jos istorija mums išsaugojo įdomią žinią apie tai, kad
+    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
+    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
+    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
+    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
     serebra do mina/ pryszlo 20 tysiacz hry-
     wien i 6 sot hrywien i 50 i osm hryzvien
     i dwa skotcy [Vilniuje, birželio 9-ta
@@ -59,9 +58,7 @@ Jo Ma­ lonybei Valdovui Didžiajam kuni­ gaikščiui pateikė monetų kalyklos
     ir du skatikus].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

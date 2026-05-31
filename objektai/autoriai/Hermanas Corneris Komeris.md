@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Hermanas Corneris Komeris'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - miestas
@@ -26,15 +17,18 @@ tags:
 Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Wilna, 1. 177.
     33
     Žr. Hermano C  o  r  neri o,
     dominikono, Kroniką, Naruševi­
@@ -50,8 +44,6 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t.
     pilį].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

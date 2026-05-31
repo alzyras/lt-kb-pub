@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Karaliaus Žygimanto Senojo knygos Vilniaus pilyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1522 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1522'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
   - kunigaikštis
   - mokslininkas
+amziai:
+  - 'XVI'
 ---
 # Karaliaus Žygimanto Senojo knygos Vilniaus pilyje
 
@@ -30,33 +24,40 @@ tags:
 Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25. 97, ten yra iš Lietuvos Metrikos paimtas karaliaus knygų sąrašas.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '97, ten yra iš Lietuvos Metrikos paimtas karaliaus knygų sąrašas.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje25.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suklestėjus prekybai, sukru­
@@ -70,13 +71,11 @@ Nenurodyta
     kalbomis saugojo Vilniaus pilyje25.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '97, ten yra iš Lietuvos Metrikos paimtas karaliaus knygų sąrašas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     97,
@@ -98,9 +97,7 @@ Nenurodyta
     kyklos išlaikymas26.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -111,3 +108,4 @@ Nenurodyta
 - [[objektai/zodynas/metrika]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Senasis]]

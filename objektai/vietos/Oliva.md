@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Oliva'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
   - popiežius
   - tauta
+amziai:
+  - 'XIV'
 ---
 # Oliva
 
@@ -30,17 +24,20 @@ tags:
 Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos. Pavyzdžiui, abatai iš Olivos ir Pelplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­ mus per presentes, eundem prefatum regem quasdam per piures mundi partes litteras direxisse, in quibus se cum suis et toto Reg­ no asseruit baptizari et conjungi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Pavyzdžiui, abatai iš Olivos ir Pelplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­ mus per presentes, eundem prefatum regem quasdam per piures mundi partes litteras direxisse, in quibus se cum suis et toto Reg­ no asseruit baptizari et conjungi.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
@@ -63,13 +60,11 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     sceleratis aliqua pactione conjungi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Pavyzdžiui, abatai iš Olivos ir Pelplino 1323 metais praneša popiežiui: Ex nuper actis patefeci­ mus per presentes, eundem prefatum regem quasdam per piures mundi partes litteras direxisse, in quibus se cum suis et toto Reg­ no asseruit baptizari et conjungi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2) Kurį laiką buvo manoma, kad Gediminas
@@ -83,11 +78,9 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     nėjęs tuos laiškus, kuriuose tvirtino, kad pats su saviškiais
     ir visa karalyste nori pasikrikštyti ir prisijungti prie tikinčių
     tautų bendruomenės]. (Slaptasis archyvas, Spinta
-    XI, Nr.
+    XI, Nr. 19 ir 20).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

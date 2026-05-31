@@ -1,20 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - valstybė
@@ -26,30 +16,36 @@ tags:
 Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­ dvikas antrą kartą pakliuvo į nelaisvę Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule. Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­ dvikas antrą kartą pakliuvo į nelaisvę Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­ dvikas antrą kartą pakliuvo į nelaisvę Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
@@ -70,13 +66,11 @@ Nenurodyta
     Vadolis505, tenykštį vadą, bei daugybę kitų ir išsigabeno nesuskaičiuojamą grobį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sunkiai
@@ -88,9 +82,7 @@ Nenurodyta
     kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

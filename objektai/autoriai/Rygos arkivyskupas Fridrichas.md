@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Rygos arkivyskupas Fridrichas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - miestas
@@ -27,16 +18,19 @@ tags:
 Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    393, jau esame išsakę nuo­
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
     monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
     nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
     dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
@@ -52,9 +46,7 @@ Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo
     skleisti krikščionių tikėjimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

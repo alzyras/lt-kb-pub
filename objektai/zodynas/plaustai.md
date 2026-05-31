@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'plaustai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - sąvoka
@@ -27,13 +18,15 @@ tags:
 Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nederėtų, be
@@ -55,9 +48,7 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
     jau seniai mintyse paskyrėme.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -57,10 +57,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.'
   pagrindžia:
@@ -113,6 +109,10 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   teiginys: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
   pagrindžia:
     - c-016
+- t-017
+  teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -150,25 +150,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sierakausko manymu,
-    po mėnesio kito turėjo prasidėti Anglijos
-    ir Prancūzijos intervencija prieš Rusiją.
-    Šiems tikslams įgyvendinti už Anykščių
-    esančio Andrioniškio miške prie Teresboro
-    palivarko (dabar Knebių kaimas) sukilėliai
-    įrengė stovyklą, į kurią sutraukė didesnę
-    dalį savo pajėgų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -387,3 +368,22 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Z. Sierakausko manymu,
+    po mėnesio kito turėjo prasidėti Anglijos
+    ir Prancūzijos intervencija prieš Rusiją.
+    Šiems tikslams įgyvendinti už Anykščių
+    esančio Andrioniškio miške prie Teresboro
+    palivarko (dabar Knebių kaimas) sukilėliai
+    įrengė stovyklą, į kurią sutraukė didesnę
+    dalį savo pajėgų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017

@@ -102,22 +102,22 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   teiginys: 'Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­ bėje ir jo politikai.'
   pagrindžia:
     - c-013
-- t-014
-  teiginys: 'Olesnickis, kuris, patekęs į kanclerius be Vytauto žinios ir pritarimo, pastojo jo įtakai kelią į Lenkiją.'
-  pagrindžia:
-    - c-014
-- t-015
-  teiginys: 'Olesnickis1 2), Krokuvos vysku­ pas, griežtai stojo prieš karūnacijos sumanymą, pastebėdamas, kad tai esąs naujas dalykas, reikalaująs didelio apgalvojimo.'
-  pagrindžia:
-    - c-015
 - t-016
   teiginys: 'Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­ nę, atsakė Zigmanto pavedamas Dr.'
   pagrindžia:
     - c-016
 - t-017
-  teiginys: 'Olesnickio ir lenkų ponų užsispyrimą, kaip didžiausią kliū­ tį^2 ).'
+  teiginys: 'Olesnickis, kuris, patekęs į kanclerius be Vytauto žinios ir pritarimo, pastojo jo įtakai kelią į Lenkiją.'
   pagrindžia:
     - c-017
+- t-018
+  teiginys: 'Olesnickis1 2), Krokuvos vysku­ pas, griežtai stojo prieš karūnacijos sumanymą, pastebėdamas, kad tai esąs naujas dalykas, reikalaująs didelio apgalvojimo.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Olesnickio ir lenkų ponų užsispyrimą, kaip didžiausią kliū­ tį^2 ).'
+  pagrindžia:
+    - c-019
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai.'
@@ -343,7 +343,21 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
-- c-014
+- c-016
+  santrauka: 'Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­ nę, atsakė Zigmanto pavedamas Dr.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    į tą Krokuvos profesorių, be abejo
+    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
+    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
   santrauka: 'Olesnickis, kuris, patekęs į kanclerius be Vytauto žinios ir pritarimo, pastojo jo įtakai kelią į Lenkiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -364,8 +378,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-014
-- c-015
+    - t-017
+- c-018
   santrauka: 'Olesnickis1 2), Krokuvos vysku­ pas, griežtai stojo prieš karūnacijos sumanymą, pastebėdamas, kad tai esąs naujas dalykas, reikalaująs didelio apgalvojimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -385,22 +399,8 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-015
-- c-016
-  santrauka: 'Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­ nę, atsakė Zigmanto pavedamas Dr.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    į tą Krokuvos profesorių, be abejo
-    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
-    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-016
-- c-017
+    - t-018
+- c-019
   santrauka: 'Olesnickio ir lenkų ponų užsispyrimą, kaip didžiausią kliū­ tį^2 ).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -418,7 +418,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-017
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai

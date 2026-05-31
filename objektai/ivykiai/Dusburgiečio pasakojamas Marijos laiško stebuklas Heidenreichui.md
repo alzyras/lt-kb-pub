@@ -1,32 +1,23 @@
 ---
 tipas: ivykis
 pavadinimas: 'Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1246 m.'
-  - '1256 m.'
-  - '1263 m.'
-  - '1272 m.'
   - '1326 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1246'
 date_end: '1326'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - ordinas
   - pilis
   - upė
+amziai:
+  - 'XIII'
+  - 'XIV'
 ---
 # Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui
 
@@ -35,26 +26,31 @@ tags:
 Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie brolį Heidenreichą, Kulmo vyskupą Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas432.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie brolį Heidenreichą, Kulmo vyskupą Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas432.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie brolį Heidenreichą, Kulmo vyskupą Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas432.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie
@@ -84,9 +80,7 @@ Nenurodyta
     Prūsijos žemėje krikščionims teksią dar daug patirti vargo bei kančių nuo prūsų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

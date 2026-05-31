@@ -1,31 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Karališkasis malūnas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1435 m.'
-  - '1440 m.'
-  - '1469 m.'
-  - '1491 m.'
   - '1492 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1435'
 date_end: '1492'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - ordinas
   - pilis
+amziai:
+  - 'XV'
 ---
 # Karališkasis malūnas
 
@@ -34,13 +25,15 @@ tags:
 225 ## Puslapis 242 VILNIAUS MIESTO ISTORIJA II TOMAS nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 
 ## Teiginiai
+
 - t-001
   teiginys: '225 ## Puslapis 242 VILNIAUS MIESTO ISTORIJA II TOMAS nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '225 ## Puslapis 242 VILNIAUS MIESTO ISTORIJA II TOMAS nusidriekęs palei Vilnios upę prie Karališkojo malūno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -88,8 +81,6 @@ tags:
     nusidriekęs palei Vilnios upę prie Karališkojo malūno.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

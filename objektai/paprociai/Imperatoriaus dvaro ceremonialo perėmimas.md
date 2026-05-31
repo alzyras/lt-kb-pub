@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Imperatoriaus dvaro ceremonialo perėmimas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1453 m.'
   - '1505 m.'
   - '1533 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1453'
+date_end: '1533'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - paprotys
 amziai:
   - 'XV'
   - 'XVI'
-date_start: '1453'
-date_end: '1533'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - paprotys
 ---
 # Imperatoriaus dvaro ceremonialo perėmimas
 
@@ -30,31 +24,40 @@ tags:
 Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­ sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą, Jonas III-sis jau savinosi ir caro titulą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, perėmė jos dvigalvį erelį bei imperatoriaus dvaro ceremonialą ir savinosi caro titulą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­ sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą, Jonas III-sis jau savinosi ir caro titulą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, perėmė jos dvigalvį erelį bei imperatoriaus dvaro ceremonialą ir savinosi caro titulą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
@@ -67,13 +70,28 @@ Nenurodyta
 
     (^11) **Taip rašė savo laiške Vosyliui III (1505-1533) Eleazaro vienuolyno
     (prie Pskovo) vienuolis Filotiejus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­ sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą, Jonas III-sis jau savinosi ir caro titulą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tik Maskvos didžiajam Kunigaikščiui Jonui III, Sofijos Vytau­
+    taitės anūkui (1462-1505), jau nebebuvo baisi eižėjanti Aukso Orda.
+    Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
+    sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,
+    Jonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »
+    (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­
+    mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -81,4 +99,5 @@ Nenurodyta
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Romai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Bizantijos imperatorių herbas]]
 - [[objektai/posakiai/sobiratel’ russkich žemeli]]

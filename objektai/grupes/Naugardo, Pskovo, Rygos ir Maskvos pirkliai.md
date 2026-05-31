@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Naugardo, Pskovo, Rygos ir Maskvos pirkliai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kraštas
@@ -27,13 +18,15 @@ tags:
 Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
@@ -47,9 +40,7 @@ Jo laikais jau būdavo saugu visuose kraštuose, ku­ riuos jis valdė, Vilniuje
     krikščioniškąja kultūra26.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

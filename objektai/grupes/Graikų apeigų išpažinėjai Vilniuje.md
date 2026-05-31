@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Graikų apeigų išpažinėjai Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1586 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1586'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
   - miestas
   - privilegija
+amziai:
+  - 'XVI'
 ---
 # Graikų apeigų išpažinėjai Vilniuje
 
@@ -30,17 +24,20 @@ tags:
 Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo. Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lygiai taip pat įžvalgiai karalius užkirto kelią
@@ -53,19 +50,21 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
     Toks santūrus ir teisingas Batoro elgesys tikėjimo laisvės
     atžvilgiu, abiejose pusėse siaučiant aršiems bruzdėjimams,
     66
-    O s i ń s k i, O życiu i pismach X.
+    O s i ń s k i, O życiu i pismach X. Piot­
+    ra Skargi, 1.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    149 ir 150,
+    Be karaliaus Stepono laiškų, rašytų
+    dėl kalendorinių ginčų, Dubins-
+    k i o išspausdintų „Vilniaus miesto
+    privilegijų rinkinyje", p. 149 ir 150,
     dar miesto archyve yra reliacinis ka­
     raliaus Stepono sprendimas: Decre­
     tum relationum Stephani Regis Polo-
@@ -102,9 +101,7 @@ Lygiai taip pat įžvalgiai karalius užkirto kelią jau pradėjusiems Vilniuje 
     nį, o vaitas atvyko pats.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

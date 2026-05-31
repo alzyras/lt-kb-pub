@@ -1,9 +1,6 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pilėnas pilėnai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -13,20 +10,17 @@ datos:
   - '1313 m.'
   - '1314 m.'
   - '1322 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1301'
 date_end: '1322'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - sąvoka
   - valdovas
+amziai:
+  - 'XIV'
 ---
 # pilėnas pilėnai
 
@@ -35,69 +29,73 @@ tags:
 Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai. Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą, kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Dusburgietis teigia, kad šitai išvydę, pilėnai, pasičiupę ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
-  pagrindžia:
-    - c-007
+
 - t-008
   teiginys: 'Dusburgietis teigia, kad apie Junigedos papilio sudeginimą Tais pačiais metais, švento Mato, apaštalo, dieną (rugsėjo 21) tas pats maršalas su didele kariuomene atžygiavo į lauką, vardu Kaišai577, ir tūkstantis penki Šimtai rai telių, palikę arklius, pėsčiomis po brolių vėliava per.'
   pagrindžia:
     - c-008
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai.'
+  pagrindžia:
+    - c-002
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad šitai išvydę, pilėnai, pasičiupę ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.'
+  pagrindžia:
+    - c-006
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
+  pagrindžia:
+    - c-005
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą, kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.'
+  pagrindžia:
+    - c-003
+
 - t-009
   teiginys: 'Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais.'
   pagrindžia:
     - c-009
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+  pagrindžia:
+    - c-007
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti.'
+
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
-                                          lies bei miesto paėmimą
+    Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
 
-      Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
-    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
-    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
-    kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
-    ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
-    tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš
-    abiejų šalių daug sužeistųjų, kai kurie krito nukauti. Galop, nieko nepešę, pasitraukė.
-    Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
-    kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
-    manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui.
+       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
+    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
+    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
+    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
+    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
+    priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
+    ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-005
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį Tuo metu brolis Anonas, Teutonų ordino didysis magistras429, įsakė Prūsijos magistrui bei broliams pastatyti Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje, pilį, pažadėdamas gausiai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Starkenbergo pilies pastatymą ir daugybės krikščionių žūtį
@@ -111,34 +109,11 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir panoro, išsižadėjęs stabų.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
 
-      Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
-    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
-    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
-    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
-    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
-    rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
-    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
-    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
-  santrauka: 'Dusburgietis teigia, kad tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą, kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
@@ -154,33 +129,11 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     Draiką nuvedė į Ragainę, kur jis su visa šeimyna buvo pakrikštytas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
 
-       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
-    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
-    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
-    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
-    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
-    priėmė krikšto malonę. Kita kariuomenės dalis užgriuvo šios pilies apylinkes, kur, išžudę
-    ar paėmę į nelaisvę daug žmonių, pagrobė visa, ką berado grobtina, o kitką sudegino.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
-  santrauka: 'Dusburgietis teigia, kad šitai išvydę, pilėnai, pasičiupę ginklus, užpuolė laivą, o broliai ir ginklanešiai, jame buvę, pradėjo narsiai gintis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vieną brolių karo laivą
@@ -192,39 +145,30 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     mūšyje daugybė lietuvių buvo nukauta ir sunkiai sužeista. Šitaip broliai ir išsigelbėjo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Dar apie tą patį
+    280 (273). Apie pirmąjį Aukaimio pilies sugriovimą 1302 metais
 
-       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
-    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
-    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
-    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
-    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
-    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
-    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
-    jas nusiaubė, degindami ir piešdami.
-
-
-
-
-       322 (315).
+      Šio magistro laikais, 1301 viešpaties metais, vienas lietuvis, vardu Draika, Aukaimio
+    pilėnas, didžiai susikrimto, kad šitaip ilgai leidosi klastingojo velnio apgaudinėjamas, ir
+    panoro, išsižadėjęs stabų garbinimo, atsidėti tikro bei gyvo dievo tarnybai, todėl slaptai
+    pasiuntė savo sūnų Piną pas brolį Folradą, Ragainės komtūrą, nuolankiai ir pamaldžiai
+    prašydamas padėti jam išsivaduoti nuo stabmeldystės klaidų bei apsisaugoti nuo netikėlių
+    rankų. Tas komtūras, magistro patartas, patraukė su kariuomene prieš Aukaimio pilį, ir
+    štai kokie nuostabūs visi darbai dievo, kurio apvaizda taip sutvarkė šį itin svarbų reikalą,
+    kad, broliams susirengus užpulti šią pilį, tą naktį pilyje sargybą ėjo minėtasis Draika.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-003
+
 - c-008
-  santrauka: 'Dusburgietis teigia, kad apie Junigedos papilio sudeginimą Tais pačiais metais, švento Mato, apaštalo, dieną (rugsėjo 21) tas pats maršalas su didele kariuomene atžygiavo į lauką, vardu Kaišai577, ir tūkstantis penki Šimtai rai telių, palikę arklius, pėsčiomis po brolių vėliava per.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Junigedos papilio sudeginimą
@@ -241,13 +185,11 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     krito daug netikėlių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-008
+
 - c-009
-  santrauka: 'Dusburgietis teigia, kad trečios dienos vakare jie apsupo ir smarkiai užpuolė Pieštvės pilį: maldininkai buvo taip gerai apsišarvavę, kad jų, kopiančių į sienas, pilėnai nestengė sulaikyti nei ietimis, nei kalavijais, nei kokiais kitais ginklais.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1322 viešpaties metais atvyko į Prūsijos žemę garbingi vyrai bei valdovai Bernardas,
@@ -267,11 +209,93 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
     nesilaikė duoto žodžio.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-009
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Brunsbergo miestiečių karą antrosios atskalūnybės metais ir apie pi­
+                                          lies bei miesto paėmimą
+
+      Valdovas ir Teutonų ordino brolis Anzelmas, Varmės vyskupas, pastatė Brunsbergo
+    pilį ir miestą Serijos upės žemupyje414, saloje, beveik per du akmens sviedimus nuo
+    tos vietos, kur dabar tebėra; pirmaisiais antrosios atskalūnybės metais prūsai su didele
+    kariuomene ją apsupo, visą dieną smarkiai puolė. Jiems narsiai pasipriešino miestiečiai
+    ir pilėnai, paprastais ir ketveriniais vežimais bei kitokiais mediniais daiktais užversdami
+    tas pilies ir miesto vietas, pro kurias priešai galėjo įsibrauti. Šis mūšis pareikalavo iš
+    abiejų šalių daug sužeistųjų, kai kurie krito nukauti. Galop, nieko nepešę, pasitraukė.
+    Kiek vėliau, reikalo verčiami, iš pilies ir iš miesto išėjo pasišienauti ir pamalkauti 40 vyrų,
+    kurie visi buvo priešo nukauti. Miestiečiai ir pilėnai, įsibauginę dėl šio įvykio, nusiminė,
+    manydami daugiau nebegalėsią priešintis prasidėjus antpuoliui.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-007
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dar apie tą patį
+
+       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
+    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
+    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
+    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
+    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
+    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
+    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
+    jas nusiaubė, degindami ir piešdami.
+
+
+
+
+       322 (315).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-010
+  santrauka: 'Dusburgietis teigia, kad apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    290 (283). Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais
+
+       Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras,
+    patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis
+    pilėnas, vardu Svirtilas, tikėjimo ir tikinčiųjų draugas, išdavė pilį broliams, kurie, ten
+    įsiveržę, išžudė visus vyrus, o moteris bei vaikus išsivarė  į nelaisvę  ir dar kartą iki
+    pamatų sugriovė pilį. Tuo tarpu Svirtilas bei visa jo šeimyna nusekė paskui brolius ir
+    priėmė krikšto malonę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-011
+  santrauka: 'Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas, maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    321 (314). Dar apie tą patį
+
+       Tais pačiais 1314 metais, apie grabnyčias (vasario 2), tas pats brolis Henrikas,
+    maršalas, dar kartą nužygiavo su visa savo kariuomene į Medininkų valsčių ir ten užpuolė
+    pilį, vardu Sizditė570, kurios pilėnai narsiai priešinosi; šioje kovoje, ilgokai užtrukusioje,
+    lietuviai neteko Masiaus brolio bei 18 kitų [vyrų], kurie krito nukauti, o broliai — trijų
+    brolių, būtent: brolio Henriko Rutėno, brolio Ulricho iš Tetingeno  ir brolio Rebodo iš
+    Izenburgo, bei keturių prityrusių karių, būtent: Spagerotės, Kviramo iš Valdavos, Mykolo
+    ir Mindotės. Ne kažką laimėję, puldami pilį, jie vėliau patraukė į jos apylinkes ir dar kartą
+    jas nusiaubė, degindami ir piešdami.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
@@ -294,7 +318,14 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - [[objektai/zodynas/vėliava]]
 - [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
 - [[objektai/asmenys/Folradas]]
+- [[objektai/asmenys/Henrikas Rutėnas]]
+- [[objektai/asmenys/Henrikas iš Plockės]]
+- [[objektai/asmenys/Kviramas iš Valdavos]]
+- [[objektai/asmenys/Mindotė]]
 - [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
+- [[objektai/asmenys/Rebodas iš Izenburgo]]
+- [[objektai/asmenys/Spagerotė]]
+- [[objektai/asmenys/Ulrichas iš Tetingeno]]
 - [[objektai/zodynas/pilėnas]]
 - [[objektai/zodynas/stabų garbinimas stabmeldystė]]
 - [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]

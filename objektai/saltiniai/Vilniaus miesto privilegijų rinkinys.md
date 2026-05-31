@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vilniaus miesto privilegijų rinkinys'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1586 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1586'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - privilegija
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # Vilniaus miesto privilegijų rinkinys
 
@@ -30,16 +24,19 @@ tags:
 67 Be karaliaus Stepono laiškų, rašytų dėl kalendorinių ginčų, Dubinsk i o išspausdintų „Vilniaus miesto privilegijų rinkinyje", p. 149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae.
 
 ## Teiginiai
+
 - t-001
   teiginys: '67 Be karaliaus Stepono laiškų, rašytų dėl kalendorinių ginčų, Dubinsk i o išspausdintų „Vilniaus miesto privilegijų rinkinyje", p. 149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '67 Be karaliaus Stepono laiškų, rašytų dėl kalendorinių ginčų, Dubinsk i o išspausdintų „Vilniaus miesto privilegijų rinkinyje", p. 149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    21.
+    O s i ń s k i, O życiu i pismach X. Piot­
+    ra Skargi, 1. 21.
     67
     Be karaliaus Stepono laiškų, rašytų
     dėl kalendorinių ginčų, Dubins-
@@ -66,8 +63,6 @@ tags:
     švęsti]; jo turinys yra toks.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

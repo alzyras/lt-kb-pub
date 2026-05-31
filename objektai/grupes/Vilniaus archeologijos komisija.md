@@ -109,4 +109,5 @@ Archeologijos ir mokslo komisija.
 - [[objektai/grupes/Lenkai]]
 - [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/asmenys/Karolina Praniauskaitė]]
+- [[objektai/autoriai/Laurynas Ivinskis]]
 - [[objektai/asmenys/Simonas Daukantas]]

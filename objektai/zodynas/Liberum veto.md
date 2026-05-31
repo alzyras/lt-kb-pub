@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Liberum veto
 sukurta: '2026-04-24'
 variantai:
-  - liberum veto
-  - veto
+  - 'liberum veto'
+  - 'veto'
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: Abiejų Tautų Respublikos seimų praktika
 vaidmenys: []
 dalyviai: []
@@ -87,19 +87,18 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   teiginys: 'Konopczyński, Liberum veto (1918); O.'
   pagrindžia:
     - c-004
-- t-009
-  teiginys: 'LLV seimuose ilgainiui įsigalėjo liberum veto teisė (sprendimai turėjo būti priimami vienbalsiai), todėl bendras Seimas niekaip negalėjo primesti Lietuvai savo valios.'
-  pagrindžia:
-    - c-005
-- t-010
-  teiginys: 'Deja, šioje santvarkoje būta daugiau anarchijos nei tvarkos – amžininkai net sakydavo: „Valstybė netvarka remiasi.“ Mat LLV seimuose susiformavo liberum veto teisė ir kiekvienas Seimo narys galėjo vetuoti jo sprendimus, paralyžiuoti veiklą.'
-  pagrindžia:
-    - c-006
 - t-011
   teiginys: 'Kubala, Wojna Moskiewska (1910); — Wojna Szwecka (1913); — Pierwsze liberum veto (Szkice hist.'
   pagrindžia:
     - c-007
-
+- t-012
+  teiginys: 'LLV seimuose ilgainiui įsigalėjo liberum veto teisė (sprendimai turėjo būti priimami vienbalsiai), todėl bendras Seimas niekaip negalėjo primesti Lietuvai savo valios.'
+  pagrindžia:
+    - c-008
+- t-013
+  teiginys: 'Deja, šioje santvarkoje būta daugiau anarchijos nei tvarkos – amžininkai net sakydavo: „Valstybė netvarka remiasi.“ Mat LLV seimuose susiformavo liberum veto teisė ir kiekvienas Seimo narys galėjo vetuoti jo sprendimus, paralyžiuoti veiklą.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Konfederaciniuose seimuose veto teisė nebeveikė, nes sprendimai buvo priimami balsų dauguma.'
@@ -167,7 +166,21 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-005
+- c-007
+  santrauka: 'Kubala, Wojna Moskiewska (1910); — Wojna Szwecka (1913); — Pierwsze liberum veto (Szkice hist.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _Kubala,_ Wojna Moskiewska (1910); — Wojna Szwecka
+    (1913); — Pierwsze liberum veto (Szkice hist. II); _A, Šapoka,_ Sicinskis (Švie-
+    sos Keliai, 1931) ; _W.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-008
   santrauka: 'LLV seimuose ilgainiui įsigalėjo liberum veto teisė (sprendimai turėjo būti priimami vienbalsiai), todėl bendras Seimas niekaip negalėjo primesti Lietuvai savo valios.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -193,8 +206,8 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
-- c-006
+    - t-012
+- c-009
   santrauka: 'Deja, šioje santvarkoje būta daugiau anarchijos nei tvarkos – amžininkai net sakydavo: „Valstybė netvarka remiasi.“ Mat LLV seimuose susiformavo liberum veto teisė ir kiekvienas Seimo narys galėjo vetuoti jo sprendimus, paralyžiuoti veiklą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -229,44 +242,34 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-010
-- c-007
-  santrauka: 'Kubala, Wojna Moskiewska (1910); — Wojna Szwecka (1913); — Pierwsze liberum veto (Szkice hist.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _Kubala,_ Wojna Moskiewska (1910); — Wojna Szwecka
-    (1913); — Pierwsze liberum veto (Szkice hist. II); _A, Šapoka,_ Sicinskis (Švie-
-    sos Keliai, 1931) ; _W.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-
+    - t-013
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/unija]]
 - [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/asmenys/Jekaterina II]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Unitai]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/paprociai/Aukso laisvės ideologija]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]

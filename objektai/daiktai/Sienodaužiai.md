@@ -60,10 +60,6 @@ Nenurodyta
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: '[...] Nebesant maršalo stabmeldžiai džiaugiasi ir stato per Nemuną tiltą su dviem bokštais ir du sienodaužius, kuriais be paliovos puola pilį [...].'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Jos mūrams griauti čia pat buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
   pagrindžia:
@@ -72,6 +68,10 @@ Nenurodyta
   teiginys: 'Torno analuose pažymėta, kad lietuviai, puldami Gotteswerderi, naudojo 15 mašinų ir 5 sienodaužius^19.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: '[...] Nebesant maršalo stabmeldžiai džiaugiasi ir stato per Nemuną tiltą su dviem bokštais ir du sienodaužius, kuriais be paliovos puola pilį [...].'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -108,29 +108,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '[...] Nebesant maršalo stabmeldžiai džiaugiasi ir stato per Nemuną tiltą su dviem bokštais ir du sienodaužius, kuriais be paliovos puola pilį [...].'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    “
-
-    Rytojaus dieną atvyko karalius Skirgaila su didele kariuomene ir [su] dviem mašinomis
-    ir tankiai svaido [akmenis] į pilį. Kitą dieną Jogaila ir Vytautas pastato atsivežtą didesnę
-    mašiną [...]. Ir sparčiai stato tiltą per Nemuną su bokštais, ir pradėjo kastis prie pilies,
-    vienas kitą paremdami. [...] lekiantis iš mašinos akmuo nunešė komtūrui galvą. [...]
-    Nebesant maršalo stabmeldžiai džiaugiasi ir stato per Nemuną tiltą su dviem bokštais
-    ir du sienodaužius, kuriais be paliovos puola pilį [...]. Apgulė ją, daužydami sienodau-
-    žių akmenų smūgiais, ir Šventojo Tomo dieną (x11.21) 84 tokiais sviediniais kaip priešai
-    [verčia] drebėti [pilies] gyventojus.“
-
-    rugsėjis-lapkritis 1384 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Jos mūrams griauti čia pat buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -165,6 +142,29 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '[...] Nebesant maršalo stabmeldžiai džiaugiasi ir stato per Nemuną tiltą su dviem bokštais ir du sienodaužius, kuriais be paliovos puola pilį [...].'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “
+
+    Rytojaus dieną atvyko karalius Skirgaila su didele kariuomene ir [su] dviem mašinomis
+    ir tankiai svaido [akmenis] į pilį. Kitą dieną Jogaila ir Vytautas pastato atsivežtą didesnę
+    mašiną [...]. Ir sparčiai stato tiltą per Nemuną su bokštais, ir pradėjo kastis prie pilies,
+    vienas kitą paremdami. [...] lekiantis iš mašinos akmuo nunešė komtūrui galvą. [...]
+    Nebesant maršalo stabmeldžiai džiaugiasi ir stato per Nemuną tiltą su dviem bokštais
+    ir du sienodaužius, kuriais be paliovos puola pilį [...]. Apgulė ją, daužydami sienodau-
+    žių akmenų smūgiais, ir Šventojo Tomo dieną (x11.21) 84 tokiais sviediniais kaip priešai
+    [verčia] drebėti [pilies] gyventojus.“
+
+    rugsėjis-lapkritis 1384 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
@@ -177,4 +177,3 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]
-- [[objektai/daiktai/Apgulties mašinos]]

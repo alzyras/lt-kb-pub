@@ -64,6 +64,5 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
 - [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/asmenys/Augustas III]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]

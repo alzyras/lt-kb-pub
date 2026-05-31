@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Feodalinė visuomenė lenas vienvaldystė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - sąvoka
@@ -26,13 +17,15 @@ tags:
 Ėmė krašte krikti feodalinės visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­ minas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ėmė krašte krikti feodalinės visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­ minas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ėmė krašte krikti feodalinės visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­ minas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Algirdui užleidus sostą, jo sūnus jaunasis Jogaila (Ja-
@@ -46,9 +39,7 @@ tags:
     grindus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

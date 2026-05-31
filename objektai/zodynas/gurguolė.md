@@ -37,14 +37,14 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Vytauto paslėpti ginkluoti žmonės turėjo užimti Žemutinę pilį, kai iki jos atvyks menkai saugoma gurguolė.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Pastarieji, gurguolei atvykus iki Žemu­ tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo, ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo kariais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,8 +71,30 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Vytauto paslėpti ginkluoti žmonės turėjo užimti Žemutinę pilį, kai iki jos atvyks menkai saugoma gurguolė.'
+- c-003
+  santrauka: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tuo metu, kai šitai dėjosi, Sventopelkas
+    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
+    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
+    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
+    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
+    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
+    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
+    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
+    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
+    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
+    koks bailys pamatęs daugybę nukautųjų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Pastarieji, gurguolei atvykus iki Žemu­ tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo, ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo kariais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -104,29 +126,7 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo metu, kai šitai dėjosi, Sventopelkas
-    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
-    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
-    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
-    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
-    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
-    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
-    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
-    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
-    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
-    koks bailys pamatęs daugybę nukautųjų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

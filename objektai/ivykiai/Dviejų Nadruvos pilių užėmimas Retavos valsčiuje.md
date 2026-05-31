@@ -1,30 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Dviejų Nadruvos pilių užėmimas Retavos valsčiuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1273 m.'
-  - '1274 m.'
-  - '1278 m.'
   - '1292 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XVIII'
 date_start: '1273'
 date_end: '1292'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - pilis
   - žemėlapis
+amziai:
+  - 'XIII'
 ---
 # Dviejų Nadruvos pilių užėmimas Retavos valsčiuje
 
@@ -33,26 +24,31 @@ tags:
 Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
@@ -83,9 +79,7 @@ Nenurodyta
     vos ne vos stengė šitai išsigabenti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

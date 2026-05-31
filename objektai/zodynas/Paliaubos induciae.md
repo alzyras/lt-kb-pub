@@ -1,28 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Paliaubos induciae'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1380 m.'
   - '1382 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1380'
 date_end: '1382'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - paliaubos
   - sąvoka
   - tauta
+amziai:
+  - 'XIV'
 ---
 # Paliaubos induciae
 
@@ -31,37 +25,20 @@ tags:
 Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29. Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
-    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
-    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
-    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28. Taip
-    pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
-    je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29. Kitais
-    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
-    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
-    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: 'Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
@@ -85,11 +62,27 @@ Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęs
     istoriją dera jo imtis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
+    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
+    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
+    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28. Taip
+    pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
+    je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29. Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Šiandien prisiminkite puikius drabužius'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - posakis
@@ -26,16 +17,22 @@ tags:
 Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius, vienas iš jų, sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius, pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių, ir, užuot.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius, vienas iš jų, sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius, pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių, ir, užuot.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius, vienas iš jų, sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius, pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių, ir, užuot.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,
+    Išgirdę tokį sprendimą, kuršiai taip įtūžo ant tikėjimo
+    ir tikinčiųjų, kad, broliams pradėjus pulti lietuvius, jie nelyginant tikri atskalūnai iš
+    užpakalio nirtulingai užgriuvo krikščionis; lietuviams puolant iš priekio, o kuršiams iš
+    užpakalio348, beveik visi abiejų žemių žmonės pasitraukė, palikdami čia brolius ir jiems
+    ištikimus. Kurie ne kurie Prūsijos kilmingieji ištikimai palaikė brolius,  vienas iš jų,
     sembas Sklodas iš Kvedenavos, Noliubo tėvas349, sušaukęs savo giminaičius ir bičiulius,
     pasakė: „Šiandien prisiminkite puikius drabužius, kurių dažnai gaudavote iš brolių,  ir,
     užuot rengęsi vaiskiaspalviais drabužiais, parausvinkite savo drapanas žaizdų krauju, o
@@ -45,9 +42,7 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
     didelis mūšis, pareikalavęs ir iš vienos, ir iš kitos šalies galybės aukų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

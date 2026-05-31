@@ -1,29 +1,23 @@
 ---
 tipas: posakis
-pavadinimas: "„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“"
-sukurta: '2026-05-20'
-variantai:
-  - 'Baigėsi karas su prūsais. Prasidėjo karas su lietuviais'
-aliases:
-  - 'Baigėsi karas su prūsais. Prasidėjo karas su lietuviais'
+pavadinimas: '„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1283 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
+  - '1387 m.'
 date_start: '1283'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+date_end: '1387'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dinastija
   - karas
   - ordinas
   - posakis
+amziai:
+  - 'XIII'
+  - 'XIV'
 ---
 # „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“
 
@@ -32,22 +26,30 @@ tags:
 Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kilmė «Baigėsi karas su prūsais.
 
 ## Teiginiai
-- t-001
-  teiginys: '1283 m. Dusburgas kronikoje žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '1283 m. Dusburgas žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-001
+  teiginys: '1283 m. Dusburgas kronikoje žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kilmė «Baigėsi karas su prūsais.'
+  pagrindžia:
+    - c-002
+
+- t-004
+  teiginys: 'Prasidėjo karas su lietuviais».'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1283 m. Dusburgas kronikoje žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pirmosios lietuvių kovos prie Nemuno su Prūsų**
@@ -56,13 +58,46 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
     Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
     kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
     čiausio sprando ir kariauti pratusia tauta »^1.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kilmė «Baigėsi karas su prūsais.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    LIETUVOS VALSTYBINGUMO IŠSIVYSTYMAS
+
+    ### (1283-1387)
+
+    **1. Pirmosios lietuvių kovos prie Nemuno su Prūsų**
+        **ordinu ir naujos dinastijos kilmė**
+    «Baigėsi karas su prūsais. Prasidėjo karas su lietuviais».
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-003
+  santrauka: 'Prasidėjo karas su lietuviais».'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Prasidėjo karas su lietuviais».
+    Tais, didelėmis raidėmis užrašytais, žodžiais 1283 Dusburgas savo
+    kronikoje pradėjo aprašinėti kryžiuočių kovas «su galinga, kie­
+    čiausio sprando ir kariauti pratusia tauta »^1. Jau 1283 žiemą Prūsų
+    ordino magistras Meinhard von Querfurt su daug riterių ir gausia
+    kariuomene, perėję ledu Nemuną, stipriu puolimu paėmė ir « pele­
+    nais pavertė » Lietuvos panemunio pilį Biseną (netoli Skirsnemu­
+    nės).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -72,4 +107,6 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/Baigėsi karas su prūsais. Prasidėjo karas su lietuviais]]

@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Paszkiewicz H'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1262 m.'
   - '1263 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1262'
 date_end: '1263'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - karas
   - vyskupas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Paszkiewicz H
 
@@ -30,17 +26,33 @@ tags:
 Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153). Dusburgietis teigia, kad sis antpuolis, matyt, susijęs su Traidenio politika vakaruose (Paszkiewicz H., Jagiellonowie.., p. 130—131).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad sis antpuolis, matyt, susijęs su Traidenio politika vakaruose (Paszkiewicz H., Jagiellonowie.., p. 130—131).'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko
+    žemių, pavaldžių Lietuvai. Sis antpuolis, matyt, susijęs su Traidenio politika vakaruose
+    (Paszkiewicz H., Jagiellonowie.., p. 130—131). Vėlesnėje didžiojo magistro kronikoje
+    Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie daugy­
@@ -59,31 +71,15 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
     860; Пашуто В. T. Образование.., с. 492—493).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad sis antpuolis, matyt, susijęs su Traidenio politika vakaruose (Paszkiewicz H., Jagiellonowie.., p. 130—131).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    445 Greičiausiai su Skomanto sūduviais žygiavo kariai iš Gardino ar Naugarduko
-    žemių, pavaldžių Lietuvai. Sis antpuolis, matyt, susijęs su Traidenio politika vakaruose
-    (Paszkiewicz H., Jagiellonowie.., p. 130—131). Vėlesnėje didžiojo magistro kronikoje
-    Skomantas vadinamas lietuvių vadu (der Letouwen hoiftman — SRP, 5, p. 110).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Skomantas]]
+- [[objektai/grupes/Sūduviai]]
 - [[objektai/asmenys/Treniota]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]

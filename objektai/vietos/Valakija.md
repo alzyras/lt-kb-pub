@@ -73,7 +73,8 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   santrauka: 'Galingą są­ jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos vaivada.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Galingą są­
+    Bet tai nė akimirkai nesustab­
+    dė tarp Lenkijos ir Lietuvos prasidėjusių vaidų. Galingą są­
     jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos
     vaivada. Netrukus Voluinėje bei Podolėje įsiplieskė karas su
     Lietuva ir valakais, o 1431 m.

@@ -1,29 +1,22 @@
 ---
 tipas: paprotys
 pavadinimas: 'Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1569 m.'
-  - '1579 m.'
   - '1650 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 date_start: '1569'
 date_end: '1650'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - paprotys
   - valstybė
+amziai:
+  - 'XVI'
+  - 'XVII'
 ---
 # Jėzuitų kolegijų tinklo ir Vilniaus universiteto švietimo sistema
 
@@ -32,29 +25,35 @@ tags:
 Epochos simboline pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Epochos simboline pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Epochos simboline pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Epochos simboline
@@ -70,9 +69,7 @@ Nenurodyta
     orija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

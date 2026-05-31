@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Nuo Baltijos iki pat Juodosios jūros'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
@@ -27,15 +18,18 @@ tags:
 134 ## Puslapis 151 Il KNYGA Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­ rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o vakaruose atitolinę rytų link tarp Lenkijos iki.
 
 ## Teiginiai
+
 - t-001
   teiginys: '134 ## Puslapis 151 Il KNYGA Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­ rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o vakaruose atitolinę rytų link tarp Lenkijos iki.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '134 ## Puslapis 151 Il KNYGA Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­ rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o vakaruose atitolinę rytų link tarp Lenkijos iki.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Warsz.
     rašo, kad jo laikais buvę „Vytauto
     užrašai Krokuvos pilyje, karaliaus
     iždinėje, kuriuose prisipažįsta susi­
@@ -62,9 +56,7 @@ tags:
     apgultis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

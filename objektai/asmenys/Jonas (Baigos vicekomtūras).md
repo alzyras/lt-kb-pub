@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas (Baigos vicekomtūras)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1249 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1249'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - sutartis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Jonas (Baigos vicekomtūras)
 
@@ -28,13 +24,15 @@ tags:
 Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius, pasikliovus viešpačiu, drąsiai stoti į kovą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius, pasikliovus viešpačiu, drąsiai stoti į kovą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius, pasikliovus viešpačiu, drąsiai stoti į kovą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitokia sutartis nepatiko
@@ -47,9 +45,7 @@ Dusburgietis teigia, kad šitokia sutartis nepatiko dievo numylėtam broliui Jon
     buvę nukauti“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

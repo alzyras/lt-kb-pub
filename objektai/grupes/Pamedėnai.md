@@ -467,6 +467,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]
 - [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Marienverderio miestiečiai]]
 - [[objektai/asmenys/Mata]]
 - [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]

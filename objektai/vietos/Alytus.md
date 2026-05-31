@@ -74,10 +74,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   teiginys: 'Kovos ėjo prie Alytaus, ir kovo mėnesį iš rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Krekenava.'
   pagrindžia:
     - c-006
-- t-013
-  teiginys: 'Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
-  pagrindžia:
-    - c-007
 - t-014
   teiginys: 'Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­ munės durpynuose.'
   pagrindžia:
@@ -102,6 +98,10 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   teiginys: '28 Tas sandėris buvo sudarytas slapta girioje, prie dabartinių Daugų, Tra­ kų paviete, netoli nuo Alytaus, kaip manau (auf dem Felde Daudisken); tarp atvykusiųjų į tariamą medžiok­ lę buvo: Jogaila, lydimas Lietuvos kunigaikščių Vytauto ir Jono, bei Vaidilos.'
   pagrindžia:
     - c-013
+- t-020
+  teiginys: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -250,21 +250,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-- c-007
-  santrauka: 'Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Decentralizuotai plėtojant pramonę, geriau
-    panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
-    nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
-    ir tik 3–5 proc. – atvykėliai iš SSRS.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
 - c-008
   santrauka: 'Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­ munės durpynuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -454,3 +439,18 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+- c-014
+  santrauka: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Decentralizuotai plėtojant pramonę, geriau
+    panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
+    nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
+    ir tik 3–5 proc. – atvykėliai iš SSRS.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020

@@ -51,10 +51,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: '1398 m. žygio metu paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.'
   pagrindžia:
@@ -67,6 +63,10 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   teiginys: 'Tie karaimai, kurie išties galėtų būti vadinami žvdų disiden­ tais, atkeliavo į Lietuvą iš rytų, o įvairias aplinkybes įvertinęs, numa­ nau, kad jų atvykimą reikėtų Vytau­ to viešpatavimo laikams priskirti, juk šis kunigaikštis, kurio valdžia siekė tolimus.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Berods, to žygio metu paim­ tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,20 +112,6 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: '1398 m. žygio metu paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
-    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
-    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -207,6 +193,20 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Berods, to žygio metu paim­ tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
+    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -221,6 +221,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
 - [[objektai/grupes/Sentikiai]]

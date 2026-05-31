@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Mykolas Balinskis kova dėl istorijos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - saltinis
@@ -25,17 +16,20 @@ tags:
 Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyvoje Balinskio kūryboje galima rasti tik romantinei istoriografijai būdingų bruožų, o vėliau jo jau stengtasi rašyti pagal naują manierą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Balinskio kritiką T.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyvoje Balinskio kūryboje galima rasti tik romantinei istoriografijai būdingų bruožų, o vėliau jo jau stengtasi rašyti pagal naują manierą.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Balinskio kritiką T.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Balinskio kritiką T.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tyrinėtoja parodo M. Balinskio kritiką T.
@@ -45,13 +39,11 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
     pa pavyzdžiu, kaip nereikia rašyti istorijos", Ten pat, p. 57.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyvoje Balinskio kūryboje galima rasti tik romantinei istoriografijai būdingų bruožų, o vėliau jo jau stengtasi rašyti pagal naują manierą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyvoje Balinskio
@@ -66,8 +58,6 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
     mokslininkų, paremta asmeniškumu ir ambicijomis". Ten pat, p. 137,139.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

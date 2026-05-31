@@ -131,6 +131,7 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Sapiegos]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
 - [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]

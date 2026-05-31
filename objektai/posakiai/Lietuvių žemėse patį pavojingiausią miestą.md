@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Lietuvių žemėse patį pavojingiausią miestą'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - kunigaikštis
@@ -27,13 +18,15 @@ tags:
 E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių), lietuvių žemėse patį pavojingiausią miestą, kur buvo trys pilys, saugomos įgulos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių), lietuvių žemėse patį pavojingiausią miestą, kur buvo trys pilys, saugomos įgulos.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių), lietuvių žemėse patį pavojingiausią miestą, kur buvo trys pilys, saugomos įgulos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     28
@@ -64,9 +57,7 @@ E, p. 70, kuriame esa­ ma tokių žodžių: „Apsupome W ille (tai yra Vilnių
     tikras brolis Kazimieras - kunigaikštis Karigaila.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

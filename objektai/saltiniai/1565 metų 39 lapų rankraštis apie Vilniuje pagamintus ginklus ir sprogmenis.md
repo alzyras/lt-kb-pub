@@ -1,52 +1,58 @@
 ---
 tipas: saltinis
 pavadinimas: '1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1565 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1565'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - pilis
+amziai:
+  - 'XVI'
 ---
 # 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 328 VILNIAUS MIESTO ISTORIJA// TOMAS IV GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I PASIENIO PILIS 1565 METŲ 39 LAPŲ RANKRAŠTIS (Iš Pulavų bibliotekos rankraščių) Taip šio rankraščio. Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir. Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.
 
+Nenurodyta
+
 ## Teiginiai
-- t-001
-  teiginys: '## Puslapis 328 VILNIAUS MIESTO ISTORIJA// TOMAS IV GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I PASIENIO PILIS 1565 METŲ 39 LAPŲ RANKRAŠTIS (Iš Pulavų bibliotekos rankraščių) Taip šio rankraščio.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '## Puslapis 328 VILNIAUS MIESTO ISTORIJA// TOMAS IV GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I PASIENIO PILIS 1565 METŲ 39 LAPŲ RANKRAŠTIS (Iš Pulavų bibliotekos rankraščių) Taip šio rankraščio.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '## Puslapis 328 VILNIAUS MIESTO ISTORIJA// TOMAS IV GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I PASIENIO PILIS 1565 METŲ 39 LAPŲ RANKRAŠTIS (Iš Pulavų bibliotekos rankraščių) Taip šio rankraščio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    IV KNYGA
+    mūsų ponams tarėjams, seniūnams ir pareigūnams, nuošir­
+    džiai ištikimiems ir mums mieliems, paminėtiems mūsų pa­
+    tvirtinimo akte.
     Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS
     AUGUSTAS savo ranka.
 
@@ -69,30 +75,11 @@ tags:
     niuje, išsiuntinėtus po kitas pilis".
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Bent jau vertingiausi ginklai (toliau rašo Golembiovskis) turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­ dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­ tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­ mantu Senuoju ir.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Įvairių kulkų - 88 352.
-    Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)
-    turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­
-    dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­
-    tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­
-    mantu Senuoju ir Žygimantu Augustu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
@@ -102,8 +89,22 @@ tags:
     pagaminti ir ten išsiuntinėti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Salietros ir sieros: 55 centnerius, 23 svarus.
+    Įvairių kulkų - 88 352.
+    Bent jau vertingiausi ginklai (toliau rašo Golembiovskis)
+    turėjo savo vardus, pvz., 4 didžiosios akmenų patrankos va­
+    dinosi: Elgeta, Vytautas, Boba, Augustas, o etmono ginkluo­
+    tėje dvi labiausiai pasižymėjusias patrankas vadino - Žygi­
+    mantu Senuoju ir Žygimantu Augustu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'špitolė prieglauda'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1545 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1545'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - sąvoka
   - vyskupas
+amziai:
+  - 'XVI'
 ---
 # špitolė prieglauda
 
@@ -30,21 +24,25 @@ tags:
 Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18. Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla. Paskui, kai minėtą prieglaudą pastatys ir tin­ kamai įrengs, tuojau pat dalį to paties tilto mokesčio, mūsų užrašyto minėtai prieglaudai, visiems būsimiems laikams tegu nukreips ir atiduos maistui, drabužiams, vaistams bei kitoms toje prieglaudoje esančių.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Paskui, kai minėtą prieglaudą pastatys ir tin­ kamai įrengs, tuojau pat dalį to paties tilto mokesčio, mūsų užrašyto minėtai prieglaudai, visiems būsimiems laikams tegu nukreips ir atiduos maistui, drabužiams, vaistams bei kitoms toje prieglaudoje esančių.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­ vaujant Vilniaus vyskupui18.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
@@ -58,13 +56,11 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     vaujant Vilniaus vyskupui18.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Trejybės prie­ glauda (špitolė), mieste garsi savo labdaringa veikla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
@@ -81,13 +77,11 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     čius33.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Paskui, kai minėtą prieglaudą pastatys ir tin­ kamai įrengs, tuojau pat dalį to paties tilto mokesčio, mūsų užrašyto minėtai prieglaudai, visiems būsimiems laikams tegu nukreips ir atiduos maistui, drabužiams, vaistams bei kitoms toje prieglaudoje esančių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visa tai šiuo mū­
@@ -106,9 +100,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     bei prieglaudai, kai tik to reikės, skubiai būtų galima nukreipti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

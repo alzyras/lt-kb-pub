@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„švento valdovo“ įvaizdis'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - krikštas
   - posakis
@@ -21,32 +18,63 @@ tags:
 Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį su šventuoju tapusiu Vengrijos valdovu Steponu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį su šventuoju tapusiu Vengrijos valdovu Steponu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Atrodo, kad visa Vytauto politika orientuota į „švento
+    G. Camblako ekume-
+    ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
+    imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
+    prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
+    lių bendriją vaizduojančią Strasbūro freską.
+    Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-
+    tuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju
+    Žemaičių krikštu. Atrodo, kad visa Vytauto politika orientuota į „švento
     valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
     įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-
+    tuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju
+    Žemaičių krikštu. Atrodo, kad visa Vytauto politika orientuota į „švento
+    valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
+    įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu. Kadangi Vy-
+    tautui iš tikrųjų teko didžiulė užduotis įvykdyti konversiją – ne tik atvesti
+    į krikščionybę pagoniškas Lietuvos erdves, bet ir ieškoti sugyvenimo for-
+    mulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą
+    reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Grigorijus Camblakas]]
 - [[objektai/asmenys/Steponas]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/christianizacija]]
 - [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/konversija christianizacija europeizacija]]

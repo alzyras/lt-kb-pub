@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Germantas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1268 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1268'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - miestas
   - pilis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Germantas
 
@@ -30,77 +26,25 @@ tags:
 Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms. Jau, pasak mūsų kronikų, Lietuvos kunigaikštis Germantas XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidik Č a c k i s, gavęs išrašą iš tos Snorro kelionės aprašymo rankraščio, esan­ čio Kopenhagos bibliotekoje, pirma­ sis apie tai užsiminė. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Jau, pasak mūsų kronikų, Lietuvos kunigaikštis Germantas XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidik Č a c k i s, gavęs išrašą iš tos Snorro kelionės aprašymo rankraščio, esan­ čio Kopenhagos bibliotekoje, pirma­ sis apie tai užsiminė.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    I. Esą
-    pirmasis toje vietovėje įkurdinęs gy­
-    venvietę Germantas, vykdydamas
-    savo tėvo, kunigaikščio Šventaragio,
-    pasak jų, viešpatavusio Lietuvoje
-    apie 1268 m., valią, tam slėny pir­
-    masis miškus išnaikinęs ir savo tė­
-    vo bei savo paties įpėdinių kapavie­
-    tėms skyręs; pavadino ją vardu tėvo,
-    Šventaragio, kas reikštų Šventą al-
-    18
 
-    ## Puslapis 35
-
-    I  KNYGA
-    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
-    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
-    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
-    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
-    okratinio valdymo centrų tikrai galėjo būti8.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Jau, pasak mūsų kronikų, Lietuvos kunigaikštis Germantas XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidik Č a c k i s, gavęs išrašą iš tos Snorro kelionės aprašymo rankraščio, esan­ čio Kopenhagos bibliotekoje, pirma­ sis apie tai užsiminė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Netgi kai kuriuose Jogailos au­
-    tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki
-    šiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas -
-    Vylne, Velne, labai panėši į vardą, duotą jam Snorro. Tad
-    kad ir kurią iš visų tų legendų pripažintume esant tikro-
-    viškiausia, vis vien neabejotinas dalykas, jog Vilniaus įkū­
-    rimą ne Gediminui, bet jo pirmtakams dera priskirti. Jau,
-    pasak mūsų kronikų, Lietuvos kunigaikštis Germantas
-    XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidi-
-    k
-    Č a c k i s, gavęs išrašą iš tos Snorro
-    kelionės aprašymo rankraščio, esan­
-    čio Kopenhagos bibliotekoje, pirma­
-    sis apie tai užsiminė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     50
@@ -122,11 +66,62 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     krantus nusidriekusią ir medinės pilies saugomą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Franciszkanów Litew­
+    skich. Wilno 1740 in 8vo, skyr. I. Esą
+    pirmasis toje vietovėje įkurdinęs gy­
+    venvietę Germantas, vykdydamas
+    savo tėvo, kunigaikščio Šventaragio,
+    pasak jų, viešpatavusio Lietuvoje
+    apie 1268 m., valią, tam slėny pir­
+    masis miškus išnaikinęs ir savo tė­
+    vo bei savo paties įpėdinių kapavie­
+    tėms skyręs; pavadino ją vardu tėvo,
+    Šventaragio, kas reikštų Šventą al-
+    18
+
+    ## Puslapis 35
+
+    I  KNYGA
+    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
+    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
+    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
+    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
+    okratinio valdymo centrų tikrai galėjo būti8.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Netgi kai kuriuose Jogailos au­
+    tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki
+    šiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas -
+    Vylne, Velne, labai panėši į vardą, duotą jam Snorro. Tad
+    kad ir kurią iš visų tų legendų pripažintume esant tikro-
+    viškiausia, vis vien neabejotinas dalykas, jog Vilniaus įkū­
+    rimą ne Gediminui, bet jo pirmtakams dera priskirti. Jau,
+    pasak mūsų kronikų, Lietuvos kunigaikštis Germantas
+    XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidi-
+    k
+    Č a c k i s, gavęs išrašą iš tos Snorro
+    kelionės aprašymo rankraščio, esan­
+    čio Kopenhagos bibliotekoje, pirma­
+    sis apie tai užsiminė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

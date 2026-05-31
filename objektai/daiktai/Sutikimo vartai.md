@@ -1,106 +1,74 @@
 ---
-tipas: "daiktas"
-pavadinimas: "Sutikimo vartai"
-sukurta: '2026-05-14'
-variantai:
-  - "Sutikimo vartai"
-aliases: []
+tipas: daiktas
+pavadinimas: 'Sutikimo vartai'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: "juodrastis"
-laikotarpis: "1927 m. A. Smetonos kelionių po miestelius kontekstas"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - "1927 m. vasara ir ruduo"
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "tarpukaris"
-amziai:
-  - "XX"
-date_start: "1927"
-date_end: "1927"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
-patikimumas: "vidutinis"
-atnaujinta: '2026-05-14'
+  - '1927 m.'
+date_start: '1927'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
-  - simbolis
+  - daiktas
+  - miestas
+  - mokslininkas
+amziai:
+  - 'XX'
 ---
 # Sutikimo vartai
 
 ## Santrauka
 
-Sutikimo vartai minimi kaip gėlėmis ir vainikais išdabinti materialūs iškilmingo pasitikimo objektai A. Smetonos kelionėse po miestelius.
+Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po.
 
 ## Pavadinimai šaltiniuose
-- sutikimo vartai
-- vietos žydų vartai
+
+Nenurodyta
 
 ## Laikotarpis ir datos
-- laikotarpis: 1927 m. A. Smetonos kelionių po miestelius kontekstas
-- datos:
-  - 1927 m. vasara ir ruduo
-- periodas: siuolaikine_istorija
-- periodo_grupes: tarpukaris
-- amziai: XX
-- date_start: 1927
-- date_end: 1927
+
+Nenurodyta
 
 ## Kas tai
 
-Iškilmingam pasitikimui įrengiami vartai.
+Nenurodyta
 
 ## Naudojimas
 
-Naudoti prezidento sutikimo ceremonijose prie lietuvių organizacijų, moksleivių ir vietos žydų vartų.
+Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: "1927 m. A. Smetonos kelionėse po miestelius jį iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po.'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: Sutikimo vartai aprašomi A. Smetonos kelionių ceremonijų kontekste.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
+    ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-
     lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Smetona visą 1927 m. vasarą ir rudenį, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš miestelio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų, moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
+    moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po jų – prie ati-
+    tinkamai išpuoštų vietos žydų vartų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-
-## Šaltiniai ir įrodymai
+    - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/simbolis]]
-
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/daiktai/Kino kronikos kameros]]
+- [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]

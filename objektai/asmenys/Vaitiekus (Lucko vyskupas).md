@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vaitiekus (Lucko vyskupas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1507 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1507'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - paliaubos
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vaitiekus (Lucko vyskupas)
 
@@ -30,16 +26,21 @@ tags:
 Šio reikalo paliudijimui ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­ vo ir vyko Melnike pirmadienį prieš Tris Karalius metais nuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­ siam Kristuje tėvui ir ponui Vaitiekui, Dievo malone.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šio reikalo paliudijimui ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­ vo ir vyko Melnike pirmadienį prieš Tris Karalius metais nuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­ siam Kristuje tėvui ir ponui Vaitiekui, Dievo malone.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šio reikalo paliudijimui ir didžiausiai galiai mūsų antspaudą įsakėme uždėti, tai bu­ vo ir vyko Melnike pirmadienį prieš Tris Karalius metais nuo Viešpaties gimimo 1507-aisiais, dalyvaujant garbingiau­ siam Kristuje tėvui ir ponui Vaitiekui, Dievo malone.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Ir taip
+    Prie liudytojų, tuo metu su mumis buvusių:
+    su Lucko vaivada, su Limantu ir Zigmantu - kareiviais arba
+    bajorais iš Lietuvos; su Mangaila iš Ašmenos, taip pat iš Lie­
+    tuvos ir daugelio kitų patikimų liudytojų, ten buvusių. Ir taip
     mes minėtų mūsų valdinių žydų Trakuose reikalui visas jų
     nuosavybes, paliaubas ir sprendimus maloningai palaikyda­
     mi, jiems minėtą privilegiją, teises, laisves ir kitas priklau­
@@ -72,9 +73,7 @@ tags:
     ka, kuriam šis reikalas buvo pavestas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -97,6 +96,8 @@ tags:
 - [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]
+- [[objektai/asmenys/Zigmantas I]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
 - [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

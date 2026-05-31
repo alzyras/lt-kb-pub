@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Glebavičių giminė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
@@ -27,13 +18,15 @@ tags:
 Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vanota Viršilų giminei, paskui perėjo Glebavičių paveldui, po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­ versitetui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vanota Viršilų giminei, paskui perėjo Glebavičių paveldui, po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­ versitetui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vanota Viršilų giminei, paskui perėjo Glebavičių paveldui, po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­ versitetui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pilaitė, jėzuitų buvusi, per mylią
@@ -49,9 +42,7 @@ Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vano
     lio; apie pastarąjį mūšį užsimena Strijkovskis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

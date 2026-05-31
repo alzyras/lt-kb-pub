@@ -44,10 +44,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Amžinai šio dalyko atminčiai mes, Žygimantas Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­ lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt.'
   pagrindžia:
@@ -56,10 +52,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'Testamente Lenkijos Karalystei ir Lietuvos Didžiajai Kunigaikštystei palikta meilė, santarvė ir vienybė.'
   pagrindžia:
@@ -76,6 +68,14 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginys: 'Jeigu kredenso pritrūktų, prašo­ me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam būtų sumokėta, kad būtų dievobaimingai už ištikimą savo tarnystę atlyginti, o jeigu šis mūsų kredensas būtų.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -108,30 +108,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros iš-
-    stūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta. Rusų kalba
-    Rusijos imperijos priespaudos laikų švietimą
-    lietuvių kalba vaizduojanti alegorinė skulptūra
-     „Lietuvos mokykla 1864–1904“. Dail. P. Rimša, 1906 m.
-
-    L I E T U V O S  I S T O R I J A
-    116
-    čia privalomai diegta kaip „lenkų suartinimo su rusais“ priemonė. Atseit,
-    lenkai galų gale turėtų nustoti svajoję apie buvusios valstybės atkūrimą ir
-    suprasti, kad gyventi jiems, kaip slavams, Rusijos imperijos globoje yra
-    geriau, nei tiems jų tautiečiams, kurie pakliuvo į vokiškų valstybių val-
-    džią.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Amžinai šio dalyko atminčiai mes, Žygimantas Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­ lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -175,33 +151,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dėl to norime, kad mūsų kū­
-    nas būtų ten palaidotas, kur mus užklups paskutinioji va­
-    landa, tai yraA  jeigu Lenkijos Karalystėje mums esant Vieš­
-    pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje,
-    pilies bažnyčios koplyčioje, kur mūsų pono tėvo, Kristuje
-    mirusio, kūnas požemyje guli, ten pat, apačioje ar viršuje,
-    kad taipogi būtų pastatytas antkapis arba depozitas po jo
-    mirusios karališkosios didenybės antkapiu, ant žemės, pa­
-    vaizduojant mus taip, kaip ir jo karališkoji didenybė pavaiz­
-    duota antkapyje, kaip mums Viešpats Dievas pats sumanys
-    sveikatos pridėti, bet jeigu mūsų Vieš..., Lietuvos Kunigaikš­
-    tystėje esant, paims iš šio pasaulio, norime, kad būtume pa­
-    laidoti Vilniuje, pilyje, naujoje Šv. Onos bažnyčioje, toje choro
-    pusėje, bažnyčios pastato kampe, palei zakristijos duris. Tai
-    darome atsižvelgdami, kad nebūtų nereikalingų išlaidų ir
-    rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: 'Testamente Lenkijos Karalystei ir Lietuvos Didžiajai Kunigaikštystei palikta meilė, santarvė ir vienybė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -301,3 +250,54 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros iš-
+    stūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta. Rusų kalba
+    Rusijos imperijos priespaudos laikų švietimą
+    lietuvių kalba vaizduojanti alegorinė skulptūra
+     „Lietuvos mokykla 1864–1904“. Dail. P. Rimša, 1906 m.
+
+    L I E T U V O S  I S T O R I J A
+    116
+    čia privalomai diegta kaip „lenkų suartinimo su rusais“ priemonė. Atseit,
+    lenkai galų gale turėtų nustoti svajoję apie buvusios valstybės atkūrimą ir
+    suprasti, kad gyventi jiems, kaip slavams, Rusijos imperijos globoje yra
+    geriau, nei tiems jų tautiečiams, kurie pakliuvo į vokiškų valstybių val-
+    džią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dėl to norime, kad mūsų kū­
+    nas būtų ten palaidotas, kur mus užklups paskutinioji va­
+    landa, tai yraA  jeigu Lenkijos Karalystėje mums esant Vieš­
+    pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje,
+    pilies bažnyčios koplyčioje, kur mūsų pono tėvo, Kristuje
+    mirusio, kūnas požemyje guli, ten pat, apačioje ar viršuje,
+    kad taipogi būtų pastatytas antkapis arba depozitas po jo
+    mirusios karališkosios didenybės antkapiu, ant žemės, pa­
+    vaizduojant mus taip, kaip ir jo karališkoji didenybė pavaiz­
+    duota antkapyje, kaip mums Viešpats Dievas pats sumanys
+    sveikatos pridėti, bet jeigu mūsų Vieš..., Lietuvos Kunigaikš­
+    tystėje esant, paims iš šio pasaulio, norime, kad būtume pa­
+    laidoti Vilniuje, pilyje, naujoje Šv. Onos bažnyčioje, toje choro
+    pusėje, bažnyčios pastato kampe, palei zakristijos duris. Tai
+    darome atsižvelgdami, kad nebūtų nereikalingų išlaidų ir
+    rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012

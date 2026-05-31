@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Venceslavas (Mazovijos ir Plocko kunigaikštis)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1321 m.'
   - '1327 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1321'
 date_end: '1327'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - dokumentas
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Venceslavas (Mazovijos ir Plocko kunigaikštis)
 
@@ -31,16 +27,21 @@ tags:
 Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, Mazovijos kunigaikštis]0.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, Mazovijos kunigaikštis]0.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, Mazovijos kunigaikštis]0.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Savo dviejuose
+    Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­
+    kus rašė, klydo įsivaizduodamas Gedimino mąstyseną Ma­
+    zovijos kunigaikščio atžvilgiu ir, matyt, net gerai nežinojo,
+    kas tuo metu buvo Mazovijos kunigaikštis. Savo dviejuose
     laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla-
     vas, Mazovijos kunigaikštis]0. Niekur nevaliojome rasti Ma­
     zovijos kunigaikščio tokiu vardu, tik žinome, kad tuo tarps­
@@ -52,9 +53,7 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
     V aniek arba Vanko Masovie Dux, bet dar irVVigand Marb.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

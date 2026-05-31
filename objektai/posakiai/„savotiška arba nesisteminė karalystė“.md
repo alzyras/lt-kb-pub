@@ -1,26 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: '„savotiška arba nesisteminė karalystė“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1386 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1386'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - posakis
   - valstybė
+amziai:
+  - 'XIV'
 ---
 # „savotiška arba nesisteminė karalystė“
 
@@ -29,13 +23,15 @@ tags:
 Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 1386 m. Lietuva nusipelno būti vadinama karalyste, tegu ir neturinti visų Vakarų pripažinimo atributų – savotiška arba nesisteminė karalystė.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 1386 m. Lietuva nusipelno būti vadinama karalyste, tegu ir neturinti visų Vakarų pripažinimo atributų – savotiška arba nesisteminė karalystė.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 1386 m. Lietuva nusipelno būti vadinama karalyste, tegu ir neturinti visų Vakarų pripažinimo atributų – savotiška arba nesisteminė karalystė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, drįstume teigti, kad bent jau
@@ -51,9 +47,7 @@ Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 138
     rus. deržava, vok. Grossmacht), o nuo jos iki imperijos – jau tik žingsnis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

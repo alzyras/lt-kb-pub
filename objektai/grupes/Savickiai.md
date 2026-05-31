@@ -1,26 +1,20 @@
 ---
 tipas: grupe
 pavadinimas: 'Savickiai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1555 m.'
   - '1583 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1555'
 date_end: '1583'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
+amziai:
+  - 'XVI'
 ---
 # Savickiai
 
@@ -29,13 +23,15 @@ tags:
 Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1555. Radvila tą mūrinį namą ir sklypą dovanojo savo
@@ -46,9 +42,7 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
     atiteko Neliubovičiams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -299,7 +299,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Danielius]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/daiktai/Kalavijai]]
@@ -309,7 +308,6 @@ Nenurodyta
 - [[objektai/daiktai/Seidokas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pėstininkas]]
 - [[objektai/daiktai/Šarvai]]
 - [[objektai/daiktai/Brūklys]]
 - [[objektai/daiktai/Skydas]]

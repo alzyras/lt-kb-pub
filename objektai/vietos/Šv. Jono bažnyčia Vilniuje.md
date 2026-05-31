@@ -1,35 +1,26 @@
 ---
 tipas: vieta
 pavadinimas: 'Šv. Jono bažnyčia Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1386 m.'
-  - '1426 m.'
   - '1427 m.'
   - '1571 m.'
   - '1667 m.'
   - '1668 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
 date_start: '1386'
 date_end: '1668'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - ordinas
   - vieta
+amziai:
+  - 'XIV'
+  - 'XVII'
 ---
 # Šv. Jono bažnyčia Vilniuje
 
@@ -38,58 +29,62 @@ tags:
 Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82. Jono bažnyčios Vilniuje įkūrimą ir jos prijungimą prie Akademijos kolegijos Vladislovo Jogailos valdymo laikais lietuvių tautos at­ vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta Šv. Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Jono bažnyčios Vilniuje įkūrimą ir jos prijungimą prie Akademijos kolegijos Vladislovo Jogailos valdymo laikais lietuvių tautos at­ vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta Šv.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Jono bažnyčia, ir 1667 metų lapkričio 19 dieną Vilniaus magistrato neteisingos pretenzijos Šv.'
-  pagrindžia:
-    - c-004
+
 - t-005
   teiginys: 'Protasevi­ čius šiam ordinui nupirko mūrinį namą netoli Švento Jono bažnyčios ir pritaikė jiems gyventi.'
   pagrindžia:
     - c-005
+
+- t-003
+  teiginys: 'Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.'
+  pagrindžia:
+    - c-003
+
 - t-006
   teiginys: 'Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65.'
   pagrindžia:
     - c-006
+
+- t-002
+  teiginys: 'Jono bažnyčios Vilniuje įkūrimą ir jos prijungimą prie Akademijos kolegijos Vladislovo Jogailos valdymo laikais lietuvių tautos at­ vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta Šv.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Jono bažnyčia, ir 1667 metų lapkričio 19 dieną Vilniaus magistrato neteisingos pretenzijos Šv.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.'
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
-    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
-    155
-
-    ## Puslapis 172
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
-    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
-    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
-    Stanislovas82.
+    Jono bažnyčia, ir 1667 metų lapkričio 19 dieną
+    Vilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­
+    čios atžvilgiu buvo išnagrinėtos, o 1668 metų gegužės 17 die­
+    ną karaliaus raštu galutinai patvarkyta ir Šv. Jono bažnyčios
+    užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
+
 - c-002
-  santrauka: 'Jono bažnyčios Vilniuje įkūrimą ir jos prijungimą prie Akademijos kolegijos Vladislovo Jogailos valdymo laikais lietuvių tautos at­ vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Jono bažnyčios Vilniuje įkūrimą ir
+    JONO BAŽNYČIĄ IR APIE TO PATIES VARDO
+    KOLEGIJĄ, TAIP PAT APIE VISUS PADALINIUS IR PASTATUS,
+    TĄ KOLEGIJĄ SUDARANČIUS; ISTORINIAI-TOPOGRAFINIAI
+    DUOMENYS PAIMTI IŠ BUVUSIO VILNIAUS EDUKACINĖS
+    KOMISIJOS ARCHYVO BYLŲ
+    A) Apie Šv. Jono bažnyčios Vilniuje įkūrimą ir
     jos prijungimą prie Akademijos kolegijos
     Vladislovo Jogailos valdymo laikais lietuvių tautos at­
     vertimui į šventąjį tikėjimą atminti Vilniuje 1386 m. įkurta
@@ -100,50 +95,11 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     pų duoto induito.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­ toriaus instancijai su visu turtu ir arkipresbiterio namais pri- 172 ## Puslapis 189 Il KNYGA jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tasai karalius 1571 metų
-    kovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro-
-    tasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­
-    toriaus instancijai su visu turtu ir arkipresbiterio namais pri-
-    172
 
-    ## Puslapis 189
-
-    Il KNYGA
-    jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Jono bažnyčia, ir 1667 metų lapkričio 19 dieną Vilniaus magistrato neteisingos pretenzijos Šv.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jono bažnyčia, ir 1667 metų lapkričio 19 dieną
-    Vilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­
-    čios atžvilgiu buvo išnagrinėtos, o 1668 metų gegužės 17 die­
-    ną karaliaus raštu galutinai patvarkyta ir Šv. Jono bažnyčios
-    užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
-  santrauka: 'Protasevi­ čius šiam ordinui nupirko mūrinį namą netoli Švento Jono bažnyčios ir pritaikė jiems gyventi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jų pastangos disputuoti su disidentais išties
@@ -154,13 +110,11 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     nėms statyboms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
 - c-006
-  santrauka: 'Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
@@ -174,8 +128,51 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     no protus65.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
+    lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
+    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
+    155
+
+    ## Puslapis 172
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
+    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
+    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
+    Stanislovas82.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jono brolijai priklausantiems,
+    kurie buvo įpareigoti rūpintis bažnyčios reikmėmis, pasta­
+    tais ir papuošimu, ad tenorem [pagal] sutartį, 1521 metų ba­
+    landžio 9 dieną sudarytą Vilniaus miesto su tos bažnyčios
+    arkipresbiterių Leonardu Rodijanu, o šviesiausiojo karaliaus
+    Žygimanto Augusto patvirtintą. Tasai karalius 1571 metų
+    kovo 10 dieną Šv. Jono bažnyčią atidavė kun. Valerijono Pro-
+    tasevičiaus, Vilniaus vyskupo, Akademijos kolegijos funda­
+    toriaus instancijai su visu turtu ir arkipresbiterio namais pri-
+    172
+
+    ## Puslapis 189
+
+    Il KNYGA
+    jungė prie Societatis JESU [Jėzaus Draugijos] kolegijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

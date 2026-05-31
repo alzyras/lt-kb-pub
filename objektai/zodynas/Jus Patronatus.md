@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Jus Patronatus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1581 m.'
   - '1651 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1581'
+date_end: '1651'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - sąvoka
 amziai:
   - 'XVI'
   - 'XVII'
-date_start: '1581'
-date_end: '1651'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
-tags:
-  - sąvoka
 ---
 # Jus Patronatus
 
@@ -29,13 +23,15 @@ tags:
 Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti nuolati­ nio vikaro pareigas, Vilniaus kapitula, Jus Patronatus teisės siūlyti į vikarus atsisako ir perleidžia Akademijos kolegijos Rektoriams tėvams jėzuitams, kas taip pat 1651 metų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti nuolati­ nio vikaro pareigas, Vilniaus kapitula, Jus Patronatus teisės siūlyti į vikarus atsisako ir perleidžia Akademijos kolegijos Rektoriams tėvams jėzuitams, kas taip pat 1651 metų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti nuolati­ nio vikaro pareigas, Vilniaus kapitula, Jus Patronatus teisės siūlyti į vikarus atsisako ir perleidžia Akademijos kolegijos Rektoriams tėvams jėzuitams, kas taip pat 1651 metų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jono bažnyčios
@@ -48,9 +44,7 @@ Kad bažnyčia būtų geriau tvarkoma ir būtų parinktas tinkamas asmuo užimti
     2 dieną patvirtinta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

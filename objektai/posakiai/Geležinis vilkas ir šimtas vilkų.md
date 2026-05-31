@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: 'Geležinis vilkas ir šimtas vilkų'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1429 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1429'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - pilis
   - posakis
   - upė
+amziai:
+  - 'XV'
 ---
 # Geležinis vilkas ir šimtas vilkų
 
@@ -30,13 +24,15 @@ tags:
 Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­ vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­ vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­ vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     48
@@ -74,11 +70,11 @@ Gedimi­ nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne regėjo 
     kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
     pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
     no Vilniumi pagal Vilnios upės vardą.
+    h i
+    XI Knyga, sk.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

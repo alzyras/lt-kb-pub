@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: '[Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne [Rankraštis]'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1338 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1338'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XIV'
 ---
 # [Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne [Rankraštis]
 
@@ -27,21 +21,22 @@ tags:
 Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad [Prätorius M.] Proetorius M.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad [Prätorius M.] Proetorius M.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     [Prätorius  M.]  Proetorius  M.  Deliciae  Prussiae  oder  Preussische  Schaubühne
     [Rankraštis].— MAB RS, F 129— 1338.
+       [Prätorius  M.]  Proetorius M.  Deliciae  Prussiae  oder  Preussische Schaubühne.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

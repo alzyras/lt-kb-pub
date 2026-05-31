@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - paprotys
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje
 
@@ -30,33 +24,73 @@ tags:
 Jis, pirmasis iš visų Lietuvos kuni­ gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­ šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10. 406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jis, pirmasis iš visų Lietuvos kuni­ gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­ šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Jis, pirmasis iš visų Lietuvos kuni­ gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­ šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Strijkovskis, 1. 406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+    Il
+    Gedimino laiškuose, rašytuose do­
+    minikonų ir Mažesniųjų brolių, ar­
+    ba pranciškonų, ordinams bei Han­
+    zos miestams, kurių autentiškas
+    1323 metais notaro parengtas doku­
+    mentas yra Karaliaučiaus Slaptaja-
+    -  •  -
+    20
+
+    ## Puslapis 37
+
+    I  KNYGA
+    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
+    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
+    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
+    me archyve ir kuriuos Kotzebue
+    išspausdino savo Prūsijos istorijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Jis, pirmasis iš visų Lietuvos kuni­ gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­ šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     -  •  -
@@ -86,46 +120,9 @@ Nenurodyta
     ją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    406, pri­
-    simena dar vieną Gedimino dukrą,
-    kuri esą buvusi anuomet garbingo
-    riterio Dovydo, Gardino kašteliono,
-    arba tiksliau kunigaikščio, viešpata­
-    vusio Gardino valdoje, žmona.
-    Il
-    Gedimino laiškuose, rašytuose do­
-    minikonų ir Mažesniųjų brolių, ar­
-    ba pranciškonų, ordinams bei Han­
-    zos miestams, kurių autentiškas
-    1323 metais notaro parengtas doku­
-    mentas yra Karaliaučiaus Slaptaja-
-    -  •  -
-    20
-
-    ## Puslapis 37
-
-    I  KNYGA
-    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
-    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
-    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
-    me archyve ir kuriuos Kotzebue
-    išspausdino savo Prūsijos istorijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

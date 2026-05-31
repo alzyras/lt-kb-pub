@@ -1,87 +1,49 @@
 ---
 tipas: saltinis
 pavadinimas: 'Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1388 m.'
   - '1507 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVI'
 date_start: '1388'
 date_end: '1507'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - saltinis
+amziai:
+  - 'XIV'
+  - 'XVI'
 ---
 # Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.)
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS. Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten gyvenančių, vardu vieną.
 
+Nenurodyta
+
 ## Teiginiai
-- t-001
-  teiginys: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten gyvenančių, vardu vieną.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ## Puslapis 210
 
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    V
-    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
-    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
-    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
-    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
-    PIRMADIENI, PRIEŠ TRIS KARALIUS
-    Viešpaties vardu Amen. Kad [įsivėlusi] klaida per nerū­
-    pestingumą dėl vykstančių reikalų kartais neatneštų kokios
-    nors skriaudos, atsirado protingas poreikis, kad tai būtų iš­
-    dėstyta raštu ir sutvirtinta ir patikimų liudytojų liudijimu
-    patvirtinta. Amžinai šio dalyko atminčiai mes, Žygimantas
-    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
-    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
-    nigaikštis. Supažindiname šiuo dabartiniu mūsų raštu, kam
-    apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje
-    kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje
-    stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten
-    gyvenančių, vardu vieną privilegiją su titulu ir antspaudu
-    šviesiausiojo kunigaikščio viešpaties ir pono Aleksandro, ar­
-    ba Vytauto, Lietuvos kunigaikščio ir paveldėtojo Gardine,
-    Brastoje, Drohičine, Lucke, Vladimire ir kitose žemėse,
-    prašydami, kad mes teises, laisves ir kitus jiems anoje privile­
-    gijoje priklausančius dalykus patvirtinti, sustiprinti ir su­
-    tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
-    turi būti parašyti: Viešpaties vardu Amen.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten gyvenančių, vardu vieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Supažindiname šiuo dabartiniu mūsų raštu, kam
@@ -119,8 +81,43 @@ tags:
     du būtų prileistas liudyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen. Kad [įsivėlusi] klaida per nerū­
+    pestingumą dėl vykstančių reikalų kartais neatneštų kokios
+    nors skriaudos, atsirado protingas poreikis, kad tai būtų iš­
+    dėstyta raštu ir sutvirtinta ir patikimų liudytojų liudijimu
+    patvirtinta. Amžinai šio dalyko atminčiai mes, Žygimantas
+    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
+    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
+    nigaikštis. Supažindiname šiuo dabartiniu mūsų raštu, kam
+    apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje
+    kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje
+    stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten
+    gyvenančių, vardu vieną privilegiją su titulu ir antspaudu
+    šviesiausiojo kunigaikščio viešpaties ir pono Aleksandro, ar­
+    ba Vytauto, Lietuvos kunigaikščio ir paveldėtojo Gardine,
+    Brastoje, Drohičine, Lucke, Vladimire ir kitose žemėse,
+    prašydami, kad mes teises, laisves ir kitus jiems anoje privile­
+    gijoje priklausančius dalykus patvirtinti, sustiprinti ir su­
+    tvirtinti teiktumės, o tos privilegijos reikalai tokiais žodžiais
+    turi būti parašyti: Viešpaties vardu Amen.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

@@ -57,7 +57,6 @@ Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio «Traid
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Boleslovas-Jurgis II]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]

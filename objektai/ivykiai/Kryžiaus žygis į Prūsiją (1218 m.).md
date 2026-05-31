@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kryžiaus žygis į Prūsiją (1218 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1218 m.'
   - '1219 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1218'
 date_end: '1219'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kraštas
   - popiežius
   - sutartis
+amziai:
+  - 'XIII'
 ---
 # Kryžiaus žygis į Prūsiją (1218 m.)
 
@@ -31,26 +25,31 @@ tags:
 Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiulį kryžiaus žygį į Prūsiją, kuriame dalyvavo „vokiečiai, čekai, moravai, danai, lenkai, pamarėnai“23, Živinbudo, reikia manyti, valdoma priešmindauginė Lietuva (susijungusi su Žemaitija) 1219 m. sudarė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai kurie faktai, mūsų nuomone, rodo, kad kovoje prieš danų, lenkų, vokiečių
@@ -64,9 +63,7 @@ Nenurodyta
     ir prūsų kraštą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -76,10 +76,6 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
   pagrindžia:
     - c-009
-- t-010
-  teiginys: 'Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
-  pagrindžia:
-    - c-010
 - t-011
   teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
   pagrindžia:
@@ -88,6 +84,10 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   teiginys: 'Iš Juodojoje Rusijoje užimtųjų sričių Min­ daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė Naugarduką.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: 'Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -220,23 +220,6 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-- c-010
-  santrauka: 'Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Sa-
-    piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
-    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
-    Alūkstoje, Daugpily, Jelgavoj ir kitur.
-
-    **Pijarų mokyklos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 - c-011
   santrauka: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -275,3 +258,20 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-013
+  santrauka: 'Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve, Alūkstoje, Daugpily, Jelgavoj ir kitur.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Sa-
+    piegos f-ja). Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+
+    **Pijarų mokyklos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013

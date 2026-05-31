@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kuno Lichtenšteinas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
@@ -20,31 +17,52 @@ tags:
 Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto, vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Didysis komtūras Kuno Lichtenšteinas mūšio pradžioje vedė Ordino svečių ir samdinių sunkiosios raitijos pleištą prieš lietuvius.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto, vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Didysis komtūras Kuno Lichtenšteinas mūšio pradžioje vedė Ordino svečių ir samdinių sunkiosios raitijos pleištą prieš lietuvius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Prasidėjus
+    Laikinu lietuvių vienišumu Vokiečių ordino vadovybė netruko pasinau-
+    doti. Ordino kariuomenė, išrikiuota trimis pleištais, iš kurių du – vienas
+    nukreiptas prieš lenkus, kitas – prieš lietuvius – sudarė frontą. Prasidėjus
     mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
     vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto, vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ordino kariuomenė, išrikiuota trimis pleištais, iš kurių du – vienas
+    nukreiptas prieš lenkus, kitas – prieš lietuvius – sudarė frontą. Prasidėjus
+    mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdinių, pleišto,
+    vedamo didžiojo komtūro Kuno Lichtenšteino, sunkiosios raitijos lavina.
+    Lietuvos kariuomenė šios lavinos spaudimą atlaikė valandą, bet patyrė di-
+    džiulių nuostolių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/komtūras]]

@@ -92,7 +92,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/Vakarų Bažnyčios schizma]]
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/zodynas/neofitas]]

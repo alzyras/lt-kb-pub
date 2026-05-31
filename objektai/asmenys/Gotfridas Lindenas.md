@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Gotfridas Lindenas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1377 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1377'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Gotfridas Lindenas
 
@@ -30,17 +26,20 @@ tags:
 Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23. Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanorių, sudegino Trakų paviete Se­ meliškes ir pašėlusiai veržėsi iki Vilniaus tvirtovių, tik ne­ pavykus staiga užimti gerai ginamo miesto, grįžo atgalios plėšti aplinkinių žemių23.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
@@ -55,13 +54,11 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
     baigoje Vilnius neišvengė seniai jam grėsusio pavojaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
@@ -75,9 +72,7 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
     mis prie Vilniaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -91,3 +86,4 @@ Ordino maršalas Gotfridas Lindenas, įsibrovęs su daugybe komtūrų ir savanor
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]
 - [[objektai/ivykiai/Vilniaus apgultis ir miesto padegimas (1377 m.)]]
+- [[objektai/zodynas/komtūras]]

@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'oficijolas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - sąvoka
@@ -26,13 +17,15 @@ tags:
 Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­ reigas oficijolo paprastai būdavo iškviečiami, teisiami ir ekskomunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­ mą, kadangi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­ reigas oficijolo paprastai būdavo iškviečiami, teisiami ir ekskomunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­ mą, kadangi.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­ reigas oficijolo paprastai būdavo iškviečiami, teisiami ir ekskomunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­ mą, kadangi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kad mus
@@ -60,12 +53,13 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
     ## Puslapis 396
 
     VILNIAUS MIESTO ISTORIJA// TOMAS
-    sententijs excommunicationis innodasset.
+    sententijs excommunicationis innodasset. idque contra vete­
+    rem morem, et privilegia urbi concessa, petentes suo, et Civi­
+    tatis praefatae nomine ut ab buiusmodi de novo usurpata Ca­
+    pituli iurisdictione liberi, et exempti pronunciarentur.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -76,7 +70,6 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 - [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/zodynas/Puslapis 77]]
-- [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]

@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'težino vienas dievas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -24,13 +15,15 @@ tags:
 Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai nesuvokiami.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai nesuvokiami.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai nesuvokiami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai koks nuostabus
@@ -40,9 +33,7 @@ Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, ku
     nesuvokiami.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -6,12 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1401 m.'
+  - '1418 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1401'
+date_end: '1418'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-31'
 tags:
@@ -99,10 +103,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginys: 'Katedra ir Vilniaus kapitula vėlei gavo iš Vladislovo Jogailos pavel­ dėjimo teise Panerius, kadaise Algirdui, o po jo Jogailai pri­ klausiusią valdą, be to, dar kitų mažesnių pajamų38.'
   pagrindžia:
     - c-018
-- t-019
-  teiginys: 'Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasiliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­ gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis.'
-  pagrindžia:
-    - c-019
 - t-020
   teiginys: 'Kitais metais (1397 m.) atvykęs į Lie­ tuvą, Vladislovas Jogaila, kartu su kunigaikščiu Vytautu, atlygindami Vilniaus vyskupui Andriui už tokį dorą jo pa­ sišventimą, negailint savęs ir turto, nepaisant daugybės pa­ vojų, tykančių skleidžiant krikščioniškąjį.'
   pagrindžia:
@@ -131,6 +131,10 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginys: 'Miesto sargyba ir policija, laikinai pri­ klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­ tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta magistratui - karaliaus Žygimanto 1522 metų įsakymu.'
   pagrindžia:
     - c-026
+- t-027
+  teiginys: 'Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasiliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­ gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis.'
+  pagrindžia:
+    - c-027
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­ dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios.'
@@ -587,30 +591,6 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
-- c-019
-  santrauka: 'Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasiliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­ gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris
-    karaliaus apie tą susitarimą jau buvo perspėtas49. Netrukus,
-    tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­
-    džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi-
-    liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
-    gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
-    valdovas, daugelis kunigaikščių ir bajorų. Pati karalienė Jad­
-    vyga stengėsi sutaikyti nuo seno besipykstančius pusbrolius -
-    Skirgailą su Vytautu: tad buvo sudarytos sutartys, kurių galia
-    vienas gavo Kijevo kunigaikštystę ir keletą pilių valdyti nuo­
-    savybės teise, o Lietuvos sostinė kartu su didžiuliais vals­
-    tybės žemių plotais atiteko įžymiajam kariui, kuris greit Al­
-    girdo sostui su kaupu sugrąžino senąją šlovę bei galybę50.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
 - c-020
   santrauka: 'Kitais metais (1397 m.) atvykęs į Lie­ tuvą, Vladislovas Jogaila, kartu su kunigaikščiu Vytautu, atlygindami Vilniaus vyskupui Andriui už tokį dorą jo pa­ sišventimą, negailint savęs ir turto, nepaisant daugybės pa­ vojų, tykančių skleidžiant krikščioniškąjį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -763,6 +743,30 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-026
+- c-027
+  santrauka: 'Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasiliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­ gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jis atvyksta į Vilnių, čia jį džiugiai sutinka Olesnickis, kuris
+    karaliaus apie tą susitarimą jau buvo perspėtas49. Netrukus,
+    tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­
+    džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasi-
+    liono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­
+    gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis
+    valdovas, daugelis kunigaikščių ir bajorų. Pati karalienė Jad­
+    vyga stengėsi sutaikyti nuo seno besipykstančius pusbrolius -
+    Skirgailą su Vytautu: tad buvo sudarytos sutartys, kurių galia
+    vienas gavo Kijevo kunigaikštystę ir keletą pilių valdyti nuo­
+    savybės teise, o Lietuvos sostinė kartu su didžiuliais vals­
+    tybės žemių plotais atiteko įžymiajam kariui, kuris greit Al­
+    girdo sostui su kaupu sugrąžino senąją šlovę bei galybę50.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
 
 ## Ryšiai
 ### Susiję objektai
@@ -817,10 +821,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 - [[objektai/zodynas/vaidilos, žyniai ir pranašai]]
 - [[objektai/zodynas/žiogriai statinių tvoros palisadai]]
 - [[objektai/asmenys/Vaidila]]
-- [[objektai/grupes/Jogailos giminė]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/asmenys/Andrius Važila]]
-- [[objektai/paprociai/Didžiojo kunigaikščio įvesdinimas į valdžią patepimu]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]
 - [[objektai/asmenys/Ona]]

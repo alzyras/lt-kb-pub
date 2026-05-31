@@ -1,16 +1,15 @@
 ---
 tipas: kokybės auditas
-pavadinimas: "Tuščių ir silpnų pastabų auditas - Lietuvos istorija (2013 m.) - 2026-05-14"
-statusas: reikia tęsti
+pavadinimas: 'Tuščių ir silpnų pastabų auditas - Lietuvos istorija (2013 m.) - 2026-05-14'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-audito_tipas: empty_or_weak_notes
-sukurta: '2026-05-14'
-atnaujinta: '2026-05-14'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
-# Auditas
+# Tuščių ir silpnų pastabų auditas - Lietuvos istorija (2013 m.) - 2026-05-14
 
 ## Vykdymo metaduomenys
+
 - knyga: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
 - source_file: `darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md`
 - modelis: unknown
@@ -29,6 +28,7 @@ atnaujinta: '2026-05-14'
   - `darbas/prompts/05_quality_control/04_audit_empty_or_weak_notes.md`
 
 ## Bendras verdiktas
+
 Šaltinio projekcija nepraeina tuščių ir silpnų pastabų patikros. Viešuose objektų įrašuose rasta 56 pastabos su šio šaltinio medžiaga, tačiau privatų ledžerį sudaro 3553 deduplikuoti įrašai, iš jų 2584 `unused` ir 969 `unclear`. Tai reiškia, kad dabartinė projekcija yra tik dalinė aprėptis, o silpniausia vieta yra ne vien trūkstama aprėptis, bet ir kelių jau sukurtų pastabų claim-level schema.
 
 Ankstesnis aprėpties auditas `tyrimai/auditai/Aprėpties spragų auditas - Lietuvos istorija (2013 m.) - 2026-05-14.md` lieka aktualus: žmonių kategorijoje viešų pastabų su šiuo šaltiniu nerasta, įvykių kategorijoje padengta tik `Mindaugo karūnacija (1253 m.)`, o kandidatų failuose yra šimtai nepanaudotų kūno teksto įrodymų.

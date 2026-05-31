@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1262 m.'
   - '1263 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1262'
 date_end: '1263'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - ordinas
   - pilis
   - sukilimas
+amziai:
+  - 'XIII'
 ---
 # Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)
 
@@ -31,18 +25,23 @@ tags:
 Dusburgietis teigia, kad štai Didžiojo prūsų sukilimo metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė Ordino užnugarį pavyslyje (III, 160).
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad štai Didžiojo prūsų sukilimo metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė Ordino užnugarį pavyslyje (III, 160).'
   pagrindžia:
@@ -50,8 +49,22 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
+    Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad štai Didžiojo prūsų sukilimo metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė Ordino užnugarį pavyslyje (III, 160).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Priešiškuose lietuviams
@@ -63,25 +76,7 @@ Nenurodyta
     sutriuškino kryžiuočius mūšio lauke (III, 123).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.) papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
-    Klaipėdos pilies apgulties eigoje (XIII a. 6-asis dešimtmetis)30. Priešiškuose lietuviams
-    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
-    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
-    Ordino užnugarį pavyslyje (III, 160).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -91,6 +86,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Sūduviai]]
 - [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Treniota]]

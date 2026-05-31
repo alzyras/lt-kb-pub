@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kazimieras IV'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1440 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1440'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - miestas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Kazimieras IV
 
@@ -30,21 +26,45 @@ tags:
 26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­. Atrodo, kad Kazimieras IV, kuris nepaprastai mėgo medžioti, vos tik tapęs Lenkijos karaliumi, pirmas pa­ sirinko ten medžioklės buveinę dėl artumo prie sostinės ir pirmas pasistatydino dvarą sau, savo dvariškiams ir medžiokliams. Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau, Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­ vo Rūdninkų vardą, kaip ir nuo jų.
 
 ## Teiginiai
-- t-001
-  teiginys: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Atrodo, kad Kazimieras IV, kuris nepaprastai mėgo medžioti, vos tik tapęs Lenkijos karaliumi, pirmas pa­ sirinko ten medžioklės buveinę dėl artumo prie sostinės ir pirmas pasistatydino dvarą sau, savo dvariškiams ir medžiokliams.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau, Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­ vo Rūdninkų vardą, kaip ir nuo jų.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pasiligojusi Vytauto žmona Julijona bu­
+    vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
+    me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto
+    vokiečių raštininko, šiandien negalima suprasti, kokia tai
+    buvo vieta. Kazimieras pamėgo Rūdninkus ir dažnai juose
+    buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
+    Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
+    atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
+    vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė. Vė­
+    liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­
+    da Rūdninkuose smagiai leisdavo laiką medžiodami.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-001
-  santrauka: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi yra ir
@@ -82,13 +102,11 @@ tags:
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Atrodo, kad Kazimieras IV, kuris nepaprastai mėgo medžioti, vos tik tapęs Lenkijos karaliumi, pirmas pa­ sirinko ten medžioklės buveinę dėl artumo prie sostinės ir pirmas pasistatydino dvarą sau, savo dvariškiams ir medžiokliams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai kaimas, išsidėstęs tarp dide­
@@ -102,33 +120,9 @@ tags:
     miero pirmtakų būtų užsiminęs apie Rūdninkus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau, Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­ vo Rūdninkų vardą, kaip ir nuo jų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pasiligojusi Vytauto žmona Julijona bu­
-    vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
-    me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto
-    vokiečių raštininko, šiandien negalima suprasti, kokia tai
-    buvo vieta. Kazimieras pamėgo Rūdninkus ir dažnai juose
-    buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
-    Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
-    atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
-    vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė. Vė­
-    liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­
-    da Rūdninkuose smagiai leisdavo laiką medžiodami.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

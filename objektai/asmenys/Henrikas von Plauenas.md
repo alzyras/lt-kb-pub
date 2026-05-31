@@ -38,11 +38,6 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
-- t-002
-  teiginys: 'Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie mūšio padarinius galėjo sužinoti apie liepos mėn.'
-  pagrindžia:
-    - c-002
-
 - t-003
   teiginys: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
   pagrindžia:
@@ -52,6 +47,10 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   teiginys: 'Henrikas von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­ dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­ rų Europos.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie mūšio padarinius galėjo sužinoti apie liepos mėn.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -69,32 +68,6 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-- c-002
-  santrauka: 'Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie mūšio padarinius galėjo sužinoti apie liepos mėn.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie
-    mūšio padarinius galėjo sužinoti apie liepos mėn. 17—18 d., grei­
-    tai nuvyko į Marienburgą, sudegino miestą, surinko apie 4.000
-    ```
-    (^1) ) Jeigu tiesa, kad kryžiuočiu nukautu 18,000, tai ir sąjungininkų žuvu­
-    sių skaičius turėtu būti didesnis. Ordinas, tur būt, norėdamas labiau są­
-    jungininkus įskųsti, žuvusiu saviškiu skaičių, matyt, kiek padidino.
-    (^2) ) Kiti priskaito 15.000—16.000, kas atrodo perdaug.
-
-
-    ```
-    — 88 —
-    ```
-    vyrų gynėjų ir su jais užsidarė pily.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 - c-003
   santrauka: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
@@ -161,6 +134,31 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-007
+  santrauka: 'Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie mūšio padarinius galėjo sužinoti apie liepos mėn.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie
+    mūšio padarinius galėjo sužinoti apie liepos mėn. 17—18 d., grei­
+    tai nuvyko į Marienburgą, sudegino miestą, surinko apie 4.000
+    ```
+    (^1) ) Jeigu tiesa, kad kryžiuočiu nukautu 18,000, tai ir sąjungininkų žuvu­
+    sių skaičius turėtu būti didesnis. Ordinas, tur būt, norėdamas labiau są­
+    jungininkus įskųsti, žuvusiu saviškiu skaičių, matyt, kiek padidino.
+    (^2) ) Kiti priskaito 15.000—16.000, kas atrodo perdaug.
+
+
+    ```
+    — 88 —
+    ```
+    vyrų gynėjų ir su jais užsidarė pily.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

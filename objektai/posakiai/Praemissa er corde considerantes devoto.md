@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Praemissa er corde considerantes devoto'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -24,13 +15,15 @@ tags:
 28 Viename Žygimanto dovanojimų, esančiame Vilniaus kapitulos archy­ ve, pareikšta: Praemissa er corde con­ siderantes devoto, Reverendo in Chris­ to Patri Domino Mathiae Episcopo Vilnen.
 
 ## Teiginiai
+
 - t-001
   teiginys: '28 Viename Žygimanto dovanojimų, esančiame Vilniaus kapitulos archy­ ve, pareikšta: Praemissa er corde con­ siderantes devoto, Reverendo in Chris­ to Patri Domino Mathiae Episcopo Vilnen.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '28 Viename Žygimanto dovanojimų, esančiame Vilniaus kapitulos archy­ ve, pareikšta: Praemissa er corde con­ siderantes devoto, Reverendo in Chris­ to Patri Domino Mathiae Episcopo Vilnen.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     28
@@ -65,9 +58,7 @@ tags:
     baigė šitiek metų trukę kryžiuočių puldinėjimai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

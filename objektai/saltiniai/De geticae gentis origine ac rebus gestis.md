@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'De geticae gentis origine ac rebus gestis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - mokslininkas
@@ -27,15 +18,22 @@ tags:
 Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vidivarii [vidivarijai], duotas Jornandeso (De geticae gentis origine ac rebus ges­ tis Cap. 5 [apie gotų genties kilmę ir karo žygius]); yra ne kokios nors vie­ nos tautos nomen gentile.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vidivarii [vidivarijai], duotas Jornandeso (De geticae gentis origine ac rebus ges­ tis Cap. 5 [apie gotų genties kilmę ir karo žygius]); yra ne kokios nors vie­ nos tautos nomen gentile.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vidivarii [vidivarijai], duotas Jornandeso (De geticae gentis origine ac rebus ges­ tis Cap. 5 [apie gotų genties kilmę ir karo žygius]); yra ne kokios nors vie­ nos tautos nomen gentile.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
     i
     Kol istorikai neįstengė rasti patiki­
     mos išvados apie lietuvių tautos
@@ -57,8 +55,6 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
     mas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

@@ -46,23 +46,22 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Todėl Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynaisiais Vandenimis ir paėmė Kijevą į savo valdžią.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Rogožos metraštyje nurodoma, kad 1363 m. rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: 'Todėl Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynaisiais Vandenimis ir paėmė Kijevą į savo valdžią.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rogožos metraštyje prie 1363 m. nurodoma, kad Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
@@ -108,51 +107,6 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Todėl Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynaisiais Vandenimis ir paėmė Kijevą į savo valdžią.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius
-    ties Mėlynaisiais Vandenimis ir paėmė Kijevą į savo valdžią.
-    Senasis kunigaikštis buvo pašalintas, o į jo vietą pasodintas
-    Algirdo sūnus Vladimiras.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
-    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
-    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
-    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
-    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
-    Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
-    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Rogožos metraštyje nurodoma, kad 1363 m. rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -170,3 +124,49 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Todėl Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynaisiais Vandenimis ir paėmė Kijevą į savo valdžią.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kijevas priklausė
+    Lietuvai jau Gedimino laikais, tačiau į jį vis dar kišos totoriai.
+    Todėl Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius
+    ties Mėlynaisiais Vandenimis ir paėmė Kijevą į savo valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
+    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
+    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ) teužvaldė
+    Vytautas.
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

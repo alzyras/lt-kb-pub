@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konradas Lichtenhagenas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1304 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1304'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Konradas Lichtenhagenas
 
@@ -28,13 +24,15 @@ tags:
 Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garteno, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano atėjo Brandenburgo komtūras Konradas Lichtenhagenas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garteno, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano atėjo Brandenburgo komtūras Konradas Lichtenhagenas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovėjo Gedimino pilis, ir, regis, netoli nuo Garteno, tai yra Gardino, valsčiaus ir pilies, į kurią tuojau po ano atėjo Brandenburgo komtūras Konradas Lichtenhagenas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmą kartą jį Dusburgas mini prie 1304 metų
@@ -53,11 +51,13 @@ Buvo tai Lietuvos ar Žemaitijos ir Prūsijos pasienio valsčius, kuriame stovė
     kovojo nuo ryto iki pat vidurdienio kalne priešais Gedimino
     e
     Chroniam Prussiae.
+    f
+    Kojelavičius Pagraudenę vadi-
+    na apylinkę Žemaitijoje: pograudien-
+    b C S 7/7 Samogitia agri.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'muitas tilto mokestis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - mokslininkas
@@ -27,45 +18,25 @@ tags:
 Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir išlaidas, kokias patyrė statydamas tiltą per upę, rinkti ir padengti tol, kol jam nesugrįš visas jo įdėtas kapita­ las. Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo. Tad tokiai prie­ glaudai ir joje gyvenantiems vargšams mes karališkąja malo­ ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­ kams atiduoti, dovanoti, paskirti ir užrašyti.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir išlaidas, kokias patyrė statydamas tiltą per upę, rinkti ir padengti tol, kol jam nesugrįš visas jo įdėtas kapita­ las.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Tad tokiai prie­ glaudai ir joje gyvenantiems vargšams mes karališkąja malo­ ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­ kams atiduoti, dovanoti, paskirti ir užrašyti.'
   pagrindžia:
     - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir išlaidas, kokias patyrė statydamas tiltą per upę, rinkti ir padengti tol, kol jam nesugrįš visas jo įdėtas kapita­ las.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nuo
-    šio muito arba mokesčio minėtam Ulrikui Hozijui leidome
-    visas lėšas ir išlaidas, kokias patyrė statydamas tiltą per upę,
-    rinkti ir padengti tol, kol jam nesugrįš visas jo įdėtas kapita­
-    las. O kai susigrąžins savo lėšas ir išlaidas, skirtas tilto staty­
-    bai, per minėtą muitą arba mokestį, davėme jam pavedimą
-    žodžiu, kad tolesnes pajamas ir pinigus, iš to muito nuo mi­
-    nėto tilto gautus ir surinktus viršum savo padarytų išlaidų,
-    jis nukreiptų statyti prieglaudos namams vargšams ir pasili­
-    gojusiems žmonėms prie Šv. Dominyko ordino brolių pa­
-    mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios,
-    kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­
-    ti ir pamaitinti bei prižiūrėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-001
+  teiginys: 'Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir išlaidas, kokias patyrė statydamas tiltą per upę, rinkti ir padengti tol, kol jam nesugrįš visas jo įdėtas kapita­ las.'
   pagrindžia:
-    - t-001
+    - c-001
+
+- t-002
+  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mes į jo vietą garbingąjį
@@ -98,13 +69,33 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
     mokestį, rinkti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nuo
+    šio muito arba mokesčio minėtam Ulrikui Hozijui leidome
+    visas lėšas ir išlaidas, kokias patyrė statydamas tiltą per upę,
+    rinkti ir padengti tol, kol jam nesugrįš visas jo įdėtas kapita­
+    las. O kai susigrąžins savo lėšas ir išlaidas, skirtas tilto staty­
+    bai, per minėtą muitą arba mokestį, davėme jam pavedimą
+    žodžiu, kad tolesnes pajamas ir pinigus, iš to muito nuo mi­
+    nėto tilto gautus ir surinktus viršum savo padarytų išlaidų,
+    jis nukreiptų statyti prieglaudos namams vargšams ir pasili­
+    gojusiems žmonėms prie Šv. Dominyko ordino brolių pa­
+    mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios,
+    kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­
+    ti ir pamaitinti bei prižiūrėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
-  santrauka: 'Tad tokiai prie­ glaudai ir joje gyvenantiems vargšams mes karališkąja malo­ ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­ kams atiduoti, dovanoti, paskirti ir užrašyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad tokiai prie­
@@ -131,9 +122,7 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
     priimti ir apgyvendinti, patogiai gyventi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

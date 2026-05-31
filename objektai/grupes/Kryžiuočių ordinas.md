@@ -1759,7 +1759,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   teiginys: 'Rygos arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą ginče su.'
   pagrindžia:
     - c-415
-
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -9855,6 +9854,29 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-387
+- c-416
+  santrauka: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'' ■^la ir toliau cit.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taip pat, jei bus [tarp jų] riterių ir ginklanešių, duosime
+    jiems pajamų ir žemės, kiek norės; pirkliams, meistrams, ra­
+    čiams, svaidomų pabūklų gamintojams, kurpiams ir [kitiems]
+    bet kokios srities amatininkams suteikiame laisvę; įeiti į mū­
+    sų žemę ir išeiti [iš jos] drauge su žmonomis, vaikais ir galvi­
+    jais be jokių rinkliavų arba muitų ir nedarant jokių kliūčių.
+    Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
+    dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad
+    užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,
+    •  -
+    55
+    C' ■^la ir toliau cit.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-388
 
 ## Ryšiai
 ### Susiję objektai
@@ -10150,7 +10172,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/posakiai/„Romos karaliaus garbei“]]
 - [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
 - [[objektai/autoriai/A. Kučinskas]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
@@ -10161,7 +10182,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/asmenys/Bansas]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Bernardas]]
 - [[objektai/asmenys/Bertoldas]]
@@ -10264,7 +10284,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/autoriai/V. Pašuta]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
@@ -10289,7 +10308,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/legatas]]
-- [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/Miera|miera]]
@@ -10311,7 +10329,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/vyskupystė]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/grupes/Čekai]]
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/daiktai/Šv. Jurgio vėliava]]
 - [[objektai/asmenys/Švitrigaila]]
@@ -10825,4 +10842,3 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]
 - [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]
 - [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]
-- [[objektai/posakiai/„niekieno neatsiklausdamas“]]

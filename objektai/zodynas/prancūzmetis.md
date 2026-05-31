@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'prancūzmetis'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,16 +15,15 @@ tags:
 Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė rusai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė rusai.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė rusai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pasitraukus Napoleono kariuomenei, tuojau buvo sugrąžinta
@@ -38,13 +34,29 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
     Apskritai per vadinamąjį prancūzmetį Lietuva labai nuken-
     tėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė ru-
     sai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė rusai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kad ir buvo caro paskelbta amnestija, ta-
+    čiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-
+    bėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir
+    atėmė dvarus.
+    Apskritai per vadinamąjį prancūzmetį Lietuva labai nuken-
+    tėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė ru-
+    sai. Apskaičiuojama, kad tikrojoje Lietuvoje (to meto Vilniaus
+    gubernijoje) turto buvo sunaikinta apie 20 milijonų rublių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

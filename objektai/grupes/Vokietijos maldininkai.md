@@ -1,9 +1,6 @@
 ---
 tipas: grupe
 pavadinimas: 'Vokietijos maldininkai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -12,19 +9,16 @@ datos:
   - '1304 m.'
   - '1307 m.'
   - '1316 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1302'
 date_end: '1316'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kraštas
   - valdovas
+amziai:
+  - 'XIV'
 ---
 # Vokietijos maldininkai
 
@@ -33,45 +27,46 @@ tags:
 Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę. Dusburgietis teigia, kad apie maldininkų atvykimą Pirmaisiais šio magistro vadovavimo metais, būtent 1307 viešpaties metais, atvyko į Prūsijos žemę šie kilmingi vyrai: valdovas Jonas iš Španheimo, grafas Adolfas iš Vintimelio, jaunesnysis bei vyresnysis Ditrichai iš Elnerio su savo. Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie maldininkų atvykimą Pirmaisiais šio magistro vadovavimo metais, būtent 1307 viešpaties metais, atvyko į Prūsijos žemę šie kilmingi vyrai: valdovas Jonas iš Španheimo, grafas Adolfas iš Vintimelio, jaunesnysis bei vyresnysis Ditrichai iš Elnerio su savo.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'
+
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie maldininkų atvykimą
+    Apie Medininkų valsčiaus apiplėšimą 1316 metais
 
-      1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
-    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
-    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
-    kitų kilmingųjų iš Reino.
-
-
-
-      555 Aprašomas 1302—1303 m.
+      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
+    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
+    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
+    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
+    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai
+    dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
+    riterius.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie maldininkų atvykimą Pirmaisiais šio magistro vadovavimo metais, būtent 1307 viešpaties metais, atvyko į Prūsijos žemę šie kilmingi vyrai: valdovas Jonas iš Španheimo, grafas Adolfas iš Vintimelio, jaunesnysis bei vyresnysis Ditrichai iš Elnerio su savo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie maldininkų atvykimą
+    296 (289). Apie maldininkų atvykimą
 
        Pirmaisiais šio magistro vadovavimo metais, būtent 1307 viešpaties metais, atvyko
     į Prūsijos žemę šie kilmingi vyrai: valdovas Jonas  iš Španheimo, grafas Adolfas  iš
@@ -87,31 +82,44 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
                 297 (290).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš Elnerio ir daug kitų kilmingųjų.'
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Medininkų valsčiaus apiplėšimą 1316 metais
+    Apie maldininkų atvykimą
 
-      Kai tas pats brolis Henrikas sugrįžo į Karaliaučių, išvydo ten daug maldininkų, atvykusių
-    iš Reino krašto, būtent: kilminguosius grafus iš Bergo ir iš Nuvenaro, riterį Arnoldą iš
-    Elnerio ir daug kitų kilmingųjų, su kuriais ir patraukė, vėl subūręs didelę kariuomenę,
-    į Medininkų valsčių bei  jį nusiaubė, du šimtus žmonių nukaudamas ar paimdamas  į
-    nelaisvę. Broliai neteko net penkiasdešimties vyrų nukautaisiais. Tuo metu, kai šitai
-    dėjosi, grafas iš Bergo prieš Medvėgalio pilį575 daug karių įšventino po brolių vėliava  į
-    riterius.
+      1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
+    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
+    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
+    kitų kilmingųjų iš Reino.
+
+
+
+      555 Aprašomas 1302—1303 m.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    288 (281). Apie maldininkų atvykimą
+
+      1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
+    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
+    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
+    kitų kilmingųjų iš Reino.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

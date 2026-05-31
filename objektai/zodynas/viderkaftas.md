@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'viderkaftas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - sąvoka
@@ -25,16 +16,18 @@ tags:
 O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 auksinų, todėl tasai t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 auksinų, todėl tasai t.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamaldoms viderkaftą mokėti, kasmet po 140 auksinų, todėl tasai t.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Juraha taip pat prie kole­
+    1756. Akademijos Rektorius t. Juraha taip pat prie kole­
     gijos pastarąją priskyrė, o kolegijos namą, vadintą Švarco,
     187
 
@@ -52,9 +45,7 @@ O kadangi tas mūras kadaise buvo įpareigotas už Uršulę ir Mauricijų pamald
     lo yra atiduodamas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

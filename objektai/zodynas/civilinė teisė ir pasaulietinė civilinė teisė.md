@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'civilinė teisė ir pasaulietinė civilinė teisė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
@@ -27,13 +18,15 @@ tags:
 Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera žinoti, kad pas mus ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems senjorams ir visam mūsų Vilniaus miesto auksakalių ce­ chui, buvo pakviestas garsusis Steponas Genseris, auksaka­ lys, tiek.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera žinoti, kad pas mus ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems senjorams ir visam mūsų Vilniaus miesto auksakalių ce­ chui, buvo pakviestas garsusis Steponas Genseris, auksaka­ lys, tiek.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šiuo raštu skel­ biame visiems ir kiekvienam, kam dera žinoti, kad pas mus ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems senjorams ir visam mūsų Vilniaus miesto auksakalių ce­ chui, buvo pakviestas garsusis Steponas Genseris, auksaka­ lys, tiek.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skel­
@@ -58,9 +51,7 @@ tags:
     (vert.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

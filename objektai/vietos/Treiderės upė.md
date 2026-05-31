@@ -1,29 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Treiderės upė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1298 m.'
   - '1500 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XV'
 date_start: '1298'
 date_end: '1500'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - pilis
   - vieta
+amziai:
+  - 'XIII'
+  - 'XV'
 ---
 # Treiderės upė
 
@@ -32,16 +26,21 @@ tags:
 Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas. Dusburgietis teigia, kad 551 Dab. Gauja, upė Latvijoje. Naujojo Malūno pilį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    1298 viešpaties
+    1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
+    kivirčai, kurie vienu metu taip įsiliepsnojo, kad broliai per pusantrų metų, neišvengiamos
+    būtinybės verčiami, devynis kartus su jais stojo į kovą. Nors viename susirėmime broliai
+    neatsilaikė, vis dėlto kituose, dievo galybės padedami, susilaukė sėkmės. 1298 viešpaties
     metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur
     paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei
     plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas, Livonijos žemės magistras,
@@ -51,8 +50,6 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
     1500 krikščionių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

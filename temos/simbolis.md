@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 23.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -36,9 +36,7 @@ Objektų skaičius: 23.
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
 - [[objektai/daiktai/Riterių vėliava]]
 - [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]
-- [[objektai/daiktai/Sutikimo vartai]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/daiktai/Vytauto ženklas]]
 - [[objektai/daiktai/Vėliavos]]
-- [[objektai/daiktai/Šv. Panelės paveikslas]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]

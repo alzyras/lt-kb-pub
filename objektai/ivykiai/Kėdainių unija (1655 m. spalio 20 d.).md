@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kėdainių unija (1655 m. spalio 20 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1655 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1655'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - unija
+amziai:
+  - 'XVII'
 ---
 # Kėdainių unija (1655 m. spalio 20 d.)
 
@@ -28,34 +22,41 @@ tags:
 Radvila buvo unijos su Lenkija nutraukimo ir sudarymo jos su Švedija šalininkas. Jo pastangomis unija buvo sudaryta Kėdainiuose 1655 m. spalio 20 d. Švedai visgi nevertino šios unijos ir jo lūkesčių nepateisino, J. Švedai visgi nevertino šios unijos ir jo lūkesčių nepateisino, J.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Radvila buvo unijos su Lenkija nutraukimo ir sudarymo jos su Švedija šalininkas.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Jo pastangomis unija buvo sudaryta Kėdainiuose 1655 m. spalio 20 d. Švedai visgi nevertino šios unijos ir jo lūkesčių nepateisino, J.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Švedai visgi nevertino šios unijos ir jo lūkesčių nepateisino, J.'
   pagrindžia:
     - c-003
 
+- t-001
+  teiginys: 'Radvila buvo unijos su Lenkija nutraukimo ir sudarymo jos su Švedija šalininkas.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Radvila buvo unijos su Lenkija nutraukimo ir sudarymo jos su Švedija šalininkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     J. Radvila ir lauko etmonas
@@ -64,18 +65,24 @@ Nenurodyta
     švedams prieš tai). J. Radvila buvo unijos su Lenkija
     nutraukimo ir sudarymo jos su Švedija šalininkas.
     Jo pastangomis unija buvo sudaryta Kėdainiuose
-    1655 m. spalio 20 d.
+    1655 m. spalio 20 d. Švedai visgi nevertino šios uni-
+    jos ir jo lūkesčių nepateisino, J. Radvila negavo jokių
+    reikšmingų pareigų, karinė pagalba suteikta nebuvo,
+    užimtoje teritorijoje švedai elgėsi kaip okupantai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Jo pastangomis unija buvo sudaryta Kėdainiuose 1655 m. spalio 20 d. Švedai visgi nevertino šios unijos ir jo lūkesčių nepateisino, J.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    J. Radvila ir lauko etmonas
+    V. Gosievskis 1655 m. pasirašė LDK pasidavimo Švedijai
+    aktą (didesnė dalis Lenkijos jau buvo pasidavusi
+    švedams prieš tai). J. Radvila buvo unijos su Lenkija
+    nutraukimo ir sudarymo jos su Švedija šalininkas.
     Jo pastangomis unija buvo sudaryta Kėdainiuose
     1655 m. spalio 20 d. Švedai visgi nevertino šios uni-
     jos ir jo lūkesčių nepateisino, J. Radvila negavo jokių
@@ -83,13 +90,11 @@ Nenurodyta
     užimtoje teritorijoje švedai elgėsi kaip okupantai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Švedai visgi nevertino šios unijos ir jo lūkesčių nepateisino, J.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švedai visgi nevertino šios uni-
@@ -103,9 +108,7 @@ Nenurodyta
     vadinamas išdaviku.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

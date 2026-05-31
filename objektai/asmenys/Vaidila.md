@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vaidila'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1380 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1380'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
   - miestas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vaidila
 
@@ -30,21 +26,25 @@ tags:
 Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­ ras Vaidila. Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti. Ati­ teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­ ras Vaidila.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Ati­ teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­ ras Vaidila.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­ ras Vaidila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogailos siekius pata­
@@ -59,13 +59,11 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir prisiekė Jogai­
@@ -86,13 +84,11 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Ati­ teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     I1l
@@ -112,9 +108,7 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
     pilies iki pat Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -137,5 +131,6 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 - [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
 - [[objektai/zodynas/žyniai vaidilos raganos]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/ivykiai/Vaidilos pakorimas Kęstučio įsakymu]]

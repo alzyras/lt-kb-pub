@@ -1,29 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Kroicburgas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1253 m.'
   - '1263 m.'
   - '1270 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1253'
 date_end: '1270'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - pilis
   - upė
   - vieta
+amziai:
+  - 'XIII'
 ---
 # Kroicburgas
 
@@ -32,62 +26,40 @@ tags:
 Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118). Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258. Dusburgietis teigia, kad 255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad 255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.'
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
   pagrindžia:
-    - c-004
+    - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
+  pagrindžia:
+    - c-001
+
 - t-005
   teiginys: 'Dusburgietis teigia, kad apie Kroicburgo pilies sugriovimą Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna, ilgai ir garbingai ten kovoję ir visiškai pristigę.'
   pagrindžia:
     - c-005
+
 - t-006
   teiginys: 'Dusburgietis teigia, kad , o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
   pagrindžia:
     - c-006
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    138), o jau po to aprašoma, kaip broliai pasitraukė
-    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118). Kartais chronologijos
-    nepaisoma dar labiau.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
-    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
-    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
-    ir Rezlio258.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad 255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     255 D.— Crucebergk, Cruceburgk, Jer.— Crûceburc; Kroicburgas (dab. Slavskoje)  į
@@ -97,31 +69,14 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
     299). Kroicburgas pastatytas 1253 m. (SRP, 1, p. 270, 280).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
-    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
-    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
-    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+
 - c-005
-  santrauka: 'Dusburgietis teigia, kad apie Kroicburgo pilies sugriovimą Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna, ilgai ir garbingai ten kovoję ir visiškai pristigę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Kroicburgo pilies sugriovimą
+    118 (113). Apie Kroicburgo pilies sugriovimą
 
        Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus
     metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna,
@@ -129,21 +84,65 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
     Sitai pajutę, prūsai pradėjo juos vytis ir kalavijais iškapojo visus, išskyrus du brolius.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Dusburgietis teigia, kad , o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
+
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    , o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
+    Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
+    nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
+    tikėjimui ir broliams254. Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
+    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
+    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
+    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
+    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
+    daug brolių ir ginklanešių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
+    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
+    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
+    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118). Kartais chronologijos
+    nepaisoma dar labiau.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    „Eime, sakė, išnaikinsime juos, kad šios tautos nebebūtų ir net Izraelio vardo
+    niekas nebeminėtų“. Todėl, norėdami visiškai išnaikinti viešpaties žmones, jie susibūrė
+    ir apgulė Karaliaučiaus, Kroicburgo bei Bartenšteino pilis. Kiekvieną pilį apsupo trimis
+    stipriais kuorais [tria propugnacula], kur budėjo kariai, karingi ir įgudę kariauti, todėl
+    apsuptieji negalėjo nei įeiti, nei išeiti iš pilies.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-006
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Petro  iš Dusburgo kronikoje ne viskas išdėstyta chronologine tvarka, pvz.,  pilių
+    statyba. Apžvelgiant Didžiojo prūsų sukilimo laikus, iš pradžių (nedatuojant) kalbama
+    apie Tepliavos  ir Lochštetės pilių pastatymą (III, 112) (iš analų žinome, jog pirmoji
+    pastatyta 1265 m.., o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
     iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006

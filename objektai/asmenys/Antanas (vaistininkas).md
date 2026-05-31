@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Antanas (vaistininkas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,19 @@ tags:
 Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    palūkanų. Taip pat buvo trys sidabriniai dubenys
+    18 dienos] už tris šimtus flor. Nuo to
+    20 flor. palūkanų. Taip pat buvo trys sidabriniai dubenys
     442
 
     ## Puslapis 459
@@ -42,9 +36,7 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
     pas poną vaistininką Antaną a die 10 Julii ad diem 18 Aug.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -62,7 +54,6 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
 - [[objektai/autoriai/Antanas Kulakauskas]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/asmenys/Antanas Valionis]]
-- [[objektai/grupes/Antano Grušausko-Siaubo būrys]]
 - [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
 - [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
@@ -73,7 +64,6 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
 - [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/grupes/Gintaro rinktinė]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
-- [[objektai/posakiai/Jų spalva, ženklai ar pavadinimas mums neturėjo jokios reikšmės]]
 - [[objektai/grupes/Laikinoji Lenkijos vyriausybė Lietuvoje]]
 - [[objektai/grupes/Lenkijos karalystės kariuomenė]]
 - [[objektai/grupes/Liaudies vyriausybė]]

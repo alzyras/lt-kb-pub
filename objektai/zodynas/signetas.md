@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'signetas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
@@ -27,13 +18,15 @@ tags:
 Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kartų perskai­ tę ir išklausę, jį, kaip mūsų nuoširdžia ir gera valia bei palie­ pimu parašytą, mūsų signetu, kuriuo paprastai antspauduo­ davome slaptus raštus, užantspaudavome ir, kad.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kartų perskai­ tę ir išklausę, jį, kaip mūsų nuoširdžia ir gera valia bei palie­ pimu parašytą, mūsų signetu, kuriuo paprastai antspauduo­ davome slaptus raštus, užantspaudavome ir, kad.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kartų perskai­ tę ir išklausę, jį, kaip mūsų nuoširdžia ir gera valia bei palie­ pimu parašytą, mūsų signetu, kuriuo paprastai antspauduo­ davome slaptus raštus, užantspaudavome ir, kad.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai mūsų paskutinioji valia, bet gana
@@ -57,8 +50,6 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
     Oną, trečias - Tikocino pilyje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

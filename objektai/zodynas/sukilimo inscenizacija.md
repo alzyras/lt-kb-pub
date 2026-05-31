@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'sukilimo inscenizacija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1923 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1923'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - sukilimas
   - sąvoka
   - tauta
+amziai:
+  - 'XX'
 ---
 # sukilimo inscenizacija
 
@@ -30,13 +24,15 @@ tags:
 Lietuvai liko sukilimo inscenizacijos scenarijus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
@@ -68,11 +64,25 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
     vokiečiai ir net britai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
+    tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-
+    tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
+    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
+    gauti gerus postus administracijoje. Lietuvai liko sukilimo inscenizacijos
+    scenarijus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

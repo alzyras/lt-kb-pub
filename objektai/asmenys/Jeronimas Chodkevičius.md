@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jeronimas Chodkevičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,13 +15,15 @@ tags:
 Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­ vos Didžiosios Kunigaikštystės arklidininkui Mikalojui Andriuševičiui ir.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­ vos Didžiosios Kunigaikštystės arklidininkui Mikalojui Andriuševičiui ir.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurininkui Jeronimui Chodkevičiui, Melniko seniūnui ir stalininkui Nikodemui Janavičiui iš Čechanovičių, Lietu­ vos Didžiosios Kunigaikštystės arklidininkui Mikalojui Andriuševičiui ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jonui, Polocko............................Stanislovui Jonui Da Vai­
@@ -41,9 +34,7 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
     ir pareigūnams, nuoširdžiai ištikimiems ir mieliems.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

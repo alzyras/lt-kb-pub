@@ -1,20 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XX'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - tauta
@@ -26,29 +16,35 @@ tags:
 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 167 Lietuvos piliečiai žydai ir lenkai Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 167 Lietuvos piliečiai žydai ir lenkai Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 167 Lietuvos piliečiai žydai ir lenkai Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -70,9 +66,7 @@ Nenurodyta
     matydami bendros strateginės partnerystės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

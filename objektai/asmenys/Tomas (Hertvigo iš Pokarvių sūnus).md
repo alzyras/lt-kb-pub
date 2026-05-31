@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Tomas (Hertvigo iš Pokarvių sūnus)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1322 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1322'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Tomas (Hertvigo iš Pokarvių sūnus)
 
@@ -29,16 +25,18 @@ tags:
 Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
+    122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
                                      mėje
 
       1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo
@@ -52,9 +50,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
         123.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -70,10 +66,8 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/grupes/Anglų riteriai]]
-- [[objektai/daiktai/Apgulties mašinos]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]
-- [[objektai/paprociai/Bažnytinių mėsinių nuoma ir laisva mėsos prekyba Vilniuje]]
 - [[objektai/paprociai/Bažnyčios pašventinimas per dideles iškilmes]]
 - [[objektai/daiktai/Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste]]
 - [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose]]
@@ -85,6 +79,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/asmenys/Boucicaut]]
 - [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
 - [[objektai/zodynas/Czopowe]]
+- [[objektai/autoriai/Detmaro Liubeko]]
 - [[objektai/posakiai/Didžiosios Spalio socialistinės revoliucijos]]
 - [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]
 - [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]
@@ -111,8 +106,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/asmenys/Gzovskis]]
 - [[objektai/asmenys/Henrikas Lankasteris]]
 - [[objektai/grupes/Herulai]]
-- [[objektai/grupes/Husitai]]
-- [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/ivykiai/Julijonos padėkos laiškas Pauliui Rusdorfui dėl gydomųjų gėrimų (1426 m. liepos 8 d.)]]
 - [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]
@@ -120,10 +113,10 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
-- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
 - [[objektai/autoriai/Karamzinas]]
 - [[objektai/daiktai/Kardinalijos namų kompleksas]]
 - [[objektai/daiktai/Karinės vėliavos ir ženklai]]
+- [[objektai/asmenys/Karolis Tryrietis]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Kiršenšteinai]]
 - [[objektai/asmenys/Kiršenšteinas]]
@@ -138,8 +131,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/daiktai/Lankai, strėlės ir šaudyklės]]
 - [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių Fondas]]
-- [[objektai/grupes/Lietuvių Katalikų Mokslo Akademija]]
 - [[objektai/paprociai/Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
@@ -165,16 +156,12 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
 - [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
 - [[objektai/daiktai/Mūrinė pilis]]
-- [[objektai/autoriai/Naruszewicz]]
-- [[objektai/autoriai/Naruszewicz Naruševičius]]
-- [[objektai/grupes/Normanai]]
 - [[objektai/posakiai/Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo]]
 - [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]
 - [[objektai/asmenys/Ona Jogailaitė]]
-- [[objektai/paprociai/Pabaisko bažnyčios dešimtinės, duoklių ir tarnybinių prievolių mokėjimo tvarka]]
-- [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]
 - [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
+- [[objektai/zodynas/Papilys suburbium]]
 - [[objektai/zodynas/Pataurininkis]]
 - [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
 - [[objektai/grupes/Perkūno garbintojai ir šventos ugnies saugotojai]]
@@ -197,24 +184,19 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/daiktai/Rykai]]
 - [[objektai/daiktai/Rūbai]]
 - [[objektai/daiktai/Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai]]
-- [[objektai/daiktai/Sienodaužiai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Skyrai]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
-- [[objektai/ivykiai/Stepono Batoro sprendimas dėl Vilniaus vyskupijos pavaldinių atleidimo nuo miesto cechų jurisdikcijos (1584 m.)]]
 - [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius]]
 - [[objektai/zodynas/Szosowe]]
 - [[objektai/asmenys/Tomas Akvinietis]]
-- [[objektai/ivykiai/Torno taika]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/daiktai/Trakų kunigaikščio žvėrynas]]
 - [[objektai/grupes/Tridento Sinodas]]
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/asmenys/Vaidila]]
 - [[objektai/ivykiai/Vaidilos pakorimas Kęstučio įsakymu]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
 - [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
@@ -251,17 +233,17 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
 - [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
-- [[objektai/zodynas/Vogt valdytojas]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
 - [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]
 - [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/paprociai/Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai]]
 - [[objektai/ivykiai/Vytauto karūnacijos sumanymo žlugimas po Olesnickio atsakymo]]
-- [[objektai/ivykiai/Vytauto totorių įkurdinimas Vilniuje ir prie Vokės]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/cesija ir decesija]]
 - [[objektai/zodynas/dešimtinė]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai]]
 - [[objektai/zodynas/disidentai reformatai reformatoriai]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]
@@ -272,6 +254,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/zodynas/indiktas]]
 - [[objektai/zodynas/kahalas]]
 - [[objektai/zodynas/klebonija]]
+- [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
 - [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai]]
 - [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]
@@ -282,6 +265,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/posakiai/metus ir dieną]]
 - [[objektai/zodynas/miesto magistrato pareigybės]]
 - [[objektai/zodynas/muitas thelonea]]
+- [[objektai/zodynas/neofitai]]
 - [[objektai/zodynas/oficijolas]]
 - [[objektai/zodynas/patepimas į valdžią]]
 - [[objektai/zodynas/pavietas]]
@@ -295,7 +279,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/zodynas/valstybingumo sąmonė]]
 - [[objektai/zodynas/viderkaftas]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]
 - [[objektai/zodynas/čiornai čiornyje liūdi]]
 - [[objektai/asmenys/Šach Achmedas]]
 - [[objektai/daiktai/Šv. Jurgio vėliava]]
@@ -308,7 +291,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]
 - [[objektai/paprociai/Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
-- [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
 - [[objektai/ivykiai/Žygimanto Augusto generalinio potvarkio dėl lietuviškų monetų paskelbimas (1572 m. kovo 26 d.)]]
 - [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]

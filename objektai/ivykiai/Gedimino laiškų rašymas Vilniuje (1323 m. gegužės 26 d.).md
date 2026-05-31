@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kraštas
   - kunigaikštis
   - miestas
+amziai:
+  - 'XIV'
 ---
 # Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)
 
@@ -30,29 +24,34 @@ tags:
 406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    406, pri­
+    Strijkovskis, 1. 406, pri­
     simena dar vieną Gedimino dukrą,
     kuri esą buvusi anuomet garbingo
     riterio Dovydo, Gardino kašteliono,
@@ -78,9 +77,7 @@ Nenurodyta
     išspausdino savo Prūsijos istorijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

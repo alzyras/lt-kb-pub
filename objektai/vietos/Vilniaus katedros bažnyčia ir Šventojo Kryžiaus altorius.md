@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
   - vyskupas
@@ -25,16 +16,18 @@ tags:
 -- • 418 ## Puslapis 435 IV KNYGA norime, kad po mūsų mirties keturis kartus per metus į mū­ sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­ čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­ tas, vieną tik to metų ketvirčio dieną.
 
 ## Teiginiai
+
 - t-001
   teiginys: '-- • 418 ## Puslapis 435 IV KNYGA norime, kad po mūsų mirties keturis kartus per metus į mū­ sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­ čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­ tas, vieną tik to metų ketvirčio dieną.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '-- • 418 ## Puslapis 435 IV KNYGA norime, kad po mūsų mirties keturis kartus per metus į mū­ sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­ čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­ tas, vieną tik to metų ketvirčio dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    manu propria.
+    Val erianus Episcopus Vilnen. manu propria.
     -- •
     418
 
@@ -55,8 +48,6 @@ tags:
     nuo Kristaus gimimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

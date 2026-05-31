@@ -238,7 +238,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos socialdemokratų partija]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Steigiamasis seimas]]

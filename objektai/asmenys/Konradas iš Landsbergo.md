@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konradas iš Landsbergo'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -27,33 +18,20 @@ tags:
 Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru. Dusburgietis teigia, kad juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Taigi pas
-    Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
-    Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
-    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
-    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad juos išklausęs, minėtasis valdovas Konradas, Lenkijos kunigaikštis, kaip jau esame sakę, nuodugniai visą reikalą apsvarstęs, be to, patartas 168 Dobrynė — deš.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Minėtoji valdovė po mūšio įsakė surinkti kovos lauke
@@ -63,11 +41,28 @@ Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė br
       168 Dobrynė — deš.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Todėl kunigaikštis pasiuntė pas
+    minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
+    jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais
+    klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
+    įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II  ir Vokietijos kunigaikščių,
+    kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą. Taigi pas
+    Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
+    Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
+    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
+    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

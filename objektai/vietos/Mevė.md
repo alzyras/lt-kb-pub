@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Mevė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1283 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1283'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - ordinas
   - pilis
   - privilegija
+amziai:
+  - 'XIII'
 ---
 # Mevė
 
@@ -30,17 +24,31 @@ tags:
 Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur. Dusburgietis teigia, kad 508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew), pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad 508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew), pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew),
+    pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Išklausęs abiejų šalių įrodymų,
@@ -57,21 +65,6 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
                214 (209).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad 508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew), pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    508 D.— castrum Gymewa, Jer.— Mêwe; vėliau — vok. Mewe, dab. Gnevas (Gniew),
-    pilis kair. Vyslos krante, statyta 1283 m. pradžioje (Ewald A.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

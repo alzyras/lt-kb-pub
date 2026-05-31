@@ -1,24 +1,18 @@
 ---
 tipas: daiktas
 pavadinimas: 'J. Zikaro skulptūra „Knygnešys“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1939 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1939'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XX'
 ---
 # J. Zikaro skulptūra „Knygnešys“
 
@@ -27,32 +21,41 @@ tags:
 Nors valdžia ir žandarai knygnešius gaudė ir baudė dar Knygnešys.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nors valdžia ir žandarai knygnešius gaudė ir baudė dar Knygnešys.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nors valdžia ir žandarai knygnešius gaudė ir baudė dar Knygnešys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nors valdžia ir žandarai knygnešius gaudė ir baudė dar
+    Susiformavo tvirta kontrabandinės
+    knygnešystės tradicija, ir į XIX a. pabaigą lietuvių kalba Rytprūsiuo-
+    se išleidžiamų ir į Lietuvą knygnešių atnešamų ir nelegaliai platinamų
+    knygų gausėjo. Nors valdžia ir žandarai knygnešius gaudė ir baudė dar
     Knygnešys. J. Zikaro skulptūra (1939 m.)
 
     L I E T U V O S  I S T O R I J A
@@ -61,9 +64,7 @@ Nenurodyta
     Lietuvą nesustabdė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

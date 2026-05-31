@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Meinhardas Saksas iš Kverfurto'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1289 m.'
   - '1294 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1289'
 date_end: '1294'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - pilis
   - tikėjimas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Meinhardas Saksas iš Kverfurto
 
@@ -31,87 +27,38 @@ tags:
 Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527. Dusburgietis teigia, kad meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai. Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
-  pagrindžia:
-    - c-004
+
 - t-005
   teiginys: 'Dusburgietis teigia, kad todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui, kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį ir ją iš pamatų.'
   pagrindžia:
     - c-005
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
+  pagrindžia:
+    - c-004
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Meinhardą, Prūsijos žemės magistrą
 
-       Brolis Meinhardas Saksas  iš  Kverfurto,  tryliktas  Prūsijos  magistras, vadovavo
-    vienuolika metų527. Kaip šlovingai jis ėjo savo pareigas, liudija šlovingi jo darbai, apie
-    kuriuos netrukus papasakosime. Jis garsėjo narsa. Drąsiai ėmėsi tokių sunkių darbų,
-    apie kuriuos kitas bijojo ir pagalvoti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dėl to jis kėlė siaubą visiems priešams, nes jų
-    negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.
-
-
-
-
-                  235 (228).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Ragainės ir Skalvių pilių pastatymą
-
-      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
-    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
-    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
-    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
-    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
-    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
-    su 40 brolių ir šimtu rinktinių ginklanešių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
-  santrauka: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginimą Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas, magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei gyventi neatsižadėjo, subūrė galybę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Junigedos ir Pieštvės pilių papilių sudeginimą
+    254 (247). Apie Junigedos ir Pieštvės pilių papilių sudeginimą
 
     Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
     magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
@@ -120,13 +67,28 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Drąsiai ėmėsi tokių sunkių darbų,
+    apie kuriuos kitas bijojo ir pagalvoti. Dėl to jis kėlė siaubą visiems priešams, nes jų
+    negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai.
+
+
+
+
+                  235 (228).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-005
-  santrauka: 'Dusburgietis teigia, kad todėl brolis Meinhardas, magistras, gerai žinodamas, kad paklydimui, kuriam nesipriešinama, pritariama, o tas žmogus, kuris neužkerta kelio slapto sąmokslo keliamam pavojui, viešai palaiko nusikalstamą veiklą, subūrė daug karių, užėmė šią pilį ir ją iš pamatų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo sugriauta Mazovijos kunigaikščio pilis, kurią vadina Viz­
@@ -142,11 +104,58 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
     ir ją iš pamatų sugriovė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolį Meinhardą, Prūsijos žemės magistrą
+
+       Brolis Meinhardas Saksas  iš  Kverfurto,  tryliktas  Prūsijos  magistras, vadovavo
+    vienuolika metų527. Kaip šlovingai jis ėjo savo pareigas, liudija šlovingi jo darbai, apie
+    kuriuos netrukus papasakosime. Jis garsėjo narsa. Drąsiai ėmėsi tokių sunkių darbų,
+    apie kuriuos kitas bijojo ir pagalvoti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    235 (228). Apie Ragainės ir Skalvių pilių pastatymą
+
+      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
+    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-006
+  santrauka: 'Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Brolis Meinhardas Saksas iš Kverfurto, tryliktas Prūsijos magistras, vadovavo vienuolika metų527.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    234 (227). Apie brolį Meinhardą, Prūsijos žemės magistrą
+
+       Brolis Meinhardas Saksas  iš  Kverfurto,  tryliktas  Prūsijos  magistras, vadovavo
+    vienuolika metų527. Kaip šlovingai jis ėjo savo pareigas, liudija šlovingi jo darbai, apie
+    kuriuos netrukus papasakosime.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

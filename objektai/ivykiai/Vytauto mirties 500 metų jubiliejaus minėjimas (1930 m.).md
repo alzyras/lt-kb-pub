@@ -1,13 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
@@ -21,68 +18,92 @@ tags:
 1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus. Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto paveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietuvos miestuose ir. Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado – A.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto paveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietuvos miestuose ir.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado – A.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietu-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto paveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietuvos miestuose ir.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado – A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
+    Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
+    jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
+    A. Smetonos, tarsi ir antrojo Vytauto – valdomą Lietuvos valstybę. Svar-
     biausia Vytauto jubiliejinių renginių mintis – tautos vienybė per sukeltą
+    platų patriotinį sąjūdį, esama atrama šlovingoje pagoniškosios LDK pra-
+    eityje, ir pasiųsta žinia, kad Lietuva yra sena istorinė valstybė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vytauto tolerancija patiko tautinėms mažumoms –
+    juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-
+    kias Europoje jie gavo gerokai vėliau. Be to, Vytautas įkūnijo kiekvienam
+    lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
+    somybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva, kuri atsirado
+    iš anos Lietuvos ir atkūrė savo valstybę. LDK tradicija, lietuvių ir jų kuni-
+    gaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo
+    vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę. Valstybės ir
+    tautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietu-
+    vos didysis kunigaikštis, didis karo vadas, tautos genijus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

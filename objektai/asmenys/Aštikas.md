@@ -1,24 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Aštikas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1434 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1434'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Aštikas
 
@@ -27,16 +23,25 @@ tags:
 Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny­ bei ir pritariantiems: Vilniaus kašte­ lionui Aštikui, Vilniaus vaivadai Daugirdui, Trakų vaivadai Leliušiul, Kęsgailai iš Deltuvos, Petraš­ kai Montgirdaičiui, Chodkai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny­ bei ir pritariantiems: Vilniaus kašte­ lionui Aštikui, Vilniaus vaivadai Daugirdui, Trakų vaivadai Leliušiul, Kęsgailai iš Deltuvos, Petraš­ kai Montgirdaičiui, Chodkai.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny­ bei ir pritariantiems: Vilniaus kašte­ lionui Aštikui, Vilniaus vaivadai Daugirdui, Trakų vaivadai Leliušiul, Kęsgailai iš Deltuvos, Petraš­ kai Montgirdaičiui, Chodkai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    [Aktuota ir duota Tra­
+    Lelus-
+    chio Trocensi Palatinis, Kezygal de
+    Deuweltowo, Petraschio Montygerdo-
+    wicz, Chodkone Jurgeowicz, Iwaschko-
+    ne Gastoltowicz, Olechnowe Dowoyno-
+    wicz, et nobili Nicolao Curiae nostrae
+    notario quo praesentia habuit in com­
+    missis etc. [Aktuota ir duota Tra­
     kuose, Viešpaties metais 1434, ket­
     virtadienį, per Švč. Garbingosios
     Mergelės Marijos gimimo dieną
@@ -50,12 +55,12 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
     Olechnai Davainaičiui ir kilminga­
     jam mūsų rūmų raštininkui, kuriam
     dabartinis reikalas buvo patikėtas"
-    ir t. t.
+    ir t. t. Panašiai 1436 m. tas pats Žy­
+    gimantas Vilniaus kapitulai padova­
+    nojo Vainelgų dvarą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

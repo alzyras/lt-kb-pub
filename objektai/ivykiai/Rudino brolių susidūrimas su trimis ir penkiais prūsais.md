@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Rudino brolių susidūrimas su trimis ir penkiais prūsais'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
@@ -26,26 +17,31 @@ tags:
 Dusburgietis teigia, kad vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais, du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais, du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais neužtiks kur kokio priešo; juodu pasiklydo, o klaidžiodami susidūrė su trimis prūsais, du iš jų nukovė, o trečią paliko gyvą tam, kad juodu išvestų į tikrą kelią, tačiau.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Vienas Rudino brolis bei Martynas iš Golino jodinėjo dykromis, žvalgydamiesi, ar kartais
@@ -61,9 +57,7 @@ Nenurodyta
     kelio, sugrįžo į Rudino pilį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

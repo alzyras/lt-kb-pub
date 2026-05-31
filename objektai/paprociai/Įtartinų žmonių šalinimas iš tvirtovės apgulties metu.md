@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Įtartinų žmonių šalinimas iš tvirtovės apgulties metu'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - kunigaikštis
@@ -27,33 +18,40 @@ tags:
 Tas šaunus karys, išvaręs iš tvir­ tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­ čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­ liams. O bijodami iš­ davystės, iš savųjų tarpo galinčios rastis, rusus ir įtartinus žmones iš­ vijo iš pilies, patys narsiai gynėsi, o vokiečius, dieną ir naktį atakuojan­ čius, atremdami, tas vietas, kur mū­ rai nuo nuolatinio šaudymo griuvo, žeme ir mėšlu.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tas šaunus karys, išvaręs iš tvir­ tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­ čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­ liams.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'O bijodami iš­ davystės, iš savųjų tarpo galinčios rastis, rusus ir įtartinus žmones iš­ vijo iš pilies, patys narsiai gynėsi, o vokiečius, dieną ir naktį atakuojan­ čius, atremdami, tas vietas, kur mū­ rai nuo nuolatinio šaudymo griuvo, žeme ir mėšlu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tas šaunus karys, išvaręs iš tvir­ tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­ čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­ liams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ši Karigailos žūtis buvo dauge-
@@ -76,13 +74,11 @@ Nenurodyta
     liams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'O bijodami iš­ davystės, iš savųjų tarpo galinčios rastis, rusus ir įtartinus žmones iš­ vijo iš pilies, patys narsiai gynėsi, o vokiečius, dieną ir naktį atakuojan­ čius, atremdami, tas vietas, kur mū­ rai nuo nuolatinio šaudymo griuvo, žeme ir mėšlu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     35
@@ -125,9 +121,7 @@ Nenurodyta
     Długosz Histor.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

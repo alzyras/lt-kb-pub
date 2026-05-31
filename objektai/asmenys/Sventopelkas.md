@@ -932,7 +932,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/netikėliai]]

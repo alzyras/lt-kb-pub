@@ -81,10 +81,6 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   teiginys: 'Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose.'
   pagrindžia:
     - c-009
-- t-011
-  teiginys: 'Vygandas Marburgietis nurodė, kad lietuvių nuostoliai siekė daugiau kaip 7 000 belaisvių ir žuvusiųjų.'
-  pagrindžia:
-    - c-010
 - t-012
   teiginys: 'darė daug graudaus.“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja.'
   pagrindžia:
@@ -105,6 +101,10 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   teiginys: 'Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].'
   pagrindžia:
     - c-015
+- t-017
+  teiginys: 'p. 130, lie­ tuvių patirtų nuostolių iki 14 000 žmonių padaugina; oVygandas, žr.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -278,27 +278,6 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-- c-010
-  santrauka: 'Vygandas Marburgietis nurodė, kad lietuvių nuostoliai siekė daugiau kaip 7 000 belaisvių ir žuvusiųjų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    "
-    36
-    Długosz Histor. Polon. p. 130, lie­
-    tuvių patirtų nuostolių iki 14 000
-    žmonių padaugina; oVygandas,
-    žr. V o i g t, V, p. 548, nurodo tik
-    7000. Captivati et occisi sunt ultra 7 000,
-    pro majori parte paganorum [paimta į
-    nelaisvę ir nužudyta per 7 000, dau­
-    giausia pagonių].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
 - c-011
   santrauka: 'darė daug graudaus.“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -411,6 +390,27 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-016
+  santrauka: 'p. 130, lie­ tuvių patirtų nuostolių iki 14 000 žmonių padaugina; oVygandas, žr.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    "
+    36
+    Długosz Histor. Polon. p. 130, lie­
+    tuvių patirtų nuostolių iki 14 000
+    žmonių padaugina; oVygandas,
+    žr. V o i g t, V, p. 548, nurodo tik
+    7000. Captivati et occisi sunt ultra 7 000,
+    pro majori parte paganorum [paimta į
+    nelaisvę ir nužudyta per 7 000, dau­
+    giausia pagonių].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai

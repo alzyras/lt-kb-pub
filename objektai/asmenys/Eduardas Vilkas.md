@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Eduardas Vilkas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -18,30 +15,53 @@ tags:
 Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Eduardas Vilkas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Eduardas Vilkas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-
+    Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
+    Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
+    ekonomikai. Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-
     miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti
     Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už
     įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi būti mecha-
     ninė įmonių suma, kaip SSRS neturėtų būti mechaninė respublikų suma.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazimiera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
+    ekonomikai. Žinomi lietuvių ekonomistai Kazimieras Antanavičius, Kazi-
+    miera Prunskienė, Antanas Buračas, Eduardas Vilkas viešai ėmė svarstyti
+    Lietuvos kovos dėl ekonominio savarankiškumo klausimus, pasisakė už
+    įmonių savarankiškumą ir rinkos laisvę, kad respublika neturi būti mecha-
+    ninė įmonių suma, kaip SSRS neturėtų būti mechaninė respublikų suma.
+    „Suverenumo“ sąvoka pamažu keitėsi, kol kas nekalbėta apie politinės sis-
+    temos keitimą, o tautiniu klausimu
+    pasisakyta atsargiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

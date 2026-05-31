@@ -64,10 +64,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   teiginys: 'Po ilgokų derybų, per kurias vienų kitiems buvo pasakyta daug karčių žodžių, lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo 1 d.).'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.'
   pagrindžia:
@@ -84,10 +80,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   teiginys: 'Po tokių sostinės apsaugos priemonių karalius, į Vilnių atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais.'
   pagrindžia:
     - c-009
-- t-010
-  teiginys: 'Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio vestuves, būdamas Liubline, išleidau lie­ tuviškoms monetoms 7 flor., 4 grašius, 2 liet.'
-  pagrindžia:
-    - c-010
 - t-011
   teiginys: 'Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.'
   pagrindžia:
@@ -112,6 +104,14 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   teiginys: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
   pagrindžia:
     - c-016
+- t-017
+  teiginys: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio vestuves, būdamas Liubline, išleidau lie­ tuviškoms monetoms 7 flor., 4 grašius, 2 liet.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -186,25 +186,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1569 m. lietuvių ir lenkų delegacijos nuo
-    vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje. Lietuviai
-    pateikė savo – dviejų lygiateisių valstybių sąjungos – projektą, o lenkai siekė
-
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    65
-    prijungti Lietuvą. Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
-    Liublino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -274,22 +255,6 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-- c-010
-  santrauka: 'Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio vestuves, būdamas Liubline, išleidau lie­ tuviškoms monetoms 7 flor., 4 grašius, 2 liet.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­
-    vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
-    tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
-    Liubline nuo šimto zlotų palūkanų - 3 taleriai; sudaro
-    3 flor., 9 zl.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 - c-011
   santrauka: 'Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -407,3 +372,38 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1569 m. lietuvių ir lenkų delegacijos nuo
+    vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje. Lietuviai
+    pateikė savo – dviejų lygiateisių valstybių sąjungos – projektą, o lenkai siekė
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    65
+    prijungti Lietuvą. Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
+    Liublino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio vestuves, būdamas Liubline, išleidau lie­ tuviškoms monetoms 7 flor., 4 grašius, 2 liet.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­
+    vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
+    tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
+    Liubline nuo šimto zlotų palūkanų - 3 taleriai; sudaro
+    3 flor., 9 zl.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018

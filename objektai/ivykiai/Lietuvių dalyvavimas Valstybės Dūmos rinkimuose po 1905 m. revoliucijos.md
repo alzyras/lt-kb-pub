@@ -89,5 +89,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/grupes/Žydai]]

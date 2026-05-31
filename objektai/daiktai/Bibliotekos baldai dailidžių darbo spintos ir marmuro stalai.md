@@ -1,24 +1,18 @@
 ---
 tipas: daiktas
 pavadinimas: 'Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1746 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1746'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XVIII'
 ---
 # Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai
 
@@ -27,32 +21,42 @@ tags:
 1746 metais maloningieji tėvai Kazimieras ir Mykolas Vežbickiai, pirma apie 16 000 auksinų sumą dėję langams sutaisyti, dailidžių darbo spintoms įsigyti, marmuro stalams ir nutinkuoti mūrinį namą, vadinamą Liaudanskų, Turgaus --• - - 184 ## Puslapis 201 Il.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1746 metais maloningieji tėvai Kazimieras ir Mykolas Vežbickiai, pirma apie 16 000 auksinų sumą dėję langams sutaisyti, dailidžių darbo spintoms įsigyti, marmuro stalams ir nutinkuoti mūrinį namą, vadinamą Liaudanskų, Turgaus --• - - 184 ## Puslapis 201 Il.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1746 metais maloningieji tėvai Kazimieras ir Mykolas Vežbickiai, pirma apie 16 000 auksinų sumą dėję langams sutaisyti, dailidžių darbo spintoms įsigyti, marmuro stalams ir nutinkuoti mūrinį namą, vadinamą Liaudanskų, Turgaus --• - - 184 ## Puslapis 201 Il.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Jo Karališkosios Didenybės
+    F) Žinios apie Bibliotekai funduotus
+    pradinius turtus ir pajamas
+    Savo gyvavimo pradžioje biblioteka neturėjo jokių lėšų,
+    tik laikui bėgant iš įvairių Societatis JESU asmenų įgijo; taigi:
+    1623 metų rugpjūčio 13 diena. Jo Karališkosios Didenybės
     sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą
     Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­
     reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po
@@ -75,9 +79,7 @@ Nenurodyta
     knygų gausinimo dėlei.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

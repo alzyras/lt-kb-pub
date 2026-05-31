@@ -95,6 +95,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Baptista Cigala]]
 - [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]

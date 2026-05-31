@@ -1,24 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Haličas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1128 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 date_start: '1128'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
+amziai:
+  - 'XII'
 ---
 # Haličas
 
@@ -27,35 +22,42 @@ tags:
 Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.
 
 ## Teiginiai
+
+- t-002
+  teiginys: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
+  pagrindžia:
+    - c-002
+
 - t-001
   teiginys: 'Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Pasak Rusios kronikininkų, XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai.'
+
+- t-003
+  teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuva tapo
+    Lietuva tuo metu jau
+    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
+    civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
     politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
     tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
     buvę Voluinė ir Haličas, Kijevas, Pskovas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Pasak Rusios kronikininkų, XII a. Vilniaus gyventojai pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     PIRMOSIOS
@@ -81,8 +83,23 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
     išvijo į Graikiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
+    politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

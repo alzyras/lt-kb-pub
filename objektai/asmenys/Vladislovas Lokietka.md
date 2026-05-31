@@ -313,7 +313,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/grupes/Varmės kapitula]]
 - [[objektai/posakiai/„Romos karaliaus garbei“]]
-- [[objektai/zodynas/seniūnas]]
 - [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
 - [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
 - [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]

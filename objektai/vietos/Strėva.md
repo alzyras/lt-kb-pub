@@ -51,7 +51,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Atsitraukiančiai kariaunai priartėjus prie Strėvos upės Trakų paviete, ją tankiame miške iš pasalų apsupo žemaičių būriai.'
+  teiginys: 'Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.'
   pagrindžia:
     - c-004
 
@@ -111,7 +111,7 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Atsitraukiančiai kariaunai priartėjus prie Strėvos upės Trakų paviete, ją tankiame miške iš pasalų apsupo žemaičių būriai.'
+  santrauka: 'Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau

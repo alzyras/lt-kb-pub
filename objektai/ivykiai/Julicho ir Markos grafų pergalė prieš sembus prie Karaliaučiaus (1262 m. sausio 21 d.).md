@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1262 m.'
   - '1263 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1262'
 date_end: '1263'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)
 
@@ -30,52 +24,63 @@ tags:
 Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene. Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai; vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas, atbėgo su kruvinu kalaviju rankose pranešti apie pasalą. Dusburgietis teigia, kad prisiėjo tam reikalui pasikviesti į talką visus Karaliaučiaus brolius bei jų ginklanešius.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai; vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas, atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad prisiėjo tam reikalui pasikviesti į talką visus Karaliaučiaus brolius bei jų ginklanešius.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai; vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas, atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.'
+  pagrindžia:
+    - c-002
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašauta ši pergalė Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą už šiuos jo žodžius: švento Vincento.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria kariuomene.'
+
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
-    kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
-    pavakarę, jie atvyko į Karaliaučiaus pilį.
+    Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
+
+       Šį sembų  sutriuškinimą  išpranašavo  vienas  prūsas,  taip  tvirtai nusakydamas
+    Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą
+    už šiuos jo žodžius: švento Vincento dieną sembai būsią išžudyti. Kai tą dieną maldininkų
+    kariuomenė pradėjo trauktis, jis, apkaltintas melu, dar atkakliau laikėsi savo nuomonės
+    ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
+    praris nelyginant Dataną ir Abironą“. Šitaip ir įvyko, kaip buvo sakęs.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-004
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad brolių patariamas, jis pasiuntė į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai; vienas iš jų, vardu Stantekas, susidūrė su sembų sauga, tačiau nors sunkiai sužeistas, atbėgo su kruvinu kalaviju rankose pranešti apie pasalą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Brolių patariamas, jis pasiuntė  į priekį žvalgus, įsakydamas sužinoti, ar saugūs keliai;
@@ -93,13 +98,11 @@ Nenurodyta
     gana sunkiai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad prisiėjo tam reikalui pasikviesti į talką visus Karaliaučiaus brolius bei jų ginklanešius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prisiėjo tam reikalui pasikviesti  į talką visus Karaliaučiaus brolius bei jų
@@ -109,30 +112,23 @@ Nenurodyta
     metus įvyko Pokarvių kautynės.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip iš anksto buvo išpranašauta ši pergalė Šį sembų sutriuškinimą išpranašavo vienas prūsas, taip tvirtai nusakydamas Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą už šiuos jo žodžius: švento Vincento.'
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie tai, kaip iš anksto buvo išpranašauta ši pergalė
-
-       Šį sembų  sutriuškinimą  išpranašavo  vienas  prūsas,  taip  tvirtai nusakydamas
-    Karaliaučiaus broliams ateitį, kad rodėsi, jog kažkokia dvasia jį skatinanti guldyti galvą
-    už šiuos jo žodžius: švento Vincento dieną sembai būsią išžudyti. Kai tą dieną maldininkų
-    kariuomenė pradėjo trauktis, jis, apkaltintas melu, dar atkakliau laikėsi savo nuomonės
-    ir tarė: „Dar šiandien sembai bus išžudyti arba žemė pravers savo žiotis ir juos gyvus
-    praris nelyginant Dataną ir Abironą“. Šitaip ir įvyko, kaip buvo sakęs.
+    Todėl jie nuolankiai ir gailiai kėlė
+    akis  į dangų, su ašaromis šaukdamiesi viešpaties pagalbos,  ir viešpats jų išklausė.
+    Mat jis atsiuntė jiems Julicho grafą bei Markos grafą Engelbertą370 su didele ir stipria
+    kariuomene. 1262 viešpaties metais, švento Vincento išvakarėse (sausio 21), apie
+    pavakarę, jie atvyko į Karaliaučiaus pilį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -142,3 +138,4 @@ Nenurodyta
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/posakiai/Dar šiandien sembai bus išžudyti]]
+- [[objektai/asmenys/Engelbertas I]]

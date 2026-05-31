@@ -1,17 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Lietuvos kunigaikščių derybos dėl krikšto (krikštas)'
-sukurta: '2026-05-14'
-variantai:
-  - 'Lietuvos kunigaikščių derybos dėl krikšto'
-  - 'Kandidatas Lietuvos kunigaikščių derybos dėl krikšto'
-aliases:
-  - 'Lietuvos kunigaikščių derybos dėl krikšto'
-  - 'Kandidatas Lietuvos kunigaikščių derybos dėl krikšto'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - krikštas
@@ -25,31 +18,40 @@ tags:
 Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau kryžiaus karų epochos Europa, nebeleisdama savarankiško krikšto, tarsi atstūmė Lietuvą nuo krikščionybės.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau kryžiaus karų epochos Europa, nebeleisdama savarankiško krikšto, tarsi atstūmė Lietuvą nuo krikščionybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva
@@ -64,22 +66,40 @@ Nenurodyta
     kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
     leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
     nuo krikščionybės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Nors nebus nė vieno kunigaikščio, kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebeleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą nuo krikščionybės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors nebus nė vieno kunigaikščio,
+    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
+    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
+    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Netimeras]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]

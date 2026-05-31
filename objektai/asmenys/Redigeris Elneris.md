@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Redigeris Elneris'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1377 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1377'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Redigeris Elneris
 
@@ -30,13 +26,15 @@ tags:
 Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis magistras pasiuntė užimti tą miestą Ordino maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu Elneriu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
@@ -50,9 +48,7 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
     mis prie Vilniaus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

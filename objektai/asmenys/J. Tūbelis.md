@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'J. Tūbelis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,42 +15,50 @@ tags:
 Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai. Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Karinėje srityje
+    1935 m. balandį
+    S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
+    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
+    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
+    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
+    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
     S. Raštikis zondavo karinio bendradarbiavimo su Latvija ir Estija galimy-
     bes, pasisakė už trijų šalių karinę sąjungą, tačiau A. Smetona ir premjeras
     J. Tūbelis pareiškė, kad toks aljansas nebus naudingas Lietuvai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
+    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
+    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
+    Vilnius yra Lietuvos sostinė.
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
     netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
     Mironas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

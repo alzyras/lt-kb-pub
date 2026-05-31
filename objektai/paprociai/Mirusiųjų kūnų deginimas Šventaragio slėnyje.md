@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Mirusiųjų kūnų deginimas Šventaragio slėnyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1268 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1268'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - paprotys
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Mirusiųjų kūnų deginimas Šventaragio slėnyje
 
@@ -30,33 +24,40 @@ tags:
 Tas slėnis, vadintas Šventaragio, buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degin­ davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­ kimu tarnu, šunimis ir žirgu. Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tas slėnis, vadintas Šventaragio, buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degin­ davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­ kimu tarnu, šunimis ir žirgu.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Tas slėnis, vadintas Šventaragio, buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degin­ davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­ kimu tarnu, šunimis ir žirgu.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tas slėnis, vadintas Šventaragio, buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degin­ davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­ kimu tarnu, šunimis ir žirgu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ją saugojo ir kurstė žyniai, o jų vy­
@@ -75,16 +76,15 @@ Nenurodyta
     dikėlio Jėzaus ligoninė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    I. Esą
+    Franciszkanów Litew­
+    skich. Wilno 1740 in 8vo, skyr. I. Esą
     pirmasis toje vietovėje įkurdinęs gy­
     venvietę Germantas, vykdydamas
     savo tėvo, kunigaikščio Šventaragio,
@@ -106,9 +106,7 @@ Nenurodyta
     okratinio valdymo centrų tikrai galėjo būti8.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -268,6 +268,5 @@ Nenurodyta
 - [[objektai/grupes/NKVD]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/daiktai/Tanketė]]

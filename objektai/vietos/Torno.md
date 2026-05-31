@@ -46,14 +46,14 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginys: 'Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio prekybos.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Torno taika Ordinui buvo nepaprastai lengva.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Atvykę prie Torno pilies, kur buvo užsidaręs pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Torno taika Ordinui buvo nepaprastai lengva.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -100,23 +100,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Torno taika Ordinui buvo nepaprastai lengva.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    273
-    ```
-    1411 mt. Torno taika Ordinui buvo nepaprastai lengva.
-    Net Žemaitijos jis atsižadėjo tik lig gyvos Vytauto ir Jogailos
-    galvos^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Atvykę prie Torno pilies, kur buvo užsidaręs pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -130,3 +113,21 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Torno taika Ordinui buvo nepaprastai lengva.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    W„ 327.
+
+
+    ```
+    273
+    ```
+    1411 mt. Torno taika Ordinui buvo nepaprastai lengva.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

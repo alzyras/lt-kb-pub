@@ -83,14 +83,6 @@ Nenurodyta
   teiginys: 'Betgi pastaraisiais laikais, kelių vaisti­ ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip dabar (1780 metais).'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­ žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei­ kia tenebantur be užmokesčio gydyti ir duoti vaistų.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: '46 Aleksandras iš Balino Balinskis, Kro­ kuvos bajoraitis nuo Olkušo, pa­ skendęs alchemijoje, ėmė taip gar­ sėti savo gydymo sėkme, kad, nors vargšus ir Krokuvos miestiečius vel­ tui gelbėjęs patarimais bei vaistais, tačiau, kai ir turtingieji pradėjo prie.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.'
   pagrindžia:
@@ -99,6 +91,14 @@ Nenurodyta
   teiginys: 'Nors jų ginčai dėl karaliaus gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­ nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­ miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau tapo nuolatinės miesto vaistinės pradžia.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­ žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei­ kia tenebantur be užmokesčio gydyti ir duoti vaistų.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: '46 Aleksandras iš Balino Balinskis, Kro­ kuvos bajoraitis nuo Olkušo, pa­ skendęs alchemijoje, ėmė taip gar­ sėti savo gydymo sėkme, kad, nors vargšus ir Krokuvos miestiečius vel­ tui gelbėjęs patarimais bei vaistais, tačiau, kai ir turtingieji pradėjo prie.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -197,60 +197,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­ žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei­ kia tenebantur be užmokesčio gydyti ir duoti vaistų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    2 gr.
-    Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­
-    žymėtina], kad nemaža medikamentų dalis buvo išleista in
-    Collegio sergantiems asmenims, kuriuos vaistininkams rei­
-    kia tenebantur be užmokesčio gydyti ir duoti vaistų. O Colle­
-    gium, imdama iš vaistinės kas mėnesį po 100 auks.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: '46 Aleksandras iš Balino Balinskis, Kro­ kuvos bajoraitis nuo Olkušo, pa­ skendęs alchemijoje, ėmė taip gar­ sėti savo gydymo sėkme, kad, nors vargšus ir Krokuvos miestiečius vel­ tui gelbėjęs patarimais bei vaistais, tačiau, kai ir turtingieji pradėjo prie.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    678.
-    46
-    Aleksandras iš Balino Balinskis, Kro­
-    kuvos bajoraitis nuo Olkušo, pa­
-    skendęs alchemijoje, ėmė taip gar­
-    sėti savo gydymo sėkme, kad, nors
-    vargšus ir Krokuvos miestiečius vel­
-    tui gelbėjęs patarimais bei vaistais,
-    tačiau, kai ir turtingieji pradėjo prie
-    jo skverbtis, nevengdamas prisi­
-    kimšti kišenes, ėmęs nuo jų po 100
-    dukatų. Miechovita, Bielskis, o ypač
-    Strijkovskis savo metraščiuose, su­
-    pykę už karaliaus Aleksandro gydy­
-    mą Vilniuje, kuris vos neužduso per
-    ilgai laikomas stiprių žolių garo vo­
-    nioje, savo metraščiuose vadino jį
-    233
-
-    ## Puslapis 250
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    banga vėl plūstelėjo į Lietuvą, karalius Aleksandras, nors
-    ir nusilpęs, kad sutaikytų susipykusius bajorus su Glins­
-    kiu, savo numylėtiniu, ir paakintų juos atremti pagonis, pa­
-    judėjo iš Vilniaus į Lydą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: 'A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -304,6 +250,60 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­ žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei­ kia tenebantur be užmokesčio gydyti ir duoti vaistų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    2 gr.
+    Be aukščiau išvardintų pajamų ir išlaidų notandum [pa­
+    žymėtina], kad nemaža medikamentų dalis buvo išleista in
+    Collegio sergantiems asmenims, kuriuos vaistininkams rei­
+    kia tenebantur be užmokesčio gydyti ir duoti vaistų. O Colle­
+    gium, imdama iš vaistinės kas mėnesį po 100 auks.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: '46 Aleksandras iš Balino Balinskis, Kro­ kuvos bajoraitis nuo Olkušo, pa­ skendęs alchemijoje, ėmė taip gar­ sėti savo gydymo sėkme, kad, nors vargšus ir Krokuvos miestiečius vel­ tui gelbėjęs patarimais bei vaistais, tačiau, kai ir turtingieji pradėjo prie.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    678.
+    46
+    Aleksandras iš Balino Balinskis, Kro­
+    kuvos bajoraitis nuo Olkušo, pa­
+    skendęs alchemijoje, ėmė taip gar­
+    sėti savo gydymo sėkme, kad, nors
+    vargšus ir Krokuvos miestiečius vel­
+    tui gelbėjęs patarimais bei vaistais,
+    tačiau, kai ir turtingieji pradėjo prie
+    jo skverbtis, nevengdamas prisi­
+    kimšti kišenes, ėmęs nuo jų po 100
+    dukatų. Miechovita, Bielskis, o ypač
+    Strijkovskis savo metraščiuose, su­
+    pykę už karaliaus Aleksandro gydy­
+    mą Vilniuje, kuris vos neužduso per
+    ilgai laikomas stiprių žolių garo vo­
+    nioje, savo metraščiuose vadino jį
+    233
+
+    ## Puslapis 250
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    banga vėl plūstelėjo į Lietuvą, karalius Aleksandras, nors
+    ir nusilpęs, kad sutaikytų susipykusius bajorus su Glins­
+    kiu, savo numylėtiniu, ir paakintų juos atremti pagonis, pa­
+    judėjo iš Vilniaus į Lydą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -334,9 +334,6 @@ Nenurodyta
 - [[objektai/zodynas/špitolė prieglauda]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/autoriai/Bielskis]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
-- [[objektai/autoriai/Miechowita Miechovita]]
 - [[objektai/asmenys/Paulius Rusdorfas]]
-- [[objektai/autoriai/Puslapis 206]]

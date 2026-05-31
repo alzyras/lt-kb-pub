@@ -1584,6 +1584,18 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   teiginys: 'Pirmiausia jos tėvas pareikalavo, kad ji liktų pravoslavė; su ja į Vilnių buvo pasiųstas didokas skaičius Maskvos bajorų ir pravoslavų dvasininkų, kurie čia turėjo šnipinėti ir teikti žinias Maskvai.'
   pagrindžia:
     - c-349
+- t-350
+  teiginys: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  pagrindžia:
+    - c-350
+- t-351
+  teiginys: 'Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vyskupijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, Lucko ir Kijevo), steigėsi vienuolijos.'
+  pagrindžia:
+    - c-351
+- t-352
+  teiginys: 'Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV žemės ir 9 mln.'
+  pagrindžia:
+    - c-352
 
 ## Reikšmingi paminėjimai
 
@@ -8820,3 +8832,52 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-349
+- c-350
+  santrauka: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
+    ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
+    Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
+    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
+    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
+    trų vienuolynas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-350
+- c-351
+  santrauka: 'Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vyskupijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, Lucko ir Kijevo), steigėsi vienuolijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
+    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
+    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
+    tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
+    18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-351
+- c-352
+  santrauka: 'Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV žemės ir 9 mln.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda,
+    kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-
+    mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
+    1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
+    lį ir gavęs Imperatoriškojo universiteto statusą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-352

@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1533 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1533'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
   - privilegija
   - vyskupas
+amziai:
+  - 'XVI'
 ---
 # Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)
 
@@ -30,38 +24,67 @@ tags:
 Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo. Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti. Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.'
   pagrindžia:
     - c-004
 
+- t-002
+  teiginys: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nusprendėme ir šiuo raštu nu­
+    sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­
+    nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su
+    ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­
+    tintą Apaštalų Sosto, turėti ir ja laisvai naudotis gali ir pri­
+    valo. Ir todėl tos pačios kapitulos priimtas sprendimas eks­
+    komunikuoti miesto tarnus už plėšikavimą buvo gerai ir
+    pagal įstatymus mestas ir išplatintas. O Vilniaus gyvento­
+    jams jokia jurisdikcija pačių kapitulos valdinių atžvilgiu mū­
+    sų ar mūsų pirmtakų nėra suteikta. Ir todėl patiems ar jų
+    tarnams smurtu bet ką iš kapitulos valdinių namų imti ne­
+    buvo leista ir neleidžiama.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-001
-  santrauka: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu skelbiame visiems, kam da­
@@ -86,13 +109,11 @@ Nenurodyta
     civilinei įstaigai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
@@ -123,36 +144,11 @@ Nenurodyta
     paprotį, iki šiol tvirtai saugotą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Nusprendėme ir šiuo raštu nu­ sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­ nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­ tintą Apaštalų Sosto, turėti ir ja laisvai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nusprendėme ir šiuo raštu nu­
-    sprendžiame, kad Vilniaus katedros bažnyčios kapitula baž­
-    nytinėse jos pačios asmenų ir valdinių bylose jurisdikciją su
-    ekskomunikacijos teise, leistą Vilniaus vyskupų ir patvir­
-    tintą Apaštalų Sosto, turėti ir ja laisvai naudotis gali ir pri­
-    valo. Ir todėl tos pačios kapitulos priimtas sprendimas eks­
-    komunikuoti miesto tarnus už plėšikavimą buvo gerai ir
-    pagal įstatymus mestas ir išplatintas. O Vilniaus gyvento­
-    jams jokia jurisdikcija pačių kapitulos valdinių atžvilgiu mū­
-    sų ar mūsų pirmtakų nėra suteikta. Ir todėl patiems ar jų
-    tarnams smurtu bet ką iš kapitulos valdinių namų imti ne­
-    buvo leista ir neleidžiama.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: 'Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau, kad dėl Vilniaus miesto
@@ -195,9 +191,7 @@ Nenurodyta
     miestui teisių ir privilegijų, lieka laisvos vien tik piliečiams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
 

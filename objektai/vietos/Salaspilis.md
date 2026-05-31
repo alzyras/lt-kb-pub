@@ -27,6 +27,9 @@ datos:
   - '1919 m.'
   - '1936 m.'
   - '2026 m.'
+  - '1529 m.'
+  - '1566 m.'
+  - '1588 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
@@ -64,23 +67,22 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: '104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas, Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dalis švedų pėstijos ima bėgti ir bando slėptis Salaspilio bažnytėlėje.'
@@ -123,37 +125,54 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
+- c-006
+  santrauka: '104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas, Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    P. 104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas,
+    Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
   santrauka: 'Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    LDK politinės tautos prielaidas kūrė LDK karinės
+    Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
+    jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
     pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
     kuriose lietuviai kovojo petys į petį su rusėnais.
-    Iš įtakingiausių XVI a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
+    - t-007
+- c-008
   santrauka: '1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
+    Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
     Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
     Rygą ir užvaldė Baltijos pakrantes.
-    1605 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-005
+    - t-008
+- c-009
   santrauka: 'Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas Pociūnas 96 Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100 Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110 Chotino mūšis 1621 Arvydas Pociūnas 112 Smolensko apgultis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -201,17 +220,4 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: '104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas, Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    P. 104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas,
-    Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-009

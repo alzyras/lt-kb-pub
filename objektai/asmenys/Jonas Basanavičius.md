@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Basanavičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1851 m.'
   - '1927 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1851'
 date_end: '1927'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
   - tauta
+amziai:
+  - 'XIX'
+  - 'XX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Jonas Basanavičius
 
@@ -31,21 +27,25 @@ tags:
 Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indoeuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavičius (1851–1927). Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika. Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indoeuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavičius (1851–1927).'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indoeuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavičius (1851–1927).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai
@@ -56,16 +56,41 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
     čius (1851–1927).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m. Pirmoje eilėje iš kairės sėdi: kalbininkas Jonas Jablonskis, rašytoja Julija Žymantienė-Žemaitė, Petras Kriaučiūnas, dr. Jonas Basanavičius, Liudvika.'
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
+    KOVA DĖL NEPRIKLAUSOMYBĖS
+    Lietuvos planai: nuo autonomijos
+    iki nepriklausomybės
+    N
+    aują impulsą savo veiklai Europos šalių tautiniai są-
+    jūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriau-
+    dėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą
+    (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vo-
+    kietijos ir Austrijos–Vengrijos imperijos pradėjo karą prieš trilypę Pran-
+    cūzijos, Didžiosios Britanijos ir Rusijos imperijos Antantę. Vos tik Rusijai
+    iškėlus trijų imperijų pasidalytų lenkų klausimo sprendimą, lietuviai krūp-
+    telėjo – negi lenkams priklausys Suvalkų gubernijos lietuviai? Kai 1914 m.
+    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
+    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
+    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
+    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
+    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
+    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
     jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
     telkusi lenkiškai kalbančiuosius. Lietuvių mokslo draugijos iniciatorius ir
@@ -76,31 +101,14 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
 
     3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
     127
-    pirmininkas buvo J.
+    pirmininkas buvo J. Basanavičius,
+    jau šiuo laikotarpiu lietuvių visuo-
+    menės laikytas tautos patriarchu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kai 1914 m.
-    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
-    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
-    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
-    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
-    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

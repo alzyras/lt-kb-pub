@@ -1,31 +1,24 @@
 ---
 tipas: vieta
 pavadinimas: 'Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1200 m.'
   - '1337 m.'
   - '1346 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XIV'
 date_start: '1200'
 date_end: '1346'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - ordinas
   - valdovas
   - vieta
+amziai:
+  - 'XII'
+  - 'XIV'
 ---
 # Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė)
 
@@ -34,28 +27,58 @@ tags:
 Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo. Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš raudonų plytų. Pasak Prūsijos metrašti­ ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai 102 ## Puslapis 119 I KNYGA vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs jam pilies užėmimą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš raudonų plytų.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Pasak Prūsijos metrašti­ ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai 102 ## Puslapis 119 I KNYGA vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs jam pilies užėmimą.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš raudonų plytų.'
+  pagrindžia:
+    - c-002
+
 - t-004
   teiginys: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
   pagrindžia:
     - c-004
+
+- t-001
+  teiginys: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    O vis dėlto Vilniuje, galingos valstybės sostinėje,
+    Dabar Veliuona priklauso dvari­
+    ninkui Mykolui Zaleskiui.
+    Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­
+    burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­
+    varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­
+    dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su
+    kryžiuočiais dalyvavo daugelyje žygių į Lietuvą. Dabar Ba-
+    jerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo
+    žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš
+    raudonų plytų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Betgi toje epochoje, kai naujos civilizacijos
+    spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
+    nepaisant Lietuvos valdovų išmintingų siekių, karo reikalai
+    ir užgrobimai labiau už įstatymų leidimą ar krašto valdy­
+    mą visiems rūpėjo, dar skendint barbariškų laikų tamsoj ar­
+    gi galima laiduoti už bet kokių įstatymų pastovumą ir pati­
+    kimumą? O vis dėlto Vilniuje, galingos valstybės sostinėje,
     Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
     tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
     čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
@@ -75,37 +98,17 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     dinę keletą namų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dabar Bajerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš raudonų plytų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dabar Veliuona priklauso dvari­
-    ninkui Mykolui Zaleskiui.
-    Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­
-    burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­
-    varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­
-    dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su
-    kryžiuočiais dalyvavo daugelyje žygių į Lietuvą. Dabar Ba-
-    jerburgas vadinamas - Raudań, arba tiksliau Raudonė, nuo
-    žemaitiško žodžio „raudonas", mat jos sienos sumūrytos iš
-    raudonų plytų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Pasak Prūsijos metrašti­ ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi priešais jo pilį Veliuonoje, nusprendė juos iš ten išvyti, o kai 102 ## Puslapis 119 I KNYGA vienas prūsas, Bajerburgo pabėgėlis, prisiekė palengvinsiąs jam pilies užėmimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Į tą rūsį
+    Pilies kieme kadaise buvo gilus šulinys, gau­
+    siai vandens tiekiantis, - dabar visai užkastas, o po centri­
+    niu bokštu buvo rūsys, stačiai smengantis gilyn, matmenimis
+    į aukštį ir į plotį prilygstantis tam bokštui viršum jo. Į tą rūsį
     landa buvo tokia, kad tik po vieną žmogų tegalėjo įeiti, vei­
     kiausiai tai buvo pilies kalėjimas. Pasak Prūsijos metrašti­
     ninkų, Gediminas, matydamas, kad kryžiuočiai kuriasi
@@ -120,13 +123,11 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     metų birželio 15 d., sustojo ties Bajerburgu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rau­
@@ -180,8 +181,6 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     nyksta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004

@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Bernardas (Šv. Teofrido vienuolyno abatas)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1324'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - ordinas
   - popiežius
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Bernardas (Šv. Teofrido vienuolyno abatas)
 
@@ -30,16 +26,18 @@ tags:
 Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­ čionių 1324 metais Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą, įkalbėtas brolio Fridricho iš mažesniųjų brolių ordino, Rygos arkivyskupo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
+    356 (349). Apie apaštališkojo sosto legatus ir taiką, padarytą tarp netikėlių bei krikš­
                                        čionių 1324 metais
 
        Tais pačiais metais jo šventenybė Jonas XXII, popiežius, pasiuntė į Livonijos kraštą,
@@ -57,9 +55,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
     kad atvykę deramai pataisytų tai, kas atsitiko.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

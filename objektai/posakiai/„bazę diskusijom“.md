@@ -1,26 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: '„bazę diskusijom“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1921 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1921'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # „bazę diskusijom“
 
@@ -29,13 +23,15 @@ tags:
 Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -48,9 +44,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
     pritariančią Himanso planui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

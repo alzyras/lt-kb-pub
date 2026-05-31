@@ -1,30 +1,23 @@
 ---
 tipas: saltinis
 pavadinimas: 'Urbono VI bulė dėl Vilniaus katedros ir vyskupijos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1389 m.'
   - '1822 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XIV'
-  - 'XIX'
 date_start: '1389'
 date_end: '1822'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - pilis
   - popiežius
   - saltinis
+amziai:
+  - 'XIV'
+  - 'XIX'
 ---
 # Urbono VI bulė dėl Vilniaus katedros ir vyskupijos
 
@@ -33,17 +26,20 @@ tags:
 Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą. Tačiau Vilniaus diecezijos senųjų turto doVilnensis.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tačiau Vilniaus diecezijos senųjų turto doVilnensis.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rogėse pasislėpusiems žmonėms pavyko patekti į
@@ -59,13 +55,11 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
     šv. Stanislovo garbei, iškilmingai pripažinta katedra.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau Vilniaus diecezijos senųjų turto doVilnensis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau
@@ -75,8 +69,6 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
     Ecclesiae cathedral is, a Vladislao Rege ności, 1822,1. 870.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

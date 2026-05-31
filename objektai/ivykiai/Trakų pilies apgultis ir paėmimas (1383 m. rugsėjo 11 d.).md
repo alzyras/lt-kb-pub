@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1383 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1383'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)
 
@@ -29,26 +23,31 @@ tags:
 Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
@@ -61,9 +60,7 @@ Nenurodyta
     versta pasiduoti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -74,5 +71,6 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/daiktai/Bombardos]]
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/grupes/Vytauto šalininkai]]

@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kiščina (Vitebsko vaivadienė)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1534 m.'
   - '1538 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1534'
 date_end: '1538'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - privilegija
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Kiščina (Vitebsko vaivadienė)
 
@@ -31,16 +27,18 @@ tags:
 Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Miesto archyve: Žygimanto Seno­
+    Žr. Miesto archyve: Žygimanto Seno­
     jo privilegija, datuota Rūdninkuose,
     1534 metų liepos 4 dieną, ir kita, iš­
     samesnė, išleista Vilniuje, 1535 metų
@@ -66,9 +64,7 @@ Kiščina (Vitebsko vaivadienė) privalanti gerb­ ti.
     dintą Jeruzalimu, Paplaujoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

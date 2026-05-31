@@ -72,4 +72,3 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Užpelkių kautynės]]
-- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

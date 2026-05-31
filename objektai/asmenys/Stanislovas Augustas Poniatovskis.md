@@ -82,14 +82,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'KUNIGAIKŠTYSTĖ 3 Mūšio priešistorė Pasibaigus Saksų dinastijos (Augusto II Stipriojo (soste 1697-1733 m.) ir jo sūnaus Augusto III (soste 1733-1763 m.)) valdymui, kuris pasižymėjo vis didesnės ATR klimpimo į degradacijos ir stagnacijos liūną bei.'
-  pagrindžia:
-    - c-009
-- t-010
-  teiginys: 'Nors Lietuvos ir Lenkijos kariuomenės dar turėjo jėgų ir ryžto priešintis, tačiau karalius Stanislovas Augustas Poniatovskis Rusijos spaudžiamas sušaukė Gardine seimą, kuris (apsuptas Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir.'
-  pagrindžia:
-    - c-010
 - t-011
   teiginys: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   pagrindžia:
@@ -114,7 +106,14 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginys: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
   pagrindžia:
     - c-016
-
+- t-017
+  teiginys: 'KUNIGAIKŠTYSTĖ 3 Mūšio priešistorė Pasibaigus Saksų dinastijos (Augusto II Stipriojo (soste 1697-1733 m.) ir jo sūnaus Augusto III (soste 1733-1763 m.)) valdymui, kuris pasižymėjo vis didesnės ATR klimpimo į degradacijos ir stagnacijos liūną bei.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Nors Lietuvos ir Lenkijos kariuomenės dar turėjo jėgų ir ryžto priešintis, tačiau karalius Stanislovas Augustas Poniatovskis Rusijos spaudžiamas sušaukė Gardine seimą, kuris (apsuptas Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir.'
+  pagrindžia:
+    - c-018
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie „dar vieną tautą Europoje“.'
@@ -234,57 +233,6 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-- c-009
-  santrauka: 'KUNIGAIKŠTYSTĖ 3 Mūšio priešistorė Pasibaigus Saksų dinastijos (Augusto II Stipriojo (soste 1697-1733 m.) ir jo sūnaus Augusto III (soste 1733-1763 m.)) valdymui, kuris pasižymėjo vis didesnės ATR klimpimo į degradacijos ir stagnacijos liūną bei.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    KUNIGAIKŠTYSTĖ
-
-    3
-
-    Mūšio priešistorė
-
-    Pasibaigus Saksų dinastijos (Augus-
-
-    to II Stipriojo (soste 1697-1733 m.) ir jo
-    sūnaus Augusto III (soste 1733-1763 m.))
-    valdymui, kuris pasižymėjo vis didesnės
-    ATR klimpimo į degradacijos ir stagnacijos
-    liūną bei priklausomybės nuo kaimyninių
-    šalių didėjimu, ATR karaliumi 1764 m. buvo
-    išrinktas Čartoriskių giminės kandidatas
-    Stanislovas Augustas Poniatovskis, kuris
-    dar prieš tapdamas karaliumi buvo pa-
-    siuntiniu Rusijoje, kur suartėjo su Rusijos
-    valdove.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Nors Lietuvos ir Lenkijos kariuomenės dar turėjo jėgų ir ryžto priešintis, tačiau karalius Stanislovas Augustas Poniatovskis Rusijos spaudžiamas sušaukė Gardine seimą, kuris (apsuptas Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    160
-    Dunojus Vv
-    BudaO, Peštas
-
-    pasipriešinusias konservatyvias vidaus jėgas. Nors Lietuvos ir Lenkijos kariuomenės dar turėjo jėgų ir ryžto priešin-
-    tis, tačiau karalius Stanislovas Augustas Poniatovskis Rusijos spaudžiamas sušaukė Gardine seimą, kuris (apsuptas
-
-    Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir atšaukti konstituciją.
-
-    per Muchaveco upę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 - c-011
   santrauka: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -384,35 +332,73 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: 'KUNIGAIKŠTYSTĖ 3 Mūšio priešistorė Pasibaigus Saksų dinastijos (Augusto II Stipriojo (soste 1697-1733 m.) ir jo sūnaus Augusto III (soste 1733-1763 m.)) valdymui, kuris pasižymėjo vis didesnės ATR klimpimo į degradacijos ir stagnacijos liūną bei.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    KUNIGAIKŠTYSTĖ
+
+    3
+
+    Mūšio priešistorė
+
+    Pasibaigus Saksų dinastijos (Augus-
+
+    to II Stipriojo (soste 1697-1733 m.) ir jo
+    sūnaus Augusto III (soste 1733-1763 m.))
+    valdymui, kuris pasižymėjo vis didesnės
+    ATR klimpimo į degradacijos ir stagnacijos
+    liūną bei priklausomybės nuo kaimyninių
+    šalių didėjimu, ATR karaliumi 1764 m. buvo
+    išrinktas Čartoriskių giminės kandidatas
+    Stanislovas Augustas Poniatovskis, kuris
+    dar prieš tapdamas karaliumi buvo pa-
+    siuntiniu Rusijoje, kur suartėjo su Rusijos
+    valdove.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Nors Lietuvos ir Lenkijos kariuomenės dar turėjo jėgų ir ryžto priešintis, tačiau karalius Stanislovas Augustas Poniatovskis Rusijos spaudžiamas sušaukė Gardine seimą, kuris (apsuptas Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    atitekusi Rusijai
+
+    AUSTRIJA
+
+    Košice
+
+    .
+    160
+    Dunojus Vv
+    BudaO, Peštas
+
+    pasipriešinusias konservatyvias vidaus jėgas. Nors Lietuvos ir Lenkijos kariuomenės dar turėjo jėgų ir ryžto priešin-
+    tis, tačiau karalius Stanislovas Augustas Poniatovskis Rusijos spaudžiamas sušaukė Gardine seimą, kuris (apsuptas
+
+    Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir atšaukti konstituciją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Gardino seimas]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/abdikacija]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/didysis maršalas]]
-- [[objektai/zodynas/dignitoriai]]
-- [[objektai/zodynas/kapituliacija]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/santvarka]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas Augustas]]
+- [[objektai/grupes/Čartoriskiai]]
 - [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
+- [[objektai/zodynas/dignitoriai]]
 - [[objektai/posakiai/„yra dar viena tauta Europoje“]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]
-- [[objektai/ivykiai/1792 m. LLV ir Rusijos karas]]
-- [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]
-- [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
-- [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas|Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)]]
-- [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]

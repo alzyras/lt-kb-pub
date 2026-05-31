@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Pranciškus (popiežiaus legatas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,20 +18,30 @@ tags:
 Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti. Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
+  teiginys: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'''' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tiesa, arkivyskupui Isamui tarpininkaujant,
+    Viename jų, skirtame popiežiui ir kardinolams, Gediminas
+    prašo: esą jo pirmtakas karalius Mindaugas su visa savo tauta
+    būtų priėmęs krikščioniškąjį tikėjimą, tik kryžiuočių magist­
+    ro smurtas ir nesuskaičiuojamos išdavystės greit privertu-
+    sios nuo jo atsimesti, todėl jis vėl likęs prie savo tėvų tikėji­
+    mo, juk ne kartą jo pirmtakai siuntę pasiuntinius pas Rygos
+    arkivyskupus, kad tartųsi dėl santaikos, bet anie buvo žiau­
+    riai nužudyti. Tiesa, arkivyskupui Isamui tarpininkaujant,
     tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
     dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
     keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
@@ -51,13 +52,11 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
     ti pasiuntė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
@@ -78,9 +77,7 @@ Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivys
     ir minėtą bažnyčią sudegino.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

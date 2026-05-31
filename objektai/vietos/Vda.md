@@ -1,20 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vda'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'VD'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - upė
@@ -27,30 +17,31 @@ tags:
 Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių. Dusburgietis teigia, kad 286 Jer.— Bda, tai — upė Vda.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad 286 Jer.— Bda, tai — upė Vda.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     285 D.— Swecza, Svečė (Świecie)—kair. Vyslos krante, žemiau Kulmo, prie upės Vda
     žiočių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad 286 Jer.— Bda, tai — upė Vda.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     286 Jer.— Bda, tai — upė Vda.
@@ -61,8 +52,19 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
     nieko nepešusiems, pasitraukus, Sventopelkas, grįžęs atgal, pilį dar labiau sustiprino.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vyslos krante, žemiau Kulmo, prie upės Vda
+    žiočių.
+      286 Jer.— Bda, tai — upė Vda.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003

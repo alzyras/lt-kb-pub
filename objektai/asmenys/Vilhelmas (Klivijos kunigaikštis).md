@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vilhelmas (Klivijos kunigaikštis)'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -25,16 +16,20 @@ tags:
 Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visuotinam baž­ nyčios sinode Konstancijoj^2 ).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto vaidmenį ginant Europą nuo turkų.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visuotinam baž­ nyčios sinode Konstancijoj^2 ).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto vaidmenį ginant Europą nuo turkų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tų laikų visuomenė taip pat nematė Europoje kito žmo­
@@ -44,14 +39,32 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
     nyčios sinode Konstancijoj^2 ). Kaip Europos visuomenė vertino
     Vytauto nuopelnus, turime nemaža užsilikusių amžininkų liudi­
     jimų, kurių tarpe bene pirmą vietą tenka priskirti šv.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visuotinam baž­ nyčios sinode Konstancijoj^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Romos kurija labai teisingai manė, kad tik abu iškilę lie­
+    tuviai (Jogaila ir Vytautas) tepajėgtų tinkamai išspręsti husitų
+    klausimą, dėl kurio tiek daug negalės parodė imperatorius Zig­
+    mantas. Tų laikų visuomenė taip pat nematė Europoje kito žmo­
+    gaus, kaip tik Vytautą, kuris dar galėtų išgelbėti Europą nuo
+    turkų ir net atimti iš jų šventąją žemę. Tai buvo viešai užak­
+    centuota Klivijos kunigaikščio Vilhelmo ir kitų visuotinam baž­
+    nyčios sinode Konstancijoj^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Husitai]]
+- [[objektai/grupes/Romos kurija]]
 - [[objektai/grupes/Turkai]]

@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - ritualas
@@ -27,29 +18,35 @@ tags:
 Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs bažnytinių cenzūrų vengti ir paniekinti, kad ir kas jis būtų, ar katalikų tikėjimo, ar stačiatikių apeigų, atžvilgiu būtų praplėsta pasaulietinė valdžia, kurią suteikiame ponui.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs bažnytinių cenzūrų vengti ir paniekinti, kad ir kas jis būtų, ar katalikų tikėjimo, ar stačiatikių apeigų, atžvilgiu būtų praplėsta pasaulietinė valdžia, kurią suteikiame ponui.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat norime, kad to, kuris vienu ar kitu būdu daugiau kaip metus išdrįs bažnytinių cenzūrų vengti ir paniekinti, kad ir kas jis būtų, ar katalikų tikėjimo, ar stačiatikių apeigų, atžvilgiu būtų praplėsta pasaulietinė valdžia, kurią suteikiame ponui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, suteikiame dvasiškiams pilną ir ne­
@@ -76,9 +73,7 @@ Nenurodyta
     papročius, arba mūsų nuožiūra.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

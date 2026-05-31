@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1345 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1345'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
   - pilis
   - sutartis
+amziai:
+  - 'XIV'
 ---
 # Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)
 
@@ -30,26 +24,31 @@ tags:
 Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kivirčai tarp brolių da­
@@ -66,9 +65,7 @@ Nenurodyta
     dymą, kaip ir patį miestą, perleido į Algirdo rankas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

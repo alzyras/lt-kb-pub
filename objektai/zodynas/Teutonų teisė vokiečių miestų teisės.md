@@ -1,33 +1,23 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Teutonų teisė vokiečių miestų teisės'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1251 m.'
-  - '1253 m.'
-  - '1257 m.'
-  - '1280 m.'
-  - '1286 m.'
   - '1317 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1251'
 date_end: '1317'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - miestas
   - privilegija
   - sąvoka
+amziai:
+  - 'XIII'
+  - 'XIV'
 ---
 # Teutonų teisė vokiečių miestų teisės
 
@@ -36,13 +26,15 @@ tags:
 Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad jau
@@ -62,9 +54,7 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
     zacijos požiūriu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

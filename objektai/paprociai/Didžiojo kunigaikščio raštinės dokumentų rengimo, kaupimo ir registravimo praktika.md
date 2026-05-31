@@ -1,17 +1,10 @@
 ---
 tipas: paprotys
-pavadinimas: "Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika"
-sukurta: '2026-05-14'
-variantai:
-  - 'Kandidatas 28 Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika'
-  - 'Kandidatas Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika'
-aliases:
-  - 'Kandidatas 28 Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika'
-  - 'Kandidatas Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika'
+pavadinimas: 'Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
@@ -25,31 +18,40 @@ tags:
 Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis. Šis pareigūnas saugojo valstybės antspaudus, prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks raštas, prieštaraująs valstybės įstatymams.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos Metrikos dokumentai laikomi svarbiausiu LDK istorijos šaltiniu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos Metrikos dokumentai laikomi svarbiausiu LDK istorijos šaltiniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiojo kunigaikščio raš-
@@ -62,17 +64,37 @@ Nenurodyta
     tūros istorija, svarbiausias LDK istorijos šaltinis. Atsidūrusi Maskvoje ir
     iki šiol ten saugoma, ji tapo Lietuvos paveldo išbarstymo ar išgrobstymo
     simboliu, senosios Lietuvos valstybės likimo ženklu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Raštija
+    Formuojantis luominei LDK visuomenei ir susidarius su-
+    dėtingam valstybės valdymo aparatui, XIV–XV a. sandūroje skubiai pri-
+    reikė rašto. Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje
+    tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
+    didėjo. Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis
+    ir raštininkų mokyklomis. Jų veikla gerokai prisidėjo prie to, kad raštas
+    įsiskverbė į LDK bajorų ir miestiečių buitį. XV–XVI a. pradžios Lietuvos
+    kultūra kartais apibūdinama kaip raštinių kultūra.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Arabai]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/metrika]]
+- [[objektai/zodynas/raštinių kultūra]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

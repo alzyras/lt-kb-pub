@@ -1,28 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'lietuviška moneta ir lenkiški pinigai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1570 m.'
   - '1572 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1570'
 date_end: '1572'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - sąvoka
   - valstybė
+amziai:
+  - 'XVI'
 ---
 # lietuviška moneta ir lenkiški pinigai
 
@@ -31,73 +25,28 @@ tags:
 Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS KEIČIANT J LENKIŠKUS PINIGUS 1570 METAIS (Iš Dogelio rankraščių buv. In Anno 1572 ad Diem 17 Aprilis [1572 metais iki balandžio 17 dienos] A die 1 Januarii ad 9 Februarii [nuo sausio 1 iki vasario 9 dienos] per tą laiką Varšuvoje pakeičiau lietuviškas mone­ tas į lenkiškus pinigus - 164 zl., 36 gr. Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS KEIČIANT J LENKIŠKUS PINIGUS 1570 METAIS (Iš Dogelio rankraščių buv.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'In Anno 1572 ad Diem 17 Aprilis [1572 metais iki balandžio 17 dienos] A die 1 Januarii ad 9 Februarii [nuo sausio 1 iki vasario 9 dienos] per tą laiką Varšuvoje pakeičiau lietuviškas mone­ tas į lenkiškus pinigus - 164 zl., 36 gr.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS KEIČIANT J LENKIŠKUS PINIGUS 1570 METAIS (Iš Dogelio rankraščių buv.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS KEIČIANT J LENKIŠKUS PINIGUS 1570 METAIS (Iš Dogelio rankraščių buv.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Duota Gardine
-    artimiausią penktadienį prieš Sekmines, tūkstantis penki
-    šimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū­
-    sų karaliavimo devintaisiais.
-    Karalius Steponas
 
-    ## Puslapis 456
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS
-    KEIČIANT J LENKIŠKUS PINIGUS
-    1570 METAIS
-    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje)
-    Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30
-    grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1  Junii
-    [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo
-    Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
-    šius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'In Anno 1572 ad Diem 17 Aprilis [1572 metais iki balandžio 17 dienos] A die 1 Januarii ad 9 Februarii [nuo sausio 1 iki vasario 9 dienos] per tą laiką Varšuvoje pakeičiau lietuviškas mone­ tas į lenkiškus pinigus - 164 zl., 36 gr.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    In Anno 1572 ad Diem 17 Aprilis
-    [1572 metais iki balandžio 17 dienos]
-    A die 1  Januarii ad 9 Februarii [nuo sausio 1 iki vasario 9
-    dienos] per tą laiką Varšuvoje pakeičiau lietuviškas mone­
-    tas į lenkiškus pinigus - 164 zl., 36 gr. įvairiu laiku ir pagal
-    tai, kai kada pigiau, kai kada brangiau, išskyrus seimą, kur
-    lietuviškų monetų imti nenorėta, tik su išlaidomis, kurioms
-    priedo suma ir išlaidos lietuviškais pin. 144 kapų 54 gr. ir 8
-    [den.] sudaro lenkiškais pinigais 362 zl., 12 gr. 2 liet. den.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes, pasigailėję mūsų Lietuvos Didžiosios Kunigaikštystės pa­ valdinių dėl nuostolio, kurį savo Lietuvos monetų kalyklo­ je vietinėse mūsų Karalystės valstybėse iki šio laiko.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    —  369-
+    Fol. —  369-
     (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)
     Žygimantas Augustas ir 1.1. Visiems bendrai ir kiekvie­
     nam atskirai, kam tiktai reikės žinoti, pranešame, kad mes,
@@ -122,11 +71,54 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
     gale plačiau atlikta ir garantuota.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Duota Gardine
+    artimiausią penktadienį prieš Sekmines, tūkstantis penki
+    šimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū­
+    sų karaliavimo devintaisiais.
+    Karalius Steponas
+
+    ## Puslapis 456
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS
+    KEIČIANT J LENKIŠKUS PINIGUS
+    1570 METAIS
+    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje)
+    Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30
+    grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1  Junii
+    [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo
+    Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
+    šius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    In Anno 1572 ad Diem 17 Aprilis
+    [1572 metais iki balandžio 17 dienos]
+    A die 1  Januarii ad 9 Februarii [nuo sausio 1 iki vasario 9
+    dienos] per tą laiką Varšuvoje pakeičiau lietuviškas mone­
+    tas į lenkiškus pinigus - 164 zl., 36 gr. įvairiu laiku ir pagal
+    tai, kai kada pigiau, kai kada brangiau, išskyrus seimą, kur
+    lietuviškų monetų imti nenorėta, tik su išlaidomis, kurioms
+    priedo suma ir išlaidos lietuviškais pin. 144 kapų 54 gr. ir 8
+    [den.] sudaro lenkiškais pinigais 362 zl., 12 gr. 2 liet. den.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

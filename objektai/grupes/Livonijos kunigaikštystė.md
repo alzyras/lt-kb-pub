@@ -121,7 +121,6 @@ tags:
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]

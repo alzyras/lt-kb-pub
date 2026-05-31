@@ -1,29 +1,23 @@
 ---
 tipas: daiktas
 pavadinimas: 'Goštauto liepa'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1365 m.'
   - '1621 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVII'
 date_start: '1365'
 date_end: '1621'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - kunigaikštis
   - kunigas
   - tauta
+amziai:
+  - 'XIV'
+  - 'XVII'
 ---
 # Goštauto liepa
 
@@ -32,33 +26,58 @@ tags:
 Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkvietė, dar prieš 80 metų iki Jogailos viešpatavimo; o vienas medis, liepa, priešais seno­ sios bažnyčios duris, kurią pats Goš­ tautas savo rankomis buvo pasodinęs, kaip 1621 metais rašė. Petro baž­ nyčia tikriausiai pastatydinta Vladis­ lovo Jogailos laikais, visuotinės re­ ligijos kaitos laikais, ano Goštauto sūnaus, tos šventovės, visiems die­ vaičiams pašvęstos, vietoje.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkvietė, dar prieš 80 metų iki Jogailos viešpatavimo; o vienas medis, liepa, priešais seno­ sios bažnyčios duris, kurią pats Goš­ tautas savo rankomis buvo pasodinęs, kaip 1621 metais rašė.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Petro baž­ nyčia tikriausiai pastatydinta Vladis­ lovo Jogailos laikais, visuotinės re­ ligijos kaitos laikais, ano Goštauto sūnaus, tos šventovės, visiems die­ vaičiams pašvęstos, vietoje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau Šv. Petro baž­
+    nyčia tikriausiai pastatydinta Vladis­
+    lovo Jogailos laikais, visuotinės re­
+    ligijos kaitos laikais, ano Goštauto
+    sūnaus, tos šventovės, visiems die­
+    vaičiams pašvęstos, vietoje. Taigi iš­
+    likusią parapijoje senosios Goštau­
+    to Liepos vardo tradiciją galima būti
+    priskirti ir vėlesniam laikotarpiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkvietė, dar prieš 80 metų iki Jogailos viešpatavimo; o vienas medis, liepa, priešais seno­ sios bažnyčios duris, kurią pats Goš­ tautas savo rankomis buvo pasodinęs, kaip 1621 metais rašė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Čia pirmiau­
@@ -105,31 +124,9 @@ Nenurodyta
     nurodant pastatymo laiką.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Petro baž­ nyčia tikriausiai pastatydinta Vladis­ lovo Jogailos laikais, visuotinės re­ ligijos kaitos laikais, ano Goštauto sūnaus, tos šventovės, visiems die­ vaičiams pašvęstos, vietoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau Šv. Petro baž­
-    nyčia tikriausiai pastatydinta Vladis­
-    lovo Jogailos laikais, visuotinės re­
-    ligijos kaitos laikais, ano Goštauto
-    sūnaus, tos šventovės, visiems die­
-    vaičiams pašvęstos, vietoje. Taigi iš­
-    likusią parapijoje senosios Goštau­
-    to Liepos vardo tradiciją galima būti
-    priskirti ir vėlesniam laikotarpiui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -144,4 +141,3 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]

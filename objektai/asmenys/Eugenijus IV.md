@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Eugenijus IV'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1432 m.'
   - '1434 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1432'
 date_end: '1434'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - miestas
   - popiežius
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Eugenijus IV
 
@@ -31,13 +27,15 @@ tags:
 Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai, ką mūsų kronikininkai kal­
@@ -60,12 +58,15 @@ Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėlia
 
     I I I  KNYGA
     degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
-    miestiečių17.
+    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

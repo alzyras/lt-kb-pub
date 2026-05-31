@@ -1,28 +1,22 @@
 ---
 tipas: saltinis
 pavadinimas: 'Livonijos atstovų prieštaravimas dėl 1323 m. taikos'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1322 m.'
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1322'
 date_end: '1323'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - pilis
   - popiežius
   - saltinis
+amziai:
+  - 'XIV'
 ---
 # Livonijos atstovų prieštaravimas dėl 1323 m. taikos
 
@@ -31,37 +25,20 @@ tags:
 Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze ex parte regis praedicti Lethoviae, Eustoythen, Samaythen, Plescowe et omnes Rutheni (LUB, 2, Nr. 694, p. 154; plg. Dusburgietis teigia, kad livonijos atstovų prieštaravimo originale rašoma: van des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe und alle de Russen (LUB, 2, Nr. 694, p. 155).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze ex parte regis praedicti Lethoviae, Eustoythen, Samaythen, Plescowe et omnes Rutheni (LUB, 2, Nr. 694, p. 154; plg.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad livonijos atstovų prieštaravimo originale rašoma: van des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe und alle de Russen (LUB, 2, Nr. 694, p. 155).'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze ex parte regis praedicti Lethoviae, Eustoythen, Samaythen, Plescowe et omnes Rutheni (LUB, 2, Nr. 694, p. 154; plg.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Skirti aukštaičius nuo lietuvių paskatino
-    J. Otrembskio mintis, kad 1322 m. Gedimino sutartyje Lietuva dar neturėjusi vėlesnės
-    bendrinės reikšmės (Otrębski J., Gramatyka..., 1, p. 6; Balčikonis J., Rinktiniai..., 1, p.
-    322—323).
-      Norėtume pažymėti, kad  J. Otrembskls  nekritiškai pasirėmė  Livonijos  atstovų
-    prieštaravimo lotyniškojo vertimo fraze ex parte regis praedicti Lethoviae, Eustoythen,
-    Samaythen, Plescowe et omnes Rutheni (LUB, 2, Nr. 694, p. 154; plg. GL, p. 66, 68),
-    nepastebėdamas, kad ir šio teksto pradžioje apie Gediminą kalbama kaip apie lietuvių
-    karalių (Lethovinorum regem).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad livonijos atstovų prieštaravimo originale rašoma: van des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe und alle de Russen (LUB, 2, Nr. 694, p. 155).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Livonijos atstovų prieštaravimo originale rašoma: van
@@ -86,8 +63,24 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
     tekste — LUB, 2, Nr. 693, p. 151).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Skirti aukštaičius nuo lietuvių paskatino
+    J. Otrembskio mintis, kad 1322 m. Gedimino sutartyje Lietuva dar neturėjusi vėlesnės
+    bendrinės reikšmės (Otrębski J., Gramatyka..., 1, p. 6; Balčikonis J., Rinktiniai..., 1, p.
+    322—323).
+      Norėtume pažymėti, kad  J. Otrembskls  nekritiškai pasirėmė  Livonijos  atstovų
+    prieštaravimo lotyniškojo vertimo fraze ex parte regis praedicti Lethoviae, Eustoythen,
+    Samaythen, Plescowe et omnes Rutheni (LUB, 2, Nr. 694, p. 154; plg. GL, p. 66, 68),
+    nepastebėdamas, kad ir šio teksto pradžioje apie Gediminą kalbama kaip apie lietuvių
+    karalių (Lethovinorum regem).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001

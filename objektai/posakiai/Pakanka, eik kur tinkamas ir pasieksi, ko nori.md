@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Pakanka, eik kur tinkamas ir pasieksi, ko nori'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - posakis
@@ -25,16 +16,20 @@ tags:
 Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai padengia žemę.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai padengia žemę.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai padengia žemę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
+    Kai karalius jį paklausė, rodydamas
+    tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
+    nieku būdu. Tada sutraukė dvigubai tiek kariuomenės, o jis, ją matydamas, atsakė
     tais pačiais žodžiais; trečią kartą atžygiavo trigubai daugiau kariuomenės, o jam dar
     nepakako, galop atėjo visa likusi kariuomenė, taip tirštai padengdama ledą, kaip skėriai
     padengia žemę; kai karalius paklausė, ar šitiek kariuomenės pakanka, kad galėtum šį
@@ -43,9 +38,7 @@ Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją m
     ir kiemų322, nes nesirasią tokio, kas, pastebėjęs karaliaus vėliavą, išdrįstų jį skriausti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

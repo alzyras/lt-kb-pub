@@ -1,31 +1,24 @@
 ---
 tipas: grupe
 pavadinimas: 'Lenkų įgula Vilniaus Aukštutinėje pilyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1387 m.'
-  - '1388 m.'
   - '1390 m.'
   - '1827 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XIX'
 date_start: '1387'
 date_end: '1827'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - kunigaikštis
   - tauta
+amziai:
+  - 'XIV'
+  - 'XIX'
 ---
 # Lenkų įgula Vilniaus Aukštutinėje pilyje
 
@@ -34,29 +27,35 @@ tags:
 Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux. Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuviųlenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos. Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuviųlenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet niekas neįstengė palaužti lenkų narsos ir ištvermės Moskoževskio gynybos linijose.'
-  pagrindžia:
-    - c-004
+
 - t-005
   teiginys: 'Taip įvairioms kautynėms ir ginčams besitęsiant praėjo penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­ nėje pilyje33.'
   pagrindžia:
     - c-005
+
+- t-003
+  teiginys: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet niekas neįstengė palaužti lenkų narsos ir ištvermės Moskoževskio gynybos linijose.'
+  pagrindžia:
+    - c-004
+
+- t-001
+  teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
@@ -95,31 +94,11 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     Magdeburgo teisių tarp miestiečių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuviųlenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­
-    tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuvių-
-    lenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­
-    rios ir platų frontą rėpiančios gynybos. Tad visa lenkų įgula
-    ir dalis lietuvių pajėgų užsidarė tarp tuometinių Vilniaus
-    tvirtovių mūrų bei aptvarų27. Pagaliau 1390 metų rugsėjo 4
-    caut, fils du Marėchal de ce nom.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­ rūnos pakanclerio Mikalojaus Moskoževskio, o Kreivojoje pibuvo prisistatęs Vytautui stovyklo­ je prie Smolensko su bajorais ir, Vy­ tautui tą miestą užėmus, priėmė iš šio monarcho jam skirtą valdą -.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Ka­
@@ -167,13 +146,46 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     tikras brolis Kazimieras - kunigaikštis Karigaila.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Prancū­
+    zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o
+    imperatorių Vaclovą abiejų tautų teisėju pasirinkę32.
+    Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
+    penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­
+    nėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­
+    kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
+    riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi
+    ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­
+    imtų į nelaisvę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­
+    tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuvių-
+    lenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­
+    rios ir platų frontą rėpiančios gynybos. Tad visa lenkų įgula
+    ir dalis lietuvių pajėgų užsidarė tarp tuometinių Vilniaus
+    tvirtovių mūrų bei aptvarų27. Pagaliau 1390 metų rugsėjo 4
+    caut, fils du Marėchal de ce nom.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-004
-  santrauka: 'Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet niekas neįstengė palaužti lenkų narsos ir ištvermės Moskoževskio gynybos linijose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuolati­
@@ -191,32 +203,9 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     grėsmingesnė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Taip įvairioms kautynėms ir ginčams besitęsiant praėjo penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­ nėje pilyje33.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Prancū­
-    zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o
-    imperatorių Vaclovą abiejų tautų teisėju pasirinkę32.
-    Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
-    penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­
-    nėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­
-    kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
-    riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi
-    ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­
-    imtų į nelaisvę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Susiję objektai

@@ -172,4 +172,3 @@ Vilniaus miesto amatininkų cechas.
 - [[objektai/asmenys/Motiejus Porempskis]]
 - [[objektai/asmenys/Pilypas]]
 - [[objektai/asmenys/Pilypas Glazeris]]
-- [[objektai/paprociai/Auksakalių cecho paklusnumo ir amatų tvarkos reikalavimas]]

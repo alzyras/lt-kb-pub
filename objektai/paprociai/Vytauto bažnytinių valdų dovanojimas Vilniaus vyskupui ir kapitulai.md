@@ -1,28 +1,22 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1407 m.'
   - '1413 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1407'
 date_end: '1413'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - privilegija
   - valdovas
   - vyskupas
+amziai:
+  - 'XV'
 ---
 # Vytauto bažnytinių valdų dovanojimas Vilniaus vyskupui ir kapitulai
 
@@ -31,32 +25,41 @@ tags:
 1413 metais, 70 Tai keturios privilegijos, iki šiol išli­ kusios Vilniaus kapitulos archyve: 1- oji, rašyta Vilniuje, sabbato in festo Sancti Barnabae Apostoli, anno D-ni 1407 [šeštadienį Šv.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1413 metais, 70 Tai keturios privilegijos, iki šiol išli­ kusios Vilniaus kapitulos archyve: 1- oji, rašyta Vilniuje, sabbato in festo Sancti Barnabae Apostoli, anno D-ni 1407 [šeštadienį Šv.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1413 metais, 70 Tai keturios privilegijos, iki šiol išli­ kusios Vilniaus kapitulos archyve: 1- oji, rašyta Vilniuje, sabbato in festo Sancti Barnabae Apostoli, anno D-ni 1407 [šeštadienį Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    1413 metais,
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    vangėti. Didysis kunigaikštis betgi dosnia ranka vis didesnes
+    dovanas dalijo Vilniaus vyskupui ir kapitulai, o paliudijimų
+    apie tokį retą dosnumą išliko iki mūsų laiku70. 1413 metais,
     70
     Tai keturios privilegijos, iki šiol išli­
     kusios Vilniaus kapitulos archyve: 1-
@@ -75,9 +78,7 @@ Nenurodyta
     tis ir Rusios valdovas].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

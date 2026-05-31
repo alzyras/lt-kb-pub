@@ -1,32 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Mėlynųjų Vandenų mūšis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1307 m.'
-  - '1320 m.'
-  - '1322 m.'
-  - '1340 m.'
-  - '1362 m.'
   - '1363 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1307'
 date_end: '1363'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - mūšis
   - valstybė
+amziai:
+  - 'XIV'
 ---
 # Mėlynųjų Vandenų mūšis
 
@@ -35,26 +24,31 @@ tags:
 Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija –.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija –.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija –.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Algirdo didvalstybė
@@ -70,9 +64,7 @@ Nenurodyta
     Vidurio ir Rytų Europos jėga.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Zabójnica'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1492 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1492'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - sąvoka
+amziai:
+  - 'XV'
 ---
 # Zabójnica
 
@@ -30,16 +24,19 @@ tags:
 Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­ dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo metu vadintą Zabójnica (žudike), panaikindamas visas pri­ vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­ dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo metu vadintą Zabójnica (žudike), panaikindamas visas pri­ vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­ dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo metu vadintą Zabójnica (žudike), panaikindamas visas pri­ vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    ) didžiųjų Lietuvos kunigaikščių Vilniui
+    III KNYGA
+    Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui
     duoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­
     sandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­
     rėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto
@@ -48,12 +45,14 @@ Ta pačia privilegija, kuria Vilniui buvo duotos Magdeburgo teisės (Trakuose, 1
     dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
     metu vadintą Zabójnica (žudike), panaikindamas visas pri­
     vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
-    mazijos ir kitų bet kokios rūšies vynų propinaciją40.
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

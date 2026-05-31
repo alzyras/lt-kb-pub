@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Europos kryžininkai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1392 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1392'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - miestas
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Europos kryžininkai
 
@@ -30,13 +24,15 @@ tags:
 Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­ čioniška būdama, iš naujų savo tikėjimo brolių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­ čioniška būdama, iš naujų savo tikėjimo brolių.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­ čioniška būdama, iš naujų savo tikėjimo brolių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar leidžia kapitulai
@@ -67,9 +63,7 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
     Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -125,6 +125,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Duona]]
 - [[objektai/grupes/Kalnėnai]]
+- [[objektai/daiktai/Troba]]
 - [[objektai/daiktai/Ubladė]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Žemaičiai]]

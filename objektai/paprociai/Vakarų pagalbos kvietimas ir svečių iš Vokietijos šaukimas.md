@@ -139,7 +139,6 @@ Nenurodyta
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/kryžininkai]]

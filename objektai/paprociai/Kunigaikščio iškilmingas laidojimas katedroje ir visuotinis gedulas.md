@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - paprotys
@@ -25,29 +16,35 @@ tags:
 Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­ giausių Lietuvos kunigaikščių, o iš visų tikrųjų Jogailos bro­ lių dėl sumanaus proto ir romaus būdo labiausiai tinkamas į Lietuvos didžiuosius.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­ giausių Lietuvos kunigaikščių, o iš visų tikrųjų Jogailos bro­ lių dėl sumanaus proto ir romaus būdo labiausiai tinkamas į Lietuvos didžiuosius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir Krėvos kunigaikštis Aleksandras Vygantas, vienas energin­ giausių Lietuvos kunigaikščių, o iš visų tikrųjų Jogailos bro­ lių dėl sumanaus proto ir romaus būdo labiausiai tinkamas į Lietuvos didžiuosius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo metu dažniausiai Vilniuje gyvendavo Kernavės ir
@@ -62,9 +59,7 @@ Nenurodyta
     liūdnas įvykis suartino Jogailą su Vytautu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

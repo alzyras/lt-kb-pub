@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Hugonas Butyras'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1146 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 date_start: '1146'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Hugonas Butyras
 
@@ -30,17 +26,32 @@ tags:
 Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai. Dusburgietis teigia, kad 178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad 178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
+    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
+    Krokuvos kunigaikščio) tarnyboje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra vadinamieji Dobrynės broliai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie naują Teutonų namų ordino brolių karą su prūsų gentimis
@@ -56,25 +67,9 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
     vadinamieji Dobrynės broliai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad 178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
-    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
-    Krokuvos kunigaikščio) tarnyboje.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

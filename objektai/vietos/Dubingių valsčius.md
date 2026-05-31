@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Dubingių valsčius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - upė
@@ -27,16 +18,24 @@ tags:
 (Dovanojame) mūsų dvarą Me­ dininkų valsčiuje; kurį kitados val­ dė broliai Ivaška ir Fedka, vadina­ mi Korevičiais, ir vieną žemę, taip pat mūsų valdinio, vadinamo Andriušiu, prie to paties dvaro esančią.
 
 ## Teiginiai
+
 - t-001
   teiginys: '(Dovanojame) mūsų dvarą Me­ dininkų valsčiuje; kurį kitados val­ dė broliai Ivaška ir Fedka, vadina­ mi Korevičiais, ir vieną žemę, taip pat mūsų valdinio, vadinamo Andriušiu, prie to paties dvaro esančią.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '(Dovanojame) mūsų dvarą Me­ dininkų valsčiuje; kurį kitados val­ dė broliai Ivaška ir Fedka, vadina­ mi Korevičiais, ir vieną žemę, taip pat mūsų valdinio, vadinamo Andriušiu, prie to paties dvaro esančią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    (Dovanojame) mūsų dvarą Me­
+    [Dievobaimin­
+    ga širdimi apsvarstę pirmuosius
+    veiksmus, Kristuje gerbiamam tėvui
+    ponui Vilniaus vyskupui Motiejui ir
+    jo įpėdiniams, Visagalio Dievo ir šlo­
+    vingosios Mergelės Marijos garbei ir
+    t. t. (Dovanojame) mūsų dvarą Me­
     dininkų valsčiuje; kurį kitados val­
     dė broliai Ivaška ir Fedka, vadina­
     mi Korevičiais, ir vieną žemę, taip
@@ -55,8 +54,6 @@ tags:
     kais ir būsimais palikuonimis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

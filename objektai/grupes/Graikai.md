@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Graikai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -24,13 +15,15 @@ tags:
 Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams nebent savo gražųjį gintarą).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams nebent savo gražųjį gintarą).'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams nebent savo gražųjį gintarą).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jūrininkyste ais-
@@ -41,9 +34,7 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
     nebent savo gražųjį gintarą).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -70,6 +61,7 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
 - [[objektai/grupes/Graikų katalikų bažnyčia]]
 - [[objektai/asmenys/Grigalius Čiškovičius]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
@@ -77,6 +69,7 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]
 - [[objektai/autoriai/Klaudios Ptolemaios]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/ivykiai/Konstantinopolio miesto atgavimas (1259 m.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kulešinas]]
@@ -87,6 +80,7 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - [[objektai/zodynas/Metropolija ir metropolitas]]
 - [[objektai/asmenys/Ona (Vytauto žmona)]]
 - [[objektai/asmenys/Paleologas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]
 - [[objektai/asmenys/Rapolovska]]
 - [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
@@ -117,5 +111,4 @@ Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buv
 - [[objektai/zodynas/territorium castri pilies apygarda|territorium castri pilies apygarda (pilis)]]
 - [[objektai/grupes/Šv. Bazilijaus ordinas]]
 - [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
-- [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/paprociai/Kailinių dėvėjimas žiemą ir vasarą, vasarą išvirkščius]]

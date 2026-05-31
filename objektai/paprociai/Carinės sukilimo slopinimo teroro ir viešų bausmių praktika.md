@@ -162,7 +162,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas Sierakauskas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tautinis atgimimas]]

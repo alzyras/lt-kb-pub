@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Spaudos rūmai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - vieta
@@ -19,25 +16,44 @@ tags:
 Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vėliau – Vilniaus geležinkelio mazgą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vėliau – Vilniaus geležinkelio mazgą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau 1991 m.
+    sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
+    pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
+    mą. Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
+    vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
+    ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vė-
+    liau – Vilniaus geležinkelio mazgą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   santrauka: 'Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vėliau – Vilniaus geležinkelio mazgą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
+    Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
+    vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
     ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vė-
-    liau – Vilniaus geležinkelio mazgą.
-  citata_rodoma: ""
+    liau – Vilniaus geležinkelio mazgą. Promaskviniai būriai turėjo įsiveržti
+    į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskir-
+    ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
+    Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
+    ir nuversti teisėtą Lietuvos valdžią.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Česchonis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
@@ -27,13 +18,15 @@ tags:
 dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių namą ir iš kitos to paties Česchonio namo pusės keliu palei tvorą ir Šv.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių namą ir iš kitos to paties Česchonio namo pusės keliu palei tvorą ir Šv.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių namą ir iš kitos to paties Česchonio namo pusės keliu palei tvorą ir Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Quam quidem partem ci­
@@ -65,9 +58,7 @@ dešinės Vilniaus miestiečio Česchonio namo apimdama mažesnių­ jų brolių
     skiras miesto dalis].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -82,6 +82,5 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/daiktai/Gintaras]]
 - [[objektai/grupes/Gotai]]
-- [[objektai/ivykiai/Karūzo mūšis]]
 - [[objektai/grupes/Vidivarii]]
 - [[objektai/posakiai/pacatum hominum genus omnino]]

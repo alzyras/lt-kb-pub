@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'patepimas į valdžią'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
@@ -27,13 +18,15 @@ tags:
 Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasiliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­ gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasiliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­ gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ džią iškilmės, kai iš Vilniaus vyskupo Andriaus Važilo (Vasiliono) Vytautas gavo patepimą tapti didžiuoju Lietuvos kuni­ gaikščiu, kartu dalyvavo žmona Ona, Jogaila, aukščiausiasis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     133
@@ -66,9 +59,7 @@ Netrukus, tais pačiais metais, Vilniuje įvyko Vytauto įvesdinimo į val­ dž
     girdo sostui su kaupu sugrąžino senąją šlovę bei galybę50.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

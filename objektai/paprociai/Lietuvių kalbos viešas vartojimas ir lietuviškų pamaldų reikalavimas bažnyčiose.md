@@ -138,5 +138,4 @@ Nenurodyta
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]]

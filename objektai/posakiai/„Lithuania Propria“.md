@@ -1,32 +1,22 @@
 ---
 tipas: posakis
 pavadinimas: '„Lithuania Propria“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1914 m.'
-  - '1920 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1914'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - upė
   - žemėlapis
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # „Lithuania Propria“
 
@@ -35,20 +25,28 @@ tags:
 Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)). Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 129 Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)) L I E T U V O S I S T O R I J A 130 KOVA DĖL.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
+    vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-
+    sinaudoti Vokietijoje prasibrėžiančiais skirtumais tarp kaizerio, Užsienio
+    reikalų ministerijos ir Reichstago centro (katalikų) deputatų ir trukdyti
+    Lietuvos aneksijos planus.
+    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
     Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio
     2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A. Sme-
     tona, Steponas Kairys, J. Šaulys) bei užsienio lietuvių atstovai, pasisakyta
@@ -59,13 +57,11 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
     ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 129 Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)) L I E T U V O S I S T O R I J A 130 KOVA DĖL.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
@@ -81,12 +77,21 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
     iki nepriklausomybės
     N
     aują impulsą savo veiklai Europos šalių tautiniai są-
-    jūdžiai gavo 1914 m.
+    jūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriau-
+    dėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą
+    (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vo-
+    kietijos ir Austrijos–Vengrijos imperijos pradėjo karą prieš trilypę Pran-
+    cūzijos, Didžiosios Britanijos ir Rusijos imperijos Antantę. Vos tik Rusijai
+    iškėlus trijų imperijų pasidalytų lenkų klausimo sprendimą, lietuviai krūp-
+    telėjo – negi lenkams priklausys Suvalkų gubernijos lietuviai? Kai 1914 m.
+    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
+    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
+    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
+    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
+    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

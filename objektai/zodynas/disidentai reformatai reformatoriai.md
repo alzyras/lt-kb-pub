@@ -1,29 +1,23 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'disidentai reformatai reformatoriai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1556 m.'
   - '1557 m.'
   - '1576 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1556'
 date_end: '1576'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - karalius
   - kunigaikštis
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # disidentai reformatai reformatoriai
 
@@ -32,21 +26,71 @@ tags:
 Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas. Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos. Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    293
+
+    ## Puslapis 310
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    Kristupas Varševickis, Possevinas ir kiti garsiausi jėzuitai.
+    Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
+    uolumo ir darbštumo žmogus, turėjo atremti priešininkus.
+    Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­
+    vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,
+    vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­
+    muotą bažnyčią, buvusią savo namuose, uždarė, o savo
+    spaustuvę, seniau skelbusią vien disidentų raštus64, 1576
+    metais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­
+    zuitų pusę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jėzuitų apsigyvenimas Vil­
+    niuje jau Stepono Batoro laikais pakirto protestantų įtaką
+    Lietuvoje. Nepaisant Volano, Tšecieskio ir kitų karštų refor­
+    matų talentų, nepaisant garbingiausių Lietuvos giminių prie­
+    lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­
+    telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo
+    tvirtai susieti savo brolijos regulų, žinojo daugiau būdų, kaip
+    veikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam
+    tikslui surinktų žmonių. Vilnius tapo žodžio ir rašto rung­
+    tynių lauku. Katalikams vadovavo Skarga, Emanuelis Vega,
+    nuosprendį ir tą pačią dieną, išklau­
+    sęs katedroje mišias, išvyko į karo
+    žygį į Čiašnikus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu, visą savo gy­ venimą buvęs uoliausias reformatų idėjų skleidėjas Vilniu­ je ir pavojingiausias katalikų Bažnyčios pagrindų griovėjas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors Viklifo sekėjas buvo ekskomuni­
@@ -105,61 +149,9 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     nes buvo ten pakviestas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisant garbingiausių Lietuvos giminių prie­ lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­ telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jėzuitų apsigyvenimas Vil­
-    niuje jau Stepono Batoro laikais pakirto protestantų įtaką
-    Lietuvoje. Nepaisant Volano, Tšecieskio ir kitų karštų refor­
-    matų talentų, nepaisant garbingiausių Lietuvos giminių prie­
-    lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­
-    telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo
-    tvirtai susieti savo brolijos regulų, žinojo daugiau būdų, kaip
-    veikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam
-    tikslui surinktų žmonių. Vilnius tapo žodžio ir rašto rung­
-    tynių lauku. Katalikams vadovavo Skarga, Emanuelis Vega,
-    nuosprendį ir tą pačią dieną, išklau­
-    sęs katedroje mišias, išvyko į karo
-    žygį į Čiašnikus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto uolumo ir darbštumo žmogus, turėjo atremti priešininkus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    293
-
-    ## Puslapis 310
-
-    VILNIAUS MIESTO ISTORIJA I I  TOMAS
-    Kristupas Varševickis, Possevinas ir kiti garsiausi jėzuitai.
-    Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
-    uolumo ir darbštumo žmogus, turėjo atremti priešininkus.
-    Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­
-    vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,
-    vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­
-    muotą bažnyčią, buvusią savo namuose, uždarė, o savo
-    spaustuvę, seniau skelbusią vien disidentų raštus64, 1576
-    metais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­
-    zuitų pusę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

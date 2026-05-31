@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vežimai, rogės, karietos ir brikai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - daiktas
@@ -27,63 +18,45 @@ tags:
 Trejetą šimtų narsių ir ištikimų jam riterių iš Žemaitijos išsiuntė pirm, kad persirengę, tarsi nauji at­ vykėliai pirkliai, prasigavę į miestą issiskirstytų po įvairias smukles; po t° keletą šimtų vežimų, kailių ir šieno prikrautų, su šešiais šimtais gin­. Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19. Tie patys metraštinin­ kai pasakoja, kad 300 vežimų, įvai­ rios žvėrienos prikrauti, atvažiavę į miestą ir kad Vytauto bajorai suva­ žiavę į miestą iš įvairių pusių, bet vienas jų, matyt, išdavęs paslaptį, o apie Sudimantą nėra užsiminta.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Trejetą šimtų narsių ir ištikimų jam riterių iš Žemaitijos išsiuntė pirm, kad persirengę, tarsi nauji at­ vykėliai pirkliai, prasigavę į miestą issiskirstytų po įvairias smukles; po t° keletą šimtų vežimų, kailių ir šieno prikrautų, su šešiais šimtais gin­.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Tie patys metraštinin­ kai pasakoja, kad 300 vežimų, įvai­ rios žvėrienos prikrauti, atvažiavę į miestą ir kad Vytauto bajorai suva­ žiavę į miestą iš įvairių pusių, bet vienas jų, matyt, išdavęs paslaptį, o apie Sudimantą nėra užsiminta.'
   pagrindžia:
     - c-003
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Trejetą šimtų narsių ir ištikimų jam riterių iš Žemaitijos išsiuntė pirm, kad persirengę, tarsi nauji at­ vykėliai pirkliai, prasigavę į miestą issiskirstytų po įvairias smukles; po t° keletą šimtų vežimų, kailių ir šieno prikrautų, su šešiais šimtais gin­.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    31
-    Strijkovskis, 1.465, o juo sekda­
-    mas ir K o j e 1  a v i č i u s, p. 361,
-    plačiai aprašo, kokių gudrybių tą­
-    kart ėmėsi Kęstutis, puldamas Vil-
-    nių. Trejetą šimtų narsių ir ištikimų
-    jam riterių iš Žemaitijos išsiuntė
-    pirm, kad persirengę, tarsi nauji at­
-    vykėliai pirkliai, prasigavę į miestą
-    issiskirstytų po įvairias smukles; po
-    t° keletą šimtų vežimų, kailių ir šie-
-    no prikrautų, su šešiais šimtais gin­
-    kluotų vyrų, tuose vežimuose pa-
-    slėptų, įvairiais keliais į ten buvo
-    įvežti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-002
+  teiginys: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
   pagrindžia:
-    - t-001
+    - c-002
+
+- t-001
+  teiginys: 'Trejetą šimtų narsių ir ištikimų jam riterių iš Žemaitijos išsiuntė pirm, kad persirengę, tarsi nauji at­ vykėliai pirkliai, prasigavę į miestą issiskirstytų po įvairias smukles; po t° keletą šimtų vežimų, kailių ir šieno prikrautų, su šešiais šimtais gin­.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -104,13 +77,11 @@ Nenurodyta
     pavertė anksčiau negu suspėjo Vytautas su kariauna19.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Tie patys metraštinin­ kai pasakoja, kad 300 vežimų, įvai­ rios žvėrienos prikrauti, atvažiavę į miestą ir kad Vytauto bajorai suva­ žiavę į miestą iš įvairių pusių, bet vienas jų, matyt, išdavęs paslaptį, o apie Sudimantą nėra užsiminta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jogaila tam pasipriešino,
@@ -124,14 +95,38 @@ Nenurodyta
     apie Sudimantą nėra užsiminta.
     20
     Vilniaus kapitulos archy­
-    vas: MSS, vad.
+    vas: MSS, vad. Acta, tai yra*
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Andrius žuvo prie Vorsklos 1399
+    metais.
+    31
+    Strijkovskis, 1.465, o juo sekda­
+    mas ir K o j e 1  a v i č i u s, p. 361,
+    plačiai aprašo, kokių gudrybių tą­
+    kart ėmėsi Kęstutis, puldamas Vil-
+    nių. Trejetą šimtų narsių ir ištikimų
+    jam riterių iš Žemaitijos išsiuntė
+    pirm, kad persirengę, tarsi nauji at­
+    vykėliai pirkliai, prasigavę į miestą
+    issiskirstytų po įvairias smukles; po
+    t° keletą šimtų vežimų, kailių ir šie-
+    no prikrautų, su šešiais šimtais gin­
+    kluotų vyrų, tuose vežimuose pa-
+    slėptų, įvairiais keliais į ten buvo
+    įvežti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -144,4 +139,5 @@ Nenurodyta
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
+- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
 - [[objektai/daiktai/Vežimai su kailiais ir šienu]]

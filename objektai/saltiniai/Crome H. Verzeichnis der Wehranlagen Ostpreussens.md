@@ -1,26 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Crome H. Verzeichnis der Wehranlagen Ostpreussens'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1938 m.'
   - '1939 m.'
   - '1940 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1938'
 date_end: '1940'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Crome H. Verzeichnis der Wehranlagen Ostpreussens
 
@@ -29,13 +23,15 @@ tags:
 Dusburgietis teigia, kad crome H.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad crome H.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad crome H.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Crome H. Verzeichnis der Wehranlagen Ostpreussens.— Prussia, Königsberg (Pr.), Bd.
@@ -43,8 +39,6 @@ Dusburgietis teigia, kad crome H.
     S. 268—289; Bd. 34 (1940), S. 83—145 (Zusätze und Berichtigungen, S. 146—149).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

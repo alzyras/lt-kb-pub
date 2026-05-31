@@ -1,24 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Daugelio tūkstančių gvelfų žūtis Italijoje'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1324 m.'
   - '1325 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-date_start: '1325'
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+date_start: '1324'
+date_end: '1325'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XIV'
 ---
 # Daugelio tūkstančių gvelfų žūtis Italijoje
 
@@ -27,26 +22,31 @@ tags:
 Dusburgietis teigia, kad apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų 1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų 1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų 1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     124. Apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų
@@ -54,13 +54,34 @@ Nenurodyta
       1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų 1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
+
+      1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo
+    pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami,
+    jog jie laša iš kokios žaizdos, atidžiai apžiūrėjo jam ir burną, ir veidą, ir rankas, bet
+    nerado nė pėdsako žaizdos, todėl visi didžiai dėl to atsitikimo stebėjosi.
+
+
+
+                  124. Apie tai, kaip Italijoje žuvo daug tūkstančių gvelfų
+
+      1325 viešpaties metais Italijoje gibelinai nužudė daug tūkstančių gvelfų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Duona]]
 - [[objektai/zodynas/gibelinai]]
 - [[objektai/zodynas/gvelfai]]

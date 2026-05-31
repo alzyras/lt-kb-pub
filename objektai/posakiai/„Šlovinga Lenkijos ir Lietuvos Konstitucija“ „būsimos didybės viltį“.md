@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: '„Šlovinga Lenkijos ir Lietuvos Konstitucija“ „būsimos didybės viltį“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1792 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1792'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - dokumentas
   - posakis
   - reforma
+amziai:
+  - 'XVIII'
 ---
 # „Šlovinga Lenkijos ir Lietuvos Konstitucija“ „būsimos didybės viltį“
 
@@ -30,13 +24,15 @@ tags:
 Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos
@@ -54,9 +50,7 @@ Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivin
     jai, o dar 27 seimeliai jai tik pritarė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

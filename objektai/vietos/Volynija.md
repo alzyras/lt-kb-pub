@@ -50,15 +50,14 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą, remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­ jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.'
   pagrindžia:
     - c-005
-
+- t-006
+  teiginys: 'Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1384 m. pavasarį Jogaila siūlė Vytautui grąžinti tėviškę ir pridėti Volyniją su Lucku.'
@@ -121,26 +120,6 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jo laikais tokių dvarų - ūkio centrų
-    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
-    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
-    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
-    arčiau didž. Lietuvos kunigaikščio būstinės. Suvalkų kraštas
-    tada buvo beveik negyvenamas, apaugęs tankiais miškais
-    (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai
-    priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto
-    dvarų juose buvo mažiau.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą, remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­ jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -158,3 +137,20 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    kunigaikščiui priklau­
+    sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų
+    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
+    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
+    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
+    arčiau didž. Lietuvos kunigaikščio būstinės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

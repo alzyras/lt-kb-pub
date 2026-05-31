@@ -1,23 +1,20 @@
 ---
 tipas: grupe
 pavadinimas: 'Moravai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1413 m.'
+date_start: '1413'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - mokslininkas
   - mūšis
+amziai:
+  - 'XV'
 ---
 # Moravai
 
@@ -26,16 +23,15 @@ tags:
 Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
@@ -44,13 +40,28 @@ tags:
     mūšyje. Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
     šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
     tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytauto dvare
+    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
+    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
+    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
+    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
+    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
+    mūšyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

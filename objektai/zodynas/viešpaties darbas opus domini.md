@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'viešpaties darbas opus domini'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - pilis
@@ -26,13 +17,15 @@ tags:
 Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirtina savo pilių statyba, tai darydamas „iš dievo malonės“, nes tai „viešpaties darbas“ („opus domini“) (III, 9, 315).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikininkas parodo, kad užkariavimus Ordinas  įtvirtina savo  pilių statyba,  tai
@@ -45,9 +38,7 @@ Dusburgietis teigia, kad kronikininkas parodo, kad užkariavimus Ordinas įtvirt
     315), t. y. užgrobti lietuvių žemes.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

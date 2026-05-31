@@ -63,15 +63,14 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
-- t-005
-  teiginys: 'Dažniausiai nenaudodavo skydo, neretai jų kojos ir rankos būdavo neapsaugotos.'
-  pagrindžia:
-    - c-003
-
 - t-006
   teiginys: 'Dusburgietis teigia, kad sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o.'
   pagrindžia:
     - c-004
+- t-007
+  teiginys: 'Dažniausiai nenaudodavo skydo, neretai jų kojos ir rankos būdavo neapsaugotos.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -104,25 +103,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-003
-  santrauka: 'Dažniausiai nenaudodavo skydo, neretai jų kojos ir rankos būdavo neapsaugotos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Jie dėvėdavo atvirus šalmus arba
-    žiedučio gobtuvus. Dažniausiai nenaudodavo skydo,
-    neretai jų kojos ir rankos būdavo neapsaugotos. Pa-
-    prastai pėstininkai naudodavo dvirankius artimosios
-    kovos ginklus (kovos kirvius, ietis) ar šaunamuosius
-    (lankus, arbaletus)
-
-    tarp šių dviejų pilių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-004
   santrauka: 'Dusburgietis teigia, kad sūduviai dėl to labai džiaugėsi, tuo tarpu susikrimtęs Martynas ilgokai daužėsi po mišką, kol sušaukė savo išsklaidytus bendrus; kadangi visi jų ginklai buvo pagrobti, jis slaptomis, priešams miegant, vieną po kito išvogė jų skydus, kalavijus bei ietis, o.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -149,6 +129,22 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-005
+  santrauka: 'Dažniausiai nenaudodavo skydo, neretai jų kojos ir rankos būdavo neapsaugotos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pėstininkai galėdavo būti apsaugoti žieduočio šarvų,
+    tačiau dažniau apsaugai naudodavo tiesiog storos
+    medžiagos pošarvį. Jie dėvėdavo atvirus šalmus arba
+    žiedučio gobtuvus. Dažniausiai nenaudodavo skydo,
+    neretai jų kojos ir rankos būdavo neapsaugotos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -168,3 +164,4 @@ Nenurodyta
 - [[objektai/asmenys/Aaronas]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
+- [[objektai/paprociai/XIII a. Vakarų Europos pėstininkų apsaugos ir ginkluotės praktika]]

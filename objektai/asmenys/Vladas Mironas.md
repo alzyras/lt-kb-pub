@@ -115,7 +115,6 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 ### Susiję objektai
 - [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/ivykiai/J. Tūbelio kabineto atsistatydinimas po Lenkijos ultimatumo (1938 m.)]]

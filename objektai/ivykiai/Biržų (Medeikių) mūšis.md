@@ -1,33 +1,23 @@
 ---
 tipas: ivykis
 pavadinimas: 'Biržų (Medeikių) mūšis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1500 m.'
-  - '1861 m.'
-  - '1863 m.'
-  - '1864 m.'
   - '1865 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XV'
-  - 'XIX'
 date_start: '1500'
 date_end: '1865'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - karas
   - mūšis
+amziai:
+  - 'XV'
+  - 'XIX'
 ---
 # Biržų (Medeikių) mūšis
 
@@ -36,34 +26,41 @@ tags:
 Lietuvos sukilėlių kovinio dalgio kopija @ Gegužės 7 d. atvykę į Medeikius rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas. Ganeckio rinktinė pasuko iš Medeikių į Biržų girią vedlio nurodyta kryptimi ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą. Mūšio pasekmės Kautynės Biržų girioje buvo didžiausios per visą 1863-1864 m. sukilimą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos sukilėlių kovinio dalgio kopija @ Gegužės 7 d. atvykę į Medeikius rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Ganeckio rinktinė pasuko iš Medeikių į Biržų girią vedlio nurodyta kryptimi ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Mūšio pasekmės Kautynės Biržų girioje buvo didžiausios per visą 1863-1864 m. sukilimą.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Ganeckio rinktinė pasuko iš Medeikių į Biržų girią vedlio nurodyta kryptimi ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos sukilėlių kovinio dalgio kopija @ Gegužės 7 d. atvykę į Medeikius rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos
@@ -82,13 +79,11 @@ Nenurodyta
     rios pakraštį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Ganeckio rinktinė pasuko iš Medeikių į Biržų girią vedlio nurodyta kryptimi ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dešimtą valandą ryto gen. mjr.
@@ -101,13 +96,11 @@ Nenurodyta
     buvo neveiksminga.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Mūšio pasekmės Kautynės Biržų girioje buvo didžiausios per visą 1863-1864 m. sukilimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio pasekmės
@@ -154,9 +147,7 @@ Nenurodyta
     Egzekucijos buvo įvykdytos B.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -170,10 +161,5 @@ Nenurodyta
 - [[objektai/zodynas/karyba]]
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Arvydas Pociūnas]]
-- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
-- [[objektai/autoriai/Gintautas Sliesoriūnas]]
 - [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]
-- [[objektai/autoriai/Vytautas Lesčius]]
 - [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]

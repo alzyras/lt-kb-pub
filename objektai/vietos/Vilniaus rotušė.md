@@ -1,26 +1,20 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus rotušė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1547 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1547'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - vieta
+amziai:
+  - 'XVI'
 ---
 # Vilniaus rotušė
 
@@ -29,13 +23,15 @@ tags:
 Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­ dienius darbininkus, visiems padienininkams nuo tol nu­ rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­ vyzdžiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­ dienius darbininkus, visiems padienininkams nuo tol nu­ rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­ vyzdžiu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­ dienius darbininkus, visiems padienininkams nuo tol nu­ rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­ vyzdžiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaprastas įvairaus maisto brangymetis 1547 me­
@@ -52,8 +48,6 @@ Taip pat, kad miesto gyventojai savo reikmėms galėtų lengviau pasisamdyti pa�
     lo fabrikas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

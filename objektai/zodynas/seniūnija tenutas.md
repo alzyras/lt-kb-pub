@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'seniūnija tenutas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
@@ -25,13 +16,15 @@ tags:
 Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tuos dvarus perduoti naujam ponui arba kai tam tikra komisija tikrindavo dvaro pajamas, reikėdavo žinoti, kiek iš jų imti mokesčio (1/4 visų karališkųjų dvarų — seniūnijų ir tenutų —.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tuos dvarus perduoti naujam ponui arba kai tam tikra komisija tikrindavo dvaro pajamas, reikėdavo žinoti, kiek iš jų imti mokesčio (1/4 visų karališkųjų dvarų — seniūnijų ir tenutų —.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tuos dvarus perduoti naujam ponui arba kai tam tikra komisija tikrindavo dvaro pajamas, reikėdavo žinoti, kiek iš jų imti mokesčio (1/4 visų karališkųjų dvarų — seniūnijų ir tenutų —.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiek geriau buvo bažnyti-
@@ -47,8 +40,6 @@ Mat, tenai reikėdavo žinoti, kokias pareigas eina valstiečiai: kai tekdavo tu
     davo ir eiti tiems dvarams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

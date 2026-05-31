@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Jogailos autentiški dokumentai iki krikšto Karaliaučiaus archyve'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - krikštas
@@ -26,13 +17,15 @@ tags:
 Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki šiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas - Vylne, Velne, labai panėši į vardą, duotą jam Snorro.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki šiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas - Vylne, Velne, labai panėši į vardą, duotą jam Snorro.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki šiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas - Vylne, Velne, labai panėši į vardą, duotą jam Snorro.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad galėjo čia
@@ -47,8 +40,6 @@ Netgi kai kuriuose Jogailos au­ tentiškuose dokumentuose, rašytuose prieš jo
     rimą ne Gediminui, bet jo pirmtakams dera priskirti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

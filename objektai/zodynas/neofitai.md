@@ -41,7 +41,7 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1469 m. į Vilnių pakviestas bernardinų ordinas turėjo padėti neofitams įsitvirtinti krikščionių tikėjime.'
+  teiginys: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
   pagrindžia:
     - c-002
 
@@ -65,7 +65,7 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1469 m. į Vilnių pakviestas bernardinų ordinas turėjo padėti neofitams įsitvirtinti krikščionių tikėjime.'
+  santrauka: 'Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­ kviestas bernardinų ordinas, kuriam bažnyčiai ir vienuoly­ nui statytis atiduotas platus slėnis su keletu namų ir pieva, 31 Šis Jachna jau 1435 metais buvo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -122,6 +122,9 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/neofitas]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Bernardas (Jachnos sūnus)]]
 - [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]
 - [[objektai/grupes/Bernardinų ordinas]]

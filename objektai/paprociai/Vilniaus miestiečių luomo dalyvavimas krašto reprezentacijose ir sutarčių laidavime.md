@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1422 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1422'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - ordinas
   - paprotys
+amziai:
+  - 'XV'
 ---
 # Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime
 
@@ -30,51 +24,62 @@ tags:
 Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77. Foe- [Amžinosios vienybės ir santarvės dus perpetuae pacis unionis et concortaikos sutartis tarp Lenkijos karaliaus dine inter Vladislaum Regem Poloniae Vladislovo ir Lietuvos kunigaikščio 151 ## Puslapis 168 VILNIAUS MIESTO ISTORIJA / TOMAS Lietuvos.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Foe- [Amžinosios vienybės ir santarvės dus perpetuae pacis unionis et concortaikos sutartis tarp Lenkijos karaliaus dine inter Vladislaum Regem Poloniae Vladislovo ir Lietuvos kunigaikščio 151 ## Puslapis 168 VILNIAUS MIESTO ISTORIJA / TOMAS Lietuvos.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    ) pageidaujamu valdovu kunigaikštį
+    Valakijos kunigaikščiai jo globos sie­
+    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
+    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
+    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
     Žygimantą Kaributaitį, savo sūnėną. Vilniaus miesto reikšmė
     jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių
     karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos
     su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77.
     75
-    Žr.
+    Žr. Stryjkowski, p. 518, ed. ac Vitoldum Ducem Lithuaniae, Duces-
+    Varšuv. que Masoviae ab um, et Paulum deRus-
+    76 dorf, Magistrum Cruciferorum et suum
+    Kojałowicz,Pars.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Foe- [Amžinosios vienybės ir santarvės dus perpetuae pacis unionis et concortaikos sutartis tarp Lenkijos karaliaus dine inter Vladislaum Regem Poloniae Vladislovo ir Lietuvos kunigaikščio 151 ## Puslapis 168 VILNIAUS MIESTO ISTORIJA / TOMAS Lietuvos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     IV Į1O. Foe- [Amžinosios vienybės ir santarvės
@@ -96,9 +101,7 @@ Nenurodyta
     kitos pusės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

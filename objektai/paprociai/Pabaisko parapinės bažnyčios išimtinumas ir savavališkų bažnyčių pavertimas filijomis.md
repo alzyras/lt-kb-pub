@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - paprotys
@@ -27,33 +18,40 @@ tags:
 Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno. Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai­
@@ -81,13 +79,11 @@ Nenurodyta
     tructa esse Ecclesia in Wronowo seu Wiesza.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios eina nuo Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia norime, kad minėta
@@ -115,9 +111,7 @@ Nenurodyta
     impedimento licebit.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -99,7 +99,6 @@ Nenurodyta
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Ivanas Rūstusis]]
 - [[objektai/ivykiai/Polocko praradimas]]
 - [[objektai/zodynas/apsiaustis]]

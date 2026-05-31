@@ -90,4 +90,5 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Dovas Zaunius]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]
 - [[objektai/posakiai/„Karas ar taika “]]

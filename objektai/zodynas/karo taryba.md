@@ -51,6 +51,4 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/posakiai/Vilnius—Krokuva]]
 - [[objektai/zodynas/komputas]]
-- [[objektai/daiktai/Šiaudų grįžtės]]

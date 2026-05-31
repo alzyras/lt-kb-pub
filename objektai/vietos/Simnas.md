@@ -46,7 +46,6 @@ Seirijuose, Simne, Prienuose ir kt.
   teiginys: 'Jų kūnai buvo niekinami Simne, gatvėje.'
   pagrindžia:
     - c-003
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1945 m. gegužės 14 d. NKVD duomenimis, Seminiškių miške, 8 km į pietvakarius nuo Simno, slėpėsi iki 70 partizanų.'

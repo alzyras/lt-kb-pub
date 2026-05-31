@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Mohačo mūšis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1514 m.'
   - '1526 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1514'
 date_end: '1526'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dinastija
   - ivykis
   - mūšis
+amziai:
+  - 'XVI'
 ---
 # Mohačo mūšis
 
@@ -30,26 +24,31 @@ tags:
 Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi,
@@ -62,9 +61,7 @@ Nenurodyta
     lapio.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

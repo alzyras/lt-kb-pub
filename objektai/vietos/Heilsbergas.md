@@ -1,34 +1,30 @@
 ---
 tipas: vieta
 pavadinimas: 'Heilsbergas'
-sukurta: '2026-05-30'
+sukurta: '2026-05-31'
 variantai: []
 aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos:
-  - '1350 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-date_start: '1350'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+atnaujinta: '2026-05-31'
 tags:
   - ginklas
   - miestas
   - pilis
-  - vieta
+  - upė
 ---
 # Heilsbergas
 
 ## Santrauka
 
-Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių. Dusburgietis teigia, kad — Heilisberc; Heilsbergas (dab. Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.
+Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių. Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.
 
 ## Teiginiai
 - t-001
@@ -36,23 +32,22 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   pagrindžia:
     - c-001
 - t-002
-  teiginys: 'Dusburgietis teigia, kad — Heilisberc; Heilsbergas (dab.'
+  teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
-  pagrindžia:
-    - c-003
-- t-004
   teiginys: 'Nuo Marienburgo mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos maršalu B.'
   pagrindžia:
-    - c-004
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
+    Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
+    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
+    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
+    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
     ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
     daug brolių ir ginklanešių.
   citata_rodoma: ''
@@ -63,24 +58,12 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Dusburgietis teigia, kad — Heilisberc; Heilsbergas (dab.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    260 D.— Helisberk, Jer. — Heilisberc; Heilsbergas (dab. Varmijos Lidzbarkas, Lidzbark
-    Warmiński) Alnos ir Simsarnos (dab. Symsarna) santakoje. Užėmę prūsų pilį, kryžiuočiai
-    perdavė ją Varmės vyskupui. Nuo 1350 m. iki XV a. vidurio čia buvo statoma kvadratinė
-    pilis vyskupo rezidencijai (dab. muziejus) su tokiu pat ūkinės paskirties papiliu.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
   santrauka: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
+    Magistras ir broliai, sujaudinti šio liūdno įvykio, pasiryžo atkeršyti už nužudytuosius,
+    subūrė visas savo karines jėgas ir, įsibrovę į Pagudės žemę, skersai ir išilgai ją nusiaubė,
+    plėsdami ir degindami, žudydami vyrus, o moteris bei vaikus išsivarydami  į nelaisvę.
     Be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones
     išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo
     taika.
@@ -95,8 +78,8 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
+    - t-002
+- c-003
   santrauka: 'Nuo Marienburgo mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos maršalu B.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -110,4 +93,4 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-003

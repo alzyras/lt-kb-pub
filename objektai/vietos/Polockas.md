@@ -324,7 +324,6 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginys: 'Lietuvos sienos Vazų laikais Ilgai trukę karai su Maskva dėl Livonijos pasibaigė Lietuvos ir Lenkijos laimėjimu: Stepono Batoro laikais buvo atgautas Polockas ir visa Livonija (žiūr.'
   pagrindžia:
     - c-067
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Polockui Lietuva buvo natūralus gynėjas ir sąjungininkas.'
@@ -1488,3 +1487,21 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-067
+- c-068
+  santrauka: 'FIeTep6yprb 1793 roAa 8vo) tariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­ niuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­ nigaikščiai, Rodosłownik''e nurodyti: I.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    FIeTep6yprb 1793 roAa 8vo)
+    tariamų Lietuvos kunigaikščių kilmė aiškinama taip: „Vil­
+    niuje, Polocko dalinėje valdoje, buvo Riuriko giminės ku­
+    nigaikščiai, Rodosłownik'e nurodyti: I. Kunigaikštis Rostis-
+    lavas, kunigaikščio Rogvoldo Borisovičiaus sūnus. II.
+    Kunigaikštis Dovilas, arba Dovydas, kunigaikščio Rostis-
+    lavičiaus sūnus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-068

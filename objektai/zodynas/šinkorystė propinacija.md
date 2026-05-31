@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'šinkorystė propinacija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
@@ -27,13 +18,15 @@ tags:
 Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, midaus ir alaus smuklių, tačiau už šią privilegiją pasilikdamas tam tikrą mokestį kunigaikščio iž­ dui, kadangi pagal seną paprotį miestas privalėjo kasmet jį surinkti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, midaus ir alaus smuklių, tačiau už šią privilegiją pasilikdamas tam tikrą mokestį kunigaikščio iž­ dui, kadangi pagal seną paprotį miestas privalėjo kasmet jį surinkti.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, midaus ir alaus smuklių, tačiau už šią privilegiją pasilikdamas tam tikrą mokestį kunigaikščio iž­ dui, kadangi pagal seną paprotį miestas privalėjo kasmet jį surinkti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar Žygimantas
@@ -50,9 +43,7 @@ Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, mid
     nutraukė ketinantis grįžti Švitrigaila.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

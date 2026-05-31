@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1324'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - ordinas
   - reforma
+amziai:
+  - 'XIV'
 ---
 # Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)
 
@@ -30,31 +24,37 @@ tags:
 Dusburgietis teigia, kad 69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos. Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad 69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
   pagrindžia:
     - c-002
     - c-003
 
+- t-001
+  teiginys: 'Dusburgietis teigia, kad 69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 69 Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apkaltintas erezija Tamplierių
@@ -71,13 +71,11 @@ Nenurodyta
     metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad norint atremti visus Ordinui keliamus priekaištus ir įgyvendinti vidaus reformą, didžiajam magistrui Verneriui reikėjo kronikos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Norint atremti visus Ordinui keliamus priekaištus  ir įgyvendinti vidaus reformą,
@@ -89,13 +87,11 @@ Nenurodyta
     feodalinių riterių žygių prieš musulmoniškąjį pasaulį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.) papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
@@ -107,11 +103,9 @@ Nenurodyta
     skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
     Ordino viduje vykusią kovą 1324 m. laimėjo reformų šalininkai, tačiau tik laikinai (po 6
     metų buvo nužudytas didysis magistras, reformų šalininkas ir organizatorius).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-002
 

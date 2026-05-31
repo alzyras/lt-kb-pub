@@ -53,10 +53,6 @@ tags:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
-  pagrindžia:
-    - c-002
 - t-004
   teiginys: '1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti.'
   pagrindžia:
@@ -85,10 +81,6 @@ tags:
   teiginys: 'Alavas ir varis iš Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.'
   pagrindžia:
     - c-010
-- t-011
-  teiginys: 'Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.'
-  pagrindžia:
-    - c-011
 - t-012
   teiginys: 'Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų).'
   pagrindžia:
@@ -106,9 +98,17 @@ tags:
   pagrindžia:
     - c-015
 - t-016
-  teiginys: '92 Vengrija 6, 83, 102, 103, 249, 259, 260, 267, 269, 275, 282-284, 287, 293, 312, 336 Venta 115, 127, 180, 187 Veredava 207 Verona 167 Versalio taika 30, 41 Veršvai 76, 106, 147 Vestfalija 202 Viazma 313, 320, 321 Vidas ar Vilkas, Traidenio tėvas 200.'
+  teiginys: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
   pagrindžia:
     - c-016
+- t-017
+  teiginys: 'Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: '92 Vengrija 6, 83, 102, 103, 249, 259, 260, 267, 269, 275, 282-284, 287, 293, 312, 336 Venta 115, 127, 180, 187 Veredava 207 Verona 167 Versalio taika 30, 41 Veršvai 76, 106, 147 Vestfalija 202 Viazma 313, 320, 321 Vidas ar Vilkas, Traidenio tėvas 200.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -127,21 +127,6 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva, Lenkijos padedama, atsilaikė prieš sta-
-    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
-    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
-    lapio.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-004
   santrauka: '1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -265,23 +250,6 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-- c-011
-  santrauka: 'Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
-    pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
-    šio Ordino vienuoli© apsiaustą.
-      Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
-    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
-    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
 - c-012
   santrauka: 'Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -350,6 +318,38 @@ tags:
   pagrindžia:
     - t-015
 - c-016
+  santrauka: 'Lietuva, Lenkijos padedama, atsilaikė prieš stačiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m. patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva, Lenkijos padedama, atsilaikė prieš sta-
+    čiatikišką Maskvą mūšio prie Oršos pergale 1514 m., o Vengrija 1526 m.
+    patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemė-
+    lapio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
+    pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
+    šio Ordino vienuoli© apsiaustą.
+      Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
+    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
+    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
   santrauka: '92 Vengrija 6, 83, 102, 103, 249, 259, 260, 267, 269, 275, 282-284, 287, 293, 312, 336 Venta 115, 127, 180, 187 Veredava 207 Verona 167 Versalio taika 30, 41 Veršvai 76, 106, 147 Vestfalija 202 Viazma 313, 320, 321 Vidas ar Vilkas, Traidenio tėvas 200.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -381,4 +381,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-016
+    - t-018

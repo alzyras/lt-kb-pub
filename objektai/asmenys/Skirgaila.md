@@ -87,18 +87,10 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   teiginys: 'Bet visos valdžios valstybėje Skirgaila neturėjo.'
   pagrindžia:
     - c-010
-- t-031
-  teiginys: 'Skirgaila gavo Kijevą, kai 1394 m. Vytautas panaikino Kijevo kunigaikštiją.'
-  pagrindžia:
-    - c-012
 - t-032
   teiginys: 'Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių.'
   pagrindžia:
     - c-013
-- t-033
-  teiginys: 'Jogaila paskyrė Skirgailą savo vietininku Lietuvoje, o anksčiau buvo davęs jam valdyti Trakų kunigaikštiją vasalo teisėmis.'
-  pagrindžia:
-    - c-014
 - t-034
   teiginys: 'Skirgailai buvo pavesta valdyti Vilniaus sritis.'
   pagrindžia:
@@ -195,10 +187,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   teiginys: 'Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­ taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir pavyko padaryti^3 ).'
   pagrindžia:
     - c-039
-- t-059
-  teiginys: 'Viena jų Jogaila su Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu kraštu.'
-  pagrindžia:
-    - c-040
 - t-060
   teiginys: 'Reikšmingu dokumentu užrašydamas Skirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau už visus kitus brolius — «a deržati mi jeho vyše usieje našeje bratije »^3.'
   pagrindžia:
@@ -211,6 +199,18 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   teiginys: 'Tai pasi­ sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.).'
   pagrindžia:
     - c-043
+- t-063
+  teiginys: 'Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  pagrindžia:
+    - c-044
+- t-064
+  teiginys: 'Todėl paskyrė jai savo vietininku tikrąjį bro­ lį Skirgailą, kuriam jau anksčiau buvo davęs valdyti vasalo tei­ sėmis Trakų kunigaikštiją.'
+  pagrindžia:
+    - c-045
+- t-065
+  teiginys: 'Viena jų Jogaila su Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu kraštu.'
+  pagrindžia:
+    - c-046
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -351,20 +351,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-029
-- c-012
-  santrauka: 'Skirgaila gavo Kijevą, kai 1394 m. Vytautas panaikino Kijevo kunigaikštiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Luckas
-    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
-    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-031
 - c-013
   santrauka: 'Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -382,33 +368,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-032
-- c-014
-  santrauka: 'Jogaila paskyrė Skirgailą savo vietininku Lietuvoje, o anksčiau buvo davęs jam valdyti Trakų kunigaikštiją vasalo teisėmis.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl paskyrė jai savo vietininku tikrąjį bro­
-    lį Skirgailą, kuriam jau anksčiau buvo davęs valdyti vasalo tei­
-    sėmis Trakų kunigaikštiją. Tai buvęs menkos vertės žmogus,
-
-    ```
-    — 147 —
-    ```
-    (^1) ) С. ер. V. 35 nr. (^2) ) C. ep. s., II t., 11 nr.
-
-
-    ```
-    148
-    ```
-    girtuoklis ir ištvirkėlis, todėl jam atidavimas Lietuvoj valdžios
-    ne tik nenuramino krašte kilusio nepasitenkinimo, bet, priešin­
-    gai, jį dar padidino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-033
 - c-015
   santrauka: 'Skirgailai buvo pavesta valdyti Vilniaus sritis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -964,21 +923,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-058
-- c-040
-  santrauka: 'Viena jų Jogaila su Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu kraštu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    , po šešių
-    dienų derybų buvo surašytos trys sutartys^19. Viena jų Jogaila su
-    Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu
-    kraštu. Kitu aktu buvo daroma savotiška karinė sąjunga.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-059
 - c-041
   santrauka: 'Reikšmingu dokumentu užrašydamas Skirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau už visus kitus brolius — «a deržati mi jeho vyše usieje našeje bratije »^3.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1030,6 +974,62 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-062
+- c-044
+  santrauka: 'Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-063
+- c-045
+  santrauka: 'Todėl paskyrė jai savo vietininku tikrąjį bro­ lį Skirgailą, kuriam jau anksčiau buvo davęs valdyti vasalo tei­ sėmis Trakų kunigaikštiją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl paskyrė jai savo vietininku tikrąjį bro­
+    lį Skirgailą, kuriam jau anksčiau buvo davęs valdyti vasalo tei­
+    sėmis Trakų kunigaikštiją. Tai buvęs menkos vertės žmogus,
+
+    ```
+    — 147 —
+    ```
+    (^1) ) С. ер. V. 35 nr. (^2) ) C. ep. s., II t., 11 nr.
+
+
+    ```
+    148
+    ```
+    girtuoklis ir ištvirkėlis, todėl jam atidavimas Lietuvoj valdžios
+    ne tik nenuramino krašte kilusio nepasitenkinimo, bet, priešin­
+    gai, jį dar padidino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-064
+- c-046
+  santrauka: 'Viena jų Jogaila su Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu kraštu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    , po šešių
+    dienų derybų buvo surašytos trys sutartys^19. Viena jų Jogaila su
+    Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu
+    kraštu. Kitu aktu buvo daroma savotiška karinė sąjunga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-065
 
 ## Ryšiai
 ### Susiję objektai
@@ -1064,7 +1064,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/grupes/Vokiečiai]]
@@ -1079,6 +1081,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/tėviškė]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vasalas]]
@@ -1087,15 +1090,12 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
 - [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
 - [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/asmenys/Andrius Važila]]
 - [[objektai/daiktai/Armotos]]
 - [[objektai/daiktai/Deglas]]
 - [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
-- [[objektai/paprociai/Didžiojo kunigaikščio įvesdinimas į valdžią patepimu]]
 - [[objektai/asmenys/Dmitrijus Doniškis]]
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
-- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
 - [[objektai/asmenys/Jonas Švitrigaila]]
@@ -1121,7 +1121,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[objektai/grupes/Rygos, vokiečių ir rusų pirkliai]]
 - [[objektai/daiktai/Sienodaužiai]]
 - [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]
-- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Sofija]]
 - [[objektai/ivykiai/Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.)]]
 - [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]
 - [[objektai/ivykiai/Trakų užėmimas ir apgultis]]
@@ -1134,10 +1134,9 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[objektai/grupes/Vytauto šalininkai]]
 - [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]
 - [[objektai/zodynas/patepimas į valdžią]]
-- [[objektai/zodynas/storasta]]
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Andrius Polockietis]]
 - [[objektai/posakiai/Dei gratia supremus dux Lithuaniae et Russiae]]
 - [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
 - [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
 - [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
+- [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai]]

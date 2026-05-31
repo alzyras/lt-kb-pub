@@ -1,25 +1,19 @@
 ---
 tipas: grupe
 pavadinimas: 'Perekopo orda'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1501 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1501'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
+amziai:
+  - 'XVI'
 ---
 # Perekopo orda
 
@@ -28,13 +22,15 @@ tags:
 Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Krymo totorių
@@ -53,9 +49,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     nebuvo, tas stebuklų neregėjo].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

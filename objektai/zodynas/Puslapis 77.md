@@ -45,7 +45,7 @@ amziai:
   - 'XIX'
   - 'M'
 date_start: '1208'
-date_end: '1815'
+date_end: '1555'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-31'
 tags:
@@ -77,10 +77,6 @@ tags:
   teiginys: '77 ## Puslapis 94 VILNIAUS MIESTO ISTORIJA I TOMAS Jeigu dabar išnagrinėtume viską, ko tik kelerių metų tarps­ niu būta Ordino santykiuose arba su Lenkijos karaliumi, kad ir Pamario valdymo klausimu, arba su lenkų vyskupais dėl dešimtinės ir šv.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: '], į ugnį įmetę ir dėl ko ta pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta 95 ## Puslapis 112 VILNIAUS MIESTO ISTORIJA I TOMAS laiške Vokietijos miestams?'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Pagaliau Antakalnio vardas pirm tikriausiai buvo duotas tik tai vietovei, kurioje stovėjo pagonių šven­ tykla, o ne dabartiniam priemiesčiui, 109 ## Puslapis 126 VILNIAUS MIESTO ISTORIJA / TOMAS Aplink pilį spietėsi miestas: medinės trobos, kurių didžiu­ ma.'
   pagrindžia:
@@ -185,10 +181,6 @@ tags:
   teiginys: 'Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbationem 244 ## Puslapis 261 III KNYGA būtų nukelta arba taptų filija ir priklausytų Pabaisko baž­ nyčiai, kaip kad yra Vronove ir Viešėje stovinčios bažny­ čios.'
   pagrindžia:
     - c-031
-- t-032
-  teiginys: 'Taip pat norime, kad ir Vepriuose pagal senąjį paprotį Pabaisko kle­ bonui būtų atiduodamas dešimtas grūdas nuo visų javų, ~ • - 245 ## Puslapis 262 VILNIAUS MIESTO ISTORIJA // TOMAS more antiquo Plebano Poboyscensi dari Volumus Item Nobi­ les Isti intra.'
-  pagrindžia:
-    - c-032
 - t-033
   teiginys: '255 ## Puslapis 272 VILNIAUS MIESTO ISTORIJA// TOMAS upės skiriamas, kelių mylių proskynoje tvarkingai statinių tvora aptvertas, vadinamas žvėrynu.'
   pagrindžia:
@@ -285,10 +277,6 @@ tags:
   teiginys: 'Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU 1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES 1533.'
   pagrindžia:
     - c-056
-- t-057
-  teiginys: ', Civitatis famulos et Officiales, ob receptum a subditis Capituli vinum sublimatum, et panes contra constitutionem minores factos, — • - 378 ## Puslapis 395 IV KNYGA Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­ tuvos, Rusios ir visos Prūsijos bei.'
-  pagrindžia:
-    - c-057
 - t-058
   teiginys: 'Kaip minėtoji kapitula dėl atimtos iš kapitu­ los valdinių degtinės ir mažesnės, negu nurodyta, iškeptos 379 ## Puslapis 396 VILNIAUS MIESTO ISTORIJA// TOMAS sententijs excommunicationis innodasset.'
   pagrindžia:
@@ -305,22 +293,10 @@ tags:
   teiginys: 'Ap­ mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­ togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii- ----• ---- 386 ## Puslapis 403 IV KNYGA niaus pilies viršininkas, todėl.'
   pagrindžia:
     - c-061
-- t-062
-  teiginys: ', Geor­ gio Luceorien., Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
-  pagrindžia:
-    - c-062
-- t-063
-  teiginys: ', Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
-  pagrindžia:
-    - c-063
 - t-064
   teiginys: 'Kalbama, kad dėl šių dalykų pati bažnyčia patyrė nemaža nuostolio, kadangi nuo senų laikų iš šių bažnyčiai priklausančių mėsos krautuvių presbiteriams 407 ## Puslapis 424 VILNIAUS MIESTO ISTORIJA// TOMAS detrimentum, ad Ecclesiam ipsam ut dicitur pervenit.'
   pagrindžia:
     - c-064
-- t-065
-  teiginys: ', sive illi sint nostri proprij, sive etiam aliorum quorum­ cunque Dominorum sukditi, et alij omnes, tam incolae ipsius 408 ## Puslapis 425 IV KNYGA ir katedros bažnyčios tarnams, giedantiems joje psalmyną, buvo mokamas kasmetinis nustatytas činšas.'
-  pagrindžia:
-    - c-065
 - t-066
   teiginys: '410 ## Puslapis 427 IV KNYGA turgumi naudotis, visiškai negaliojant vaito ar advokato, ar tarėjų bei kitų Vilniaus gyventojų draudimams.'
   pagrindžia:
@@ -353,6 +329,30 @@ tags:
   teiginys: 'Šiuo mūsų įsakymu norime, kad visi bendrai 445 ## Puslapis 462 VILNIAUS MIESTO ISTORIJA II TOMAS mūsų pavaldiniai kaip Lenkijoje, taip ir Lietuvoje, ir kitose mūsų karalystės valdose privalėtų išlaikyti dešimties len­ kiškų grivinų baudą ir ši bauda į bet.'
   pagrindžia:
     - c-073
+- t-074
+  teiginys: '], į ugnį įmetę ir dėl ko ta pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta 95 ## Puslapis 112 VILNIAUS MIESTO ISTORIJA I TOMAS laiške Vokietijos miestams?'
+  pagrindžia:
+    - c-074
+- t-075
+  teiginys: 'Taip pat norime, kad ir Vepriuose pagal senąjį paprotį Pabaisko kle­ bonui būtų atiduodamas dešimtas grūdas nuo visų javų, ~ • - 245 ## Puslapis 262 VILNIAUS MIESTO ISTORIJA // TOMAS more antiquo Plebano Poboyscensi dari Volumus Item Nobi­ les Isti intra.'
+  pagrindžia:
+    - c-075
+- t-076
+  teiginys: ', Civitatis famulos et Officiales, ob receptum a subditis Capituli vinum sublimatum, et panes contra constitutionem minores factos, — • - 378 ## Puslapis 395 IV KNYGA Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­ tuvos, Rusios ir visos Prūsijos bei.'
+  pagrindžia:
+    - c-076
+- t-077
+  teiginys: ', Geor­ gio Luceorien., Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
+  pagrindžia:
+    - c-077
+- t-078
+  teiginys: ', Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
+  pagrindžia:
+    - c-078
+- t-079
+  teiginys: ', sive illi sint nostri proprij, sive etiam aliorum quorum­ cunque Dominorum sukditi, et alij omnes, tam incolae ipsius 408 ## Puslapis 425 IV KNYGA ir katedros bažnyčios tarnams, giedantiems joje psalmyną, buvo mokamas kasmetinis nustatytas činšas.'
+  pagrindžia:
+    - c-079
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '), 43 ## Puslapis 60 VILNIAUS MIESTO ISTORIJA / TOMAS prijde na Połołckie Kniazi na Rohwołomiesłi Welikij Mstisław Vdodymerowicz Manamat i Pdtesk wziął, a Rohvdodowiczy zabieżali w Carhrad. Litwa w tu poru dan dajasze Kniaziem Pdockim, a wiadoma swoimi.'
@@ -500,31 +500,6 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: '], į ugnį įmetę ir dėl ko ta pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta 95 ## Puslapis 112 VILNIAUS MIESTO ISTORIJA I TOMAS laiške Vokietijos miestams?'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ], į ugnį įmetę ir dėl ko ta
-    pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta
-    95
-
-    ## Puslapis 112
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    laiške Vokietijos miestams? Gal todėl, kad daugybė Ordino
-    riterių, būtent, Ordino kunigas Jonas Rygietis, Vendeno
-    komtūras Reimaras fon Hanė, Karkuso valdytojas (Vogt) Mi­
-    kalojus fon Parsau ir Gotfridas fon Ustas (Ost) buvo Liube­
-    ke ir galėjo užginčyti šį tvirtinimą? Pagaliau kam visuose
-    trijuose laiškuose kartojama, kad tas pats antspaudas buvo
-    uždėtas ir ant laiško popiežiui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Pagaliau Antakalnio vardas pirm tikriausiai buvo duotas tik tai vietovei, kurioje stovėjo pagonių šven­ tykla, o ne dabartiniam priemiesčiui, 109 ## Puslapis 126 VILNIAUS MIESTO ISTORIJA / TOMAS Aplink pilį spietėsi miestas: medinės trobos, kurių didžiu­ ma.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1352,35 +1327,6 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-031
-- c-032
-  santrauka: 'Taip pat norime, kad ir Vepriuose pagal senąjį paprotį Pabaisko kle­ bonui būtų atiduodamas dešimtas grūdas nuo visų javų, ~ • - 245 ## Puslapis 262 VILNIAUS MIESTO ISTORIJA // TOMAS more antiquo Plebano Poboyscensi dari Volumus Item Nobi­ les Isti intra.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    .žemių su Martynu Špingučiu, iš
-    kurių anksčiau visada dešimtinė būdavo mokama. Taip pat
-    norime, kad ir Vepriuose pagal senąjį paprotį Pabaisko kle­
-    bonui būtų atiduodamas dešimtas grūdas nuo visų javų,
-    ~  • -
-    245
-
-    ## Puslapis 262
-
-    VILNIAUS MIESTO ISTORIJA // TOMAS
-    more antiquo Plebano Poboyscensi dari Volumus Item Nobi­
-    les Isti intra Limites Parocbiales Existentes Decimas more
-    Antiquo Plebanis dabunt: Joannes Stanczykowicz, Stanis­
-    laus Mil inowicz, Stanislaus Piotrasowicz, Matkias cum
-    Fratre Casparo, Januschowiczy, Alexander Bartbol omieje-
-    wicz, Fel icia Vid ua Ossczilowna, Paulus Juriewicz, Juriewa
-    Maresckalkowa; Item Joannes Wacławowicz, Czyżewicz De­
-    cimam debent Eidem Ecclesiae solvere ex Bonis omnibus .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-032
 - c-033
   santrauka: '255 ## Puslapis 272 VILNIAUS MIESTO ISTORIJA// TOMAS upės skiriamas, kelių mylių proskynoje tvarkingai statinių tvora aptvertas, vadinamas žvėrynu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2215,38 +2161,6 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-056
-- c-057
-  santrauka: ', Civitatis famulos et Officiales, ob receptum a subditis Capituli vinum sublimatum, et panes contra constitutionem minores factos, — • - 378 ## Puslapis 395 IV KNYGA Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­ tuvos, Rusios ir visos Prūsijos bei.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , Civitatis
-    famulos et Officiales, ob receptum a subditis Capituli vinum
-    sublimatum, et panes contra constitutionem minores factos,
-    —  • -
-    378
-
-    ## Puslapis 395
-
-    IV KNYGA
-    Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­
-    tuvos, Rusios ir visos Prūsijos bei Mazovijos ir 1.1, kunigaikš­
-    tis. Ponas ir tėvonis. Šiuo raštu skelbiame visiems, kam da­
-    bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
-    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
-    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
-    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
-    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
-    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
-    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
-    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
-    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-057
 - c-058
   santrauka: 'Kaip minėtoji kapitula dėl atimtos iš kapitu­ los valdinių degtinės ir mažesnės, negu nurodyta, iškeptos 379 ## Puslapis 396 VILNIAUS MIESTO ISTORIJA// TOMAS sententijs excommunicationis innodasset.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2398,54 +2312,6 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-061
-- c-062
-  santrauka: ', Geor­ gio Luceorien., Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , Geor­
-    gio Luceorien., Venceslao Mednicensi Episcopis, nec non
-    402
-
-    ## Puslapis 419
-
-    IV KNYGA
-    laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­
-    bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo
-    ar ruošiasi įsigyti. Be to, suteikiame dvasiškiams pilną ir ne­
-    ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
-    se, dominijose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-062
-- c-063
-  santrauka: ', Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , Venceslao Mednicensi Episcopis, nec non
-    402
-
-    ## Puslapis 419
-
-    IV KNYGA
-    laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­
-    bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo
-    ar ruošiasi įsigyti. Be to, suteikiame dvasiškiams pilną ir ne­
-    ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
-    se, dominijose. Norime, kad ponai vyskupai turėtų įgalioji­
-    mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto
-    neaprobuotas santuokas, o paklusti nenorinčius bausti baž­
-    nytinėmis bausmėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-063
 - c-064
   santrauka: 'Kalbama, kad dėl šių dalykų pati bažnyčia patyrė nemaža nuostolio, kadangi nuo senų laikų iš šių bažnyčiai priklausančių mėsos krautuvių presbiteriams 407 ## Puslapis 424 VILNIAUS MIESTO ISTORIJA// TOMAS detrimentum, ad Ecclesiam ipsam ut dicitur pervenit.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2469,41 +2335,6 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-064
-- c-065
-  santrauka: ', sive illi sint nostri proprij, sive etiam aliorum quorum­ cunque Dominorum sukditi, et alij omnes, tam incolae ipsius 408 ## Puslapis 425 IV KNYGA ir katedros bažnyčios tarnams, giedantiems joje psalmyną, buvo mokamas kasmetinis nustatytas činšas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    , sive illi sint nostri proprij, sive etiam aliorum quorum­
-    cunque Dominorum sukditi, et alij omnes, tam incolae ipsius
-    408
-
-    ## Puslapis 425
-
-    IV  KNYGA
-    ir katedros bažnyčios tarnams, giedantiems joje psalmyną,
-    buvo mokamas kasmetinis nustatytas činšas. Taigi, kai šis
-    ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­
-    rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­
-    dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­
-    klausančioje jam ir jo katedros bažnyčiai, savo ir savo
-    įpėdinių bei bažnyčios reikmėms įsteigti ir pastatyti kiek nors
-    naujų mėsinių, iš kurių reikėtų sumokėti mokestį psalteris-
-    tams, mes manėme, kad verta sutikti ir leisti. Taigi mes jo
-    teisėtam prašymui pritardami ir, norėdami sustiprinti Die­
-    vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­
-    riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­
-    čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje,
-    kuri jam atrodo tinkamesnė, įrengti ir pastatyti tiek krautu­
-    vių mėsininkams, kiek nuo seno tarp kitų miestietiškų mė­
-    sos prekyviečių turguje ir Vilniaus aikštėje pats vyskupas
-    turėjo ir valdė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-065
 - c-066
   santrauka: '410 ## Puslapis 427 IV KNYGA turgumi naudotis, visiškai negaliojant vaito ar advokato, ar tarėjų bei kitų Vilniaus gyventojų draudimams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -2744,6 +2575,175 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-073
+- c-074
+  santrauka: '], į ugnį įmetę ir dėl ko ta pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta 95 ## Puslapis 112 VILNIAUS MIESTO ISTORIJA I TOMAS laiške Vokietijos miestams?'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ], į ugnį įmetę ir dėl ko ta
+    pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta
+    95
+
+    ## Puslapis 112
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    laiške Vokietijos miestams? Gal todėl, kad daugybė Ordino
+    riterių, būtent, Ordino kunigas Jonas Rygietis, Vendeno
+    komtūras Reimaras fon Hanė, Karkuso valdytojas (Vogt) Mi­
+    kalojus fon Parsau ir Gotfridas fon Ustas (Ost) buvo Liube­
+    ke ir galėjo užginčyti šį tvirtinimą? Pagaliau kam visuose
+    trijuose laiškuose kartojama, kad tas pats antspaudas buvo
+    uždėtas ir ant laiško popiežiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-074
+- c-075
+  santrauka: 'Taip pat norime, kad ir Vepriuose pagal senąjį paprotį Pabaisko kle­ bonui būtų atiduodamas dešimtas grūdas nuo visų javų, ~ • - 245 ## Puslapis 262 VILNIAUS MIESTO ISTORIJA // TOMAS more antiquo Plebano Poboyscensi dari Volumus Item Nobi­ les Isti intra.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    .žemių su Martynu Špingučiu, iš
+    kurių anksčiau visada dešimtinė būdavo mokama. Taip pat
+    norime, kad ir Vepriuose pagal senąjį paprotį Pabaisko kle­
+    bonui būtų atiduodamas dešimtas grūdas nuo visų javų,
+    ~  • -
+    245
+
+    ## Puslapis 262
+
+    VILNIAUS MIESTO ISTORIJA // TOMAS
+    more antiquo Plebano Poboyscensi dari Volumus Item Nobi­
+    les Isti intra Limites Parocbiales Existentes Decimas more
+    Antiquo Plebanis dabunt: Joannes Stanczykowicz, Stanis­
+    laus Mil inowicz, Stanislaus Piotrasowicz, Matkias cum
+    Fratre Casparo, Januschowiczy, Alexander Bartbol omieje-
+    wicz, Fel icia Vid ua Ossczilowna, Paulus Juriewicz, Juriewa
+    Maresckalkowa; Item Joannes Wacławowicz, Czyżewicz De­
+    cimam debent Eidem Ecclesiae solvere ex Bonis omnibus .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-075
+- c-076
+  santrauka: ', Civitatis famulos et Officiales, ob receptum a subditis Capituli vinum sublimatum, et panes contra constitutionem minores factos, — • - 378 ## Puslapis 395 IV KNYGA Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­ tuvos, Rusios ir visos Prūsijos bei.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , Civitatis
+    famulos et Officiales, ob receptum a subditis Capituli vinum
+    sublimatum, et panes contra constitutionem minores factos,
+    —  • -
+    378
+
+    ## Puslapis 395
+
+    IV KNYGA
+    Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­
+    tuvos, Rusios ir visos Prūsijos bei Mazovijos ir 1.1, kunigaikš­
+    tis. Ponas ir tėvonis. Šiuo raštu skelbiame visiems, kam da­
+    bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
+    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
+    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
+    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
+    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
+    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
+    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
+    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
+    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-076
+- c-077
+  santrauka: ', Geor­ gio Luceorien., Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , Geor­
+    gio Luceorien., Venceslao Mednicensi Episcopis, nec non
+    402
+
+    ## Puslapis 419
+
+    IV KNYGA
+    laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­
+    bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo
+    ar ruošiasi įsigyti. Be to, suteikiame dvasiškiams pilną ir ne­
+    ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
+    se, dominijose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-077
+- c-078
+  santrauka: ', Venceslao Mednicensi Episcopis, nec non 402 ## Puslapis 419 IV KNYGA laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­ bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo ar ruošiasi įsigyti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , Venceslao Mednicensi Episcopis, nec non
+    402
+
+    ## Puslapis 419
+
+    IV KNYGA
+    laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­
+    bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo
+    ar ruošiasi įsigyti. Be to, suteikiame dvasiškiams pilną ir ne­
+    ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
+    se, dominijose. Norime, kad ponai vyskupai turėtų įgalioji­
+    mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto
+    neaprobuotas santuokas, o paklusti nenorinčius bausti baž­
+    nytinėmis bausmėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-078
+- c-079
+  santrauka: ', sive illi sint nostri proprij, sive etiam aliorum quorum­ cunque Dominorum sukditi, et alij omnes, tam incolae ipsius 408 ## Puslapis 425 IV KNYGA ir katedros bažnyčios tarnams, giedantiems joje psalmyną, buvo mokamas kasmetinis nustatytas činšas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , sive illi sint nostri proprij, sive etiam aliorum quorum­
+    cunque Dominorum sukditi, et alij omnes, tam incolae ipsius
+    408
+
+    ## Puslapis 425
+
+    IV  KNYGA
+    ir katedros bažnyčios tarnams, giedantiems joje psalmyną,
+    buvo mokamas kasmetinis nustatytas činšas. Taigi, kai šis
+    ginčas ilgai užsitęsė ir mūsų komisarai sunkiai begalėjo ty­
+    rimą užbaigti, pats ponas Vilniaus vyskupas prašė mūsų lei­
+    dimo Vilniaus mieste, bažnyčios žemėje ir teritorijoje, pri­
+    klausančioje jam ir jo katedros bažnyčiai, savo ir savo
+    įpėdinių bei bažnyčios reikmėms įsteigti ir pastatyti kiek nors
+    naujų mėsinių, iš kurių reikėtų sumokėti mokestį psalteris-
+    tams, mes manėme, kad verta sutikti ir leisti. Taigi mes jo
+    teisėtam prašymui pritardami ir, norėdami sustiprinti Die­
+    vo garbinimą, sutikti ir leisti jam tai nusprendėme ir nuta­
+    riame bei šiuo mūsų raštu leidžiame aikštėje ir savo bažny­
+    čios teritorijoje minėtame mūsų Vilniaus mieste, toje vietoje,
+    kuri jam atrodo tinkamesnė, įrengti ir pastatyti tiek krautu­
+    vių mėsininkams, kiek nuo seno tarp kitų miestietiškų mė­
+    sos prekyviečių turguje ir Vilniaus aikštėje pats vyskupas
+    turėjo ir valdė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-079
 
 ## Ryšiai
 ### Susiję objektai
@@ -2812,6 +2812,7 @@ tags:
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Uršulė]]
 - [[objektai/asmenys/Vaidila]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/asmenys/Vendrichovskis]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/posakiai/Viešpaties vardu Amen]]
@@ -2879,14 +2880,12 @@ tags:
 - [[objektai/paprociai/Akademijos profesorių, studentų ir varguolių išlaikymas iš fundacinių pajamų]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/grupes/Apaštalų Sostas]]
-- [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]
 - [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]
 - [[objektai/grupes/Bernardinų ordinas]]
 - [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]
 - [[objektai/asmenys/Fotijus]]
 - [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
 - [[objektai/asmenys/Jonas Hlebavičius]]
-- [[objektai/asmenys/Jonas Rygietis]]
 - [[objektai/asmenys/Jurgis Volazkavičius]]
 - [[objektai/zodynas/Juris Civilis et Canonici civilinė ir kanonų teisė]]
 - [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
@@ -2894,15 +2893,12 @@ tags:
 - [[objektai/grupes/Lietuvos senatoriai]]
 - [[objektai/grupes/Maloningosios Dievo Motinos brolija]]
 - [[objektai/grupes/Maskvos metropolitai]]
-- [[objektai/asmenys/Mikalojus fon Parsau]]
 - [[objektai/asmenys/Motiejus iš Blonios]]
 - [[objektai/asmenys/Povilas Višenskis]]
 - [[objektai/zodynas/Puslapis 67]]
 - [[objektai/grupes/Radvilų giminė]]
-- [[objektai/asmenys/Reimaras fon Hanė]]
 - [[objektai/zodynas/Rygos miesto teisė]]
 - [[objektai/asmenys/Ulrikas Hozijus]]
-- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/grupes/Varmės kapitula]]
 - [[objektai/grupes/Vilniaus akademijos kolegija]]
 - [[objektai/grupes/Vilniaus jėzuitų kolegija]]
@@ -2911,7 +2907,6 @@ tags:
 - [[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)]]
-- [[objektai/zodynas/Vogt valdytojas]]
 - [[objektai/zodynas/Wielkierz Wilkirz Willkühren]]
 - [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai]]
 - [[objektai/zodynas/atskalūnai eretikai kitatikystė]]
@@ -2920,6 +2915,7 @@ tags:
 - [[objektai/zodynas/fizikas rūmų daktaras Leibarzt]]
 - [[objektai/zodynas/grivina, egzekucija, instigacija ir toties quoties]]
 - [[objektai/zodynas/indiktas]]
+- [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai]]
 - [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai]]
 - [[objektai/zodynas/magistratas miesto valdyba]]

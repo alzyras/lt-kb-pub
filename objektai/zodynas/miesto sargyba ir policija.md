@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'miesto sargyba ir policija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1522 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1522'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - pilis
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # miesto sargyba ir policija
 
@@ -30,13 +24,15 @@ tags:
 Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti, kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­ tų gerai prižiūrimos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti, kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­ tų gerai prižiūrimos.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti, kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­ tų gerai prižiūrimos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
@@ -51,9 +47,7 @@ Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­ rėti šarvus, muškiet
     ma dieną ir naktį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

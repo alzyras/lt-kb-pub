@@ -45,10 +45,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   teiginys: 'Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Išliko nemaža įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­ vystė nemažą prekybą, ypač kailiais, nukakdami iki pat Gniezno ir kitų Didžiosios Lenkijos miestų.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: '67 Be karaliaus Stepono laiškų, rašytų dėl kalendorinių ginčų, Dubinsk i o išspausdintų „Vilniaus miesto privilegijų rinkinyje", p. 149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae.'
   pagrindžia:
@@ -69,6 +65,10 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   teiginys: 'O la­ biausiai [pageidaujame], kad Jūsų Didenybė Vilniaus mies­ te pagal savo pareigą įsakytų Vilniaus miestiečiams ir pirkliams neprieštaraujant apskaičiuoti ir sumokėti šiuos muitus, be to, ir vadinamuosius Czopowe i Szosowe mokes­ čius taip, kaip šiais.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Išliko nemaža įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­ vystė nemažą prekybą, ypač kailiais, nukakdami iki pat Gniezno ir kitų Didžiosios Lenkijos miestų.'
+  pagrindžia:
+    - c-010
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado daug lobingų, su svečiais kraštais mainus vykdančių pirklių19.'
@@ -184,28 +184,6 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Išliko nemaža įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­ vystė nemažą prekybą, ypač kailiais, nukakdami iki pat Gniezno ir kitų Didžiosios Lenkijos miestų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jis norėjo, kad visi
-    gyventų saugiai, gynė nuo piktnaudžiavimų, prižiūrėdamas
-    nuo jo priklausančias teises, ir kartą įgytą savo valdžios au­
-    toritetą sugebėjo tvirtai išsaugoti iki pabaigos. Išliko nemaža
-    įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­
-    vystė nemažą prekybą, ypač kailiais, nukakdami iki pat
-    Gniezno ir kitų Didžiosios Lenkijos miestų. Karališkųjų
-    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
-    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
-    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
-    dė54.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: '67 Be karaliaus Stepono laiškų, rašytų dėl kalendorinių ginčų, Dubinsk i o išspausdintų „Vilniaus miesto privilegijų rinkinyje", p. 149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -349,6 +327,28 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Išliko nemaža įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­ vystė nemažą prekybą, ypač kailiais, nukakdami iki pat Gniezno ir kitų Didžiosios Lenkijos miestų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jis norėjo, kad visi
+    gyventų saugiai, gynė nuo piktnaudžiavimų, prižiūrėdamas
+    nuo jo priklausančias teises, ir kartą įgytą savo valdžios au­
+    toritetą sugebėjo tvirtai išsaugoti iki pabaigos. Išliko nemaža
+    įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­
+    vystė nemažą prekybą, ypač kailiais, nukakdami iki pat
+    Gniezno ir kitų Didžiosios Lenkijos miestų. Karališkųjų
+    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
+    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
+    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
+    dė54.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -371,6 +371,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
 - [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
 - [[objektai/asmenys/Grigalius Čiškovičius]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/asmenys/Stanislovas Sabina]]
 - [[objektai/zodynas/miesto sargybos viršininkas]]
 - [[objektai/zodynas/Puslapis 77]]

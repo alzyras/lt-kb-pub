@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1529 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1529'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
   - miestas
   - privilegija
+amziai:
+  - 'XVI'
 ---
 # Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės
 
@@ -30,57 +24,45 @@ tags:
 19 Žaliaminės odos ir ypač vaškas tuo laiku buvo svarbiausios išvežamo­ sios prekės. Nauji svečių namai toje vietoje, kur iki šiol sto­ vi, buvo pastatyti miesto lėšomis, taip pat ir kailiadirbių na­ mai prie mūrinių krautuvių turguje, - juose ant sienų par­ davimui iškabintos kepurės ir kailiai teikė patogumą pirkliams ir pirkėjams, o. Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '19 Žaliaminės odos ir ypač vaškas tuo laiku buvo svarbiausios išvežamo­ sios prekės.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Nauji svečių namai toje vietoje, kur iki šiol sto­ vi, buvo pastatyti miesto lėšomis, taip pat ir kailiadirbių na­ mai prie mūrinių krautuvių turguje, - juose ant sienų par­ davimui iškabintos kepurės ir kailiai teikė patogumą pirkliams ir pirkėjams, o.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '19 Žaliaminės odos ir ypač vaškas tuo laiku buvo svarbiausios išvežamo­ sios prekės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    243,
-    sqq.
-    19
-    Žaliaminės odos ir ypač vaškas tuo
-    laiku buvo svarbiausios išvežamo­
-    sios prekės. Tai matyti iš gausybės
-    karaliaus draudimų muitininkams,
-    kad nuo vaško ir kitų prekių iš Vil­
-    niaus pirklių neimtų muito.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: 'Nauji svečių namai toje vietoje, kur iki šiol sto­ vi, buvo pastatyti miesto lėšomis, taip pat ir kailiadirbių na­ mai prie mūrinių krautuvių turguje, - juose ant sienų par­ davimui iškabintos kepurės ir kailiai teikė patogumą pirkliams ir pirkėjams, o.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau savo kai­
@@ -96,13 +78,11 @@ Nenurodyta
     lus vaško po 50 akmenų], fol.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau
@@ -170,11 +150,27 @@ Nenurodyta
     vams, vadinamoms vytinėms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    243,
+    sqq.
+    19
+    Žaliaminės odos ir ypač vaškas tuo
+    laiku buvo svarbiausios išvežamo­
+    sios prekės. Tai matyti iš gausybės
+    karaliaus draudimų muitininkams,
+    kad nuo vaško ir kitų prekių iš Vil­
+    niaus pirklių neimtų muito.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai
@@ -184,6 +180,7 @@ Nenurodyta
 - [[objektai/daiktai/Vaškas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/metrika]]
+- [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Vilniaus pirkliai]]

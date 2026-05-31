@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Bolševikų 2-asis šaulių pulkas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - grupe
@@ -25,16 +16,15 @@ tags:
 Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas, savo gretose turėjęs apie 900 ar 1 000 kovotojų su sunkiaisiais kulkosvaidžiais ir dviem lengvaisiais pabūklais.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas, savo gretose turėjęs apie 900 ar 1 000 kovotojų su sunkiaisiais kulkosvaidžiais ir dviem lengvaisiais pabūklais.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas, savo gretose turėjęs apie 900 ar 1 000 kovotojų su sunkiaisiais kulkosvaidžiais ir dviem lengvaisiais pabūklais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo tarpu Kėdainių kryptimi pa-
@@ -56,13 +46,38 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
     žadėtų ginklų, sausio 14 d.
     pasitraukė į Kruopius (10 km
     nuo Kėdainių Kauno link).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas, savo gretose turėjęs apie 900 ar 1 000 kovotojų su sunkiaisiais kulkosvaidžiais ir dviem lengvaisiais pabūklais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Atvykus
+    būriui iš Panevėžio, Kėdainių miesto
+    įgula gerokai išaugo (apie 200 sa-
+    vanorių), bet jai trūko ginklų.
+
+    Tuo tarpu Kėdainių kryptimi pa-
+    mažu artėjo bolševikų 2-asis šau-
+    lių pulkas, savo gretose turėjęs
+    apie 900 ar 1 000 kovotojų su
+    sunkiaisiais kulkosvaidžiais
+    ir dviem lengvaisiais pabūk-
+    lais. Lyginant su puolančiai-
+    siais Kėdainių gynėjai gyvąja
+
+    jėga teprilygo maždaug penktadaliui priešo
+
+    pajėgų, o ir ginkluotė jų buvo menkesnė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

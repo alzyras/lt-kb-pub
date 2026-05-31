@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1321 m.'
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1321'
 date_end: '1323'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - miestas
   - popiežius
+amziai:
+  - 'XIV'
 ---
 # Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)
 
@@ -31,37 +25,49 @@ tags:
 , valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms skyręs; pavadino ją vardu tėvo, Šventaragio, kas reikštų Šventą al- 18 ## Puslapis 35 I KNYGA Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų. • - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei. Foigtas nurodo, kad šios Vilniu- 1323 m. N.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: ', valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms skyręs; pavadino ją vardu tėvo, Šventaragio, kas reikštų Šventą al- 18 ## Puslapis 35 I KNYGA Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: '• - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Foigtas nurodo, kad šios Vilniu- 1323 m. N.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: '• - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: ', valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms skyręs; pavadino ją vardu tėvo, Šventaragio, kas reikštų Šventą al- 18 ## Puslapis 35 I KNYGA Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: ', valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms skyręs; pavadino ją vardu tėvo, Šventaragio, kas reikštų Šventą al- 18 ## Puslapis 35 I KNYGA Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    , valią, tam slėny pir­
+    Wilno 1740 in 8vo, skyr. I. Esą
+    pirmasis toje vietovėje įkurdinęs gy­
+    venvietę Germantas, vykdydamas
+    savo tėvo, kunigaikščio Šventaragio,
+    pasak jų, viešpatavusio Lietuvoje
+    apie 1268 m., valią, tam slėny pir­
     masis miškus išnaikinęs ir savo tė­
     vo bei savo paties įpėdinių kapavie­
     tėms skyręs; pavadino ją vardu tėvo,
@@ -81,13 +87,11 @@ Nenurodyta
     torių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '• - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     -  •  -
@@ -117,13 +121,11 @@ Nenurodyta
     ją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Foigtas nurodo, kad šios Vilniu- 1323 m. N.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai tas galingas valdovas įsakė ant kal­
@@ -145,9 +147,7 @@ Nenurodyta
     gyventojai - įvairių padermių ir įvairiais sumetimais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

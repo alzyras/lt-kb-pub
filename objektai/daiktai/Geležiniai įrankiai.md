@@ -80,6 +80,5 @@ Nenurodyta
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/autoriai/J. Stankus]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/daiktai/Sidabro dirbiniai]]
 - [[objektai/daiktai/Skydai]]

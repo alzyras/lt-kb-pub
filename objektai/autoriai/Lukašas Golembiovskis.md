@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Lukašas Golembiovskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ginklas
@@ -26,13 +17,15 @@ tags:
 Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir pilis) tik Lietuvos provincijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
@@ -52,9 +45,7 @@ Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­ dinęs ginklus ir
     sams daryti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

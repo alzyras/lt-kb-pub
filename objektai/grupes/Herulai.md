@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Herulai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kraštas
@@ -27,13 +18,15 @@ tags:
 Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­ vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje Lietuvos vardu tapo žinoma Europai1.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­ vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje Lietuvos vardu tapo žinoma Europai1.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­ vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje Lietuvos vardu tapo žinoma Europai1.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Abi šios gentys, artėdamos viena prie kitos, stūmė iš
@@ -56,9 +49,7 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
     Nemuno ir Būgo žiočių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

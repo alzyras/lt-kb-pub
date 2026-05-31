@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'I. Štai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1966 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1966'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # I. Štai
 
@@ -27,15 +23,26 @@ tags:
 Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C' ■^la ir toliau cit. pagal Gedimino laiš­ kai, parengė V. Pašuta ir I. Štai.
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'' ■^la ir toliau cit. pagal Gedimino laiš­ kai, parengė V. Pašuta ir I. Štai.'
+  teiginys: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'''' ■^la ir toliau cit. pagal Gedimino laiš­ kai, parengė V. Pašuta ir I. Štai.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'' ■^la ir toliau cit. pagal Gedimino laiš­ kai, parengė V. Pašuta ir I. Štai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Todėl prašome, kad jūs paskelbtumėte šį [laišką] žmo­
+    nėms miestuose, vietovėse bei kaimuose, kur tik kuriam nors
+    iš jūsiškių teks sakyti pamokslą.
+    Taip pat, jei bus [tarp jų] riterių ir ginklanešių, duosime
+    jiems pajamų ir žemės, kiek norės; pirkliams, meistrams, ra­
+    čiams, svaidomų pabūklų gamintojams, kurpiams ir [kitiems]
+    bet kokios srities amatininkams suteikiame laisvę; įeiti į mū­
+    sų žemę ir išeiti [iš jos] drauge su žmonomis, vaikais ir galvi­
+    jais be jokių rinkliavų arba muitų ir nedarant jokių kliūčių.
     Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
     dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad
     užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,
@@ -46,9 +53,7 @@ Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudeg
     M- Ročka], Vilnius, Mintis, 1966.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

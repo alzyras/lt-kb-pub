@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Maukoldas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1128 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 date_start: '1128'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - miestas
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Maukoldas
 
@@ -30,20 +26,23 @@ tags:
 48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą. Vis dėlto gal po ta genealogi­ nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­ tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei.
 
 ## Teiginiai
-- t-001
-  teiginys: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Vis dėlto gal po ta genealogi­ nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­ tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '48), liudija, kad XII amžiuje jau būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­ lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivičių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    48), liudija, kad XII amžiuje jau
+    I. 48), liudija, kad XII amžiuje jau
     būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
     lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
     čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
@@ -55,13 +54,11 @@ tags:
     vas3.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Vis dėlto gal po ta genealogi­ nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­ tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau atsižvelgdami į tai, jog jis tikriausiai
@@ -78,9 +75,7 @@ tags:
     vado Viliaus, kuris juos iš Italijos atvedęs0.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

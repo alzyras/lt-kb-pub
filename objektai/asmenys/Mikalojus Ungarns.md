@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mikalojus Ungarns'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - privilegija
@@ -26,13 +17,15 @@ tags:
 O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­ ninkus ir garsusis Albertas Skvemevita per savo įgaliotinius paaiškino, kad minėtasis kaltinamasis turi gauti numatytą jų privilegijoje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­ ninkus ir garsusis Albertas Skvemevita per savo įgaliotinius paaiškino, kad minėtasis kaltinamasis turi gauti numatytą jų privilegijoje.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­ ninkus ir garsusis Albertas Skvemevita per savo įgaliotinius paaiškino, kad minėtasis kaltinamasis turi gauti numatytą jų privilegijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagal mūsų
@@ -51,9 +44,7 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
     kad ten į teismą būtų grąžintas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

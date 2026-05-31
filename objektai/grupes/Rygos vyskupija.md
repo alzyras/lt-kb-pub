@@ -63,4 +63,5 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Fulvio Ruggieri]]
 - [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Livonijos konfederacija]]

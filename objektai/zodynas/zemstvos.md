@@ -1,29 +1,23 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'zemstvos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1864 m.'
   - '1905 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1864'
 date_end: '1905'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - karalius
   - sąvoka
   - valstybė
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # zemstvos
 
@@ -32,13 +26,15 @@ tags:
 Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos institucijos, vadinamosios zemstvos, veikusios Rusijoje nuo 1864 m. Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos institucijos, vadinamosios zemstvos, veikusios Rusijoje nuo 1864 m. Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos institucijos, vadinamosios zemstvos, veikusios Rusijoje nuo 1864 m. Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva po 1905-ųjų – kultūrinė kova
@@ -58,9 +54,7 @@ Lietuvoje taip ir nebuvo įsteigtos šį modelį papildančios vietos savivaldos
     kijos karalystės autonomijai Dūma nepritarė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

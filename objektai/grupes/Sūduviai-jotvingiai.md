@@ -184,14 +184,14 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   teiginys: 'Dusburgietis teigia, kad otrębski J. Namen von zwei Jatwingerstämmen.— Slawische Namenforschung, Berlin, 1963, S. 204—209. Otrębski J. Udział Jaćwingów w ukształtowaniu języka polskiego.— ABS, Białystok, 1964, 1, s. 207—216.'
   pagrindžia:
     - c-034
-- t-035
-  teiginys: 'Dusburgietis teigia, kad devinta — Sūduva199, kurioje [gyveno] sūduviai.'
-  pagrindžia:
-    - c-042
 - t-036
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės.'
   pagrindžia:
     - c-043
+- t-037
+  teiginys: 'Dusburgietis teigia, kad devinta — Sūduva199, kurioje [gyveno] sūduviai.'
+  pagrindžia:
+    - c-044
 
 ## Reikšmingi paminėjimai
 
@@ -932,20 +932,6 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-026
-- c-042
-  santrauka: 'Dusburgietis teigia, kad devinta — Sūduva199, kurioje [gyveno] sūduviai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    skalviai. Devinta — Sūduva199, kurioje [gyveno] sūduviai. Dešimta — Galinda200, kurioje
-
-      199 D.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-035
 - c-043
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -967,6 +953,20 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-036
+- c-044
+  santrauka: 'Dusburgietis teigia, kad devinta — Sūduva199, kurioje [gyveno] sūduviai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    skalviai. Devinta — Sūduva199, kurioje [gyveno] sūduviai. Dešimta — Galinda200, kurioje
+
+      199 D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
 
 ## Ryšiai
 ### Susiję objektai

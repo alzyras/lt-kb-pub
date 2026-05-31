@@ -55,4 +55,5 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/zodynas/sukilimo inscenizacija]]

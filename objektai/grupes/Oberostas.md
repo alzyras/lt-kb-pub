@@ -218,7 +218,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - [[objektai/asmenys/Paulius fon Hindenburgas]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Stanislovas Narutavičius]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Ėrichas Liudendorfas]]

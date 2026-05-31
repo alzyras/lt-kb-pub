@@ -78,7 +78,7 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   santrauka: '88, 246, 324 Prieglius 180, 253, 260, 274 Pripetė, upė 22, 106, 124, 125, 158, 242, 245, 297 Prioult A.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    88, 246, 324
+    E. 88, 246, 324
     Prieglius 180, 253, 260, 274
     Pripetė, upė 22, 106, 124, 125, 158,
     242, 245, 297

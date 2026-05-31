@@ -1,28 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Torunės pilies sugriovimas (1454 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1300 m.'
   - '1454 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
-  - 'XV'
 date_start: '1300'
 date_end: '1454'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - pilis
+amziai:
+  - 'XIII'
+  - 'XV'
 ---
 # Torunės pilies sugriovimas (1454 m.)
 
@@ -31,26 +24,31 @@ tags:
 Dusburgietis teigia, kad pirmas mūrinės pilies statybos etapas truko iki 1300 m. XIV a.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad pirmas mūrinės pilies statybos etapas truko iki 1300 m. XIV a.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad pirmas mūrinės pilies statybos etapas truko iki 1300 m. XIV a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Pirmas mūrinės pilies statybos
@@ -62,9 +60,7 @@ Nenurodyta
     17—19, 31, 34—35).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

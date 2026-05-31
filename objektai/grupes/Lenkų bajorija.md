@@ -140,5 +140,4 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
-- [[objektai/paprociai/Bajorų privilegijų reikalavimas karo stovykloje]]
 - [[objektai/grupes/Lenkijos bajorija]]

@@ -88,14 +88,14 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   teiginys: 'Nušalinta nuo politinės valdžios bajorija viešpatavo socialiniame visuomenės gyvenime, o bajorų luomas Lenkijoje ir Lietuvoje buvo santykinai kur kas gausesnis nei bet kur kitur Europoje ir sudarė apie 6,5 proc.'
   pagrindžia:
     - c-009
-- t-010
-  teiginys: 'Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Karalystę, nors ir nelinko nuo jos atsiskirti).'
-  pagrindžia:
-    - c-010
 - t-011
   teiginys: 'Žinoma, bajorai savo valstybę prarado, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: 'Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Karalystę, nors ir nelinko nuo jos atsiskirti).'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą.'
@@ -243,21 +243,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-- c-010
-  santrauka: 'Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Karalystę, nors ir nelinko nuo jos atsiskirti).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir
-    lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Kara-
-    lystę, nors ir nelinko nuo jos atsiskirti). Už Lietuvos ribų Lietuvos bajorai
-    laikyti tiesiog lenkais. Taip juos traktavo ir Rusijos imperijos valdžia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 - c-011
   santrauka: 'Žinoma, bajorai savo valstybę prarado, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -280,6 +265,21 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Karalystę, nors ir nelinko nuo jos atsiskirti).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir
+    lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Kara-
+    lystę, nors ir nelinko nuo jos atsiskirti). Už Lietuvos ribų Lietuvos bajorai
+    laikyti tiesiog lenkais. Taip juos traktavo ir Rusijos imperijos valdžia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
@@ -327,7 +327,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
 - [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
-- [[objektai/autoriai/Bielskis]]
 - [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
 - [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]
 - [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
@@ -344,7 +343,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
 - [[objektai/asmenys/Getautas]]
-- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
 - [[objektai/grupes/Haličo kunigaikščiai]]
 - [[objektai/daiktai/Herbai]]
 - [[objektai/daiktai/Herbas]]
@@ -354,10 +352,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/asmenys/J. P. Sapiega]]
 - [[objektai/autoriai/Jacobas Schrenckas]]
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jekaterina II]]
-- [[objektai/grupes/Jogailos giminė]]
-- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]
 - [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]
@@ -368,7 +363,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/asmenys/Jurgis Boliminas]]
 - [[objektai/asmenys/Jurgis Geldgaudas]]
 - [[objektai/autoriai/K. Avižonis]]
-- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
 - [[objektai/autoriai/Karamzin]]
 - [[objektai/ivykiai/Karas su Maskva (1609–1613 m.)]]
 - [[objektai/daiktai/Kardas]]
@@ -404,7 +398,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/paprociai/Lietuvos bajorijos seimai]]
 - [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
 - [[objektai/daiktai/Lietuvos herbas Vytis]]
-- [[objektai/grupes/Lietuvos kilusių bajorų komitetas]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/grupes/Lietuvos ponų taryba]]
@@ -413,11 +406,9 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
-- [[objektai/grupes/Livonijos valstybė]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/asmenys/Mangaila iš Ašmenos]]
-- [[objektai/autoriai/Miechowita Miechovita]]
 - [[objektai/grupes/Miestiečiai ir valstiečiai]]
 - [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
@@ -435,11 +426,9 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/posakiai/Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas]]
 - [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]
-- [[objektai/autoriai/Puslapis 206]]
 - [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)]]
 - [[objektai/grupes/Raudonieji]]
-- [[objektai/grupes/Raudonosios Rusijos ir Podolijos bajorija]]
 - [[objektai/posakiai/Respublika laikosi netvarka]]
 - [[objektai/asmenys/Ringailė]]
 - [[objektai/grupes/Riurikaičių dinastija]]
@@ -455,6 +444,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/asmenys/Silvestras Levontjevičius]]
 - [[objektai/ivykiai/Smolensko užėmimas (1405 m.)]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
 - [[objektai/paprociai/Studijos Europos universitetuose]]
 - [[objektai/paprociai/Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią]]
@@ -520,7 +510,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/zodynas/kilmingieji nobilis vitingai bajorai]]
 - [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]
 - [[objektai/zodynas/knechtas]]
-- [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/leno teisė]]
 - [[objektai/zodynas/leno teisė feodas luominė monarchija]]
 - [[objektai/zodynas/litvomanija]]
@@ -547,6 +536,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/zodynas/tėvūnas]]
+- [[objektai/zodynas/vasalas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/viešė viešės pats]]
 - [[objektai/zodynas/vėliava]]
@@ -559,7 +549,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/ivykiai/Žemaičių sukilimas (1656 m.)]]
 - [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/grupes/Žygimanto šalininkai]]
@@ -571,7 +560,6 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - [[objektai/posakiai/„Šlovinga Lenkijos ir Lietuvos Konstitucija“ „būsimos didybės viltį“]]
 - [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane]]
-- [[objektai/asmenys/Goštautas]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/paprociai/Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams|Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)]]
 - [[objektai/asmenys/Jurgis Galminas]]

@@ -122,5 +122,4 @@ Nenurodyta
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas Augustas]]

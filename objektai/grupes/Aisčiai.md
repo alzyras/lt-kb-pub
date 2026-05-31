@@ -97,7 +97,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Romėnai]]
-- [[objektai/autoriai/A. Salys]]
 - [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
 - [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]
 - [[objektai/zodynas/Alkos ir romuvos]]
@@ -108,7 +107,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - [[objektai/grupes/Germanai]]
 - [[objektai/grupes/Graikai]]
 - [[objektai/autoriai/Jordanes]]
-- [[objektai/autoriai/K. Būga]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/autoriai/Kassiodoras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
@@ -125,7 +123,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale)]]
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
 - [[objektai/grupes/Vidivarii]]
-- [[objektai/grupes/Vikingai]]
 - [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]
 - [[objektai/ivykiai/Vokiečių ordino pasikvietimas pagalbon prieš prūsus]]
 - [[objektai/grupes/Voluiniečiai]]
@@ -148,3 +145,4 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 - [[objektai/paprociai/Šventųjų žalčių laikymas namuose]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/autoriai/J. Puzinas]]
+- [[objektai/autoriai/K. Būga]]

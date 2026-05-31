@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Karo nualintų gyventojų aprūpinimas maistu ir drabužiais'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1390 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1390'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - karas
   - miestas
   - paprotys
+amziai:
+  - 'XIV'
 ---
 # Karo nualintų gyventojų aprūpinimas maistu ir drabužiais
 
@@ -30,29 +24,35 @@ tags:
 Nemažos maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­ kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą praradusiems gyventojams, o karaliaus buvimas stiprino tie­ kos negandų nualintą jų dvasią.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nemažos maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­ kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą praradusiems gyventojams, o karaliaus buvimas stiprino tie­ kos negandų nualintą jų dvasią.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nemažos maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­ kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą praradusiems gyventojams, o karaliaus buvimas stiprino tie­ kos negandų nualintą jų dvasią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
@@ -67,9 +67,7 @@ Nenurodyta
     gyventojai ir statytis namus ant degėsių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 29.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -25,10 +25,8 @@ Objektų skaičius: 29.
 - [[objektai/asmenys/Vincas Kudirka]]
 
 ### Autoriai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Dr. J. Šliūpas]]
-- [[objektai/autoriai/Gražina Indrišiūnienė]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
 - [[objektai/autoriai/Jonas Arvasevičius]]
 - [[objektai/autoriai/K. Jablonskis]]
@@ -50,9 +48,9 @@ Objektų skaičius: 29.
 - [[objektai/grupes/Vilniaus universiteto leidykla]]
 
 ### Papročiai
-- [Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui](../objektai/paprociai/Nelegalios%20lietuvi%C5%B3%20periodin%C4%97s%20spaudos%20leidimas%20ir%20platinimas%20tautiniam%20s%C4%85j%C5%ABd%C5%BEiui)
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 
 ### Įvykiai
-- [„Aušros“ leidimo pradžia](../objektai/ivykiai/%E2%80%9EAu%C5%A1ros%E2%80%9C%20leidimo%20prad%C5%BEia)
+- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
 - [„Lietuvos katalikų bažnyčios kronikos“ leidimo pradžia (1972 m. kovo 19 d.)](../objektai/ivykiai/%E2%80%9ELietuvos%20katalik%C5%B3%20ba%C5%BEny%C4%8Dios%20kronikos%E2%80%9C%20leidimo%20prad%C5%BEia%20%281972%20m.%20kovo%2019%20d.%29)
 - [„Varpo“ leidimo pradžia](../objektai/ivykiai/%E2%80%9EVarpo%E2%80%9C%20leidimo%20prad%C5%BEia)

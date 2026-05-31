@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Šv. Bazilijaus ordinas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - ordinas
@@ -27,13 +18,15 @@ tags:
 Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytės, atkviesti, įsikūrė Vilniuje ir turėjo medinę savo bažnyčią17.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytės, atkviesti, įsikūrė Vilniuje ir turėjo medinę savo bažnyčią17.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytės, atkviesti, įsikūrė Vilniuje ir turėjo medinę savo bažnyčią17.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     26
@@ -51,9 +44,7 @@ Bazilijaus ordi­ no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytė
     atkviesti, įsikūrė Vilniuje ir turėjo medinę savo bažnyčią17.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

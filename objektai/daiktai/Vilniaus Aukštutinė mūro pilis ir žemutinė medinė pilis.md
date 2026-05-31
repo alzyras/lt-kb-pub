@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - kraštas
@@ -27,36 +18,58 @@ tags:
 Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Liz­
+    „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
     deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
     išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
     apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
@@ -70,13 +83,11 @@ Nenurodyta
     XI Knyga, sk.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
@@ -97,9 +108,7 @@ Nenurodyta
     mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

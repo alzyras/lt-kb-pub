@@ -1,33 +1,23 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos Respublikos užsienio reikalų ministerija (institucija)'
-sukurta: '2026-05-14'
-variantai:
-  - 'Lietuvos Respublikos užsienio reikalų ministerija'
-aliases:
-  - 'Lietuvos Respublikos užsienio reikalų ministerija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1009 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'viduramžiai'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XI'
-  - 'XXI'
 date_start: '1009'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - ginklas
   - grupe
   - mokslininkas
+amziai:
+  - 'XI'
+  - 'XXI'
 ---
 # Lietuvos Respublikos užsienio reikalų ministerija (institucija)
 
@@ -36,24 +26,35 @@ tags:
 Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos. Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
   pagrindžia:
     - c-004
 
+- t-003
+  teiginys: 'Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus universiteto Tarptautinių santykių ir politikos mokslų instituto mokslininkus, ne pirmus metus tiriančius istorijos politikos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1990 m. kovo 11 d. atkūrusi nepriklausomybę,
+    2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
+    2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
+    jungai – laisvų ir demokratinių Europos valstybių susivienijimui. Tai iš-
+    skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,
+    bet ir sustiprinti šalių solidarumą ir dėmesingumą žemyno tautų praeičiai
+    ir, žinoma, dar kartą patiems – iš šiandieninio požiūrio taško – pažvelgti
+    ir visam pasauliui priminti, kas buvo, yra (ir bus) Lietuva.
     Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
     reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
     universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
@@ -63,29 +64,33 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
     jais grįstą Lietuvos istorijos veikalą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietu-
+    va sugrįžo į pasaulio žemėlapį, iš kurio prievarta buvo išbraukta 1940 m.
+    vasarą. Lietuvos tarptautinis pripažinimas – dar vienas didžiulis lietuvių
+    tautos pasiekimas XX a. istorijoje.
     Lietuva skubiai formavo savo ginkluotąsias pajėgas, kūrė diplomatinę
     tarnybą, pradėjo steigti ambasadas tose šalyse, kur jų nebuvo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Inga Vinogradnaitė
+    Redakcinė kolegija:
+    Prof. dr. Raimundas Lopata – pirmininkas
+    Prof. dr. Alvydas Jokubaitis
+    Prof. dr. Vytautas Radžvilas
+    Dr. Inga Vinogradnaitė
     Išleista Lietuvos Respublikos
     užsienio reikalų ministerijos užsakymu
     Antras leidimas
@@ -100,12 +105,19 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
     Redaktoriaus žodis  9
     Į v a d a s
     LIETUVA – VIDURIO EUROPOS DALIS  12
-    Geografinis Europos centras?
+    Geografinis Europos centras? 12;  Lietuvos vardo kilmė ir sampratos likimas 13;
+    Pagrindiniai Lietuvos istorijos metmenys 16;  Svarbiausios Lietuvos
+    istorijos datos 21
+    I s k y r i u s
+    SENOJI LIETUVA  22
+    SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS 22
+    Pagonybė ir Lietuvos vardo paminėjimas 1009 metais 23;
+    Mindaugas sukuria Lietuvos valstybę. Mindaugo karūnacija 1253 metais 27;
+    Gediminaičių dinastijos iškilimas 31
+    PAGONIŲ VALSTYBĖ.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
 

@@ -20,12 +20,16 @@ vaidmenys:
   - valdovo vietininkas
 dalyviai: []
 susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1333 m.'
+  - '1341 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1333'
+date_end: '1341'
 patikimumas: aukštas
 atnaujinta: '2026-05-27'
 tags:
@@ -116,10 +120,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginys: 'Šios 19 Waddyngas, Mažesniųjų brolių ordino istorijos autorius, ir jo komen­ tatorius Antoni Melissanius de Macro pasakoja, kad dar 1333 metais (prieš Gedimino mirtį) Pet­ ras Goštautas, būdamas Podolės vai­ vada, iš Rusios ir Podolės atkvietęs į Vilnių.'
   pagrindžia:
     - c-011
-- t-013
-  teiginys: 'Jie visi, regis, buvo nukankinti tais pačiais, 1333 metais, nušalinus Goštautą.'
-  pagrindžia:
-    - c-012
 - t-014
   teiginys: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
   pagrindžia:
@@ -132,6 +132,10 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   teiginys: 'Čia pirmiausia Petras Goš­ tautas, kunigaikščio Algirdo laikų didikas ir Vilniaus vaivada, per Bučiacką, paimtą iš Podolės žmoną, garsios anuomet didikų giminės, pa­ sikrikštijęs, kai ir Algirdas, per Tve­ rės kunigaikštytę Mariją, šventąjį krikštą priėmė, tą.'
   pagrindžia:
     - c-015
+- t-017
+  teiginys: 'Jie visi, regis, buvo nukankinti tais pačiais, 1333 metais, nušalinus Goštautą.'
+  pagrindžia:
+    - c-016
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Goštautas aprašomas kaip valdovo vietininkas Lietuvoje ir pranciškonų globėjas.
@@ -386,34 +390,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-- c-012
-  santrauka: 'Jie visi, regis, buvo nukankinti tais pačiais, 1333 metais, nušalinus Goštautą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jie visi,
-    regis, buvo nukankinti tais pačiais,
-    1333 metais, nušalinus Goštautą. To­
-    liau rašoma, jog, remiantis Baroni-
-    j a u s nuomone, 36 kiti pranciško­
-    nai 1341 metų gegužės 24 dieną bu­
-    vę Vilniuje nužudyti, tarp jų ir pats
-    Petras Goštautas, kuris, atsisakęs
-    vaivadystės, esą apsivilkęs pranciš­
-    kono abitą, o vėliau netgi tapęs pir­
-    muoju Vilniaus vyskupu. Bet dėl
-    painiavos, kurios pilna Waddyngo
-    pasakojime, ir dėl to, kad jo remtasi
-    nežinia kokiais šaltiniais, negalima
-    lengvai patikėti ir tuo Goštauto vys­
-    kupavimu, ir tokiu dideliu nukan­
-    kintų pranciškonų skaičiumi. Žr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
 - c-013
   santrauka: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -502,6 +478,34 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-016
+  santrauka: 'Jie visi, regis, buvo nukankinti tais pačiais, 1333 metais, nušalinus Goštautą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jie visi,
+    regis, buvo nukankinti tais pačiais,
+    1333 metais, nušalinus Goštautą. To­
+    liau rašoma, jog, remiantis Baroni-
+    j a u s nuomone, 36 kiti pranciško­
+    nai 1341 metų gegužės 24 dieną bu­
+    vę Vilniuje nužudyti, tarp jų ir pats
+    Petras Goštautas, kuris, atsisakęs
+    vaivadystės, esą apsivilkęs pranciš­
+    kono abitą, o vėliau netgi tapęs pir­
+    muoju Vilniaus vyskupu. Bet dėl
+    painiavos, kurios pilna Waddyngo
+    pasakojime, ir dėl to, kad jo remtasi
+    nežinia kokiais šaltiniais, negalima
+    lengvai patikėti ir tuo Goštauto vys­
+    kupavimu, ir tokiu dideliu nukan­
+    kintų pranciškonų skaičiumi. Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai
@@ -520,7 +524,6 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 - [[objektai/zodynas/regula]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Goštauto liepa]]
-- [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
 - [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
 - [[objektai/paprociai/Pranciškonų apaštalavimas ir gyventojų vertimas į tikėjimą Vilniuje]]

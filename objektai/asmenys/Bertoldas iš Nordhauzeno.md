@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Bertoldas iš Nordhauzeno'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
@@ -27,16 +18,18 @@ tags:
 Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių apygardų nusiaubimą ir Klemento pilies sugriovimą Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras, kuris, šiaip jau apdairiai tvarkęs, ūkio reikalus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių apygardų nusiaubimą ir Klemento pilies sugriovimą Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras, kuris, šiaip jau apdairiai tvarkęs, ūkio reikalus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių apygardų nusiaubimą ir Klemento pilies sugriovimą Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras, kuris, šiaip jau apdairiai tvarkęs, ūkio reikalus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
+    192 (187). Apie Kulmo žemės bei Graudingo, Marienverderio, Santyro, Kristburgo pilių
                    apygardų nusiaubimą ir Klemento pilies sugriovimą
 
       Tuo metu Kulmo žemėje gyveno brolis Bertoldas iš Nordhauzeno479, krašto komtūras,
@@ -47,9 +40,7 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
     nebesipriešina, jie išdrįsdavo net su maža kariuomene brautis  į Kulmo žemę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

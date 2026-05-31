@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Gardino ekonomijos manufaktūrų gaminiai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1800 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XVIII'
 date_start: '1800'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ginklas
   - reforma
   - transportas
+amziai:
+  - 'XVIII'
 ---
 # Gardino ekonomijos manufaktūrų gaminiai
 
@@ -30,29 +24,35 @@ tags:
 Smuglevičius, 1800 m. įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras Gardino ekonomijoje.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Smuglevičius, 1800 m. įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras Gardino ekonomijoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Smuglevičius, 1800 m. įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras Gardino ekonomijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
@@ -67,9 +67,7 @@ Nenurodyta
     sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

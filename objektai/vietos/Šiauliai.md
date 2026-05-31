@@ -75,26 +75,26 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-011
-  teiginys: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
-  pagrindžia:
-    - c-005
-- t-012
-  teiginys: 'Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis.'
-  pagrindžia:
-    - c-006
-- t-013
-  teiginys: 'Kučinskas, kuris 1927 m. buvo baigęs TeologijosFilosofijos fakulteto Filosofijos skyrių, turėjo įvairaus vadovėlių ruošimo ir daug pedagoginio darbo Marijampolėje ir Šiauliuose (1939-1940 m. berniukų gimnazijos direktorius).'
-  pagrindžia:
-    - c-007
 - t-014
   teiginys: 'Šiaulių žemėje pagrindinė strateginė kelių sankryža yra Šiauliuose (ties dab.'
   pagrindžia:
     - c-008
 - t-015
-  teiginys: '“ 1 1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MŪŠIS 23 nn a] oS a.'
+  teiginys: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
   pagrindžia:
     - c-009
+- t-016
+  teiginys: 'Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis.'
+  pagrindžia:
+    - c-010
+- t-017
+  teiginys: '“ 1 1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MŪŠIS 23 nn a] oS a.'
+  pagrindžia:
+    - c-011
+- t-018
+  teiginys: 'Kučinskas, kuris 1927 m. buvo baigęs TeologijosFilosofijos fakulteto Filosofijos skyrių, turėjo įvairaus vadovėlių ruošimo ir daug pedagoginio darbo Marijampolėje ir Šiauliuose (1939-1940 m. berniukų gimnazijos direktorius).'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šiauliuose, ties dabartine Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.'
@@ -172,49 +172,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
-- c-005
-  santrauka: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pajutę susitelkusią lietuvių ka-
-    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
-    pastojo jiems kelią. Ties Šiauliais įvyko didelis mūšis, kurį
-    laimėjo lietuviai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-006
-  santrauka: 'Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-
-    liuose, sukilėlių vadu tapo Jokūbas Jasinskis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-007
-  santrauka: 'Kučinskas, kuris 1927 m. buvo baigęs TeologijosFilosofijos fakulteto Filosofijos skyrių, turėjo įvairaus vadovėlių ruošimo ir daug pedagoginio darbo Marijampolėje ir Šiauliuose (1939-1940 m. berniukų gimnazijos direktorius).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    A. Kučinskas, kuris 1927 m. buvo baigęs Teologijos-
-    Filosofijos fakulteto Filosofijos skyrių, turėjo įvairaus vadovėlių
-    ruošimo ir daug pedagoginio darbo Marijampolėje ir Šiauliuose
-    (1939-1940 m. berniukų gimnazijos direktorius).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
 - c-008
   santrauka: 'Šiaulių žemėje pagrindinė strateginė kelių sankryža yra Šiauliuose (ties dab.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -233,6 +190,35 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   pagrindžia:
     - t-014
 - c-009
+  santrauka: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    kalavijuočiai su svečiais įsiveržė į Lie-
+    tuvą ir žiauriai nusiaubė kraštą. Pajutę susitelkusią lietuvių ka-
+    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
+    pastojo jiems kelią. Ties Šiauliais įvyko didelis mūšis, kurį
+    laimėjo lietuviai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-010
+  santrauka: 'Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-
+    liuose, sukilėlių vadu tapo Jokūbas Jasinskis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-011
   santrauka: '“ 1 1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MŪŠIS 23 nn a] oS a.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -252,4 +238,19 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-015
+    - t-017
+- c-012
+  santrauka: 'Kučinskas, kuris 1927 m. buvo baigęs TeologijosFilosofijos fakulteto Filosofijos skyrių, turėjo įvairaus vadovėlių ruošimo ir daug pedagoginio darbo Marijampolėje ir Šiauliuose (1939-1940 m. berniukų gimnazijos direktorius).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    A. Kučinskas, kuris 1927 m. buvo baigęs Teologijos-
+    Filosofijos fakulteto Filosofijos skyrių, turėjo įvairaus vadovėlių
+    ruošimo ir daug pedagoginio darbo Marijampolėje ir Šiauliuose
+    (1939-1940 m. berniukų gimnazijos direktorius).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018

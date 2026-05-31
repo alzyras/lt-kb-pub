@@ -44,7 +44,6 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
   teiginys: 'Torno taika Ordinui buvo nepaprastai lengva.'
   pagrindžia:
     - c-003
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po 1411 m. Torno sutarties santykiai nepagerėjo, nors joje buvo susitarta dėl laisvos savitarpio prekybos.'
@@ -83,12 +82,13 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
   santrauka: 'Torno taika Ordinui buvo nepaprastai lengva.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    W„ 327.
+
+
     ```
     273
     ```
     1411 mt. Torno taika Ordinui buvo nepaprastai lengva.
-    Net Žemaitijos jis atsižadėjo tik lig gyvos Vytauto ir Jogailos
-    galvos^1 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

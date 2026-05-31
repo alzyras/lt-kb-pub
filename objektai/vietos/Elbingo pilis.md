@@ -1,21 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Elbingo pilis (pilis)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Elbingo pilis'
-aliases:
-  - 'Elbingo pilis'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - pilis
@@ -29,16 +18,20 @@ tags:
 Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelto prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo ruožtu į Prūsijos kraštą, į.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
+    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
+    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
     prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
     šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
     ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
@@ -49,8 +42,6 @@ Dusburgietis teigia, kad kai venedai buvo smarkiai sutramdyti po maišto, sukelt
     esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

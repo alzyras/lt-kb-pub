@@ -1,20 +1,11 @@
 ---
 tipas: vieta
 pavadinimas: 'Viduržemio jūra'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVIII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - miestas
@@ -28,20 +19,39 @@ tags:
 Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris. Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Po didžiųjų geografinių atradimų ir turkų ekspansijos Viduržemio jūra prarado ekonominę svarbą.'
   pagrindžia:
     - c-003
+
+- t-004
+  teiginys: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
-- c-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LDK Baroko Europoje.
+    Bajoriškoji demokratija
+    Kur XVII–XVIII a. dingo Renesanso civilizacijos lyderės –
+    Italijos didybė? Po didžiųjų geografinių atradimų ir turkų ekspansijos
+    Viduržemio jūra prarado ekonominę svarbą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
   santrauka: 'Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -51,12 +61,11 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     riams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
+    - t-004
+
+- c-005
   santrauka: 'Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Europai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos centrai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -72,23 +81,6 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
     za.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Po didžiųjų geografinių atradimų ir turkų ekspansijos Viduržemio jūra prarado ekonominę svarbą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bajoriškoji demokratija
-    Kur XVII–XVIII a. dingo Renesanso civilizacijos lyderės –
-    Italijos didybė? Po didžiųjų geografinių atradimų ir turkų ekspansijos
-    Viduržemio jūra prarado ekonominę svarbą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+    - t-005

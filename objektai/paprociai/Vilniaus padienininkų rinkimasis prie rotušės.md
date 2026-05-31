@@ -99,4 +99,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/zodynas/supirkinėtojai ir padienininkai]]
-- [[objektai/asmenys/Žygimantas Augustas]]

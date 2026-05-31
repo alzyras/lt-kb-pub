@@ -1,26 +1,22 @@
 ---
 tipas: autorius
 pavadinimas: 'Jacobas Schrenckas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1603 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1603'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - bajorija
   - miestas
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jacobas Schrenckas
 
@@ -29,13 +25,15 @@ tags:
 Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje
@@ -47,9 +45,7 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
     „Armamentarium Heroicum“. Insbrukas, 1603 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

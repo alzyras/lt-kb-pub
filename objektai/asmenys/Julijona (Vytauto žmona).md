@@ -10,14 +10,11 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos:
-  - '1426 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-date_start: '1426'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-05'
@@ -79,10 +76,6 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   teiginys: '1426 m. Julijona jau metus sirgo, o ligai paūmėjus, pasak laiško, visiškai negalėjo valgyti.'
   pagrindžia:
     - c-012
-- t-014
-  teiginys: 'Julijona 1426 m. liepos 8 d. laišku dėkojo didžiajam magistrui Pauliui von Rusdorfui už atsiųstus gėrimus.'
-  pagrindžia:
-    - c-013
 - t-015
   teiginys: 'Pasiligojusi Vytauto žmona Julijona bu­ vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­ me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto vokiečių raštininko, šiandien negalima suprasti, kokia tai buvo vieta.'
   pagrindžia:
@@ -115,6 +108,10 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   teiginys: 'Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­ jorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai.'
   pagrindžia:
     - c-021
+- t-023
+  teiginys: '1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos.'
+  pagrindžia:
+    - c-022
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -329,54 +326,6 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
-- c-013
-  santrauka: 'Julijona 1426 m. liepos 8 d. laišku dėkojo didžiajam magistrui Pauliui von Rusdorfui už atsiųstus gėrimus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    54
-    Index Cod. Hist. Dipl. Livoniae, T. I,
-    N. 1208, kur nurodytas Slaptajame
-    archyve esantis vokiečių kalba rašy­
-    tas didžiojo Lietuvos kunigaikščio
-    Vytauto žmonos Julijonos, dėkojan-
-    čios didžiajam magistrui Pauliui fon
-    237
-
-    ## Puslapis 254
-
-    VILNIAUS MIESTO ISTORIJA I I  TOMAS
-    Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­
-    niais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­
-    mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­
-    dymo meną išmanantys: vienas - pagal profesiją fizikas, arba
-    rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas;
-    antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­
-    dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus
-    gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­
-    nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
-    miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
-    tapo nuolatinės miesto vaistinės pradžia.
-    Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
-    ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
-    nebuvo matyti. Stigo tvirtos municipalinių laisvių ir nuosta­
-    tų apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo. Sil­
-    pno charakterio karalius negalėjo veiksmingai pasipriešinti
-    turčių vyravimui ir duoti daugiau laisvės miestiečių luomui.
-    Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
-    čiausiai pasistengti, kad Lietuvos miestiečių luomui būtų
-    garantuotas geresnis gyvenimas ir kad suklestėtų šios šalies
-    miestai, išaugtų prekyba ir visos tautos gerovė.
-    Rusdorfui už jai atsiųstus gėrimus,
-    laiškas, datuotas Memitze (neįmano­
-    ma sužinoti, kokia tai vieta), ties Vil­
-    niumi, 1426 m. liepos 8-ą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
 - c-014
   santrauka: 'Pasiligojusi Vytauto žmona Julijona bu­ vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­ me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto vokiečių raštininko, šiandien negalima suprasti, kokia tai buvo vieta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -543,6 +492,54 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-022
+- c-022
+  santrauka: '1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    54
+    Index Cod. Hist. Dipl. Livoniae, T. I,
+    N. 1208, kur nurodytas Slaptajame
+    archyve esantis vokiečių kalba rašy­
+    tas didžiojo Lietuvos kunigaikščio
+    Vytauto žmonos Julijonos, dėkojan-
+    čios didžiajam magistrui Pauliui fon
+    237
+
+    ## Puslapis 254
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    Nebūta gydytojų Lietuvos kunigaikščių rūmuose ir vėles­
+    niais laikais. Tik kai Aleksandrą kelerius metus nuolat ka­
+    mavo skausminga liga, iš Krokuvos atvyko anuometinį gy­
+    dymo meną išmanantys: vienas - pagal profesiją fizikas, arba
+    rūmų daktaras, Motiejus iš Blonios, Gniezno kanauninkas;
+    antras, pagarsėjęs alchemijos išmanymu bei sėkmingu gy­
+    dymu, - Aleksandras Balinskis. Nors jų ginčai dėl karaliaus
+    gydymo būdo, kaip žinome ne vieną atvejį, pasibaigė ligo­
+    nio mirtimi, vis dėlto didžioji karališkosios vaistinės, alche­
+    miko pargabentos iš Krokuvos, dalis liko Vilniuje ir vėliau
+    tapo nuolatinės miesto vaistinės pradžia.
+    Nors Lietuvos sostinė ir gavo naudos susijusios su preky­
+    ba bei saugumu, bet akivaizdaus pagerėjimo valdant miestą
+    nebuvo matyti. Stigo tvirtos municipalinių laisvių ir nuosta­
+    tų apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo. Sil­
+    pno charakterio karalius negalėjo veiksmingai pasipriešinti
+    turčių vyravimui ir duoti daugiau laisvės miestiečių luomui.
+    Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
+    čiausiai pasistengti, kad Lietuvos miestiečių luomui būtų
+    garantuotas geresnis gyvenimas ir kad suklestėtų šios šalies
+    miestai, išaugtų prekyba ir visos tautos gerovė.
+    Rusdorfui už jai atsiųstus gėrimus,
+    laiškas, datuotas Memitze (neįmano­
+    ma sužinoti, kokia tai vieta), ties Vil­
+    niumi, 1426 m. liepos 8-ą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Susiję objektai

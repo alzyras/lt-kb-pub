@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'mansionieriai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - pilis
@@ -27,36 +18,20 @@ tags:
 Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Barboros bažnyčia, kurią
-    Augustas nemažomis lėšomis pastatydino mylimos žmonos
-    atminimui, po jos mirties visur ieškodamas paguodos savo
-    skausmui numalšinti35. Taip pat savo lėšomis pilies teritori­
-    joje karalius pradėjo statyti Šv. Onos bažnyčią, ten turėjo
-    funduoti dar ir kleboniją, o prie jos namus mansionieriams,
-    naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­
-    tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat
@@ -78,11 +53,26 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
     Dievo tarnystei prie anos bažnyčios pasiliktų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Barboros bažnyčia, kurią
+    Augustas nemažomis lėšomis pastatydino mylimos žmonos
+    atminimui, po jos mirties visur ieškodamas paguodos savo
+    skausmui numalšinti35. Taip pat savo lėšomis pilies teritori­
+    joje karalius pradėjo statyti Šv. Onos bažnyčią, ten turėjo
+    funduoti dar ir kleboniją, o prie jos namus mansionieriams,
+    naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­
+    tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

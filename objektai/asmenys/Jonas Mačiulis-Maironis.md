@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Mačiulis-Maironis'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -21,104 +18,154 @@ tags:
 Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu. Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
-  pagrindžia:
-    - c-004
+
 - t-005
   teiginys: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
   pagrindžia:
     - c-005
+
+- t-004
+  teiginys: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J.'
+  pagrindžia:
+    - c-002
+
 - t-006
   teiginys: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
   pagrindžia:
     - c-006
 
+- t-001
+  teiginys: 'Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kalba rašyta poezija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
+    žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-
+    reikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susi-
+    jusius gyvenimus. Nacionalinėje lietuvių valstybėje žydams liko uždara
+    valstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-
+    joje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-
+    nių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų
+    sistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-
+    biais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių
     kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
+    dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
+    pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
+    žydai tarpusavyje dažnai vartojo rusų kalbą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos, tautinio pobūdžio literatūra.'
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
+    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
+    viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
+    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
+    J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
+    savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
+    ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“
+    ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis. Tautinę savi-
+    monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
+    pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
+    Žymantienės-Žemaitės sodri realistinė sociali proza.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
+    - t-003
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
+    O
+    kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
+    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
+    Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
+    1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
+    nacionaliniais pagrindais – Lietuvos Respubliką. Jos ištakose – ir didžiau-
+    sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
+    tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
+    čius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-006
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietu-
+    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
+    kabinėta komunistinių šūkių. Padėtis kultūroje ėmė švelnėti tik šeštojo
+    dešimtmečio antroje pusėje, prasidėjus destalinizacijai.
+    Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
+    pradėta oficialiai nuolaidžiau vertinti tautinį kultūrinį palikimą: reabili-
+    tuotas karo pabaigoje į Vakarus pasitraukęs lietuvių literatūros klasikas
+    V. Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos,
+    Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
+    rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
+    kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-006
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kultūros suvienodinimas
+    J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
+    griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-
+    tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
+    komunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-
+    munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant
+    komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
+    Lietuvos kultūros palikimu. Iš bibliotekų pašalintos žymių lietuvių rašytojų
+    Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių kny-
+    gos, tautinio pobūdžio literatūra.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jas įsi-
+    mindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-
+    jais. Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
+    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
+    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
+    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

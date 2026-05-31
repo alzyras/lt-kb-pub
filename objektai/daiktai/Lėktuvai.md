@@ -1,25 +1,19 @@
 ---
 tipas: daiktas
 pavadinimas: 'Lėktuvai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1919 m.'
   - '1920 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1919'
 date_end: '1920'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
+amziai:
+  - 'XX'
 ---
 # Lėktuvai
 
@@ -28,29 +22,35 @@ tags:
 Laikraščiai rašė, kad tokių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai, tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Laikraščiai rašė, kad tokių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai, tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Laikraščiai rašė, kad tokių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai, tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
@@ -64,9 +64,7 @@ Nenurodyta
     (liepos 4 d.).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

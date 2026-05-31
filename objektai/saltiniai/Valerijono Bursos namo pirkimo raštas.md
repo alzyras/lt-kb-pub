@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Valerijono Bursos namo pirkimo raštas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - mokslininkas
@@ -27,13 +18,15 @@ tags:
 Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­ dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­ žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­ dame du naujus, mūsų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­ dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­ žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­ dame du naujus, mūsų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­ dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­ žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­ dame du naujus, mūsų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tikimės, kad didžiai gerbiamas tė­
@@ -56,8 +49,6 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
     Vyskupų gatvėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

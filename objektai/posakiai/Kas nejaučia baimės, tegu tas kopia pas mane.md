@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Kas nejaučia baimės, tegu tas kopia pas mane'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tikėjimas
@@ -25,13 +16,15 @@ tags:
 Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krokuvos kunigaikštis491, subūręs daugybę tūkstančių vyrų, užkopė į vieną kalvą ir pasakė: „Kas nejaučia baimės, tegu tas kopia pas mane, idant šiandien galėtume atkeršyti už nukryžiuotojo kančias”.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį: apie aštuonių šimtų lietuvių žūtį
@@ -48,9 +41,7 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
     pasprukti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -59,3 +50,4 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka]]
+- [[objektai/asmenys/Lešekas (Krokuvos kunigaikštis)]]

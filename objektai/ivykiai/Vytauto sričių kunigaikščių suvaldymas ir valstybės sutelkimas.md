@@ -162,7 +162,6 @@ Nenurodyta
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Karijotas]]
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]

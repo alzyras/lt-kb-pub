@@ -111,10 +111,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-017
-  teiginys: '1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
-  pagrindžia:
-    - c-006
 - t-018
   teiginys: 'Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.'
   pagrindžia:
@@ -147,10 +143,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginys: 'Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.'
   pagrindžia:
     - c-014
-- t-026
-  teiginys: '1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė tikėjosi atkurti Vilniaus universitetą.'
-  pagrindžia:
-    - c-015
 - t-027
   teiginys: '1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   pagrindžia:
@@ -171,6 +163,14 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginys: 'Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV žemės ir 9 mln.'
   pagrindžia:
     - c-020
+- t-032
+  teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  pagrindžia:
+    - c-021
+- t-033
+  teiginys: '1855 m. ca­ rui Aleksandrui II pradėjus liberalias reformas, Rusijos imperi­ joje krašto šviesuomenė puoselėjo viltį atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą.'
+  pagrindžia:
+    - c-022
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -273,28 +273,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-016
-- c-006
-  santrauka: '1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1579  m. balandžio 1 d. karalius Steponas Batoras, paremda-
-    mas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė
-    Vilniaus universiteto Didysis kiemas ir Šv. Jonų bažnyčia
-    iš J. K. Vilčinskio „Vilniaus albumo“. Dail.  Ph. Benoist, A. Bayot, 1850 m.
-
-    L I E T U V O S  I S T O R I J A
-    80
-    Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
-    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
-    versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
-    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
 - c-007
   santrauka: 'Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -435,21 +413,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-025
-- c-015
-  santrauka: '1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė tikėjosi atkurti Vilniaus universitetą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    1855 m. ca­
-    rui Aleksandrui II pradėjus liberalias reformas, Rusijos imperi­
-    joje krašto šviesuomenė puoselėjo viltį atkurti iki 1830-1831 m.
-    sukilimo klestėjusį Vilniaus universitetą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-026
 - c-016
   santrauka: '1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -554,6 +517,43 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-031
+- c-021
+  santrauka: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1579  m. balandžio 1 d. karalius Steponas Batoras, paremda-
+    mas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė
+    Vilniaus universiteto Didysis kiemas ir Šv. Jonų bažnyčia
+    iš J. K. Vilčinskio „Vilniaus albumo“. Dail.  Ph. Benoist, A. Bayot, 1850 m.
+
+    L I E T U V O S  I S T O R I J A
+    80
+    Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
+    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
+    versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
+    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+- c-022
+  santrauka: '1855 m. ca­ rui Aleksandrui II pradėjus liberalias reformas, Rusijos imperi­ joje krašto šviesuomenė puoselėjo viltį atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1855 m. ca­
+    rui Aleksandrui II pradėjus liberalias reformas, Rusijos imperi­
+    joje krašto šviesuomenė puoselėjo viltį atkurti iki 1830-1831 m.
+    sukilimo klestėjusį Vilniaus universitetą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
 
 ## Ryšiai
 ### Susiję objektai
@@ -587,6 +587,7 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 - [[objektai/grupes/Rusai]]
 - [[objektai/autoriai/Simonas Stanevičius]]
 - [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/barokas]]
@@ -597,7 +598,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]
 - [[objektai/grupes/Jėzuitų ordinas]]
-- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/ivykiai/1830-1831 m. sukilimas]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
 - [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]

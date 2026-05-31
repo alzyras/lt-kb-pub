@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Virogorų ežeras'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ežeras
@@ -27,13 +18,15 @@ tags:
 4to, Virogorų ežerą su žeme, miškais, lankomis tie patys tėvai jėzuitai pasisavino.
 
 ## Teiginiai
+
 - t-001
   teiginys: '4to, Virogorų ežerą su žeme, miškais, lankomis tie patys tėvai jėzuitai pasisavino.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '4to, Virogorų ežerą su žeme, miškais, lankomis tie patys tėvai jėzuitai pasisavino.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­
@@ -45,8 +38,6 @@ tags:
     Jono bažnyčios klebonas, skundą pateikė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

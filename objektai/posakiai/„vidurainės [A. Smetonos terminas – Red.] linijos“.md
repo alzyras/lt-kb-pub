@@ -65,6 +65,5 @@ Smetona stengėsi laikytis „vidurainės [A.
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/A. Voldemaras]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

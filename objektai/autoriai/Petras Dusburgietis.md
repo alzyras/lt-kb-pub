@@ -11,11 +11,14 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1311 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1311'
 date_end: ''
 patikimumas: 'vidutinis'
 vaidmenys:
@@ -107,10 +110,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
   pagrindžia:
     - c-019
-- t-021
-  teiginys: 'Valdant Gediminui Lietuva ėmė sparčiai plėstis į rytus LIETUVIAI SEMBOJE IR NOTANGOJE Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į Ordino žemes: „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su.'
-  pagrindžia:
-    - c-020
 - t-022
   teiginys: 'p. 27, „RŪSTUS DIEVO ŽMONIŲ LIKIMAS“, Dusburgietis P.'
   pagrindžia:
@@ -119,6 +118,10 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   teiginys: 'Dusburgietis teigia, kad petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.'
   pagrindžia:
     - c-022
+- t-024
+  teiginys: 'Valdant Gediminui Lietuva ėmė sparčiai plėstis į rytus LIETUVIAI SEMBOJE IR NOTANGOJE Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į Ordino žemes: „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su.'
+  pagrindžia:
+    - c-023
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -417,28 +420,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
-- c-020
-  santrauka: 'Valdant Gediminui Lietuva ėmė sparčiai plėstis į rytus LIETUVIAI SEMBOJE IR NOTANGOJE Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į Ordino žemes: „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    užimtos Kijevo že žemės pilys. Valdant Gediminui
-    Lietuva ėmė sparčiai plėstis į rytus
-
-    LIETUVIAI SEMBOJE IR NOTANGOJE
-
-    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
-    Ordino žemes:
-
-    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
-    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
-    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-021
 - c-021
   santrauka: 'p. 27, „RŪSTUS DIEVO ŽMONIŲ LIKIMAS“, Dusburgietis P.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -476,6 +457,28 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-023
+- c-023
+  santrauka: 'Valdant Gediminui Lietuva ėmė sparčiai plėstis į rytus LIETUVIAI SEMBOJE IR NOTANGOJE Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į Ordino žemes: „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    užimtos Kijevo že žemės pilys. Valdant Gediminui
+    Lietuva ėmė sparčiai plėstis į rytus
+
+    LIETUVIAI SEMBOJE IR NOTANGOJE
+
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
+    Ordino žemes:
+
+    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
+    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
+    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
 
 ## Ryšiai
 ### Susiję objektai
@@ -497,11 +500,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - [[objektai/zodynas/uolektis]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų]]
-- [[objektai/autoriai/Henrikas Latvis]]
-- [[objektai/autoriai/Hermanas iš Vartbergės]]
 - [[objektai/asmenys/Jėzus Kristus]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]
-- [[objektai/autoriai/Vygandas iš Marburgo]]
 - [[objektai/posakiai/šio šventojo žygio atminimas]]
 - [[objektai/zodynas/šventasis žygis]]

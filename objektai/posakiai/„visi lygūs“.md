@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„visi lygūs“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -18,30 +15,52 @@ tags:
 Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ – saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir eilinį žmogų).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ – saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir eilinį žmogų).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kūrybai pasitarnavo vadinamo-
+    galėjo drąsiau tarti savo žodį, viešai sakyta ir rašyta kaip reikia, o viduje,
+    savo rateliuose, diskutuota apie svarbiausius dalykus. Kultūrininkai pa-
+    laipsniui tapo savo tautos sąžinės balsu. Kūrybai pasitarnavo vadinamo-
     ji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam
     buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ –
     saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir
     eilinį žmogų).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ – saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir eilinį žmogų).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kultūrininkai pa-
+    laipsniui tapo savo tautos sąžinės balsu. Kūrybai pasitarnavo vadinamo-
+    ji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam
+    buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ –
+    saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir
+    eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo
+    nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir
+    propagandos su menu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

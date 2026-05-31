@@ -414,6 +414,10 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginys: 'Tik labai sumažėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr.'
   pagrindžia:
     - c-092
+- t-093
+  teiginys: '1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas, kuris 1608 m. rugpjūčio 1 d.'
+  pagrindžia:
+    - c-093
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -2064,3 +2068,18 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-092
+- c-093
+  santrauka: '1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas, kuris 1608 m. rugpjūčio 1 d.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1608 m. vasarą Livonijoje išsilaipino grafo
+    Frederiko Joachimo Mansfeldo vadovau-
+    jamas 8000 Švedijos karių ekspedicinis
+    korpusas, kuris 1608 m. rugpjūčio 1 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-093

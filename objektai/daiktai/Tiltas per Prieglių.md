@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Tiltas per Prieglių'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - ginklas
@@ -27,29 +18,35 @@ tags:
 Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
@@ -70,9 +67,7 @@ Nenurodyta
     tiltą bei kuorus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

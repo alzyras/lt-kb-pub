@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'cesija ir decesija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - sutartis
@@ -27,15 +18,21 @@ tags:
 Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­ žįstančių valdinių cesijos ar decesijos būdu, sudarydami kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę, 401.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­ žįstančių valdinių cesijos ar decesijos būdu, sudarydami kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę, 401.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­ žįstančių valdinių cesijos ar decesijos būdu, sudarydami kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę, 401.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Tarė­
+    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
+    mums patiems, kadangi turime aukščiausią abiejų luomų
+    sienų tyrimo valdžią.
     Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
     nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
     se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
@@ -58,9 +55,7 @@ Mes norime, kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar to
     ii, a quibus eas acquisiverunt, aut acquisituri sunt.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

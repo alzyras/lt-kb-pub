@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Chariničius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,13 +18,15 @@ tags:
 Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Volumes gyventojai, jausdami karaliui anti­
@@ -51,9 +44,7 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
     ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

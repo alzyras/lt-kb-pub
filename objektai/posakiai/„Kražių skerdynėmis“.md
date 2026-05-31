@@ -1,17 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: '„Kražių skerdynėmis“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1893 m.'
+date_start: '1893'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - posakis
   - tauta
+amziai:
+  - 'XIX'
 ---
 # „Kražių skerdynėmis“
 
@@ -20,32 +23,54 @@ tags:
 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Buvo sužeistų ir užmuštų, išprievartautų mote-
+    1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
+    kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
+    kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
     rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“. Brutalus rusų
     valdžios elgesys sukėlė ir blaiviau mąstančių rusų visuomenės sluoksnių
     pasipiktinimą, protestavo Vatikanas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo for-
+    mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
+    kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
+    kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
+    rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“. Brutalus rusų
+    valdžios elgesys sukėlė ir blaiviau mąstančių rusų visuomenės sluoksnių
+    pasipiktinimą, protestavo Vatikanas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kazokai]]
 - [[objektai/ivykiai/Kražių įvykiai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]

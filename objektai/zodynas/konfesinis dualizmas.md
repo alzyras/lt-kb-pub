@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'konfesinis dualizmas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - valstybė
@@ -19,30 +16,52 @@ tags:
 Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo pretenduoti) problemą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Stačiatikiams netekus civilizacinio pranašumo, LDK politinio ir kultūrinio elito kaita sukėlė konfesinio dualizmo problemą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo pretenduoti) problemą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Stačiatikiams netekus civilizacinio pranašumo, LDK politinio ir kultūrinio elito kaita sukėlė konfesinio dualizmo problemą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos krikšto politiniam elitui perėjus iš pagonybės į
+    katalikybę, kultūros svarstyklės tarp katalikiško valstybės branduolio ir
+    stačiatikiškos periferijos (stačiatikiams uždrausta užimti aukščiausius
+    postus valstybėje, o valstybės branduolyje uždrausta statyti stačiatikiš-
+    kas cerkves) apsilygino. Politinės lietuvių įtakos ir stačiatikių kultūrinio
+    pranašumo pusiausvyra neteko savo svertų – politinis elitas pradėjo įgyti
+    ir kultūrinio elito statusą, nes stačiatikiai neteko savo civilizacinio pra-
+    našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai
+    negalėjo pretenduoti) problemą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo pretenduoti) problemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Politinės lietuvių įtakos ir stačiatikių kultūrinio
     pranašumo pusiausvyra neteko savo svertų – politinis elitas pradėjo įgyti
     ir kultūrinio elito statusą, nes stačiatikiai neteko savo civilizacinio pra-
     našumo. Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai
-    negalėjo pretenduoti) problemą.
-  citata_rodoma: ""
+    negalėjo pretenduoti) problemą. Etninis „katalikiškas“ valstybės bran-
+    duolys tesudarė 10 proc. teritorijos ir tik 20 proc. gyventojų.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

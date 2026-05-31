@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Noliubas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -26,41 +17,25 @@ tags:
 Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o pirmiausia — prieš Kvedenavos valsčių Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies, be to, pernelyg pasikliaujantis savo jėgomis, manė, jog. Dusburgietis teigia, kad ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo įsitikinimų, ir dėl darbų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o pirmiausia — prieš Kvedenavos valsčių Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies, be to, pernelyg pasikliaujantis savo jėgomis, manė, jog.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo įsitikinimų, ir dėl darbų.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano, nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie čia atvyksta“.'
   pagrindžia:
     - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o pirmiausia — prieš Kvedenavos valsčių Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies, be to, pernelyg pasikliaujantis savo jėgomis, manė, jog.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
-                            pirmiausia — prieš Kvedenavos valsčių
 
-      Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
-    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
-    paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu. Kai dėl to supykę
-    broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
-    šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
-    p.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-002
+  teiginys: 'Dusburgietis teigia, kad ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo įsitikinimų, ir dėl darbų.'
   pagrindžia:
-    - t-001
+    - c-002
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo įsitikinimų, ir dėl darbų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo
@@ -74,13 +49,29 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
           102 (97).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    101 (96). Apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o
+                            pirmiausia — prieš Kvedenavos valsčių
+
+      Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies,
+    be to, pernelyg pasikliaujantis savo jėgomis, manė, jog užsitrauksiąs gėdą, taip greitai
+    paklusdamas broliams, ir nenorėjo sekti savo gimdytojų pavyzdžiu. Kai dėl to supykę
+    broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
+    šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
+    p. 54), kelio iš Kaliningrado į Laduškiną pradžioje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano, nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie čia atvyksta“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
@@ -91,9 +82,7 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     savo įsitikinimų, ir dėl darbų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

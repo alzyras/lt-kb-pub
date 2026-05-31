@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Švitrigailos garantinis raštas Mzusui'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - sutartis
@@ -25,13 +16,15 @@ tags:
 Švit­ rigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kuni­ gaikščio garantinis raštas iki šiol saugojamas Slaptajame archyve.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Švit­ rigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kuni­ gaikščio garantinis raštas iki šiol saugojamas Slaptajame archyve.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Švit­ rigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kuni­ gaikščio garantinis raštas iki šiol saugojamas Slaptajame archyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prekybos sutartis su Pskovu, kaip ir prieš metus
@@ -52,8 +45,6 @@ tags:
     vykstantiems į Sileziją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

@@ -91,3 +91,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/zodynas/Gaspadorius|gaspadorius]]
+- [[objektai/zodynas/Miera|miera]]

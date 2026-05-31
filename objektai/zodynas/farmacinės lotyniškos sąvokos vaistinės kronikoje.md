@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'farmacinės lotyniškos sąvokos vaistinės kronikoje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -24,13 +15,15 @@ tags:
 Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex officio suo [paruoštų pagal savo pareigas] medikamentų, eidami dar ir gydytojo pareigas, ne tik ex Pharmacis [vaistų] vaistinės pajamas padidindavo, juk ir pa­ tys gydydavo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex officio suo [paruoštų pagal savo pareigas] medikamentų, eidami dar ir gydytojo pareigas, ne tik ex Pharmacis [vaistų] vaistinės pajamas padidindavo, juk ir pa­ tys gydydavo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex officio suo [paruoštų pagal savo pareigas] medikamentų, eidami dar ir gydytojo pareigas, ne tik ex Pharmacis [vaistų] vaistinės pajamas padidindavo, juk ir pa­ tys gydydavo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­
@@ -48,9 +41,7 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
     anasai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mykolas (Žygimanto sūnus)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1440 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1440'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
   - kraštas
   - kunigaikštis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Mykolas (Žygimanto sūnus)
 
@@ -30,17 +26,20 @@ tags:
 Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­ nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą Žygimanto valdymo laiką. 1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­ nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą Žygimanto valdymo laiką.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­ nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą Žygimanto valdymo laiką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Naudodamasis visuotine neapykanta, kurią per sa­
@@ -55,16 +54,14 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
     pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
     20
-    Kotzebue Switrigail, p.
+    Kotzebue Switrigail, p. 89.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trakuose jo sušauktas seimas, turėjęs parengti pasku­
@@ -78,9 +75,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
     čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

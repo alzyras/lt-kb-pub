@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Mantiminų giminė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - mūšis
@@ -26,14 +17,16 @@ tags:
 Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458, tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo gyvybės, nei savo genties”.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458, tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo gyvybės, nei savo genties”.'
   pagrindžia:
     - c-001
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458, tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo gyvybės, nei savo genties”.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
@@ -43,13 +36,11 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
     kur gyvena po šiai dienai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Mantiminų giminė papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kitais metais456 sūduviai, nadruviai ir skalviai, atitraukę su didele kariuomene, apsiautė
@@ -58,11 +49,9 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
     tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
     gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
     ir nukovė daugiau nei du tūkstančius priešo karių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

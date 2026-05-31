@@ -47,6 +47,5 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Andrejus Sacharovas]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
-- [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
 - [[objektai/posakiai/Šalin rankas nuo Lietuvos]]
 - [[objektai/posakiai/„Šalin rankas nuo Lietuvos“ „Gorbačiovai, atsistatydink!“]]

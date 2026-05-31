@@ -36,10 +36,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Vokiečiai susirėmė su lietuvių raiteliais ties Rudamina, pusantros mylios nuo Vilniaus.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus.'
   pagrindžia:
@@ -68,6 +64,10 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginys: 'Rudaminos bažnyčią atidavė ko­ legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa kita pavedė vyskupui.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Susirėmė su jais vokiečiai ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­ reiškė tokį norą25.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -87,52 +87,6 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Vokiečiai susirėmė su lietuvių raiteliais ties Rudamina, pusantros mylios nuo Vilniaus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tuo
-    22
-    W igand  apud Voigt, V, 179.
-    Lindenblatt Jahrbücher etc. p.
-    29, nurodo, kad tąkart ordino rite­
-    riai prie Vilniaus ir Lietuvos krašte
-    užsibuvo 13 savaičių: Item in desin
-    Jare zvoren die herren von der Wille
-    (Vilnius) unde in dem landė XIII Wo­
-    chen.
-    23
-    Y ° i g t, V, 266. Nė vienas lenkų ir
-    lietuvių metraštininkas apie tuos du
-    kryžiuočių žygius į Lietuvą nieko
-    nežino, netgi Dlugošas.
-    24
-    Kojalowicz, Pars I, p. 351. S t ryj­
-    ków s k i, p. 459. Miechowita
-    Lib. IV, p. 290, - pasakoja apie šią
-    Gotfrido Lindeno Vilniaus apgultį
-    kaip ir vokiečių kronikininkai, bet
-    apsirinka, nurodydami ją buvus me­
-    tais vėliau ir praleisdami kai kurias
-    aplinkybes.
-    31
-
-    ## Puslapis 48
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    laiku, skubėdami į pagalbą, septyni šimtų lietuvių raitelių
-    artėjo prie Vilniaus iš pietų pusės. Susirėmė su jais vokiečiai
-    ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis
-    mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius
-    leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­
-    reiškė tokį norą25.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -298,3 +252,49 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Susirėmė su jais vokiečiai ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­ reiškė tokį norą25.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuo
+    22
+    W igand  apud Voigt, V, 179.
+    Lindenblatt Jahrbücher etc. p.
+    29, nurodo, kad tąkart ordino rite­
+    riai prie Vilniaus ir Lietuvos krašte
+    užsibuvo 13 savaičių: Item in desin
+    Jare zvoren die herren von der Wille
+    (Vilnius) unde in dem landė XIII Wo­
+    chen.
+    23
+    Y ° i g t, V, 266. Nė vienas lenkų ir
+    lietuvių metraštininkas apie tuos du
+    kryžiuočių žygius į Lietuvą nieko
+    nežino, netgi Dlugošas.
+    24
+    Kojalowicz, Pars I, p. 351. S t ryj­
+    ków s k i, p. 459. Miechowita
+    Lib. IV, p. 290, - pasakoja apie šią
+    Gotfrido Lindeno Vilniaus apgultį
+    kaip ir vokiečių kronikininkai, bet
+    apsirinka, nurodydami ją buvus me­
+    tais vėliau ir praleisdami kai kurias
+    aplinkybes.
+    31
+
+    ## Puslapis 48
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    laiku, skubėdami į pagalbą, septyni šimtų lietuvių raitelių
+    artėjo prie Vilniaus iš pietų pusės. Susirėmė su jais vokiečiai
+    ties Rudamina, pusantros mylios atstumu nuo miesto; ir šis
+    mūšis, ir Vilniaus pilių atsilaikymas, pastūmėjo kryžiuočius
+    leistis į derybas su Algirdu ir Kęstučiu, kurie pirmieji pa­
+    reiškė tokį norą25.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

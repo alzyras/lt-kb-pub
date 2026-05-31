@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Bronislovas Komorovskis'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -18,28 +15,51 @@ tags:
 Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiškio apskrityje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bronislovo Komorovskio tėvo šaknys buvo Lietuvoje, jo dvare Rokiškio apskrityje.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiškio apskrityje.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bronislovo Komorovskio tėvo šaknys buvo Lietuvoje, jo dvare Rokiškio apskrityje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lenkijos prezidento Bronislovo Komo-
+    Gediminaičių ir Jogailaičių
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
+    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
+    ninkų, audėjų, auklių, inžinierių. Lenkijos prezidento Bronislovo Komo-
     rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
     kio apskrityje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiškio apskrityje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Davėme ir daug garsių
+    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
+    ninkų, audėjų, auklių, inžinierių. Lenkijos prezidento Bronislovo Komo-
+    rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
+    kio apskrityje. Galėtume vardyti tuos Lietuvos žmones, kuriuos emigra-
+    cijos bangos nunešė toli į pasaulį, tačiau ten daugelio jų pačių vardai tapo
+    geriau atpažįstami nei Lietuvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

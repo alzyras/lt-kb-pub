@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kustodas ir gvardijonas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
@@ -27,13 +18,15 @@ tags:
 Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad atmeskite tą bedievišką sąjungą: o ka­
@@ -56,9 +49,7 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     sceleratis aliqua pactione conjungi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

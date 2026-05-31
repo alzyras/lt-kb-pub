@@ -1,29 +1,23 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1396 m.'
   - '1820 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XIX'
 date_start: '1396'
 date_end: '1820'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - kunigaikštis
   - pilis
+amziai:
+  - 'XIV'
+  - 'XIX'
 ---
 # Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)
 
@@ -32,26 +26,31 @@ tags:
 Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
@@ -96,9 +95,7 @@ Nenurodyta
     Aleksandrą Vygantą58.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

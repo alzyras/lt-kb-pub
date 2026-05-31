@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Tanenbergo mūšis 1410 m. liepos 15 d'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1410 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1410'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - karalius
   - mūšis
+amziai:
+  - 'XV'
 ---
 # Tanenbergo mūšis 1410 m. liepos 15 d
 
@@ -30,34 +24,41 @@ tags:
 Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­ valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos mėn. Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami. Ir tuo būdu prisiartino Vokiečių Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­ se ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų — su Ordinu ir jo gausingais Vakarų Europos svečiais.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­ valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos mėn.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Ir tuo būdu prisiartino Vokiečių Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­ se ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų — su Ordinu ir jo gausingais Vakarų Europos svečiais.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­ valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos mėn.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir kai karalius ėjo mels­
@@ -74,13 +75,11 @@ Nenurodyta
     lauku.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Įėjo Vengrijos
@@ -92,13 +91,11 @@ Nenurodyta
     viram lauke, bet nesislapstyti giriose, kaip iki šiol.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Ir tuo būdu prisiartino Vokiečių Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­ se ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų — su Ordinu ir jo gausingais Vakarų Europos svečiais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir tuo būdu prisiartino Vokiečių
@@ -108,9 +105,7 @@ Nenurodyta
     čių galybė buvo sutriuškinta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

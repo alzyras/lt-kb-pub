@@ -1,25 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Olia Charitatis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1766 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1766'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pinigai
   - sąvoka
+amziai:
+  - 'XVIII'
 ---
 # Olia Charitatis
 
@@ -28,13 +22,15 @@ tags:
 Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pietūs] ir duonos kepalas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pietūs] ir duonos kepalas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pietūs] ir duonos kepalas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­
@@ -52,9 +48,7 @@ Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pie
     donųjų auksinų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

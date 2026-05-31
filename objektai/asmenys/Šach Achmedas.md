@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Šach Achmedas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1501 m.'
   - '1505 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1501'
 date_end: '1505'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - pilis
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Šach Achmedas
 
@@ -31,25 +27,30 @@ tags:
 Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir. Šach Achmedas baigė sa­ vo dienas kalėjime toje pačioje Lietuvoje. Su­ gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­ darė nemažai rūpesčių karaliui ir seimui.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Šach Achmedas baigė sa­ vo dienas kalėjime toje pačioje Lietuvoje.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Su­ gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­ darė nemažai rūpesčių karaliui ir seimui.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.'
   pagrindžia:
     - c-004
+
+- t-001
+  teiginys: 'Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, - Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­ naudoti savo galios ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Krymo totorių
@@ -68,13 +69,44 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     nebuvo, tas stebuklų neregėjo].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Po tokių sostinės apsaugos priemonių karalius, į Vilnių
+    atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais. Aplink
+    miestą su savo palyda palapinėse klajojo Šach Achmedas, o
+    Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­
+    kuriavo karaliaus45. Kad įtiktų apgailėtinai politikai ir kad
+    būtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis
+    Šach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­
+    lėjime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Su­
+    gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­
+    darė nemažai rūpesčių karaliui ir seimui. Jis buvo atgaben­
+    tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas
+    gyventi į Trakus. Jo reikalu ne kartą į Vilnių buvo atvažia­
+    vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­
+    niaus pilyje tuomet kildavęs didelis sujudimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-002
-  santrauka: 'Šach Achmedas baigė sa­ vo dienas kalėjime toje pačioje Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šach Ach­
@@ -114,48 +146,9 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
     vo dienas kalėjime toje pačioje Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Su­ gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­ darė nemažai rūpesčių karaliui ir seimui.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Su­
-    gautas ir Vilniuje pasodintas į kalėjimą Šach Achmedas pri­
-    darė nemažai rūpesčių karaliui ir seimui. Jis buvo atgaben­
-    tas iš Vilniaus į seimą Brastoje 1505 metais, po to pasiųstas
-    gyventi į Trakus. Jo reikalu ne kartą į Vilnių buvo atvažia­
-    vę Nogajaus ordos pasiuntiniai ir Maskvos bojarinai, ir Vil­
-    niaus pilyje tuomet kildavęs didelis sujudimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Aplink miestą su savo palyda palapinėse klajojo Šach Achmedas, o Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­ kuriavo karaliaus45.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Po tokių sostinės apsaugos priemonių karalius, į Vilnių
-    atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais. Aplink
-    miestą su savo palyda palapinėse klajojo Šach Achmedas, o
-    Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­
-    kuriavo karaliaus45. Kad įtiktų apgailėtinai politikai ir kad
-    būtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis
-    Šach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­
-    lėjime.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

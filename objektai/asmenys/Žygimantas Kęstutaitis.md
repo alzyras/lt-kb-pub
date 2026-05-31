@@ -50,10 +50,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: '1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis suteikė Vilniaus miestiečiams laisvę prekiauti be muito Lietuvos žemėje.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.'
   pagrindžia:
@@ -86,6 +82,10 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginys: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
   pagrindžia:
     - c-013
+- t-014
+  teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,53 +149,6 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-005
-  santrauka: '1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis suteikė Vilniaus miestiečiams laisvę prekiauti be muito Lietuvos žemėje.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
-    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
-    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
-    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
-    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
-    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
-    17
-    Apie tai didžiajam magistrui pra­
-    neša komtūras iš Lealio, iš Rygos,
-    laiške, datuotame 1432 metų rugpjū­
-    čio 19 d. Ind. Cod. Hist. Dipl. Livon.,
-    I, Nr. 1330.
-    18
-    Kryžiuočių knechtas Hansas Baigas
-    1432 metų rugsėjo 8 dieną iš Trakų
-    rašo didžiajam magistrui, kad: „Žy­
-    gimantas, naujas Lietuvos didysis
-    kunigaikštis, visiems, turintiems iš
-    tėvų paveldėto turto, suteikia garan­
-    tijų pagal Magdeburgo teises, kaip
-    ir tiems, kuriems seniau jo brolis Vy­
-    tautas paskyrė dovanojimus, ir taip
-    pelno miestiečių palankumą. Visi
-    kalba: „O, koks mums maloningas
-    yra mūsų valdovas, Švitrigaila to ne­
-    darė. Už mūsų Žygimantą esame
-    pasirengę numirti/' Kotzebue
-    Switrig., p . 8 6 .
-    217
-
-    ## Puslapis 234
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    teisių atnaujinimą ir patvirtinimą dviem privilegijomis lo­
-    tynų ir rusų kalbomis - katalikų ir stačiatikių tikėjimo gy­
-    ventojams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -358,6 +311,53 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-014
+  santrauka: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d. Ind. Cod. Hist. Dipl. Livon.,
+    I, Nr. 1330.
+    18
+    Kryžiuočių knechtas Hansas Baigas
+    1432 metų rugsėjo 8 dieną iš Trakų
+    rašo didžiajam magistrui, kad: „Žy­
+    gimantas, naujas Lietuvos didysis
+    kunigaikštis, visiems, turintiems iš
+    tėvų paveldėto turto, suteikia garan­
+    tijų pagal Magdeburgo teises, kaip
+    ir tiems, kuriems seniau jo brolis Vy­
+    tautas paskyrė dovanojimus, ir taip
+    pelno miestiečių palankumą. Visi
+    kalba: „O, koks mums maloningas
+    yra mūsų valdovas, Švitrigaila to ne­
+    darė. Už mūsų Žygimantą esame
+    pasirengę numirti/' Kotzebue
+    Switrig., p . 8 6 .
+    217
+
+    ## Puslapis 234
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    teisių atnaujinimą ir patvirtinimą dviem privilegijomis lo­
+    tynų ir rusų kalbomis - katalikų ir stačiatikių tikėjimo gy­
+    ventojams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai

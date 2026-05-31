@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus katedros bažnyčia'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - vieta
@@ -26,48 +17,20 @@ tags:
 Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo. O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šiuo raštu skelbiame visiems, kam da­
-    bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
-    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
-    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
-    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
-    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
-    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
-    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
-    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
-    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai
-    anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono
-    Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­
-    reigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks-
-    komunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­
-    mą, kadangi privalo paklusti gausybei teisėjų ir būti jų
-    baudžiami pagal tos [kapitulos] tvarką, ypač esant grynai
-    pasaulietiniams reikalams, iškilusiems ir vykstantiems tarp
-    pasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­
-    ka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o
-    civilinei įstaigai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-001
+  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Savo ir minėto miesto vardu [ta­
@@ -98,8 +61,35 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
     paprotį, iki šiol tvirtai saugotą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiuo raštu skelbiame visiems, kam da­
+    bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
+    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
+    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
+    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
+    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
+    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
+    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
+    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
+    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai
+    anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono
+    Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­
+    reigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks-
+    komunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­
+    mą, kadangi privalo paklusti gausybei teisėjų ir būti jų
+    baudžiami pagal tos [kapitulos] tvarką, ypač esant grynai
+    pasaulietiniams reikalams, iškilusiems ir vykstantiems tarp
+    pasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­
+    ka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o
+    civilinei įstaigai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

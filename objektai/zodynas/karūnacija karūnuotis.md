@@ -134,7 +134,6 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zbignevas Olesnickis]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/asmenys/imperatorius Zigmantas]]
 - [[objektai/zodynas/savarankiškumas]]

@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'šventas sumanymas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - ordinas
@@ -27,13 +18,15 @@ tags:
 Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kronikos idėjinė reikšmė ir mokslinė svarba
@@ -49,9 +42,7 @@ Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpat
     turtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

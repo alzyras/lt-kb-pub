@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1242 m.'
   - '1243 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1242'
 date_end: '1243'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - ordinas
   - popiežius
+amziai:
+  - 'XIII'
 ---
 # Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)
 
@@ -31,30 +25,47 @@ tags:
 Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269. Dusburgietis teigia, kad 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
+      271 Sukilimo pradžia datuojama 1242 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi
@@ -75,24 +86,9 @@ Nenurodyta
     Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad 270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    270 Abejojama, ar Vilhelmas buvo skelbęs kryžiaus žygį prieš Sventopelką.
-      271 Sukilimo pradžia datuojama 1242 m.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

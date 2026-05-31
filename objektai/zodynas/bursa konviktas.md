@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'bursa konviktas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1579 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1579'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - sąvoka
   - vyskupas
+amziai:
+  - 'XVI'
 ---
 # bursa konviktas
 
@@ -29,13 +23,15 @@ tags:
 2mo: kad tie namai būtų vadinami Valerijono bursomis.
 
 ## Teiginiai
+
 - t-001
   teiginys: '2mo: kad tie namai būtų vadinami Valerijono bursomis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '2mo: kad tie namai būtų vadinami Valerijono bursomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar anksčiau minėtas Vilniaus vyskupas Protase-
@@ -53,9 +49,7 @@ tags:
     Laurynas Volskis - 250 auksinų, ir susidarė 4 000 suma.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

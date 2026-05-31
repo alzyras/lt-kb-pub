@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'komendantūra'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,16 +15,20 @@ tags:
 Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias Lietuvos komendantūras ir ėmė vieni šeimininkauti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bermontininkai nuginklavo ir išvaikė ten buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias Lietuvos komendantūras ir ėmė vieni šeimininkauti.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bermontininkai nuginklavo ir išvaikė ten buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet 1919 m. spalių mėnesį,
@@ -37,17 +38,35 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
     sybės protestai nieko negelbėjo. Turėdami stiprią pajėgą, ber-
     montininkai nuginklavę išvaikė ten buvusias Lietuvos komen-
     dantūras ir ėmė vieni šeimininkauti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias Lietuvos komendantūras ir ėmė vieni šeimininkauti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos vyriau-
+    sybės protestai nieko negelbėjo. Turėdami stiprią pajėgą, ber-
+    montininkai nuginklavę išvaikė ten buvusias Lietuvos komen-
+    dantūras ir ėmė vieni šeimininkauti. Ginklų ir amunicijos jie
+
+
+    turėjo pakankamai, nes jiems buvo palikti visi vokiečių armi-
+    jos sandėliai, o maistu ir kitomis pragyvenimo reikmenėmis ap-
+    sirūpindavo patys kareiviai, piešdami vietos gyventojus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/J. Aukštuolaitis]]
 - [[objektai/grupes/Tautinės darbo apsaugos batalionas]]
 - [[objektai/zodynas/zonderkomanda]]

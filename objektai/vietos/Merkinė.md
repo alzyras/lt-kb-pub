@@ -104,14 +104,18 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginys: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
   pagrindžia:
     - c-012
-- t-019
-  teiginys: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
-  pagrindžia:
-    - c-013
 - t-020
   teiginys: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
   pagrindžia:
     - c-014
+- t-021
+  teiginys: 'Antrasis būrys be įsakymo MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d. dalyvavę būriai ir pamažu atsitraukė iš miestelio.'
+  pagrindžia:
+    - c-015
+- t-022
+  teiginys: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -369,23 +373,6 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
-- c-013
-  santrauka: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    , 91, 97).
-    Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
-    link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­
-    mas. Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų
-    plote, arti Nemuno, išlikusi lietuvių kalbos sala — Lazūnai (į rytus
-    nuo Lydos).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
 - c-014
   santrauka: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -406,3 +393,51 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+- c-015
+  santrauka: 'Antrasis būrys be įsakymo MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d. dalyvavę būriai ir pamažu atsitraukė iš miestelio.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Antrasis būrys be įsakymo
+
+    MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
+
+    dalyvavę būriai ir pamažu atsitraukė
+
+    iš miestelio. Stipriai nukentėjęs priešas
+
+    atsitraukiančių partizanų nepersekiojo.
+    Kautynių metu iš Alytaus rusai trimis
+
+    sunkvežimiais skubėjo į pagalbą Merkinės
+
+    NKVD kariams ir stribams. Tačiau jie
+
+    ## Puslapis 235
+
+    LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA
+
+    1949 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-016
+  santrauka: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    , 91, 97).
+    Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
+    link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­
+    mas. Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų
+    plote, arti Nemuno, išlikusi lietuvių kalbos sala — Lazūnai (į rytus
+    nuo Lydos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022

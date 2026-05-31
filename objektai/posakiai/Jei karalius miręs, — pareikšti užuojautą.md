@@ -46,8 +46,3 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Turkai]]
-- [[objektai/asmenys/Zigmantas]]

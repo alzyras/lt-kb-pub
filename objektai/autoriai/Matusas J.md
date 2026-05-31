@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Matusas J'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1242 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1242'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - karas
   - pilis
   - sukilimas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Matusas J
 
@@ -30,17 +26,20 @@ tags:
 Dusburgietis teigia, kad l., Die Eroberung..., 1, p. 191; Matusas J., Senovės..., p. 19). Dusburgietis teigia, kad manoma, kad prūsiškas vardas buvęs Vundenava (literatūroje — Vuntenovė: GAO, p. 210; Matusas J., Senovės..., p. 23, 27). Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 80—81; Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis.., p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad l., Die Eroberung..., 1, p. 191; Matusas J., Senovės..., p. 19).'
   pagrindžia:
     - c-001
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 80—81; Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis.., p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad l., Die Eroberung..., 1, p. 191; Matusas J., Senovės..., p. 19).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     krante ir lokalizuojamas D. minimas upelis ir čia buvusi pamedėnų pilis, kurios ieškoma
@@ -48,13 +47,11 @@ Dusburgietis teigia, kad l., Die Eroberung..., 1, p. 191; Matusas J., Senovės..
     to, žr. D. III, 148.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 80—81; Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis.., p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
@@ -62,9 +59,7 @@ Dusburgietis teigia, kad l., Die Eroberung..., 1, p. 191; Matusas J., Senovės..
     p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

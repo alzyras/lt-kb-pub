@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mengli-Girėjus'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
@@ -25,16 +16,20 @@ tags:
 Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį, tuojau pat išsiuntė savo pasiuntinį į Vilnių, kuris turėjo pranešti, kad chanas labai noriai laikysis gegužės mėnesį suderėtos taikos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mengli-Girėjus po totoriams fatališkai pasibaigusio mūšio pasiuntė į Vilnių pasiuntinį patvirtinti gegužę suderėtos taikos.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mengli-Girėjus po totoriams fatališkai pasibaigusio mūšio pasiuntė į Vilnių pasiuntinį patvirtinti gegužę suderėtos taikos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     mirštantį valdovą Aleksandrą.
@@ -48,16 +43,33 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. Mengli-G
     Amino laišką, kuriame jis Lietuvai siūlė są-
 
     jungą prieš Maskvą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pats žygis
+
+    į LDK gilumą prasidėjo gegužės pabaigoje.
+    Jam vadovavo jaunesnieji Mengli-Girėjaus
+    sūnūs Fatihas ir Burnašas. Ekspedicines
+    pajėgas sudarė maždaug 4000 totorių, tu-
+    rėję apie 10000 žirgų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/chanas]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Totoriai]]

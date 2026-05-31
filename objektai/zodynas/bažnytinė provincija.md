@@ -138,4 +138,3 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/posakiai/Gens Lithuanorum]]
-- [[objektai/ivykiai/Martyno V bulė „Mirabilis Deus“ (1421 m. rugsėjo 11 d.)]]

@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - posakis
@@ -27,13 +18,15 @@ tags:
 Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­ davimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­ dų: palenkti dovanomis ir pažadais Krokuvos vyskupą Olesnickį, kuris kartu su.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­ davimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­ dų: palenkti dovanomis ir pažadais Krokuvos vyskupą Olesnickį, kuris kartu su.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­ davimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­ dų: palenkti dovanomis ir pažadais Krokuvos vyskupą Olesnickį, kuris kartu su.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, vėl su įkarščiu išsakęs savo didelį norą
@@ -60,9 +53,7 @@ Vytautas, vėl su įkarščiu išsakęs savo didelį norą stojęs prieš karali
     galiau privertė ir Vytautą sudvejoti dėl savo sumanymo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

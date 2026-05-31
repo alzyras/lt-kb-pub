@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'elektorius'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,16 +15,20 @@ tags:
 Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir elektoriaus peršamą Neuburgo princą, bet kartu statė ir savo kandidatūrą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Brandenburgo elektorius su imperatoriumi piršo Neuburgo princą, o jo ministeris Radvila oficialiai rėmė šią kandidatūrą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir elektoriaus peršamą Neuburgo princą, bet kartu statė ir savo kandidatūrą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Brandenburgo elektorius su imperatoriumi piršo Neuburgo princą, o jo ministeris Radvila oficialiai rėmė šią kandidatūrą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Galin-
@@ -45,13 +46,32 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
     elektoriaus peršamą Neuburgo
     princą, bet kartu statė ir savo
     kandidatūrą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir elektoriaus peršamą Neuburgo princą, bet kartu statė ir savo kandidatūrą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pacai su Radvila
+    negalėjo remti vieno kandi-
+    dato. Radvila, kaip Branden-
+    burgo elektoriaus ministeris,
+    oficialiai rėmė imperatoriaus ir
+    elektoriaus peršamą Neuburgo
+    princą, bet kartu statė ir savo
+    kandidatūrą. Elekcijos metu
+    princas Kondė atskiru bajori-
+    jos nutarimu buvo išbrauktas
+    iš kandidatų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

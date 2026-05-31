@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Kučinskas A. Kęstutis lietuvių tautos gynėjas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1938 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1938'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Kučinskas A. Kęstutis lietuvių tautos gynėjas
 
@@ -28,20 +22,20 @@ tags:
 Dusburgietis teigia, kad kučinskas A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kučinskas A.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kučinskas A.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

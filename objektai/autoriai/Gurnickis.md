@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Gurnickis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1540 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1540'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - karalius
   - kunigaikštis
   - kunigas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Gurnickis
 
@@ -30,13 +26,15 @@ tags:
 Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurnickis šitaip pamini: „Neilgai trukus po to karalius važiavo į Lietuvą, o jam esant Vilniuje, 1540 metais, atėjo ži­ nia, kad karaliui Jonui (vengrų ka­ raliui, Žygimanto Senojo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurnickis šitaip pamini: „Neilgai trukus po to karalius važiavo į Lietuvą, o jam esant Vilniuje, 1540 metais, atėjo ži­ nia, kad karaliui Jonui (vengrų ka­ raliui, Žygimanto Senojo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurnickis šitaip pamini: „Neilgai trukus po to karalius važiavo į Lietuvą, o jam esant Vilniuje, 1540 metais, atėjo ži­ nia, kad karaliui Jonui (vengrų ka­ raliui, Žygimanto Senojo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Il
@@ -71,9 +69,7 @@ Joje ir bu­ vo pagamintos anos dirbtinės ugnys, degintos Vilniuje, kurias Gurn
     nas su kapitula12, pinigais remiamas visos dvasininkijos13.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

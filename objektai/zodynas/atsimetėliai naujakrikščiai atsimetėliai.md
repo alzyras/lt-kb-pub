@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'atsimetėliai naujakrikščiai atsimetėliai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - karas
@@ -27,20 +18,23 @@ tags:
 Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis. Dusburgietis teigia, kad apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma, nei vandenimis — upe.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma, nei vandenimis — upe.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie vienos pilies užkariavimą ir apie Kristburgo pilį
+    58 (57). Apie vienos pilies užkariavimą ir apie Kristburgo pilį
 
        Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
     yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
@@ -52,16 +46,14 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     daug ginklanešių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių Kai prakeiktasis Sventopelkas pasipriešino broliams ir paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma, nei vandenimis — upe.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
+    66(65). Apie susirėmimą Notangoje, kur krito 54 broliai ir daug krikščionių
 
       Kai prakeiktasis Sventopelkas pasipriešino broliams  ir paskatino Prūsijos žemės
     naujakrikščius atsimesti nuo tikėjimo, nebegalėjo broliai saugiai keliauti nei sausuma,
@@ -72,9 +64,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
     negalėdami prasiveržti, turėjo atsitraukti į kaimą, vardu Kriukai306.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -85,4 +75,5 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/asmenys/Henrikas iš Veidos]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]

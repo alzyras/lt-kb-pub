@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - paprotys
@@ -26,36 +17,44 @@ tags:
 Taip pat jeigu gaisro atveju arba vagystės, arba per jėgą savo daiktus su jam at­ neštais užstatais prarastų, o krikščionis, kuris būtų užsta­ tęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­ valo išsiteisinti. Taip pat priešin­ gu būdu, niekur kitur, tik mokyklose arba kur teisiami visi žydai, privalo būti, išskyrus mus ir mūsų seniūną, kurie ga­ lime juos prieš mūsų asmenis pašaukti.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Taip pat jeigu gaisro atveju arba vagystės, arba per jėgą savo daiktus su jam at­ neštais užstatais prarastų, o krikščionis, kuris būtų užsta­ tęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­ valo išsiteisinti.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Taip pat priešin­ gu būdu, niekur kitur, tik mokyklose arba kur teisiami visi žydai, privalo būti, išskyrus mus ir mūsų seniūną, kurie ga­ lime juos prieš mūsų asmenis pašaukti.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Taip pat jeigu gaisro atveju arba vagystės, arba per jėgą savo daiktus su jam at­ neštais užstatais prarastų, o krikščionis, kuris būtų užsta­ tęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­ valo išsiteisinti.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat jeigu gaisro atveju arba vagystės, arba per jėgą savo daiktus su jam at­ neštais užstatais prarastų, o krikščionis, kuris būtų užsta­ tęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­ valo išsiteisinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Taip pat jeigu gaisro
+    O taip, suprantama, krikščionis dalį jam ir palū­
+    kanas sumokės, kokį būdą jis atras. Taip pat jeigu gaisro
     atveju arba vagystės, arba per jėgą savo daiktus su jam at­
     neštais užstatais prarastų, o krikščionis, kuris būtų užsta­
     tęs, norėtų jį į teismą iškviesti, žydas asmenine priesaika pri­
@@ -71,13 +70,11 @@ Nenurodyta
     arba mūsų seniūnas tai galės vykdyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Taip pat priešin­ gu būdu, niekur kitur, tik mokyklose arba kur teisiami visi žydai, privalo būti, išskyrus mus ir mūsų seniūną, kurie ga­ lime juos prieš mūsų asmenis pašaukti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat jeigu koks
@@ -93,9 +90,7 @@ Nenurodyta
     dai absoliučiai susilaiko nuo bet kokio kraujo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

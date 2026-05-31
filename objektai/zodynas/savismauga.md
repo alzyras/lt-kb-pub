@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'savismauga'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - sąvoka
@@ -19,39 +16,51 @@ tags:
 Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Be jų, dirbo šimtai
+    – viešojoje (tvarkos) policijoje. Be jų, dirbo šimtai
     seniūnų, garbės policininkų, mokesčių rinkėjų, inspektorių ir kitokių
     pareigūnų, kurie nori nenori tarnavo vokiečiams ir padėjo jiems išnau-
     doti kraštą. Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių
     leistą savivaldą vadino „savismauga“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvių savivaldos aparate dirbo apie 300 apskričių viršininkų ir
+    valsčių viršaičių, apie 900 lietuvių saugumo ir kriminalinės policijos
+    valdininkų, apie 8 tūkst. lietuvių tarnavo policijos savisaugos batalio-
+    nuose ir apie 6 tūkst. – viešojoje (tvarkos) policijoje. Be jų, dirbo šimtai
+    seniūnų, garbės policininkų, mokesčių rinkėjų, inspektorių ir kitokių
+    pareigūnų, kurie nori nenori tarnavo vokiečiams ir padėjo jiems išnau-
+    doti kraštą. Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių
+    leistą savivaldą vadino „savismauga“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/posakiai/„savismauga“]]
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]
-- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
-- [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/zodynas/ponų tauta viešpataujanti tauta]]
 - [[objektai/zodynas/rasės atžvilgiu svetimi elementai]]

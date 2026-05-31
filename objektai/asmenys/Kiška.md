@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kiška'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,13 +18,15 @@ tags:
 Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuomenei vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­ kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­ nių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuomenei vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­ kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­ nių.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuomenei vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­ kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­ nių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau neilga buvo karaliaus vieš­
@@ -48,9 +41,7 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
     Laskis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -61,7 +52,6 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
 - [[objektai/grupes/Krymo orda]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
 - [[objektai/posakiai/brangią žinių kasyklą]]

@@ -11,10 +11,12 @@ datos:
   - '1348 m.'
   - '1503 m.'
   - '1936 m.'
+  - '1954 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
+  - 'XX a.'
   - 'modernioji Lietuva'
 amziai:
   - 'XIV'
@@ -56,18 +58,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'KARALIUS MINDAUGAS IR JO PALIKIMAS 197 prie savo tėvo iš Atoso kalno vienuolyno buvo sugrįžęs į savąją pilį ant Nemuno kranto, bijodamas savo tėvo likimo, pabėgo į Pinską^212.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'Bet užtat jis prijungė prie Lietuvos Mindaugo dar nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes.'
   pagrindžia:
@@ -90,6 +80,18 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginys: 'Vis dėlto Jaunutis išsigelbėjo pabėgda­ mas kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių chaną ieškojo prieglobsčio16 .'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  pagrindžia:
+    - c-012
+- t-014
+  teiginys: 'Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'KARALIUS MINDAUGAS IR JO PALIKIMAS 197 prie savo tėvo iš Atoso kalno vienuolyno buvo sugrįžęs į savąją pilį ant Nemuno kranto, bijodamas savo tėvo likimo, pabėgo į Pinską^212.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -142,59 +144,6 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'KARALIUS MINDAUGAS IR JO PALIKIMAS 197 prie savo tėvo iš Atoso kalno vienuolyno buvo sugrįžęs į savąją pilį ant Nemuno kranto, bijodamas savo tėvo likimo, pabėgo į Pinską^212.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-
-
-    ```
-    KARALIUS MINDAUGAS IR JO PALIKIMAS 197
-    ```
-    prie savo tėvo iš Atoso kalno vienuolyno buvo sugrįžęs į savąją pilį
-    ant Nemuno kranto, bijodamas savo tėvo likimo, pabėgo į Pinską^212.
-    _Treniota,_ kaip Ipatijaus kronika įsakmiai pažymėjo, paėmė «Lie­
-    tuvos ir Žemaičių žemėje» vyriausią valdžią^213.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Narimantui, kuris 1348 m. žuvo
-    Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo
-    kunigaikštijos, t. y. dabartinė Polesė (Pripetės plote).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Brastoje (pirmos
-    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
-    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
-    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
-    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
-    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
-    varniuose, Veliuonoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: 'Bet užtat jis prijungė prie Lietuvos Mindaugo dar nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -288,3 +237,59 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-014
+  santrauka: 'Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Narimantui, kuris 1348 m. žuvo
+    Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo
+    kunigaikštijos, t. y. dabartinė Polesė (Pripetės plote).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'KARALIUS MINDAUGAS IR JO PALIKIMAS 197 prie savo tėvo iš Atoso kalno vienuolyno buvo sugrįžęs į savąją pilį ant Nemuno kranto, bijodamas savo tėvo likimo, pabėgo į Pinską^212.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Salys,** **_Baltų kalbos,_**
+    **LE n, 1954, 132-138.**
+
+
+    ```
+    KARALIUS MINDAUGAS IR JO PALIKIMAS 197
+    ```
+    prie savo tėvo iš Atoso kalno vienuolyno buvo sugrįžęs į savąją pilį
+    ant Nemuno kranto, bijodamas savo tėvo likimo, pabėgo į Pinską^212.
+    _Treniota,_ kaip Ipatijaus kronika įsakmiai pažymėjo, paėmė «Lie­
+    tuvos ir Žemaičių žemėje» vyriausią valdžią^213.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015

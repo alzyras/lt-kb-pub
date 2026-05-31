@@ -36,7 +36,7 @@ tags:
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1578 m. sausio 28 d. Mogiliavas iš Stepono Batoro gavo privilegiją su Magdeburgo teise.'
+  teiginys: 'Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m. Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­ du apie tam miestui suteiktą herbą Baltarusijos Archyve, leistame garbin­ gos atminties kanclerio.'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1578 m. sausio 28 d. Mogiliavas iš Stepono Batoro gavo privilegiją su Magdeburgo teise.'
+  santrauka: 'Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m. Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­ du apie tam miestui suteiktą herbą Baltarusijos Archyve, leistame garbin­ gos atminties kanclerio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m.

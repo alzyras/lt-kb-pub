@@ -1,19 +1,11 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pavietas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
@@ -27,69 +19,45 @@ tags:
 Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje. Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-001
+  teiginys: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Vilniaus katedrai buvo dovanota Tauragnų pilis su visu pavietu ir keli kaimai prie Vilniaus.'
+
+- t-006
+  teiginys: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
   pagrindžia:
-    - c-004
+    - c-006
+
 - t-005
   teiginys: 'Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
   pagrindžia:
     - c-005
 
+- t-007
+  teiginys: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jiems buvo pavestos spręsti visos bylos dėl turto, t. y. vadinamo-
-    sios civilinės bylos. Tik bylos dėl žemės ribų (ežių) buvo pa-
-    vestos atskiram pakamorės teismui. Kiekviename dabar
-    naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
-    skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
-    davo vietoje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Toks krašto
-    padalinimas į vaivadijas ir pavietus išbuvo iki valstybės pabaigos.
-    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
-    arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Senoji pi­
+    Vėliau karalienė
+    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
+    klebonija tapo išties reikšmingiausia Žemaitijoje. Senoji pi­
     liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
     tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
     jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
@@ -98,13 +66,29 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     das.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Vilniaus katedrai buvo dovanota Tauragnų pilis su visu pavietu ir keli kaimai prie Vilniaus.'
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vėliau karalienė
+    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
+    klebonija tapo išties reikšmingiausia Žemaitijoje. Senoji pi­
+    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
+    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
+    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
+    pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
+    ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
+    das.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius tuoj pat
@@ -137,31 +121,67 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+    - t-006
+
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vėliau karalienė
-    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
-    klebonija tapo išties reikšmingiausia Žemaitijoje. Senoji pi­
-    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
-    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
-    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
-    pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
-    ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
-    das.
+    Jiems buvo pavestos spręsti visos bylos dėl turto, t. y. vadinamo-
+    sios civilinės bylos. Tik bylos dėl žemės ribų (ežių) buvo pa-
+    vestos atskiram pakamorės teismui. Kiekviename dabar
+    naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
+    skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
+    davo vietoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
+
+- c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Toks krašto
+    padalinimas į vaivadijas ir pavietus išbuvo iki valstybės pabaigos.
+    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
+    arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-007
+  santrauka: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tik bylos dėl žemės ribų (ežių) buvo pa-
+    vestos atskiram pakamorės teismui. Kiekviename dabar
+    naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
+    skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
+    davo vietoje. Pagaliau baudžiamosios (kriminalinės) bylos
+    buvo pavestos spręsti trečiam, vadinamajam pilies teismui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-008
+  santrauka: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
+    arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
+    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
+    teismą ir kitus urėdus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai

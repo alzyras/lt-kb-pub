@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - transportas
@@ -25,32 +16,53 @@ tags:
 Seniau totoriai vertėsi audinių ir siūlų prekyba.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Seniau totoriai vertėsi audinių ir siūlų prekyba.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Seniau totoriai vertėsi audinių ir siūlų prekyba.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    1. Seniau totoriai vertėsi
+    Jų dau­
+    gybę su visomis šeimomis į šiuos
+    kraštus turėjo būti atkėlęs šaunus
+    pergalingas karys Vytautas; be jų pa­
+    grindinės gyvenvietės prie Vokės
+    upės, be tų, kurie įsikūrė mieste ir
+    kurie apsigyveno vietovėje, vadinto­
+    je Nemėžiu, per mylią nuo Vilniaus į
+    rytus, daug jų įsikūrė pavietuose:
+    Lydos, Ašmenos ir Naugarduko ir
+    iš tiesų nėra valdos, ypač pasakyti­
+    na tai apie Vilniaus, Trakų ir Nau­
+    garduko pavietus, kur iki šiolei ne­
+    būtų išlikę totorių buveinių pėdsakų
+    pavadinimuose: Totoriškės, Totorių
+    kapinės ir 1.1. Seniau totoriai vertėsi
     audinių ir siūlų prekyba. Dabar Lie­
     tuvos totoriai praturtėję, iš tiesų visi
     tarnauja kariuomenėje, specialiuose
@@ -61,9 +73,7 @@ Nenurodyta
     telius, po tėvų mirties paveldėtus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

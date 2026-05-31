@@ -40,10 +40,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Šventaragio slėnyje prie pilies kalno Vilniaus lietuviai kūreno šventąją ugnį.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija.'
   pagrindžia:
@@ -96,6 +92,10 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginys: 'Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.'
   pagrindžia:
     - c-015
+- t-016
+  teiginys: 'Tai buvo Šventaragio slėny prie pat pilies kalno.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,23 +117,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Šventaragio slėnyje prie pilies kalno Vilniaus lietuviai kūreno šventąją ugnį.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Katedra, kaipo būsianti vyriausia Lietuvos bažny­
-    čia, kad pabrėžtų seno lietuvių tikėjimo pakeitimą naujuoju,
-    statyta toje vietoje, kur Vilniaus lietuviai kūreno savo šventąją
-    ugnį. Tai buvo Šventaragio slėny prie pat pilies kalno. Yra
-    išlikęs padavimas, kad jos didysis altorius įkurtas pačioj šven­
-    toj ugniavietėj.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -443,3 +426,20 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-016
+  santrauka: 'Tai buvo Šventaragio slėny prie pat pilies kalno.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Katedra, kaipo būsianti vyriausia Lietuvos bažny­
+    čia, kad pabrėžtų seno lietuvių tikėjimo pakeitimą naujuoju,
+    statyta toje vietoje, kur Vilniaus lietuviai kūreno savo šventąją
+    ugnį. Tai buvo Šventaragio slėny prie pat pilies kalno. Yra
+    išlikęs padavimas, kad jos didysis altorius įkurtas pačioj šven­
+    toj ugniavietėj.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016

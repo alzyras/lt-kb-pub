@@ -245,7 +245,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/suverenas]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/daiktai/Kovos kirviai]]
 - [[objektai/ivykiai/Kryžiaus karai]]
 - [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai]]
 - [[objektai/zodynas/marksistinė periodizacija]]

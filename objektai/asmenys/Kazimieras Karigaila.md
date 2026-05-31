@@ -83,10 +83,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: '" 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'Siaubo pagautų žmonių kamšatis ir visur umaru besibraunantis, įsišėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­ ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­ tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito.'
   pagrindžia:
@@ -107,6 +103,10 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginys: '140 ## Puslapis 157 Il KNYGA godamas tiesiog kasdien aukoti skaitytines mišias už savo mirusius brolius kunigaikščius: Kazimierą Karigailą ir Aleksandrą Vygantą58.'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: '" 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -250,30 +250,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-006
-  santrauka: '" 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    "
-    122
-
-    ## Puslapis 139
-
-    Il KNYGA
-    lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
-    tikras brolis Kazimieras - kunigaikštis Karigaila.
-    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
-    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
-    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
-    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
-    sienų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: 'Siaubo pagautų žmonių kamšatis ir visur umaru besibraunantis, įsišėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­ ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­ tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -424,6 +400,30 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: '" 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    "
+    122
+
+    ## Puslapis 139
+
+    Il KNYGA
+    lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
+    tikras brolis Kazimieras - kunigaikštis Karigaila.
+    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
+    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
+    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
+    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
+    sienų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai

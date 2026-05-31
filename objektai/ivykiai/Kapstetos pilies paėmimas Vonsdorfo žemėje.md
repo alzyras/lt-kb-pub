@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kapstetos pilies paėmimas Vonsdorfo žemėje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1257 m.'
   - '1258 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1257'
 date_end: '1258'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - ordinas
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Kapstetos pilies paėmimas Vonsdorfo žemėje
 
@@ -31,26 +25,31 @@ tags:
 Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies paėmimą Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras 3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W., Die.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies paėmimą Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras 3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W., Die.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies paėmimą Kadangi tas pats Tirskas gerai žinojo kelius į gretimas žemes, Karaliaučiaus komtūras 3-ame dešimtmetyje čia, greta naujosios pilies, buvo pastatyti banko rūmai (Gaerte W., Die.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie karą su Vonsdorfo [Unzatrapio] žemės gyventojais ir Kapstetos pilies
@@ -83,9 +82,7 @@ Nenurodyta
     daugybę nukovę, o visą žemę nusiaubė, grobdami ir degindami.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

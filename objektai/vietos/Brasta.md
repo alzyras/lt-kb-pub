@@ -101,10 +101,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginys: 'Rugsėjo 11 dieną Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir savo centru paskelbė Gardiną.'
   pagrindžia:
     - c-013
-- t-015
-  teiginys: 'Vytautas Lietuvių Brastoje pastatė bažnyčią pirmosios žmonos Marijos Praksėdos atminimui.'
-  pagrindžia:
-    - c-015
 - t-016
   teiginys: '1379 m. paliaubose abu magistrai pasižadėjo nepulti Brastos ir kitų krikščioniškų Trakų kunigaikštijos sričių.'
   pagrindžia:
@@ -129,10 +125,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginys: 'Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už užstatą sidabrui.'
   pagrindžia:
     - c-022
-- t-023
-  teiginys: 'Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.'
-  pagrindžia:
-    - c-023
 - t-024
   teiginys: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
   pagrindžia:
@@ -177,6 +169,14 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginys: 'Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino.'
   pagrindžia:
     - c-034
+- t-035
+  teiginys: 'Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.'
+  pagrindžia:
+    - c-035
+- t-036
+  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  pagrindžia:
+    - c-036
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -414,36 +414,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
-- c-015
-  santrauka: 'Vytautas Lietuvių Brastoje pastatė bažnyčią pirmosios žmonos Marijos Praksėdos atminimui.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip, pavyzdžiui, yra išlikusių ži­
-    nių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos
-    valstybės vietose: Vilniuje katedrą (1399) ir šv. Onos bažnyčią,
-
-
-    ```
-    118
-    ```
-    Kaune parapinę bažnyčią ir pranciškoną (dabar Vytauto), Nau­
-    juose Trakuose (kur yra išlikęs Vytauto numylėtas Šv. Pane­
-    lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
-    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
-    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
-    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
-    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
-    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
-    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
-    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
-    varniuose, Veliuonoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-015
 - c-016
   santrauka: '1379 m. paliaubose abu magistrai pasižadėjo nepulti Brastos ir kitų krikščioniškų Trakų kunigaikštijos sričių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -565,31 +535,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-022
-- c-023
-  santrauka: 'Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Slups-
-    kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­
-    šius. Per poną Turčiną pasiunčiau į Vilnių 80 filipkų, kuriuos
-    priėmė į iždą karališk. did. paliepimu po 1 floriną. Išdavė
-    juos karai. did. reikmėms po 16 liet. grašių. Jiems išleista 26
-    flor., 20 grašių.
-    Šių, 1570 metų išlaidų lietuviškoms monetoms su palū­
-    kanomis suma 84 lenkiški flor., 21 gr., 6 liet. grašiai.
-    In Anno  1571 [1571 metais]
-    Pirmiausia priėmiau į iždą, karališk. did. paliepimu, 66
-    filipkas auksu, išleistus po 20 lenkiškų grašių, jiems išleista
-    22 flor.
-    Brastoje nuo 17 paskolintų liet. grašių palūkanos už dvi
-    savaites - 16 liet. grašių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-023
 - c-024
   santrauka: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -802,3 +747,58 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-034
+- c-035
+  santrauka: 'Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Slups-
+    kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­
+    šius. Per poną Turčiną pasiunčiau į Vilnių 80 filipkų, kuriuos
+    priėmė į iždą karališk. did. paliepimu po 1 floriną. Išdavė
+    juos karai. did. reikmėms po 16 liet. grašių. Jiems išleista 26
+    flor., 20 grašių.
+    Šių, 1570 metų išlaidų lietuviškoms monetoms su palū­
+    kanomis suma 84 lenkiški flor., 21 gr., 6 liet. grašiai.
+    In Anno  1571 [1571 metais]
+    Pirmiausia priėmiau į iždą, karališk. did. paliepimu, 66
+    filipkas auksu, išleistus po 20 lenkiškų grašių, jiems išleista
+    22 flor.
+    Brastoje nuo 17 paskolintų liet. grašių palūkanos už dvi
+    savaites - 16 liet. grašių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-036
+  santrauka: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip, pavyzdžiui, yra išlikusių ži­
+    nių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos
+    valstybės vietose: Vilniuje katedrą (1399) ir šv. Onos bažnyčią,
+
+
+    ```
+    118
+    ```
+    Kaune parapinę bažnyčią ir pranciškoną (dabar Vytauto), Nau­
+    juose Trakuose (kur yra išlikęs Vytauto numylėtas Šv. Pane­
+    lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036

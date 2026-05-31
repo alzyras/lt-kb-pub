@@ -1,42 +1,44 @@
 ---
 tipas: asmuo
 pavadinimas: 'Andrius Kopernikas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1514 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1514'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
   - karalius
   - kunigaikštis
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Andrius Kopernikas
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.
 
+Nenurodyta
+
 ## Teiginiai
+
 - t-001
   teiginys: '## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ten pat dalyvaujant Vilniaus vyskupui di­
@@ -80,9 +82,7 @@ tags:
     ro confirmationem.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

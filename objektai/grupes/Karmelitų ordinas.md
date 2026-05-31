@@ -37,7 +37,7 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios jiems pastatydino vienuolyną.'
+  teiginys: 'Po to pakvietė karmelitus ir prie tos bažnyčios jiems pastatydino vienuolyną.'
   pagrindžia:
     - c-002
 
@@ -64,7 +64,7 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios jiems pastatydino vienuolyną.'
+  santrauka: 'Po to pakvietė karmelitus ir prie tos bažnyčios jiems pastatydino vienuolyną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be
@@ -89,3 +89,4 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Augustinijonų ordinas]]
+- [[objektai/asmenys/Mikalojus Radvila]]

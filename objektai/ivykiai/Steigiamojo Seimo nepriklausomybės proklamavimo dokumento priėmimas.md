@@ -1,29 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1918 m.'
-  - '1922 m.'
   - '1926 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1918'
 date_end: '1926'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ivykis
   - seimas
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Steigiamojo Seimo nepriklausomybės proklamavimo dokumento priėmimas
 
@@ -32,26 +25,31 @@ tags:
 Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Steigiamojo Seimo nariai stengėsi pateisinti rinkėjų lūkesčius. Vien-
@@ -65,9 +63,7 @@ Nenurodyta
     Kazio Griniaus vadovaujama vyriausybė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -76,3 +72,5 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras Stulginskis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Kazys Grinius]]
+- [[objektai/posakiai/„etnologinėmis sienomis“]]

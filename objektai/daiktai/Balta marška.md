@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Balta marška'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - miestas
@@ -27,29 +18,35 @@ tags:
 Dusburgietis teigia, kad kai jis kartą, jau padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai jis kartą, jau padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kai jis kartą, jau padaręs galybę tokių pabūklų, kuriais buvo sugriauta [daug] pilių bei miestų, gulėjo vieną naktį atmerktomis akimis lovoje, pro užsklęstas duris įėjo keturi vyrai, nešini keturiomis degančiomis žvakėmis, ir apkaltino jį daugybe nusikaltimų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai jis kartą, jau
@@ -68,9 +65,7 @@ Nenurodyta
                 246 (239).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

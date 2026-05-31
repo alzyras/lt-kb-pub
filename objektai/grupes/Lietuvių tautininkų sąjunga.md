@@ -141,8 +141,6 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - [[objektai/asmenys/J. Tūbelis]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/asmenys/Aleksandras Stulginskis]]

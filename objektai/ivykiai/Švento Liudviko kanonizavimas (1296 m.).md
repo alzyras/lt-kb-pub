@@ -1,28 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Švento Liudviko kanonizavimas (1296 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1217 m.'
   - '1296 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1217'
 date_end: '1296'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - popiežius
+amziai:
+  - 'XIII'
 ---
 # Švento Liudviko kanonizavimas (1296 m.)
 
@@ -31,18 +24,23 @@ tags:
 Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.'
   pagrindžia:
@@ -50,8 +48,20 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
+
+    karalių (Ptol. pried. p. 1217; Mart. p. 436).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
@@ -61,23 +71,7 @@ Nenurodyta
     karalių (Ptol. pried. p. 1217; Mart. p. 436).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Švento Liudviko kanonizavimas (1296 m.) papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
-
-    karalių (Ptol. pried. p. 1217; Mart. p. 436).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

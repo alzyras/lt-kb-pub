@@ -1,26 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'bulė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1221 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1221'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - popiežius
   - sąvoka
+amziai:
+  - 'XIII'
 ---
 # bulė
 
@@ -29,13 +23,15 @@ tags:
 Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus. Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos karalystės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
@@ -50,9 +46,7 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
     Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

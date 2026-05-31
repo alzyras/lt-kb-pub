@@ -1,21 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Marienverderio miesto užėmimas ir sunaikinimas (miestas)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Marienverderio miesto užėmimas ir sunaikinimas'
-aliases:
-  - 'Marienverderio miesto užėmimas ir sunaikinimas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
@@ -29,26 +18,31 @@ tags:
 Dusburgietis teigia, kad dėl to, subūrę daugybę karių, antrosios atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams].
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad dėl to, subūrę daugybę karių, antrosios atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams].'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad dėl to, subūrę daugybę karių, antrosios atskalūnybės metais patraukė prie Marienverderio miesto ir, tinkamoje vietoje įrengę pasalas, įsakė nedideliam būreliui pasirodyti [pilies gynėjams].'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai, po  senovei  nepasisotinę  krikščionių  kraujo,  vėl suskato  ruošti  ginklus
@@ -64,9 +58,7 @@ Nenurodyta
     išsigelbėjo. Ligi pamatų sugriovę ir sudeginę miestą, prūsai pasitraukė su dideliu grobiu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

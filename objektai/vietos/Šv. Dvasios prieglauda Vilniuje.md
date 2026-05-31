@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Šv. Dvasios prieglauda Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - upė
@@ -27,33 +18,56 @@ tags:
 Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno. Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų. Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.'
-  pagrindžia:
-    - c-004
+
 - t-005
   teiginys: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
   pagrindžia:
     - c-005
+
+- t-004
+  teiginys: 'Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.'
+  pagrindžia:
+    - c-004
+
+- t-003
+  teiginys: 'Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv.'
+  pagrindžia:
+    - c-003
+
 - t-006
   teiginys: 'Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos pačios prieglaudos klebono titulo, kurį sau prisiėmė.'
   pagrindžia:
     - c-006
+
+- t-002
+  teiginys: 'Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taip pat minėti prie­
+    glaudos namai privalo turėti du įėjimus, tai yra, vieną iš tos
+    pusės, kur eina į to paties vienuolyno Šv. Dvasios bažnyčią,
+    kitą - iš šono, kur išeina į Šv. Dvasios gatvę. Tad tokiai prie­
+    glaudai ir joje gyvenantiems vargšams mes karališkąja malo­
+    ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­
+    kams atiduoti, dovanoti, paskirti ir užrašyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
 - c-001
-  santrauka: 'Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ėmėsi kito ob­ jekto - minėtos prieglaudos prie brolių pamokslininkų [dominikonų} vienuolyno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis garbingasis Ulrikas Hozijus,
@@ -77,13 +91,38 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     nėms, atsisveikino su šiuo pasauliu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mišias, klausyti išpažinčių ir dalinti švenčiausiąją
+    Viešpaties Kūno komuniją prieglaudos gyventojams. Taip pat
+    jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai
+    prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos
+    pačios prieglaudos klebono titulo, kurį sau prisiėmė. O kad
+    tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos
+    aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­
+    dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­
+    vavimą minėtos administracijos šviesiausiajam Kristuje tė­
+    vui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat
+    ir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad
+    391
+
+    ## Puslapis 408
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
+    bei administravimu bei jai skirtomis pajamomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
 - c-002
-  santrauka: 'Dvasios esančią prieglaudą, kurią minėtasis Ulrikas Hozijus pradėjo mūryti, atnaujintų ir apžiūrėtų, kaip ją būtų galima pabaigti, kokią miesto teritoriją ir erdvę api­ brėžti, galutinai drauge su minėto vienuolyno tėvais susitar­ tų: jie, vykdydami mūsų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad norėdami tokį mūsų va­
@@ -104,13 +143,11 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     tus pagalbinius jos pastatus būtų galima patogiai pastatyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba vartų į prieglaudos namus, esančių iš gatvės priešais šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba
@@ -125,31 +162,11 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     galo - 60 sprindžių arba 20 uolekčių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taip pat minėti prie­
-    glaudos namai privalo turėti du įėjimus, tai yra, vieną iš tos
-    pusės, kur eina į to paties vienuolyno Šv. Dvasios bažnyčią,
-    kitą - iš šono, kur išeina į Šv. Dvasios gatvę. Tad tokiai prie­
-    glaudai ir joje gyvenantiems vargšams mes karališkąja malo­
-    ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­
-    kams atiduoti, dovanoti, paskirti ir užrašyti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+
 - c-005
-  santrauka: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat
@@ -175,36 +192,6 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     žiningumui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Taip pat jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos pačios prieglaudos klebono titulo, kurį sau prisiėmė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taip pat
-    jie yra įpareigojami paklusniai užimti vietą, kurioje prieš tai
-    prieglauda buvo įrengta, ir įpareigojami dėl panaikinto tos
-    pačios prieglaudos klebono titulo, kurį sau prisiėmė. O kad
-    tvarka ir rūpinimasis tiek šios prieglaudos statyba, tiek jos
-    aprūpinimu, taip pat ir priežiūra bei joje esančių vargšų val­
-    dymas ištikimai ir deramai būtų išlaikomas, globą ir vado­
-    vavimą minėtos administracijos šviesiausiajam Kristuje tė­
-    vui Vilniaus vyskupui, dabar ir vėliau būsiančiam, taip pat
-    ir Vilniaus kapitulai nusprendėme patikėti ir patikime, kad
-    391
-
-    ## Puslapis 408
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    jie visiškai rūpintųsi geru tos pačios prieglaudos valdymu
-    bei administravimu bei jai skirtomis pajamomis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006

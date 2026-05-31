@@ -170,7 +170,6 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - [[objektai/daiktai/Herbas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/istorinė Lietuva]]

@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Municipalinė teisėtvarka municipaliniai nuostatai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1020 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
 date_start: '1020'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - miestas
   - sutartis
   - sąvoka
+amziai:
+  - 'XI'
 ---
 # Municipalinė teisėtvarka municipaliniai nuostatai
 
@@ -30,17 +24,20 @@ tags:
 Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų savininkams metus klajoklišką gyvenimo būdą, miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius ir nuo pat X. Municipaliniai nuostatai Kas­ tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­ lenkė Prancūzijos miestų teisėtvarką.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų savininkams metus klajoklišką gyvenimo būdą, miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius ir nuo pat X.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Municipaliniai nuostatai Kas­ tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­ lenkė Prancūzijos miestų teisėtvarką.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų savininkams metus klajoklišką gyvenimo būdą, miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius ir nuo pat X.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų savininkams metus klajoklišką gyvenimo būdą, miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius ir nuo pat X.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­
@@ -56,13 +53,11 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
     galėtiems baronams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Municipaliniai nuostatai Kas­ tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­ lenkė Prancūzijos miestų teisėtvarką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kitaip klostėsi Ispanijoje,
@@ -79,9 +74,7 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
     lenkė Prancūzijos miestų teisėtvarką.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

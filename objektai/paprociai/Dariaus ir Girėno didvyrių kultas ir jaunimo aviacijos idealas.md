@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1933 m.'
   - '1934 m.'
   - '1938 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1933'
 date_end: '1938'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - paprotys
+amziai:
+  - 'XX'
 ---
 # Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas
 
@@ -30,33 +24,40 @@ tags:
 Netrukus atsirado ir modernių jaunos nacijos didvyrių. Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Netrukus atsirado ir modernių jaunos nacijos didvyrių.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Netrukus atsirado ir modernių jaunos nacijos didvyrių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m.
@@ -69,13 +70,11 @@ Nenurodyta
     lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šie įvykiai sudomino jaunimą aviacija, aviacijos ir sklandymo spor-
@@ -89,12 +88,11 @@ Nenurodyta
 
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     175
-    taičio, 1934 m.
+    taičio, 1934 m. aplankė faktiškai visas Europos sostines, nuskrido per
+    10  000  km.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -108,4 +106,5 @@ Nenurodyta
 - [[objektai/asmenys/V. Landsbergis-Žemkalnis]]
 - [[objektai/posakiai/„Antanas nori būti ore“]]
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
+- [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]

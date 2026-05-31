@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Neris Vilija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mūšis
   - ordinas
@@ -27,24 +18,31 @@ tags:
 51) ap. V o i g t, V, 542, apie jį pasakoja: Entre les Francois on doit remarquer Jean le Maingre dit Bouci- — • — 120 ## Puslapis 137 Il KNYGA ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su savo pajėgomis; o kitoje Vilijos pusėje driekėsi. 25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki. Visiškai baigėsi parakas, o artėjanti žiema grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti atgal į Prūsiją.
 
 ## Teiginiai
+
 - t-001
   teiginys: '51) ap. V o i g t, V, 542, apie jį pasakoja: Entre les Francois on doit remarquer Jean le Maingre dit Bouci- — • — 120 ## Puslapis 137 Il KNYGA ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su savo pajėgomis; o kitoje Vilijos pusėje driekėsi.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: '25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Visiškai baigėsi parakas, o artėjanti žiema grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti atgal į Prūsiją.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '51) ap. V o i g t, V, 542, apie jį pasakoja: Entre les Francois on doit remarquer Jean le Maingre dit Bouci- — • — 120 ## Puslapis 137 Il KNYGA ciu pulkų, vedamų Vytauto, dar ir Livonijos magistras su savo pajėgomis; o kitoje Vilijos pusėje driekėsi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    51) ap. V o i g t, V, 542, apie
+    Tai buvo ne garsusis prancūzų mar­
+    šalas Boucicaut, bet jo sūnus: juk D e
+    W a 1 (Histoire de Vordre Teutonique
+    T. IV, p. 51) ap. V o i g t, V, 542, apie
     jį pasakoja: Entre les Francois on doit
     remarquer Jean le Maingre dit Bouci-
     —  • —
@@ -64,13 +62,11 @@ tags:
     Skirgailą ir sudavė jam smarkų smūgį26.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '25 Latopisiec Litewski, leidžiamas p. D an i 1 o v i č i a u s, 1.45 pasakoja, kad tas mūšis vykęs prie Vilijos upės: ties Horodoku, vietovėje, vadinamoje Weyiszczuszki.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     25
@@ -84,13 +80,11 @@ tags:
     Nerimi, arba Vilija, buvusi...
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Visiškai baigėsi parakas, o artėjanti žiema grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti atgal į Prūsiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tokios atkaklios Moskoževskio gynybos aplin­
@@ -109,8 +103,6 @@ tags:
     taikytis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003

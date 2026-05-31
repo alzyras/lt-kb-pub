@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Aukuro kalnai ir akmenys'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
 ---
@@ -24,29 +15,35 @@ tags:
 Jos garbinimas susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jos garbinimas susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jos garbinimas susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šio proceso ankstyvąja apraiška reikėtų laikyti
@@ -59,9 +56,7 @@ Nenurodyta
     Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

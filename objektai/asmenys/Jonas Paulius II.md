@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Paulius II'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - popiežius
@@ -19,39 +16,52 @@ tags:
 Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška Golgota. Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška Golgota.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška Golgota.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Pirminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d. Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir.'
   pagrindžia:
-    - c-003
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška Golgota.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taip Kryžių kalnas (jį 1993 m.
+    Todėl Kryžių kalnas, esantis 12 km į šiaurę
+    nuo Šiaulių miesto, dėl kryžių gausos tapo plačiai žinomas ne tik Lietu-
+    voje, bet ir užsienyje, o kartu – kovos už tikėjimo laisvę simboliu. Val-
+    džiai draudžiant statyti kryžius, nuverstus pjaustant, deginant, daužant
+    (vien 1961 m. sunaikinti net 2 179 kalne stovėję įvairūs kryžiai), naktimis
+    Kryžių kalne žmonės statė jų vis daugiau. Taip Kryžių kalnas (jį 1993 m.
     aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
     Golgota.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pir-
+    Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau inte-
+    gruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio orga-
+    nizacijas ir tapti visateise valstybe. 1991 m. rugsėjo 17 d. Lietuva priimta
+    į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-
+    tas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO
+    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
+    (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
+    sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą. Pir-
     minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
     sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
@@ -59,16 +69,21 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     metropolitas Audrys Juozas Bačkis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Pirminė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d. Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respublikos prezidentas Algirdas Brazauskas ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pir-
+    Išsivadavusi Lietuva, kaip ir kitos kaimynės, siekė kuo greičiau inte-
+    gruotis į svarbiausias tarptautines demokratinio Vakarų pasaulio orga-
+    nizacijas ir tapti visateise valstybe. 1991 m. rugsėjo 17 d. Lietuva priimta
+    į Jungtinių Tautų (JT) organizaciją, 1991 m. pabaigoje – į JT specializuo-
+    tas įstaigas (UNESCO (Švietimo, mokslo ir kultūros organizacija), TDO
+    (Tarptautinė darbo organizacija) ir kt.), 1993 m. priimta į Europos Tarybą
+    (ET), o 2004 m. – ir į svarbiausias organizacijas – karinę Šiaurės Atlanto
+    sutarties organizaciją ir ekonominę organizaciją – Europos Sąjungą. Pir-
     minė prielaida Lietuvai įsilieti į vakarietiškas saugumo struktūras buvo
     sėkmingas Rusijos kariuomenės išvedimas 1993 m. rugpjūčio 31 d.
     Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos
@@ -76,9 +91,7 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     metropolitas Audrys Juozas Bačkis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

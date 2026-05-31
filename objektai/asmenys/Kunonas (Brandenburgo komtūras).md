@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kunonas (Brandenburgo komtūras)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1299 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1299'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - mūšis
   - pilis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Kunonas (Brandenburgo komtūras)
 
@@ -30,20 +26,23 @@ tags:
 Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 metais Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės pilis ir iki pamatų sudegino jų. Dusburgietis teigia, kad apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius ir keletą dienų jos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 metais Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės pilis ir iki pamatų sudegino jų.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius ir keletą dienų jos.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 metais Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės pilis ir iki pamatų sudegino jų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
+    271 (264). Apie Junigedos ir Pieštvės papilių sudeginimą 298 metais
 
       Tuo metu, kai Prūsijos brolių kariuomenė dar tebebuvo Livonijos žemėse, brolis
     Kunonas, Brandenburgo komtūras, užpuolė su didele kariuomene Junigedos bei Pieštvės
@@ -58,13 +57,11 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
              272 (265).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais Šio magistro laikais šeši šimtai Lietuvos vyrų patraukė link Notangos; iš anksto įspėtas apie šią kariuomenę, brolis Kunonas, Brandenburgo komtūras, subūrė savo valdinius ir keletą dienų jos.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Notangos žemės nuniokojimą ir 250 krikščionių mirtį 1299 metais
@@ -79,9 +76,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
     plėšdama, ir nužudė bei paėmė į nelaisvę 250 krikščionių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

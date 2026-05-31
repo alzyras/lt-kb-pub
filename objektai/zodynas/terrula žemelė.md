@@ -1,9 +1,6 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'terrula žemelė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -11,25 +8,18 @@ datos:
   - '1257 m.'
   - '1387 m.'
   - '1737 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'VI'
-  - 'XII'
-  - 'XIII'
-  - 'XIV'
-  - 'XVIII'
 date_start: '1192'
 date_end: '1737'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - kraštas
   - sąvoka
   - valstybė
+amziai:
+  - 'XII'
+  - 'XVIII'
 ---
 # terrula žemelė
 
@@ -38,32 +28,20 @@ tags:
 Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose matome terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21). Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės sklypas (sklypelis).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose matome terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21).'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės sklypas (sklypelis).'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose matome terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1257.IV.14 Sembos vyskupo  ir vicemagistro valdų dalybų dokumentuose matome
-    terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21).
-    Jis, rodos, atitinka D. territorium — III, 70(71), 101, 107. Sąlygiškai  jis verstinas
-    žemele, mažąja žeme.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose matome terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21).'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad codex Justinianus (VI a.) terrula (demin.) — žemės sklypas (sklypelis).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Plg. Codex Justinianus
@@ -81,11 +59,22 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
     Opis..., p. 44—46; Pašuta V. Lietuvos..., p. 37, 229).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1257.IV.14 Sembos vyskupo  ir vicemagistro valdų dalybų dokumentuose matome
+    terminą terrula (duabus terrulis Dernme vel Quedenowe — SU, 1, Nr. 53, p. 21).
+    Jis, rodos, atitinka D. territorium — III, 70(71), 101, 107. Sąlygiškai  jis verstinas
+    žemele, mažąja žeme.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

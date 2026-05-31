@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Žygimanto Augusto testamentas (1571 m. gegužės 6 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1571 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1571'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - kunigas
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # Žygimanto Augusto testamentas (1571 m. gegužės 6 d.)
 
@@ -30,13 +24,15 @@ tags:
 O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai užsistoti ir nuo skriaudos ginti, jeigu vykdytojai, žemiau paminėti, delstų vykdyti sprendimą arba juo nesirūpintų, tuomet tegul pa­ tys jų didenybės perima mūsų testamento vykdymą ir.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai užsistoti ir nuo skriaudos ginti, jeigu vykdytojai, žemiau paminėti, delstų vykdyti sprendimą arba juo nesirūpintų, tuomet tegul pa­ tys jų didenybės perima mūsų testamento vykdymą ir.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai užsistoti ir nuo skriaudos ginti, jeigu vykdytojai, žemiau paminėti, delstų vykdyti sprendimą arba juo nesirūpintų, tuomet tegul pa­ tys jų didenybės perima mūsų testamento vykdymą ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po to jų didenybėms: kunigaikščiui Jonui Jurgiui,
@@ -78,8 +74,6 @@ O jeigu kas norėtų dėl to, ką kam atiduodame, pakenkti, prieš jį tvirtai u
     ninko pareigose.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

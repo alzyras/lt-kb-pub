@@ -69,14 +69,14 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
-  pagrindžia:
-    - c-003
 - t-008
   teiginys: 'Lotynišką krikštą pa­ darant lietuviams privalomu ir draudžiant mišrias moterystes, etno­ (^18) CDV, I, 29-30 (nr.'
   pagrindžia:
     - c-004
+- t-009
+  teiginys: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -118,21 +118,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-003
-  santrauka: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Katalikams buvo uždraustos mišrios su stačiatikiais
-    vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­
-    imti katalikybę. Šiaip stačiatikių neversta būti katalikais, tik
-    jiems nesuteikta jokių teisių ir privilegijų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-004
   santrauka: 'Lotynišką krikštą pa­ darant lietuviams privalomu ir draudžiant mišrias moterystes, etno­ (^18) CDV, I, 29-30 (nr.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -151,10 +136,23 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ), klausyti
+    vyskupo. Katalikams buvo uždraustos mišrios su stačiatikiais
+    vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­
+    imti katalikybę. Šiaip stačiatikių neversta būti katalikais, tik
+    jiems nesuteikta jokių teisių ir privilegijų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Stačiatikiai]]

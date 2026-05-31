@@ -37,15 +37,14 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Kad lietuvių nuosto­ liai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose puolė Ortelsburgą^22.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kęstutis tais pačiais metais talkino Liubarto ir Algirdo žygiuose ir Prūsuose puolė Ortelsburgą.'
@@ -64,24 +63,6 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Nauja sutartis buvo padaryta dešimčiai metų. Abu ma­
-    gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
-    čiais sutarė, kad pietinė Prūsijos dalis ir prie jos prieiną Lie­
-    tuvos kraštai nei vienų nei kitų nustatytų metų bėgy ne­
-    bebūtų puldinėjami. Lietuviai pasižadėjo nebeužpuldinėti pieti­
-    nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
-    tenburgo ir Gunlaukeno apskričiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Kad lietuvių nuosto­ liai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose puolė Ortelsburgą^22.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -98,3 +79,21 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nauja sutartis buvo padaryta dešimčiai metų. Abu ma­
+    gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
+    čiais sutarė, kad pietinė Prūsijos dalis ir prie jos prieiną Lie­
+    tuvos kraštai nei vienų nei kitų nustatytų metų bėgy ne­
+    bebūtų puldinėjami. Lietuviai pasižadėjo nebeužpuldinėti pieti­
+    nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
+    tenburgo ir Gunlaukeno apskričiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

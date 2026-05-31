@@ -37,14 +37,14 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
   pagrindžia:
-    - c-002
-- t-004
+    - c-004
+- t-006
   teiginys: 'Po daugelio nesėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d. įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas bunkeryje tarp Radviliškio ir Baisogalos.'
   pagrindžia:
-    - c-003
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.'
@@ -62,7 +62,7 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
+- c-004
   santrauka: 'Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -83,9 +83,9 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.'
+    - t-005
+- c-005
+  santrauka: 'Po daugelio nesėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d. įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas bunkeryje tarp Radviliškio ir Baisogalos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po daugelio nesėkmingų
@@ -110,4 +110,4 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-006

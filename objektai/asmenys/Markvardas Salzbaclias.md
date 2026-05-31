@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Markvardas Salzbaclias'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
@@ -26,16 +17,20 @@ tags:
 Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis jau tris kartus esąs išdavęs ordiną; o ketvirtą kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių valdovus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Markvardas Salzbaclias per derybas įžeidė Vytautą, sakydamas, kad šis jau tris kartus buvo išdavęs Ordiną.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis jau tris kartus esąs išdavęs ordiną; o ketvirtą kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių valdovus.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Markvardas Salzbaclias per derybas įžeidė Vytautą, sakydamas, kad šis jau tris kartus buvo išdavęs Ordiną.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­
@@ -44,14 +39,32 @@ Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis ja
     kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių
     valdovus. Užsigavęs dėl tokių kalbų, Vytautas skundėsi magis­
     trui^62.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­ kydamas, jog jis jau tris kartus esąs išdavęs ordiną; o ketvirtą kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių valdovus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Didysis kunigaikštis juos paremsiąs, nes «jis pats nori
+    traukti Karaliaučiun su kariuomene ir vokiečius taip sunaikinti ir
+    sumušti, kad jie patys turėtų bėgti vandenin ir skandintis »^61.
+    Vytautas viešai dėjosi nekaltas ir norėjo « savo rankas nusi­
+    plauti ». Vedant derybas, Markvardas Salzbaclias jį įžeidė, pasa­
+    kydamas, jog jis jau _tris_ kartus esąs išdavęs ordiną; o ketvirtą
+    kartą sulaužius priesaiką, sunku butų pasiteisinti prieš krikščionių
+    valdovus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

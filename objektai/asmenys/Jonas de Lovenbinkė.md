@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas de Lovenbinkė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
@@ -26,16 +17,27 @@ tags:
 m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir tik: brolis lonas de Lovenbinkė (Lokryžiuočių pilis Memelyje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'm n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir tik: brolis lonas de Lovenbinkė (Lokryžiuočių pilis Memelyje.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'm n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir tik: brolis lonas de Lovenbinkė (Lokryžiuočių pilis Memelyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Saremas brolis Otto (Blanehom).
+    Be išsamaus išvar­
+    dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos
+    kapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties
+    miesto vyskupo, Danijos karaliaus ginkluoto būrio vado,
+    Vokiečių ordinom  ir Rygos miesto pusės ir be nurodymo
+    žemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­
+    giau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų
+    besitariančių pusių kraštuose, apie teisišką sprendimą gin­
+    * wenbrulie), Mintaujos komtūras ir
+    Eželis (Oeselis), dab. Saremas brolis Otto (Blanehom).
     m n
     Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir
     tik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.
@@ -45,12 +47,14 @@ m n Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir 
 
     I  KNYGA
     čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
-    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t.
+    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t.
+    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
+    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
+    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
+    gal to priežastis buvo naujesnės žinios iš Prūsijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Lisske'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1233 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1233'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - miestas
   - pilis
   - privilegija
+amziai:
+  - 'XIII'
 ---
 # Lisske
 
@@ -30,13 +24,15 @@ tags:
 Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos
@@ -46,8 +42,6 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
     133; Jasiński T. Przedmieścia..., 4 žemėl.).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

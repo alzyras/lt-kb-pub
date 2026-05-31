@@ -38,10 +38,6 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraičiuose, Trobose, — 100 — Vaviorkoje, D.'
-  pagrindžia:
-    - c-002
 - t-004
   teiginys: 'Adamkavičiaus vadovaujama 1-oji divizija spalio 29-31 d. sėkmingai kontraatakavo ir išvadavo Giedraičius.'
   pagrindžia:
@@ -54,6 +50,10 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraičiuose, Trobose, — 100 — Vaviorkoje, D.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,25 +75,6 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraičiuose, Trobose, — 100 — Vaviorkoje, D.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip, Vytauto laikų didikai
-    pastatė bažnyčias: Vilniuje, Gardine, Giedraičiuose, Trobose,
-
-
-    ```
-    — 100 —
-    ```
-    Vaviorkoje, D. Šalčininkuose, Višneve.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: '1920 m. kovose prie Giedraičių lietuvių artilerija veikė prieš lenkų dalinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -173,3 +154,26 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Taip, Vytauto laikų didikai pastatė bažnyčias: Vilniuje, Gardine, Giedraičiuose, Trobose, — 100 — Vaviorkoje, D.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Privile­
+    gijos greitai bajorus patraukė prie katalikų tikėjimo ir paskati­
+    no aktyviai jį remti, kas pasireiškė tuo, kad turtingesni didikai
+    ir bajorai, sekdami kunigaikščių pavyzdžiu, taip pat statė baž­
+    nyčias ir dovanojo joms žemių. Taip, Vytauto laikų didikai
+    pastatė bažnyčias: Vilniuje, Gardine, Giedraičiuose, Trobose,
+
+
+    ```
+    — 100 —
+    ```
+    Vaviorkoje, D. Šalčininkuose, Višneve.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

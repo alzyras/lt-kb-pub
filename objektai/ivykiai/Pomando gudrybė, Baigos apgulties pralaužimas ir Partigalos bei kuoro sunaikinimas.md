@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Pomando gudrybė, Baigos apgulties pralaužimas ir Partigalos bei kuoro sunaikinimas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
@@ -27,30 +18,36 @@ tags:
 Dusburgietis teigia, kad apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą Iš minėtųjų prūsų pilių kasdien į karą traukdavo tiek ginkluotų vyrų, kad broliai negalėjo nei jiems kelio pastoti, nei jų užpulti. Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą Iš minėtųjų prūsų pilių kasdien į karą traukdavo tiek ginkluotų vyrų, kad broliai negalėjo nei jiems kelio pastoti, nei jų užpulti.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą Iš minėtųjų prūsų pilių kasdien į karą traukdavo tiek ginkluotų vyrų, kad broliai negalėjo nei jiems kelio pastoti, nei jų užpulti.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą Iš minėtųjų prūsų pilių kasdien į karą traukdavo tiek ginkluotų vyrų, kad broliai negalėjo nei jiems kelio pastoti, nei jų užpulti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie netikėlių išžudymą ir Partigalos pilies bei kuoro sunaikinimą
@@ -71,13 +68,11 @@ Nenurodyta
     galėtų papasakoti busimosioms kartoms.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad sitai padarę, kunigaikštis bei broliai su savo kariuomene patraukė prie Partigalos pilies ir prie kuoro, juos paėmė, viską paversdami pelenais, o žmones išsivesdami į nelaisvę arba išžudydami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sitai padarę, kunigaikštis bei broliai su savo
@@ -88,9 +83,7 @@ Nenurodyta
     įžadams duotas laikas, jis smagus sugrįžo į savo žemę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

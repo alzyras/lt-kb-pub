@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: '„Jūsų Didybės įsakyti mes čia su didžiu skausmu...“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1569 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1569'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - karalius
   - posakis
   - seimas
+amziai:
+  - 'XVI'
 ---
 # „Jūsų Didybės įsakyti mes čia su didžiu skausmu...“
 
@@ -30,13 +24,15 @@ tags:
 Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu skausmu ir širdgėla buvome priversti nusileisti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-
@@ -58,9 +54,7 @@ Kreipdamasis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes
     vincija), ar ir Lietuvos antspaudais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

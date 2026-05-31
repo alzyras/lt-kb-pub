@@ -60,10 +60,6 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
   teiginys: 'PIRMOSIOS KNYGOS PABAIGA ## Puslapis 59 VILNIAUS MIESTO ISTORIJOS I KNYGOS PRIEDAI STUDIJA APIE VILNIAUS MIESTO ATSIRADIMĄ Rusios kronikininkai, tarp kitų ir Voskresenski Letopis (BocKpeceHCK.'
   pagrindžia:
     - c-006
-- t-007
-  teiginys: '], į ugnį įmetę ir dėl ko ta pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta 95 ## Puslapis 112 VILNIAUS MIESTO ISTORIJA I TOMAS laiške Vokietijos miestams?'
-  pagrindžia:
-    - c-007
 - t-008
   teiginys: 'Buvo aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką daryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­ sius Ordino riterius, Rygos presbiterį, Vendeno komtūrą Veimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau 99 ## Puslapis.'
   pagrindžia:
@@ -84,6 +80,10 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
   teiginys: 'O kad dėl tokių [as­ menų] jų tarnystė Respublikai nesumažėtų, ir pagal pirmykš­ tę papročių teisę, paties Viešpaties Dievo nustatytą, kaip ir pagal visas tikrąsias krikščionių teises, jie dėl nusikalstamos, 421 ## Puslapis 438 VILNIAUS MIESTO ISTORIJA II.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: '], į ugnį įmetę ir dėl ko ta pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta 95 ## Puslapis 112 VILNIAUS MIESTO ISTORIJA I TOMAS laiške Vokietijos miestams?'
+  pagrindžia:
+    - c-013
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, vykdydami teis­ -- • - 24 ## Puslapis 41 I KNYGA minę priežiūrą kartu su bendruomenės parinktu seniūnu.'
@@ -250,31 +250,6 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: '], į ugnį įmetę ir dėl ko ta pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta 95 ## Puslapis 112 VILNIAUS MIESTO ISTORIJA I TOMAS laiške Vokietijos miestams?'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ], į ugnį įmetę ir dėl ko ta
-    pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta
-    95
-
-    ## Puslapis 112
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    laiške Vokietijos miestams? Gal todėl, kad daugybė Ordino
-    riterių, būtent, Ordino kunigas Jonas Rygietis, Vendeno
-    komtūras Reimaras fon Hanė, Karkuso valdytojas (Vogt) Mi­
-    kalojus fon Parsau ir Gotfridas fon Ustas (Ost) buvo Liube­
-    ke ir galėjo užginčyti šį tvirtinimą? Pagaliau kam visuose
-    trijuose laiškuose kartojama, kad tas pats antspaudas buvo
-    uždėtas ir ant laiško popiežiui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-008
   santrauka: 'Buvo aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką daryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­ sius Ordino riterius, Rygos presbiterį, Vendeno komtūrą Veimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau 99 ## Puslapis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -437,6 +412,31 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-013
+  santrauka: '], į ugnį įmetę ir dėl ko ta pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta 95 ## Puslapis 112 VILNIAUS MIESTO ISTORIJA I TOMAS laiške Vokietijos miestams?'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ], į ugnį įmetę ir dėl ko ta
+    pastaba įdėta į abu laiškus Ordino broliams, o jos trūksta
+    95
+
+    ## Puslapis 112
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    laiške Vokietijos miestams? Gal todėl, kad daugybė Ordino
+    riterių, būtent, Ordino kunigas Jonas Rygietis, Vendeno
+    komtūras Reimaras fon Hanė, Karkuso valdytojas (Vogt) Mi­
+    kalojus fon Parsau ir Gotfridas fon Ustas (Ost) buvo Liube­
+    ke ir galėjo užginčyti šį tvirtinimą? Pagaliau kam visuose
+    trijuose laiškuose kartojama, kad tas pats antspaudas buvo
+    uždėtas ir ant laiško popiežiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
@@ -447,7 +447,6 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
 - [[objektai/asmenys/Gotfridas fon Ustas]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas fon Calmaras]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
@@ -459,6 +458,7 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
@@ -492,4 +492,4 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
 - [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]
-- [[objektai/zodynas/Vogt valdytojas]]
+- [[objektai/zodynas/didysis magistras]]

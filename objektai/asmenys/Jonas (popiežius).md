@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas (popiežius)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,17 +18,20 @@ tags:
 Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiuntėme savo pasiuntinius su laišku mū­ sų tėvui, garsingajam viešpačiui popiežiui Jonui, kad jis mus apvilktų pirmuoju krikšto rūbu; jo pasiuntinių diena iš die­ nos laukiame su dideliu. Jonas (popiežius) padėtų mums drauge su kitomis savo avimis [įeiti] į gausumo ganyklą; tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­ tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes norime], kad greičiau būtų pabaigtas dievo darbas ir nie­ kais pavirstų klastinga apgaulė.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiuntėme savo pasiuntinius su laišku mū­ sų tėvui, garsingajam viešpačiui popiežiui Jonui, kad jis mus apvilktų pirmuoju krikšto rūbu; jo pasiuntinių diena iš die­ nos laukiame su dideliu.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Jonas (popiežius) padėtų mums drauge su kitomis savo avimis [įeiti] į gausumo ganyklą; tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­ tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes norime], kad greičiau būtų pabaigtas dievo darbas ir nie­ kais pavirstų klastinga apgaulė.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiuntėme savo pasiuntinius su laišku mū­ sų tėvui, garsingajam viešpačiui popiežiui Jonui, kad jis mus apvilktų pirmuoju krikšto rūbu; jo pasiuntinių diena iš die­ nos laukiame su dideliu.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiuntėme savo pasiuntinius su laišku mū­ sų tėvui, garsingajam viešpačiui popiežiui Jonui, kad jis mus apvilktų pirmuoju krikšto rūbu; jo pasiuntinių diena iš die­ nos laukiame su dideliu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Hac littera lecta et exscripta a magistro et prioribus
@@ -64,13 +58,11 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
     dvasininkų žudynes.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Jonas (popiežius) padėtų mums drauge su kitomis savo avimis [įeiti] į gausumo ganyklą; tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­ tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes norime], kad greičiau būtų pabaigtas dievo darbas ir nie­ kais pavirstų klastinga apgaulė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara­
@@ -96,9 +88,7 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
     tų danguose su palaimintaisiais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

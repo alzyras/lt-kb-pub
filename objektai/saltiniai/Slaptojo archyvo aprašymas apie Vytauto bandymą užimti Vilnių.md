@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Slaptojo archyvo aprašymas apie Vytauto bandymą užimti Vilnių'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
 ---
@@ -24,13 +15,15 @@ tags:
 Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojimą perteikėme pa­ gal vieną aprašymą, kuris yra S1 a p t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojimą perteikėme pa­ gal vieną aprašymą, kuris yra S1 a p t.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojimą perteikėme pa­ gal vieną aprašymą, kuris yra S1 a p t.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
@@ -52,8 +45,6 @@ Vytautas, žlugus viltims, vėl buvo priverstas ieškoti 19 Visą tą pasakojim�
     nigaikščio.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

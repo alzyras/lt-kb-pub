@@ -95,14 +95,14 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   teiginys: 'Komitetas, kiek leido aplinkybės, užstodamas žmones prieš okupacinės valdžios žiaurumus, nepakeliamas rekvizicijas ir visokias neteisybes, atstovavo ir lietuvių politiniams reikalams.'
   pagrindžia:
     - c-011
-- t-019
-  teiginys: 'Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelpti.'
-  pagrindžia:
-    - c-012
 - t-020
   teiginys: 'Partijų kovoms nė tuomet neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiūrų) nariai iš jo išstojo.'
   pagrindžia:
     - c-013
+- t-021
+  teiginys: 'Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelpti.'
+  pagrindžia:
+    - c-014
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Centralinio Komiteto pirmininku buvo M. Yčas, vicepirmininku A. Smetona, sekretoriumi St. Šilingas, o iždininku J. Kymantas.'
@@ -300,21 +300,6 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
-- c-012
-  santrauka: 'Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelpti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
-    padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
-    ti. Jos vadovas A. Smetona, siekdamas kompromiso, į jos veiklą įtraukė
-    kairės ir liberalų lyderius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
 - c-013
   santrauka: 'Partijų kovoms nė tuomet neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiūrų) nariai iš jo išstojo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -336,15 +321,18 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/A. Janulaitis]]
-- [[objektai/asmenys/Benediktas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)]]
-- [[objektai/asmenys/M. Sleževičius]]
-- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]
+- c-014
+  santrauka: 'Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelpti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
+    padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
+    ti. Jos vadovas A. Smetona, siekdamas kompromiso, į jos veiklą įtraukė
+    kairės ir liberalų lyderius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021

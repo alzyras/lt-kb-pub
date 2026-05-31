@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Bertoldas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -27,37 +18,20 @@ tags:
 Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­ muose. Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la­ biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini­ mų Ordinui.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­ muose.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la­ biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini­ mų Ordinui.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­ muose.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ## Puslapis 103
 
-    I  KNYGA
-    arkivyskupo Fridricho atveju, kurį klastingai išmetė iš baž­
-    nyčios. Jie taip pat smurtu paėmė ir vieną dvasininką, poną
-    Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­
-    muose.
-    Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgalijoje
-    ir daugelyje kitų [vietų].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: 'Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­ muose.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la­ biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini­ mų Ordinui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Antra, ar galima įsivaizduoti, kad tokiame laiške pri­
@@ -73,11 +47,27 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
     pareigojimų Ordinui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ## Puslapis 103
+
+    I  KNYGA
+    arkivyskupo Fridricho atveju, kurį klastingai išmetė iš baž­
+    nyčios. Jie taip pat smurtu paėmė ir vieną dvasininką, poną
+    Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­
+    muose.
+    Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgalijoje
+    ir daugelyje kitų [vietų].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

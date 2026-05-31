@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jeronimas Opachovskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1563 m.'
   - '1569 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1563'
 date_end: '1569'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - seimas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jeronimas Opachovskis
 
@@ -31,13 +27,15 @@ tags:
 40 Dar prieš kelerius metus, nes jau 1563 metais Vilniaus burmistrai - Lukas Opachovskis ir Zenonas Zažeckis - atstovavo Lietuvos Didžiosios Kuni­ gaikštystės miestams Karalystės sei­ me Varšuvoje ir yra paminėti to pa- 280 ## Puslapis 297 IV KNYGA Vilnius ir.
 
 ## Teiginiai
+
 - t-001
   teiginys: '40 Dar prieš kelerius metus, nes jau 1563 metais Vilniaus burmistrai - Lukas Opachovskis ir Zenonas Zažeckis - atstovavo Lietuvos Didžiosios Kuni­ gaikštystės miestams Karalystės sei­ me Varšuvoje ir yra paminėti to pa- 280 ## Puslapis 297 IV KNYGA Vilnius ir.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '40 Dar prieš kelerius metus, nes jau 1563 metais Vilniaus burmistrai - Lukas Opachovskis ir Zenonas Zažeckis - atstovavo Lietuvos Didžiosios Kuni­ gaikštystės miestams Karalystės sei­ me Varšuvoje ir yra paminėti to pa- 280 ## Puslapis 297 IV KNYGA Vilnius ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš kur jis atsiradęs, tai gal vėliau
@@ -65,9 +63,7 @@ tags:
     pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

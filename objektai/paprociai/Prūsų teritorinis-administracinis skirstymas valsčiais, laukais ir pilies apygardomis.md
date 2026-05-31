@@ -1,23 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis'
-aliases:
-  - 'Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
-  - 'XVII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kraštas
@@ -31,41 +18,50 @@ tags:
 Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg. Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H. Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos..., p.. Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H. Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos..., p..'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.'
   pagrindžia:
     - c-004
 
+- t-001
+  teiginys: 'Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H. Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos..., p..'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium
@@ -79,13 +75,11 @@ Nenurodyta
     tai priimta) taikyti ir XIII—XIV a. pradžiai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H. Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos..., p..'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Valsčių sudarė  pilis  ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis
@@ -94,13 +88,11 @@ Nenurodyta
     p. 206—207).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Žemiausias teritorinio padalijimo Prūsijoje vienetas — pulka arba polka (plg.  lie.
@@ -116,13 +108,11 @@ Nenurodyta
     su arimais ir pievomis (Jurginis J. Baudžiavos..., p. 166—168).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.
@@ -132,9 +122,7 @@ Nenurodyta
     sistema buvusi panaši į senovės graikų (Gimbutienė M. Baltai, p. 145—146).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
 
@@ -143,7 +131,6 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Graikai]]
-- [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/territorium castri pilies apygarda|territorium castri pilies apygarda (pilis)]]

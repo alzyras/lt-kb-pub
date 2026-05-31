@@ -125,4 +125,3 @@ Nenurodyta
 - [[objektai/daiktai/Gintaro ir stiklo karoliai]]
 - [[objektai/autoriai/Henrikas Latvis]]
 - [[objektai/daiktai/Juostos]]
-- [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai]]

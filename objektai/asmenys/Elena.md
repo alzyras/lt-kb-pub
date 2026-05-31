@@ -616,7 +616,6 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]
 - [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
-- [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/daiktai/Karalienės Elenos namas Vilniaus pilyje su mūriniu rūsiu]]
 - [[objektai/grupes/Krymo orda]]
 - [[objektai/asmenys/Mendli Girėjus]]
@@ -635,5 +634,4 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - [[objektai/asmenys/Šach Achmedas]]
 - [[objektai/daiktai/Šach Achmedo palapinės prie Vilniaus]]
 - [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]
-- [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje]]

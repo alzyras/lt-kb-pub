@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1430 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1430'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - paprotys
+amziai:
+  - 'XV'
 ---
 # Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui
 
@@ -30,33 +24,40 @@ tags:
 Tačiau kai ten išaiškėjo, kad, užuot aptarus turkų klausimą, imperatoriaus imamasi gudrių už­ mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinėjo. Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tačiau kai ten išaiškėjo, kad, užuot aptarus turkų klausimą, imperatoriaus imamasi gudrių už­ mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinėjo.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Tačiau kai ten išaiškėjo, kad, užuot aptarus turkų klausimą, imperatoriaus imamasi gudrių už­ mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinėjo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau kai ten išaiškėjo, kad, užuot aptarus turkų klausimą, imperatoriaus imamasi gudrių už­ mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     156
@@ -74,16 +75,16 @@ Nenurodyta
     jo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Vytautas, vienintelio troškimo apimtas, sukviečia pas save įžymiausius šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems dalyvaujant karūnuotis Lietuvos karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    99, kuriame atkalbinėja Romos
+    Toje pat Pulavų bibliotekoje
+    riaus Zigmanto įkalbinėjimų, nesi- yra popiežiaus Martyno laiškai -
+    ryžtų karūnuoti Vytauto T,ietuvos ir Nr. 99, kuriame atkalbinėja Romos
     157
 
     ## Puslapis 174
@@ -103,9 +104,7 @@ Nenurodyta
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

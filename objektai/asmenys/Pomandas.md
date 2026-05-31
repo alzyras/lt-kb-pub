@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Pomandas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -27,20 +18,24 @@ tags:
 Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį. Dusburgietis teigia, kad taigi Pomandas iš Baigos pilies sugrįžo pas savo bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad taigi Pomandas iš Baigos pilies sugrįžo pas savo bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Galop pats
+    Didžiai dėl to susirūpinę broliai dažnai
+    rinkdavosi pasitarti, vildamiesi rasti šiomis aplinkybėmis tinkamą  išeitį. Galop pats
     Kristus, kuris niekad nesiliauja gailestingai guodęs jam atsidavusių vyrų, atsidūrusių
     sunkioje nelaimėje, maloniai paragino vieną kilnų vyrą, vardu Pomandas, nusipelniusį
     didelės prūsų pagarbos ir neseniai priėmusį Kristaus tikėjimą bei atvykusį pas brolius,
@@ -49,13 +44,11 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
     nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad taigi Pomandas iš Baigos pilies sugrįžo pas savo bendrataučius prusus, dėdamasis tikėjimo ir tikinčiųjų priešu, o jį pamatę, prūsai labai nudžiugo, nes tikėjosi per šio vyro sumanumą galėsią žlugdyti visas brolių įstangas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Taigi Pomandas iš Baigos pilies sugrįžo pas savo
@@ -70,9 +63,7 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
     pelenais, o žmones išsivesdami  į nelaisvę arba išžudydami.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

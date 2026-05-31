@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Negęstančiosios ugnies garbinimas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - tikėjimas
@@ -25,21 +16,27 @@ tags:
 Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet, žinoma, [tikėjo] ne taip, kaip dera.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet, žinoma, [tikėjo] ne taip, kaip dera.'
   pagrindžia:
@@ -47,8 +44,8 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet, žinoma, [tikėjo] ne taip, kaip dera.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Toks didelis buvo jo autoritetas,
@@ -59,13 +56,11 @@ Nenurodyta
     žinoma, [tikėjo] ne taip, kaip dera.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Negęstančiosios ugnies garbinimas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet
@@ -74,11 +69,9 @@ Nenurodyta
     kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
     iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

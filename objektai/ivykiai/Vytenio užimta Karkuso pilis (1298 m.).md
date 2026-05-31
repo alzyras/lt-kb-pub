@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vytenio užimta Karkuso pilis (1298 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1298 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1298'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - miestas
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Vytenio užimta Karkuso pilis (1298 m.)
 
@@ -30,26 +24,31 @@ tags:
 Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1297 viešpaties metais  kilo begaliniai Rygos miestiečių  ir Teutonų ordino brolių
@@ -65,9 +64,7 @@ Nenurodyta
     1500 krikščionių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

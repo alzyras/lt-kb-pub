@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: 'Vendimus abscedimus, et resignamus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1536 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1536'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - posakis
   - sutartis
+amziai:
+  - 'XVI'
 ---
 # Vendimus abscedimus, et resignamus
 
@@ -30,13 +24,15 @@ tags:
 Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pipirų: Vendimus abscedimus, et resignamus vivum nostrum Vingier, seu torrentem vulgariterque dictum extra civitatis mo­ enia existentem, una cum alveo et aqua ex indė fluenti et canalibus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pipirų: Vendimus abscedimus, et resignamus vivum nostrum Vingier, seu torrentem vulgariterque dictum extra civitatis mo­ enia existentem, una cum alveo et aqua ex indė fluenti et canalibus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pipirų: Vendimus abscedimus, et resignamus vivum nostrum Vingier, seu torrentem vulgariterque dictum extra civitatis mo­ enia existentem, una cum alveo et aqua ex indė fluenti et canalibus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmąją iš griuvėsių prikėlė karalius ir pa­
@@ -69,14 +65,11 @@ Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pi
     šimtį pūdų pipirų].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Elena]]
-- [[objektai/grupes/Dominikonų ordinas]]
 - [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]

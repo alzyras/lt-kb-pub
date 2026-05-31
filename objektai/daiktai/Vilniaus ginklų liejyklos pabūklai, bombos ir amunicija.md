@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1557 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1557'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
   - ordinas
   - pilis
+amziai:
+  - 'XVI'
 ---
 # Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija
 
@@ -30,29 +24,35 @@ tags:
 Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­ mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus pilies.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­ mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus pilies.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­ mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­
@@ -74,9 +74,7 @@ Nenurodyta
     pažinimo jam valdžios Livonijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

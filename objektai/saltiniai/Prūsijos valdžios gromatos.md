@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Prūsijos valdžios gromatos'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -14,26 +11,18 @@ datos:
   - '1722 m.'
   - '1737 m.'
   - '1739 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'X'
-  - 'XII'
-  - 'XIV'
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1192'
 date_end: '1739'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - kraštas
   - saltinis
   - valstybė
+amziai:
+  - 'XII'
+  - 'XVIII'
 ---
 # Prūsijos valdžios gromatos
 
@@ -42,32 +31,20 @@ tags:
 Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K. Dusburgietis teigia, kad baltischslavisches..., p. 340; 1737 m.— į [...] Walsczu [...] Prusu Zemes — Prūsijos valdžios gromatos..., p. 117; Walßčiaus Priweizdėjimas — Ruhig P.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad baltischslavisches..., p. 340; 1737 m.— į [...] Walsczu [...] Prusu Zemes — Prūsijos valdžios gromatos..., p. 117; Walßčiaus Priweizdėjimas — Ruhig P.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija (Būga K.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija
-    (Būga K. 1, p. 554; MPKP, 1, p. 14—15; Prūsijos valdžios gromatos..., Nr. 1 (1589
-    m.), 2 (1639 m.), 6 (1722 m.), 25 (1739 m.) ir kt.). Šiuo vardu iš pradžių, manoma,
-    vadinta tik Pagudė ir, matyt, Pamedė, o pats vardas atsirado ne anksčiau kaip IX—X a.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad baltischslavisches..., p. 340; 1737 m.— į [...] Walsczu [...] Prusu Zemes — Prūsijos valdžios gromatos..., p. 117; Walßčiaus Priweizdėjimas — Ruhig P.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galbūt galima
@@ -82,8 +59,19 @@ Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Pr�
     Opis..., p. 44—46; Pašuta V. Lietuvos..., p. 37, 229).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Prūsų kraštą lietuviai vadino žodžiu Prūsai, Prūsa, Prūsų žemė bei (sulotynintu) Prūsija
+    (Būga K. 1, p. 554; MPKP, 1, p. 14—15; Prūsijos valdžios gromatos..., Nr. 1 (1589
+    m.), 2 (1639 m.), 6 (1722 m.), 25 (1739 m.) ir kt.). Šiuo vardu iš pradžių, manoma,
+    vadinta tik Pagudė ir, matyt, Pamedė, o pats vardas atsirado ne anksčiau kaip IX—X a.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001

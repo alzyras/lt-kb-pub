@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kunzas Lochneris'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,16 +15,20 @@ tags:
 Žygimanto Augusto paradiniai šarvai, pagaminti Niunberge meistro Kunzo Lochnerio, XVI a.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Žygimanto Augusto paradiniai šarvai, pagaminti Niunberge meistro Kunzo Lochnerio, XVI a.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žygimanto Augusto paradiniai šarvai, pagaminti Niunberge meistro Kunzo Lochnerio, XVI a.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Radvilos buvo jo šešio-
+    buvo geriausi kariai, kuriuos tuo metu
+    buvo galima surinkti. Greta didžiojo
+    etmono M. Radvilos buvo jo šešio-
     likmetis sūnus Kristupas Radvila,
     vėliau tapęs didžiuoju etmonu ir
     vadintas Perkūnu, lauko etmo-
@@ -48,11 +43,10 @@ tags:
 
     gaminti Niunberge meistro
     Kunzo Lochnerio, XVI a.
+    6 dešimtmetyje
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

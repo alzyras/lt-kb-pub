@@ -539,6 +539,18 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   teiginys: 'Batorui ateinant į sostą, tarp Lietuvos ir Maskvos tebebuvo neišspręstas ginčas dėl Livonijos (žiūr.'
   pagrindžia:
     - c-125
+- t-126
+  teiginys: 'Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
+  pagrindžia:
+    - c-126
+- t-127
+  teiginys: 'Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti į Maskvą ministrą J.'
+  pagrindžia:
+    - c-127
+- t-128
+  teiginys: '1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio žurnalistams pranešė, kad lapkričio 13 dieną Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas (TTGK) (jam dar.'
+  pagrindžia:
+    - c-128
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -2726,3 +2738,55 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-125
+- c-126
+  santrauka: 'Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Likę vieniši lietuviai
+    1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį
+    su SSRS.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-126
+- c-127
+  santrauka: 'Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti į Maskvą ministrą J.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Birželio 10 dieną Kaune
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+    į Maskvą ministrą J. Urbšį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-127
+- c-128
+  santrauka: '1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tamkevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio žurnalistams pranešė, kad lapkričio 13 dieną Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas (TTGK) (jam dar.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1978 m. lapkričio 22 d. trys kunigai – Alfonsas Svarinskas, Sigitas Tam-
+    kevičius ir Juozas Zdebskis – spaudos konferencijoje Maskvoje užsienio
+    žurnalistams pranešė, kad lap-
+    kričio 13 dieną Lietuvoje įkurtas
+    Tikinčiųjų teisių gynimo komi-
+    tetas (TTGK) (jam dar priklau-
+    sė kunigai Jonas Kauneckas ir
+    Vincentas Vėlavičius), kuris kėlė
+    religinės diskriminacijos proble-
+    mą – tikintieji neturi tų teisių,
+    kuriomis valstybėje naudojasi
+    ateistai, o kulto laisvė praktikoje
+    varžoma.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-128

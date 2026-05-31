@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Pilys'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - daiktas
@@ -27,29 +18,35 @@ tags:
 Dusburgietis teigia, kad nieku būdu nereikia pamiršti ir to itin svarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika metų nuo tos dienos, kai įžengė į Prūsijos žemę, jie pajungė savo galiai ir palenkė krikščionių tikėjimui ir tas gentis, kurios valdė. Dusburgietis teigia, kad valsčių sudarė pilis ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis — kaimais ir žemdirbių — sodžiais (Jurginis J.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad nieku būdu nereikia pamiršti ir to itin svarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika metų nuo tos dienos, kai įžengė į Prūsijos žemę, jie pajungė savo galiai ir palenkė krikščionių tikėjimui ir tas gentis, kurios valdė.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad nieku būdu nereikia pamiršti ir to itin svarbaus įrodymo, jog šių brolių kovas lydėjusi tokia karo sėkmė, kad per vienuolika metų nuo tos dienos, kai įžengė į Prūsijos žemę, jie pajungė savo galiai ir palenkė krikščionių tikėjimui ir tas gentis, kurios valdė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Nieku būdu nereikia pamiršti ir to itin
@@ -61,16 +58,13 @@ Nenurodyta
     jose daugybę įtvirtinimų, miestų ir pilių, kurias išskaičiuosime ir išvardysime vėliau.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Auktalito paėmimas ir Vonsdorfo žemės pavergimas (1256 m.)]]
 - [[objektai/asmenys/Burchardas iš Magdeburgo]]
 - [[objektai/grupes/Europos kryžininkai]]
 - [[objektai/asmenys/Hermanas (Ordino magistras)]]
@@ -94,8 +88,10 @@ Nenurodyta
 - [[objektai/grupes/Unzatrapio žemės gyventojai]]
 - [[objektai/asmenys/Vasilijus III]]
 - [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]
 - [[objektai/autoriai/Wagner, K]]
+- [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/rikiai kunigai]]

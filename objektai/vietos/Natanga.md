@@ -1,27 +1,20 @@
 ---
 tipas: vieta
 pavadinimas: 'Natanga'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1304 m.'
-  - '1322 m.'
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1304'
 date_end: '1324'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Natanga
 
@@ -30,13 +23,15 @@ tags:
 Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     387); anot jos, Ragainės komtūras Fridri­
@@ -54,8 +49,6 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
     metais pastatyta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

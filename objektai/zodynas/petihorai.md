@@ -206,7 +206,6 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Sapiegos]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/husarai]]

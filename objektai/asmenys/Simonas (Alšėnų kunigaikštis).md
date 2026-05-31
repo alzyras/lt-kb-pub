@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Simonas (Alšėnų kunigaikštis)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1432 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1432'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
   - karalius
   - kunigaikštis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Simonas (Alšėnų kunigaikštis)
 
@@ -30,17 +26,20 @@ tags:
 Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų. Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
@@ -89,16 +88,15 @@ tags:
     do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    1. Antrasis laiškas
+    Jur­
+    gio paveikslo ir 1.1. Antrasis laiškas
     yra paties Švitrigailos rašytas didžia­
     jam magistrui iš Polocko, likus 5 die­
     noms iki Mergelės Marijos gimimo,
@@ -115,9 +113,7 @@ tags:
     locką.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

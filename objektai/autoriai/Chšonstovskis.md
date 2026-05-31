@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Chšonstovskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1583 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1583'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Chšonstovskis
 
@@ -27,13 +23,15 @@ tags:
 Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veikalas).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veikalas).'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veikalas).'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     69
@@ -52,9 +50,7 @@ Spausdinta Vilniuje pas Joną Karcaną, 1583, in 4to, 54 p. (Chšonstovskio veik
     K o fc io l S r?
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

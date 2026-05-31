@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuvos tautinė aukščiausioji taryba'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1794 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1794'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karas
   - sukilimas
   - tauta
+amziai:
+  - 'XVIII'
 ---
 # Lietuvos tautinė aukščiausioji taryba
 
@@ -30,13 +24,15 @@ tags:
 Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių vadu tapo Jokūbas Jasinskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK
@@ -54,9 +50,7 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
     nę, žadėta suteikti jiems asmens laisvę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

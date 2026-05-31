@@ -989,7 +989,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - [[objektai/grupes/Lenkai]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Miklausa]]
 - [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]

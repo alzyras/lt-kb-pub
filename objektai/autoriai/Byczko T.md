@@ -1,29 +1,25 @@
 ---
 tipas: autorius
 pavadinimas: 'Byczko T'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1222 m.'
   - '1339 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1222'
 date_end: '1339'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
   - pilis
   - vyskupas
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Byczko T
 
@@ -32,13 +28,15 @@ tags:
 Dusburgietis teigia, kad тоерреn M., HCGP, p. 171; SZCh, p. 100—101; Byczko T., Z badań.., p. 153; Mroczko T., Ruch budowlany.., p. 298).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad тоерреn M., HCGP, p. 171; SZCh, p. 100—101; Byczko T., Z badań.., p. 153; Mroczko T., Ruch budowlany.., p. 298).'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad тоерреn M., HCGP, p. 171; SZCh, p. 100—101; Byczko T., Z badań.., p. 153; Mroczko T., Ruch budowlany.., p. 298).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1222 m. Mazovijos kunigaikštis Konradas perdavė Engelsbergą vyskupui. Kryžiuočių įgula
@@ -47,9 +45,7 @@ Dusburgietis teigia, kad тоерреn M., HCGP, p. 171; SZCh, p. 100—101; Byc
     Mroczko T., Ruch budowlany.., p. 298).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

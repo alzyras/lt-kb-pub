@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Giovanni Villani'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1346 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1346'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - ginklas
   - mūšis
   - transportas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Giovanni Villani
 
@@ -30,13 +26,15 @@ tags:
 Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų ant vežimų, kurios, svaidydamosios ugnies išmetamomis ma­ žomis geležies kulkomis, baisaus trenksmo lydimomis, daugiau buvo tinkamos žirgams gąsdinti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų ant vežimų, kurios, svaidydamosios ugnies išmetamomis ma­ žomis geležies kulkomis, baisaus trenksmo lydimomis, daugiau buvo tinkamos žirgams gąsdinti.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų ant vežimų, kurios, svaidydamosios ugnies išmetamomis ma­ žomis geležies kulkomis, baisaus trenksmo lydimomis, daugiau buvo tinkamos žirgams gąsdinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ži­
@@ -56,9 +54,7 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
     Lib. XII, c. 65, p. 947, ir c. 66, p. 948.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

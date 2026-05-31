@@ -1,29 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: '„brazauskininkus“ ir „landsbergininkus“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1992 m.'
-  - '1993 m.'
-  - '1998 m.'
   - '2000 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1992'
 date_end: '2000'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - posakis
   - seimas
+amziai:
+  - 'XX'
 ---
 # „brazauskininkus“ ir „landsbergininkus“
 
@@ -32,13 +24,15 @@ tags:
 Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuomenė darėsi pliuralistinė, įre-
@@ -59,9 +53,7 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
     įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

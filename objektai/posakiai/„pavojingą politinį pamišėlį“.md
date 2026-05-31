@@ -1,25 +1,19 @@
 ---
 tipas: posakis
 pavadinimas: '„pavojingą politinį pamišėlį“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1935 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1935'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - posakis
+amziai:
+  - 'XX'
 ---
 # „pavojingą politinį pamišėlį“
 
@@ -28,13 +22,15 @@ tags:
 Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo pseudoidėjų įgyvendinimo gali išnaikinti pusę Europos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Plebiscitas Saro krašte ir jo prijungimas prie Vokietijos išgąsdino
@@ -43,9 +39,7 @@ Hitlerį apibūdino kaip „pavojingą politinį pamišėlį“, kuris dėl savo
     mo gali išnaikinti pusę Europos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

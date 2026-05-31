@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1934 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1934'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - tauta
+amziai:
+  - 'XX'
 ---
 # Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)
 
@@ -28,28 +22,38 @@ tags:
 Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingiausias.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingiausias.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingiausias.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pagerėjo sveikatos apsauga, įsteigtos ir pastatytos ligoninės,
+    parengta 1 500 medikų, sumažėjo mirtingumas, priartėjęs prie išvystytų
+    Europos šalių (13 žmonių 1 000 gyventojų) rodiklių, o naujagimių gausa
+    Lietuva toli paliko Latviją ir Estiją… Apie 1941–1942 m. numatyta pradė-
+    ti industrializuoti Lietuvą.
     Autoritarinis ramaus publicisto ir kalbėtojo A. Smetonos režimas ne-
     tenkino dešiniojo sparno tautininkų, kuriems imponavo Italijos fašizmas
     ir energingesnis lyderis. Kariuomenėje įtakingi nacionalistai voldemari-
@@ -58,9 +62,7 @@ Nenurodyta
     vojingiausias.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

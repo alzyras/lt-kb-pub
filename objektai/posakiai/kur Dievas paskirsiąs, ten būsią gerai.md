@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'kur Dievas paskirsiąs, ten būsią gerai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -24,16 +15,20 @@ tags:
 Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos laukiąs tik iš Dievo, o ne iš kitur.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jogaila, priėmęs kardus, sakė pagalbos laukiąs tik iš Dievo ir kautynių vietos nesirinksiąs.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos laukiąs tik iš Dievo, o ne iš kitur.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogaila, priėmęs kardus, sakė pagalbos laukiąs tik iš Dievo ir kautynių vietos nesirinksiąs.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila, išklausęs kalbos ir pri­
@@ -41,10 +36,24 @@ Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos lauki�
     kitur. Kautynėms vietos taip pat neprivaląs sau rinktis, — kur
     Dievas paskirsiąs, ten būsią gerai.
     Paskutinė susitaikymo viltis dingo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Jogaila, išklausęs kalbos ir pri­ ėmęs kardus, atsakė, kad pagalbos laukiąs tik iš Dievo, o ne iš kitur.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo pat
+    metu, kai pasiuntiniai kalbėjo, Ordino kariuomenė darė perrikia­
+    vimus ir kiek pasitraukė atgal. Jogaila, išklausęs kalbos ir pri­
+    ėmęs kardus, atsakė, kad pagalbos laukiąs tik iš Dievo, o ne iš
+    kitur. Kautynėms vietos taip pat neprivaląs sau rinktis, — kur
+    Dievas paskirsiąs, ten būsią gerai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

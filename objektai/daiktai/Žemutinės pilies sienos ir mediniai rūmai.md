@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Žemutinės pilies sienos ir mediniai rūmai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
@@ -27,32 +18,41 @@ tags:
 Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jų pabūgę miestiečiai, raginami ir remiami Vilniaus vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­ limu, išmetę medinius statinius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
+    Tačiau šis karaliaus nurodymas gal taip greitai ne­
+    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
+    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
+    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
     vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
     limu, išmetę medinius statinius. Atrodo, kad tais metais bu­
     vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
@@ -66,9 +66,7 @@ Nenurodyta
     veinei*.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

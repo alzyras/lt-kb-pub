@@ -97,7 +97,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
-- [[objektai/asmenys/Brutenis]]
 - [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Taurės]]
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]

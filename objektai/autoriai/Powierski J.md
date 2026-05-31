@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'Powierski J'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
   - miestas
   - ordinas
+amziai: []
+periodo_grupes: []
 ---
 # Powierski J
 
@@ -27,136 +23,55 @@ tags:
 Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1, 1, Nr. 76; Powierski J.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Dusburgietis teigia, kad (Powierski J.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Dusburgietis teigia, kad 12—16; Powierski J., Z badań nad mitologią..., p. 306—307).'
-  pagrindžia:
-    - c-007
+
 - t-008
   teiginys: 'Dusburgietis teigia, kad kai kas mano, kad sukilimas galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204, 211).'
   pagrindžia:
     - c-008
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad (Powierski J.'
+  pagrindžia:
+    - c-005
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad 12—16; Powierski J., Z badań nad mitologią..., p. 306—307).'
+  pagrindžia:
+    - c-007
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J.'
+  pagrindžia:
+    - c-002
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
+  pagrindžia:
+    - c-006
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.'
+  pagrindžia:
+    - c-003
+
 - t-009
   teiginys: 'Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. (Powierski J., Chronologia..., p. 5—31).'
   pagrindžia:
     - c-009
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    142 PKD, s. 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Przekaz..., s. 421
 
-    pabrėžti, jog prūsai griebiasi šitokio „nepaprasto ir pasaulyje negirdėto būdo“143.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos
-    kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.
-    Pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad kariavo su prūsais, turėjo bazę greičiausiai Kulme (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
-    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
-    Krokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme
-    (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.
-    Stosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-
-    golubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1, 1, Nr. 76; Powierski J.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1,
-    1, Nr. 76; Powierski J. Przekaz..., p. 389—391; to paties, Dobra ostrowicko-golubskie...,
-    p. 32, 100; Guldon Z.. Powierski J. Podziały..., p. 171; Janikowski J., Domagała R.
-    Wyniki..., p. 47—59).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Dusburgietis teigia, kad (Powierski J.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
-    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
-    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J., Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89; Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės baltų..., p. 221—223, 234.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
-    Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
-    d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J.,
-    Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89;
-    Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės
-    baltų..., p. 221—223, 234.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+## Reikšmingi paminėjimai
+
 - c-007
-  santrauka: 'Dusburgietis teigia, kad 12—16; Powierski J., Z badań nad mitologią..., p. 306—307).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Perkūnas — baltiškasis audros, griaustinio dievas. Jis susijęs su kalnu, ąžuolu. Naujausi
@@ -167,13 +82,38 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     mitologią..., p. 306—307).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-007
+
+- c-006
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Romovę resp. Romuvą: Būga K., 1, p. 165—169; 2, p. 32—33; 3, p. 803, 808;
+    Ivinskis Z., Senovės lietuvių religijos bibliografija, p. 150 ir kt. (Romovė); CV, t. 32,
+    d. 2, p. 321; t. 33, p. 264; t. 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J.,
+    Legendos..., p 90—97; [Powierski J.] Nadrowia, p. 342; to paties, Stosunki..., p. 89;
+    Rybelis A., Senoji..., p. 50; Dundulienė P., Medžiai..., p. 62—63, 88; Vėlius N., Senovės
+    baltų..., p. 221—223, 234.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    142 PKD, s. 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J. Przekaz..., s. 421
+
+    pabrėžti, jog prūsai griebiasi šitokio „nepaprasto ir pasaulyje negirdėto būdo“143.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-008
-  santrauka: 'Dusburgietis teigia, kad kai kas mano, kad sukilimas galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204, 211).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
@@ -183,13 +123,63 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     211).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-008
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Žygis įvyko 1218 m. Žygio metu Kristijonas greičiausiai sudarė sutartį su Mazovijos
+    kunigaikščiu Konradu, iš kurio gavo naujų vaidų (PUB, 1, 1, Nr. 32; Szacherska S. M.
+    Pierwsi protektorzy...; HP, 1, 1, p. 425—427; Powierski J. Stosunki..., p. 134—152).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Nesavos pilyje įsikūrė Ordino konventas ir krašto magistras Hermanas Balkas (PUB, 1,
+    1, Nr. 76; Powierski J. Przekaz..., p. 389—391; to paties, Dobra ostrowicko-golubskie...,
+    p. 32, 100; Guldon Z.. Powierski J. Podziały..., p. 171; Janikowski J., Domagała R.
+    Wyniki..., p. 47—59).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
+    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
+    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    178 Hugonas Butyras, kilęs iš Olandijos (tuo metu Sv. Romos imperijos valdos), XII
+    a. viduryje buvo Mazovijos kunigaikščio Boleslovo IV Garbanotojo (nuo 1146 m.— ir
+    Krokuvos kunigaikščio) tarnyboje. Kariavo su prūsais, turėjo bazę greičiausiai Kulme
+    (Kalduse); vėliau čia buvo žinomas vietovardis Potterberg—Mons Butyri (Powierski J.
+    Stosunki..., p. 110; to paties, Hugo Butyr..., p. 20—29; to paties. Dobra ostrowicko-
+    golubskie..., p. 39; Piętka J. Geneza mazowieckiej..., p. 39—40).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-009
-  santrauka: 'Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281 m.) į ją perkeltas konventas; miestui lokacinė privilegija išduota greičiausiai tik 1286 m. (Powierski J., Chronologia..., p. 5—31).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dabar siūlomos vėlesnės datos: pilis pradėta statyti 1279 m. ir tuojau (arba 1281
@@ -197,9 +187,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     (Powierski J., Chronologia..., p. 5—31).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-009
 

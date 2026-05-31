@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'popiežiaus legatas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
@@ -27,13 +18,15 @@ tags:
 Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
@@ -54,9 +47,7 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
     ir minėtą bažnyčią sudegino.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

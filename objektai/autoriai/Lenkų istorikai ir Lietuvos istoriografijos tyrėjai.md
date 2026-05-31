@@ -121,10 +121,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginys: 'Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra iš 1947 m.'
   pagrindžia:
     - c-018
-- t-019
-  teiginys: 'Studyum z dziejów intrygi dyplomatycznej , Varšuva 1882, 346 p. LIETUVOS ISTORIOGRAFIJA^85 daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­ koje studijoje apie Rusiją (PaOR).'
-  pagrindžia:
-    - c-019
 - t-020
   teiginys: 'Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip rodo gausus J.'
   pagrindžia:
@@ -137,6 +133,10 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   teiginys: 'Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių santykius su Lietuva iki vokiečių ordino žlugimo (1525); atskirai išleido dar Geschichte des deutschen Ritterordens (1857-1859) ir CDPr.'
   pagrindžia:
     - c-022
+- t-023
+  teiginys: 'Studyum z dziejów intrygi dyplomatycznej , Varšuva 1882, 346 p. LIETUVOS ISTORIOGRAFIJA^85 daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­ koje studijoje apie Rusiją (PaOR).'
+  pagrindžia:
+    - c-023
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Latkowskis pirmasis bandė nustatyti Lietuvos valstybės pradžios datą ir moksliškai tyrinėti karaliaus Mindaugo laikus.'
@@ -457,28 +457,6 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
-- c-019
-  santrauka: 'Studyum z dziejów intrygi dyplomatycznej , Varšuva 1882, 346 p. LIETUVOS ISTORIOGRAFIJA^85 daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­ koje studijoje apie Rusiją (PaOR).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    **
-    (^132) **A. Prochaska :** **_Zjazd monarchów w Lucku,_** **Przewodnik Nauk. i
-    Literacki, I, Lwów 1874, 58 p. ;** **_Ostatnie łata Witołda. Studyum z dziejów
-    intrygi dyplomatycznej_** **, Varšuva 1882, 346 p.**
-
-
-    ```
-    LIETUVOS ISTORIOGRAFIJA^85
-    ```
-    daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­
-    koje studijoje apie Rusiją (PaOR).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
 - c-020
   santrauka: 'Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip rodo gausus J.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -525,12 +503,36 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-022
+- c-023
+  santrauka: 'Studyum z dziejów intrygi dyplomatycznej , Varšuva 1882, 346 p. LIETUVOS ISTORIOGRAFIJA^85 daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­ koje studijoje apie Rusiją (PaOR).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^132) **A. Prochaska :** **_Zjazd monarchów w Lucku,_** **Przewodnik Nauk. i
+    Literacki, I, Lwów 1874, 58 p. ;** **_Ostatnie łata Witołda. Studyum z dziejów
+    intrygi dyplomatycznej_** **, Varšuva 1882, 346 p.**
+
+
+    ```
+    LIETUVOS ISTORIOGRAFIJA^85
+    ```
+    daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­
+    koje studijoje apie Rusiją (PaOR).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/poliublininiai laikai]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/unija]]

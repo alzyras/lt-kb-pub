@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1394 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1394'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - kunigaikštis
   - miestas
   - mūšis
+amziai:
+  - 'XIV'
 ---
 # Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje
 
@@ -30,58 +24,45 @@ tags:
 Negalėjo didysis kunigaikštis atvirame mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­ ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­ lius užpuolikams gabentis maistą ir. Iš­ stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be paliovos treškindamas sienas ir bokštus, bet negalėjo jų užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl Vytauto sumanumo mūšio lauke. • — 137 ## Puslapis 154 VILNIAUS MIESTO ISTORIJA / TOMAS tarp miesto gyventojų, mat nemažą dalį miestiečių sudarė rusinai ir rusų vienuoliai, žmonių vadinami „čiornais", tie, kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­ nuolyną.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Negalėjo didysis kunigaikštis atvirame mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­ ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­ lius užpuolikams gabentis maistą ir.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Iš­ stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be paliovos treškindamas sienas ir bokštus, bet negalėjo jų užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl Vytauto sumanumo mūšio lauke.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: '• — 137 ## Puslapis 154 VILNIAUS MIESTO ISTORIJA / TOMAS tarp miesto gyventojų, mat nemažą dalį miestiečių sudarė rusinai ir rusų vienuoliai, žmonių vadinami „čiornais", tie, kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­ nuolyną.'
   pagrindžia:
     - c-003
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Negalėjo didysis kunigaikštis atvirame mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­ ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­ lius užpuolikams gabentis maistą ir.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Matydamas šitai, lietuvių vadas din­
-    go kryžiuočiams iš akių, o magistras su visa kariauna
-    patraukė į Vilnių. Negalėjo didysis kunigaikštis atvirame
-    mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad
-    sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­
-    ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­
-    lius užpuolikams gabentis maistą ir užkamuotų priešą nuo­
-    lat gresiančiais pavojais. Ir vos tik magistras prie Vilniaus
-    įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­
-    goti daliniams, išleistiems parūpinti maisto.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-002
+  teiginys: 'Iš­ stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be paliovos treškindamas sienas ir bokštus, bet negalėjo jų užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl Vytauto sumanumo mūšio lauke.'
   pagrindžia:
-    - t-001
+    - c-002
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Iš­ stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be paliovos treškindamas sienas ir bokštus, bet negalėjo jų užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl Vytauto sumanumo mūšio lauke.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šis tiek netikėtas,
@@ -95,13 +76,11 @@ Nenurodyta
     drąsos, sumanė griebtis klastos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: '• — 137 ## Puslapis 154 VILNIAUS MIESTO ISTORIJA / TOMAS tarp miesto gyventojų, mat nemažą dalį miestiečių sudarė rusinai ir rusų vienuoliai, žmonių vadinami „čiornais", tie, kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­ nuolyną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  •  —
@@ -124,11 +103,28 @@ Nenurodyta
     tį54.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Matydamas šitai, lietuvių vadas din­
+    go kryžiuočiams iš akių, o magistras su visa kariauna
+    patraukė į Vilnių. Negalėjo didysis kunigaikštis atvirame
+    mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad
+    sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­
+    ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­
+    lius užpuolikams gabentis maistą ir užkamuotų priešą nuo­
+    lat gresiančiais pavojais. Ir vos tik magistras prie Vilniaus
+    įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­
+    goti daliniams, išleistiems parūpinti maisto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

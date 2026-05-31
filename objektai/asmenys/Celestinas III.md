@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Celestinas III'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
@@ -27,34 +18,37 @@ tags:
 Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai. Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Pirmosios dalies
+    Kronikoje itin ryškus teologiniai momentai. Pratarmėje autorius pranašo Danieliaus
+    žodžius panaudoja Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti. Pirmosios dalies
     įvade tvirtinama, kaip Kristus pastatęs bažnyčią ir parėmęs ją septyniais šulais, t. y.
     septyniais sakramentais, taip dievo vietininkas žemėje popiežius Celestinas III Jeruzalėje
     įkūręs bažnyčios naudai šventosios Marijos Teutonų ordino ligoninę ir paskyręs septynis
     šulus, septynis brolius — landkomtūros, arba provincijų valdytojus, Livonijai, Prūsijai,
-    Vokietijai, Austrijai ir kt.
+    Vokietijai, Austrijai ir kt. Šių namų pagrindą sudaręs didysis magistras ir kapitula, jų
+    niekas negalėsiąs sugriauti, nes jie pastatyti „ant tvirtos uolos, o toji uola — Kristus“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai šis popiežius Celestinas
@@ -67,9 +61,7 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
     šulai, o kiti broliai—sienos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

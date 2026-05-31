@@ -128,8 +128,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/autoriai/Auksė Ūsienė]]
 - [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/autoriai/Vytautas Lesčius]]
 - [[objektai/asmenys/Luterbergas]]
 - [[objektai/asmenys/Ottonas Luterbergas]]

@@ -224,5 +224,6 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/zodynas/bursa]]
 - [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]

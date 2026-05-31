@@ -188,10 +188,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginys: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
   pagrindžia:
     - c-021
-- t-028
-  teiginys: 'Lietuva yra toje pačioje geografinėje platumoje kaip į vakarus nuo Lietuvos esančios Pietų Švedija, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suomija, į pietus – Rumunija, Bulgarija, Graikija.'
-  pagrindžia:
-    - c-022
 - t-029
   teiginys: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
   pagrindžia:
@@ -468,10 +464,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginys: 'Vakarams skirtoje korespondencijoje Lietuva buvo vadinama karalyste.'
   pagrindžia:
     - c-091
-- t-098
-  teiginys: 'Valkininkuose vyko respublikonų bajorijos „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti.'
-  pagrindžia:
-    - c-092
 - t-099
   teiginys: 'Kol karas vyko Saksonijoje, Lietuvoje įsigalėjo Rusijos kariuomenė.'
   pagrindžia:
@@ -616,10 +608,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginys: 'Gausūs Krymo ordos ka­ rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje užkirto šiems azijiečiams kelią į artimiausias šios valsty­ bės vaivadijų sostines47.'
   pagrindžia:
     - c-128
-- t-135
-  teiginys: 'Šio rašto paliu­ dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­ gaikštystės antspaudas.'
-  pagrindžia:
-    - c-129
 - t-136
   teiginys: 'Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS KEIČIANT J LENKIŠKUS PINIGUS 1570 METAIS (Iš Dogelio rankraščių buv.'
   pagrindžia:
@@ -644,18 +632,30 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   teiginys: 'Atsitiko taip. Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­ ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­ mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­ vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje.'
   pagrindžia:
     - c-135
-- t-142
-  teiginys: 'Be to, reikia manyti, kad iš mažens įkvėptas lietuviškumas jį traukė atgal Lietuvon.'
-  pagrindžia:
-    - c-136
 - t-143
   teiginys: '1392 metai Vytauto gyvenime yra persilaužimo metai — jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­ la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.'
   pagrindžia:
     - c-137
 - t-144
-  teiginys: 'Jie paprastai yra apsprendę ir Lietuvos istorijos skirstymą į periodus.'
+  teiginys: 'Lietuva yra toje pačioje geografinėje platumoje kaip į vakarus nuo Lietuvos esančios Pietų Švedija, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suomija, į pietus – Rumunija, Bulgarija, Graikija.'
   pagrindžia:
     - c-138
+- t-145
+  teiginys: 'Valkininkuose vyko respublikonų bajorijos „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti.'
+  pagrindžia:
+    - c-139
+- t-146
+  teiginys: 'Šio rašto paliu­ dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­ gaikštystės antspaudas.'
+  pagrindžia:
+    - c-140
+- t-147
+  teiginys: 'Be to, reikia manyti, kad iš mažens įkvėptas lietuviškumas jį traukė atgal Lietuvon.'
+  pagrindžia:
+    - c-141
+- t-148
+  teiginys: 'Jie paprastai yra apsprendę ir Lietuvos istorijos skirstymą į periodus.'
+  pagrindžia:
+    - c-142
 
 ## Reikšmingi paminėjimai
 
@@ -1059,26 +1059,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-027
-- c-022
-  santrauka: 'Lietuva yra toje pačioje geografinėje platumoje kaip į vakarus nuo Lietuvos esančios Pietų Švedija, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suomija, į pietus – Rumunija, Bulgarija, Graikija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva yra toje pačioje
-    geografinėje platumoje kaip į vakarus nuo Lietuvos esančios Pietų Švedi-
-    ja, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suo-
-    mija, į pietus – Rumunija, Bulgarija, Graikija.
-    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
-    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
-    tus, o rusai į vakarus. Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga
-    aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikė-
-    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-028
 - c-023
   santrauka: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -2310,25 +2290,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-097
-- c-092
-  santrauka: 'Valkininkuose vyko respublikonų bajorijos „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Valki-
-    ninkuose vyko respublikonų bajorijos
-
-    „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę
-    šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo
-    laisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro
-    lengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik
-    tuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-098
 - c-093
   santrauka: 'Kol karas vyko Saksonijoje, Lietuvoje įsigalėjo Rusijos kariuomenė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -3215,24 +3176,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-134
-- c-129
-  santrauka: 'Šio rašto paliu­ dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­ gaikštystės antspaudas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šio rašto paliu­
-    dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­
-    gaikštystės antspaudas. Duota Lietuvoje, visuotiniame Bras­
-    tos seime, pirmadienį, švento Mykolo dieną, tūkstantis penki
-    šimtai keturiasdešimt ketvirtaisiais Viešpaties metais, o ka­
-    ralystės ir
-    .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-135
 - c-130
   santrauka: 'Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS KEIČIANT J LENKIŠKUS PINIGUS 1570 METAIS (Iš Dogelio rankraščių buv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -3385,24 +3328,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-141
-- c-136
-  santrauka: 'Be to, reikia manyti, kad iš mažens įkvėptas lietuviškumas jį traukė atgal Lietuvon.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Be to, reikia manyti, kad
-    iš mažens įkvėptas lietuviškumas jį traukė atgal Lietuvon. Jis
-    visą laiką stengėsi palaikyti gerus santykius su Lietuvos visuo­
-    mene ir rado joje daug pritarimo.
-    ```
-    Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­
-    rius metus Prūsuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-142
 - c-137
   santrauka: '1392 metai Vytauto gyvenime yra persilaužimo metai — jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­ la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -3423,6 +3348,81 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - t-143
 - c-138
+  santrauka: 'Lietuva yra toje pačioje geografinėje platumoje kaip į vakarus nuo Lietuvos esančios Pietų Švedija, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suomija, į pietus – Rumunija, Bulgarija, Graikija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva yra toje pačioje
+    geografinėje platumoje kaip į vakarus nuo Lietuvos esančios Pietų Švedi-
+    ja, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suo-
+    mija, į pietus – Rumunija, Bulgarija, Graikija.
+    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
+    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
+    tus, o rusai į vakarus. Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga
+    aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikė-
+    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-144
+- c-139
+  santrauka: 'Valkininkuose vyko respublikonų bajorijos „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Valki-
+    ninkuose vyko respublikonų bajorijos
+
+    „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę
+    šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo
+    laisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro
+    lengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik
+    tuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-145
+- c-140
+  santrauka: 'Šio rašto paliu­ dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­ gaikštystės antspaudas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šio rašto paliu­
+    dijimui yra prikabintas mūsų Lietuvos Didžiosios Kuni­
+    gaikštystės antspaudas. Duota Lietuvoje, visuotiniame Bras­
+    tos seime, pirmadienį, švento Mykolo dieną, tūkstantis penki
+    šimtai keturiasdešimt ketvirtaisiais Viešpaties metais, o ka­
+    ralystės ir
+    .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-146
+- c-141
+  santrauka: 'Be to, reikia manyti, kad iš mažens įkvėptas lietuviškumas jį traukė atgal Lietuvon.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Be to, reikia manyti, kad
+    iš mažens įkvėptas lietuviškumas jį traukė atgal Lietuvon. Jis
+    visą laiką stengėsi palaikyti gerus santykius su Lietuvos visuo­
+    mene ir rado joje daug pritarimo.
+    ```
+    Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­
+    rius metus Prūsuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-147
+- c-142
   santrauka: 'Jie paprastai yra apsprendę ir Lietuvos istorijos skirstymą į periodus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -3439,4 +3439,4 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-144
+    - t-148

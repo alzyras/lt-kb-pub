@@ -1,28 +1,22 @@
 ---
 tipas: paprotys
 pavadinimas: 'Lenkų mokyklų ribojimas pagal tėvų tautybę ir nelegalios lenkiškos mokyklos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1935 m.'
   - '1936 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1935'
 date_end: '1936'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - paprotys
   - pinigai
   - tauta
+amziai:
+  - 'XX'
 ---
 # Lenkų mokyklų ribojimas pagal tėvų tautybę ir nelegalios lenkiškos mokyklos
 
@@ -31,29 +25,35 @@ tags:
 Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mokyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių 1935 m. priskaičiuota apie 40.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mokyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių 1935 m. priskaičiuota apie 40.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mokyklų visose Lietuvos dalyse, tad leido vaikus į nelegalias mokyklas, kurių 1935 m. priskaičiuota apie 40.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gyvenę nekompaktiškai lenkai neturėjo galimybių rasti vaikams mo-
@@ -66,9 +66,7 @@ Nenurodyta
     mokyklų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

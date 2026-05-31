@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Liaudies seimo rinkimų įstatymas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - elekcija
   - saltinis
@@ -20,26 +17,37 @@ tags:
 Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie gavo balsų daugumą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie gavo balsų daugumą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    iš jų 99,19 proc. balsavo už Lietuvos darbo liaudies sąjungos kandidatus.
+    Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie
+    gavo balsų daugumą. Tačiau pusė kandidatų surinko mažiau nei pusę bal-
+    sų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   santrauka: 'Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie gavo balsų daugumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie
-    gavo balsų daugumą.
-  citata_rodoma: ""
+    gavo balsų daugumą. Tačiau pusė kandidatų surinko mažiau nei pusę bal-
+    sų. O režimas paskelbė, jog išrinkti visi kandidatai – tad rinkimų rezulta-
+    tai suklastoti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002

@@ -232,7 +232,6 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/diplomatija]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

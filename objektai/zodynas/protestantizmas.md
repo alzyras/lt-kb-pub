@@ -55,18 +55,18 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
-- t-005
-  teiginys: 'Protestantizmas labai greitai pasiekė Lietuvą.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Be to, labai daug pakenkė protestantizmui įvairių jo sektų savitarpio nesutikimai.'
   pagrindžia:
     - c-006
 - t-007
-  teiginys: 'XVI amžiuje užplūdusi protestantizmo banga išjudino iš pamatų katalikybę Lietuvoje.'
+  teiginys: 'Protestantizmas labai greitai pasiekė Lietuvą.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'XVI amžiuje užplūdusi protestantizmo banga išjudino iš pamatų katalikybę Lietuvoje.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -132,20 +132,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Protestantizmas labai greitai pasiekė Lietuvą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    ** Protestantizmas labai greitai pa-
-    siekė Lietuvą. 1525 m. Lietuvos pašonėje priėmė protestantizmą
-    kryžiuočių ordino magistras ir daugumas brolių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Be to, labai daug pakenkė protestantizmui įvairių jo sektų savitarpio nesutikimai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -163,6 +149,20 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   pagrindžia:
     - t-006
 - c-007
+  santrauka: 'Protestantizmas labai greitai pasiekė Lietuvą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Protestantizmas labai greitai pa-
+    siekė Lietuvą. 1525 m. Lietuvos pašonėje priėmė protestantizmą
+    kryžiuočių ordino magistras ir daugumas brolių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
   santrauka: 'XVI amžiuje užplūdusi protestantizmo banga išjudino iš pamatų katalikybę Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -178,7 +178,7 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai

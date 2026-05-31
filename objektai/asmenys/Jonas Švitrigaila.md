@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Švitrigaila'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - didikas
@@ -27,13 +18,15 @@ tags:
 Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šioje sutartyje tarp kunigaikščių ir prelatų nurodyti: Černigovo ku­ nigaikštis Švitrigaila, Vilniaus vys­ kupas Motiejus ir Medininkų (Žemai­ tija) vyskupas nominatas Mikalojus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šioje sutartyje tarp kunigaikščių
@@ -53,9 +46,7 @@ tags:
     pagonybės laikais turėti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

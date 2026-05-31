@@ -70,10 +70,9 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/daiktai/Kepurė]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/avantiūristas]]
 - [[objektai/zodynas/komendantūra]]
-- [[objektai/zodynas/pėstininkas]]
+- [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -303,7 +303,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - [[objektai/zodynas/mokytojų seminarija]]
 - [[objektai/grupes/Tridento Sinodas]]
 - [[objektai/zodynas/diecezija]]
-- [[objektai/autoriai/Haackas]]
 - [[objektai/asmenys/J. Stalinas]]
 - [[objektai/asmenys/Jonas Hlebavičius]]
 - [[objektai/asmenys/Josifas Stalinas]]

@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
@@ -27,26 +18,31 @@ tags:
 26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau apsipratęs su
@@ -78,9 +74,7 @@ Nenurodyta
     žiaus bažnyčia ir bonifratrų špitolė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

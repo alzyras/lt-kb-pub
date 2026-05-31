@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'LDK Vyriausiojo Tribunolo Viešųjų reikalų knygos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigas
@@ -27,16 +18,25 @@ tags:
 238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.
 
 ## Teiginiai
+
 - t-001
   teiginys: '238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    liepos 8-ą.
+    Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
+    čiausiai pasistengti, kad Lietuvos miestiečių luomui būtų
+    garantuotas geresnis gyvenimas ir kad suklestėtų šios šalies
+    miestai, išaugtų prekyba ir visos tautos gerovė.
+    Rusdorfui už jai atsiųstus gėrimus,
+    laiškas, datuotas Memitze (neįmano­
+    ma sužinoti, kokia tai vieta), ties Vil­
+    niumi, 1426 m. liepos 8-ą.
     238
 
     ## Puslapis 255
@@ -74,8 +74,6 @@ tags:
     Aktų knygas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

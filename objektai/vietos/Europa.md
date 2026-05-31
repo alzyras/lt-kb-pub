@@ -47,14 +47,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginys: '1429 m., praėjus dvidešimt metų nuo Kėzmarko suvažiavimo, beveik užmirštas klausimas vėl sujudino Europą.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Vilnius buvo vadinamas vienos galingiausių Šiaurės Europos šalių sostine ir svarbiausiu Lietuvos mokslo bei valdžios centru.'
   pagrindžia:
@@ -71,6 +63,14 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginys: 'Praėjus dvidešimt metų nuo Kėzmarko su­ važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į viešumą ir sujudinti visą Europą.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,40 +103,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Siekdama savo švietimo sistemą integruoti į Europą,
-    Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
-    kurti bendrą Europos aukštojo mokslo erdvę. Lietuvos aukštosios moky-
-
-    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
-    255
-    klos ėmė dalyvauti Europos Sąjungos finansuojamose mokslo ir studijų
-    programose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dabartinė Lietuva yra visavertė demokratinė Europos
-    valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios
-    Europos valstybių likimas.
-    Trakų pilis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Vilnius buvo vadinamas vienos galingiausių Šiaurės Europos šalių sostine ir svarbiausiu Lietuvos mokslo bei valdžios centru.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -257,3 +223,35 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama sukurti bendrą Europos aukštojo mokslo erdvę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Aukštasis mokslas iš da-
+    lies tapo mokamas. Siekdama savo švietimo sistemą integruoti į Europą,
+    Lietuva 1999 m. prisidėjo prie Bolonijos deklaracijos, kuria siekiama su-
+    kurti bendrą Europos aukštojo mokslo erdvę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietu-
+    va akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtė-
+    jo ekonomiškai. Dabartinė Lietuva yra visavertė demokratinė Europos
+    valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios
+    Europos valstybių likimas.
+    Trakų pilis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

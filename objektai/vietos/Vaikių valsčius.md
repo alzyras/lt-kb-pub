@@ -1,25 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Vaikių valsčius'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1317 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1317'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - vieta
+amziai:
+  - 'XIV'
 ---
 # Vaikių valsčius
 
@@ -28,35 +22,38 @@ tags:
 Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų. Dusburgietis teigia, kad vaikių valsčiaus bandyta ieškoti tarp Mituvos ir Raseinių (Łowmiański H., Studja..., 2, p. 102; plg. Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad vaikių valsčiaus bandyta ieškoti tarp Mituvos ir Raseinių (Łowmiański H., Studja..., 2, p. 102; plg.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad vaikių valsčiaus bandyta ieškoti tarp Mituvos ir Raseinių (Łowmiański H., Studja..., 2, p. 102; plg.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
+    Šis karas taip palaužė Pagraudės žmones, kad ilgus metus jie nestengė suburti
+    tiek raitelių, kiek galėjo anksčiau. Be to, jis patraukė  į valsčių, vardu Vaikiai545, kur
     — irgi iš pasalų — nukovė daug kilmingųjų. Vargu ar įmanoma tiksliai surašyti, kiek
     sykių jis stojo prieš juos  į kovą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad vaikių valsčiaus bandyta ieškoti tarp Mituvos ir Raseinių (Łowmiański H., Studja..., 2, p. 102; plg.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     545 D.— contra territorium [...] Wayken, intraverunt territorium Waykinam, Jer.—
@@ -70,13 +67,11 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     upelio, Galkaičių k. (Raseinių rj.) įtvirtintame piliakalnyje (LAA, 2, p. 56—60, Nr. 184).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę
@@ -94,8 +89,6 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
     vienas nebūtų išnešęs sveikos galvos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003

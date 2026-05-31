@@ -61,12 +61,13 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
   santrauka: 'Bet derybos Kalvarijoje (rugsėjo mėn.) nedavė jokių vaisių, ir lenkai toliau veržėsi į mūsų teritoriją; be to, jie apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų karo atžvilgiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet
+    Tačiau, vengdama kraujo praliejimo,
+    Lietuvos vyriausybė sutiko dalyvauti konferencijoj, kad tiesio-
+    ginėmis derybomis būtų taikiai išspręsti ginčijami klausimai. Bet
     derybos Kalvarijoje (rugsėjo mėn.) nedavė jokių vaisių, ir len-
     kai toliau veržėsi į mūsų teritoriją; be to, jie apskundė Lie-
     tuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų
     ir lenkų karo atžvilgiu.
-    **Suvalkų derybos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -1,22 +1,19 @@
 ---
 tipas: posakis
 pavadinimas: 'sicut anguillam per caudam'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1407 m.'
+date_start: '1407'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - posakis
+amziai:
+  - 'XV'
 ---
 # sicut anguillam per caudam
 
@@ -25,16 +22,20 @@ tags:
 Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam per caudam »)^52.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ordinas Konstancoje pripažino Žemaičius laikęs lyg slidų ungurį už uodegos („sicut anguillam per caudam“).'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam per caudam »)^52.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ordinas Konstancoje pripažino Žemaičius laikęs lyg slidų ungurį už uodegos („sicut anguillam per caudam“).'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Žmonės esą buvę verčiami į sunkiausius darbus, truk­
@@ -46,14 +47,28 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
     « taip », o rytoj jau « ne »^51. Pats ordinas Konstancoje pripažino
     Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam
     per caudam »)^52.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam per caudam »)^52.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Anot paties vietininko, jie šiandien sakė
+    « taip », o rytoj jau « ne »^51. Pats ordinas Konstancoje pripažino
+    Žemaičius telaikęs lyg slidų ungurį už uodegos (« sicut anguillam
+    per caudam »)^52. Kaip rodo Žemaičių skundas 1407, nuo pat naujo
+    kryžiuočių užvaldymo Žemaičiuose buvo daug nepasitenkinimo^53.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/posakiai/Žemaičių skundas]]

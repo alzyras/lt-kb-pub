@@ -161,6 +161,10 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginys: 'Tai buvo pirmosios aukštesniosios Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kovai su plintančiu protestantizmu.'
   pagrindžia:
     - c-027
+- t-028
+  teiginys: 'Ypač negailestingos jo kritikos susilaukė jė­ zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės komisijos veikla.'
+  pagrindžia:
+    - c-028
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -683,12 +687,27 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-027
+- c-028
+  santrauka: 'Ypač negailestingos jo kritikos susilaukė jė­ zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės komisijos veikla.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Aprašydamas šios Lietuvos aukštosios mo­
+    kyklos raidą 1579-1803 m., daugelį jos istorijos įvykių jis verti­
+    na kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­
+    zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
+    komisijos veikla.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Adomas (auksakalys)]]
 - [[objektai/asmenys/Albinas (Vilniaus sufraganas)]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Danielius]]
 - [[objektai/grupes/Edukacinė Komisija]]
@@ -696,16 +715,11 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/zodynas/Jus Patronatus]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Radvilos]]
-- [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Tšecieskis]]
 - [[objektai/grupes/Vilniaus magistratas]]
-- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/bursa]]
@@ -720,9 +734,6 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/zodynas/protestantizmas]]
-- [[objektai/asmenys/Ignotas Masalskis]]
-- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
-- [[objektai/ivykiai/Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.)]]
 - [[objektai/ivykiai/Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas]]
 - [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/grupes/Mamoničių giminė]]

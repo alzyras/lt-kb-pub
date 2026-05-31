@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - mūšis
@@ -27,31 +18,40 @@ tags:
 Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prieš mūšį Vytautas tarsi reikalavo chano pavaldumo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prieš mūšį Vytautas tarsi reikalavo chano pavaldumo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -66,16 +66,42 @@ Nenurodyta
 
     Žasto, dilbio, kelio ir blauz-
     dos apsaugos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Totorių pajėgos
+    Aukso ordos chano Timūr-Kutluko,
+    Krymo emyro Edygos kariai.
+
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu. Timūr-
+    Kutlukas, paprašęs trijų dienų pagalvoti,
+    siuntė Vytautui daug galvijų, jaučių, avių,
+    sveikino jį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/asmenys/Edyga]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Totorių pajėgos]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/daiktai/Vytauto ženklas]]

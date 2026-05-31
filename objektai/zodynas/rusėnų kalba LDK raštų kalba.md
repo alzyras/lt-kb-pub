@@ -52,14 +52,14 @@ tags:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Ji kartais vadinama „vakarų rusų“, kartais „senąja ukrainiečių“, kartais – „senąja baltarusių“, o Lietuvoje – „LDK slavų kanceliarine“ kalba (nors ji išėjo ir už kanceliarijos, ir už LDK ribų – į Lenkiją bei Vengriją, ir, svarbiausia, skyrėsi nuo kitų LDK.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Ji kartais vadinama „vakarų rusų“, kartais „senąja ukrainiečių“, kartais – „senąja baltarusių“, o Lietuvoje – „LDK slavų kanceliarine“ kalba (nors ji išėjo ir už kanceliarijos, ir už LDK ribų – į Lenkiją bei Vengriją, ir, svarbiausia, skyrėsi nuo kitų LDK.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.'
@@ -123,7 +123,24 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
+- c-006
+  santrauka: 'Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
+    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
+    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
+    kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
+    tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
+    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
   santrauka: 'Ji kartais vadinama „vakarų rusų“, kartais „senąja ukrainiečių“, kartais – „senąja baltarusių“, o Lietuvoje – „LDK slavų kanceliarine“ kalba (nors ji išėjo ir už kanceliarijos, ir už LDK ribų – į Lenkiją bei Vengriją, ir, svarbiausia, skyrėsi nuo kitų LDK.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -147,24 +164,7 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
-    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
-    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
-    kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
-    tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
-    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,25 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'generaliniai tarėjai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1943 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1943'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - tauta
+amziai:
+  - 'XX'
 ---
 # generaliniai tarėjai
 
@@ -28,66 +22,94 @@ tags:
 Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais paskyrė generalinius tarėjus, o ministerijas 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 203 pervadino vadybomis. 1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais paskyrė generalinius tarėjus, o ministerijas 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 203 pervadino vadybomis.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 205 1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę.'
   pagrindžia:
     - c-003
 
+- t-001
+  teiginys: 'Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais paskyrė generalinius tarėjus, o ministerijas 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 203 pervadino vadybomis.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais paskyrė generalinius tarėjus, o ministerijas 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 203 pervadino vadybomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taigi lietuvių administracija prižiūrėta per lie-
+    pervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-
     tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
     voldemarininkas gen. Petras Kubiliūnas. Keturi tarėjai, atsisakę vykdyti
     vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
     stovyklą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-
     moji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio
-    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
+    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę. Vokiečių
+    valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lie-
+    tuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę,
+    kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
+    joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 205 1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
     205
     1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadina-
     moji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio
-    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę.
+    organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę. Vokiečių
+    valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lie-
+    tuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę,
+    kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
+    joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais paskyrė generalinius tarėjus, o ministerijas 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 203 pervadino vadybomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Stokodama žmonių
+    okupacinei administracijai steigti, nacių valdžia leido veikti vietos sa-
+    vivaldai – vidurines ir žemesnes pareigas ir toliau ėjo lietuviai, paskirti
+    Laikinosios vyriausybės. Vietoje LV ministrų vokiečių valdžia lietuvių
+    administracijos vadovais paskyrė generalinius tarėjus, o ministerijas
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    203
+    pervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-
+    tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
+    voldemarininkas gen. Petras Kubiliūnas. Keturi tarėjai, atsisakę vykdyti
+    vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
+    stovyklą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

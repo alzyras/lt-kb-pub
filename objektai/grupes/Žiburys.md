@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Žiburys'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -18,16 +15,20 @@ tags:
 Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Žiburys“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų, veikusių kartu su „Rytu“ ir „Saule“.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Žiburys“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų, veikusių kartu su „Rytu“ ir „Saule“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vilniuje 1907 m. buvo
@@ -39,13 +40,27 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
     kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
     jampolėje „Žiburys".
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
+    Draugija ir daug kitų draugijų.
+    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
+    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
+    jampolėje „Žiburys". Ypač plačiai buvo užsimojusi „Sau-
+    lė".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

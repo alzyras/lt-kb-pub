@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Pilypas (Prancūzijos karalius)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -26,13 +17,15 @@ tags:
 Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę Tais pačiais metais prasidėjo nesantarvė tarp Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos karaliaus, nesantarvę
@@ -46,9 +39,7 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
     15 kaltinimų popiežiui ir kreipėsi į busimąjį susirinkimą arba popiežių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

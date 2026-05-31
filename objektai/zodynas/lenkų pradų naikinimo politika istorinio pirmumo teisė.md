@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'lenkų pradų naikinimo politika istorinio pirmumo teisė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - sukilimas
@@ -27,13 +18,15 @@ tags:
 L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadino „lenkų pradų naikinimo“ politika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -53,9 +46,7 @@ L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po 
     torinį teisingumą“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

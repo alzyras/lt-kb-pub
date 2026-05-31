@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'instigatorius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - vyskupas
@@ -25,13 +16,15 @@ tags:
 Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškilus bet kokio pobūdžio būtiny­ bei, kiek tik kartų būtų pono Vilniaus vyskupo ar jo institu­ cijos instigatoriaus kviečiami, suteiktų jiems savo pagalbą; į didelę mūsų nemalonę pateks tas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškilus bet kokio pobūdžio būtiny­ bei, kiek tik kartų būtų pono Vilniaus vyskupo ar jo institu­ cijos instigatoriaus kviečiami, suteiktų jiems savo pagalbą; į didelę mūsų nemalonę pateks tas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškilus bet kokio pobūdžio būtiny­ bei, kiek tik kartų būtų pono Vilniaus vyskupo ar jo institu­ cijos instigatoriaus kviečiami, suteiktų jiems savo pagalbą; į didelę mūsų nemalonę pateks tas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O jei reikės ar iškils dvejo­
@@ -47,9 +40,7 @@ Todėl šiuo raštu įgaliojame visus seniūnus ir mūsų valdinius, kad, iškil
     papročius, arba mūsų nuožiūra.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

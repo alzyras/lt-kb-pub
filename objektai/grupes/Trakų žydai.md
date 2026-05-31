@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Trakų žydai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
@@ -26,16 +17,24 @@ tags:
 Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten gyvenančių, vardu vieną.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten gyvenančių, vardu vieną.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje stoję mūsų valdiniai žydai iš Trakų savo ir kitų žydų, ten gyvenančių, vardu vieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    didysis ku­
+    Kad [įsivėlusi] klaida per nerū­
+    pestingumą dėl vykstančių reikalų kartais neatneštų kokios
+    nors skriaudos, atsirado protingas poreikis, kad tai būtų iš­
+    dėstyta raštu ir sutvirtinta ir patikimų liudytojų liudijimu
+    patvirtinta. Amžinai šio dalyko atminčiai mes, Žygimantas
+    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
+    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
     nigaikštis. Supažindiname šiuo dabartiniu mūsų raštu, kam
     apie tai dera žinoti, visiems dabar skaitysiantiems ir ateityje
     kam žinoti reikėtų, kaip mūsų ir mūsų patarėjų akivaizdoje
@@ -50,9 +49,7 @@ Supažindiname šiuo dabartiniu mūsų raštu, kam apie tai dera žinoti, visiem
     turi būti parašyti: Viešpaties vardu Amen.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

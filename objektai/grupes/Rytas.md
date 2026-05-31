@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Rytas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -18,16 +15,20 @@ tags:
 Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vilniuje 1907 m. buvo
@@ -39,13 +40,27 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
     kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
     jampolėje „Žiburys".
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Marijampolėje „Žiburys".'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
+    Draugija ir daug kitų draugijų.
+    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
+    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
+    jampolėje „Žiburys". Ypač plačiai buvo užsimojusi „Sau-
+    lė".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -67,6 +82,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]
 - [[objektai/asmenys/Gerhardas iš Reino]]
 - [[objektai/autoriai/J. Maciūnas]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Juozas Urbšys]]
 - [[objektai/asmenys/Jurgis Trečiokas-Rytas]]
 - [[objektai/asmenys/K. Ladyga]]
@@ -109,6 +125,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/grupes/asis šaulių pulko batalionas]]
 - [[objektai/zodynas/Gaspadinė|gaspadinė]]
+- [[objektai/zodynas/regimentorius]]
 - [[objektai/grupes/Žarėnų kuopa]]
 - [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams]]
 - [[objektai/grupes/Žiburys]]

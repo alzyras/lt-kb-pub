@@ -1,25 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Kreiviai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1964 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1964'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
   - žemėlapis
+amziai:
+  - 'XX'
 ---
 # Kreiviai
 
@@ -28,13 +22,15 @@ tags:
 Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Analogiškų faktų randame Lietuvoje. Žemaitijoje apie 9— 10 km  į pietryčius nuo
@@ -49,8 +45,6 @@ Dusburgietis teigia, kad akmenos krante, Kreivių kaime (Jucaičių apyl.
     paminklų komplekso esama ir prie Akmenos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

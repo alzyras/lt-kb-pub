@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1920 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1920'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kraštas
   - kunigas
   - tauta
+amziai:
+  - 'XX'
 ---
 # Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)
 
@@ -30,74 +24,61 @@ tags:
 Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį. Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms. Tad iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje Kaune susirinko į pirmąjį Seimo posėdį.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Tad iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje Kaune susirinko į pirmąjį Seimo posėdį.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'L I E T U V O S I S T O R I J A 148 Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir.'
   pagrindžia:
     - c-004
 
+- t-002
+  teiginys: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Tad iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje Kaune susirinko į pirmąjį Seimo posėdį.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dėl nepriklausomybės kovų rinkimai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą, tautybę ar lytį.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir Lietuvos darbo federacija (LDF), joms.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    vo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Tad iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje Kaune susirinko į pirmąjį Seimo posėdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tad
+    iš viso išrinkta 112 atstovų, kurie gegužės 15 dieną laikinojoje sostinėje
+    Kaune susirinko į pirmąjį Seimo posėdį. O juk planuota išrinkti ir apie
+    100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rin-
     kimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo. Tai rodo, kad
+    turimos teritorijos Lietuva dar nelaikė galutine.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'L I E T U V O S I S T O R I J A 148 Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -109,14 +90,48 @@ Nenurodyta
     Katalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsa-
     vo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais
     antilenkiškais šūkiais ir, kas dar svarbiau, žadėjo nacionalizuoti arba ap-
-    karpyti dvarus ir išdalyti žemę valstiečiams.
+    karpyti dvarus ir išdalyti žemę valstiečiams. Kairysis valstiečių liaudinin-
+    kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
+    29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
+    se, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos:
+    Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-
+    junga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos).
+    Katalikiškame krašte tai nebuvo sensacija, nes tikinčios moterys balsa-
+    vo už kunigų partiją, be to, Katalikų bažnyčia, dvasininkai ėjo su aiškiais
+    antilenkiškais šūkiais ir, kas dar svarbiau, žadėjo nacionalizuoti arba ap-
+    karpyti dvarus ir išdalyti žemę valstiečiams. Kairysis valstiečių liaudinin-
+    kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
+    29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos pirmųjų metų pajamas į biudžetą teikė dau-
+    giausia miško ir linų eksportas. Įsitvirtinus didumoje savo teritorijos atėjo
+    eilė valstybės struktūros klausimams. Dėl nepriklausomybės kovų rinki-
+    mai į Stegiamąjį Seimą surengti tik 1920 m. balandžio viduryje, rinkimų
+    teisę gavo 21 metų sulaukę Lietuvos piliečiai, neatsižvelgiant į jų tikėjimą,
+    tautybę ar lytį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

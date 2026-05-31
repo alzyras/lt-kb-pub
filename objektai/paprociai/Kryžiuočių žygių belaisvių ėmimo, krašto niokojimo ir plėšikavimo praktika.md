@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1322 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1322'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - kraštas
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XIV'
 ---
 # Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika
 
@@ -30,29 +24,35 @@ tags:
 1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­ pedicija patraukė į Prūsiją.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­ pedicija patraukė į Prūsiją.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­ pedicija patraukė į Prūsiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1322-ųjų žiemą, po ilgos ramybės, nauja kryžiuočių eks­
@@ -73,9 +73,7 @@ Nenurodyta
     išžudyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

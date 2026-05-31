@@ -63,10 +63,6 @@ Nenurodyta
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Sunkiąją kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki kojų tvirtais metaliniais šarvais.'
-  pagrindžia:
-    - c-003
 - t-006
   teiginys: 'Visa Ordino kariuomenė stovėjo atvi­ rame lauke ir riterius, šarvuotus metaliniais šarvais, kepino karšta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­ menės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis.'
   pagrindžia:
@@ -75,6 +71,10 @@ Nenurodyta
   teiginys: 'Pasimeldęs Jogaila, ne tik Vytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­ vyko prie kariuomenės.'
   pagrindžia:
     - c-005
+- t-008
+  teiginys: 'Sunkiąją kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki kojų tvirtais metaliniais šarvais.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,26 +112,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-003
-  santrauka: 'Sunkiąją kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki kojų tvirtais metaliniais šarvais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    ```
-    Kavalerija būdavo sunkiai ir lengvai ginkluota. Sunkiąją
-    kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki
-    kojų tvirtais metaliniais šarvais. Šarvuodavo net arklius. Toks
-    riteris su anų laikų ginklais buvo beveik nepaimama tvirtovė.
-    Sunkiai šarvuotieji kovose turėdavo ir nepatogumų, — jei pa­
-    sitaikydavo nuo arklio nusiversti, tai ant jo užsėsti kautynių
-    laiku jiems būdavo labai sunku.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-004
   santrauka: 'Visa Ordino kariuomenė stovėjo atvi­ rame lauke ir riterius, šarvuotus metaliniais šarvais, kepino karšta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­ menės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -164,6 +144,26 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-006
+  santrauka: 'Sunkiąją kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki kojų tvirtais metaliniais šarvais.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    ```
+    Kavalerija būdavo sunkiai ir lengvai ginkluota. Sunkiąją
+    kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki
+    kojų tvirtais metaliniais šarvais. Šarvuodavo net arklius. Toks
+    riteris su anų laikų ginklais buvo beveik nepaimama tvirtovė.
+    Sunkiai šarvuotieji kovose turėdavo ir nepatogumų, — jei pa­
+    sitaikydavo nuo arklio nusiversti, tai ant jo užsėsti kautynių
+    laiku jiems būdavo labai sunku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -173,7 +173,6 @@ Nenurodyta
 - [[objektai/zodynas/lengvoji kavalerija]]
 - [[objektai/asmenys/Gerhardas, pravarde Rudė]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
-- [[objektai/asmenys/Janas Mateika]]
 - [[objektai/daiktai/Karacenos šarvų komplektas]]
 - [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]

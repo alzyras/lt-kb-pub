@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1547 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1547'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - miestas
   - privilegija
+amziai:
+  - 'XVI'
 ---
 # Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)
 
@@ -30,26 +24,31 @@ tags:
 Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­ lo fabrikas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­ lo fabrikas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­ lo fabrikas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
@@ -69,9 +68,7 @@ Nenurodyta
     davinėti lenkišką stiklą34.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

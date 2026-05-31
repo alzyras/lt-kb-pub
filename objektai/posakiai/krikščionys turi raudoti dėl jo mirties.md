@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'krikščionys turi raudoti dėl jo mirties'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - posakis
@@ -27,13 +18,15 @@ tags:
 Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kovodamas Livonijos ordino
@@ -44,9 +37,7 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
     tos rūšies suskilimą jauna valstybė atlaikė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,29 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus užėmimas (1794 m. rugpjūčio 11–12 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1794 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVIII'
-  - 'XIX'
 date_start: '1794'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - kunigaikštis
   - miestas
+amziai:
+  - 'XVIII'
 ---
 # Vilniaus užėmimas (1794 m. rugpjūčio 11–12 d.)
 
@@ -32,26 +24,31 @@ tags:
 Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     q Priešui pralaužus vilniečių gy-
@@ -129,9 +126,7 @@ Nenurodyta
     mis visoje Lietuvos teritorijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

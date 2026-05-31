@@ -1,9 +1,6 @@
 ---
 tipas: paprotys
 pavadinimas: 'Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -17,25 +14,18 @@ datos:
   - '1262 m.'
   - '1263 m.'
   - '1269 m.'
-  - '1277 m.'
-  - '1280 m.'
-  - '1282 m.'
   - '1285 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1229'
 date_end: '1285'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - ordinas
   - paprotys
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną
 
@@ -44,60 +34,50 @@ tags:
 Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Dusburgietis teigia, kad sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios Klaipėdos pilies apgulties eigoje (XIII a. Dusburgietis teigia, kad netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios Klaipėdos pilies apgulties eigoje (XIII a.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219, 223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.'
   pagrindžia:
     - c-004
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
-    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
-    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
-    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
-    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
-    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
-    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
-    lietuviai29.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: 'Dusburgietis teigia, kad lietuvos ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios Klaipėdos pilies apgulties eigoje (XIII a.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sembų ir lietuvių (žemaičių) bendrus veiksmus galima įžiūrėti Ordinui priklausiusios
@@ -112,13 +92,46 @@ Nenurodyta
     aktyviai rėmė, kiek leido sąlygos, prūsų  ir jotvingių—sūduvių kovą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,
+    bartų ir kt. rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219,
+    223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.
+      Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,
+    kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,
+    226—1285 m.; 249—1292 m.), padėjo lietuvių kariuomenei naikinti kryžiuočių pilis
+    (III, 253— 1293 m.), be kita ko, siekė (1337 m.) padėti Gedimino kariuomenei, kuri
+    stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
+    Bajerburgą36. Net 1410 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną. Lietuviai, atrėmę ir
+    sutriuškinę kalavijuočius šiaurėje (1229 ir 1236 m.), praėjus totorių—mongolų pavojui
+    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
+    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje. Kryžiuočiai patyrė pirmą nuo pat
+    atsikraustymo  į pavyslį tokio masto pralaimėjimą28. Lietuvių—prūsų bendradarbiavimą
+    liudija 1245 m. dokumentai. Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai  ir
+    lietuviai29.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė aplinka sunkino bendrą kovą prieš Ordino agresiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Netikėtas Mindaugo žuvimas, netvirta padėtis Lietuvos viduje, sudėtinga tarptautinė
@@ -134,28 +147,9 @@ Nenurodyta
     prūsų, jotvingių, lietuvių ir kt. baltų ryšius, jų bendrą kovą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219, 223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Užgrobtų žemių gyventojai buvo pavergti, bet dalis nadruvių, pagudėnų, sūduvių,
-    bartų ir kt. rado prieglobstį Lietuvos valstybės teritorijoje (III, 179, 191, 211, 217, 219,
-    223) ir toliau dalyvavo bendroje kovoje prieš Ordino ir Aukso ordos agresiją.
-      Ordino valdžioje likę prūsai buvo verčiami dalyvauti jo žygiuose35, tačiau yra žinoma,
-    kad kai kurie pavergtieji prūsai bandė žlugdyti kryžiuočių antpuolius prieš Lietuvą (III,
-    226—1285 m.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

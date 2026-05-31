@@ -17,6 +17,7 @@ periodo_grupes:
 amziai:
   - 'XX'
   - 'XXI'
+  - 'LIM'
 date_start: '1946'
 date_end: '2026'
 patikimumas: 'vidutinis'
@@ -38,10 +39,6 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24) Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas Zarasaig&).'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
   pagrindžia:
@@ -54,6 +51,10 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   teiginys: 'Želvos vis.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24) Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas Zarasaig&).'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,20 +75,6 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24) Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas Zarasaig&).'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24)
-    Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas
-    Zarasaig&).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -139,3 +126,20 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24) Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas Zarasaig&).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jų įvairaus dydžio daliniai sistemingai puldinėjo
+    Alytaus, Trakų, Širvintų, Ukmergės, Utenos ir Zarasų apskričių vieto-
+    ves, kurias gynė tik negausios vietinių karo komendantūrų kuopos.
+    Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24)
+    Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas
+    Zarasaig&).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

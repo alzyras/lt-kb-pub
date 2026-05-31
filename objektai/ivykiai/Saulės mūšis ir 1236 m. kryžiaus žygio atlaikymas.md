@@ -1,30 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1202 m.'
-  - '1230 m.'
   - '1236 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIX'
 date_start: '1202'
 date_end: '1236'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - ordinas
   - popiežius
+amziai:
+  - 'XIII'
 ---
 # Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas
 
@@ -33,26 +25,31 @@ tags:
 Ši fatališka klaida daug kainuos lenkams ir lietuviams – Ordinas pajungė prūsus, o 1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ši fatališka klaida daug kainuos lenkams ir lietuviams – Ordinas pajungė prūsus, o 1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ši fatališka klaida daug kainuos lenkams ir lietuviams – Ordinas pajungė prūsus, o 1236 m. popiežius jau skelbia kryžiaus žygį prieš lietuvius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
@@ -67,9 +64,7 @@ Nenurodyta
     Dail. J. Kossak, XIX a.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

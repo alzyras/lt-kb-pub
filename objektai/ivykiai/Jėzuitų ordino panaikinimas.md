@@ -1,29 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Jėzuitų ordino panaikinimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1767 m.'
-  - '1769 m.'
   - '1773 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1767'
 date_end: '1773'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - ordinas
   - valstybė
   - vyskupas
+amziai:
+  - 'XVIII'
 ---
 # Jėzuitų ordino panaikinimas
 
@@ -32,30 +25,36 @@ tags:
 Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia. Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -65,15 +64,15 @@ Nenurodyta
     vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
     panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
     kartais laikomi Apšvietos epochos pradžia.
+    Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
+    sąjunga, sukurta Liublino unijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
@@ -85,9 +84,7 @@ Nenurodyta
     tvarkė reformuotas Vilniaus universitetas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

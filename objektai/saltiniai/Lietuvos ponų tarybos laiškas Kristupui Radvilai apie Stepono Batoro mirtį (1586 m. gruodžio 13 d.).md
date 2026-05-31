@@ -1,117 +1,57 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1586 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1586'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - saltinis
   - valdovas
+amziai:
+  - 'XVI'
 ---
 # Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.)
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 367 IV KNYGA IX A) LIETUVOS PONŲ TARYBOS LAIŠKAS, RAŠYTAS IŠ GARDINO 1586 METŲ GRUODŽIO MĖNESIO 13 DIENĄ KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI, PRANEŠANTIS APIE KARALIAUS STEPONO BATORO MIRTĮ IR ĮSPĖJANTIS. Nors pirmiau apie mirtį, o ne apie ligą Jūsų Malonybei pranešame, bet tai yra ne dėl mūsų apsileidimo, mat ir dak­ tarai apie pavojų mirusio mūsų valdovo sveikatai laiku mūsų neįspėjo. O kadangi sulig mūsų valdovo mirtimi mūsų nelaimingą Res­ publiką užgriuvo galybė pavojų, kuriems laiku užbėgti už akių ir, atsižvelgiant į aplinkybes, priimti sprendimą yra Jūsų Malonybės ir ponų tarybos pareiga, nieko išmintingesnio nematytume, jeigu Jūsų.
 
+Nenurodyta
+
 ## Teiginiai
-- t-001
-  teiginys: '## Puslapis 367 IV KNYGA IX A) LIETUVOS PONŲ TARYBOS LAIŠKAS, RAŠYTAS IŠ GARDINO 1586 METŲ GRUODŽIO MĖNESIO 13 DIENĄ KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI, PRANEŠANTIS APIE KARALIAUS STEPONO BATORO MIRTĮ IR ĮSPĖJANTIS.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Nors pirmiau apie mirtį, o ne apie ligą Jūsų Malonybei pranešame, bet tai yra ne dėl mūsų apsileidimo, mat ir dak­ tarai apie pavojų mirusio mūsų valdovo sveikatai laiku mūsų neįspėjo.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'O kadangi sulig mūsų valdovo mirtimi mūsų nelaimingą Res­ publiką užgriuvo galybė pavojų, kuriems laiku užbėgti už akių ir, atsižvelgiant į aplinkybes, priimti sprendimą yra Jūsų Malonybės ir ponų tarybos pareiga, nieko išmintingesnio nematytume, jeigu Jūsų.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
   pagrindžia:
     - c-004
+
+- t-001
+  teiginys: '## Puslapis 367 IV KNYGA IX A) LIETUVOS PONŲ TARYBOS LAIŠKAS, RAŠYTAS IŠ GARDINO 1586 METŲ GRUODŽIO MĖNESIO 13 DIENĄ KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI, PRANEŠANTIS APIE KARALIAUS STEPONO BATORO MIRTĮ IR ĮSPĖJANTIS.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Nors pirmiau apie mirtį, o ne apie ligą Jūsų Malonybei pranešame, bet tai yra ne dėl mūsų apsileidimo, mat ir dak­ tarai apie pavojų mirusio mūsų valdovo sveikatai laiku mūsų neįspėjo.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '## Puslapis 367 IV KNYGA IX A) LIETUVOS PONŲ TARYBOS LAIŠKAS, RAŠYTAS IŠ GARDINO 1586 METŲ GRUODŽIO MĖNESIO 13 DIENĄ KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI, PRANEŠANTIS APIE KARALIAUS STEPONO BATORO MIRTĮ IR ĮSPĖJANTIS.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Rašyta Varšuvoje gegužės mė­
-    nesio 6 dieną, Viešpaties metais tūkstantis penki šimtai sep­
-    tyniasdešimt pirmais, mūsų karaliavimo keturiasdešimt ant­
-    raisiais metais.
 
-    ## Puslapis 367
-
-    IV KNYGA
-    IX
-    A) LIETUVOS PONŲ TARYBOS LAIŠKAS,
-    RAŠYTAS IŠ GARDINO 1586 METŲ
-    GRUODŽIO MĖNESIO 13 DIENĄ
-    KUNIGAIKŠČIUI KRISTUPUI RADVILAI,
-    VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI,
-    PRANEŠANTIS APIE KARALIAUS STEPONO BATORO
-    MIRTĮ IR ĮSPĖJANTIS APIE GALIMĄ MAIŠTĄ
-    DĖL NEIŠMOKĖTOS ALGOS
-    KARALIAUS RŪMŲ KARIUOMENEI IR SARGYBAI
-    (Iš originalo)
-    Maloningasis Pone,
-    Pavesdami Jūsų Didenybės malonei nuolankią ir paklus­
-    nią mūsų tarnystę, linkime Jūsų Malonybei geros sveikatos
-    ir visokeriopos sėkmės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Nors pirmiau apie mirtį, o ne apie ligą Jūsų Malonybei pranešame, bet tai yra ne dėl mūsų apsileidimo, mat ir dak­ tarai apie pavojų mirusio mūsų valdovo sveikatai laiku mūsų neįspėjo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pareiškiame Jūsų Malonybei apie mus visus ištikusį ben­
-    drą sielvartą, Viešpačiui leidus mūsų Respubliką palikti naš­
-    laite. Kadangi Viešpats Dievas vakar, prieš pirmą valandą
-    nakties, paėmė mums iš šio pasaulio į savo amžinąją garbę
-    Jo Karališkąją Didenybę, mūsų valdovą, penktąją jį pagul­
-    džiusios ligos febri sincopi interna dieną, kaip turime medikų
-    aktą. Nors pirmiau apie mirtį, o ne apie ligą Jūsų Malonybei
-    pranešame, bet tai yra ne dėl mūsų apsileidimo, mat ir dak­
-    tarai apie pavojų mirusio mūsų valdovo sveikatai laiku mūsų
-    neįspėjo. O taip pat ir tie mūsiškiai, kurie sergantį Jo Dide­
-    nybę karalių lankė, jokių mirties ženklų nematė. Gi tuo laiku
-    Viešpats Dievas savo apsilankymu ir prisilietimu netikėtai
-    351
-
-    ## Puslapis 368
-
-    VILNIAUS MIESTO ISTORIJA II TOMAS
-    paimdamas iš mūsų savo pateptąjį, mus bemaž įbaugino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'O kadangi sulig mūsų valdovo mirtimi mūsų nelaimingą Res­ publiką užgriuvo galybė pavojų, kuriems laiku užbėgti už akių ir, atsižvelgiant į aplinkybes, priimti sprendimą yra Jūsų Malonybės ir ponų tarybos pareiga, nieko išmintingesnio nematytume, jeigu Jūsų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gi tuo laiku
@@ -163,13 +103,46 @@ tags:
     tarnystę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Norėdami, kad šis mūsų valios pareiški­
+    mas greičiau pasiektų žmones, įsakėme tai perrašyti, kad ta­
+    da vienas būtų prie mūsų, kitas - pas jos didenybę karalaitę
+    Oną, trečias - Tikocino pilyje. Rašyta Varšuvoje gegužės mė­
+    nesio 6 dieną, Viešpaties metais tūkstantis penki šimtai sep­
+    tyniasdešimt pirmais, mūsų karaliavimo keturiasdešimt ant­
+    raisiais metais.
+
+    ## Puslapis 367
+
+    IV KNYGA
+    IX
+    A) LIETUVOS PONŲ TARYBOS LAIŠKAS,
+    RAŠYTAS IŠ GARDINO 1586 METŲ
+    GRUODŽIO MĖNESIO 13 DIENĄ
+    KUNIGAIKŠČIUI KRISTUPUI RADVILAI,
+    VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI,
+    PRANEŠANTIS APIE KARALIAUS STEPONO BATORO
+    MIRTĮ IR ĮSPĖJANTIS APIE GALIMĄ MAIŠTĄ
+    DĖL NEIŠMOKĖTOS ALGOS
+    KARALIAUS RŪMŲ KARIUOMENEI IR SARGYBAI
+    (Iš originalo)
+    Maloningasis Pone,
+    Pavesdami Jūsų Didenybės malonei nuolankią ir paklus­
+    nią mūsų tarnystę, linkime Jūsų Malonybei geros sveikatos
+    ir visokeriopos sėkmės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-004
-  santrauka: 'Šis laiškas sutvirtintas aštuoniais antspaudais, viršuje toks užrašas: Jo Didenybei Šviesiajam ponui Kristupui Radvilai, Du­ bingių ir Biržų kunigaikščiui, Vilniaus vaivadai, LDK lauko et­ monui, Solecko, Borisovo ir Užendovo seniūnui, ponui, mūsų ma­.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau į tai dėmesio nekreip­
@@ -206,8 +179,33 @@ tags:
     loningam bičiuliui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pareiškiame Jūsų Malonybei apie mus visus ištikusį ben­
+    drą sielvartą, Viešpačiui leidus mūsų Respubliką palikti naš­
+    laite. Kadangi Viešpats Dievas vakar, prieš pirmą valandą
+    nakties, paėmė mums iš šio pasaulio į savo amžinąją garbę
+    Jo Karališkąją Didenybę, mūsų valdovą, penktąją jį pagul­
+    džiusios ligos febri sincopi interna dieną, kaip turime medikų
+    aktą. Nors pirmiau apie mirtį, o ne apie ligą Jūsų Malonybei
+    pranešame, bet tai yra ne dėl mūsų apsileidimo, mat ir dak­
+    tarai apie pavojų mirusio mūsų valdovo sveikatai laiku mūsų
+    neįspėjo. O taip pat ir tie mūsiškiai, kurie sergantį Jo Dide­
+    nybę karalių lankė, jokių mirties ženklų nematė. Gi tuo laiku
+    Viešpats Dievas savo apsilankymu ir prisilietimu netikėtai
+    351
+
+    ## Puslapis 368
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    paimdamas iš mūsų savo pateptąjį, mus bemaž įbaugino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

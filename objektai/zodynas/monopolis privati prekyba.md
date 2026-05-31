@@ -1,33 +1,25 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'monopolis privati prekyba'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1572 m.'
-  - '1579 m.'
   - '1582 m.'
   - '1583 m.'
-  - '1619 m.'
   - '1640 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
 date_start: '1572'
 date_end: '1640'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - sąvoka
+amziai:
+  - 'XVI'
+  - 'XVII'
 ---
 # monopolis privati prekyba
 
@@ -36,21 +28,80 @@ tags:
 Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­ dė54. 55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las. Buvo taip: Vilniaus vaitas ir burmistrai, matydami, kad Palec­ kio, kuris buvo karaliaus maršalka ir Eišiškių valdytojas, monopolis kaskart vis didesnę žalą daro mies­ tui, norėjo jo privilegiją atšaukti.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­ dė54.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: '55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Buvo taip: Vilniaus vaitas ir burmistrai, matydami, kad Palec­ kio, kuris buvo karaliaus maršalka ir Eišiškių valdytojas, monopolis kaskart vis didesnę žalą daro mies­ tui, norėjo jo privilegiją atšaukti.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: '55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­ dė54.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1619 m.
+    56
+    Miesto aktuose yra: karaliaus Stepo­
+    no patvirtinimas sutarties tarp po­
+    no Martyno Paleckio ir jo žmonos,
+    dabar ponios Rainos Sluščiankos, ir
+    miesto dėl stiklo liejyklos ir stiklo su­
+    pirkimo. Buvo taip: Vilniaus vaitas
+    ir burmistrai, matydami, kad Palec­
+    kio, kuris buvo karaliaus maršalka
+    ir Eišiškių valdytojas, monopolis
+    kaskart vis didesnę žalą daro mies­
+    tui, norėjo jo privilegiją atšaukti.
+    Bandė keletą kartu, būtent jau prie
+    karaliaus Stepono, pasikvietę Palec­
+    kį į seimą 1582 metais, bet tai nepa­
+    vyko. Pagaliau visuotiniame Varšu­
+    vos seime 1583 metais, dalyvaujant
+    ponams, Karalystės ir Lietuvos Di­
+    džiosios Kunigaikštystės taryboms,
+    tarpininkaujant Vilniaus vaivadai ir
+    LDK etmonui kunigaikščiui Kristu­
+    pui Radvilai, LDK kancleriui Eusta­
+    chijui Valavičiui, Trakų kaštelionui,
+    krašto iždininkui Hlebavičiui, buvo
+    sudaryta sutartis tarp miesto, per
+    miesto įgaliotinius: burmistrą Petrą
+    Hornostajų, Vilniaus miesto tarybos
+    raštininkus - Benediktą Rosmutą -
+    katalikų ir Joną Andrejevičių Kurja-
+    ną - stačiatikių, ir Paleckio, per jo
+    įgaliotinius - Jokūbą Vitoslavskį ir
+    Adomą Ruckį. Pagrindinės šios su­
+    tarties sąlygos buvo tokios: Paleckis,
+    nors jo privilegijos galia niekuo ne­
+    pažeidžiama, tačiau, įkalbėtas ponų,
+    Tarybų ir norėdamas sau pelnyti
+    amžiną šlovę ir palikti garbingą at­
+    minimą, pasilieka tik sau ir savo
+    žmonai teisę iki gyvos galvos laiky­
+    ti šią stiklo liejyklą ir supirkti stiklą,
+    savanoriškai visam laikui perleisda­
+    mas visam Vilniaus miestui savo
+    privilegijos amžinumą su tomis tei­
+    sėmis ir pareigomis, kokias pats tu­
+    rėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-001
-  santrauka: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­ dė54.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karališkųjų
@@ -62,16 +113,14 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
     nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
     kiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir
     54
-    Žr.
+    Žr. VII priedą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     55
@@ -129,67 +178,9 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
     1619 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Buvo taip: Vilniaus vaitas ir burmistrai, matydami, kad Palec­ kio, kuris buvo karaliaus maršalka ir Eišiškių valdytojas, monopolis kaskart vis didesnę žalą daro mies­ tui, norėjo jo privilegiją atšaukti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    56
-    Miesto aktuose yra: karaliaus Stepo­
-    no patvirtinimas sutarties tarp po­
-    no Martyno Paleckio ir jo žmonos,
-    dabar ponios Rainos Sluščiankos, ir
-    miesto dėl stiklo liejyklos ir stiklo su­
-    pirkimo. Buvo taip: Vilniaus vaitas
-    ir burmistrai, matydami, kad Palec­
-    kio, kuris buvo karaliaus maršalka
-    ir Eišiškių valdytojas, monopolis
-    kaskart vis didesnę žalą daro mies­
-    tui, norėjo jo privilegiją atšaukti.
-    Bandė keletą kartu, būtent jau prie
-    karaliaus Stepono, pasikvietę Palec­
-    kį į seimą 1582 metais, bet tai nepa­
-    vyko. Pagaliau visuotiniame Varšu­
-    vos seime 1583 metais, dalyvaujant
-    ponams, Karalystės ir Lietuvos Di­
-    džiosios Kunigaikštystės taryboms,
-    tarpininkaujant Vilniaus vaivadai ir
-    LDK etmonui kunigaikščiui Kristu­
-    pui Radvilai, LDK kancleriui Eusta­
-    chijui Valavičiui, Trakų kaštelionui,
-    krašto iždininkui Hlebavičiui, buvo
-    sudaryta sutartis tarp miesto, per
-    miesto įgaliotinius: burmistrą Petrą
-    Hornostajų, Vilniaus miesto tarybos
-    raštininkus - Benediktą Rosmutą -
-    katalikų ir Joną Andrejevičių Kurja-
-    ną - stačiatikių, ir Paleckio, per jo
-    įgaliotinius - Jokūbą Vitoslavskį ir
-    Adomą Ruckį. Pagrindinės šios su­
-    tarties sąlygos buvo tokios: Paleckis,
-    nors jo privilegijos galia niekuo ne­
-    pažeidžiama, tačiau, įkalbėtas ponų,
-    Tarybų ir norėdamas sau pelnyti
-    amžiną šlovę ir palikti garbingą at­
-    minimą, pasilieka tik sau ir savo
-    žmonai teisę iki gyvos galvos laiky­
-    ti šią stiklo liejyklą ir supirkti stiklą,
-    savanoriškai visam laikui perleisda­
-    mas visam Vilniaus miestui savo
-    privilegijos amžinumą su tomis tei­
-    sėmis ir pareigomis, kokias pats tu­
-    rėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vilniaus miestiečių Magdeburgo teisės, pavaldumas seniūnui ir pilies saugojimo prievolė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
@@ -27,33 +18,40 @@ tags:
 Buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios. Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Buvo juk to­
@@ -87,13 +85,11 @@ Nenurodyta
     čiui pašvęsta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     114
@@ -111,9 +107,7 @@ Nenurodyta
     jusius bruzdėjimus, pargrįžo į Vilnių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

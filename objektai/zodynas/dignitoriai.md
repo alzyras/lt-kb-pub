@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'dignitoriai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1792 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1792'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - sąvoka
   - valdovas
   - valstybė
+amziai:
+  - 'XVIII'
 ---
 # dignitoriai
 
@@ -30,15 +24,21 @@ tags:
 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Liepos pabaigoje
+    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
+    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
+    prie Targovicos konfederacijos.
     1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
     Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
     kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
@@ -46,9 +46,7 @@ tags:
     21 dieną iš Jekaterinos II gautą notą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

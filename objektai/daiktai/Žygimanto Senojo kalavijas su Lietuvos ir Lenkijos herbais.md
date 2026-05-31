@@ -64,6 +64,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Šalmas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/daiktai/Herbai]]

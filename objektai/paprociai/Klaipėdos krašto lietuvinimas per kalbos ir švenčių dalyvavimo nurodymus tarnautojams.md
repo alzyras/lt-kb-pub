@@ -1,26 +1,20 @@
 ---
 tipas: paprotys
 pavadinimas: 'Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1938 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1938'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - kraštas
   - paprotys
+amziai:
+  - 'XX'
 ---
 # Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams
 
@@ -29,29 +23,35 @@ tags:
 1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos
@@ -68,9 +68,7 @@ Nenurodyta
     dė integruoti Klaipėdos kraštą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

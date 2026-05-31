@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'pirklių kontora'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,16 +15,20 @@ tags:
 Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Hanzos agentūros buvo vadinamos pirklių kontoromis.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Hanzos agentūros buvo vadinamos pirklių kontoromis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu rytų Lietuvos, t. y. ru-
@@ -36,13 +37,27 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
     iškilo didelis prekybos centras Polockas, o prie Nemuno
     — Kaunas. Abiejuose tuose centruose Hanza veikiai įsteigė
     savo agentūras (vadinamąsias pirklių kontoras).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl prie Dauguvos
+    iškilo didelis prekybos centras Polockas, o prie Nemuno
+    — Kaunas. Abiejuose tuose centruose Hanza veikiai įsteigė
+    savo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus
+    centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
+    jų didelių upių santakas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

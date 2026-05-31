@@ -1,18 +1,23 @@
 ---
 tipas: grupe
 pavadinimas: 'Etninių lietuvių tautinis kultūrinis sąjūdis'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1830 m.'
+  - '1905 m.'
+date_start: '1830'
+date_end: '1905'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
   - tauta
   - valstybė
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Etninių lietuvių tautinis kultūrinis sąjūdis
 
@@ -21,40 +26,105 @@ tags:
 Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis. Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Karaliaučiuje žymaus
+    mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
+    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
+    poe­ma „Metai“ (su vertimu į vokiečių kalbą). Jau tuomet pripažinta, kad
+    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
+    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
+    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
+    vienas kitas), kurie susitarė kryp-
+    tingai plėtoti aukštosios kultūros
+    kūrimo lietuvių (žemaičių) kalba
+    darbą, o sykiu rūpintis lietuvių
+    ir žemaičių liaudies švietimu jų
+    gimtąja kalba (nors žemaičius
+    kai kas tuomet laikė atskiru,
+    etniniams lietuviams giminingu
+    etnosu, bet jie patys save laikė
+    vieno dvilypio lietuvių-žemaičių
+    etnoso dalimi).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
+    mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
+    mu. Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-
+    jos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.
+    Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
+    praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
+    mus – 1830–1831 m. ir 1863–1864 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
   santrauka: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etninių lietuvių tautinis kultūrinis sąjūdis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
+    praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
+    mus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etni-
+    nių lietuvių tautinis kultūrinis sąjūdis. Po kelių dešimtmečių jis atsinau-
+    jino ir virto politiškai reikšminga jėga, o etniniai lietuviai, arba lietuvių
+    liaudis – savarankiška kultūrine ir politine bendruomene, 1905 m. parei-
+    kalavusia autonomijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
+    - t-003
+
+- c-004
   santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jau tuomet pripažinta, kad
+    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
+    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
     tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
+    vienas kitas), kurie susitarė kryp-
+    tingai plėtoti aukštosios kultūros
+    kūrimo lietuvių (žemaičių) kalba
+    darbą, o sykiu rūpintis lietuvių
+    ir žemaičių liaudies švietimu jų
+    gimtąja kalba (nors žemaičius
+    kai kas tuomet laikė atskiru,
+    etniniams lietuviams giminingu
+    etnosu, bet jie patys save laikė
+    vieno dvilypio lietuvių-žemaičių
+    etnoso dalimi). Ši grupelė ir lai-
+    koma etninių lietuvių tautinio
+    kultūrinio sąjūdžio pradininkais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

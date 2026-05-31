@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Šiaurės Vakarų kraštas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1831 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1831'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - sukilimas
   - valstybė
   - vieta
+amziai:
+  - 'XIX'
 ---
 # Šiaurės Vakarų kraštas
 
@@ -30,55 +24,59 @@ tags:
 Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu. Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Caro valdžia buvusias LDK teritorijas tebevadino Šiaurės Vakarų kraštu, taigi traktavo kaip organišką „tikrosios“ Rusijos dalį.'
   pagrindžia:
     - c-004
 
+- t-003
+  teiginys: 'Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas.'
+  pagrindžia:
+    - c-003
+
+- t-001
+  teiginys: 'Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Rusijai sunaikinus senąją
+    Neliko ten ir Lietuvos vardo.
+    Kitaip klostėsi Didžiosios Lietuvos istorija. Rusijai sunaikinus senąją
     Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo ofi-
     cialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuvos vardas pašalintas
+    Po dešimt
+    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
+    burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m. panaikintas
+    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
     iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
     traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
     Vakarų kraštu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto centras yra ne ką mažiau stačiatikiškas nei katalikiškas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vil-
@@ -87,13 +85,11 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
     centras yra ne ką mažiau stačiatikiškas nei katalikiškas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Caro valdžia buvusias LDK teritorijas tebevadino Šiaurės Vakarų kraštu, taigi traktavo kaip organišką „tikrosios“ Rusijos dalį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Caro valdžia buvusias LDK teritorijas tebevadino Šiaurės Vakarų kraš-
@@ -108,8 +104,6 @@ Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukil
     kas (vidurinėse kaip neprivalomas) įsileistos ir lietuvių bei lenkų kalbos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004

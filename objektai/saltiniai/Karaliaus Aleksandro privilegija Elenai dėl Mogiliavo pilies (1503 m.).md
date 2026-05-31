@@ -1,70 +1,52 @@
 ---
 tipas: saltinis
 pavadinimas: 'Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1503 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1503'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - saltinis
   - valdovas
+amziai:
+  - 'XVI'
 ---
 # Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.)
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 380 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO PRIVILEGIJA ŠVIESIAUSIAJAI KARALIENEI ELENAI, SUTEIKIANTI MOGILLAVO PILI IR T. Significamus tenore pra­ esentium universis, quikus expedit praesentikus et futuris, quomodo considerata kenevolentia, et fide matrimoniali il­ lustrissimae D-nae Helenae Reginae consortis n-rae ckarissimae, volens eam consolatam et provisam keneficentia. 366 ## Puslapis 383 IV KNYGA vadintųsi, nuo seno prie minėtos Mogiliavo pilies kokiu nors būdu dabar esančiais ir priklausančiais bei ateityje kokios nors žmogiškos veiklos ar proto dėka galinčiais atsirasti ir didėti į plotį, ilgį ir aplinkui, žiūrint, kaip.
 
+Nenurodyta
+
 ## Teiginiai
-- t-001
-  teiginys: '## Puslapis 380 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO PRIVILEGIJA ŠVIESIAUSIAJAI KARALIENEI ELENAI, SUTEIKIANTI MOGILLAVO PILI IR T.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Significamus tenore pra­ esentium universis, quikus expedit praesentikus et futuris, quomodo considerata kenevolentia, et fide matrimoniali il­ lustrissimae D-nae Helenae Reginae consortis n-rae ckarissimae, volens eam consolatam et provisam keneficentia.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '## Puslapis 380 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO PRIVILEGIJA ŠVIESIAUSIAJAI KARALIENEI ELENAI, SUTEIKIANTI MOGILLAVO PILI IR T.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: '366 ## Puslapis 383 IV KNYGA vadintųsi, nuo seno prie minėtos Mogiliavo pilies kokiu nors būdu dabar esančiais ir priklausančiais bei ateityje kokios nors žmogiškos veiklos ar proto dėka galinčiais atsirasti ir didėti į plotį, ilgį ir aplinkui, žiūrint, kaip.'
   pagrindžia:
     - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '## Puslapis 380 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO PRIVILEGIJA ŠVIESIAUSIAJAI KARALIENEI ELENAI, SUTEIKIANTI MOGILLAVO PILI IR T.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ## Puslapis 380
 
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    KARALIAUS ALEKSANDRO PRIVILEGIJA
-    ŠVIESIAUSIAJAI KARALIENEI ELENAI,
-    SUTEIKIANTI MOGILLAVO PILI IR T. T
-    1503 METAI
-    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje)
-    In Nomine Domini Amen.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Significamus tenore pra­ esentium universis, quikus expedit praesentikus et futuris, quomodo considerata kenevolentia, et fide matrimoniali il­ lustrissimae D-nae Helenae Reginae consortis n-rae ckarissimae, volens eam consolatam et provisam keneficentia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Significamus tenore pra­
@@ -130,13 +112,32 @@ tags:
     sicut expressum est ad tempora vitae suae.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ## Puslapis 380
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    KARALIAUS ALEKSANDRO PRIVILEGIJA
+    ŠVIESIAUSIAJAI KARALIENEI ELENAI,
+    SUTEIKIANTI MOGILLAVO PILI IR T. T
+    1503 METAI
+    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje)
+    In Nomine Domini Amen. Ne Actus kominum qui suk
+    tempore fiunt e memoria mortalium evanescant: Regum et
+    Principum alta consilia invenerunt, kujusmodi actus seu ne­
+    gotia literis et testium fideli annotatione perennare.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
-  santrauka: '366 ## Puslapis 383 IV KNYGA vadintųsi, nuo seno prie minėtos Mogiliavo pilies kokiu nors būdu dabar esančiais ir priklausančiais bei ateityje kokios nors žmogiškos veiklos ar proto dėka galinčiais atsirasti ir didėti į plotį, ilgį ir aplinkui, žiūrint, kaip.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     366
@@ -166,8 +167,6 @@ tags:
     Erazmo, dalyvavusio sprendime, ranka.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003

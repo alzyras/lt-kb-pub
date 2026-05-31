@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vaižgantas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - tauta
@@ -26,16 +17,21 @@ tags:
 Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Maironis, Vaižgantas, V.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nacionalinėje lietuvių valstybėje žydams liko uždara
+    Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
+    žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-
+    reikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susi-
+    jusius gyvenimus. Nacionalinėje lietuvių valstybėje žydams liko uždara
     valstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-
     joje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-
     nių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų
@@ -47,9 +43,7 @@ Jauna ir dar niekuo neimponuojanti lietuvių kultūra (literatūros klasikai Mai
     žydai tarpusavyje dažnai vartojo rusų kalbą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

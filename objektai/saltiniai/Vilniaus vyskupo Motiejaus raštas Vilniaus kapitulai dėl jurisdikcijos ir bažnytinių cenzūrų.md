@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vilniaus vyskupo Motiejaus raštas Vilniaus kapitulai dėl jurisdikcijos ir bažnytinių cenzūrų'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - privilegija
@@ -27,13 +18,15 @@ tags:
 Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitulos pasisavintos jurisdikcijos būtų laisvi ir atleisti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     sit erecta, similibusque iuribus et
@@ -65,8 +58,6 @@ Savo ir minėto miesto vardu [ta­ rėjai] reikalavo, kad nuo tos naujai kapitul
     kapitulai, jos turtui bei valdiniams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

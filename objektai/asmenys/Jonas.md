@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1324'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - tikėjimas
   - valdovas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jonas
 
@@ -30,13 +26,15 @@ tags:
 Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo, iš Čekijos valdovas Petras iš Rozenbergo, jo dėdė Hermanas su daugybe riterių bei ginklanešių ir daug kitų kilmingųjų iš Reino bei Elzaso, tačiau jie nieko tada nesiėmė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1324 viešpaties metais į Prūsiją atvyko valdovai Jonas ir Pilypas, grafai iš Španheimo,
@@ -47,12 +45,10 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 
 
 
-       349 (342).
+       349 (342). Apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinimą 1324 metais
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -75,15 +71,13 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]
 - [[objektai/daiktai/Bizantijos imperatorių herbas]]
 - [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
+- [[objektai/autoriai/Detmaro Liubeko]]
 - [[objektai/asmenys/Ditrichas (Meiseno markgrafas)]]
 - [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
-- [[objektai/asmenys/E. Kasperavičius]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
 - [[objektai/asmenys/Eimaras iš Cezarėjos]]
-- [[objektai/asmenys/Elžbieta Pečkavičiūtė]]
 - [[objektai/asmenys/Ernekė]]
 - [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Felicija Pečkavičiūtė]]
 - [[objektai/asmenys/Folkvinas]]
 - [[objektai/asmenys/Fridrichas (Austrijos kunigaikštis)]]
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
@@ -110,15 +104,14 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/asmenys/Jonas Basanavičius]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Jonas Hanulaitis]]
-- [[objektai/asmenys/Jonas Hozijus]]
 - [[objektai/asmenys/Jonas II]]
 - [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
 - [[objektai/asmenys/Jonas Jablonskis]]
 - [[objektai/asmenys/Jonas Kalita]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/asmenys/Jonas Kauneckas]]
-- [[objektai/asmenys/Jonas Pečkavičius]]
 - [[objektai/asmenys/Jonas Saksas iš Gilberštetės]]
+- [[objektai/asmenys/Jonas Sniadeckis]]
 - [[objektai/asmenys/Jonas iš Endorfo]]
 - [[objektai/asmenys/Jonas iš Hibelino]]
 - [[objektai/asmenys/Jonas iš Liuksemburgo]]
@@ -153,7 +146,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
-- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/asmenys/Liudvigas Heinrichas Bojanus]]
@@ -162,6 +155,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/asmenys/Mantautas]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/asmenys/Mykolas Skirgaila]]
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
@@ -174,7 +168,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]
 - [[objektai/asmenys/Povilas Algimantas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/zodynas/Puslapis 67]]
 - [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Reinoldas]]
 - [[objektai/daiktai/Religinės relikvijos]]
@@ -196,7 +189,6 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]
-- [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/grupes/Vilniaus pirkliai]]
@@ -209,11 +201,11 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/posakiai/Visa Rusija turi priklausyti Lietuvai]]
 - [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]
 - [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
-- [[objektai/zodynas/Vogt valdytojas]]
 - [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/asmenys/Volfgeris]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
+- [[objektai/asmenys/Zigmantas I]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/ekskomunikuoti]]
@@ -233,6 +225,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/zodynas/regencija]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/posakiai/sobiratel’ russkich žemeli]]
+- [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]
 - [[objektai/zodynas/sukilimo inscenizacija]]
 - [[objektai/zodynas/tautinis krikštas|tautinis krikštas (krikštas)]]
 - [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]
@@ -249,6 +242,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 - [[objektai/daiktai/Ietis]]
 - [[objektai/asmenys/Jonas Paleologas]]
 - [[objektai/asmenys/Jonas Tarnovskis]]
+- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/grupes/Krymo chanatas]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]

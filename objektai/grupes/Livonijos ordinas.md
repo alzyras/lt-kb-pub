@@ -433,6 +433,14 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   teiginys: '136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
   pagrindžia:
     - c-090
+- t-104
+  teiginys: 'Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­ mijos ir Sambijos vyskupai ir daug komtūrų.'
+  pagrindžia:
+    - c-091
+- t-105
+  teiginys: 'Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­ darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą.'
+  pagrindžia:
+    - c-092
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -2068,6 +2076,39 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-103
+- c-091
+  santrauka: 'Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­ mijos ir Sambijos vyskupai ir daug komtūrų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iškilmingas tos sutarties ratifikavimas (patvir­
+    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
+    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
+    mijos ir Sambijos vyskupai ir daug komtūrų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-104
+- c-092
+  santrauka: 'Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­ darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris
+    tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­
+    darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­
+    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
+    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
+    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
+    nas padarė amžiną taiką ir su Naugardu D. (1421).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-105
 
 ## Ryšiai
 ### Susiję objektai
@@ -2143,14 +2184,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras)]]
 - [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
-- [[objektai/asmenys/Jonas de Lovenbinkė]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
 - [[objektai/autoriai/Naruszewicz Naruševičius]]
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/zodynas/Paliaubos induciae]]
-- [[objektai/grupes/Smolensko pulkai]]
-- [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]
-- [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/posakiai/oculi post dominicam]]
 - [[objektai/asmenys/Žygimantas Augustas]]

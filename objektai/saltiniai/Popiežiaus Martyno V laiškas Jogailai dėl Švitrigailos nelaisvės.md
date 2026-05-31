@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Popiežiaus Martyno V laiškas Jogailai dėl Švitrigailos nelaisvės'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1430 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1430'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - popiežius
   - saltinis
+amziai:
+  - 'XV'
 ---
 # Popiežiaus Martyno V laiškas Jogailai dėl Švitrigailos nelaisvės
 
@@ -28,13 +22,15 @@ tags:
 [Popiežiaus Martyno laiškas karaliui Vladislovui Jogailai jo buvimo Švitrigailos ne­ laisvėje reikalu.
 
 ## Teiginiai
+
 - t-001
   teiginys: '[Popiežiaus Martyno laiškas karaliui Vladislovui Jogailai jo buvimo Švitrigailos ne­ laisvėje reikalu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '[Popiežiaus Martyno laiškas karaliui Vladislovui Jogailai jo buvimo Švitrigailos ne­ laisvėje reikalu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     5
@@ -52,8 +48,6 @@ tags:
     išlaisvinti Jogailą. Id. ibid., fol. 299.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

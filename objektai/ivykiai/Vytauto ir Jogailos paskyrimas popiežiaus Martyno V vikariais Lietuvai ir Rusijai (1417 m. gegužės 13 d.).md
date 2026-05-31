@@ -76,3 +76,4 @@ Nenurodyta
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Katalikų Bažnyčia]]

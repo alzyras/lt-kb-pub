@@ -1,29 +1,23 @@
 ---
 tipas: saltinis
 pavadinimas: 'Žygimanto 1432 m. Vilniaus Magdeburgo teisių patvirtinimo privilegijos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1330 m.'
   - '1432 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
 date_start: '1330'
 date_end: '1432'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - saltinis
   - tauta
+amziai:
+  - 'XIV'
+  - 'XV'
 ---
 # Žygimanto 1432 m. Vilniaus Magdeburgo teisių patvirtinimo privilegijos
 
@@ -32,25 +26,70 @@ tags:
 Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 17 Apie tai didžiajam magistrui pra­ neša komtūras iš Lealio, iš Rygos, laiške, datuotame 1432 metų rugpjū­ čio 19 d. Ind. Cod. Hist. Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno. Taigi vaitui buvo suteikta tokia galia, kad niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­ tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­ dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­ sakyti ir aiškintis dėl.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 17 Apie tai didžiajam magistrui pra­ neša komtūras iš Lealio, iš Rygos, laiške, datuotame 1432 metų rugpjū­ čio 19 d. Ind. Cod. Hist.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Taigi vaitui buvo suteikta tokia galia, kad niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­ tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­ dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­ sakyti ir aiškintis dėl.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, midaus ir alaus smuklių, tačiau už šią privilegiją pasilikdamas tam tikrą mokestį kunigaikščio iž­ dui, kadangi pagal seną paprotį miestas privalėjo kasmet jį surinkti.'
   pagrindžia:
     - c-004
+
+- t-003
+  teiginys: 'Taigi vaitui buvo suteikta tokia galia, kad niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­ tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­ dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­ sakyti ir aiškintis dėl.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš vaivadų ir visų karališ­
+    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
+    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
+    sė spręsti ir bausti už miestiečių padarytus kriminalinius
+    nusikaltimus. Taigi vaitui buvo suteikta tokia galia, kad
+    niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­
+    tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­
+    dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­
+    sakyti ir aiškintis dėl pateiktų priekaištų. Dar Žygimantas
+    patvirtino miesto svarstykles, kur kiekvienas parduodan­
+    tysis privalėjo sverti vašką ir kitus dalykus, taip pat ge­
+    lumbės kirpyklą, keturias gelumbės ir keturias kitų prekių
+    krautuves, iš kurių miestas galėjo gauti šiek tiek pajamų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jas magistratas priėmė viešai iš didžiojo kuni­
+    gaikščio rankų19. Privilegijose Žygimantas pareiškė, kad
+    atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
+    čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
+    Krokuvos naudojamą nuo seno. Iš vaivadų ir visų karališ­
+    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
+    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
+    sė spręsti ir bausti už miestiečių padarytus kriminalinius
+    nusikaltimus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 17 Apie tai didžiajam magistrui pra­ neša komtūras iš Lealio, iš Rygos, laiške, datuotame 1432 metų rugpjū­ čio 19 d. Ind. Cod. Hist.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau, po ketu­
@@ -88,57 +127,11 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
     gaikščio rankų19.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jas magistratas priėmė viešai iš didžiojo kuni­
-    gaikščio rankų19. Privilegijose Žygimantas pareiškė, kad
-    atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
-    čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
-    Krokuvos naudojamą nuo seno. Iš vaivadų ir visų karališ­
-    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
-    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
-    sė spręsti ir bausti už miestiečių padarytus kriminalinius
-    nusikaltimus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Taigi vaitui buvo suteikta tokia galia, kad niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­ tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­ dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­ sakyti ir aiškintis dėl.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš vaivadų ir visų karališ­
-    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
-    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
-    sė spręsti ir bausti už miestiečių padarytus kriminalinius
-    nusikaltimus. Taigi vaitui buvo suteikta tokia galia, kad
-    niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­
-    tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­
-    dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­
-    sakyti ir aiškintis dėl pateiktų priekaištų. Dar Žygimantas
-    patvirtino miesto svarstykles, kur kiekvienas parduodan­
-    tysis privalėjo sverti vašką ir kitus dalykus, taip pat ge­
-    lumbės kirpyklą, keturias gelumbės ir keturias kitų prekių
-    krautuves, iš kurių miestas galėjo gauti šiek tiek pajamų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: 'Pagaliau garantavo Vilniui pelną nuo vadinamosios šinkorystės, arba vyno, midaus ir alaus smuklių, tačiau už šią privilegiją pasilikdamas tam tikrą mokestį kunigaikščio iž­ dui, kadangi pagal seną paprotį miestas privalėjo kasmet jį surinkti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar Žygimantas
@@ -155,8 +148,6 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
     nutraukė ketinantis grįžti Švitrigaila.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004

@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kerimberdėjus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1419 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1419'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - tauta
   - valdovas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Kerimberdėjus
 
@@ -30,19 +26,28 @@ tags:
 Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­ tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo paklusti Lietuvos valdovui, ir Vytautas didžiosios. Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­ vo varžovu Kerimberdėjumi, kuris, savo ruožtu, irgi buvo užmuštas brolio Geremferdeno, tad reikėjo inauguruoti Vil­ niuje naują chaną.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­ tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo paklusti Lietuvos valdovui, ir Vytautas didžiosios.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­ vo varžovu Kerimberdėjumi, kuris, savo ruožtu, irgi buvo užmuštas brolio Geremferdeno, tad reikėjo inauguruoti Vil­ niuje naują chaną.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­ tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo paklusti Lietuvos valdovui, ir Vytautas didžiosios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Tačiau Vilniaus vyskupas Petras tam
+    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
+    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
+    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
+    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
+    ti, ir kuris palaimino tą santuoką.
     Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
     su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
     klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
@@ -59,13 +64,11 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
     Ona buvo Smolensko kunigaikščio buvo Vilniuje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­ vo varžovu Kerimberdėjumi, kuris, savo ruožtu, irgi buvo užmuštas brolio Geremferdeno, tad reikėjo inauguruoti Vil­ niuje naują chaną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     150
@@ -85,9 +88,7 @@ Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Viln
     liko ištikimas Lietuvai bei paslaugus75 iki pat mirties.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

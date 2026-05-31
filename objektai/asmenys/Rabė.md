@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Rabė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1244 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1244'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
   - kunigaikštis
   - pilis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Rabė
 
@@ -30,16 +26,18 @@ tags:
 Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
+    45(44). Apie tai, kaip buvo atnaujinta ir sulaužyta taika ir pastatyta Santyro pilis
 
        Iš visų pusių spaudžiami bėdų, puldinėdami nuo vieno sumanymo prie kito, broliai galop
     paklausė vieno brolio iš Rudino, vardu Rabė, protingo vyro ir labai apdairaus sunkiomis
@@ -50,9 +48,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir p
     brolis Poponas, magistras, su 4 broliais ir dar šeši broliai iš Markos, Meiseno ir Tiuringijos.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

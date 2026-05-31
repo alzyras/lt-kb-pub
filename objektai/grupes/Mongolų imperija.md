@@ -1,20 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Mongolų imperija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -25,69 +15,65 @@ tags:
 Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Mongolų imperija XIII a.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Algirdo didvalstybė Mongolų imperija XIII a.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Mongolų imperija XIII a.'
+  pagrindžia:
+    - c-001
+
 - t-004
   teiginys: 'Paprastai perimama ir žlugusios imperijos administracinė struktūra bei kultūros paveldas.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mongolų imperija XIII a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Algirdo didvalstybė
-    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
-    pasinaudojo pergale ir pajungė kai kurias rusų žemes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
-    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Algirdo didvalstybė Mongolų imperija XIII a.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
+    Abi
+    šios aplinkybės lėmė svarbų stačiatikiškos kultūros vaidmenį ankstyvojo-
+    je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių
+    kunigaikščiai priimdavo stačiatikybę, o besiformuojanti rusėnų raštija
+    virto oficialia LDK raštų kalba. Tai šiek tiek primena frankus Galijoje,
+    t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
     perėmusią vietinių žmonių kalbą bei kultūrą.
     Algirdo didvalstybė
     Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
     pasinaudojo pergale ir pajungė kai kurias rusų žemes.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tokios imperijos susikuria
+    žlungančių imperijų pasienyje arba periferijoje, kai žlugusios imperijos
+    pavaldiniai, klientai arba sąjungininkai palydovai pajungia sau dalį jos
+    teritorijos (kartu ir buvusią metropolinę sritį). Paprastai perimama ir žlu-
+    gusios imperijos administracinė struktūra bei kultūros paveldas.
+    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
+    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-004
-  santrauka: 'Paprastai perimama ir žlugusios imperijos administracinė struktūra bei kultūros paveldas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paprastai perimama ir žlu-
@@ -99,11 +85,28 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
     Vytautas nustojo mokėti mongolams duoklę).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Abi
+    šios aplinkybės lėmė svarbų stačiatikiškos kultūros vaidmenį ankstyvojo-
+    je Lietuvos istorijoje: tapę vietininkais senrusių žemėse sritiniai lietuvių
+    kunigaikščiai priimdavo stačiatikybę, o besiformuojanti rusėnų raštija
+    virto oficialia LDK raštų kalba. Tai šiek tiek primena frankus Galijoje,
+    t. y. germanų gentį, sukūrusią valstybę ir valdžios struktūras Galijoje ir
+    perėmusią vietinių žmonių kalbą bei kultūrą.
+    Algirdo didvalstybė
+    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
+    pasinaudojo pergale ir pajungė kai kurias rusų žemes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -120,5 +123,6 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/zodynas/kondominiumas]]

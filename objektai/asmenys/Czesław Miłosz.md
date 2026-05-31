@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Czesław Miłosz'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1980 m.'
   - '1991 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1980'
 date_end: '1991'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Czesław Miłosz
 
@@ -29,63 +25,77 @@ tags:
 lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz). Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius.
 
 ## Teiginiai
-- t-001
-  teiginys: 'lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius L I E T U V O S I S T O R I J A 266 nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine Gordimer.'
   pagrindžia:
     - c-003
 
+- t-001
+  teiginys: 'lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
+    tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
     tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
     save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).
+    Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
+    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
+    po poros dešimtmečių sukūrę Lietuvos Respubliką.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nobelio premijos laureatu bio-
+    chemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas,
+    g. 1926, būdamas dvejų metų su tėvais emigravęs į PAR, vėliau – į Didžią-
+    ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio
+    ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
+    Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
+    emigravęs į JAV.
     Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laurea-
     to, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laureato, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius L I E T U V O S I S T O R I J A 266 nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine Gordimer.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nobelio premijos laureatu bio-
+    chemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas,
+    g. 1926, būdamas dvejų metų su tėvais emigravęs į PAR, vėliau – į Didžią-
+    ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio
+    ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
+    Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
+    emigravęs į JAV.
     Šalia Czesławo Miłoszo – 1980 m. Nobelio literatūros premijos laurea-
     to, šlovinusio Vilnių už čia išeitą mokslą, ir 1991 m. laureatė „už didelius
 
     L I E T U V O S  I S T O R I J A
     266
     nuopelnus humaniškumui“ Pietų Afrikos Respublikos romanistė Nadine
-    Gordimer (Nadina Gordimer) (g.
+    Gordimer (Nadina Gordimer) (g. 1923), kurios tėvas kilęs iš Lietuvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

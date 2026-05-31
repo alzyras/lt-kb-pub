@@ -86,11 +86,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   pagrindžia:
     - c-009
 
-- t-010
-  teiginys: 'Motiejus Strijkovskis rašė, kad Vytautas paleido gandą apie kelionę į Vilnių rengti sesers Ringailės vestuvių iškilmių.'
-  pagrindžia:
-    - c-010
-
 - t-011
   teiginys: 'Motiejus Strijkovskis klydo žygio vadovavimą priskirdamas Konradui Valenrodui ir tuo metu vadindamas jį didžiuoju magistru.'
   pagrindžia:
@@ -149,7 +144,10 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginys: 'Prie Kauno su jais susijungė, be Žemai- 23 Strijkovskis apsirinka nurody­ damas, esą Lankasteris, Anglijos ka­ raliaus Henriko sūnus, su didžiulė­ mis anglų, škotų bei prancūzų ir 1.1, pajėgomis įsibrovė į Lietuvą.'
   pagrindžia:
     - c-023
-
+- t-028
+  teiginys: 'Strijkovskis ir Koj e- 1 a v i č i u s apie tą gudrybę pana­ šiai mena, pridurdami, kad Vytau­ tas paleidęs gandą, esą atvykęs į Vil­ nių rengti savo sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku iškilmių, kas panašiau į tie­ są negu tai, apie.'
+  pagrindžia:
+    - c-028
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -342,43 +340,6 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-
-- c-010
-  santrauka: 'Motiejus Strijkovskis rašė, kad Vytautas paleido gandą apie kelionę į Vilnių rengti sesers Ringailės vestuvių iškilmių.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
-    19
-    Visą tą pasakojimą perteikėme pa­
-    gal vieną aprašymą, kuris yra S1 a p t.
-    arch. fol. E., p. 54 ap. F o i g t a s,
-    V, 534. Strijkovskis ir Koj e-
-    1  a v i č i u s apie tą gudrybę pana­
-    šiai mena, pridurdami, kad Vytau­
-    tas paleidęs gandą, esą atvykęs į Vil­
-    nių rengti savo sesers Ringailės
-    vestuvių su Mazovijos kunigaikščiu
-    Henriku iškilmių, kas panašiau į tie­
-    są negu tai, apie ką bylojäma aukš­
-    čiau nurodytame vokiečių aprašy­
-    me, esą turėjęs savo dukterį Sofiją
-    ištekinti už Mazovijos didžiojo ku­
-    nigaikščio. Jogaila tam pasipriešino,
-    tad šia dingstimi negalima buvo į
-    Vilnių vykti. Tie patys metraštinin­
-    kai pasakoja, kad 300 vežimų, įvai­
-    rios žvėrienos prikrauti, atvažiavę į
-    miestą ir kad Vytauto bajorai suva­
-    žiavę į miestą iš įvairių pusių, bet
-    vienas jų, matyt, išdavęs paslaptį, o
-    apie Sudimantą nėra užsiminta.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 
 - c-011
   santrauka: 'Motiejus Strijkovskis klydo žygio vadovavimą priskirdamas Konradui Valenrodui ir tuo metu vadindamas jį didžiuoju magistru.'
@@ -671,6 +632,162 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-023
+- c-024
+  santrauka: '6 „Buvo dar didžiulė menė, arba šventovė, Antakalnyje, visų dievų, kuriuos Lietuva, apgauta šėtoniš­ kų kerų, garbino; ten ketvirtadie­ nio vakarais dvasininkai visada statydavo ir degindavo vaško žva­ kes/'' Strijkovskis, Sk.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    6
+    „Buvo dar didžiulė menė, arba
+    šventovė, Antakalnyje, visų dievų,
+    kuriuos Lietuva, apgauta šėtoniš­
+    kų kerų, garbino; ten ketvirtadie­
+    nio vakarais dvasininkai visada
+    statydavo ir degindavo vaško žva­
+    kes/' Strijkovskis, Sk. IV, p. 400.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Martyno bažnyčia jau XVI am­ žiuje buvo apleista ir sugriauta: mi­ ni apie tai ir pats Strijkovskįs savo kronikoje, p. 479: „Dabar, kaip ma­ tome, sunyko ir sugriuvo, tiktai prie Plikojo kalno puikaus pastato ir su­ griuvusių skliautų žymės dunkso/'' 14 Ne tik.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    13
+    Šv. Martyno bažnyčia jau XVI am­
+    žiuje buvo apleista ir sugriauta: mi­
+    ni apie tai ir pats Strijkovskįs savo
+    kronikoje, p. 479: „Dabar, kaip ma­
+    tome, sunyko ir sugriuvo, tiktai prie
+    Plikojo kalno puikaus pastato ir su­
+    griuvusių skliautų žymės dunkso/'
+    14
+    Ne tik Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: '6 „Buvo dar didžiulė menė, arba šventovė, Antakalnyje, visų dievų, kuriuos Lietuva, apgauta šėtoniš­ kų kerų, garbino; ten ketvirtadie­ nio vakarais dvasininkai visada statydavo ir degindavo vaško žva­ kes/'' Strijkovskis, Sk.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    6
+    „Buvo dar didžiulė menė, arba
+    šventovė, Antakalnyje, visų dievų,
+    kuriuos Lietuva, apgauta šėtoniš­
+    kų kerų, garbino; ten ketvirtadie­
+    nio vakarais dvasininkai visada
+    statydavo ir degindavo vaško žva­
+    kes/' Strijkovskis, Sk. IV, p. 400.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Martyno bažnyčia jau XVI am­ žiuje buvo apleista ir sugriauta: mi­ ni apie tai ir pats Strijkovskįs savo kronikoje, p. 479: „Dabar, kaip ma­ tome, sunyko ir sugriuvo, tiktai prie Plikojo kalno puikaus pastato ir su­ griuvusių skliautų žymės dunkso/'' 14 Ne tik.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    13
+    Šv. Martyno bažnyčia jau XVI am­
+    žiuje buvo apleista ir sugriauta: mi­
+    ni apie tai ir pats Strijkovskįs savo
+    kronikoje, p. 479: „Dabar, kaip ma­
+    tome, sunyko ir sugriuvo, tiktai prie
+    Plikojo kalno puikaus pastato ir su­
+    griuvusių skliautų žymės dunkso/'
+    14
+    Ne tik Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Strijkovskis ir Koj e- 1 a v i č i u s apie tą gudrybę pana­ šiai mena, pridurdami, kad Vytau­ tas paleidęs gandą, esą atvykęs į Vil­ nių rengti savo sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku iškilmių, kas panašiau į tie­ są negu tai, apie.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
+    19
+    Visą tą pasakojimą perteikėme pa­
+    gal vieną aprašymą, kuris yra S1 a p t.
+    arch. fol. E., p. 54 ap. F o i g t a s,
+    V, 534. Strijkovskis ir Koj e-
+    1  a v i č i u s apie tą gudrybę pana­
+    šiai mena, pridurdami, kad Vytau­
+    tas paleidęs gandą, esą atvykęs į Vil­
+    nių rengti savo sesers Ringailės
+    vestuvių su Mazovijos kunigaikščiu
+    Henriku iškilmių, kas panašiau į tie­
+    są negu tai, apie ką bylojäma aukš­
+    čiau nurodytame vokiečių aprašy­
+    me, esą turėjęs savo dukterį Sofiją
+    ištekinti už Mazovijos didžiojo ku­
+    nigaikščio. Jogaila tam pasipriešino,
+    tad šia dingstimi negalima buvo į
+    Vilnių vykti. Tie patys metraštinin­
+    kai pasakoja, kad 300 vežimų, įvai­
+    rios žvėrienos prikrauti, atvažiavę į
+    miestą ir kad Vytauto bajorai suva­
+    žiavę į miestą iš įvairių pusių, bet
+    vienas jų, matyt, išdavęs paslaptį, o
+    apie Sudimantą nėra užsiminta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: '6 „Buvo dar didžiulė menė, arba šventovė, Antakalnyje, visų dievų, kuriuos Lietuva, apgauta šėtoniš­ kų kerų, garbino; ten ketvirtadie­ nio vakarais dvasininkai visada statydavo ir degindavo vaško žva­ kes/'' Strijkovskis, Sk.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    6
+    „Buvo dar didžiulė menė, arba
+    šventovė, Antakalnyje, visų dievų,
+    kuriuos Lietuva, apgauta šėtoniš­
+    kų kerų, garbino; ten ketvirtadie­
+    nio vakarais dvasininkai visada
+    statydavo ir degindavo vaško žva­
+    kes/' Strijkovskis, Sk. IV, p. 400.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-030
+  santrauka: 'Martyno bažnyčia jau XVI am­ žiuje buvo apleista ir sugriauta: mi­ ni apie tai ir pats Strijkovskįs savo kronikoje, p. 479: „Dabar, kaip ma­ tome, sunyko ir sugriuvo, tiktai prie Plikojo kalno puikaus pastato ir su­ griuvusių skliautų žymės dunkso/'' 14 Ne tik.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    13
+    Šv. Martyno bažnyčia jau XVI am­
+    žiuje buvo apleista ir sugriauta: mi­
+    ni apie tai ir pats Strijkovskįs savo
+    kronikoje, p. 479: „Dabar, kaip ma­
+    tome, sunyko ir sugriuvo, tiktai prie
+    Plikojo kalno puikaus pastato ir su­
+    griuvusių skliautų žymės dunkso/'
+    14
+    Ne tik Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
 
 ## Ryšiai
 ### Susiję objektai
@@ -700,3 +817,4 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]
 - [[objektai/zodynas/didysis komtūras arkikomtūras]]
+- [[objektai/zodynas/didysis magistras]]

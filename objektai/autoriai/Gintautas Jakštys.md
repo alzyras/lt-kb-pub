@@ -53,5 +53,3 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/karyba]]
-- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
-- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]

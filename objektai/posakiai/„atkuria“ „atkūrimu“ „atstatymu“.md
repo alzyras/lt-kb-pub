@@ -1,27 +1,21 @@
 ---
 tipas: posakis
 pavadinimas: '„atkuria“ „atkūrimu“ „atstatymu“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1918 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1918'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - seimas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # „atkuria“ „atkūrimu“ „atstatymu“
 
@@ -30,50 +24,73 @@ tags:
 Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su. Akte pavartotas pasakymas, kad Lietuva „atkuria“ nepriklausomybę – aiški sąsaja su LDK, lietuviai valstybės „atkūrimu“, „atstatymu“.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Akte pavartotas pasakymas, kad Lietuva „atkuria“ nepriklausomybę – aiški sąsaja su LDK, lietuviai valstybės „atkūrimu“, „atstatymu“.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų valstybinių ryšių.'
   pagrindžia:
     - c-003
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-002
+  teiginys: 'Akte pavartotas pasakymas, kad Lietuva „atkuria“ nepriklausomybę – aiški sąsaja su LDK, lietuviai valstybės „atkūrimu“, „atstatymu“.'
   pagrindžia:
-    - t-001
+    - c-002
+
+- t-001
+  teiginys: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Akte pavartotas pasakymas, kad Lietuva „atkuria“ nepriklausomybę – aiški sąsaja su LDK, lietuviai valstybės „atkūrimu“, „atstatymu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vokietijai nepripažinus
+    Lietuvos net gruodžio 11-osios rezoliucijos pagrindu, nusivylę Tarybos
+    lyderiai pradėjo tartis su kairiaisiais dėl kompromiso. Parengus abiem pu-
+    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
+    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
+    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
+    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
+    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
+    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
     Akte pavartotas pasakymas, kad Lietuva „atkuria“ nepriklausomy-
     bę – aiški sąsaja su LDK, lietuviai valstybės „atkūrimu“, „atstatymu“
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų valstybinių ryšių.'
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Taryba priėmė nau-
+    1918 m. sausio pabaigoje, protestuodami prieš su-
+    sitaikėlišką Tarybos politiką, radikalesni S. Kairys, Stanislovas Narutavi-
+    čius, Jonas Vileišis ir M. Biržiška iš jos pasitraukė. Vokietijai nepripažinus
+    Lietuvos net gruodžio 11-osios rezoliucijos pagrindu, nusivylę Tarybos
+    lyderiai pradėjo tartis su kairiaisiais dėl kompromiso. Parengus abiem pu-
+    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
+    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
+    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
+    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
+    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
+    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokietijai nepripažinus
+    Lietuvos net gruodžio 11-osios rezoliucijos pagrindu, nusivylę Tarybos
+    lyderiai pradėjo tartis su kairiaisiais dėl kompromiso. Parengus abiem pu-
+    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
     ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
     paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
     Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
@@ -90,9 +107,7 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
     bę – tai priklausė nuo tarptautinių sąlygų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -103,5 +118,4 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]

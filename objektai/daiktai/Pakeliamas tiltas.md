@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Pakeliamas tiltas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - pilis
@@ -25,29 +16,35 @@ tags:
 Dusburgietis teigia, kad sventopelkas, matydamas, kad brolių laivai jau artėja prie kranto, pabėgo nuleidęs aukštą pakeliamą tiltą, kuriuo galima patekti į pilį.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad sventopelkas, matydamas, kad brolių laivai jau artėja prie kranto, pabėgo nuleidęs aukštą pakeliamą tiltą, kuriuo galima patekti į pilį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad sventopelkas, matydamas, kad brolių laivai jau artėja prie kranto, pabėgo nuleidęs aukštą pakeliamą tiltą, kuriuo galima patekti į pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
@@ -60,9 +57,7 @@ Nenurodyta
     rengiasi pulti pilį, paskubomis atstatė tiltą ir pasiuntė 300 vyrų ginti pilies.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

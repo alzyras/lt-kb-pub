@@ -72,18 +72,6 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
-  pagrindžia:
-    - c-005
-- t-009
-  teiginys: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
-  pagrindžia:
-    - c-006
-- t-010
-  teiginys: 'Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai sujungti Lietuvą personaline unija su Saksonija arba Prūsija.'
-  pagrindžia:
-    - c-007
 - t-011
   teiginys: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
   pagrindžia:
@@ -96,6 +84,18 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   teiginys: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
   pagrindžia:
     - c-010
+- t-014
+  teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
+  pagrindžia:
+    - c-011
+- t-015
+  teiginys: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
+  pagrindžia:
+    - c-012
+- t-016
+  teiginys: 'Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai sujungti Lietuvą personaline unija su Saksonija arba Prūsija.'
+  pagrindžia:
+    - c-013
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Melniko susitarimu buvo norima įkurti vieną jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
@@ -169,53 +169,6 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
-- c-005
-  santrauka: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvių pareigūnus įtraukus į Lenkijos
-    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
-    lemta valstybių sąveika naikino Lietuvos valstybingumą.
-    Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
-    čių puolimai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-006
-  santrauka: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
-    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
-    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
-    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
-    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-007
-  santrauka: 'Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai sujungti Lietuvą personaline unija su Saksonija arba Prūsija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
-    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
-    jungti Lietuvą personaline unija su Saksonija arba Prūsija. Lietuvos Ta-
-    rybos konservatoriai ir monarchistai 1918 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 - c-008
   santrauka: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -268,6 +221,66 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-011
+  santrauka: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos
+    veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos
+    Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietu-
+    von, lietuvių kariuomenė talkino lenkams, o lenkų – lietuviams, bet pirmu
+    atveju talkininkus kontroliavo Lenkijos valstybės institucijos, o antruoju –
+    tai galėjo atlikti tik bendrasis valdovas, tačiau jis rezidavo Krokuvoje (kur,
+    kitaip nei Vilniuje, buvo pripažintos Europos valstybės monarchas) ir jį
+    supo Lenkijos valstybės taryba. Lietuvių pareigūnus įtraukus į Lenkijos
+    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
+    lemta valstybių sąveika naikino Lietuvos valstybingumą.
+    Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
+    čių puolimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-012
+  santrauka: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
+    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
+    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
+    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
+    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-013
+  santrauka: 'Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai sujungti Lietuvą personaline unija su Saksonija arba Prūsija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Smetonos vadovau-
+    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
+    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
+    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
+    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
+    gruodžio 11-osios rezoliucijos pagrindu.
+    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
+    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
+    jungti Lietuvą personaline unija su Saksonija arba Prūsija. Lietuvos Ta-
+    rybos konservatoriai ir monarchistai 1918 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
@@ -277,10 +290,14 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Wilhelmas II]]
+- [[objektai/zodynas/konstitucinė monarchija]]
+- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
@@ -288,4 +305,3 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/zodynas/aneksija]]
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
-- [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Boucicaut'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
@@ -27,43 +18,20 @@ tags:
 Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut'u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.
 
 ## Teiginiai
+
+- t-002
+  teiginys: 'Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut''''u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.'
+  pagrindžia:
+    - c-002
+
 - t-001
   teiginys: 'Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut''u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.'
-  pagrindžia:
-    - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    119
 
-    ## Puslapis 136
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
-    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
-    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
-    sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
-    riteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-
-    23
-    Strijkovskis apsirinka nurody­
-    damas, esą Lankasteris, Anglijos ka­
-    raliaus Henriko sūnus, su didžiulė­
-    mis anglų, škotų bei prancūzų ir 1.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
-  santrauka: 'Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut''u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  •  —
@@ -83,11 +51,45 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
     riau vykti pas turkus, tuo laiku puldinėjusius Europą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mykolą paskirtas Ordino didžiuoju
+    maršalu, 1387 metais per Apreiški­
+    mo Marijai šventę tapo didžiuoju
+    komtūru arba arkikomtūru, 1390
+    rugpjūčio 15 d., po didžiojo magistro
+    Konrado Ciolnerio fon Rotenšteino
+    mirties, - ir didžiojo magistro vieti­
+    ninku, iki pat kapitulos suvažiavi­
+    mo, ir tik 1391 m. kovo 12 d. išrink­
+    tas didž. magistru; mirė 1393 m.
+    liepos 25 d.
+    119
+
+    ## Puslapis 136
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
+    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
+    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
+    sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
+    riteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-
+    23
+    Strijkovskis apsirinka nurody­
+    damas, esą Lankasteris, Anglijos ka­
+    raliaus Henriko sūnus, su didžiulė­
+    mis anglų, škotų bei prancūzų ir 1.1,
+    pajėgomis įsibrovė į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

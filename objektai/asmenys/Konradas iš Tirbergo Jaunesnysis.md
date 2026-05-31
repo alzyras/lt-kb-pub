@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konradas iš Tirbergo Jaunesnysis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1284 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1284'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ežeras
   - karas
   - pilis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Konradas iš Tirbergo Jaunesnysis
 
@@ -30,46 +26,33 @@ tags:
 Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu Pakima495; smarkiai jį nusiaubęs, nudeginęs. Dusburgietis teigia, kad apie brolį Konradą iš Tirbergo, Prūsijos magistrą Brolis Konradas iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo pusšeštų metų. Dusburgietis teigia, kad apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­ mą Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią tikėjimo priešus.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu Pakima495; smarkiai jį nusiaubęs, nudeginęs.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą iš Tirbergo, Prūsijos magistrą Brolis Konradas iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo pusšeštų metų.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­ mą Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią tikėjimo priešus.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą iš Tirbergo, Prūsijos magistrą Brolis Konradas iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo pusšeštų metų.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu Pakima495; smarkiai jį nusiaubęs, nudeginęs.'
+  pagrindžia:
+    - c-001
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad apie Lietuvos pilies, vardu Bisenė, užkariavimą Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo ryto iki pietų smarkiai puolė pilį.'
   pagrindžia:
     - c-004
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro įsakytas, sutelkė visą savo kariuomenę ir įsiveržė į Sūduvos žemės valsčių, vardu Pakima495; smarkiai jį nusiaubęs, nudeginęs.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą
 
-      Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro
-    įsakytas, sutelkė visą savo kariuomenę  ir įsiveržė  į Sūduvos žemės valsčių, vardu
-    Pakima495; smarkiai jį nusiaubęs, nudeginęs ir apiplėšęs, paėmęs  į nelaisvę ir išžudęs
-    daugybę žmonių, patraukė atgal ir vakare perėjo su savo kariuomene užšalusį ežerą,
-    vardu Nagutinas496.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą iš Tirbergo, Prūsijos magistrą Brolis Konradas iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo pusšeštų metų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie brolį Konradą iš Tirbergo, Prūsijos magistrą
+    214 (209). Apie brolį Konradą iš Tirbergo, Prūsijos magistrą
 
        Brolis Konradas  iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo
     pusšeštų metų. Šis brolis Konradas buvo minėtojo Konrado iš Tirbergo, magistro, tikrasis
@@ -78,16 +61,48 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     susiklosto taip, kaip jie nori.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­ mą Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią tikėjimo priešus.'
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
+    202 (197). Apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą
+
+      Tuo metu brolis Konradas iš Tirbergo Jaunesnysis, Prūsijos žemės maršalas, magistro
+    įsakytas, sutelkė visą savo kariuomenę  ir įsiveržė  į Sūduvos žemės valsčių, vardu
+    Pakima495; smarkiai jį nusiaubęs, nudeginęs ir apiplėšęs, paėmęs  į nelaisvę ir išžudęs
+    daugybę žmonių, patraukė atgal ir vakare perėjo su savo kariuomene užšalusį ežerą,
+    vardu Nagutinas496. Rytui išaušus, ledas taip ištirpo, kad niekam nė į galvą nebūtų atėję,
+    jog jie čia perėjo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    222 (217). Apie Lietuvos pilies, vardu Bisenė, užkariavimą
+
+       Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su
+    didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo
+    ryto iki pietų smarkiai puolė pilį, vardu Bisenė519, ir puldami buvo taip įnirtę, kad, nukovę
+    daugybę pilies gynėjų ar mirtinai sužeidę, galop įsiveržė į ją ir pavertė pelenais, vienus
+    pilėnus paėmę  į nelaisvę, o kitus išžudę. Kita kariuomenės dalis įsibrovė  į šios pilies
+    apylinkes ir, nusiaubusi kraštą ugnimi, su didžiausiu grobiu sugrįžo atgal.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    217 (212). Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
                                mą
 
       Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
@@ -98,29 +113,9 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Lietuvos pilies, vardu Bisenė, užkariavimą Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo ryto iki pietų smarkiai puolė pilį.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Lietuvos pilies, vardu Bisenė, užkariavimą
-
-       Brolis Konradas iš Tirbergo, minėtasis Prūsijos žemės magistras, ir daugybė brolių, su
-    didele kariuomene perėję žiemos metu užšalusį Nemuną ir, įsiveržę į Lietuvos žemę, nuo
-    ryto iki pietų smarkiai puolė pilį, vardu Bisenė519, ir puldami buvo taip įnirtę, kad, nukovę
-    daugybę pilies gynėjų ar mirtinai sužeidę, galop įsiveržė į ją ir pavertė pelenais, vienus
-    pilėnus paėmę  į nelaisvę, o kitus išžudę.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -130,5 +125,9 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/grupes/Rytas]]
+- [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Bisenės pilies užkariavimas]]
+- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
+- [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas]]

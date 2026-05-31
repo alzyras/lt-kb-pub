@@ -131,7 +131,6 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Ulrichas Bajeris]]
-- [[objektai/asmenys/Vadolis]]
 - [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/ginklanešys]]

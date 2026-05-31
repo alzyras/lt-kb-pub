@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Vyšnioveckiai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
@@ -19,28 +16,55 @@ tags:
 Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vyšnioveckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vyšnioveckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Vėliau
+    Lietuva stačiatikiškos Rusios erdvėse
+    Lietuvos valstybei užėmus senrusių žemes, tų žemių vieti-
+    ninkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę. Vėliau
     iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
-    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.
-  citata_rodoma: ""
+    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai. Be to,
+    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
+    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
+    Alšėnų kunigaikščiai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1 skyrius •  S E N O J I  L I E T U VA
+    39
+    Lietuva stačiatikiškos Rusios erdvėse
+    Lietuvos valstybei užėmus senrusių žemes, tų žemių vieti-
+    ninkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę. Vėliau
+    iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
+    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai. Be to,
+    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
+    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
+    Alšėnų kunigaikščiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -49,7 +73,7 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/grupes/Sluckiai]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/grupes/Sanguškos]]
-- [[objektai/grupes/Sluckiai]]
 - [[objektai/grupes/Čartoriskiai]]

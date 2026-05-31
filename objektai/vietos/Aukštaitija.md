@@ -59,15 +59,14 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­ mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­ ja su Jotvingija (Dzūkija) yra tokie.'
-  pagrindžia:
-    - c-005
 - t-010
   teiginys: 'Ipati­ jaus kronika yra užrašiusi, jog apie 1259 m. totorių chanas Burun­ dajus, drauge su Volinijos-Haličo Danielium nusiaubė Aukštaitiją.'
   pagrindžia:
     - c-006
-
+- t-011
+  teiginys: 'Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­ mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­ ja su Jotvingija (Dzūkija) yra tokie.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Platus Nemuno aukštupio ir vidurupio dešiniojo kranto kraštas bei beveik visas Neries baseinas su Šventąja sudarė Aukštaičių žemės pagrindą.'
@@ -139,24 +138,6 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-- c-005
-  santrauka: 'Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­ mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­ ja su Jotvingija (Dzūkija) yra tokie.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Po to parašė jam dar kitą raš­
-    tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija
-    — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­
-    mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­
-    ja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­
-    rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
-    kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
 - c-006
   santrauka: 'Ipati­ jaus kronika yra užrašiusi, jog apie 1259 m. totorių chanas Burun­ dajus, drauge su Volinijos-Haličo Danielium nusiaubė Aukštaitiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -172,3 +153,22 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-007
+  santrauka: 'Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­ mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­ ja su Jotvingija (Dzūkija) yra tokie.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Proteste Vytautas pareiškė, kad neįgaliojo Zigmanto būti
+    arbitru ir spręsti jo reikalus^2 ). Po to parašė jam dar kitą raš­
+    tą, kuriame labai gražiai išdėstė, kad Žemaitija ir Aukštaitija
+    — tai dvi neatskiriamos Lietuvos dalys, tiktai žmonių vadina­
+    mos įvairiai dėl jų geografinės padėties; o taip pat ir Sūdavi­
+    ja su Jotvingija (Dzūkija) yra tokie lietuvių kraštai, dėl ku­
+    rių ir ginčo negali kilti; tad jei sprendimas nebus atmainytas,
+    kol gyvas bus, nepalaikys su Zigmantu taikos^3 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

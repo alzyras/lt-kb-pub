@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„tauta galėjo apsisaugoti tik sukūrusi valstybę“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
@@ -21,15 +18,32 @@ tags:
 Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kalavijuočių ordinas tapo
+    Kryžiuočių ordino vasalu.
+    Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų
+    kolonijinių valstybių kūrimasis prie Baltijos. Lietuvos valstybė atsirado
+    pirmiausia kaip apsigynimo priemonė, tačiau ji turėjo remtis kokiu nors
+    visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno
+    valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požy-
+    mis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   santrauka: 'Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -38,14 +52,13 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
     pirmiausia kaip apsigynimo priemonė, tačiau ji turėjo remtis kokiu nors
     visuomenės sluoksniu – tas sluoksnis buvo Mindaugo kariauna, o vieno
     valdovo įsitvirtinimas yra ryškiausias išorinis valstybės atsiradimo požy-
-    mis.
-  citata_rodoma: ""
+    mis. Iš šių dienų perspektyvos galima sakyti – tauta galėjo apsisaugoti tik
+    sukūrusi valstybę.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -55,3 +68,4 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]
+- [[objektai/zodynas/kariauna]]

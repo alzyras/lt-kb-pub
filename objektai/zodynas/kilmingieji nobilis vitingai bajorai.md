@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kilmingieji nobilis vitingai bajorai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'IX'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
@@ -28,13 +18,15 @@ tags:
 Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet, žinoma, [tikėjo] ne taip, kaip dera. Jie mat manė, kad tas, kas šiame gyvenime yra buvęs kilmingas ar nekilmingas, turtingas ar vargšas, galingas ar negalingas, toks pat bus po prisikėlimo ir busimajame. Dusburgietis teigia, kad nobilis, Jer.— di hêren.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad nobilis, Jer.— di hêren.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad nobilis, Jer.— di hêren.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     207 D. nobilis, Jer.— di hêren. Kilmingųjų (t. y. garsios giminės vyrų — viros preclaros
@@ -53,9 +45,7 @@ Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųj�
     vardas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

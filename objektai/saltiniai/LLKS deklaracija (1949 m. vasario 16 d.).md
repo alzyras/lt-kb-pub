@@ -5,7 +5,6 @@ sukurta: '2026-05-02'
 variantai:
   - 'LLKS tarybos patvirtinta deklaracija'
   - 'LLKS deklaracija'
-  - 'LLKS Deklaracija'
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
@@ -63,19 +62,18 @@ tags: []
   teiginys: 'Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas, kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs).'
   pagrindžia:
     - c-003
-- t-006
-  teiginys: '1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.'
-  pagrindžia:
-    - c-004
-- t-007
-  teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
-  pagrindžia:
-    - c-005
 - t-008
   teiginys: 'Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija).'
   pagrindžia:
     - c-006
-
+- t-009
+  teiginys: 'Po daugelio nesėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d. įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas bunkeryje tarp Radviliškio ir Baisogalos.'
+  pagrindžia:
+    - c-007
+- t-010
+  teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas, kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs).'
@@ -103,8 +101,27 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-004
-  santrauka: '1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.'
+- c-006
+  santrauka: 'Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Laurynas Mingėlas-Džiugas po
+
+    = j Užpelkių kautynių buvo sunkiai
+    sužeistas ir apie metus gydėsi Miknių
+    sodyboje įrengtame bunkeryje
+
+    (tame pačiame, kur buvo pasirašyta
+    1949 m. vasario 16 d. LLKS Deklaracija).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-007
+  santrauka: 'Po daugelio nesėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d. įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas bunkeryje tarp Radviliškio ir Baisogalos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po daugelio nesėkmingų
@@ -129,47 +146,26 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-005
+    - t-009
+- c-008
   santrauka: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Bunkeryje pri-
+    studijavo Prancūzijos artilerijos mokykloje),
+    jam suteiktas aukščiausias – partizanų generolo laipsnis. Bunkeryje pri-
     imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
     atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
     suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
     demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
     sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
     organu iki laisvų demokratinių Seimo rinkimų.
-    Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
-    1945 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
-- c-006
-  santrauka: 'Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija).'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Laurynas Mingėlas-Džiugas po
-
-    = j Užpelkių kautynių buvo sunkiai
-    sužeistas ir apie metus gydėsi Miknių
-    sodyboje įrengtame bunkeryje
-
-    (tame pačiame, kur buvo pasirašyta
-    1949 m. vasario 16 d. LLKS Deklaracija).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-
+    - t-010
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: '1949 m. vasario 16 d. LLKS tarybos deklaracija paskelbė siekį atkurti nepriklausomą demokratinę Lietuvos Respubliką.'

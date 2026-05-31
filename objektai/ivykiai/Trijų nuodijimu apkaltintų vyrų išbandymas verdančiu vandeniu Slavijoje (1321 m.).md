@@ -1,24 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Trijų nuodijimu apkaltintų vyrų išbandymas verdančiu vandeniu Slavijoje (1321 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1321 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1321'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XIV'
 ---
 # Trijų nuodijimu apkaltintų vyrų išbandymas verdančiu vandeniu Slavijoje (1321 m.)
 
@@ -27,18 +21,23 @@ tags:
 Dusburgietis teigia, kad apie vieną stebuklą 1321 viešpaties metais Slavijos žemėse trys vyrai, apkaltinti nuodijimu, buvo įmesti į verdantį vandenį, du iš jų bematant nusigalavo, o trečias išvengė mirties, nes buvo nekaltas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą 1321 viešpaties metais Slavijos žemėse trys vyrai, apkaltinti nuodijimu, buvo įmesti į verdantį vandenį, du iš jų bematant nusigalavo, o trečias išvengė mirties, nes buvo nekaltas.'
   pagrindžia:
@@ -46,8 +45,8 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie vieną stebuklą 1321 viešpaties metais Slavijos žemėse trys vyrai, apkaltinti nuodijimu, buvo įmesti į verdantį vandenį, du iš jų bematant nusigalavo, o trečias išvengė mirties, nes buvo nekaltas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     121. Apie vieną stebuklą
@@ -59,23 +58,19 @@ Nenurodyta
     122.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Trijų nuodijimu apkaltintų vyrų išbandymas verdančiu vandeniu Slavijoje (1321 m.) papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1321 viešpaties metais Slavijos žemėse trys vyrai, apkaltinti nuodijimu, buvo įmesti
     į verdantį vandenį, du iš jų bematant nusigalavo, o trečias išvengė mirties, nes buvo
     nekaltas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

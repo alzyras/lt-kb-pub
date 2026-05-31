@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Grigalius Astikas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1581 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1581'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - vyskupas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Grigalius Astikas
 
@@ -30,13 +26,15 @@ tags:
 Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS STEPONO BATORO PRIVILEGIJA, KURIA ALANTOS DVARAS, ESANTIS UKMERGĖS PAVIETE, PO IŠDAVIKO GRIGALIAUS ASTIKO DOVANOJAMAS GABRIELIUI BEKEŠUI.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS STEPONO BATORO PRIVILEGIJA, KURIA ALANTOS DVARAS, ESANTIS UKMERGĖS PAVIETE, PO IŠDAVIKO GRIGALIAUS ASTIKO DOVANOJAMAS GABRIELIUI BEKEŠUI.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS STEPONO BATORO PRIVILEGIJA, KURIA ALANTOS DVARAS, ESANTIS UKMERGĖS PAVIETE, PO IŠDAVIKO GRIGALIAUS ASTIKO DOVANOJAMAS GABRIELIUI BEKEŠUI.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalia dalyvaujant didžiai gerbia­
@@ -66,9 +64,7 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
     VARŠUVOS SEIME.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

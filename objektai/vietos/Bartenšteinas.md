@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Bartenšteinas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1300 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1300'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - ordinas
   - pilis
   - vieta
+amziai:
+  - 'XIII'
 ---
 # Bartenšteinas
 
@@ -30,102 +24,73 @@ tags:
 Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame Bartenšteine, dievas juos pamokęs bėgti paliekant pilį (III, 121). Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame Bartenšteine, dievas juos pamokęs bėgti paliekant pilį (III, 121).'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174).'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad 256 Bartenšteinas (dab.'
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174).'
   pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Dusburgietis teigia, kad šitai išgirdę, broliai ir jų šeimyna, kitą dieną pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti. 392 Pateikiama kronikoje.'
-  pagrindžia:
-    - c-006
+    - c-002
+
 - t-007
   teiginys: 'Dusburgietis teigia, kad apie antrąjį Bartenšteino pilies sugriovimą Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams, labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje, broliams iš jos pasitraukus, buvo.'
   pagrindžia:
     - c-007
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
+  pagrindžia:
+    - c-005
+
 - t-008
   teiginys: 'Dusburgietis teigia, kad po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
   pagrindžia:
     - c-008
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad 256 Bartenšteinas (dab.'
+  pagrindžia:
+    - c-004
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad šitai išgirdę, broliai ir jų šeimyna, kitą dieną pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti. 392 Pateikiama kronikoje.'
+  pagrindžia:
+    - c-006
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame Bartenšteine, dievas juos pamokęs bėgti paliekant pilį (III, 121).'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame Bartenšteine, dievas juos pamokęs bėgti paliekant pilį (III, 121).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai kryžiuočiai jau nebegalėjo  priešintis apgultame Bartenšteine, dievas
-    juos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi
-    mergelė Marija  (III, 141).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad po to ima pasakoti apie atskirų pilių bei miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas, Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po to ima pasakoti apie atskirų pilių bei
-    miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas,
-    Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Pastarojo
-    pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio
-    „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
-    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
-    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
-    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
-    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
-    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
-    daug brolių ir ginklanešių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad 256 Bartenšteinas (dab.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     256 Bartenšteinas (dab. Bartošicė; vardo pagrindą sudaro prūsų—bartų vardas) Alnos
     (dab. Lynos) upės kairiajame krante. Pilies kalnas — miesto šiaurinėje dalyje.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    (III, 73). Kai kryžiuočiai jau nebegalėjo  priešintis apgultame Bartenšteine, dievas
+    juos pamokęs bėgti paliekant pilį (III, 121). Kitąkart mūšio metu danguje pasirodžiusi
+    mergelė Marija  (III, 141).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-005
-  santrauka: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Bartenšteino pilies puolimą
@@ -134,34 +99,17 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris
     apgulos mašinas, kuriomis puldinėjo pilį. Kol pilis buvo galutinai sunaikinta, ten buvę
 
-    MGP, p.
+    MGP, p. 50).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Dusburgietis teigia, kad šitai išgirdę, broliai ir jų šeimyna, kitą dieną pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti. 392 Pateikiama kronikoje.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
-    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
-    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
-      392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+
 - c-007
-  santrauka: 'Dusburgietis teigia, kad apie antrąjį Bartenšteino pilies sugriovimą Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams, labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje, broliams iš jos pasitraukus, buvo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie antrąjį Bartenšteino pilies sugriovimą
+    173 (168). Apie antrąjį Bartenšteino pilies sugriovimą
 
       Sūduviai, išgirdę, kad bartai, varmiai bei kiti prūsai vėl pakluso tikėjimui ir broliams,
     labai įtūžo ir, atžygiavę su didele kariuomene, staiga apsiautė Bartenšteino pilį, kurioje,
@@ -174,13 +122,11 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
           174 (169).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-007
+
 - c-008
-  santrauka: 'Dusburgietis teigia, kad po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
@@ -194,8 +140,102 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
          175 (170).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-008
+
+- c-006
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šitai išgirdę, broliai ir jų šeimyna, kitą dieną
+    pasidaliję į dvi dalis, vieni patraukė į Karaliaučiaus pilį, o kiti į Elbingą paėmę šventųjų
+    relikvijas, o pilyje palikę vieną iškaršusį ir aklą brolį, nestengiantį su jais drauge eiti.
+      392  Pateikiama kronikoje ir kita Ordino maršalo Ditricho žuvimo versija — D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kronikininkas, rašydamas apie antrąjį prūsų sukilimą, Ordino brolių veiklos pagrindine
+    vieta laiko Karaliaučių (III, 95, 100—113). Po to ima pasakoti apie atskirų pilių bei
+    miestų karus antrojo sukilimo metu (įvykių centre čia atsiduria Baiga, Brunsbergas,
+    Kristburgas, Marienverderis, Kulmas, Elbingas, Bartenšteinas (III, 137—174). Pastarojo
+    pasakojimo pradžioje kronikininkas pažymi, jog skaitytojas antrojo sukilimo laikotarpio
+    „karų neras aprašytų tokia seka, kokia jie yra vykę, nes daugelis jau išgaravo iš gyvųjų
+    atminties ir vargu ar kas galėtų juos tinkamai išdėstyti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
+    nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
+    tikėjimui ir broliams254. Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
+    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
+    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
+    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
+    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
+    daug brolių ir ginklanešių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-009
+  santrauka: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie varmių, notangų ir bartų pavergimą ir kelių pilių pastatymą
+
+      Varmės, Notangos  ir Bartos prūsai, dievo valia brolių bei minėtojo kunigaikščio
+    nusilpninti, neįstengė ilgiau priešintis ir, priversti paklusti dorybei ir duoti įkaitų, pasidavė
+    tikėjimui ir broliams254. Tada broliai, norėdami užbėgti už akių būsimiems pavojams ir
+    atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu
+    Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257
+    ir Rezlio258. Pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259
+    ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta
+    daug brolių ir ginklanešių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-009
+
+- c-010
+  santrauka: 'Dusburgietis teigia, kad apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    119 (114). Apie Bartenšteino pilies puolimą
+
+      Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai
+    įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų. Be to, turėjo ir tris
+    apgulos mašinas, kuriomis puldinėjo pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-010
+
+- c-011
+  santrauka: 'Dusburgietis teigia, kad po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šitai matydama, Nameda, Pasdraupučio motina, kilusi iš Mantiminų giminės458,
+    tarė savo sūnums: „Gailiuosi jus pagimdžiusi, kadangi nenorite ginti nuo priešų nei savo
+    gyvybės, nei savo genties”. Šių žodžių paskatinti jos sūnūs bei kiti pilėnai pakilo į mūšį
+    ir nukovė daugiau nei du tūkstančius priešo karių. Po to broliai atstatė Bartenšteino pilį,
+    kur gyvena po šiai dienai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-011

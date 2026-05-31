@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Baltarusiai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
@@ -21,50 +18,81 @@ tags:
 – baltarusiai, rusai ir ukrainiečiai kartu sudėjus. Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.
 
 ## Teiginiai
+
 - t-001
   teiginys: '– baltarusiai, rusai ir ukrainiečiai kartu sudėjus.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '– baltarusiai, rusai ir ukrainiečiai kartu sudėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nelegalioje lietuvių
+    spaudoje spausdinta kitų tautų, pirmiausia kaimynų grožinė kūryba, ypač
+    XIX a. pirmosios pusės lenkiškai rašiusių Lietuvos patriotų kūriniai.
     1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
     bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
     1,6 mln.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Ji propagavo autonominės
+    Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
+    loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),
+    veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar
+    mažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-
+    onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
+    neteisėtais. Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
+    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
+    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
+    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
+    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
     Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
     baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
     tautų kalbos turėtų valstybinį statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Ji propagavo autonominės Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų, baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų tautų kalbos turėtų valstybinį statusą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
+    riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
+    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
+    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
+    tiečių“ (lenkiškai „krajovcų“) demokratų srovė. Ji propagavo autonominės
+    Lietuvos, buvusios LDK ribose, idėją, kaip daugiakultūrį lietuvių, lenkų,
+    baltarusių, tam tikra prasme ir žydų valstybinį darinį, kuriame pirmųjų trijų
+    tautų kalbos turėtų valstybinį statusą. Jei šis darinys taptų nepriklausoma
+    valstybė, ji galėtų konfederacijos arba lygiateisės federacijos ryšiais susisie-
+    ti su Lenkija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/autoriai/Adomas Honorijus Kirkoras]]
@@ -100,6 +128,7 @@ tags:
 - [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Ukrainiečiai]]
-- [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
+- [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]
 - [[objektai/zodynas/krajovcai]]
 - [[objektai/zodynas/krajovcai kraštiečiai]]
+- [[objektai/zodynas/proletarinis internacionalizmas]]

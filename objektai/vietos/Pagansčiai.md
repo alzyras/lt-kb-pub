@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Pagansčiai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1271 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1271'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - pilis
   - upė
   - vieta
+amziai:
+  - 'XIII'
 ---
 # Pagansčiai
 
@@ -30,20 +24,25 @@ tags:
 Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką, kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę ir vėl. Dusburgietis teigia, kad 423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis Menthen).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką, kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę ir vėl.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad 423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis Menthen).'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką, kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę ir vėl.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
+    Šito įvykio išgąsdinti, raiteliai bei pėstininkai
+    susijungė ir įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su savo kariuomene
+    apsistojo priešais. Prūsai pamatė, jog be kovos negalės išsigelbėti, nutaikę gerą laiką,
     kai krikščionys, nelyginant nieko nebijodami, ne tik neišstatė reikalingų sargybų, bet
     atvirkščiai, net ir arklius nusibalnojo, jie pusę savo kariuomenės slaptai perkėlė per upę
     ir vėl žiauriai užpuolė krikščionis — vieni iš užpakalio, kiti iš priešakio; anksčiau, nei
@@ -53,21 +52,17 @@ Dusburgietis teigia, kad prūsai pamatė, jog be kovos negalės išsigelbėti, n
     į nelaisvę, kitus išžudydami, išskyrus tuos, kurie suskubo pasprukti  į brolių pilį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad 423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis Menthen).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     423 D.— Poganste, Jer.— Paganstin; Pagansčiai, kaimas prie Zirgūnos upės (vėlesnis
     Menthen). Čia 1271 m. buvo sumušti kryžiuočiai (Ewald A.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

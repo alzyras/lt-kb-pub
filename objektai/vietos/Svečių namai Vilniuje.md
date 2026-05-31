@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Svečių namai Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
@@ -27,65 +18,34 @@ tags:
 Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44. 44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18. Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje įsikurdavo22.'
   pagrindžia:
     - c-004
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau Aleksandro ir Elenos santuoka išplė­
-    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
-    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
-    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
-    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
-    savo atvykimą iškart pranešti pilininkui4 3  44. Tarp Aleksan­
-    dro ir jo uošvio vyko nuolatinės rietenos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-002
+  teiginys: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: '44 Svečių namams skirta privilegija yra: D u b i ń s k i, 1.18.'
+    - c-002
+
+- t-003
+  teiginys: 'Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.'
+  pagrindžia:
+    - c-003
+
+- t-001
+  teiginys: 'Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie savo atvykimą iškart pranešti pilininkui4 3 44.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+
+- c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    44
     Svečių namams skirta privilegija yra:
     D u b i ń s k i, 1.18. Ją skaitant atro­
-    do, kad Aleksandras, leisdamas sta­
-    tyti tokius namus, turėjo omenyje ne
-    tik miesto ir muito pelną, bet ir iš­
-    orinį saugumą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ją skaitant atro­
     do, kad Aleksandras, leisdamas sta­
     tyti tokius namus, turėjo omenyje ne
     tik miesto ir muito pelną, bet ir iš­
@@ -109,13 +69,28 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     vo dienas kalėjime toje pačioje Lietuvoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44. Tarp Aleksan­
+    dro ir jo uošvio vyko nuolatinės rietenos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-004
-  santrauka: 'Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje įsikurdavo22.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau savo kai­
@@ -131,8 +106,27 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     lus vaško po 50 akmenų], fol.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    At­
+    rodo, kad šią nuomonę išplatino tie,
+    kurie didžiąją kunigaikštytę Eleną
+    atlydėjo į Vilnių ir buvo sužavėti
+    nuostabaus priėmimo.
+    44
+    Svečių namams skirta privilegija yra:
+    D u b i ń s k i, 1.18. Ją skaitant atro­
+    do, kad Aleksandras, leisdamas sta­
+    tyti tokius namus, turėjo omenyje ne
+    tik miesto ir muito pelną, bet ir iš­
+    orinį saugumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

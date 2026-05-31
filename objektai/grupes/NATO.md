@@ -73,7 +73,6 @@ tags:
 - [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/ivykiai/JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)]]
 - [[objektai/zodynas/Kolektyvinės savigynos teisė]]
-- [[objektai/grupes/Lietuvos Respublikos Seimas|Lietuvos Respublikos Seimas (seimas)]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
 - [[objektai/ivykiai/Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)]]

@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1514 m.'
   - '1533 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1514'
 date_end: '1533'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - miestas
   - vyskupas
+amziai:
+  - 'XVI'
 ---
 # Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.)
 
@@ -31,26 +25,31 @@ tags:
 374 ## Puslapis 391 IV KNYGA I \ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '374 ## Puslapis 391 IV KNYGA I \ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '374 ## Puslapis 391 IV KNYGA I \ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     374
@@ -101,9 +100,7 @@ Nenurodyta
     BONA Sfor.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

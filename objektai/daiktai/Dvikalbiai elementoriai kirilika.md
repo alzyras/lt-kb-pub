@@ -1,26 +1,20 @@
 ---
 tipas: daiktas
 pavadinimas: 'Dvikalbiai elementoriai kirilika'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1864 m.'
   - '1904 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
+date_start: '1864'
+date_end: '1904'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - daiktas
 amziai:
   - 'XIX'
   - 'XX'
-date_start: '1864'
-date_end: '1904'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
-tags:
-  - daiktas
 ---
 # Dvikalbiai elementoriai kirilika
 
@@ -29,29 +23,35 @@ tags:
 Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose
@@ -66,9 +66,7 @@ Nenurodyta
     pavasario.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -76,3 +74,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
+- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

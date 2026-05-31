@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Darbai žemaičių ir lietuvių'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - saltinis
@@ -26,13 +17,15 @@ tags:
 Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­ vo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­ vo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­ vo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš
@@ -46,8 +39,6 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
     mą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

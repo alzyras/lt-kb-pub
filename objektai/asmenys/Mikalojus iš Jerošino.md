@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mikalojus iš Jerošino'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1331 m.'
   - '1341 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1331'
 date_end: '1341'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - popiežius
   - valdovas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Mikalojus iš Jerošino
 
@@ -31,17 +27,20 @@ tags:
 Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis į vokiečių kalbą išvertė Mikalojus iš Jerošino.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis į vokiečių kalbą išvertė Mikalojus iš Jerošino.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tačiau lotyniškai
@@ -55,13 +54,11 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
       67 PKD, s.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad iV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis į vokiečių kalbą išvertė Mikalojus iš Jerošino.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė
@@ -71,11 +68,23 @@ Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino. Dusbu
     žemės kronikoje“ nemaža detalių pakeista arba pridėta79.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Dusburgietis teigia, kad kiek vėliau tai padarė Mikalojus iš Jerošino.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kita vertus, jis rašė istorinį pasakojimą, paremtą didele jo sukaupta rašytine ir žodine
+    Ordino tradicija, siekė šią tradiciją perduoti ateities kartoms (Dedikacija). Tačiau lotyniškai
+    parašyta Dusburgiečio kronika nebuvo prieinama eiliniams Ordino broliams, ją reikėjo
+    išversti į vokiečių kalbą. Kiek vėliau tai padarė Mikalojus iš Jerošino.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

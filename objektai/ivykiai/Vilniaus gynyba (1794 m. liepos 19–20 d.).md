@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus gynyba (1794 m. liepos 19–20 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1794 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1794'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - miestas
+amziai:
+  - 'XVIII'
 ---
 # Vilniaus gynyba (1794 m. liepos 19–20 d.)
 
@@ -29,26 +23,31 @@ tags:
 Antroji kovų fazė: Vilniaus gynyba Liepos 19 d. gen.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Antroji kovų fazė: Vilniaus gynyba Liepos 19 d. gen.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Antroji kovų fazė: Vilniaus gynyba Liepos 19 d. gen.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Antroji kovų fazė:
@@ -87,9 +86,7 @@ Nenurodyta
     prie miesto gynybinių sienų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

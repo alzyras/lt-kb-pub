@@ -65,5 +65,4 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Durklas]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Vokiečiai]]

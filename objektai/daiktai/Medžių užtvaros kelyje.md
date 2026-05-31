@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Medžių užtvaros kelyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1805 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1805'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - miestas
   - pilis
   - upė
+amziai:
+  - 'XIX'
 ---
 # Medžių užtvaros kelyje
 
@@ -30,29 +24,35 @@ tags:
 Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­ siartinus prie Strėvos upės Trakų paviete, tankiame miške iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių, 54 Stryjkowski, p. 464, aiškiai nurodo, kad Švitrigaila pilies užėmi­ mo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau
@@ -98,9 +98,7 @@ Nenurodyta
     jais užvertė kelią.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

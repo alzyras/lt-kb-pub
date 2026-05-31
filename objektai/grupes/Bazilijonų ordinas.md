@@ -39,18 +39,18 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Bazilijaus ordino vienuolius.'
+  pagrindžia:
+    - c-003
 - t-003
-  teiginys: 'Konstantinas Ostrogiškis prie Vilniaus Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.'
+  teiginys: 'Vėliau Mamoničių spaus­ tuvė, matyt, atiteko bazilijonams.'
   pagrindžia:
     - c-004
 - t-004
-  teiginys: 'Vėliau Mamoničių spaus­ tuvė, matyt, atiteko bazilijonams.'
-  pagrindžia:
-    - c-005
-- t-005
   teiginys: 'Buvęs Karaliaučiaus archyvo (dabar (^149) Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­ niai padalinami dar į tokias serijas : Documenta Pontificum Romanorum; Acta S.'
   pagrindžia:
-    - c-006
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,8 +82,8 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-004
-  santrauka: 'Konstantinas Ostrogiškis prie Vilniaus Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.'
+- c-003
+  santrauka: 'Bazilijaus ordino vienuolius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Beveik tuo
@@ -97,12 +97,14 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-005
+    - t-002
+- c-004
   santrauka: 'Vėliau Mamoničių spaus­ tuvė, matyt, atiteko bazilijonams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Vėliau Mamoničių spaus­
+    203, o šalia,
+    kampiniame name, seniau buvo
+    cerkvelė. Vėliau Mamoničių spaus­
     tuvė, matyt, atiteko bazilijonams.
     69
     Perlas paimtas iš pranašo Habukuko ir
@@ -113,8 +115,8 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-006
+    - t-003
+- c-005
   santrauka: 'Buvęs Karaliaučiaus archyvo (dabar (^149) Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­ niai padalinami dar į tokias serijas : Documenta Pontificum Romanorum; Acta S.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -132,8 +134,11 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/grupes/Unitai]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]

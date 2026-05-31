@@ -1,28 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Bajoriškoji demokratija, seimavimai ir liberum veto praktika'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1588 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVIII'
 date_start: '1588'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - diplomatas
   - karalius
   - paprotys
+amziai:
+  - 'XVI'
 ---
 # Bajoriškoji demokratija, seimavimai ir liberum veto praktika
 
@@ -31,29 +24,35 @@ tags:
 Be to, prieš vykdami į bendrus seimus, Lietuvos atstovai surengdavo savo „seimavimus“ bendrai pozicijai aptarti.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Be to, prieš vykdami į bendrus seimus, Lietuvos atstovai surengdavo savo „seimavimus“ bendrai pozicijai aptarti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Be to, prieš vykdami į bendrus seimus, Lietuvos atstovai surengdavo savo „seimavimus“ bendrai pozicijai aptarti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
@@ -74,9 +73,7 @@ Nenurodyta
     sienio politiką.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

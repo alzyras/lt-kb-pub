@@ -84,7 +84,6 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/unija]]

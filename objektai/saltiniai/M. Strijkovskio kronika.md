@@ -591,5 +591,74 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-024
+- c-023
+  santrauka: '48 ## Puslapis 65 I KNYGA Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­ čius'' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­ dami įvykį, kuris galėjo būti tam vada.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    400.
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-024
+  santrauka: '48 ## Puslapis 65 I KNYGA Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­ čius'' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­ dami įvykį, kuris galėjo būti tam vada.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    400.
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-025
+  santrauka: '48 ## Puslapis 65 I KNYGA Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­ čius'' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­ dami įvykį, kuris galėjo būti tam vada.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    400.
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
 
 ## Bibliografiniai įrodymai

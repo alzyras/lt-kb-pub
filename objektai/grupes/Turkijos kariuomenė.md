@@ -71,6 +71,5 @@ tags:
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/grupes/Valakai]]

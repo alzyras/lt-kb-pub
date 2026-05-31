@@ -32,14 +32,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
   pagrindžia:
@@ -52,6 +44,14 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginys: 'Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi­ das, o Vitebske jų dėdė, motinos brolis, Vikintas.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,34 +73,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Stiprindamas centrinę valdžią
-    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
-    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš Vytauto brolio Tautvilos buvo atimtas
-    Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
-    Šis nuo 1382 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -202,6 +174,35 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Stiprindamas centrinę valdžią
+    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
+    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dalis jo šalininkų
+    buvo sumesti į kalėjimą. Iš Vytauto brolio Tautvilos buvo atimtas
+    Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
+    Šis nuo 1382 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -216,8 +217,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Algardas Hohenšteino grafas]]
-- [[objektai/asmenys/Danielius]]
 - [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Tautvila]]

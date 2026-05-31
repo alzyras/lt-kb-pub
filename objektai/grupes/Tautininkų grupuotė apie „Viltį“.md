@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Tautininkų grupuotė apie „Viltį“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
@@ -20,34 +17,59 @@ tags:
 Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kartu su
+    timo organizacijas, gausią spaudą. Daugiausia dėmesio jie skyrė katalikišką
+    doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
     būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
     no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
     bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Daugiausia dėmesio jie skyrė katalikišką
+    doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
+    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
+    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
+    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis. Vyskupi-
+    joje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų
+    nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
+    teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
+    nimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Tautininkai]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/grupes/Lenkų krikščionys demokratai]]
 - [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]

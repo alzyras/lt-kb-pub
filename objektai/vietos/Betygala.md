@@ -56,10 +56,6 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginys: '1945 m. vasario 15 d. Raseinių apskrities Betygalos valsčiuje NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų pasalą.'
   pagrindžia:
     - c-003
-- t-007
-  teiginys: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
-  pagrindžia:
-    - c-004
 - t-008
   teiginys: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
   pagrindžia:
@@ -72,6 +68,10 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   teiginys: 'Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.'
   pagrindžia:
     - c-007
+- t-011
+  teiginys: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -130,20 +130,6 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-004
-  santrauka: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Karūnavimo metais jis užrašė Žemaičiuose
-    po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos. Kita
-    tų žemių pusė buvo užrašyta vyskupui Kristijonui (1254.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-005
   santrauka: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -196,3 +182,18 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-008
+  santrauka: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Už pagalbą bėdoje ir karališkos karūnos išrūpinimą Mindaugas
+    turėjo ordinui atsilyginti. Karūnavimo metais jis užrašė Žemaičiuose
+    po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos. Kita
+    tų žemių pusė buvo užrašyta vyskupui Kristijonui (1254.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

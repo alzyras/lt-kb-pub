@@ -1,33 +1,23 @@
 ---
 tipas: paprotys
 pavadinimas: 'Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1000 m.'
-  - '1386 m.'
-  - '1427 m.'
   - '1429 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'X'
-  - 'XIV'
-  - 'XV'
 date_start: '1000'
 date_end: '1429'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
   - paprotys
   - valdovas
+amziai:
+  - 'X'
+  - 'XV'
 ---
 # Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus
 
@@ -36,33 +26,75 @@ tags:
 Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro. Jie važiavę į Vilnių ir tapę Vytauto belaisviais ir sidabro praradę 1 000 rublių, o jis, niekšas, paėmė sidabrą ir belaisvius tvirtovėje pasodino.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Jie važiavę į Vilnių ir tapę Vytauto belaisviais ir sidabro praradę 1 000 rublių, o jis, niekšas, paėmė sidabrą ir belaisvius tvirtovėje pasodino.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    [Pskoviečiai
+    pasiuntė pas didįjį kunigaikštį Jurgį
+    posadniką Timofejevičių ir bajorus,
+    kad siųstų savuosius bajorus pas Vy­
+    tautą ir nusilenktų už pskoviečius;
+    ir būsianti tada jam su kunigaikščiu
+    Jurgiu Didžiosios Kunigaikštystės
+    gynyba, bet tas visko atsisakė ir žie­
+    mai atsiuntė didysis kunigaikštis sa­
+    vo bajorus į Pskovą, ir pskoviečiai
+    su jais atsiuntė savo posadnikus Jo­
+    achimą Pavlovičių ir Ivaną Sidoro-
+    vičių, ir bojarinus ir davė jiems Vy­
+    tautui žadėtą sidabrą. Jie važiavę į
+    Vilnių ir tapę Vytauto belaisviais ir
+    sidabro praradę 1 000 rublių, o jis,
+    niekšas, paėmė sidabrą ir belaisvius
+    tvirtovėje pasodino. Likus trims sa­
+    vaitėms iki Velykų, pskoviečiai pa­
+    siuntė pas Vytautą posadniką Sil­
+    vestrą Levontjevičių ir valdovo
+    vietininką Parfėjų ir už belaisvius
+    davė puspenkto šimto rublių, o si­
+    dabrą davė per Marijos Užtarėjos
+    dieną (spalio pirmą pagal Grigaliaus
+    kalendorių)].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­ mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną Sidorovičių, kurie, pakloję 1 000 sidabro.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
@@ -142,48 +174,9 @@ Nenurodyta
     kalendorių)].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jie važiavę į Vilnių ir tapę Vytauto belaisviais ir sidabro praradę 1 000 rublių, o jis, niekšas, paėmė sidabrą ir belaisvius tvirtovėje pasodino.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    [Pskoviečiai
-    pasiuntė pas didįjį kunigaikštį Jurgį
-    posadniką Timofejevičių ir bajorus,
-    kad siųstų savuosius bajorus pas Vy­
-    tautą ir nusilenktų už pskoviečius;
-    ir būsianti tada jam su kunigaikščiu
-    Jurgiu Didžiosios Kunigaikštystės
-    gynyba, bet tas visko atsisakė ir žie­
-    mai atsiuntė didysis kunigaikštis sa­
-    vo bajorus į Pskovą, ir pskoviečiai
-    su jais atsiuntė savo posadnikus Jo­
-    achimą Pavlovičių ir Ivaną Sidoro-
-    vičių, ir bojarinus ir davė jiems Vy­
-    tautui žadėtą sidabrą. Jie važiavę į
-    Vilnių ir tapę Vytauto belaisviais ir
-    sidabro praradę 1 000 rublių, o jis,
-    niekšas, paėmė sidabrą ir belaisvius
-    tvirtovėje pasodino. Likus trims sa­
-    vaitėms iki Velykų, pskoviečiai pa­
-    siuntė pas Vytautą posadniką Sil­
-    vestrą Levontjevičių ir valdovo
-    vietininką Parfėjų ir už belaisvius
-    davė puspenkto šimto rublių, o si­
-    dabrą davė per Marijos Užtarėjos
-    dieną (spalio pirmą pagal Grigaliaus
-    kalendorių)].
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

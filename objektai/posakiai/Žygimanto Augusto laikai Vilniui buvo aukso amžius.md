@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Žygimanto Augusto laikai Vilniui buvo aukso amžius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - posakis
@@ -25,13 +16,15 @@ tags:
 Žygimanto Augusto laikai Vilniui buvo aukso amžius, o jo mirtis - visuotinio sielvarto ir sunkios netekties diena.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Žygimanto Augusto laikai Vilniui buvo aukso amžius, o jo mirtis - visuotinio sielvarto ir sunkios netekties diena.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žygimanto Augusto laikai Vilniui buvo aukso amžius, o jo mirtis - visuotinio sielvarto ir sunkios netekties diena.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Žygimanto Augusto laikai Vilniui buvo aukso amžius, o
@@ -48,9 +41,7 @@ tags:
     atidavė Vilniaus jėzuitų kolegijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

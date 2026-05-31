@@ -1,26 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Biblioteka Warszawska steigimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1836 m.'
-  - '1841 m.'
   - '1847 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1836'
 date_end: '1847'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XIX'
 ---
 # Biblioteka Warszawska steigimas
 
@@ -29,26 +22,31 @@ tags:
 1841 m. jis tapo vienu iš enciklopedinio pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1841 m. jis tapo vienu iš enciklopedinio pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1841 m. jis tapo vienu iš enciklopedinio pobūdžio leidinio Biblioteka Warszawska steigėjų, parašė A.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Neturėdamas pakankamai pragy­
@@ -61,9 +59,7 @@ Nenurodyta
     dinį leidinį Senovės Lenkija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

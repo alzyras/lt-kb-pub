@@ -49,7 +49,6 @@ tags:
   teiginys: 'Archeologai ir priešistorės tyrėjai domėjosi ir Aukštadvario pilia­ kalniu (AkMD, t.'
   pagrindžia:
     - c-004
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasinės visuomenės susidarymas Lietuvoje {Remiantis archeologinių kasinėjimų duomenimis ) (VUMD, t.'
@@ -126,7 +125,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Kovos kirviai]]
 - [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/grupes/Lietuviai]]

@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Gebhardas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1243 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1243'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - mūšis
   - ordinas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Gebhardas
 
@@ -30,13 +26,15 @@ tags:
 Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis 373 Dusburgietis tokiais žodžiais, matyt, nori pabrėžti Karaliaučiaus, kaip atsparos punkto, svarbą Ordinui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Siame mūšyje brolis Gebhardas, kilęs iš Saksonijos, persekiojo kelis
@@ -53,9 +51,7 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
     pat keliu, kol sukniubo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

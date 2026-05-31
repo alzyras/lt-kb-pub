@@ -62,14 +62,14 @@ Nenurodyta
   teiginys: 'Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.'
   pagrindžia:
     - c-003
-- t-005
-  teiginys: '1383 m. kryžiuočiams puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -139,25 +139,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: '1383 m. kryžiuočiams puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau kiti, 1383 metai, atnešė Vilniui dar
-    didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
-    ma Ordino didžiojo magistro ir maršalo Konrado Valen­
-    rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti
-    Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­
-    kų pilį. Nepaisant įnirtingos gynybos, kelias dienas užsi­
-    tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­
-    versta pasiduoti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -182,6 +163,25 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau kiti, 1383 metai, atnešė Vilniui dar
+    didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
+    ma Ordino didžiojo magistro ir maršalo Konrado Valen­
+    rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti
+    Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­
+    kų pilį. Nepaisant įnirtingos gynybos, kelias dienas užsi­
+    tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­
+    versta pasiduoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -200,3 +200,5 @@ Nenurodyta
 - [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Jogaila]]
+- [[objektai/ivykiai/Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)]]
+- [[objektai/grupes/Vytauto šalininkai]]

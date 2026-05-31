@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Michailas Fiodorovičius Romanovas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1611 m.'
   - '1613 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1611'
 date_end: '1613'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Michailas Fiodorovičius Romanovas
 
@@ -28,16 +24,20 @@ tags:
 Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Romanovas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Michailas Fiodorovičius Romanovas 1613 m. Zemskinio susirinkimo buvo išrinktas caru.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Romanovas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Michailas Fiodorovičius Romanovas 1613 m. Zemskinio susirinkimo buvo išrinktas caru.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Caru tapo
@@ -46,13 +46,27 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
     įvykių metu 1611 m., po beveik 20 mėne-
     sių apsiausties, Lenkijos ir Lietuvos pajė-
     gos užėmė Smolenską.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Romanovas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jiems padėti nesugebėjo net Lenkijos-
+    Lietuvos valdovo apgultiesiems į pagalbą
+    atsiųstos Lietuvos didžiojo etmono Jono
+    Karolio Chodkevičiaus pajėgos. Caru tapo
+    1613 m. Zemskinio susirinkimo išrinktas
+    Michailas Fiodorovičius Romanovas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

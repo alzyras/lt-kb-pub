@@ -689,6 +689,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
 - [[objektai/ivykiai/Kroicburgo pilies sugriovimas (1263 m.)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]
 - [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
 - [[objektai/ivykiai/Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)]]

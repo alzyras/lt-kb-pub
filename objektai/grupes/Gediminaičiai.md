@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Gediminaičiai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dinastija
   - grupe
@@ -19,28 +16,55 @@ tags:
 Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Gediminaičių ir Jogailaičių
+    Pabaiga arba išbarstyti
+    Lietuvos veidai
+    D
+    aug ko Lietuva negalėjo sureikšminti pasauliui XIX–
+    XX a. Okupacijos ir aneksijos, tremtys, genocidai ir
+    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
+    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
+    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
     dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
     monarchijoms ir nuo to mes jaučiamės smagiau.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Okupacijos ir aneksijos, tremtys, genocidai ir
+    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
+    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
+    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
+    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
+    ninkų, audėjų, auklių, inžinierių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

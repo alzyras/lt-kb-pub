@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ona (Vytauto žmona)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - krikštas
@@ -27,16 +18,27 @@ tags:
 Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio duktė Julijo­ na -išpažino graikų apeigų tikėjimą ir Trakų pilyje, dar prieš Lietuvos krikštą, turėjo savo koplyčią, kurios pėdsakų šios pilies vienos sienos se­ novinėje tapyboje yra.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio duktė Julijo­ na -išpažino graikų apeigų tikėjimą ir Trakų pilyje, dar prieš Lietuvos krikštą, turėjo savo koplyčią, kurios pėdsakų šios pilies vienos sienos se­ novinėje tapyboje yra.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio duktė Julijo­ na -išpažino graikų apeigų tikėjimą ir Trakų pilyje, dar prieš Lietuvos krikštą, turėjo savo koplyčią, kurios pėdsakų šios pilies vienos sienos se­ novinėje tapyboje yra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    1. Jo žmonos - Smo­
+    Iš
+    vieno Vytauto dovanojimo akto Tra­
+    kų miestui, 1384 metų rugpjūčio 23
+    dieną rašyto, aišku, kaip tatai ir iš
+    istorijos žinoma, kad tuo metu jis jau
+    buvęs krikščionis, ką liudija patys
+    pirmieji to dokumento žodžiai:
+    „Mes, didysis kunigaikštis Vytautas,
+    švento krikšto metu gavęs Aleksan­
+    dro vardą" ir 1.1. Jo žmonos - Smo­
     lensko kunigaikštytė Ona, o kita -
     Algimanto Alšėniškio duktė Julijo­
     na -išpažino graikų apeigų tikėjimą
@@ -55,9 +57,7 @@ Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio 
     siškam jo nebuvimui86.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

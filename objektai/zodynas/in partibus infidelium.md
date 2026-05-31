@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'in partibus infidelium'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - pilis
@@ -27,13 +18,15 @@ tags:
 Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­ se].
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­ se].'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­ se].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Stanislo­
@@ -49,9 +42,7 @@ Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­ nių dar nebuvo n
     tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

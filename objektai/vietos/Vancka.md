@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Vancka'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1283 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1283'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - ordinas
   - pilis
   - privilegija
+amziai:
+  - 'XIII'
 ---
 # Vancka
 
@@ -30,16 +24,18 @@ tags:
 Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos kunigaikštystėje kraštą, vardu Vancka, kur.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Išklausęs abiejų šalių įrodymų,
+    įrodydamas, jog broliai turi  į jas neginčijamų teisių. Išklausęs abiejų šalių įrodymų,
     tas pats legatas, broliams atsižadėjus anksčiau minėtųjų privilegijų ir visų teisių į tuos
     turtus, sutaikė juos štai šiuo pagrindu: Teutonų ordino broliai pasiliksią sau Pomeranijos
     kunigaikštystėje kraštą, vardu Vancka, kur dabar stovi Mevės pilis, ir šitaip pasibaigsianti
@@ -48,8 +44,6 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
     po šiai dienai tebestovi508 Jėzaus Kristaus garbei ir šlovei.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

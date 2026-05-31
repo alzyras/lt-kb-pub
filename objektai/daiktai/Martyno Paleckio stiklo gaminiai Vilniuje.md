@@ -175,4 +175,5 @@ Nenurodyta
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Skyrai]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/ivykiai/Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)]]

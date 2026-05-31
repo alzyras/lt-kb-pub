@@ -124,3 +124,4 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Gardino seimas]]
+- [[objektai/grupes/Targovicos konfederacija]]

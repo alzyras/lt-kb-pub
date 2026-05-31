@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilijos upė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - pilis
@@ -27,17 +18,46 @@ tags:
 Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nederėtų, be
+    to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
+    mūsų valdinių per tą pačią upę kitose vietose statyti mažų
+    tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės
+    dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­
+    žiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime
+    uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­
+    namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš
+    mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­
+    mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­
+    nyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­
+    kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
+    aukščiau mūsų nurodytomis. O kadangi mes, kaip anksčiau
+    tvirtinome, skatinami gailesčio mūsų pavaldiniams, minėtą
+    tiltą pastatyti ir nutiesti įsakėme, taipgi ir jo muitą, arba mo­
+    kestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai
+    jau seniai mintyse paskyrėme.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo raštu
@@ -78,36 +98,6 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     varomas parduoti, - vienas denaras arba obolas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nederėtų, be
-    to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
-    mūsų valdinių per tą pačią upę kitose vietose statyti mažų
-    tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės
-    dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­
-    žiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime
-    uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­
-    namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš
-    mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­
-    mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­
-    nyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­
-    kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
-    aukščiau mūsų nurodytomis. O kadangi mes, kaip anksčiau
-    tvirtinome, skatinami gailesčio mūsų pavaldiniams, minėtą
-    tiltą pastatyti ir nutiesti įsakėme, taipgi ir jo muitą, arba mo­
-    kestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai
-    jau seniai mintyse paskyrėme.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Tikocinas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1345 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1345'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - pilis
   - upė
+amziai:
+  - 'XIV'
 ---
 # Tikocinas
 
@@ -30,54 +24,30 @@ tags:
 Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų. Taip pat ir apmušalai, kurie yra Tikocine arba kur kitur atsiras, Flandrijos užtiesalai iš aukso arba su figū­ romis ir paprasto darbo, taip pat auksu atausti, aksominiai bei kiti šilkiniai apmušalai ir suolų užtiesalai, bet kokie špaleriai iš kamarų. Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Taip pat ir apmušalai, kurie yra Tikocine arba kur kitur atsiras, Flandrijos užtiesalai iš aukso arba su figū­ romis ir paprasto darbo, taip pat auksu atausti, aksominiai bei kiti šilkiniai apmušalai ir suolų užtiesalai, bet kokie špaleriai iš kamarų.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Taip pat Lietuvoje esančius ir kur kitur paveda­ me Lietuvos Kunigaikštystei, bet tie, kurie yra Tikocine ir visi ginklai bei karinė amunicija privalo ten likti kaip mūsų nuosavoje pilyje.'
   pagrindžia:
     - c-004
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    - medinės bažnyčios ir bazilijo­
-    nų vienuolyno įkūrimą Vilniuje pri­
-    skiria Vitebsko kunigaikštytei Juli-
-    27
 
-    ## Puslapis 44
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
-    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
-    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
-    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
-    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
-    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
-    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
-    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
-    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
-    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-003
+  teiginys: 'Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.'
   pagrindžia:
-    - t-001
+    - c-003
+
+- t-002
+  teiginys: 'Taip pat ir apmušalai, kurie yra Tikocine arba kur kitur atsiras, Flandrijos užtiesalai iš aukso arba su figū­ romis ir paprasto darbo, taip pat auksu atausti, aksominiai bei kiti šilkiniai apmušalai ir suolų užtiesalai, bet kokie špaleriai iš kamarų.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Taip pat ir apmušalai, kurie yra Tikocine arba kur kitur atsiras, Flandrijos užtiesalai iš aukso arba su figū­ romis ir paprasto darbo, taip pat auksu atausti, aksominiai bei kiti šilkiniai apmušalai ir suolų užtiesalai, bet kokie špaleriai iš kamarų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat mūsų
@@ -123,13 +93,11 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     lygiomis kiekviena savo dalį taikiai su kitomis pasiimtų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiai bažnyčiai visą bažnytinį auksą,
@@ -148,13 +116,11 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     pono mūsų tėvo švento atminimo karaliaus kūnas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Taip pat Lietuvoje esančius ir kur kitur paveda­ me Lietuvos Kunigaikštystei, bet tie, kurie yra Tikocine ir visi ginklai bei karinė amunicija privalo ten likti kaip mūsų nuosavoje pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Visus bet kokio pavadinimo pabūklus, ar-
@@ -169,8 +135,34 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     nai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    T. Il,
+    9. - medinės bažnyčios ir bazilijo­
+    nų vienuolyno įkūrimą Vilniuje pri­
+    skiria Vitebsko kunigaikštytei Juli-
+    27
+
+    ## Puslapis 44
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
+    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
+    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
+    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
+    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
+    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
+    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
+    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
+    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
+    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001

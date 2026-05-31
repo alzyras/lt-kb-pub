@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'leno teisė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karas
@@ -28,13 +18,15 @@ tags:
 Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio
@@ -46,9 +38,7 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
     kyklos ir jų triviumas, kolegijos ir universitetas).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

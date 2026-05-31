@@ -1,15 +1,15 @@
 ---
 tipas: kokybės auditas
 pavadinimas: 'Aprėpties spragų auditas - Lietuvos istorija (2013 m.) - 2026-05-14'
-statusas: reikia tęsti
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
-# Coverage gap auditas
+# Aprėpties spragų auditas - Lietuvos istorija (2013 m.) - 2026-05-14
 
 ## Vykdymo metaduomenys
+
 - knyga: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
 - source_file: `darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md`
 - data_ir_laikas: 2026-05-14 04:39 EEST
@@ -18,9 +18,11 @@ atnaujinta: ''
 - kandidatų_šaknis: `darbas/tmp/candidates`
 
 ## Bendras verdiktas
+
 Kandidatų aprėptis dar nėra baigta. Ledžeryje šiam šaltiniui yra 3553 deduplikuoti įrašai: 2584 `unused` ir 969 `unclear`. Viešuose objektų įrašuose rasta tik 56 pastabos, kuriose yra šio šaltinio nuoroda, todėl didžioji dalis kūno įrodymų liko neperkelta į `t-*` teiginius ir `c-*` citatas. Tai nėra tik mažų kandidatų likutis: nepadengtos pagrindinės žmonių, įvykių, vietų, grupių, šaltinių ir plačių socialinių praktikų grupės.
 
 ## Nepadengta svarbi medžiaga
+
 - quote_id: `c-49655`
   kandidato_quote_id: `mikalojus-akelaitis-0030`
   kategorija: asmuo / autorius
@@ -61,6 +63,7 @@ Kandidatų aprėptis dar nėra baigta. Ledžeryje šiam šaltiniui yra 3553 dedu
     galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.
 
 ## Kategorijų aprėpties santrauka
+
 | kategorija | kandidatai | public įrašai | audite / praleista | boundary_conflicts | statusas |
 |---|---:|---:|---:|---:|---|
 | authors | 160 | 4 | 156 | 30 | Neužbaigta: padengti tik keturi pagrindiniai autoriai. |
@@ -77,6 +80,7 @@ Kandidatų aprėptis dar nėra baigta. Ledžeryje šiam šaltiniui yra 3553 dedu
 Visos tikėtinos produkcinės kategorijos turi kandidatų failus; workflow gap dėl trūkstamo kategorijos failo nefiksuotas.
 
 ## Sąmoningai praleista
+
 - quote_id: `palemonas-kunas-spera-barkas`
   priežastis: legendinis kontekstas; ankstesniame dviprasmių žmonių audite pažymėta, kad tai neturi būti keliama į patvirtintus istorinių asmenų įrašus.
 - quote_id: `zivinbudas-dausprungas`
@@ -87,12 +91,14 @@ Visos tikėtinos produkcinės kategorijos turi kandidatų failus; workflow gap d
   priežastis: vienvardžio asmens tapatybė nesutampa mechaniškai su esamu `Kristijonas.md`; reikia atskiro tapatybės remonto arba disambiguoto įrašo.
 
 ## Dubliai
+
 - quote_id: `alfonsas-eidintas-0001` / `alfonsas-eidintas-0004` / `alfonsas-eidintas-0042`
   dubliuoja: titulinio bloko ir autorių teisių medžiaga kartojasi autorių ir šaltinio kandidatuose; viešai reikia vienos citatos su keliomis `pagrindžia` nuorodomis.
 - quote_id: `chunk-0001-liublino-unijos-aktas-1569-m-0005`
   dubliuoja: turinio ir datų lokatoriaus įrašus; juos pakeičia stipresnis `chunk_0003` kūno įrodymas.
 
 ## Ribų konfliktai
+
 - kandidatas: Vidurio Europa
   galimos kategorijos: zodynas; vieta
   pasirinkta pirminė kategorija: zodynas
@@ -108,7 +114,3 @@ Visos tikėtinos produkcinės kategorijos turi kandidatų failus; workflow gap d
   pasirinkta pirminė kategorija: paprotys
   reikalingas cross-link: galimas
   pastaba: šaltinis aprašo pasikartojančią politinę praktiką, ne vieną datuotą įvykį.
-
-## Teiginiai
-
-## Reikšmingi paminėjimai

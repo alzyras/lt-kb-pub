@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Petras (Vilniaus vyskupas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -27,16 +18,19 @@ tags:
 Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­ nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas Janas Kropidła iš Jogailos svitos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­ nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas Janas Kropidła iš Jogailos svitos.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­ nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas Janas Kropidła iš Jogailos svitos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    ) mirė Vytauto žmona Ona, kuri kadaise di­
+    Kai
+    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
     džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
     lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
     dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
@@ -54,9 +48,7 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
     daugelis dažnai buvodavo jo rūmuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

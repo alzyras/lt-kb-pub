@@ -60,10 +60,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginys: 'Kai Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­ džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­ lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­ dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono Algimantaičio.'
   pagrindžia:
     - c-006
-- t-007
-  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
-  pagrindžia:
-    - c-007
 - t-008
   teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
   pagrindžia:
@@ -72,6 +68,10 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginys: 'Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva butų pakrikštyta lotynų apeigomis.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -175,27 +175,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ,
-    po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
-    lono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.
-    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
-    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
-    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
-    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
-    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
-    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos. Ordi­
-    nas gi pasižadėjo duoti Jogailai per tuos 4 met.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-008
   santrauka: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -231,6 +210,27 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ,
+    po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
+    lono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
+    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos. Ordi­
+    nas gi pasižadėjo duoti Jogailai per tuos 4 met.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -240,7 +240,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lotynai]]
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]

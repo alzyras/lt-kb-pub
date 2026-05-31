@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Sūduvių žygis į Notangą ir jų išblaškymas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
@@ -25,18 +16,23 @@ tags:
 Dusburgietis teigia, kad apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.'
   pagrindžia:
@@ -44,8 +40,21 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
+    palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
+    Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
+    sužeidė, o kiti gėdingai pabėgo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie sūduvių pabėgimą
@@ -61,26 +70,25 @@ Nenurodyta
        201 (196).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Sūduvių žygis į Notangą ir jų išblaškymas papildomas patvirtintas šaltinio paminėjimas.
+
+- c-003
+  santrauka: 'Dusburgietis teigia, kad apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
+    200 (195). Apie sūduvių pabėgimą
+
+      Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su
     palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė.
     Broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai
     sužeidė, o kiti gėdingai pabėgo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

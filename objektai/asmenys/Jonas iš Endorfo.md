@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas iš Endorfo'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1330 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1330'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - tauta
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jonas iš Endorfo
 
@@ -29,16 +25,18 @@ tags:
 Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio 18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo paties nedorybių, nužudė brolį Vernerį, didįjį magistrą.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie didžiojo magistro mirtį
+    20. Apie didžiojo magistro mirtį
 
       Mūsų jau minėtais metais, būtent 1330, žiemą, per švento Martyno oktavą (lapkričio
     18), Teutonų ordino brolis Jonas iš Endorfo, saksų tautybės, sugundytas velnio bei savo
@@ -49,9 +47,7 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
     Lenkijos bendradarbiavimui, Gediminas grįžo  į Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

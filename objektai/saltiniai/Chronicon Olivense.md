@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Chronicon Olivense'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - popiežius
   - saltinis
@@ -25,13 +16,15 @@ tags:
 Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartberge (SRP I, 681 ; II, 33 34).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartberge (SRP I, 681 ; II, 33 34).'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartberge (SRP I, 681 ; II, 33 34).'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bei Saule — wohl Schaulen in Litauen — wurde das Ordensheer von
@@ -42,8 +35,6 @@ Tokius pat skaičius užrašė Chronicon Olivense ir Chronicon Hermanui de Wartb
     de Wartberge (SRP I, 681 ; II, 33 34).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

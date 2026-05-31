@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Nenugalimosios armados nesėkmė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1588 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1588'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
+amziai:
+  - 'XVI'
 ---
 # Nenugalimosios armados nesėkmė
 
@@ -28,26 +22,31 @@ tags:
 Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ispanijos galybės saulėlydį ženklino Nenugalimosios armados nesėkmė 1588 m. Nors jai išsilaipinti Anglijoje sutrukdė atsitiktinė audra, žygio Ispanija nekartojo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Viena priežasčių, dėl kurių Ispanija
@@ -58,9 +57,7 @@ Nenurodyta
     žygio Ispanija nekartojo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

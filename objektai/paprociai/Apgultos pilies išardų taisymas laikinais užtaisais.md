@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Apgultos pilies išardų taisymas laikinais užtaisais'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - kunigaikštis
@@ -27,29 +18,35 @@ tags:
 35 Stryjkowski loco cit., plačiai aprašinėdamas Vilniaus apgultį, taip svarsto apie Moskoževskio gy­ nybą Aukštutinėje pilyje: „Aukštu­ tinę pilį lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu narsiai gynė, tad nei padegdami Žemutinę pilį, nei grasinimais.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '35 Stryjkowski loco cit., plačiai aprašinėdamas Vilniaus apgultį, taip svarsto apie Moskoževskio gy­ nybą Aukštutinėje pilyje: „Aukštu­ tinę pilį lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu narsiai gynė, tad nei padegdami Žemutinę pilį, nei grasinimais.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '35 Stryjkowski loco cit., plačiai aprašinėdamas Vilniaus apgultį, taip svarsto apie Moskoževskio gy­ nybą Aukštutinėje pilyje: „Aukštu­ tinę pilį lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu narsiai gynė, tad nei padegdami Žemutinę pilį, nei grasinimais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     35
@@ -92,9 +89,7 @@ Nenurodyta
     Długosz Histor.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

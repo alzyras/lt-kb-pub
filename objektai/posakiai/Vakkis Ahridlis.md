@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Vakkis Ahridlis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
@@ -25,16 +16,20 @@ tags:
 Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų jų kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių, nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Vakkis Ahridlis“ siejamas su žemaičių prašymu Vytautui neatiduoti jų kryžiuočiams ir neatplėšti nuo kitų lietuvių.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų jų kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių, nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Vakkis Ahridlis“ siejamas su žemaičių prašymu Vytautui neatiduoti jų kryžiuočiams ir neatplėšti nuo kitų lietuvių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Primindami
@@ -42,17 +37,33 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
     kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių,
     nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
     Šitaip buvo aiškinama ir « Žemaičiu skunde » Konstancoje 36 * 38.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų jų kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių, nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dubysos rajone
+    Vytautas vėl pasirodė su karine jėga, kurioje buvo rusų ir lenkų.
+    Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Primindami
+    savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų jų
+    kryžiuočiams — « Vakkis Ahridlis » ir neatplėštų nuo kitų lietuvių,
+    nes žemaičiai esą tos pačios tautos, tos pat kalbos ir papročių^35.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/grupes/Lietuviai]]

@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Patrikas, arba Patricijus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1348 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1348'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Patrikas, arba Patricijus
 
@@ -28,16 +24,19 @@ tags:
 Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka jį prie Algirdo brolių pri­ skirdamas, ir žinome iš Rusios met­ raštininkų, kad jis Didįjį Naugardą valdęs iki 1348 m.; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka jį prie Algirdo brolių pri­ skirdamas, ir žinome iš Rusios met­ raštininkų, kad jis Didįjį Naugardą valdęs iki 1348 m.; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka jį prie Algirdo brolių pri­ skirdamas, ir žinome iš Rusios met­ raštininkų, kad jis Didįjį Naugardą valdęs iki 1348 m.; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Bet, regis, visa tai yra prasima­
+    V,
+    135. Bet, regis, visa tai yra prasima­
     nymas. Bent jau apie Narimantą kal­
     bant, pirmiausia, Dlugošas, žinia,
     apsirinka jį prie Algirdo brolių pri­
@@ -50,12 +49,11 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
     ir Rusios bei Ladogos kunigaikštis
     Simonas Lungvinas, arba tiksliau
     Lengvenis, Lietuvos kunigaikštis,
-    Algirdo sūnus: žr.
+    Algirdo sūnus: žr. D a n i L, Kronika
+    Ruška pr 206.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

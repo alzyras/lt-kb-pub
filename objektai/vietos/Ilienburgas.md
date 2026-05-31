@@ -1,34 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Ilienburgas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1319 m.'
-  - '1326 m.'
-  - '1339 m.'
-  - '1340 m.'
-  - '1347 m.'
-  - '1348 m.'
-  - '1350 m.'
   - '1351 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1319'
 date_end: '1351'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Ilienburgas
 
@@ -37,38 +25,20 @@ tags:
 Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595. Dusburgietis teigia, kad 595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB, 3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351 m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab. Dąbrówno).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad 595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB, 3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351 m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab. Dąbrówno).'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Be
-    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
-    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
-    Ilienburgo [Ilijos] pilies595.
 
-
-
-
-
-      593 D.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad 595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB, 3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351 m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab. Dąbrówno).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
@@ -79,8 +49,27 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
     p. 473; Ambrassat A., Die Provinz..., p. 421).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
+    leidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,
+    santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be
+    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
+    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
+    Ilienburgo [Ilijos] pilies595.
+
+
+
+
+
+      593 D.— Says, Jer.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001

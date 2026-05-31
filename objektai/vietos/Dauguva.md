@@ -78,26 +78,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
-  pagrindžia:
-    - c-008
-- t-009
-  teiginys: 'Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėjusiam Dauguvos upe per Rygą.'
-  pagrindžia:
-    - c-009
-- t-010
-  teiginys: 'Radęs pilį išplėštą ir pagrobtą šeimą, Gerdenis^218 , padedamas kunigaikščių Gatarto, Liumbkio ir Liugailos (Hotort, Lumbej, Luhailo), su 700 vyrų prie Dauguvos susitiko Pskovan grįžtantį Daumantą (1266.'
-  pagrindžia:
-    - c-010
-- t-011
-  teiginys: 'Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė ordino kariuomenę.'
-  pagrindžia:
-    - c-011
-- t-012
-  teiginys: 'Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst) įteka į Dauguvą».'
-  pagrindžia:
-    - c-012
 - t-013
   teiginys: '2 ## Puslapis 19 [tuščias arba OCR neatpažino teksto] ## Puslapis 20 NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS Baltų gentys Pirmajame tūkstantmetyje po Kristaus baltų gentys ir toliau gyveno plačioje teritorijoje - nuo maždaug Vyslos ir Dauguvos žemupių iki.'
   pagrindžia:
@@ -114,7 +94,26 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   teiginys: 'II brigada 28 d. pralaužė gynybą ir privertė bolševikus trauktis už Dauguvos.'
   pagrindžia:
     - c-016
-
+- t-017
+  teiginys: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėjusiam Dauguvos upe per Rygą.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Radęs pilį išplėštą ir pagrobtą šeimą, Gerdenis^218 , padedamas kunigaikščių Gatarto, Liumbkio ir Liugailos (Hotort, Lumbej, Luhailo), su 700 vyrų prie Dauguvos susitiko Pskovan grįžtantį Daumantą (1266.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė ordino kariuomenę.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst) įteka į Dauguvą».'
+  pagrindžia:
+    - c-021
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
@@ -263,84 +262,6 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
-- c-008
-  santrauka: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo tarpu Treniota su žemaičiais žygiavo
-    tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
-    Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
-    Tai buvo tik siaubiamieji, o ne užkariaujamieji žygiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: 'Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėjusiam Dauguvos upe per Rygą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėju-
-    siam Dauguvos upe per Rygą. Kai 1621 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: 'Radęs pilį išplėštą ir pagrobtą šeimą, Gerdenis^218 , padedamas kunigaikščių Gatarto, Liumbkio ir Liugailos (Hotort, Lumbej, Luhailo), su 700 vyrų prie Dauguvos susitiko Pskovan grįžtantį Daumantą (1266.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Radęs pilį išplėštą ir pagrobtą šeimą,
-    Gerdenis^218 , padedamas kunigaikščių Gatarto, Liumbkio ir Liugailos
-    (Hotort, Lumbej, Luhailo), su 700 vyrų prie Dauguvos susitiko
-    Pskovan grįžtantį Daumantą (1266. VI). Gerdenis pralaimėjo ir tik
-    su likučiais išsigelbėjo, o kitame Daumanto žygyje į Nalšėnus (1267
-    m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-011
-  santrauka: 'Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė ordino kariuomenę.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė
-    ordino kariuomenę. Kruvinose kautynėse (III. 5 d.), iš kurių kry­
-    žiuočių nelaimei pasitraukė žiemgaliai^238 , žuvo pats magistras ir 71
-    ordino riteris^239.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-012
-  santrauka: 'Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst) įteka į Dauguvą».'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena
-    buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki
-    vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst)
-    įteka į Dauguvą». Vedant sieną tos upės krantu «tolyn į Ru­
-    siją »^10 , Lietuvos valstybėn buvo norima įjungti ne tik Kuršą,
-
-    (^7) **A.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
 - c-013
   santrauka: '2 ## Puslapis 19 [tuščias arba OCR neatpažino teksto] ## Puslapis 20 NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS Baltų gentys Pirmajame tūkstantmetyje po Kristaus baltų gentys ir toliau gyveno plačioje teritorijoje - nuo maždaug Vyslos ir Dauguvos žemupių iki.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -423,3 +344,86 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet, neatvykus Naugardo ka-
+    riuomenei, jis neįstengė paimti pilies ir, grįžęs namo, daugiau su
+    ordinu nebekariavo. Tuo tarpu Treniota su žemaičiais žygiavo
+    tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
+    Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
+    Tai buvo tik siaubiamieji, o ne užkariaujamieji žygiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėjusiam Dauguvos upe per Rygą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ), muitų tvarkyme
+    jau nebepriklausė karaliaus.
+    Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėju-
+    siam Dauguvos upe per Rygą. Kai 1621 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Radęs pilį išplėštą ir pagrobtą šeimą, Gerdenis^218 , padedamas kunigaikščių Gatarto, Liumbkio ir Liugailos (Hotort, Lumbej, Luhailo), su 700 vyrų prie Dauguvos susitiko Pskovan grįžtantį Daumantą (1266.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ) užsiliepsnojo karas. Radęs pilį išplėštą ir pagrobtą šeimą,
+    Gerdenis^218 , padedamas kunigaikščių Gatarto, Liumbkio ir Liugailos
+    (Hotort, Lumbej, Luhailo), su 700 vyrų prie Dauguvos susitiko
+    Pskovan grįžtantį Daumantą (1266. VI).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė ordino kariuomenę.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Prie Aizkrauklės (Ascheraden, ant Dauguvos kranto), jie užpuolė
+    ordino kariuomenę. Kruvinose kautynėse (III. 5 d.), iš kurių kry­
+    žiuočių nelaimei pasitraukė žiemgaliai^238 , žuvo pats magistras ir 71
+    ordino riteris^239.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst) įteka į Dauguvą».'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Per Prūsus, Lietuvai
+    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
+    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
+    Aistmarių. Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena
+    buvo užbrėžta nuo Dauguvos žiočių, jos krantu tolyn į rytus, «iki
+    vietos, kur iš Liubano ežero ištekanti upė (= Aiviekstė, Ewst)
+    įteka į Dauguvą». Vedant sieną tos upės krantu «tolyn į Ru­
+    siją »^10 , Lietuvos valstybėn buvo norima įjungti ne tik Kuršą,
+
+    (^7) **A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021

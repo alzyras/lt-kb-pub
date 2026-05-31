@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Pilininkas capitaneus seniūnas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1385 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1385'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - mūšis
   - pilis
   - sąvoka
+amziai:
+  - 'XIV'
 ---
 # Pilininkas capitaneus seniūnas
 
@@ -30,17 +24,20 @@ tags:
 Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Capitaneus Vilnensis [Hanka - Vilniaus seniūnas]. Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Capitaneus Vilnensis [Hanka - Vilniaus seniūnas].'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Capitaneus Vilnensis [Hanka - Vilniaus seniūnas].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta­
@@ -60,16 +57,14 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
     seniūnas].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    370-374. Re­
+    T. VII, p. 370-374. Re­
     gis, iš jo kilusi Hanulu giminė, kurių
     36
 
@@ -85,9 +80,7 @@ Mer­ gelės Ėmimo į dangų išvakarėse, 1385], yra taip vadinamas: Hanko Cap
     nių, turėjo slėptis Trakų pilyje34.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

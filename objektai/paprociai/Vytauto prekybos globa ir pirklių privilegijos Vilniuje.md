@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vytauto prekybos globa ir pirklių privilegijos Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - kraštas
@@ -27,33 +18,40 @@ tags:
 Veržli Vytauto prigimtis neleido jam ilgai išbūti už­ siėmus taikiais reikalais; amžinos kovos su Rusios kunigaikš­ čiais ir totorių ordos chanais, įtempti karai su dar nenumaldytais kryžiuočiais vertė šį šiaurės krašto karžygį pakelti kardą čia vienoje. Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo nukeltos valstybės sienos, jo narsa sutramdyti priešai, kas lėmė Vilniui visišką ramybę.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Veržli Vytauto prigimtis neleido jam ilgai išbūti už­ siėmus taikiais reikalais; amžinos kovos su Rusios kunigaikš­ čiais ir totorių ordos chanais, įtempti karai su dar nenumaldytais kryžiuočiais vertė šį šiaurės krašto karžygį pakelti kardą čia vienoje.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo nukeltos valstybės sienos, jo narsa sutramdyti priešai, kas lėmė Vilniui visišką ramybę.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Veržli Vytauto prigimtis neleido jam ilgai išbūti už­ siėmus taikiais reikalais; amžinos kovos su Rusios kunigaikš­ čiais ir totorių ordos chanais, įtempti karai su dar nenumaldytais kryžiuočiais vertė šį šiaurės krašto karžygį pakelti kardą čia vienoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Veržli Vytauto prigimtis neleido jam ilgai išbūti už­
@@ -73,13 +71,11 @@ Nenurodyta
     kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­ odą, toli buvo nukeltos valstybės sienos, jo narsa sutramdyti priešai, kas lėmė Vilniui visišką ramybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau nuo to laiko ir per visą ilgą Vytauto viešpatavimo peri­
@@ -96,9 +92,7 @@ Nenurodyta
     dymą buvo pavedęs Skirgailai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

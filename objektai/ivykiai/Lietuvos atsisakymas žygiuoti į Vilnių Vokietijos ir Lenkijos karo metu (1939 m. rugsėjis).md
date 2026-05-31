@@ -108,7 +108,6 @@ Nenurodyta
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Jaunieji tautininkai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/zodynas/žygis]]

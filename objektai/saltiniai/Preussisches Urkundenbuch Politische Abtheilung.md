@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Preussisches Urkundenbuch Politische Abtheilung'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -18,31 +15,16 @@ datos:
   - '1345 m.'
   - '1346 m.'
   - '1351 m.'
-  - '1882 m.'
-  - '1909 m.'
-  - '1935 m.'
-  - '1937 m.'
-  - '1939 m.'
-  - '1944 m.'
-  - '1958 m.'
-  - '1960 m.'
-  - '1961 m.'
   - '1975 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XIII'
-  - 'XIV'
-  - 'XIX'
-  - 'XX'
 date_start: '1140'
 date_end: '1975'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XII'
+  - 'XX'
 ---
 # Preussisches Urkundenbuch Politische Abtheilung
 
@@ -51,13 +33,15 @@ tags:
 Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1. Erste Hälfte (1140—1257)
@@ -70,8 +54,6 @@ Dusburgietis teigia, kad preussisches Urkundenbuch: Politische Abtheilung.—Bd.
     (1346—1351) /Н. Koeppen.— Marburg, 1960.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

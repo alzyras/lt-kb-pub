@@ -1,21 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Melchizedekas (kunigas)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Melchizedekas'
-aliases:
-  - 'Melchizedekas'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -28,16 +17,22 @@ tags:
 Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Štai ir senajame
+    Tu sodinai jo daigus,  ir jis
+    iškerojo žemėje, tu vėliau  jį persodinai ir išvijai stabmeldžius [gentes] iš Prūsijos bei
+    Livonijos, tu jį ten įdiegei, ir štai čia jis suvešėjo, leisdamas savo atžalas ligi pat jūros, o
+    savo metūgius ligi pat upės. Si garbinga kariuomenė stiprėjo ne tik todėl, kad žemėje į
+    ją būrėsi žmonės, jos likimą lėmė visokiausi dangaus ir žemės ženklai. Štai ir senajame
     testamente (Pr 14) skaitome, kad didysis patriarchas Abraomas su 318 savo tarnų ištisus
     metus kovojo dėl savo dievobaimingo brolio laisvės ir nekaltojo kalinio sugrąžinimo; kai
     jis grįžo iš karalių žudynių, karalius bei kunigas Melchizedekas padovanojo patriarchui
@@ -45,9 +40,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
     priešai atsidūrė jo rankose.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

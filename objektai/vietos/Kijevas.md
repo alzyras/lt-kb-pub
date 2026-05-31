@@ -314,6 +314,10 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   teiginys: 'Jis rūpinosi, kad šiam naujajam patriarchui priklausytų Kijevo metropolitas, kuriuo tuomet buvo Ragoza.'
   pagrindžia:
     - c-067
+- t-068
+  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  pagrindžia:
+    - c-068
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -1426,3 +1430,17 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-067
+- c-068
+  santrauka: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-068

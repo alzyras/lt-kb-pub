@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Szomoyth Auxtote'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - sąvoka
@@ -25,13 +16,15 @@ tags:
 Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, kaip ir Lietu­ vos žemė: juk ta pati kalba ir tie pa­ tys žmonės; tik dėl to, kad žemaičių žemė yra žemesnė už Lietuvos že­ mę, todėl ir vadinama Szomoyth, kas lietuviškai reiškia -.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, kaip ir Lietu­ vos žemė: juk ta pati kalba ir tie pa­ tys žmonės; tik dėl to, kad žemaičių žemė yra žemesnė už Lietuvos že­ mę, todėl ir vadinama Szomoyth, kas lietuviškai reiškia -.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, kaip ir Lietu­ vos žemė: juk ta pati kalba ir tie pa­ tys žmonės; tik dėl to, kad žemaičių žemė yra žemesnė už Lietuvos že­ mę, todėl ir vadinama Szomoyth, kas lietuviškai reiškia -.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai reiškia:
@@ -58,9 +51,7 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
     kos ir buvo jų vadinamas A ust u rweg.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

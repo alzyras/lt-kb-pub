@@ -1,42 +1,42 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vilniaus miesto planas Jogailos laikais'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1387 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1387'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigas
   - miestas
   - ordinas
   - saltinis
+amziai:
+  - 'XIV'
 ---
 # Vilniaus miesto planas Jogailos laikais
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 217 Il KNYGA VI VILNIAUS MIESTO PLANAS JOGAILOS LAIKAIS, PRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ 1.
 
+Nenurodyta
+
 ## Teiginiai
+
 - t-001
   teiginys: '## Puslapis 217 Il KNYGA VI VILNIAUS MIESTO PLANAS JOGAILOS LAIKAIS, PRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ 1.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '## Puslapis 217 Il KNYGA VI VILNIAUS MIESTO PLANAS JOGAILOS LAIKAIS, PRIEŠ KRIKŠČIONYBĖS PRIĖMIMĄ 1.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 217
@@ -74,8 +74,6 @@ tags:
     vyskupui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Egerbergas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Egerbergas
 
@@ -28,13 +24,15 @@ tags:
 Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas su stipriu pulku kilmingų karių ir vasalų iš Čekijos bei Pareinio žemių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas su stipriu pulku kilmingų karių ir vasalų iš Čekijos bei Pareinio žemių.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas su stipriu pulku kilmingų karių ir vasalų iš Čekijos bei Pareinio žemių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     67
@@ -50,9 +48,7 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
     tuviais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

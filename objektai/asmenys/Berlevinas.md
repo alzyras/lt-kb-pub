@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Berlevinas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
@@ -25,16 +16,21 @@ tags:
 Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Šiam sumanymui pasipriešino
+    Apie tai sužinoję, Kulmo pilies broliai pasekė
+    juos su 400 vyrų, ir, kai pusė netikėlių kariuomenės buvo perėjusi minėtąją pelkę, brolis
+    Ditrichas, buvęs maršalas, pasiūlė užpulti likusiąją jų dalį, tikindamas, kad ji būsianti
+    išžudyta anksčiau, nei kiti suskubs grįžti jai  į pagalbą. Šiam sumanymui pasipriešino
     brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes
     jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo
     ir, drąsiai užgriuvę jų priekinius būrius, bematant privertė bėgti. Juos persekiodami,
@@ -43,9 +39,7 @@ Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas
     kovą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

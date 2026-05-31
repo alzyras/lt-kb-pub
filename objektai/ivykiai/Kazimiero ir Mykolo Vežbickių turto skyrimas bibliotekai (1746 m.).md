@@ -1,24 +1,18 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1746 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1746'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
+amziai:
+  - 'XVIII'
 ---
 # Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.)
 
@@ -27,29 +21,38 @@ tags:
 Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­ reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po 100 auksinų kolegija duotų knygoms įsigyti; tad šie.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­ reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po 100 auksinų kolegija duotų knygoms įsigyti; tad šie.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­ reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po 100 auksinų kolegija duotų knygoms įsigyti; tad šie.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Jo Karališkosios Didenybės
+    F) Žinios apie Bibliotekai funduotus
+    pradinius turtus ir pajamas
+    Savo gyvavimo pradžioje biblioteka neturėjo jokių lėšų,
+    tik laikui bėgant iš įvairių Societatis JESU asmenų įgijo; taigi:
+    1623 metų rugpjūčio 13 diena. Jo Karališkosios Didenybės
     sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą
     Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­
     reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po
@@ -67,12 +70,12 @@ Nenurodyta
     Il KNYGA
     gatvėje, Žuvų turgavietės gale, taip pat sklypus Užupyje,
     su maloningųjų Kauno tėvų jėzuitų kolegijos pastatais, pir­
-    kę už 3 750 auks.
+    kę už 3 750 auks. sumą, bibliotekai skyrė lėšų tiek iš mūri­
+    nių namų, tiek ir iš sklypų pelnomų, jas užrašė bibliotekai
+    knygų gausinimo dėlei.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

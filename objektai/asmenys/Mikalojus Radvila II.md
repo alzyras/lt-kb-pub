@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mikalojus Radvila II'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -25,17 +16,20 @@ tags:
 Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51. Tais pačiais metais Mikalojus Rad­ vila II, Goniondzo ir Medilo kuni­ gaikštis, Vilniaus vaivada, sugriovus tuos pastatus, savo lėšomis naujai pamūrijo bernardinų bažnyčią, pa­ vadintą Šv.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tais pačiais metais Mikalojus Rad­ vila II, Goniondzo ir Medilo kuni­ gaikštis, Vilniaus vaivada, sugriovus tuos pastatus, savo lėšomis naujai pamūrijo bernardinų bažnyčią, pa­ vadintą Šv.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dva­
@@ -48,13 +42,11 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
     tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tais pačiais metais Mikalojus Rad­ vila II, Goniondzo ir Medilo kuni­ gaikštis, Vilniaus vaivada, sugriovus tuos pastatus, savo lėšomis naujai pamūrijo bernardinų bažnyčią, pa­ vadintą Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais pačiais metais Mikalojus Rad­
@@ -66,9 +58,7 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
     vardu. MSS. Klasztorne.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

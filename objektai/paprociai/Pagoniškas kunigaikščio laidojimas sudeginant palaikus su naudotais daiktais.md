@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - ordinas
@@ -27,58 +18,47 @@ tags:
 To garbingo karžygio palaikai Skir­ gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­ rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­ vo37. 37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'To garbingo karžygio palaikai Skir­ gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­ rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­ vo37.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'To garbingo karžygio palaikai Skir­ gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­ rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­ vo37.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tačiau, apsuptas išdavikų,
-    buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
-    tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių
-    budelių pasmaugtas36. To garbingo karžygio palaikai Skir­
-    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
-    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
-    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
-    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
-    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
-    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
-    neišvengiamos pražūties.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tačiau ir tai negalėjo pasotinti go­
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­
     duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
     36
     Klausimas, ar Kęstutis pats pasirin­
@@ -103,11 +83,29 @@ Nenurodyta
     žmonių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau, apsuptas išdavikų,
+    buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
+    tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių
+    budelių pasmaugtas36. To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

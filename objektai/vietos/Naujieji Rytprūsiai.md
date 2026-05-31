@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Naujieji Rytprūsiai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -18,25 +15,37 @@ tags:
 Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą
     gautąsias žemes pavadino Naujaisiais Rytprūsiais.
     Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytprūsiais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Užnemunė Prūsų valdžioje ir Lenkų karalystėje
+
+    **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą
+    gautąsias žemes pavadino Naujaisiais Rytprūsiais.
+    Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1389 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1389'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karalius
   - paprotys
   - popiežius
+amziai:
+  - 'XIV'
 ---
 # Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi
 
@@ -30,33 +24,40 @@ tags:
 Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19. Strijkovskis ir Koj e- 1 a v i č i u s apie tą gudrybę pana­ šiai mena, pridurdami, kad Vytau­ tas paleidęs gandą, esą atvykęs į Vil­ nių rengti savo sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku iškilmių, kas panašiau į tie­ są negu tai, apie.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Strijkovskis ir Koj e- 1 a v i č i u s apie tą gudrybę pana­ šiai mena, pridurdami, kad Vytau­ tas paleidęs gandą, esą atvykęs į Vil­ nių rengti savo sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku iškilmių, kas panašiau į tie­ są negu tai, apie.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -111,13 +112,11 @@ Nenurodyta
     apie Sudimantą nėra užsiminta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Strijkovskis ir Koj e- 1 a v i č i u s apie tą gudrybę pana­ šiai mena, pridurdami, kad Vytau­ tas paleidęs gandą, esą atvykęs į Vil­ nių rengti savo sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku iškilmių, kas panašiau į tie­ są negu tai, apie.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
@@ -147,11 +146,35 @@ Nenurodyta
     apie Sudimantą nėra užsiminta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­ tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    116
+
+    ## Puslapis 133
+
+    Il KNYGA
+    Skirgailai išvykus į Polocką jam buvo gera proga įgyvendin­
+    ti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­
+    vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
+    dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
+    kluotų žmonių būrį. Pastarieji, gurguolei atvykus iki Žemu­
+    tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo,
+    ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo
+    kariais. Rogėse pasislėpusiems žmonėms pavyko patekti į
+    pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
+    tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
+    pavertė anksčiau negu suspėjo Vytautas su kariauna19.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -166,5 +189,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]

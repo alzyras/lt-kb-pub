@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Pavasario balsai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1895 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1895'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - krikštas
   - kunigas
   - saltinis
   - tauta
+amziai:
+  - 'XIX'
 ---
 # Pavasario balsai
 
@@ -30,16 +24,21 @@ tags:
 1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.
 
 ## Teiginiai
+
 - t-001
   teiginys: '1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jonas Basanavičius
+    Savo programoje ji buvo įrašiusi suverenios
+    Lietuvos, valstybės, sujungtos laisvos federacijos (t. y. konfederacijos) ry-
+    šiais su gretimomis valstybėmis, siekius.
+    Tautos patriarchas dr. Jonas Basanavičius
 
     L I E T U V O S  I S T O R I J A
     120
@@ -52,8 +51,6 @@ tags:
     ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

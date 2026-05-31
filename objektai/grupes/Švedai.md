@@ -1,33 +1,25 @@
 ---
 tipas: grupe
 pavadinimas: 'Švedai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1600 m.'
-  - '1629 m.'
   - '1655 m.'
   - '1660 m.'
   - '1701 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1600'
 date_end: '1701'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dinastija
   - grupe
   - karalius
   - karas
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Švedai
 
@@ -36,104 +28,97 @@ tags:
 Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici). ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą. 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici).'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: '1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 87 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti.'
+
+- t-002
+  teiginys: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
   pagrindžia:
-    - c-005
+    - c-002
+
+- t-003
+  teiginys: '1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.'
+  pagrindžia:
+    - c-003
+
 - t-006
   teiginys: 'Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos L I E T U V O S I S T O R I J A 88 apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius Lietuvos.'
   pagrindžia:
     - c-006
 
+- t-005
+  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 87 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti.'
+  pagrindžia:
+    - c-005
+
+- t-001
+  teiginys: 'Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici).'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Baltici).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Dėl to įsilieps-
+    Lietuva
+    ir Lenkija gavo didžiąją Livonijos dalį, kartu ir Rygą. Tačiau Švedija ėmė
+    siekti viešpatauti Baltijos jūroje (dominium maris Baltici). Dėl to įsilieps-
     nojo Švedijos ir Lietuvos ir Lenkijos bei Švedijos ir Rusijos karo veiksmai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    XVII a. ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m.
     Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
     kė pretenzijas į Švedijos sostą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: '1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti Lietuvoje nepavyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
     Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
-    čiau švedams įsitvirtinti Lietuvoje nepavyko.
+    čiau švedams įsitvirtinti Lietuvoje nepavyko. Iškylanti Rusija Šiaurės karo
+    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
+    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
+    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kovos su švedais paliko gilų pėd-
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje. Kovos su švedais paliko gilų pėd-
     saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
     apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
+    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
+    nulems tolesnį ATR likimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 87 1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, tačiau švedams įsitvirtinti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
-    87
-    1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
-    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
-    čiau švedams įsitvirtinti Lietuvoje nepavyko.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
+
 - c-006
-  santrauka: 'Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos L I E T U V O S I S T O R I J A 88 apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
@@ -146,14 +131,46 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
     apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
     Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
-    1701 m.
+    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
+    nulems tolesnį ATR likimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
+
+- c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    87
+    1655–1660 m. švedai kariavo jau Lietuvos ir Lenkijos teritorijose, o
+    Lietuvos magnatai 1655 m. netgi sudarė Kėdainių sutartį su Švedija, ta-
+    čiau švedams įsitvirtinti Lietuvoje nepavyko. Iškylanti Rusija Šiaurės karo
+    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
+    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
+    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-007
+  santrauka: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    86
+    XVII a. ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m.
+    Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
+    kė pretenzijas į Švedijos sostą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -210,6 +227,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/grupes/Liuteronai]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/paprociai/Maro aukų laidojimas Šv. Roko vienuolių eremitų rankomis]]
 - [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/asmenys/Narimantas Gediminaitis]]

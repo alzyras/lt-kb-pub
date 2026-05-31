@@ -1,42 +1,44 @@
 ---
 tipas: asmuo
 pavadinimas: 'Fabianas (Varmės vyskupas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1514 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1514'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
   - karalius
   - miestas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Fabianas (Varmės vyskupas)
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.
 
+Nenurodyta
+
 ## Teiginiai
+
 - t-001
   teiginys: '## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     ## Puslapis 390
@@ -59,12 +61,16 @@ tags:
     mus offenderet, volentesque ut ejusmodi compositio in
     articulos redacta de Sacrosanctae Sedis Apostolicae assensu
     rata atque firma fieret, fecimus impetrare a S-smo D-no Nost­
-    ro confirmationem.
+    ro confirmationem. Nonnulli vero Canonici Ecclesiae Var-
+    miensis in Urbė agentes nescimus qua temeritate impedimen­
+    tum cum lenitate nostra objecerunt, ne boc negotium a Sede
+    Apostolica approbaretur, cum quibus uti intelleximus et tu
+    sentias, quamobrem Mandatum dudum denegaveris ut tuus
+    quoque assensus ad ejusmodi confirmationem obtinendam non
+    accederet.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

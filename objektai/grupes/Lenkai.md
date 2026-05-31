@@ -485,6 +485,10 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   teiginys: 'Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.'
   pagrindžia:
     - c-119
+- t-092
+  teiginys: 'Todėl iš Lenkijos pusės, nors ir labai silpna, ėmė reikštis opozi­ cija: juk lenkai norėjo Krėvės unija tuos žemės plotus laimėti sau, t.'
+  pagrindžia:
+    - c-120
 
 ## Reikšmingi paminėjimai
 
@@ -2488,6 +2492,21 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-091
+- c-120
+  santrauka: 'Todėl iš Lenkijos pusės, nors ir labai silpna, ėmė reikštis opozi­ cija: juk lenkai norėjo Krėvės unija tuos žemės plotus laimėti sau, t.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl iš Lenkijos pusės, nors ir labai silpna, ėmė reikštis opozi­
+    cija: juk lenkai norėjo Krėvės unija tuos žemės plotus laimėti
+    sau, t. y. kolonizuoti, o dabar dalykai ėmė krypti priešingon
+    pusėn.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-092
 
 ## Ryšiai
 ### Susiję objektai
@@ -2865,13 +2884,10 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - [[objektai/posakiai/„mūsų žydeliai“]]
 - [[objektai/posakiai/„prišlieti“]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Baltarusiai]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Hlebas]]
 - [[objektai/posakiai/Iki gyvos galvos]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Kiška]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
@@ -2881,7 +2897,6 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Moravai]]
-- [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
 - [[objektai/grupes/Rusai]]
@@ -2933,6 +2948,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - [[objektai/asmenys/Augustas III]]
 - [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/paprociai/Bajorų privilegijų reikalavimas karo stovykloje]]
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Baro konfederacija]]
 - [[objektai/autoriai/Benjamin W. Dwight]]
 - [[objektai/asmenys/Birutė]]
@@ -3079,6 +3095,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - [[objektai/asmenys/Petras I Didysis]]
 - [[objektai/asmenys/Petras Kriaučiūnas]]
 - [[objektai/zodynas/Pilininkas]]
+- [[objektai/asmenys/Pilsudskis]]
 - [[objektai/asmenys/Pipinas]]
 - [[objektai/ivykiai/Pipino nukankinimas ir mirtis]]
 - [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
@@ -3102,7 +3119,6 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/ivykiai/Sarajevo atentatas ir Pirmojo pasaulinio karo pradžia]]
 - [[objektai/ivykiai/Saulės mūšis ir 1236 m. kryžiaus žygio atlaikymas]]
-- [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/asmenys/Simonas Lengvenis]]
 - [[objektai/asmenys/Simonas Rozenbaumas]]
 - [[objektai/asmenys/Skirgaila]]

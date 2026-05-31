@@ -220,6 +220,7 @@ Nenurodyta
 - [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/barokas]]

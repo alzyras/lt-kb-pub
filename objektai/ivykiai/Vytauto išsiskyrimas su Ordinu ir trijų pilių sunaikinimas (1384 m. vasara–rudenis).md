@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1384 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1384'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)
 
@@ -29,26 +23,31 @@ tags:
 Tad praslinkus trims savaitėms nuo paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti savo atsimetimo nuo kry­ žiuočių planą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tad praslinkus trims savaitėms nuo paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti savo atsimetimo nuo kry­ žiuočių planą.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tad praslinkus trims savaitėms nuo paskutinio susitarimo su Ordinu, Vytautas pradėjo vykdyti savo atsimetimo nuo kry­ žiuočių planą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tad praslinkus trims savaitėms nuo paskutinio susitarimo su
@@ -68,9 +67,7 @@ Nenurodyta
     laisvėn pilies gynėjus, o pačią pilį pavertė į pelenus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -51,14 +51,14 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
   teiginys: 'Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko prie Vilnelės16 iškilo popieriaus malūnas.'
@@ -191,41 +191,6 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jos statybą prieš tai buvo pradė­
-    jęs, norėjo užbaigti ir jau nemažą jos dalį išmūrijęs buvo, bet
-    pirmiau negu užbaigti įstengė, kaip paprastai atsitinka žmo­
-    nėms, atsisveikino su šiuo pasauliu. Mes į jo vietą garbingąjį
-    Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas
-    ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam
-    patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­
-    kimai vykdydamas, gerai mums užsirekomendavo, taip pat
-    ir, mūsų valia bei paliepimu, taisydamas tą patį tiltą, kurį pra­
-    ėjusį pavasarį didelės vandens ir ledų sangrūdos sugadino ir
-    sulaužė, parodė savo uolumą, tiltui suteikdamas pirmykštį
-    tvirtumą ir pritaikydamas jį žmonėms naudotis, iš anksto
-    surinkęs šiek tiek pinigų iš ano muito ir tikėdamasis iš jo
-    tolesnių pajamų. Taigi mes, pageidaudami, kad šis tiltas taip
-    visiems būsimiems laikams ir tuo atveju, ar dėl kokio priešo
-    užpuolimo, bėgant laikui, arba dėl galingo vandens protrū­
-    kio pakenktas, vėl galėtų būti atstatytas ir pataisytas, minė­
-    tą muitą arba mokestį, aukščiau aprašytą, kurį minėti Ulri­
-    kas Hozijus ir jo sūnus Jonas mūsų aukščiau įvardintu
-    sprendimu ir valia rinko, tikra mūsų žinia ir karališkąja va­
-    lia nusprendėme skirti tam pačiam tiltui ir šiuo mūsų raštu
-    patvirtiname, kad žmonės su savo daiktais ir prekėmis per
-    jį pereinantys, pagal mūsų nurodymą, aukščiau pareikštą, pri­
-    valo mokėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -263,3 +228,38 @@ O po kele­ lių metų, 1522-aisiais, aukščiau Vilniaus vaivados malūno ir ž
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jos statybą prieš tai buvo pradė­
+    jęs, norėjo užbaigti ir jau nemažą jos dalį išmūrijęs buvo, bet
+    pirmiau negu užbaigti įstengė, kaip paprastai atsitinka žmo­
+    nėms, atsisveikino su šiuo pasauliu. Mes į jo vietą garbingąjį
+    Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas
+    ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam
+    patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­
+    kimai vykdydamas, gerai mums užsirekomendavo, taip pat
+    ir, mūsų valia bei paliepimu, taisydamas tą patį tiltą, kurį pra­
+    ėjusį pavasarį didelės vandens ir ledų sangrūdos sugadino ir
+    sulaužė, parodė savo uolumą, tiltui suteikdamas pirmykštį
+    tvirtumą ir pritaikydamas jį žmonėms naudotis, iš anksto
+    surinkęs šiek tiek pinigų iš ano muito ir tikėdamasis iš jo
+    tolesnių pajamų. Taigi mes, pageidaudami, kad šis tiltas taip
+    visiems būsimiems laikams ir tuo atveju, ar dėl kokio priešo
+    užpuolimo, bėgant laikui, arba dėl galingo vandens protrū­
+    kio pakenktas, vėl galėtų būti atstatytas ir pataisytas, minė­
+    tą muitą arba mokestį, aukščiau aprašytą, kurį minėti Ulri­
+    kas Hozijus ir jo sūnus Jonas mūsų aukščiau įvardintu
+    sprendimu ir valia rinko, tikra mūsų žinia ir karališkąja va­
+    lia nusprendėme skirti tam pačiam tiltui ir šiuo mūsų raštu
+    patvirtiname, kad žmonės su savo daiktais ir prekėmis per
+    jį pereinantys, pagal mūsų nurodymą, aukščiau pareikštą, pri­
+    valo mokėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

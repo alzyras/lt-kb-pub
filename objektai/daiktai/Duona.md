@@ -1,25 +1,19 @@
 ---
 tipas: daiktas
 pavadinimas: 'Duona'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1324 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1324'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Duona
 
@@ -28,32 +22,38 @@ tags:
 Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje 1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje 1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje 1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
+    123. Apie kraujo lašus, varvėjusius iš duonos Kristburgo pilyje Prūsijos žemėje
 
       1324 viešpaties metais, kai račius Andrius kartą buvo vaišėse Prūsijos žemės Kristburgo
     pilyje, iš duonos, kurią dažė aluje, pradėjo varvėti kraujo lašai, o stalo bendrai, manydami,
@@ -65,9 +65,7 @@ Nenurodyta
                   124.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -80,6 +78,7 @@ Nenurodyta
 - [[objektai/grupes/Apaštalų Sostas]]
 - [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė]]
 - [[objektai/ivykiai/Briksijos altoriaus stebuklas]]
+- [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje]]
 - [[objektai/daiktai/Deficitinės vartojimo prekės]]
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
@@ -107,7 +106,6 @@ Nenurodyta
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
 - [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
 - [[objektai/zodynas/deficitas talonai]]
-- [[objektai/zodynas/Lažas|lažas]]
 - [[objektai/zodynas/mezliava]]
 - [[objektai/zodynas/Sriuobalas|sriuobalas]]
 - [[objektai/zodynas/vaitas ir tarėjai]]

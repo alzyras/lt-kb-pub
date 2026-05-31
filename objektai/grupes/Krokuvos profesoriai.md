@@ -85,5 +85,4 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - [[objektai/asmenys/Dr. Baptistas Cigala]]
 - [[objektai/zodynas/Romos karalius]]
 - [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]

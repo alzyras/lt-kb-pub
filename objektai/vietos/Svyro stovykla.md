@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Svyro stovykla'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1579 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1579'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - privilegija
   - valstybė
+amziai:
+  - 'XVI'
 ---
 # Svyro stovykla
 
@@ -30,13 +24,15 @@ tags:
 Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­ raliaus akyse liejo grėsmingus pabūklus pagal geriausius pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­ niaus gatvėmis traukė į stovyklą Svyre, šis didysis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­ raliaus akyse liejo grėsmingus pabūklus pagal geriausius pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­ niaus gatvėmis traukė į stovyklą Svyre, šis didysis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­ raliaus akyse liejo grėsmingus pabūklus pagal geriausius pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­ niaus gatvėmis traukė į stovyklą Svyre, šis didysis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Smig-
@@ -57,8 +53,6 @@ Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejyk
     valstybės veikėjas], gim.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

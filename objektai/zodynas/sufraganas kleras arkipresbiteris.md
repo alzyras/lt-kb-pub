@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'sufraganas kleras arkipresbiteris'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - ordinas
@@ -27,17 +18,20 @@ tags:
 Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis. Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuitams.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuitams.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Apie tai sužinojęs Vilniaus vysku­
@@ -52,13 +46,11 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
     lių, kad, atsisakęs ketinimo, pasuko į katalikų katedrą46.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuitams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dar nupirko du sklypus
@@ -74,9 +66,7 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
     je, VI priede, įdėtas dokumentas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

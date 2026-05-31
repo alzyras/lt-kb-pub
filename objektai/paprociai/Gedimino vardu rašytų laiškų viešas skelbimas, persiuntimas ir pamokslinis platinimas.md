@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - krikštas
   - miestas
   - paprotys
+amziai:
+  - 'XIV'
 ---
 # Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas
 
@@ -30,59 +24,45 @@ tags:
 Kryžiuočiai tą antspaudą mums panieką reikš­ dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­ galba sumanymo įgyvendinimą ir žmonėms akis užtem­ dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą piktžodžiaudami ginčytų, tą mūsų šiais laiškais. " Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui ir platino melagingą žinią, jog Gedimi­ nas norėjęs krikštytis.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kryžiuočiai tą antspaudą mums panieką reikš­ dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­ galba sumanymo įgyvendinimą ir žmonėms akis užtem­ dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą piktžodžiaudami ginčytų, tą mūsų šiais laiškais.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: '" Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui ir platino melagingą žinią, jog Gedimi­ nas norėjęs krikštytis.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kryžiuočiai tą antspaudą mums panieką reikš­ dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­ galba sumanymo įgyvendinimą ir žmonėms akis užtem­ dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą piktžodžiaudami ginčytų, tą mūsų šiais laiškais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kryžiuočiai tą antspaudą mums panieką reikš­
-    dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­
-    galba sumanymo įgyvendinimą ir žmonėms akis užtem­
-    dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą
-    piktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame
-    tiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­
-    viu, melagiu ir žmogum be garbės"*. Tie laiškai rašyti Vil­
-    niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
-    perskaičius būtų siunčiami toliau ir visur skelbiama juose
-    nurodyti pranešimai bei įsipareigojimai.
-    73
-    Palyginimui žr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: '" Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui ir platino melagingą žinią, jog Gedimi­ nas norėjęs krikštytis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    "
+    Panašių
+    pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­
+    žių Joną ir privertė jį pasiųsti du legatus į Livoniją."
     Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas
     ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­
     tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
@@ -106,11 +86,30 @@ Nenurodyta
     Sostui].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kryžiuočiai tą antspaudą mums panieką reikš­
+    dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­
+    galba sumanymo įgyvendinimą ir žmonėms akis užtem­
+    dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą
+    piktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame
+    tiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­
+    viu, melagiu ir žmogum be garbės"*. Tie laiškai rašyti Vil­
+    niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
+    perskaičius būtų siunčiami toliau ir visur skelbiama juose
+    nurodyti pranešimai bei įsipareigojimai.
+    73
+    Palyginimui žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

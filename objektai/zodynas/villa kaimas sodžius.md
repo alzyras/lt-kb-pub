@@ -1,20 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'villa kaimas sodžius'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ginklas
@@ -28,33 +18,20 @@ tags:
 Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami. Dusburgietis teigia, kad sodžių, tiek ir vieno kiemo nobilio gyvenvietę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
-    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
-    nenorėdami grįžti tuščiomis rankomis,  užpuolė aplinkinius kaimus244, degindami juos
-    ir piešdami. Sitai pamatę, prūsai juos užpuolė ir išžudė visus brolius bei ginklanešius,
-    išskyrus tuos, kurie buvo palikti saugoti laivų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     244 D.— invaserunt vilias (be to, III, 66, 68, 98, 143, 260, 276, 291, 330, 332
@@ -70,13 +47,43 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
     Lietuvos valstiečių istorija, p. 12—13).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
+    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
+    nenorėdami grįžti tuščiomis rankomis,  užpuolė aplinkinius kaimus244, degindami juos
+    ir piešdami. Sitai pamatę, prūsai juos užpuolė ir išžudė visus brolius bei ginklanešius,
+    išskyrus tuos, kurie buvo palikti saugoti laivų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: 'Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užpuolė aplinkinius kaimus244, degindami juos ir piešdami.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tad magistro įsakyti kurie ne kurie broliai ir ginklanešiai minėtaisiais laivais perplaukė
+    Gėlo vandens marias pasižiūrėti, kur galėtų pastatyti pilį, grėsmingą šiems prūsams.
+    Atplaukę prie Varmės žemės kranto, jie išlipo ir netoli tos vietos, kur dabar yra Baigos
+    pilis, pamatė prūsų pilį, kurios vis dėlto nedrįso pulti, nes turėjo per mažai karių. Tačiau
+    nenorėdami grįžti tuščiomis rankomis,  užpuolė aplinkinius kaimus244, degindami juos
+    ir piešdami.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/K. Būga]]
 - [[objektai/daiktai/Laivai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/magistras]]

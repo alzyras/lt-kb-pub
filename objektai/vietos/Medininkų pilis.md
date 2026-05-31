@@ -56,10 +56,6 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
-  pagrindžia:
-    - c-002
 - t-004
   teiginys: 'Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.'
   pagrindžia:
@@ -72,6 +68,10 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   teiginys: 'Kazimiero koplyčioje sienos nuo įėjimo, dažnai viešėdavęs per keturias mylias nuo Vilniaus nutolusioje Medininkų pi­ lyje, esančioje prie Ašmenos kelio.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -89,23 +89,6 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
-    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
-    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
-    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
-    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
-    buvę Voluinė ir Haličas, Kijevas, Pskovas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-004
   santrauka: 'Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -174,6 +157,25 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva tuo metu jau
+    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
+    civilizacijos ištakos. Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Šaltiniai ir įrodymai
 

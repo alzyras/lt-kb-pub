@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'penktoji kolona'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,29 +15,51 @@ tags:
 Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūrimui, rimtesnės įtakos neturėjo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūrimui, rimtesnės įtakos neturėjo.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Mažuma komunistų drauge su prosovietine
+    Taip atsirado nacionalinė eurokomunistinio tipo partija,
+    turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
+    pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
+    cialdemokratinę orientaciją. Mažuma komunistų drauge su prosovietine
     organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
     Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
     mui, rimtesnės įtakos neturėjo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūrimui, rimtesnės įtakos neturėjo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Savarankiška LKP, vėliau
+    pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
+    cialdemokratinę orientaciją. Mažuma komunistų drauge su prosovietine
+    organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
+    Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
+    mui, rimtesnės įtakos neturėjo. Nebeliko nė vienos politinės gijos, kuri
+    galėtų laikyti Lietuvą pririštą prie SSRS.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

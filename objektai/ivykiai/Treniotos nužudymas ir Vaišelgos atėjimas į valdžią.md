@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Treniotos nužudymas ir Vaišelgos atėjimas į valdžią'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1264 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1264'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - tikėjimas
   - valdovas
+amziai:
+  - 'XIII'
 ---
 # Treniotos nužudymas ir Vaišelgos atėjimas į valdžią
 
@@ -30,26 +24,31 @@ tags:
 Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
@@ -64,9 +63,7 @@ Nenurodyta
     susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

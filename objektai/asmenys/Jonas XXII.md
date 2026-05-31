@@ -173,7 +173,6 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]

@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1398 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1398'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - ivykis
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XIV'
 ---
 # Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)
 
@@ -30,30 +24,36 @@ tags:
 1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1. Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune).
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune).'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tų visų faktų akivaiz­
@@ -71,13 +71,11 @@ Nenurodyta
     tinta Jogailos^1 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iškilmingas tos sutarties ratifikavimas (patvir­
@@ -89,9 +87,7 @@ Nenurodyta
     ir jo visus didikus į puotą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

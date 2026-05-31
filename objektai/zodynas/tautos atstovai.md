@@ -1,18 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'tautos atstovai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1928 m.'
+date_start: '1928'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - sąvoka
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # tautos atstovai
 
@@ -21,40 +24,67 @@ tags:
 Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai. Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    A. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-
+    neto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-
+    nybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus
+    (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
+    Seimui nesant, vykdyti jo teises. Prezidentą renka septyneriems metams
+    ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus. Konstitu-
+    cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
+    valdymą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     neįvardyta. Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė
+    vadinamieji tautos atstovai. Seimas ir prezidentas (renkamas Seimo) ren-
+    kami trejiems metams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
+
+- c-003
   santrauka: 'Prezidentą renka septyneriems metams ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    161
+    A. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-
+    neto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-
+    nybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus
     (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
+    Seimui nesant, vykdyti jo teises. Prezidentą renka septyneriems metams
+    ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus. Konstitu-
+    cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
+    valdymą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

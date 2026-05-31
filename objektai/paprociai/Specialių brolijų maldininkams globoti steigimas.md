@@ -100,5 +100,4 @@ Nenurodyta
 - [[temos/religinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/maldininkai]]

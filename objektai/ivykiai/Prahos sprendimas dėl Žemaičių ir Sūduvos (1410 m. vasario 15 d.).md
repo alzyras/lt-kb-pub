@@ -91,6 +91,5 @@ Nenurodyta
 - [[objektai/asmenys/Butrimas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vaclovas]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Cibulka]]
 - [[objektai/asmenys/Vengrijos Zigmantas]]

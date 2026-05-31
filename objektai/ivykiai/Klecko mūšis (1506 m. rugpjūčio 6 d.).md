@@ -86,10 +86,6 @@ Nenurodyta
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-011
-  teiginys: '[...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.'
-  pagrindžia:
-    - c-006
 - t-012
   teiginys: 'Kita vertus, Klecko mūšis buvo pirmoji stambi lietuvių pergalė po skaudaus pralaimėjimo prieš rusus Vedrošos kautynėse ir pirmoji pergalė prieš ilgai Lietuvos žmones kamavusius Krymo totorius apskritai.'
   pagrindžia:
@@ -98,6 +94,10 @@ Nenurodyta
   teiginys: 'Be to, Bychoveco kronikoje esančiame pasakojime apie Klecko mūšį galima atpažinti krikščionių kovos su kitatikiais motyvus: totoriai — „pagonijos“ atstovai, o pati pergalė prieš juos reiškė „neapsakomą Dievo gailestingumą Lietuvos Didžiajai Kunigaikštystei ir.'
   pagrindžia:
     - c-008
+- t-014
+  teiginys: '[...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -198,21 +198,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
-- c-006
-  santrauka: '[...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ] Tą pačią dieną, antradienį, didikai su savo kariuomene (Lietuvos) nakvojo kaime
-    prie Lipos, [...] anksti atsikėlę ir, kaip pridera prieš mūšį, sutvarkę būrius, nuėjo tiesiai
-    į Klecką. [...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir
-    Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
 - c-007
   santrauka: 'Kita vertus, Klecko mūšis buvo pirmoji stambi lietuvių pergalė po skaudaus pralaimėjimo prieš rusus Vedrošos kautynėse ir pirmoji pergalė prieš ilgai Lietuvos žmones kamavusius Krymo totorius apskritai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -260,6 +245,21 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-009
+  santrauka: '[...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ] Tą pačią dieną, antradienį, didikai su savo kariuomene (Lietuvos) nakvojo kaime
+    prie Lipos, [...] anksti atsikėlę ir, kaip pridera prieš mūšį, sutvarkę būrius, nuėjo tiesiai
+    į Klecką. [...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir
+    Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
@@ -272,6 +272,4 @@ Nenurodyta
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kitatikiai]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/autoriai/Auksė Ūsienė]]
 - [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/autoriai/Vytautas Lesčius]]

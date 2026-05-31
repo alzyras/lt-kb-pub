@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Otto Blanehom'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,13 +18,15 @@ tags:
 Saremas brolis Otto (Blanehom).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Saremas brolis Otto (Blanehom).'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Saremas brolis Otto (Blanehom).'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Myko­
@@ -47,11 +40,12 @@ Saremas brolis Otto (Blanehom).
     besitariančių pusių kraštuose, apie teisišką sprendimą gin­
     * wenbrulie), Mintaujos komtūras ir
     Eželis (Oeselis), dab. Saremas brolis Otto (Blanehom).
+    m n
+    Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir
+    tik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

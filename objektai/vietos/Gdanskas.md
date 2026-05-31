@@ -52,10 +52,6 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
   pagrindžia:
@@ -64,6 +60,10 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   teiginys: 'Dusburgietis teigia, kad išliko keletas kronikos rankraštinių ištraukų, saugotų Gdanske (XVI a.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -136,23 +136,6 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Anų laikų
-    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
-    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
-    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
-    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
-    reikalams, kaip tuomet.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -184,3 +167,24 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
+    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
+    reikalams, kaip tuomet.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

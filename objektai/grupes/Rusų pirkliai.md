@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Rusų pirkliai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
@@ -27,36 +18,20 @@ tags:
 Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ) anoji sutartis su caru
-    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
-    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
-    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
-    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
-    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
-    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
-    savo atvykimą iškart pranešti pilininkui4 3  44.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-001
+  teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Mat rašo, jog svečiai, tai yra, rusų pirkliai, atvykstantys su savo prekėmis į Vilnių, apsistoja įvairiuose namuose mieste, kur no­ ri, be jokio prisistatymo, o paskui, prekiaudami su vokiečiais ir kitais svetimšaliais pirkliais, niekam ne­ pranešę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     44
@@ -78,11 +53,27 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
     miestui statyti užeigą ir t t.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

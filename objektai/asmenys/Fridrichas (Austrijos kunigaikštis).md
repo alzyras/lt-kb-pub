@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Fridrichas (Austrijos kunigaikštis)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1322 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1322'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Fridrichas (Austrijos kunigaikštis)
 
@@ -30,20 +26,49 @@ tags:
 Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti. Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
+
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kai jo šventenybė Jeruzalės patriarchas
+    Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
+                               gaikštis, buvo išrinkti Romos karaliais
+
+      Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis,
+    dėl nesantarvės vienu metu buvo išrinkti Romos karaliais tada, kai apaštališkasis sostas
+    28 mėnesius buvo neužimtas, o ši juodviejų nesantarvė truko ligi 1322 viešpaties metų,
+    kol Liudvikas, Bavarijos kunigaikštis, po daugybės karų, vykusių tarp juodviejų, švento
+    Mykolo išvakarėse (rugsėjo 28) paėmė mūšyje į nelaisvę Fridrichą, Austrijos kunigaikštį,
+    ir išlaikė suimtą dvejus metus. Po to jiedu susitaikė.
+
+
+
+                    118.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Nors
+    apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai
+    aišku, kad „nieko nereiškia sodintojas nei laistytojas, bet tik augintojas dievas“, tačiau
+    stropus žmogus negali nesirūpinti augalais, kurie, dar jaunučiai tebebūdami, jau duoda
+    gausiai vaisių, o ateityje duos dar gausiau. Kai jo šventenybė Jeruzalės patriarchas
     Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
     Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras  ir tamplierių ordino
     magistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:
@@ -66,16 +91,15 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
+
+- c-003
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
+    117. Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­
                                gaikštis, buvo išrinkti Romos karaliais
 
       Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis,
@@ -84,17 +108,11 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
     kol Liudvikas, Bavarijos kunigaikštis, po daugybės karų, vykusių tarp juodviejų, švento
     Mykolo išvakarėse (rugsėjo 28) paėmė mūšyje į nelaisvę Fridrichą, Austrijos kunigaikštį,
     ir išlaikė suimtą dvejus metus. Po to jiedu susitaikė.
-
-
-
-                    118.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

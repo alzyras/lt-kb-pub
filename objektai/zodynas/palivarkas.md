@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'palivarkas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,16 +15,15 @@ tags:
 Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bažny-
@@ -37,13 +33,26 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
     Išmatavus žemę, geriausiose vietose buvo steigiami dvarai
     ir palivarkai, o aplink juos buvo duodama po valaką valstie-
     čiams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Miestų žemės irgi buvo atskirtos.
+    Išmatavus žemę, geriausiose vietose buvo steigiami dvarai
+    ir palivarkai, o aplink juos buvo duodama po valaką valstie-
+    čiams. Jų žemė buvo padalinta trilaukiais, o jie patys apgy-
+    vendinti kaimuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

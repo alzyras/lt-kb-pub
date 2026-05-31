@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Pakartoto Įstatymo knyga'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - pilis
@@ -27,17 +18,35 @@ tags:
 Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant negu tavoji, nebijok. Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”, tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant negu tavoji, nebijok.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”, tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant negu tavoji, nebijok.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    12. Apie Višogrudo pilies sugriovimą
+
+      Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,
+    tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite
+    jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir
+    amžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiais viešpaties žodžiais, kuriais šis bylojo į Izraelio tautą (Ist 20. 1): „Jei išeisi į karą prieš savo nedraugus ir matysi raitelius, vežimus ir priešų kariuomenės daugybę didesnę esant negu tavoji, nebijok.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Stiprindamas jų kilnias širdis, jis guodė juos šiais
@@ -49,25 +58,6 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
     tarpe, jis kovos už jus prieš visus priešus, kad jus išgelbėtų iš pavojaus“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie Višogrudo pilies sugriovimą Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”, tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite jūsų tėvų darbus, kuriuos jie yra padarę savo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Višogrudo pilies sugriovimą
-
-      Nors viešpats Pakartoto įstatymo knygoje sako: „Mano yra kerštas, ir aš atlyginsiu”,
-    tačiau Matatijas, atėjus mirties valandai, tarė savo sūnums (1 Mak 2, 52): „Atsiminkite
-    jūsų tėvų darbus, kuriuos jie yra padarę savo kartose, ir jūs laimėsite didelę garbę ir
-    amžiną vardą”. Siek tiek toliau jis priduria (1 Mak 2.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

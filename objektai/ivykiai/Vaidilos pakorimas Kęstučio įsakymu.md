@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vaidilos pakorimas Kęstučio įsakymu'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
@@ -26,26 +17,31 @@ tags:
 Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­ tutis, kaip to karo kurstytoją, įsakė pakarti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ir prisiekė Jogai­
@@ -66,9 +62,7 @@ Nenurodyta
     pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

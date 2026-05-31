@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Rambynas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - pilis
@@ -27,13 +18,15 @@ tags:
 Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad panemunėje esama Rambyno (žr.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad panemunėje esama Rambyno (žr.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Panemunėje esama Rambyno (žr. paaiškinimą III, 183; ant Rambyno po akmeniu yra
@@ -47,8 +40,6 @@ Dusburgietis teigia, kad panemunėje esama Rambyno (žr.
     (Kreivoji pilis, Krivė — ritualinės tradicijos įkūrėjas — Топоров B. H., Vilnius..., p. 64).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

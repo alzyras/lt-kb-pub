@@ -121,14 +121,14 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginys: '41 Miesto archyve yra Aleksandro Jogailaičio, Lietuvos didžiojo kunigaikš­ čio, tokio turinio laiškas: „Vaitas, ta­ rybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, Vilniaus vaivados ir valstybės kanclerio Mi­ kalojaus Radvilos vietininką, kad tas.'
   pagrindžia:
     - c-018
-- t-026
-  teiginys: 'Vy­ tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo išžudyti.'
-  pagrindžia:
-    - c-019
 - t-027
   teiginys: 'Šis darbas beveik galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­ gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun. priklausomus.'
   pagrindžia:
     - c-020
+- t-028
+  teiginys: 'Vy­ tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo išžudyti.'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -524,21 +524,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-025
-- c-019
-  santrauka: 'Vy­ tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo išžudyti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jam padėjo jo uošvis,
-    Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų partija. Vy­
-    tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo
-    išžudyti. Vytautas išsiskubino malšinti sukilėlių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-026
 - c-020
   santrauka: 'Šis darbas beveik galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­ gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun. priklausomus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -555,6 +540,21 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-027
+- c-021
+  santrauka: 'Vy­ tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo išžudyti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jam padėjo jo uošvis,
+    Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų partija. Vy­
+    tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo
+    išžudyti. Vytautas išsiskubino malšinti sukilėlių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
 
 ## Pastabos
 - Šalia esantis viecinykas yra senesnė ar tarmiška forma, bet reikšmė iš konteksto aiški.
@@ -622,7 +622,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
-- [[objektai/asmenys/Andrius Vodzinskis]]
 - [[objektai/zodynas/Arkikomtūras]]
 - [[objektai/asmenys/Asianas Abrahimovičius]]
 - [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
@@ -652,12 +651,12 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/asmenys/Popiežius Celestinas III]]
 - [[objektai/paprociai/Pranciškonų apaštalavimas ir gyventojų vertimas į tikėjimą Vilniuje]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Pskovo respublika]]
 - [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas)]]
 - [[objektai/grupes/Rusiškoji bajorų partija]]
 - [[objektai/asmenys/Silvestras Levontjevičius]]
-- [[objektai/ivykiai/Stepono Batoro sprendimas dėl Vilniaus vyskupijos pavaldinių atleidimo nuo miesto cechų jurisdikcijos (1584 m.)]]
 - [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
 - [[objektai/asmenys/Vaidila]]
 - [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]

@@ -1,13 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„suverenitetų parado“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
@@ -19,28 +16,57 @@ tags:
 Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės respublikos skelbė suverenitetą, dėl to kovo 11 diena yra didžiausias lietuvių tautos įnašas į XX a.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rusija prisijungė prie „suverenitetų parado“, o kitos sovietinės respublikos taip pat skelbė suverenitetą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės respublikos skelbė suverenitetą, dėl to kovo 11 diena yra didžiausias lietuvių tautos įnašas į XX a.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rusija prisijungė prie „suverenitetų parado“, o kitos sovietinės respublikos taip pat skelbė suverenitetą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tad ir Rusija prisijungė prie
+    Pasinaudojęs palankiomis aplinkybėmis ir pasirinkęs neginkluotos
+    kovos būdą, suvienijęs po savo vėliava įvairiausius visuomenės sluoks-
+    nius, Sąjūdis atvedė Lietuvą į laisvę, svariai prisidėjo prie SSRS, visos
+    komunistinės sistemos žlugimo. Šiaip jau romiems rusams irgi trūko
+    kantrybė, tiek metų klausantis komunistų melo apie būsimą komunizmo
+    rojų ir nė vienam jų pažadui netapus realybe, jų nebetenkino SSRS kaip
+    branduolinės ir kosmosą įsisavinusios supervalstybės aureolė, kurioje
+    senimas šypsosi bedantėmis burnomis, parduotuvėse tuščia, butai ankšti
+    arba tik statomi, viskam gauti eilės, talonai. Tad ir Rusija prisijungė prie
     „suverenitetų parado“, ir kitos sovietinės respublikos skelbė suverenitetą,
     dėl to kovo 11 diena yra didžiausias lietuvių tautos įnašas į XX a.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės respublikos skelbė suverenitetą, dėl to kovo 11 diena yra didžiausias lietuvių tautos įnašas į XX a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šiaip jau romiems rusams irgi trūko
+    kantrybė, tiek metų klausantis komunistų melo apie būsimą komunizmo
+    rojų ir nė vienam jų pažadui netapus realybe, jų nebetenkino SSRS kaip
+    branduolinės ir kosmosą įsisavinusios supervalstybės aureolė, kurioje
+    senimas šypsosi bedantėmis burnomis, parduotuvėse tuščia, butai ankšti
+    arba tik statomi, viskam gauti eilės, talonai. Tad ir Rusija prisijungė prie
+    „suverenitetų parado“, ir kitos sovietinės respublikos skelbė suverenitetą,
+    dėl to kovo 11 diena yra didžiausias lietuvių tautos įnašas į XX a. Euro-
+    pos istoriją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

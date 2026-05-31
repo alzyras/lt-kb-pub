@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Laskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,13 +18,15 @@ tags:
 Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas Laskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kilo didelis pavojus karaliaus
@@ -46,9 +39,7 @@ Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžez
     nemažą būrį pasiuntė į Naugarduką.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

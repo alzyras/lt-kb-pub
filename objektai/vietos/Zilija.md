@@ -1,20 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Zilija'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIII'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - upė
   - valstybė
@@ -27,13 +17,15 @@ tags:
 Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­ dvikas antrą kartą pakliuvo į nelaisvę Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule. Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro upių; Zilijos valsčius tuo metu greičiausiai buvo į šiaurę nuo Bebro—Elko santakos, jis galėjo aprėpti ir Raigardo (Rajgród) apylinkes, eiti link Augustavo (Kamiński A.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­ dvikas antrą kartą pakliuvo į nelaisvę Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­ dvikas antrą kartą pakliuvo į nelaisvę Tuo metu, kai brolis Mangoldas, magistras, keliavo į kapitulą, brolis Konradas iš Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
@@ -54,8 +46,6 @@ Dusburgietis teigia, kad apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir 
     Vadolis505, tenykštį vadą, bei daugybę kitų ir išsigabeno nesuskaičiuojamą grobį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

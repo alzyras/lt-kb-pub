@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'karo grobis'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - mūšis
@@ -27,16 +18,15 @@ tags:
 Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo grobį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo grobį.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo grobį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Netrukus sąjungininkai užėmė
@@ -49,13 +39,26 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
 
     labai dideli — tik kas antras Lietuvos karys
     grįžo namo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo grobį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšio baigtis buvo
+    nulemta. Netrukus sąjungininkai užėmė
+    priešo stovyklą ir užvaldė didelį karo
+    grobį. Dauguma Ordino karių ir jų svečių,
+    samdinių žuvo, tik menka dalis paspruko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

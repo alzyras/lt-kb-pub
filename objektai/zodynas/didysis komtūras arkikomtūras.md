@@ -1,29 +1,20 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'didysis komtūras arkikomtūras'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1382 m.'
-  - '1387 m.'
-  - '1390 m.'
-  - '1391 m.'
   - '1393 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1382'
 date_end: '1393'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - sąvoka
+amziai:
+  - 'XIV'
 ---
 # didysis komtūras arkikomtūras
 
@@ -32,15 +23,27 @@ tags:
 Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Marijai šventę tapo didžiuoju komtūru arba arkikomtūru, 1390 rugpjūčio 15 d., po didžiojo magistro Konrado Ciolnerio fon Rotenšteino mirties, - ir didžiojo magistro vieti­ ninku, iki pat.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Marijai šventę tapo didžiuoju komtūru arba arkikomtūru, 1390 rugpjūčio 15 d., po didžiojo magistro Konrado Ciolnerio fon Rotenšteino mirties, - ir didžiojo magistro vieti­ ninku, iki pat.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Marijai šventę tapo didžiuoju komtūru arba arkikomtūru, 1390 rugpjūčio 15 d., po didžiojo magistro Konrado Ciolnerio fon Rotenšteino mirties, - ir didžiojo magistro vieti­ ninku, iki pat.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Dabartinis
+    iš tiesų visiškai skiriasi nuo pirmes-
+    niojo, kurio klaidas stengėmės ištai­
+    syti, remdamiesi naujais, vėliau ap­
+    tiktais šaltiniais, būtent: F o i g t o
+    naujai išleistos Prūsijos istorijos T. V
+    ir pastabomis, kurias mums itin ge­
+    ranoriškai pareiškė mokslininkas
+    Lietuvos istorijos žinovas Ignacas
+    Onacevičius.
     22
     Miechovita, Strijkovskis
     ir K o j e 1 a v i č i u s klysta sakyda­
@@ -62,9 +65,7 @@ Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Mar
     liepos 25 d.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -83,3 +84,4 @@ Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Mar
 - [[objektai/autoriai/Miechowita Miechovita]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/zodynas/Ordino maršalas didysis maršalas]]
+- [[objektai/zodynas/didysis magistras]]

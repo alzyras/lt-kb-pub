@@ -1,28 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Kelnas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1280 m.'
   - '1300 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1280'
 date_end: '1300'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - kunigas
   - ordinas
   - vieta
+amziai:
+  - 'XIII'
 ---
 # Kelnas
 
@@ -31,21 +25,25 @@ tags:
 Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne. Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties metais, o palaidotas Kelne.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Albertą Didįjį ir Tomą Akvinietį
@@ -57,31 +55,11 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
     mokinys bei pamokslininkų ordino vienuolis (Ptol.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Alberto Didžiojo mirtį
 
-       Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. 22, 19).
-
-
-
-                    67.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
@@ -95,8 +73,57 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
                              77.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Alberto Didžiojo mirtį
+
+       Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. 22, 19).
+
+
+
+                    67.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie Alberto Didžiojo mirtį Tais pačiais metais Kelne mirė Albertas Didysis (Ptol.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    66. Apie Alberto Didžiojo mirtį
+
+       Tais pačiais metais Kelne mirė Albertas Didysis (Ptol. 22, 19).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto kunigaikštis, nugalėjo Zigfridą iš Runkelės, Kelno arkivyskupą; neskaitant paprastų karių, abi šalys neteko nukautaisiais 1300.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tą dieną, kai priimamas dievo kūnas, šio kaimo klebonas jai davė nešventintą
+    paplotėlį, tačiau  ji niekaip jo negalėjo nuryti, todėl,  jį atsiėmęs, davė jai pašventintą
+    ostiją, kurią tuoj pat prarijo, o jis iš to suprato, jog ji medžiagiško maisto nieku būdu
+    negalinti priimti.
+
+
+
+                     76. Apie mūšį netoli Kelno, prie Vurungeno kaimo
+
+      Tuo metu netoli Kelno, prie Vurungeno kaimo, kilo mūšis, kuriame Jonas, Brabanto
+    kunigaikštis, nugalėjo Zigfridą  iš Runkelės, Kelno arkivyskupą; neskaitant paprastų
+    karių, abi šalys neteko nukautaisiais 1300 kilmingųjų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005

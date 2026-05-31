@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Visuotinė apklausa dėl Lietuvos nepriklausomybės ir konstitucinis įstatymas (1991 m. vasaris)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1991 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1991'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - tauta
+amziai:
+  - 'XX'
 ---
 # Visuotinė apklausa dėl Lietuvos nepriklausomybės ir konstitucinis įstatymas (1991 m. vasaris)
 
@@ -29,26 +23,31 @@ tags:
 Tačiau, nors karo veiksmai prieš Lietuvą ir buvo pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau, nors karo veiksmai prieš Lietuvą ir buvo pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau, nors karo veiksmai prieš Lietuvą ir buvo pristabdyti, sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją ir televiziją, valdė kitus strateginius šalies objektus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau, nors karo veiksmai prieš Lietuvą ir buvo
@@ -61,11 +60,10 @@ Nenurodyta
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
     247
     visuotinėje apklausoje dėl Lietuvos nepriklausomybės dalyvavo 84 proc.
+    turinčiųjų teisę balsuoti, iš kurių net 90 proc. balsavo „Taip“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -73,5 +73,4 @@ Vartojamos formos: `veldėme`.
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas III]]

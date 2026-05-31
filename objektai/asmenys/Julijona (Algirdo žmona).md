@@ -286,6 +286,7 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/asmenys/Sofija]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Vyguntas]]
 - [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]

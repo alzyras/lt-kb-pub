@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1302 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1302'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)
 
@@ -29,23 +23,29 @@ tags:
 Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo. Dusburgietis teigia, kad kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo.'
   pagrindžia:
     - c-001
     - c-003
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip.'
   pagrindžia:
@@ -53,8 +53,8 @@ Nenurodyta
     - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus, persekiojo su 9 ginklanešiais iš Lietuvos atsibeldusius plėšikautojus, kurie Kristburgo pilies apylinkėse buvo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     281 (274). Apie brolio Gundramo bei daugelio lietuvių žūtį 1302 metais
@@ -70,13 +70,11 @@ Nenurodyta
     skridę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad kai jį mirusį ginklanešiai gabeno į Kristburgo pilį, moterys, kurias jis buvo išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
@@ -95,13 +93,11 @@ Nenurodyta
          282 (275).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.) papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tais metais brolis Gundramas, nedidelio stoto, tačiau be galo narsus ir drąsus žmogus,
@@ -113,11 +109,9 @@ Nenurodyta
     išvadavęs iš netikėlių vergovės, sakėsi mačiusios du baltus balandžius, sklandančius ore
     virš jo palaikų; jam sustojus, jie sustodavę vietoje, jam pajudėjus, vėl skrisdavę kaip
     skridę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
     - t-002

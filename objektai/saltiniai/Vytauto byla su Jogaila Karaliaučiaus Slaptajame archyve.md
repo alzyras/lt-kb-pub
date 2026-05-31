@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vytauto byla su Jogaila Karaliaučiaus Slaptajame archyve'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - kunigaikštis
@@ -27,17 +18,20 @@ tags:
 Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo žirgus/' 32 Hanulas tasai, keletą kartu paminė­ tas ano meto Lietuvos istorijos įvvkiuose, iš tikrųjų buvo vardu Han­ ka, nes Vladislovo Jogailos auten­ tiškame laiške: Datum in Krewferia.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč.'
   pagrindžia:
     - c-001
+
 - t-002
-  teiginys: 'Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo žirgus/'' 32 Hanulas tasai, keletą kartu paminė­ tas ano meto Lietuvos istorijos įvvkiuose, iš tikrųjų buvo vardu Han­ ka, nes Vladislovo Jogailos auten­ tiškame laiške: Datum in Krewferia.'
+  teiginys: 'Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo žirgus/'''' 32 Hanulas tasai, keletą kartu paminė­ tas ano meto Lietuvos istorijos įvvkiuose, iš tikrųjų buvo vardu Han­ ka, nes Vladislovo Jogailos auten­ tiškame laiške: Datum in Krewferia.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Net ir pats Vytautas
@@ -65,13 +59,11 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
     užsistojus, kartu su motina į tėvoniją, į Vitebską, išsiuntė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Ta­ da visa tai paėmė į savo valdžią - ir jo auksą, ir jo turtus, ir jo žirgus/'' 32 Hanulas tasai, keletą kartu paminė­ tas ano meto Lietuvos istorijos įvvkiuose, iš tikrųjų buvo vardu Han­ ka, nes Vladislovo Jogailos auten­ tiškame laiške: Datum in Krewferia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Hanulas, arba Hanka32,
@@ -92,8 +84,6 @@ Net ir pats Vytautas dėstydamas savo bylą su Jogaila, esančią Karaliauč. Ta
     2da in vigilia assumptionis B .
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

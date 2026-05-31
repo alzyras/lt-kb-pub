@@ -98,10 +98,6 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
   pagrindžia:
     - c-006
-- t-009
-  teiginys: 'MYNIŲ ULTIMATUMŲ ERA 177 Lietuva ir Lenkija: santykiai be santykių 177; Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas 179; Neutralumo politika ir Molotovo– Ribentropo paktas 183; SSRS 1940 metų ultimatumas ir sovietų okupacija 186 L I E T U.'
-  pagrindžia:
-    - c-007
 - t-010
   teiginys: 'Mičiūno reprodukcija) L I E T U V O S I S T O R I J A 196 Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos.'
   pagrindžia:
@@ -110,6 +106,10 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   teiginys: 'Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).'
   pagrindžia:
     - c-009
+- t-012
+  teiginys: 'MYNIŲ ULTIMATUMŲ ERA 177 Lietuva ir Lenkija: santykiai be santykių 177; Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas 179; Neutralumo politika ir Molotovo– Ribentropo paktas 183; SSRS 1940 metų ultimatumas ir sovietų okupacija 186 L I E T U.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -184,7 +184,44 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-007
+- c-008
+  santrauka: 'Mičiūno reprodukcija) L I E T U V O S I S T O R I J A 196 Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    (R. Mičiūno reprodukcija)
+
+    L I E T U V O S  I S T O R I J A
+    196
+    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
+    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
+    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
+    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
+    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
+    gus, oro uostus, fabrikus ir kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-009
+  santrauka: 'Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
+    veikimą sustabdytu prieš savo valią“. Daugumai ministrų atsisakius tapti
+    tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
+    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
+    baigėsi legalių lietuvių organizacijų veikla.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-010
   santrauka: 'MYNIŲ ULTIMATUMŲ ERA 177 Lietuva ir Lenkija: santykiai be santykių 177; Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas 179; Neutralumo politika ir Molotovo– Ribentropo paktas 183; SSRS 1940 metų ultimatumas ir sovietų okupacija 186 L I E T U.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -288,44 +325,7 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
-- c-008
-  santrauka: 'Mičiūno reprodukcija) L I E T U V O S I S T O R I J A 196 Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    (R. Mičiūno reprodukcija)
-
-    L I E T U V O S  I S T O R I J A
-    196
-    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
-    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
-    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
-    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
-    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
-    gus, oro uostus, fabrikus ir kt.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-009
-  santrauka: 'Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų susidariusią Lietuvių nacionalistų partiją).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo
-    veikimą sustabdytu prieš savo valią“. Daugumai ministrų atsisakius tapti
-    tarėjais rugsėjo 26-ąją naciai uždarė LAF (gruodį ir iš voldemarininkų su-
-    sidariusią Lietuvių nacionalistų partiją). Taip nacių okupuotoje Lietuvoje
-    baigėsi legalių lietuvių organizacijų veikla.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
+    - t-012
 
 ## Šaltiniai ir įrodymai
 
@@ -352,8 +352,8 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
 - [[objektai/grupes/NKGB]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/grupes/Nacių Vokietija]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/grupes/Sovietų Sąjungos komunistų partija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
 - [[objektai/posakiai/karas po karo]]

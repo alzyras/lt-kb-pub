@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1382 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1382'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - ordinas
   - paliaubos
   - tauta
+amziai:
+  - 'XIV'
 ---
 # Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)
 
@@ -30,26 +24,31 @@ tags:
 Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­ ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­ grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­ jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje sudarė su jais paliaubas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
@@ -73,9 +72,7 @@ Nenurodyta
     istoriją dera jo imtis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

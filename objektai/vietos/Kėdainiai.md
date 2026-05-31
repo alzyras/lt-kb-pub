@@ -65,22 +65,10 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-010
-  teiginys: 'Sužiedėlio kelias į Lietuvos istorijos sritį ėjo per isto­ rijos mokytojo darbą gimnazijose, būtent lietuvių gimnazijoje Rygoje (1927-1935) ir Kėdainiuose.'
-  pagrindžia:
-    - c-005
-- t-011
-  teiginys: 'Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri yra paremta svarbia archyvine medžiaga, labiausiai panaudojant švedų archyvus.'
-  pagrindžia:
-    - c-006
 - t-012
   teiginys: 'Kėdainių srities apsaugos viršininkas J. Šarauskas Kėdainiuose suorganizavo savanorių būrį.'
   pagrindžia:
     - c-007
-- t-013
-  teiginys: 'Tada pražydo protestantų Radvilų centruose esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas Vilniaus mokyklos turtų.'
-  pagrindžia:
-    - c-008
 - t-014
   teiginys: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
   pagrindžia:
@@ -93,6 +81,18 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginys: 'Tai pakėlė ūpą ir pasijutę stipresni, savanoriai vėl grįžo į Kėdainius, pasiryžę iš jų nesitraukti nė žingsnio.'
   pagrindžia:
     - c-011
+- t-017
+  teiginys: 'Tada pražydo protestantų Radvilų centruose esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas Vilniaus mokyklos turtų.'
+  pagrindžia:
+    - c-012
+- t-018
+  teiginys: 'Sužiedėlio kelias į Lietuvos istorijos sritį ėjo per isto­ rijos mokytojo darbą gimnazijose, būtent lietuvių gimnazijoje Rygoje (1927-1935) ir Kėdainiuose.'
+  pagrindžia:
+    - c-013
+- t-019
+  teiginys: 'Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri yra paremta svarbia archyvine medžiaga, labiausiai panaudojant švedų archyvus.'
+  pagrindžia:
+    - c-014
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1919 m. bolševikų ekspansija buvo stabdoma prie Kėdainių.'
@@ -175,37 +175,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
-- c-005
-  santrauka: 'Sužiedėlio kelias į Lietuvos istorijos sritį ėjo per isto­ rijos mokytojo darbą gimnazijose, būtent lietuvių gimnazijoje Rygoje (1927-1935) ir Kėdainiuose.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    S. Sužiedėlio kelias į Lietuvos istorijos sritį ėjo per isto­
-    rijos mokytojo darbą gimnazijose, būtent lietuvių gimnazijoje Rygoje
-    (1927-1935) ir Kėdainiuose. Tik 1939 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-006
-  santrauka: 'Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri yra paremta svarbia archyvine medžiaga, labiausiai panaudojant švedų archyvus.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655
-    metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri
-    yra paremta svarbia archyvine medžiaga, labiausiai panaudojant
-    švedų archyvus. Savo išvadas jis yra davęs straipsniuose apie
-    Jonušą Radvilą ir Švediją (Židinys, 1939) ir Kėdainių sutartį
-    (LE, t, 11).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
 - c-007
   santrauka: 'Kėdainių srities apsaugos viršininkas J. Šarauskas Kėdainiuose suorganizavo savanorių būrį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -223,23 +192,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-- c-008
-  santrauka: 'Tada pražydo protestantų Radvilų centruose esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas Vilniaus mokyklos turtų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tada pražydo protestantų Radvilų centruose
-    esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas
-    Vilniaus mokyklos turtų. Ypač garsėjo Kėdainių mokykla: mat,
-    Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros
-    centru. Čia net buvo įsteigta spaustuvė, kurioje buvo spausdina-
-    mos religinio turinio knygos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
 - c-009
   santrauka: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -308,3 +260,53 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-012
+  santrauka: 'Tada pražydo protestantų Radvilų centruose esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas Vilniaus mokyklos turtų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tada pražydo protestantų Radvilų centruose
+    esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas
+    Vilniaus mokyklos turtų. Ypač garsėjo Kėdainių mokykla: mat,
+    Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros
+    centru. Čia net buvo įsteigta spaustuvė, kurioje buvo spausdina-
+    mos religinio turinio knygos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-013
+  santrauka: 'Sužiedėlio kelias į Lietuvos istorijos sritį ėjo per isto­ rijos mokytojo darbą gimnazijose, būtent lietuvių gimnazijoje Rygoje (1927-1935) ir Kėdainiuose.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jis rašinėjo daug smulkių straipsnių
+    iš Lietuvos istorijos ir į dienos spaudą^90.
+    S. Sužiedėlio kelias į Lietuvos istorijos sritį ėjo per isto­
+    rijos mokytojo darbą gimnazijose, būtent lietuvių gimnazijoje Rygoje
+    (1927-1935) ir Kėdainiuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-014
+  santrauka: 'Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri yra paremta svarbia archyvine medžiaga, labiausiai panaudojant švedų archyvus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655
+    metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri
+    yra paremta svarbia archyvine medžiaga, labiausiai panaudojant
+    švedų archyvus. Savo išvadas jis yra davęs straipsniuose apie
+    Jonušą Radvilą ir Švediją (Židinys, 1939) ir Kėdainių sutartį
+    (LE, t, 11).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019

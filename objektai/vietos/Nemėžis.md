@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Nemėžis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
@@ -26,20 +17,26 @@ tags:
 Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs šaunus pergalingas karys Vytautas; be jų pa­ grindinės gyvenvietės prie Vokės upės, be tų, kurie įsikūrė mieste ir kurie apsigyveno vietovėje, vadinto­ je Nemėžiu, per mylią nuo Vilniaus į. Ją sutiko pats Aleksandras per pusę mylios nuo miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­ tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­ bėjo.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs šaunus pergalingas karys Vytautas; be jų pa­ grindinės gyvenvietės prie Vokės upės, be tų, kurie įsikūrė mieste ir kurie apsigyveno vietovėje, vadinto­ je Nemėžiu, per mylią nuo Vilniaus į.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Ją sutiko pats Aleksandras per pusę mylios nuo miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­ tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­ bėjo.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs šaunus pergalingas karys Vytautas; be jų pa­ grindinės gyvenvietės prie Vokės upės, be tų, kurie įsikūrė mieste ir kurie apsigyveno vietovėje, vadinto­ je Nemėžiu, per mylią nuo Vilniaus į.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs šaunus pergalingas karys Vytautas; be jų pa­ grindinės gyvenvietės prie Vokės upės, be tų, kurie įsikūrė mieste ir kurie apsigyveno vietovėje, vadinto­ je Nemėžiu, per mylią nuo Vilniaus į.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    ]* -
+    Gana grėsmingai įsiliepsnojo pirmieji nesuta­
+    rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos
+    bus užtraukusi: mat parašė laišką Vytautui prašydama išmo-
+    miestų, kuriuos reikėtų saugoti.]* -
     Šitas, nepalankus lietuvių atžvilgiu
     palyginimas su totoriais gal persū­
     dytas, tačiau negalima būtų nugin­
@@ -61,19 +58,18 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
     garduko pavietus, kur iki šiolei ne­
     būtų išlikę totorių buveinių pėdsakų
     pavadinimuose: Totoriškės, Totorių
-    kapinės ir 1.
+    kapinės ir 1.1.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Ją sutiko pats Aleksandras per pusę mylios nuo miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­ tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­ bėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    ), sužadėtoji didžioji kunigaikštytė Elena, ki­
+    O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
+    terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
     tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
     sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
     Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
@@ -88,8 +84,6 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
     Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

@@ -60,7 +60,6 @@ Nenurodyta
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/spiritus movens]]

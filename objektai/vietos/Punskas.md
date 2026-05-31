@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Punskas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1920 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
+date_start: '1920'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1920'
-date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
-tags:
-  - vieta
 ---
 # Punskas
 
@@ -30,67 +24,96 @@ tags:
 Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas. Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.
 
 ## Teiginiai
+
+- t-003
+  teiginys: 'Paskutinė federacijos su Lenkija galimybė Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
+  pagrindžia:
+    - c-001
+
 - t-001
   teiginys: 'Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Paskutinė federacijos su Lenkija galimybė Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
+
+- t-004
+  teiginys: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'
   pagrindžia:
-    - c-003
+    - c-004
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Paskutinė federacijos su Lenkija galimybė
-    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
-    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
-    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
-    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
-    cialinį atspalvį – 1920 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: 'Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Rugsėjo 22 d. „Gediminas“ susirėmė su
+    Iš Kauno šarvuotas trauki-
+    nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
     lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
     kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Paskutinė federacijos su Lenkija galimybė Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
+
+- c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
+    ir Estija, jos taip pat apgynė savo nepriklausomybę.
     Paskutinė federacijos su Lenkija galimybė
     Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
     apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
     gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
     ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
-    cialinį atspalvį – 1920 m.
+    cialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius
+    paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
+    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
+    dvarus, visi, kas sveiki, turi griebtis ginklo“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Atsilaikė prieš bolševikus ir kaimynės – Lenkija, Suomija, Latvija
+    ir Estija, jos taip pat apgynė savo nepriklausomybę.
+    Paskutinė federacijos su Lenkija galimybė
+    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
+    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
+    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
+    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
+    cialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius
+    paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
+    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
+    dvarus, visi, kas sveiki, turi griebtis ginklo“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-004
+  santrauka: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ra-
+    tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
+    bet kokių pretenzijų į Vilniaus kraštą. Savo ruožtu Lietuva nustojo teisės
+    reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tau-
+    tinių mažumų klausimas kartais dar kelia karštas diskusijas.
+    Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
+    se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
+    atiduota 50-čiai metų administruoti SSRS.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004

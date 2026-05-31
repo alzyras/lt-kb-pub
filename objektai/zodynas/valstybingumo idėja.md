@@ -179,7 +179,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija]]

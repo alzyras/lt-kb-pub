@@ -1,42 +1,11 @@
 ---
+tipas: zodyno_irasas
+pavadinimas: 'Prūsijos žemė'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 sukurta: ''
 atnaujinta: ''
 ---
----
-  tipas: zodyno_irasas
-  pavadinimas: "Prūsijos žemė"
-  sukurta: "2026-05-30"
-  variantai:
-- "terra Prussiae"
-- "Prūsijos"
-- "prūsų vardu"
-  aliases: []
-  saltiniai:
-- "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
-  laikotarpis: "XIII–XIV a. pirmojo trečdalio kronikos kontekstas"
-  datos:
-- "1330 m."
-  periodas: "viduramziai"
-  periodo_grupes:[]
-  amziai:
-- "XIII"
-- "XIV"
-  date_start: ""
-  date_end: "1330"
-  vaidmenys: []
-  dalyviai: []
-  susije_irasai: []
-  patikimumas: "aukštas"
-  tags:[]
-  ---
 # Prūsijos žemė
 
 ## Santrauka
@@ -56,60 +25,25 @@ Politinis ir teritorinis visos kronikoje aprašomos Ordino valdomos Prūsijos er
 Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nusakyti.
 
 ## Teiginiai
-- t-001
-  teiginys: "Petro iš Dusburgo kronikoje visa `Prūsijos žemė` (`terra Prussiae`) skirstoma į vienuolika atskirų žemių."
-  pagrindžia:
-    - c-001
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Petro iš Dusburgo kronikoje visa `Prūsijos žemė` (`terra Prussiae`) skirstoma į vienuolika atskirų žemių.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, atskirų žemių.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: `Prūsijos žemė` kronikoje pateikiama kaip vienuolikos žemių visuma.
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
-    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
-    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
-    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
-      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
-    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
-    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
-    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
-    sritį valdė prūsai, turėję ten savo pilių (III,7).
-      Kalbant apie pagrindinę prūsų teritoriją, prūsų ir lietuvių tarpusavio santykius, reikia
-      1 Пашуто В.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, atskirų žemių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Prūsai ir Lietuva
@@ -124,11 +58,61 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
     Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
+    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
+    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
+    sritį valdė prūsai, turėję ten savo pilių (III,7).
+      Kalbant apie pagrindinę prūsų teritoriją, prūsų ir lietuvių tarpusavio santykius, reikia
+      1 Пашуто В.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
+    iki Nemuno.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-004
+  santrauka: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
+    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
+    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
+    sritį valdė prūsai, turėję ten savo pilių (III,7).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

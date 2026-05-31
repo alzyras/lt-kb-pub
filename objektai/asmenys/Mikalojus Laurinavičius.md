@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mikalojus Laurinavičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1435 m.'
   - '1492 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1435'
 date_end: '1492'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - ordinas
   - tikėjimas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Mikalojus Laurinavičius
 
@@ -31,13 +27,15 @@ tags:
 Jo brolis Mikalojus Laurinavi­ čius ilgai buvo burmistras, o Jachnos sūnus viename 1491 metų doku­ mente yra vadinamas: Magister Ber­ nardus, Domini Jachno filius [Magist­ ras Bernardas, pono Jachnos sūnus].
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jo brolis Mikalojus Laurinavi­ čius ilgai buvo burmistras, o Jachnos sūnus viename 1491 metų doku­ mente yra vadinamas: Magister Ber­ nardus, Domini Jachno filius [Magist­ ras Bernardas, pono Jachnos sūnus].'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jo brolis Mikalojus Laurinavi­ čius ilgai buvo burmistras, o Jachnos sūnus viename 1491 metų doku­ mente yra vadinamas: Magister Ber­ nardus, Domini Jachno filius [Magist­ ras Bernardas, pono Jachnos sūnus].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
@@ -60,9 +58,7 @@ Jo brolis Mikalojus Laurinavi­ čius ilgai buvo burmistras, o Jachnos sūnus vi
     to aktų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

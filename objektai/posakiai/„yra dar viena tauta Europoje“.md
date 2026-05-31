@@ -1,29 +1,22 @@
 ---
 tipas: posakis
 pavadinimas: '„yra dar viena tauta Europoje“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1783 m.'
-  - '1789 m.'
   - '1791 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1783'
 date_end: '1791'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - reforma
   - tauta
   - valdovas
+amziai:
+  - 'XVIII'
 ---
 # „yra dar viena tauta Europoje“
 
@@ -32,13 +25,15 @@ tags:
 Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Europoje“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Europoje“.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Europoje“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-
@@ -55,9 +50,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     mėnesiais aplenkusi Prancūzijos konstituciją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,26 +1,20 @@
 ---
 tipas: daiktas
 pavadinimas: 'Antspaudai ir pergamentiniai privilegijų originalai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1413 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1413'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - privilegija
   - upė
+amziai:
+  - 'XV'
 ---
 # Antspaudai ir pergamentiniai privilegijų originalai
 
@@ -29,33 +23,40 @@ tags:
 Tos privilegijos originalas, išlikęs kapitulos archyve, rašytas ant pergamento lakšto, go­ tiškomis raidėmis, lotyniškai, ir iki šios dienos gerai įskaitomas; ant­ spaudai yra buvę du: sigillum nost­ rum majus et authenticum cum alio si­ bi minori a tergo. Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tos privilegijos originalas, išlikęs kapitulos archyve, rašytas ant pergamento lakšto, go­ tiškomis raidėmis, lotyniškai, ir iki šios dienos gerai įskaitomas; ant­ spaudai yra buvę du: sigillum nost­ rum majus et authenticum cum alio si­ bi minori a tergo.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Tos privilegijos originalas, išlikęs kapitulos archyve, rašytas ant pergamento lakšto, go­ tiškomis raidėmis, lotyniškai, ir iki šios dienos gerai įskaitomas; ant­ spaudai yra buvę du: sigillum nost­ rum majus et authenticum cum alio si­ bi minori a tergo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tos privilegijos originalas, išlikęs kapitulos archyve, rašytas ant pergamento lakšto, go­ tiškomis raidėmis, lotyniškai, ir iki šios dienos gerai įskaitomas; ant­ spaudai yra buvę du: sigillum nost­ rum majus et authenticum cum alio si­ bi minori a tergo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2-ąja yra ap­
@@ -89,13 +90,11 @@ Nenurodyta
     et artium Magister.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Buvo ir tos privilegijos Žygimanto Augusto patvirtinimas su dviem antspaudais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Unia v-a
@@ -108,9 +107,7 @@ Nenurodyta
     patvirtinimas su dviem antspaudais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

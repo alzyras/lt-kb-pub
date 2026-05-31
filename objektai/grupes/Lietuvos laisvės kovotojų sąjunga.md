@@ -104,7 +104,6 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]

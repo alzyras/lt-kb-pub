@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1328 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1328'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)
 
@@ -28,18 +22,23 @@ tags:
 Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino lietuviai146.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino lietuviai146.'
   pagrindžia:
@@ -47,8 +46,8 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino lietuviai146.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
@@ -58,13 +57,11 @@ Nenurodyta
     nukreipti prieš Lietuvą, faktus pateikia Ordino interesų dvasia.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara) papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
@@ -72,11 +69,9 @@ Nenurodyta
       Dusburgiečio kronikoje nepaisoma ir kitų faktų145. Pažymėjęs, jog kryžiuočiai 1328
     m. vasarą apleido Kristmemelio pilį prie žemutinio Nemuno, jis nutyli, kad ją sunaikino
     lietuviai146.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

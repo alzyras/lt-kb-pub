@@ -1,26 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Tula'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
+date_start: '1936'
+date_end: '2026'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1936'
-date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
-tags:
-  - vieta
 ---
 # Tula
 
@@ -29,42 +24,76 @@ tags:
 Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Žygio metu buvo pasiekta Tula.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '163 Tula 125, 159, 321, 371 Tumas J.'
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Žygio metu buvo pasiekta Tula.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šito žygio metu
-    buvo pasiekta net Tula, Kaluga ir Riazanė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-001
+  teiginys: 'Žygio metu buvo pasiekta Tula.'
   pagrindžia:
-    - t-001
+    - c-001
+
+- t-003
+  teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  pagrindžia:
+    - c-003
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: '163 Tula 125, 159, 321, 371 Tumas J.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    163
+    Trusas (Drausensee) 111
+    Truska L. 81
+    Tucze (Dutze), kng. 163
     Tula 125, 159, 321, 371
-    Tumas J.
+    Tumas J. 52, 53
+    Tumler M. 91, 167, 169, 210
+    Tureiskas 201
+    Turkija 23
+    Turovas 225, 242, 245, 297
+    Tverai Žemaičiuose, 171
+    Tverca, upė 158
+    Tverė (Kalininas), kng-ja ir kng. 21,
+    125, 159, 198, 213, 225, 239-242,
+    263-266, 313, 321 ; Tverės kautynės
+    184 ; Tverės metraščiai 168
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vytautas
+    tuojau išžygiavo į Maskvą, bet jaunučio Maskvos kunigaikš-
+    čio Vosyliaus II motina, Vytauto duktė Sofija, atvykusi jo pa-
+    sitikti į Smolenską, permaldavo Vytautą, ir jis tuo metu tepri-
+    jungė prie Lietuvos tik keletą kunigaikštysčių, kurios anksčiau
+    svyravo tarp Maskvos ir Lietuvos. Be to, jis pats pasidarė
+    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
+    buvo pasiekta net Tula, Kaluga ir Riazanė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, jis pats pasidarė
+    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
+    buvo pasiekta net Tula, Kaluga ir Riazanė. Iš tikro tai buvo
+    ne karas, o vien kelionės žygis, nes rusų kunigaikštėliai net ne-
+    išdrįso kariauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

@@ -1,24 +1,18 @@
 ---
 tipas: saltinis
 pavadinimas: 'Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1432 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1432'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
+amziai:
+  - 'XV'
 ---
 # Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko
 
@@ -27,16 +21,19 @@ tags:
 Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    1. Antrasis laiškas
+    Jur­
+    gio paveikslo ir 1.1. Antrasis laiškas
     yra paties Švitrigailos rašytas didžia­
     jam magistrui iš Polocko, likus 5 die­
     noms iki Mergelės Marijos gimimo,
@@ -53,8 +50,6 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
     locką.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

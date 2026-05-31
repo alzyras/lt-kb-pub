@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
   - ordinas
   - vyskupas
+amziai:
+  - 'XIV'
 ---
 # Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)
 
@@ -30,26 +24,31 @@ tags:
 Dusburgietis teigia, kad nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Popiežius 1324 m. įsakė kryžiuočiams susilaikyti nuo bet kokių žygių prieš Gedimino
@@ -63,9 +62,7 @@ Nenurodyta
     ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

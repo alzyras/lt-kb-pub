@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Šventasis Kazimieras'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1484 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1484'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kraštas
   - kunigaikštis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Šventasis Kazimieras
 
@@ -30,13 +26,15 @@ tags:
 Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo gerumą ir kuklumą, miršta nuo džio­ vos Žemutinėje pilyje kovo 4-ą dieną.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo gerumą ir kuklumą, miršta nuo džio­ vos Žemutinėje pilyje kovo 4-ą dieną.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo gerumą ir kuklumą, miršta nuo džio­ vos Žemutinėje pilyje kovo 4-ą dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta­
@@ -50,9 +48,7 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
     vę, o kartu ir visam kraštui Globėjo vardą39.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

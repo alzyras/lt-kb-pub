@@ -74,7 +74,6 @@ Nenurodyta
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/107-oji motošaulių divizija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Augustinas Voldemaras]]

@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Gotardas Ketleris'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1579 m.'
   - '1582 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1579'
 date_end: '1582'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - miestas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Gotardas Ketleris
 
@@ -31,17 +27,20 @@ tags:
 Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius, su kuriais turėjo daugiausia darbo. Šiuo raštu skelbiame vi­ siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­ triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­ utonų ordino Livonijoje magistras, vildamasis mūsų ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius, su kuriais turėjo daugiausia darbo.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Šiuo raštu skelbiame vi­ siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­ triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­ utonų ordino Livonijoje magistras, vildamasis mūsų ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius, su kuriais turėjo daugiausia darbo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius, su kuriais turėjo daugiausia darbo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Būdamas arčiausiai karo židinio, Stepono Batoro laikais
@@ -59,15 +58,14 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
     sipelniusius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Šiuo raštu skelbiame vi­ siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­ triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­ utonų ordino Livonijoje magistras, vildamasis mūsų ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Et si autem ipsi quoq.
     in ea sententia extitimus, omni ratione, ut nobis providendum
     statueremus, ne cuiquam ullas ad res, a Sacrosanctae Ecclesiae
     institutis alienas, autb-tem n-ram impertijsse videri posse­
@@ -93,9 +91,7 @@ Gotardas Ketleris išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lop
     Augustino tikėjimą, leistume laisvai naudotis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

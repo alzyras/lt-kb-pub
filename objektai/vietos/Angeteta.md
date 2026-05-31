@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Angeteta'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - pilis
@@ -26,13 +17,15 @@ tags:
 Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     337 D.— Angetete, Jer.— Angetêtin. Pilis buvo tapatinama su gerokai į pietryčius nuo
@@ -43,8 +36,6 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
     Gross Engelau, bet jo pėdsakų kol kas nerasta (CV, t.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

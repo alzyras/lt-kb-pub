@@ -86,4 +86,3 @@ Nenurodyta
 - [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]
-- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]

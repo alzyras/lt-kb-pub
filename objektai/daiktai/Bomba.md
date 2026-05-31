@@ -136,5 +136,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/diplomatija]]
-- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/daiktai/Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija]]
+- [[objektai/asmenys/Ernestas Galvanauskas]]

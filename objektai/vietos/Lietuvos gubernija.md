@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Lietuvos gubernija'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -18,16 +15,20 @@ tags:
 Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po trečiojo padalinimo Rusijai tekusios žemės vėliau buvo sujungtos į vieną Lietuvos guberniją.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po trečiojo padalinimo Rusijai tekusios žemės vėliau buvo sujungtos į vieną Lietuvos guberniją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Rusų valdžia.** Visos po trečiojo padalinimo Rusijai teku-
@@ -36,10 +37,26 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
     į vieną Lietuvos guberniją, bet netrukus vėl buvo pa-
     dalintos net į 3 — Vilniaus, Kauno ir Gardino — gu-
     bernijas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Rusų įvestoji tvarka
+
+    **Rusų valdžia.** Visos po trečiojo padalinimo Rusijai teku-
+    sios žemės iš pradžių buvo padalintos į dvi gubernijas —
+    Vilniaus ir Slanimo. Po kiek laiko jos buvo sujungtos
+    į vieną Lietuvos guberniją, bet netrukus vėl buvo pa-
+    dalintos net į 3 — Vilniaus, Kauno ir Gardino — gu-
+    bernijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

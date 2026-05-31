@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Albrechtas (Prūsijos kunigaikštis)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -25,13 +16,15 @@ tags:
 Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfiurstui, Albrechtui, Prūsijos ku­ nigaikščiui, visiems trims, norime, kad būtų duota po du gerus žirgus, prašydamas jų didenybių kaip savo giminai­ čių, kad giminiškos meilės ženklan.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfiurstui, Albrechtui, Prūsijos ku­ nigaikščiui, visiems trims, norime, kad būtų duota po du gerus žirgus, prašydamas jų didenybių kaip savo giminai­ čių, kad giminiškos meilės ženklan.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfiurstui, Albrechtui, Prūsijos ku­ nigaikščiui, visiems trims, norime, kad būtų duota po du gerus žirgus, prašydamas jų didenybių kaip savo giminai­ čių, kad giminiškos meilės ženklan.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taipgi norime, kad jos didenybei karalai­
@@ -54,9 +47,7 @@ Po to jų didenybėms: kunigaikščiui Jonui Jurgiui, Brandenburgo grafui, kurfi
     vas už tai jų didenybes dosniai apdovanos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

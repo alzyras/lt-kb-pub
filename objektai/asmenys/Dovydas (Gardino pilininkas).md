@@ -140,14 +140,14 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginys: 'kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi abipusiai puldinėjimai.'
   pagrindžia:
     - c-018
-- t-020
-  teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
-  pagrindžia:
-    - c-019
 - t-021
   teiginys: 'Dusburgietis teigia, kad medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn.'
   pagrindžia:
     - c-020
+- t-022
+  teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 
@@ -498,23 +498,6 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
-- c-019
-  santrauka: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ). Strijkovskis, 1. 406, pri­
-    simena dar vieną Gedimino dukrą,
-    kuri esą buvusi anuomet garbingo
-    riterio Dovydo, Gardino kašteliono,
-    arba tiksliau kunigaikščio, viešpata­
-    vusio Gardino valdoje, žmona.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
 - c-020
   santrauka: 'Dusburgietis teigia, kad medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -532,6 +515,23 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-021
+- c-021
+  santrauka: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ). Strijkovskis, 1. 406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 ### Susiję objektai

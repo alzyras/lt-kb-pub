@@ -1,25 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Dziennik Wileński Nr. 1 (1829 m.) žygio į Vilnių aprašymas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1829 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1829'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - mokslininkas
   - saltinis
+amziai:
+  - 'XIX'
 ---
 # Dziennik Wileński Nr. 1 (1829 m.) žygio į Vilnių aprašymas
 
@@ -28,16 +22,21 @@ tags:
 Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ šymą nepasirašę įdėjome į 1829 metų Dziennik Wileński Nr. 1.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ šymą nepasirašę įdėjome į 1829 metų Dziennik Wileński Nr. 1.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ šymą nepasirašę įdėjome į 1829 metų Dziennik Wileński Nr. 1.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tūkstančiui rinktinių anglų
+    Galop ta galinga kariauna išsiruošė į
+    žygį vedama vyriausiojo vado Ordino maršalo Engelhardo
+    Rabės22, kadangi didysis magistras Konradas Ciolneris gu­
+    lėjo pakirstas sunkios ligos. Tūkstančiui rinktinių anglų
     21
     To įsidėmėtino žygio į Vilnių apra­
     šymą nepasirašę įdėjome į 1829 metų
@@ -53,8 +52,6 @@ Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ š
     Onacevičius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

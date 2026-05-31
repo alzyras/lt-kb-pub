@@ -1,30 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus Aukštutinė pilis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1387 m.'
-  - '1388 m.'
   - '1827 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XIX'
 date_start: '1387'
 date_end: '1827'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - pilis
   - valdovas
+amziai:
+  - 'XIV'
+  - 'XIX'
 ---
 # Vilniaus Aukštutinė pilis
 
@@ -33,28 +26,48 @@ tags:
 Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą. Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux. Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: '- Praneša man vėliau, kad įvyko griū­ tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki" priežasties.'
   pagrindžia:
     - c-004
+
+- t-001
+  teiginys: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­ no Vilniumi pagal Vilnios upės vardą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Liz­
+    „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
     deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
     išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
     apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
@@ -68,13 +81,11 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     XI Knyga, sk.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir 16 Skirgaila ne anksčiau kaip 1388 me­ tais tapo didžiuoju kunigaikščiu, nes 1387 metais visuose dokumentuose visur vadinamas Skargalo Dux.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
@@ -113,15 +124,15 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     Magdeburgo teisių tarp miestiečių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Paminėsime tad tik
+    žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
     Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­
     ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri-
     jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam
@@ -141,13 +152,11 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: '- Praneša man vėliau, kad įvyko griū­ tis kalno, ant kurio stovi Aukštutinė pilis, dėl „Spieki" priežasties.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mano Petras negalėjo išsiteirauti apie Švitri­
@@ -161,8 +170,6 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     užvertė visas jo brangenybes.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004

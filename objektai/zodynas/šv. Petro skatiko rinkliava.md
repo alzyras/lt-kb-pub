@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'šv. Petro skatiko rinkliava'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - popiežius
@@ -27,13 +18,15 @@ tags:
 Petro skatiko rinkliavų, arba su Rygos arki­ vyskupu, turint omenyje senus jo skundus, arba su Lietuvos valdovu, už ir prieš kryžiuočius popiežiaus rūmuose Avinjo­ ne tieka priporinta, tad lengvai suprastume, kaip popiežiui bu­ vo neapsakomai sunku ir, žinia.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Petro skatiko rinkliavų, arba su Rygos arki­ vyskupu, turint omenyje senus jo skundus, arba su Lietuvos valdovu, už ir prieš kryžiuočius popiežiaus rūmuose Avinjo­ ne tieka priporinta, tad lengvai suprastume, kaip popiežiui bu­ vo neapsakomai sunku ir, žinia.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Petro skatiko rinkliavų, arba su Rygos arki­ vyskupu, turint omenyje senus jo skundus, arba su Lietuvos valdovu, už ir prieš kryžiuočius popiežiaus rūmuose Avinjo­ ne tieka priporinta, tad lengvai suprastume, kaip popiežiui bu­ vo neapsakomai sunku ir, žinia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     3 baigiamas
@@ -68,9 +61,7 @@ Petro skatiko rinkliavų, arba su Rygos arki­ vyskupu, turint omenyje senus jo 
     rendį įnirtingo pykčio apimtoms pusėms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -76,10 +76,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginys: 'Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­ syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.'
   pagrindžia:
     - c-003
-- t-014
-  teiginys: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
-  pagrindžia:
-    - c-005
 - t-015
   teiginys: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
   pagrindžia:
@@ -88,6 +84,10 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginys: 'Paskui kai kas nors, Dievo Apvaizda, po mūsų į mūsų sostą įžengs ir taps įpėdiniu, taip pat ir visų abiejų valstybių luomų tarybų prašome, kad netrukdytų ir, priešingai, padėtų padalinti mūsų turtus že­ miau aprašytu papročiu, be gaišaties, delsimo, pokštų.'
   pagrindžia:
     - c-007
+- t-017
+  teiginys: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -272,27 +272,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-005
-  santrauka: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jam pavaldi
-    buvo ir šiose gubernijose dislokuota kariuomenė.
-
-    L I E T U V O S  I S T O R I J A
-    100
-    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
-    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
-    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
-    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
-    vietos administracijos, atlikusios iš esmės pagalbines funkcijas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
 - c-006
   santrauka: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -361,6 +340,27 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-008
+  santrauka: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jam pavaldi
+    buvo ir šiose gubernijose dislokuota kariuomenė.
+
+    L I E T U V O S  I S T O R I J A
+    100
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai
@@ -411,6 +411,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - [[objektai/asmenys/Merkelis Savickis]]
 - [[objektai/grupes/Miestiečiai ir valstiečiai]]
 - [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas]]
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/asmenys/Mikalojus Sachovskis]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus]]

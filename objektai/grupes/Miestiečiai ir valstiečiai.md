@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Miestiečiai ir valstiečiai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
@@ -21,29 +18,49 @@ tags:
 Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmą kartą užsiminė apie valstybės globą valstiečiams.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Miestiečių teises ir įformino Gegužės trečiosios konstitucija.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmą kartą užsiminė apie valstybės globą valstiečiams.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prieš tai Seimas ėmėsi la-
+    bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
+    suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą. Mies-
+    tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
+    užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
+    su dvarininkais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  santrauka: 'Miestiečių teises ir įformino Gegužės trečiosios konstitucija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mies-
     tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
     užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
-    su dvarininkais.
-  citata_rodoma: ""
+    su dvarininkais. Taigi konstitucijoje vartojamas terminas „tauta“ jau ne-
+    reiškė tik „bajorų tautos“, o apėmė lygiai bajorus, miestiečius ir valstie-
+    čius.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

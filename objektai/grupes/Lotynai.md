@@ -1,25 +1,19 @@
 ---
 tipas: grupe
 pavadinimas: 'Lotynai'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1200 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 date_start: '1200'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - miestas
+amziai:
+  - 'XII'
 ---
 # Lotynai
 
@@ -28,14 +22,16 @@ tags:
 Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten lotynai 57 metus (Ptol.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten lotynai 57 metus (Ptol.'
   pagrindžia:
     - c-001
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten lotynai 57 metus (Ptol.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Konstantinopolio miesto užėmimą
@@ -47,13 +43,11 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
     lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Lotynai papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1200 viešpaties metais Konstantinopolio miestą, kuriam buvę išpranašauta, jog
@@ -61,11 +55,9 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
     įsiveržę pro sieną, ant kurios buvęs nupieštas angelas. Netikras angelo kvietimas  ir
     apgavo miestiečius. Ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi, ir valdė ten
     lotynai 57 metus (Ptol. 21,4; Mart. p. 387).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -79,13 +71,13 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - [[objektai/autoriai/Augustinas Mieleckis Rotundas]]
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/asmenys/Balduinas (Flandrijos grafas)]]
+- [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
 - [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]
 - [[objektai/asmenys/Ghillebert de Lannoy]]
 - [[objektai/autoriai/Grigalius Kniaževičius]]
 - [[objektai/asmenys/Horacijus]]
 - [[objektai/autoriai/I. Lappo]]
-- [[objektai/autoriai/Irena Katilienė]]
 - [[objektai/paprociai/Itališkos mados perėmimas Lietuvos diduomenėje]]
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/autoriai/Janockis]]
@@ -95,16 +87,13 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
-- [[objektai/autoriai/Jūratė Dalia Baronienė]]
 - [[objektai/asmenys/Kasparas Bekešas]]
 - [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.)]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Laurynas Goslickis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/grupes/Lietuvos jėzuitų kolegijos]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/asmenys/Martynas Liuteris]]
 - [[objektai/autoriai/Martynas Smigleckis]]
 - [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
@@ -112,7 +101,6 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - [[objektai/asmenys/Motiejus Kazimieras Sarbievijus]]
 - [[objektai/autoriai/Mykolas Lietuvis]]
 - [[objektai/ivykiai/Nenugalimosios armados nesėkmė]]
-- [[objektai/autoriai/Ona Slavėnaitė]]
 - [[objektai/autoriai/Ossoliński]]
 - [[objektai/asmenys/Otto Blanehom]]
 - [[objektai/asmenys/P. Speratas]]
@@ -145,5 +133,4 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
 - [[objektai/autoriai/Žygimantas Liauksminas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/posakiai/„Palemono universitetu“ „Lietuvos palemoniškųjų miestų sostine“]]
-- [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/autoriai/Peringskioeld]]

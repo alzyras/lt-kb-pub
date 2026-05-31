@@ -108,7 +108,6 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 - [[objektai/zodynas/vora]]
 - [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas]]
-- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]

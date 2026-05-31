@@ -1,18 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Mindaugo karūnacija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1251 m.'
+  - '1253 m.'
+date_start: '1251'
+date_end: '1253'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - krikštas
   - ordinas
+amziai:
+  - 'XIII'
 ---
 # Mindaugo karūnacija
 
@@ -21,42 +25,36 @@ tags:
 Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius. Mindaugo vainikavimas Mindaugo karūnacija.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Mindaugo vainikavimas Mindaugo karūnacija.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: 'Mindaugo vainikavimas Mindaugo karūnacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugo vainikavimas
@@ -64,11 +62,37 @@ Nenurodyta
     Dail. A. Varnas, 1952–1953 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
+    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
+    mas ir vienintelis vainikuotas Lietuvos karalius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: 'Mindaugo vainikavimo dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
+    jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
+    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
+    mas ir vienintelis vainikuotas Lietuvos karalius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -84,3 +108,4 @@ Nenurodyta
 - [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“]]
+- [[objektai/daiktai/Karūna]]

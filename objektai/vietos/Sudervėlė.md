@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Sudervėlė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - mūšis
@@ -27,13 +18,15 @@ tags:
 To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­ lio; apie pastarąjį mūšį užsimena Strijkovskis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo neat­
@@ -47,8 +40,6 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
     šis tas iš technikos, tarp kurių - malūnas, kalvė ir lentpjūvė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

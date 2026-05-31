@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1384 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1384'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karas
   - kraštas
   - ordinas
+amziai:
+  - 'XIV'
 ---
 # Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)
 
@@ -30,26 +24,31 @@ tags:
 Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 1384 metais buvo sudaryta sutartis, ku­ ria Ordinas prisiekė atgauti Vytau­ tui iš jo atimtą tėvoniją, o Vytautas tuo atveju, jeigu neturėtų įpėdinių, savo paveldėjimo teises į valstybę.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 1384 metais buvo sudaryta sutartis, ku­ ria Ordinas prisiekė atgauti Vytau­ tui iš jo atimtą tėvoniją, o Vytautas tuo atveju, jeigu neturėtų įpėdinių, savo paveldėjimo teises į valstybę.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 1384 metais buvo sudaryta sutartis, ku­ ria Ordinas prisiekė atgauti Vytau­ tui iš jo atimtą tėvoniją, o Vytautas tuo atveju, jeigu neturėtų įpėdinių, savo paveldėjimo teises į valstybę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuolatinių karų ir grobi­
@@ -71,9 +70,7 @@ Nenurodyta
     vo šios sutarties pasekmės?
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

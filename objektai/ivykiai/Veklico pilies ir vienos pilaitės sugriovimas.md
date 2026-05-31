@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Veklico pilies ir vienos pilaitės sugriovimas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - ivykis
@@ -27,30 +18,55 @@ tags:
 Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten. Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    kur Veisika įteka į Drūsinės ežerą452, ir po neilgo antpuolio ją sudegino, žmones paėmė
+    į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą. Po to,
+    matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie
+    Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
+    pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
+
+
+
+
+        170 (165).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Veklico pilies ir vienos pilaitės sugriovimą
@@ -75,35 +91,14 @@ Nenurodyta
     į nelaisvę ar nužudė, išskyrus tuos, kurie valtimis paspruko per Drūsinės ežerą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad po to, matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą, pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Po to,
-    matydami, kad viskas jiems gerai sekasi, patraukė prie Veklico pilies453, esančios prie
-    Ragavos upės, ir, ilgai bei smarkiai ją puolę, galop palaužė narsią apsiaustųjų gynybą,
-    pilį pavertė pelenais, visus paėmė į nelaisvę arba nukovė.
-
-
-
-
-        170 (165).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/tėvonija]]

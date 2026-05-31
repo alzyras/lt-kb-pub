@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Epitomatorius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - karalius
@@ -27,16 +18,20 @@ tags:
 Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvonia dissidiantur et in omnibus civitatibus et locis maritimis notificant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum 91 ## Puslapis 108.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvonia dissidiantur et in omnibus civitatibus et locis maritimis notificant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum 91 ## Puslapis 108.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvonia dissidiantur et in omnibus civitatibus et locis maritimis notificant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum 91 ## Puslapis 108.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    "
+    Panašių
+    pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­
+    žių Joną ir privertė jį pasiųsti du legatus į Livoniją."
     Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas
     ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­
     tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
@@ -60,9 +55,7 @@ Epitomatorius nurodo tiesiai: Cives Rigenses et Archiepiscopus eorum tunc Rome a
     Sostui].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

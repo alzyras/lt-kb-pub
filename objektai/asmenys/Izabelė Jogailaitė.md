@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Izabelė Jogailaitė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1540 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1540'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kraštas
   - miestas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Izabelė Jogailaitė
 
@@ -30,13 +26,15 @@ tags:
 Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mums kilusių sunkumų, taip pat norime, kad abiems jų didenybėms būtų atiduoti kraičiai, kaip yra tai padaryta vyresniosioms mū­ sų seserims - jos didenybei karalaitei Izabelei, Vengrijos — •.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mums kilusių sunkumų, taip pat norime, kad abiems jų didenybėms būtų atiduoti kraičiai, kaip yra tai padaryta vyresniosioms mū­ sų seserims - jos didenybei karalaitei Izabelei, Vengrijos — •.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mums kilusių sunkumų, taip pat norime, kad abiems jų didenybėms būtų atiduoti kraičiai, kaip yra tai padaryta vyresniosioms mū­ sų seserims - jos didenybei karalaitei Izabelei, Vengrijos — •.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prašome jų didenybių rnūsų
@@ -76,12 +74,13 @@ Ir ši iki šiol neap­ rūpinta kraičiu dėl karų ir kitų šiais laikais mum
     žemietijos valdose, čia, Lenkijoje, tiek ir LDK žemės valdo­
     se, kas yra pažymėta Karalystėje ir Lietuvoje tam tikrais už­
     rašymais ir raštais, taip pat yra aprašyta byla ir jos dideny­
-    bės ponios mūsų motinos mieste.
+    bės ponios mūsų motinos mieste. Pagal ją visos sumos, kokiu
+    tik papročiu užrašytos, taip pat jų didenybėms mūsų sese­
+    rims, aukščiau paminėtoms, kaip jų tikros motinos dalis pri­
+    valo atitekti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

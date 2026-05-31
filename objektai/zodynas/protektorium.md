@@ -56,6 +56,5 @@ Kad labiau popiežius patrauktų Vytautą į savo pusę, paskiria jį ir Rygos a
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/Arkivyskupija]]

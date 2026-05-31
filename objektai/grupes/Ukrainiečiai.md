@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Ukrainiečiai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
 ---
@@ -24,25 +15,26 @@ tags:
 Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Bet ir rusai, kurie Kroniką ar
+    Įvairūs lenkų autoriai į jį pažiurėjo kaip
+    į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
     jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
     (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu. Dėda-
 
     (^11) **_Epitome principam Lithuaniae_****.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -73,5 +65,4 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Baltarusiai]]

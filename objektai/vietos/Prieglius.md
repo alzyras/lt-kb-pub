@@ -1,29 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Prieglius'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1263 m.'
   - '1358 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1263'
 date_end: '1358'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - ordinas
   - pilis
   - upė
+amziai:
+  - 'XIII'
+  - 'XIV'
 ---
 # Prieglius
 
@@ -32,29 +26,65 @@ tags:
 Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitinkamų prūsiškų žodžių caymis, ape, garbis,— į vakarus. Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m. Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitinkamų prūsiškų žodžių caymis, ape, garbis,— į vakarus.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
-  pagrindžia:
-    - c-004
+
 - t-005
   teiginys: 'Dusburgietis teigia, kad todėl vėliau miestas buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.'
   pagrindžia:
     - c-005
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Lietuvos pastangas XIV a. 3-ajame dešimtmetyje
+    apginti bent Žiemgalą liudija Gedimino titulavimasis „Žiemgalos valdovu ir kunigaikščiu“38.
+    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
+    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
+    Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-005
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    ir visiškai sugriovė, daug žmonių paimdami į nelaisvę ir išžudydami. Todėl vėliau miestas
+    buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.
+
+
+
+
+          107 (102).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitinkamų prūsiškų žodžių caymis, ape, garbis,— į vakarus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Becenbergeris nustatė, kad
@@ -70,43 +100,14 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
       3 Būga K.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
-    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
-    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
-    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374 Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko ir, apsvarstę visas priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop visi it vienas sutarė pastatyti tiltą per.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
+    103 (98). Apie tai, kaip buvo išardytas prūsų tiltas, pastatytas per Prieglių374
 
       Negalėdami nieko šiuo būdu laimėti, prūsai dar kartą susirinko  ir, apsvarstę visas
     priemones, kuriomis galėtų siekti savo niekšiško tikslo, galop  visi  it vienas sutarė
@@ -121,16 +122,33 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     matęs vedant nedidelį karių būrį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Priešiškuose lietuviams
+    šaltiniuose randame ir vėlesnių, šiuo atveju svarbių žinių. Štai Didžiojo prūsų sukilimo
+    metu, 1262 m., didelė Mindaugo kariuomenė, vadovaujama Treniotos, vėl nusiaubė
+    Ordino užnugarį pavyslyje (III, 160). Kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė,
+    kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III,
+    122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai
+    sutriuškino kryžiuočius mūšio lauke (III, 123).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-006
   santrauka: 'Dusburgietis teigia, kad todėl vėliau miestas buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Todėl vėliau miestas
+    Šioje vietoje, apie
+
+    ir visiškai sugriovė, daug žmonių paimdami į nelaisvę ir išžudydami. Todėl vėliau miestas
     buvo perkeltas į slėnį tarp Priegliaus ir pilies, į tą vietą, kur tebestovi ir šiandien377.
 
 
@@ -139,8 +157,6 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
           107 (102).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-006

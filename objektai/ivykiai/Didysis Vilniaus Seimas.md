@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Didysis Vilniaus Seimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
@@ -26,30 +17,36 @@ tags:
 Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 123 Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis. Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 123 Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 123 Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su-
@@ -67,13 +64,11 @@ Nenurodyta
     dėl politinės autonomijos Lietuvai suteikimo priėmimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kulminacinis suvažiavimo įvykis buvo rezoliucijos
@@ -84,9 +79,7 @@ Nenurodyta
     sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ditrichas (Sembos fogtas)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1273 m.'
   - '1292 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1273'
 date_end: '1292'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - pilis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Ditrichas (Sembos fogtas)
 
@@ -29,71 +25,131 @@ tags:
 Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį. Dusburgietis teigia, kad 217 Fogtu buvo 1278—1292 m. 218 D. Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad 217 Fogtu buvo 1278—1292 m. 218 D.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
-  pagrindžia:
-    - c-007
+
 - t-008
   teiginys: 'Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama 1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip kadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių palankumą, ir.'
   pagrindžia:
     - c-008
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad 217 Fogtu buvo 1278—1292 m. 218 D.'
+  pagrindžia:
+    - c-002
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
+  pagrindžia:
+    - c-005
+
+- t-006
+  teiginys: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
+  pagrindžia:
+    - c-006
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
+  pagrindžia:
+    - c-004
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį.'
+  pagrindžia:
+    - c-001
+
+- t-007
+  teiginys: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie vieną stebuklą
+    6. Apie vieną stebuklą
 
       Sembos žemėje, Žiokos  valsčiuje216, gyveno vienas prūsas, vardu Dargis, kuris
     nepakentė baltų žirgų; brolis Ditrichas, Sembos fogtas217, norėdamas jį atpratinti nuo
     prietaro, nupirko jam baltą arklį ir, nors tas ir prieštaravo, pastatė jį vienai nakčiai jo
-    tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius.
+    tvarte; ryto metą žmogelis rado šį žirgą nudurtą, o visus savo gyvulius padvėsusius. Tris
+    kartus jis padarė šitokį bandymą ir kiekvieną kartą susilaukė tos pačios baigties.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-008
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    227 (222). Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
+
+      1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip
+    kadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių
+    palankumą,  ir pagudėnai bei kiti Prūsijos [žmonės], paklusę savo piktam įpročiui  ir
+    sugalvoję dar kartą sukilti prieš brolius, susimokė su kai kuriais kitais prūsais, kurių
+    šlykštus elgesys teisėtai skatina viešai paskelbti jų vardus, tačiau šito nedarome iš
+    pagarbos jų dabartinei padėčiai. Taigi jie susitarė pakviesti rugijų kunigaikštį522 su stipria
+    kariuomene ir, išvijus brolius iš Prūsijos žemės, jį paskirti savo karaliumi bei valdovu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    182 (177). Apie Ragainės pilies užkariavimą
+
+       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
+    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
+    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
+    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-005
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pasikliaudamas viešpačiu, žmogus drįsta imtis sunkių, rodos, jo prigimčiai tiesiog
+    neįmanomų dalykų, kai iš tam tikrų apraiškų bei požymių jaučia, jog dievas jam palankus.
+    Todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene  į kitą Nemuno krantą,
+    tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir
+    nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių paėmęs į nelaisvę,
+    o kitus išžudęs.
+
+
+
+
+                     184 (179).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad 217 Fogtu buvo 1278—1292 m. 218 D.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     217 Fogtu buvo 1278—1292 m.
-      218 D.
+      218 D. minima (apie 1231 m.) castrum dictum Rogow (plg. pr. ragis, lie. ragas resp.
+    Ragupė — GAO, p. 143) siejama su dab. Rogovu per 11 km į šiaurės rytus nuo Torunės.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje Brolis Konradas iš Tirbergo, magistras, turėdamas galvoje šių nadruvių sumanumą bei ištikimybę ir tai, kad, jiems pasitraukus pas brolius, Nadruvos žemė tapo smarkiai susilpninta, pasiuntė brolį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie dviejų Nadruvos žemės pilių užėmimą Retavos valsčiuje
@@ -106,32 +162,51 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
       456 Abu Bartos užpuolimai (III, 173—174) vyko, atrodo, 1273— 1274 m.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Ragainės pilies užkariavimą Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių ir tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus, į skalvių žemę, esančią abiejose Nemuno pusėse, ir, netikėtai patraukęs link pilies.'
+
+- c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Ragainės pilies užkariavimą
+    190 (185). Apie daugybės pagudėnų išžudymą
 
-       Brolis Ditrichas, sembų fogtas, atplaukė magistro įsakytas su daugybe brolių  ir
-    tūkstančiu vyrų, gerai išmokytų pulti įtvirtinimus,  į skalvių žemę, esančią abiejose
-    Nemuno pusėse,  ir, netikėtai patraukęs link pilies, stovėjusios toje vietoje, kur dabar
-    yra Ragainės pilis, ją užpuolė468. Kai kurie, atrėmę kopėčias, stengėsi užkopti ant sienų.
+      Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
+    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
+    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
-- c-005
+    - t-006
+
+- c-007
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kai  broliai rengėsi  pulti anksčiau minėtąją Gardino  pilį, kurie ne kurie  bartai,
+    pastaruoju metu pabėgę iš Pagudės, subūrė drauge su lietuviais kariuomenę ir patraukė
+    prieš Lenkiją, iš kur, neskaitant kitų ten padarytų nusikaltimų, išsivarė didelį grobį:
+    daug žmonių bei gyvulių. Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
+    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
+    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
+    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
+    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
+    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino. Minėtieji Numa ir
+      520 D. — contra castrum Gartham, Jer — burc zu Gartin.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-009
   santrauka: 'Dusburgietis teigia, kad todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene į kitą Nemuno krantą, tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
+    Apie Ramijos pilies užkariavimą
+
+      Pasikliaudamas viešpačiu, žmogus drįsta imtis sunkių, rodos, jo prigimčiai tiesiog
+    neįmanomų dalykų, kai iš tam tikrų apraiškų bei požymių jaučia, jog dievas jam palankus.
     Todėl minėtasis brolis Ditrichas, persikėlęs su savo kariuomene  į kitą Nemuno krantą,
     tuo pat būdu užpuolė Ramijos pilį469; nors toje kovoje kai kurie jo kariai buvo sužeisti ir
     nukauti, bet tą pačią dieną jis įsiveržė į pilį ir ją sugriovė, dalį žmonių paėmęs į nelaisvę,
@@ -143,63 +218,9 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
                      184 (179).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Dusburgietis teigia, kad apie daugybės pagudėnų išžudymą Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo sembus, kurie jį nuoširdžiai gerbė, nuo šito paklydimo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie daugybės pagudėnų išžudymą
-
-      Grįžęs šiuo metu iš Vokietijos, brolis Ditrichas iš Lidelau, sembų fogtas, atkalbėjo
-    sembus, kurie  jį nuoširdžiai gerbė, nuo šito paklydimo. Kai šitai sužinojo notangai ir
-    varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai taip įsiteikė broliams, kad šie jiems sugrąžino paimtas į nelaisvę jų žmonas ir vaikus; šitai nepatiko nei.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tačiau du bartai, būtent: Numa ir Derska, nusekė, broliams
-    nusiaubus Gardino valsčių, paskui jų kariuomenę, ir juodviejų tarpininkaujami visi bartai
-    taip įsiteikė broliams, kad šie jiems sugrąžino paimtas  į nelaisvę jų žmonas ir vaikus;
-    šitai nepatiko nei broliui Ditrichui, Sembos fogtui, nei daugeliui kitų brolių, nes, apie tai
-    sužinoję, jie su baime pradėjo galvoti apie būsimas negandas, kurių per juos [bartus]
-    galėsią ateityje sulaukti, o tolimesnė įvykių raida šitai ir patvirtino.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Dusburgietis teigia, kad apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama 1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip kadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių palankumą, ir.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
-
-      1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip
-    kadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių
-    palankumą,  ir pagudėnai bei kiti Prūsijos [žmonės], paklusę savo piktam įpročiui  ir
-    sugalvoję dar kartą sukilti prieš brolius, susimokė su kai kuriais kitais prūsais, kurių
-    šlykštus elgesys teisėtai skatina viešai paskelbti jų vardus, tačiau šito nedarome iš
-    pagarbos jų dabartinei padėčiai.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai

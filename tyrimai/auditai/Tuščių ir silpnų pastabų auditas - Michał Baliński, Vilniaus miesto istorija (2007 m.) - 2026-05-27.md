@@ -1,19 +1,15 @@
 ---
 tipas: kokybes_auditas
-pavadinimas: "Tuščių ir silpnų pastabų auditas - Michał Baliński, Vilniaus miesto istorija (2007 m.) - 2026-05-27"
-sukurta: '2026-05-27'
-variantai: []
-aliases: []
+pavadinimas: 'Tuščių ir silpnų pastabų auditas - Michał Baliński, Vilniaus miesto istorija (2007 m.) - 2026-05-27'
 saltiniai:
-  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-audito_tipas: empty_or_weak_notes
-atnaujinta: '2026-05-27'
-tags: []
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+sukurta: ''
+atnaujinta: ''
 ---
-# Auditas
+# Tuščių ir silpnų pastabų auditas - Michał Baliński, Vilniaus miesto istorija (2007 m.) - 2026-05-27
 
 ## Vykdymo metaduomenys
+
 - knyga: Michał Baliński, Vilniaus miesto istorija (2007 m.)
 - source_file: `darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md`
 - modelis: unknown
@@ -32,6 +28,7 @@ tags: []
   - `darbas/prompts/05_quality_control/04_audit_empty_or_weak_notes.md`
 
 ## Bendras verdiktas
+
 Balińskio šaltinio projekcija dar nepraeina tuščių ir silpnų pastabų patikros. Viešuose objektų aplankuose rasti 128 įrašai su šio šaltinio medžiaga: 11 asmenų, 16 autorių, 17 daiktų, 16 grupių, 15 įvykių, 12 papročių, 14 posakių, 9 šaltiniai, 6 vietos ir 12 žodyno įrašų. Privatų ledžerį sudaro 4060 deduplikuotų įrašų, iš jų 3669 `unused` ir 391 `unclear`, todėl vieša projekcija yra dalinė ir reikalauja papildomos atrankos prieš laikant aprėptį baigta.
 
 Mechaninė citatų patikra aptiko 296 viešus `citata_originali` blokus, susietus su šiuo šaltiniu. 294 blokai rasti darbiniame šaltinyje po tarpų normalizavimo; du probleminiai blokai yra `objektai/zodynas/Naujasis klasikas ir prepozityvistai.md`.
@@ -71,14 +68,17 @@ Reikalingas veiksmas: perrašyti santraukas tiesioginiais faktiniais sakiniais, 
 Reikalingas veiksmas: pervadinti įrašą be perteklinio taško ir išlaikyti aliasą / variantą, jeigu runneriui reikia suderinamumo.
 
 ## Aprėpties rizikos
+
 Sujungti kandidatų failai rodo gerokai platesnę galimų įrašų apimtį negu dabartinė projekcija: `people` turi 660 antraščių, `places` 487, `sources` 387, `events` 287, `groups` 168, `customs` 167, `authors` 165, `items` 110, `sayings` 91, `vocabulary` 5. Dalis jų yra silpni arba neaiškūs kandidatai, bet 3669 `unused` ledžerio įrašai negali būti laikomi padengtais vien dėl 128 viešų įrašų.
 
 Atskiras `tyrimai/dviprasmiu-zmoniu-auditas-michal-balinski-2007-2026-05-27.md` jau fiksuoja dalį žmonių tapatybės neaiškumų. Šis auditas jo nedubliuoja; prieš kuriant naujus asmenų įrašus reikia laikytis ten nurodytų tapatybės ribų.
 
 ## Nerasta kaip atskira problema
+
 Šiame patikrinime nerasta `Person:`, `Author:` ar `Source:` failų prefiksų. Nerasta viešų įrašų be `## Teiginiai` skyriaus, tuščio `## Teiginiai` skyriaus ar dubliuotų `citata_originali` blokų tame pačiame įraše. Taip pat nerasta nekanoninių `tags` reikšmių pagal perskaitytą žymų žodyną.
 
 ## Kiti veiksmai
+
 1. Pirmiausia normalizuoti visų šio šaltinio teiginių ir citatų `šaltinis` laukus į `Michał Baliński, Vilniaus miesto istorija (2007 m.)`.
 2. Sutvarkyti `objektai/zodynas/Naujasis klasikas ir prepozityvistai.md`: dabartinis claim-level formatas, tikslios citatos, leidžiamos patikimumo reikšmės.
 3. Normalizuoti 24 nekanoninius `periodas` laukus.

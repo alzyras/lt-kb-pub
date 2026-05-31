@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Czubiel L'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1249 m.'
   - '1251 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1249'
 date_end: '1251'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - sutartis
   - vyskupas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Czubiel L
 
@@ -30,13 +26,15 @@ tags:
 Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 49, 254; 3, p. 72—73; 4, p. 14, 258; Czubiel L., Domagała T., Zabytkowe.., p. 104).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 49, 254; 3, p. 72—73; 4, p. 14, 258; Czubiel L., Domagała T., Zabytkowe.., p. 104).'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 49, 254; 3, p. 72—73; 4, p. 14, 258; Czubiel L., Domagała T., Zabytkowe.., p. 104).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     415 D.— Brunsbergk, Jer.— Brunsberc, Brunsberg, dab. Brancvas (Braniewo). Anksčiau
@@ -46,9 +44,7 @@ Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 49, 254; 3, p. 72—73; 4, p
     p. 49, 254; 3, p. 72—73; 4, p. 14, 258; Czubiel L., Domagała T., Zabytkowe.., p. 104).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

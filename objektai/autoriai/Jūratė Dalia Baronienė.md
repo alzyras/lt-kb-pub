@@ -123,4 +123,3 @@ Jūratė Dalia Baronienė nurodyta kaip „Vilniaus miesto istorijos“ vertėja
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
 - [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/MINTIS]]

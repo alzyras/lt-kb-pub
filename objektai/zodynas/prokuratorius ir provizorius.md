@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'prokuratorius ir provizorius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -24,16 +15,21 @@ tags:
 Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Taip pat
+    Tad tokiai prie­
+    glaudai ir joje gyvenantiems vargšams mes karališkąja malo­
+    ne nusprendėme jų naudai minėtą tilto mokestį visiems lai­
+    kams atiduoti, dovanoti, paskirti ir užrašyti. Taip pat
     atiduodame, dovanojame, skiriame ir užrašome pagal žemiau
     išvardintas tokias sąlygas ir formas, tokiu būdu. Kol minėtai
     prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­
@@ -54,9 +50,7 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
     priimti ir apgyvendinti, patogiai gyventi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

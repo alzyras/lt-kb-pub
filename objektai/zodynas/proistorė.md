@@ -164,4 +164,3 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/autoriai/St. Zajączkowski]]
-- [[objektai/autoriai/Vincentas Kadlnbek’as]]

@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Notariats instrument notarinis instrumentas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - karalius
   - krikštas
   - miestas
+amziai:
+  - 'XIV'
 ---
 # Notariats instrument notarinis instrumentas
 
@@ -30,17 +24,20 @@ tags:
 Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi litteris appensum erat rotundum cereum, continens circulum duodecim angulorum et in medio circuli ymaginem viri capillati residentis in Cathedra, continentis in manu dextra. Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame pranešime (Notariats instrument), į kurį taip pat buvo įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­ rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­ ve, ir.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi litteris appensum erat rotundum cereum, continens circulum duodecim angulorum et in medio circuli ymaginem viri capillati residentis in Cathedra, continentis in manu dextra.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame pranešime (Notariats instrument), į kurį taip pat buvo įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­ rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­ ve, ir.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi litteris appensum erat rotundum cereum, continens circulum duodecim angulorum et in medio circuli ymaginem viri capillati residentis in Cathedra, continentis in manu dextra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Notariats-Instrument, parengtame 1323 metais Liubeke: Si­
@@ -58,13 +55,11 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
     rusų karaliaus].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­ biniame pranešime (Notariats instrument), į kurį taip pat buvo įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­ rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­ ve, ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau ka­
@@ -96,9 +91,7 @@ Notariats-Instrument, parengtame 1323 metais Liubeke: Si­ gillum vero huiusmodi
     dino piktadarystę" atsidūrė kryžiuočių archyve.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

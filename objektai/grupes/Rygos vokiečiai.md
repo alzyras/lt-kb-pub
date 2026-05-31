@@ -55,7 +55,6 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Danielius]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Tautvilas]]

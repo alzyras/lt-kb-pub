@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'fundacija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigas
@@ -27,70 +18,40 @@ tags:
 Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ nyčių Žemaitijoje po krikščionybės įvedimo. Netrukus Poznanės vys­ kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­ piežių išprašyti bulės, patvirtinančios naujo ganytojo išrinkimą ir Vilniaus vyskupijos fundaciją. 238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ nyčių Žemaitijoje po krikščionybės įvedimo.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Netrukus Poznanės vys­ kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­ piežių išprašyti bulės, patvirtinančios naujo ganytojo išrinkimą ir Vilniaus vyskupijos fundaciją.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: '238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno.'
   pagrindžia:
     - c-004
+
+- t-002
+  teiginys: 'Netrukus Poznanės vys­ kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­ piežių išprašyti bulės, patvirtinančios naujo ganytojo išrinkimą ir Vilniaus vyskupijos fundaciją.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ nyčių Žemaitijoje po krikščionybės įvedimo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Pats miestelis dali­
-    jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­
-    kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium
-    [šventovė], regis, turėtų būti senesnių metų ir, pasak vieti­
-    nio padavimo, gali siekti net pagonybės laikus. Pirmoji baž­
-    nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­
-    nyčių Žemaitijoje po krikščionybės įvedimo. Vėliau karalienė
-    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
-    klebonija tapo išties reikšmingiausia Žemaitijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Netrukus Poznanės vys­ kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­ piežių išprašyti bulės, patvirtinančios naujo ganytojo išrinkimą ir Vilniaus vyskupijos fundaciją.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O keturi naujai įvesti prelatų ir aštuoni kanauninkų
-    titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
-    tiems Lietuvoje Kristaus tikėjimą. Netrukus Poznanės vys­
-    kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­
-    piežių išprašyti bulės, patvirtinančios naujo ganytojo
-    išrinkimą ir Vilniaus vyskupijos fundaciją. Karalius tuoj pat
-    aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
-    klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam
-    bet ir kai kuriais padavimais ar
-    užuominomis, kurias aptikau Vil­
-    niaus kapitulos ar Karaliauč.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: '238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    liepos 8-ą.
+    Po Aleksandro atėjusiems Lietuvos valdovams teko kuo rim­
+    čiausiai pasistengti, kad Lietuvos miestiečių luomui būtų
+    garantuotas geresnis gyvenimas ir kad suklestėtų šios šalies
+    miestai, išaugtų prekyba ir visos tautos gerovė.
+    Rusdorfui už jai atsiųstus gėrimus,
+    laiškas, datuotas Memitze (neįmano­
+    ma sužinoti, kokia tai vieta), ties Vil­
+    niumi, 1426 m. liepos 8-ą.
     238
 
     ## Puslapis 255
@@ -128,13 +89,11 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
     Aktų knygas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Tai­ gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­ sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­ rų sužinojome, dabartiniam bažnyčios klebonui, minėtam Valentinui iš Pilzno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai,
@@ -155,11 +114,48 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
     minėtai Pabaisko bažnyčiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pats miestelis dali­
+    jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­
+    kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium
+    [šventovė], regis, turėtų būti senesnių metų ir, pasak vieti­
+    nio padavimo, gali siekti net pagonybės laikus. Pirmoji baž­
+    nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­
+    nyčių Žemaitijoje po krikščionybės įvedimo. Vėliau karalienė
+    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
+    klebonija tapo išties reikšmingiausia Žemaitijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O keturi naujai įvesti prelatų ir aštuoni kanauninkų
+    titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
+    tiems Lietuvoje Kristaus tikėjimą. Netrukus Poznanės vys­
+    kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­
+    piežių išprašyti bulės, patvirtinančios naujo ganytojo
+    išrinkimą ir Vilniaus vyskupijos fundaciją. Karalius tuoj pat
+    aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
+    klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam
+    bet ir kai kuriais padavimais ar
+    užuominomis, kurias aptikau Vil­
+    niaus kapitulos ar Karaliauč. slapt.
+    archyvo dokumentuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -186,7 +182,6 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/asmenys/Jurgis Astikas]]
 - [[objektai/asmenys/Jurgis Radvila]]
-- [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/asmenys/Kasparas Bekešas]]
 - [[objektai/paprociai/Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka]]
 - [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]
@@ -197,6 +192,7 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
 - [[objektai/asmenys/Valentinas iš Pilzno]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių]]
+- [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/beneficija]]
 - [[objektai/zodynas/bursa]]

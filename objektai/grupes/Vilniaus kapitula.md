@@ -1327,7 +1327,6 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 - [[objektai/ivykiai/1571 m. badas ir epidemija Vilniuje]]
 - [[objektai/asmenys/Bernardas Zanobijus]]
 - [[objektai/asmenys/Kazimieras Karigaila]]
-- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]
 - [[objektai/grupes/Vilniaus akademijos kolegija]]
 - [[objektai/grupes/Vilniaus jėzuitų kolegija]]

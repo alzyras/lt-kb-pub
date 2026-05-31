@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1440 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1440'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - kunigaikštis
   - miestas
   - paprotys
+amziai:
+  - 'XV'
 ---
 # Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė
 
@@ -30,53 +24,40 @@ tags:
 Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba, plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­ rė gyvą. 26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba, plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­ rė gyvą.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba, plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­ rė gyvą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
-    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
-    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
-    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
-    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
-    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
-    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
-    jo lankytis tolimose provincijose, kur artimiau susipažino su
-    krikščioniškąja kultūra26.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: 'Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba, plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­ rė gyvą.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: '26 Kazimiero IV, kai jis buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi yra ir
@@ -114,11 +95,27 @@ Nenurodyta
     gonims skiepyti krikščionišką graikų apeigų tikėjimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
+    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
+    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
+    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
+    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
+    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
+    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
+    jo lankytis tolimose provincijose, kur artimiau susipažino su
+    krikščioniškąja kultūra26.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

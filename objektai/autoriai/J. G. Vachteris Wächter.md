@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'J. G. Vachteris Wächter'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - miestas
@@ -25,39 +16,25 @@ tags:
 Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų a Hof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai principis comitatus - praedium cum pastarąja prasme; juk folwark -.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vachterio G loss.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų a Hof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai principis comitatus - praedium cum pastarąja prasme; juk folwark -.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vachterio G loss.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ok so were ke dar sulnen mede ken allen weer ke des nickt
-    ki dagę waar geworden Men de Mure de en is nickt gestoertet
-    sunder de kerck aliene, ok so is dar en Hertege tor Villen
-    * kuriuos aptikau J. G. Vachterio G loss.
-    Nežinau, ką galėtų šis posakis reikšti; Germ., nors čionai ir nelabai tinka,
-    panašiausia būtų į metzen - žudyti. **
-    Pagaliau galėtų būti kas nors artimos Gal nuo sieden - virti; iš čia - kaitra,
-    reikšmės: machen, mayen, maiten, tvanka.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-001
+  teiginys: 'Vachterio G loss.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų a Hof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai principis comitatus - praedium cum pastarąja prasme; juk folwark -.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Ūkiniai prie jų priklausantys pastatai (des Königes
+    Be to, dar (dėmė Könige) sudegė Vytauto vienuoli­
+    ka eržilų, be kitų žirgų ir gyvulių arklidėse, kur būtent užsi­
+    plieskė ugnis. Ūkiniai prie jų priklausantys pastatai (des Königes
     Hof)a taip pat Vilniuje sudegė kartu su daugybe javų ir kitų
     a
     Hof, area, domus, regia, universus Wächter i, Gloss, germ. Čia aiškiai
@@ -78,11 +55,35 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
     Ville vorkrant is.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Men Peter konte des nickt vor
+    varen wat weges dat Swittergayle ute were, ok so sede ke my
+    dat Swittergayle we re mit groter mackt vnd groter kulpe vt
+    getogen vnd mit veel volkes. ok so seckt ke dat de Berek sy
+    dael gevallen dar dat oenerste S lott vppe lickt, vnde dat is to
+    gekomen van dem Sode (**) (sic) vndo is gestoertet vppe Man-
+    neuiten Wenigge (Woknung) vnde Manneuite keft groten
+    Sckaden genomen sin sekenke vnde sin vpperste Maget de
+    kevellen dar doet vnde alle sin smide (Gesckmeide) kevel dar
+    ok. ok so were ke dar sulnen mede ken allen weer ke des nickt
+    ki dagę waar geworden Men de Mure de en is nickt gestoertet
+    sunder de kerck aliene, ok so is dar en Hertege tor Villen
+    * kuriuos aptikau J. G. Vachterio G loss.
+    Nežinau, ką galėtų šis posakis reikšti; Germ., nors čionai ir nelabai tinka,
+    panašiausia būtų į metzen - žudyti. **
+    Pagaliau galėtų būti kas nors artimos Gal nuo sieden - virti; iš čia - kaitra,
+    reikšmės: machen, mayen, maiten, tvanka.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

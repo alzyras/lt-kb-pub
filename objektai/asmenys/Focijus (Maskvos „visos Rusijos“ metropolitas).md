@@ -282,5 +282,4 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Gregorijus Cemblakas]]
 - [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]
-- [[objektai/zodynas/uzurpatorius]]
 - [[objektai/zodynas/kunigaikštija]]

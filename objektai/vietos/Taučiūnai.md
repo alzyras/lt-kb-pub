@@ -42,15 +42,14 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Visą karo metą jaunai Lietuvos kariuomenei daugeliu atžvilgiu teko patirti didelių sunPovilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Tačiau kitą akimirką į žvalgus pasipylė ugnis iš Taučiūnų dvaro.'
   pagrindžia:
     - c-004
-
+- t-005
+  teiginys: 'Visą karo metą jaunai Lietuvos kariuomenei daugeliu atžvilgiu teko patirti didelių sunPovilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Važiuojant pro Taučiūnų kaimą, žvalgus netikėtai pasitiko smarki bolševikų kuopos ugnis.'
@@ -89,25 +88,6 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Visą karo metą jaunai Lietuvos kariuomenei daugeliu atžvilgiu teko patirti didelių sunPovilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visą karo metą jaunai Lietu-
-    vos kariuomenei daugeliu atžvilgiu teko patirti didelių sun-
-
-
-    Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
-    kumų: trūko ne tik aprangos ir ginklų, bet labai dažnai ir
-    maisto, nes okupacijos išvarginti ūkininkai negalėjo daug
-    padėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Tačiau kitą akimirką į žvalgus pasipylė ugnis iš Taučiūnų dvaro.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -122,3 +102,25 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Visą karo metą jaunai Lietuvos kariuomenei daugeliu atžvilgiu teko patirti didelių sunPovilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    vidurio prasidėjo
+    planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
+    tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
+    patrankų ir 200 kardų (raitelių). Visą karo metą jaunai Lietu-
+    vos kariuomenei daugeliu atžvilgiu teko patirti didelių sun-
+
+
+    Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
+    kumų: trūko ne tik aprangos ir ginklų, bet labai dažnai ir
+    maisto, nes okupacijos išvarginti ūkininkai negalėjo daug
+    padėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

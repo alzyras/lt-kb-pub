@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„revizionistais per prievartą“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - valstybė
@@ -25,13 +16,15 @@ tags:
 Žinoma, kad lietuviai tapo „revizionistais per prievartą“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Žinoma, kad lietuviai tapo „revizionistais per prievartą“.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žinoma, kad lietuviai tapo „revizionistais per prievartą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ta-
@@ -39,12 +32,11 @@ tags:
     Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
     netgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo
     „revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras
-    A.
+    A. Voldemaras) prieš Varšuvą bandė atsilaikyti Vokietijos ar Sovietų Ru-
+    sijos padedami, tačiau pastarųjų tai neviliojo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

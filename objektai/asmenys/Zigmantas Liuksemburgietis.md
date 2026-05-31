@@ -63,30 +63,30 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: '152 ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­ jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­ denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­ burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Pagalbos reikalas iš Lietu­ vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L.'
-  pagrindžia:
-    - c-008
 - t-009
   teiginys: 'Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­ ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­ mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­ vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­ čionybę.'
   pagrindžia:
     - c-009
-- t-010
-  teiginys: 'Opuść i ty, błagamy cię, jak najrychlej to 211 Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­ tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot per Lenkiją.'
-  pagrindžia:
-    - c-010
 - t-011
   teiginys: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
   pagrindžia:
     - c-011
-- t-012
+- t-013
+  teiginys: 'Pagalbos reikalas iš Lietu­ vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: '152 ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­ jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­ denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­ burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Opuść i ty, błagamy cię, jak najrychlej to 211 Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­ tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot per Lenkiją.'
+  pagrindžia:
+    - c-015
+- t-016
   teiginys: 'Tuo pačiu laiku Zigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat ir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie kiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos.'
   pagrindžia:
-    - c-012
+    - c-016
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją.'
@@ -201,44 +201,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-- c-007
-  santrauka: '152 ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­ jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­ denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­ burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    152
-    ```
-    ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­
-    jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­
-    denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­
-    burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.
-    Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­
-    klausančias jo suverenitetui ir būdamas valdovas savo vasalo
-    Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Pagalbos reikalas iš Lietu­ vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pagalbos reikalas iš Lietu­
-    vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
-    Romos imperatorium, nes jis buvo sąjungoj su Ordinu. Šita
-    sunkia Lenkijos būkle Vytautas ir naudojos, kas kartą vis la­
-
-    (^1) ) Hal.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 - c-009
   santrauka: 'Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­ ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­ mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­ vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­ čionybę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -258,29 +220,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-- c-010
-  santrauka: 'Opuść i ty, błagamy cię, jak najrychlej to 211 Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­ tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot per Lenkiją.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Opuść i ty, błagamy cię, jak najrychlej to
-
-
-    ```
-    211
-    ```
-    Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­
-    tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot
-    per Lenkiją. Prieš išvažiuodamas Zigmantas apdovanojo vai­
-    šingą Lucko suvažiavimo šeimininką, o šis, nenorėdamas pa­
-    silikti skolingas, jį taip pat su dovanomis išlydėjo^1 ). Galų gale
-    iš Lucko išvažiavo ir pats Vytautas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 - c-011
   santrauka: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -301,7 +240,69 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-- c-012
+- c-013
+  santrauka: 'Pagalbos reikalas iš Lietu­ vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pašauktas jis
+    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
+    žant lenkų papročius ir tradicijas. Pagalbos reikalas iš Lietu­
+    vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
+    Romos imperatorium, nes jis buvo sąjungoj su Ordinu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: '152 ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­ jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­ denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­ burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    , 136.
+
+
+    ```
+    152
+    ```
+    ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­
+    jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­
+    denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­
+    burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.
+    Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­
+    klausančias jo suverenitetui ir būdamas valdovas savo vasalo
+    Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Opuść i ty, błagamy cię, jak najrychlej to 211 Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­ tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot per Lenkiją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    . Opuść i ty, błagamy cię, jak najrychlej to
+
+
+    ```
+    211
+    ```
+    Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­
+    tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot
+    per Lenkiją. Prieš išvažiuodamas Zigmantas apdovanojo vai­
+    šingą Lucko suvažiavimo šeimininką, o šis, nenorėdamas pa­
+    silikti skolingas, jį taip pat su dovanomis išlydėjo^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
   santrauka: 'Tuo pačiu laiku Zigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat ir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie kiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -320,7 +321,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-012
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
@@ -331,9 +332,9 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/unija]]
@@ -342,4 +343,5 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
 - [[objektai/posakiai/in odium Sigismundi]]

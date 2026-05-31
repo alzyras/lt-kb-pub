@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konradas (Tiuringijos landgrafas)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
@@ -27,41 +18,25 @@ tags:
 Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų šio Ordino vienuoli© apsiaustą. Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge. Dusburgietis teigia, kad konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas buvo susitepęs paleistuvystės nuodėme.'
   pagrindžia:
     - c-004
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino didįjį magistrą Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis magistras, mirė liepos 24 dieną, o palaidotas Markburge.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
-                                                  didįjį magistrą
 
-       Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis
-    magistras, mirė liepos 24 dieną, o palaidotas Markburge. Kai dar buvo pasaulietis, jis
-    kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė
-    atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame
-    mieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o
-    rykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-003
+  teiginys: 'Dusburgietis teigia, kad konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes.'
   pagrindžia:
-    - t-002
+    - c-003
+
+## Reikšmingi paminėjimai
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad konradas (Tiuringijos landgrafas) kreipėsi į jo šventenybę popiežių, kuriam ir išpažino visas savo nuodėmes.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Rytą, patyręs, jog anksčiau minėtuosius Hartmaną
@@ -72,15 +47,19 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
     namų ordino vienuolio apsiaustą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas buvo susitepęs paleistuvystės nuodėme.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
+    Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
+    daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
+    kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš
+    altorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,
+    nusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo
+    labiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.
     Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
     ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
     buvo susitepęs paleistuvystės nuodėme. Vienas abatas, šitai sužinojęs, panoro ištirti, ar
@@ -88,11 +67,27 @@ Dusburgietis teigia, kad jo šviesybė valdovas Konradas, Tiuringijos landgrafas
     išvydęs tuos tarnus, liepė jiems išsinešdinti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    33. Apie brolį Konradą, kadaise Tiuringijos landgrafą, penktą Teutonų namų ordino
+                                                  didįjį magistrą
+
+       Brolis Konradas, kadaise Tiuringijos landgrafas, penktas Teutonų namų ordino didysis
+    magistras, mirė liepos 24 dieną, o palaidotas Markburge. Kai dar buvo pasaulietis, jis
+    kartą smarkiai puolė Friclaro miestą, todėl vėliau, norėdamas įstoti  į vienuolius, darė
+    atgailą ir rodė nusižeminimą, atsiteisdamas už šitokią piktadarybę, taigi ėjo minėtajame
+    mieste su procesija basomis ir plika galva, puolė kniūpsčias prieš bažnyčios duris, o
+    rykštę, kurią laikė rankoje, davė žmonėms, kad tiek jį plaktų, kiek kam širdis leidžia.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

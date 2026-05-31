@@ -1,24 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Paulius Rusdorfas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - ordinas
+amziai: []
+periodo_grupes: []
 ---
 # Paulius Rusdorfas
 
@@ -27,55 +23,32 @@ tags:
 Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės. Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo. 1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: '1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­ ro Pauliaus Rusdorfo ir jo Ordino iš kitos pusės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Foe- [Amžinosios vienybės ir santarvės
-    dus perpetuae pacis unionis et concor- taikos sutartis tarp Lenkijos karaliaus
-    dine inter Vladislaum Regem Poloniae Vladislovo ir Lietuvos kunigaikščio
-    151
 
-    ## Puslapis 168
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Lietuvos valstybėje tik vienas [Vilnius], kol kas valdomas pa­
-    gal vokiečių teisės normas, regis, po Didžiojo Naugardo la­
-    biausiai prekybinis miestas, jau turėjo nustatytą vietą krašto
-    reprezentacijose, ir nuo tų laikų sostinės miestiečių luomui
-    priklausė narystė suvažiavimuose, arba Lietuvos seimuose78.
-    Vytauto ir Mazovijos kunigaikščių
-    iš vienos pusės ir kryžiuočių magist­
-    ro Pauliaus Rusdorfo ir jo Ordino iš
-    kitos pusės. Duota kariuomenės sto­
-    vykloje prie Osos upės, netoli Mel­
-    no ežero, tarp Radzino ir Rogoznos
-    pilių, Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
-  santrauka: 'Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    A liteho
+    A
+    za srebro i za robotu i za mied' i za wsi
+    rzeczy, szto k mincy prisłuchaiut,
+    wyszło 50 tysiacz kop i szest tysiacz kop.
+    a 40 kop. i kopa i 26 hroszej. A liteho
     236
 
     ## Puslapis 253
@@ -95,13 +68,11 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     diena, 2 indiktas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: '1208, kur nurodytas Slaptajame archyve esantis vokiečių kalba rašy­ tas didžiojo Lietuvos kunigaikščio Vytauto žmonos Julijonos, dėkojančios didžiajam magistrui Pauliui fon 237 ## Puslapis 254 VILNIAUS MIESTO ISTORIJA I I TOMAS Nebūta gydytojų Lietuvos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     54
@@ -143,11 +114,38 @@ Vytauto ir Mazovijos kunigaikščių iš vienos pusės ir kryžiuočių magist­
     niumi, 1426 m. liepos 8-ą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Foe- [Amžinosios vienybės ir santarvės
+    dus perpetuae pacis unionis et concor- taikos sutartis tarp Lenkijos karaliaus
+    dine inter Vladislaum Regem Poloniae Vladislovo ir Lietuvos kunigaikščio
+    151
+
+    ## Puslapis 168
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Lietuvos valstybėje tik vienas [Vilnius], kol kas valdomas pa­
+    gal vokiečių teisės normas, regis, po Didžiojo Naugardo la­
+    biausiai prekybinis miestas, jau turėjo nustatytą vietą krašto
+    reprezentacijose, ir nuo tų laikų sostinės miestiečių luomui
+    priklausė narystė suvažiavimuose, arba Lietuvos seimuose78.
+    Vytauto ir Mazovijos kunigaikščių
+    iš vienos pusės ir kryžiuočių magist­
+    ro Pauliaus Rusdorfo ir jo Ordino iš
+    kitos pusės. Duota kariuomenės sto­
+    vykloje prie Osos upės, netoli Mel­
+    no ežero, tarp Radzino ir Rogoznos
+    pilių, Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

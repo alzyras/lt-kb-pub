@@ -153,7 +153,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
-- [[objektai/grupes/Mamoničių giminė]]
 - [[objektai/asmenys/Mantautas]]
 - [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas)]]
 - [[objektai/asmenys/Mikalojus Albrechtas Radvila]]

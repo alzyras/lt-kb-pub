@@ -500,6 +500,7 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vienkiemiai]]
 - [[objektai/asmenys/Albertas]]
+- [[objektai/daiktai/Apgulties mašinos]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]
 - [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]

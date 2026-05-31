@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Albrechtas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1492 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1492'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kraštas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jonas Albrechtas
 
@@ -29,13 +25,15 @@ tags:
 Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­ nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­ niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia šį pasaulį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vėliau jo pamaldumą pripažino
@@ -52,9 +50,7 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
     al fresco ant kairės Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

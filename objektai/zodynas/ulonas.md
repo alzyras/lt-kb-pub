@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'ulonas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - mūšis
@@ -27,16 +18,20 @@ tags:
 Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Algirdo pajėgų spaudimo neatlaikę totoriai bėgo, o mūšyje žuvo daug murzų ir ulonų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     LDK karininkas,
@@ -62,13 +57,29 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
     į vakarus nuo minėtos mūšio
     vietos), kurioje nebuvo nė vie-
     nos pilies.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Apie jį kai kurių
+    detalių, galbūt remdamasis istorine tra-
+    dicija, dar pateikia xvi a. LDK karininkas,
+    diplomatas, Lietuvos istorikas Motiejus
+    Strijkovskis: „Algirdas išrikiavo savo pa-
+    jėgas šešiais lenktais rikiuotės daliniais.
+    Neišlaikę spaudimo totoriai bėgo“ žuvo
+    daug murzy ir ulonų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -76,4 +87,5 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 - [[objektai/asmenys/Motiejus]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/ulonai]]
+- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/zodynas/murza]]

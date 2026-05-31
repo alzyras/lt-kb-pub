@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kulmo pilies ir miesto įkūrimas (1232 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1232 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1232'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - karas
   - miestas
+amziai:
+  - 'XIII'
 ---
 # Kulmo pilies ir miesto įkūrimas (1232 m.)
 
@@ -30,30 +24,49 @@ tags:
 Dusburgietis teigia, kad apie maldininkus ir Kulmo pilies bei miesto įkūrimą Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai buvo pažadėta naujo karo dalyviams. Dusburgietis teigia, kad čia, senajame piliakalnyje, buvęs pastatytas penkiakampis—pagal piliakalnio formą — konvento pastatas, senojo papilio vietoje vienas greta kito įrengti trys priešpiliai, atskirti nuo pilies ir vienas nuo kito grioviais (Byczko T., Z badań..., p. 150, 153).
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie maldininkus ir Kulmo pilies bei miesto įkūrimą Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai buvo pažadėta naujo karo dalyviams.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad čia, senajame piliakalnyje, buvęs pastatytas penkiakampis—pagal piliakalnio formą — konvento pastatas, senojo papilio vietoje vienas greta kito įrengti trys priešpiliai, atskirti nuo pilies ir vienas nuo kito grioviais (Byczko T., Z badań..., p. 150, 153).'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    223 Manoma, kad kryžiuočiai įsikūrė Starogrude (buv. Althausen). Čia, senajame
+    piliakalnyje, buvęs  pastatytas penkiakampis—pagal  piliakalnio formą — konvento
+    pastatas, senojo papilio vietoje vienas greta kito įrengti trys priešpiliai, atskirti nuo pilies
+    ir vienas nuo kito grioviais (Byczko T., Z badań..., p. 150, 153).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie maldininkus ir Kulmo pilies bei miesto įkūrimą Kai garsas apie naują Kristaus kryžiaus žygį nuskambėjo po visas Vokietijos karalystės žemes, kai buvo paskelbtas naujas karas, kuriam viešpats pasirinko Prūsijos žemę, kai buvo pažadėta naujo karo dalyviams.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie maldininkus ir Kulmo pilies bei miesto įkūrimą
@@ -72,26 +85,9 @@ Nenurodyta
     senoji pilis223.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad čia, senajame piliakalnyje, buvęs pastatytas penkiakampis—pagal piliakalnio formą — konvento pastatas, senojo papilio vietoje vienas greta kito įrengti trys priešpiliai, atskirti nuo pilies ir vienas nuo kito grioviais (Byczko T., Z badań..., p. 150, 153).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    223 Manoma, kad kryžiuočiai įsikūrė Starogrude (buv. Althausen). Čia, senajame
-    piliakalnyje, buvęs  pastatytas penkiakampis—pagal  piliakalnio formą — konvento
-    pastatas, senojo papilio vietoje vienas greta kito įrengti trys priešpiliai, atskirti nuo pilies
-    ir vienas nuo kito grioviais (Byczko T., Z badań..., p. 150, 153).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -102,3 +98,4 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,]]

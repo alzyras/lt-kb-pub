@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Vilniaus rusinai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - miestas
@@ -27,16 +18,20 @@ tags:
 Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­ darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­ tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų 80 Miesto archyve tų privilegijų nėra.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­ darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­ tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų 80 Miesto archyve tų privilegijų nėra.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­ darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­ tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų 80 Miesto archyve tų privilegijų nėra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Įžvalgia savo politika Vytautas, nors skaityda-
+    Šiaip ar taip,
+    bet jokio persekiojimo miesto gyventojai dėl šito niekada ne­
+    buvo patyrę. Įžvalgia savo politika Vytautas, nors skaityda-
     masis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­
     ja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus
     įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
@@ -54,9 +49,7 @@ Didesnioji Vilniaus miestiečių da­ lis juk buvo gerokai didesnį gyventojų s
     tarp rusinu buvo nemažai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus Žemutinė Kreivoji pilis (sujungti pirminiai pavadinimai Žemutinė pilis Kreivoji pilis; Žemutinė pilis; Kreivoji pilis; Žemutinė Kre'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - kunigaikštis
@@ -27,51 +18,35 @@ tags:
 O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją. Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Svetimšalių ataka buvo smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­ si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­ na Žemutinėje pilyje ir pagavo medinius statinius, aptva­ rus, užkardas.'
   pagrindžia:
     - c-004
+
 - t-005
   teiginys: 'Žemutinė, arba Kreivoji pilis.'
   pagrindžia:
     - c-005
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
-    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
-    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
-    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
-    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
-    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
-    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­
-    mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
-    tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
-    senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
-    didžiai garbinama lietuvių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-002
+  teiginys: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
   pagrindžia:
-    - t-001
+    - c-002
+
+- t-003
+  teiginys: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
+  pagrindžia:
+    - c-003
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalimais jo apvalus bokštas, iš plytų
@@ -89,30 +64,31 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     pilį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur buvo kunigaikščių menės, vadinta Kreivąja.'
+
+- c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
-    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
-    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
-    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
-    pats miesto centras, nedidelis, su mediniais namais, bet su
-    tvirtų statinių tvorų ir griovių sutvirtinimais.
+    Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
+    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
+    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
+    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­
+    mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
+    tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
+    senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
+    didžiai garbinama lietuvių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-001
+
 - c-004
-  santrauka: 'Svetimšalių ataka buvo smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­ si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­ na Žemutinėje pilyje ir pagavo medinius statinius, aptva­ rus, užkardas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O
@@ -125,21 +101,32 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
 - c-005
-  santrauka: 'Žemutinė, arba Kreivoji pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     2. Žemutinė, arba Kreivoji pilis.
     3. Aukuras, amžinai deganti pagonių ugnis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
+    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
+    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
+    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

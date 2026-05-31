@@ -117,12 +117,10 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/hegemonija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Julijona (Vytauto žmona)]]
-- [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla]]

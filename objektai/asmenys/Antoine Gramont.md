@@ -92,7 +92,6 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/hetmonas]]

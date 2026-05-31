@@ -52,22 +52,6 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją, buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos partneriams realizuoti savą tautinį idealą.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių ordiną ir Maskvą.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
-  pagrindžia:
-    - c-007
 - t-008
   teiginys: 'Bet jo žmona Habsburgaitė netrukus mirė.'
   pagrindžia:
@@ -76,7 +60,22 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   teiginys: 'Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, tačiau su ja negyveno; ji išvažiavo į Vieną.'
   pagrindžia:
     - c-009
-
+- t-010
+  teiginys: 'Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių ordiną ir Maskvą.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją, buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos partneriams realizuoti savą tautinį idealą.'
+  pagrindžia:
+    - c-013
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytos Vengrijos ir Čekijos.'
@@ -121,80 +120,6 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją, buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos partneriams realizuoti savą tautinį idealą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kai
-    vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
-    lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
-    buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
-    partneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos
-    valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
-    minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
-    vandenį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Suardžius
-    Maskvos ir imperatoriaus Maksimilijono I
-    sąjungą, nukreiptą prieš Žygimantą Senąjį,
-    buvo suartėta su Habsburgais. To suartė-
-    jimo ryškiausia manifestacija buvo 1515 m.
-    suvažiavimas Vienoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių ordiną ir Maskvą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Nors Habsburgai
-    dinastinėje kovoje su Jogailaičiais dėl įtakos
-    Čekijoje ir Vengrijoje turėjo neabejotinai
-    daugiau naudos, bet nustojo remti amžinus
-    Lietuvos ir Lenkijos priešus - Vokiečių or-
-    diną ir Maskvą.
-
-    1514 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo reikalu pas popiežių buvo
-    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
-    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
-    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
-    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
-    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
-    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
-    kunigaikščio Algirdo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-008
   santrauka: 'Bet jo žmona Habsburgaitė netrukus mirė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -225,19 +150,97 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Suardžius
+    Maskvos ir imperatoriaus Maksimilijono I
+    sąjungą, nukreiptą prieš Žygimantą Senąjį,
+    buvo suartėta su Habsburgais. To suartė-
+    jimo ryškiausia manifestacija buvo 1515 m.
+    suvažiavimas Vienoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių ordiną ir Maskvą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    suvažiavimas Vienoje. Nors Habsburgai
+    dinastinėje kovoje su Jogailaičiais dėl įtakos
+    Čekijoje ir Vengrijoje turėjo neabejotinai
+    daugiau naudos, bet nustojo remti amžinus
+    Lietuvos ir Lenkijos priešus - Vokiečių or-
+    diną ir Maskvą.
+
+    1514 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    — 97 —
+    ```
+    tą, paskirti vyskupą, kapitulą. Tuo reikalu pas popiežių buvo
+    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
+    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
+    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
+    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
+    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
+    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
+    kunigaikščio Algirdo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją, buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos partneriams realizuoti savą tautinį idealą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+
+
+    (^32) ĮVADAS
+    Ir tolimesnė epocha turi abiejų tautų istorijoje paraleles. Kai
+    vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzol-
+    lernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją,
+    buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos
+    partneriams realizuoti savą tautinį idealą. Atsistatanti Lenkijos
+    valstybė tačiau labiausiai kenkė atskiros, nepriklausomos Lietuvos
+    minčiai, nes ji ieškojo vėl bristi į seniai praeitin « nutekėjusį » (upės)
+    vandenį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Zigmantas]]
-- [[objektai/asmenys/Zigmantas Augustas]]
+- [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Dobrogostas]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/asmenys/Inocentas VI]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Lenkijos bajorų partija]]
 - [[objektai/ivykiai/Mohačo mūšis]]
 - [[objektai/asmenys/Mykolas Tromba]]

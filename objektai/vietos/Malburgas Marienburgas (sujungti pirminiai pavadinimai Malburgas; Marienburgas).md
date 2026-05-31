@@ -1,32 +1,24 @@
 ---
 tipas: vieta
 pavadinimas: 'Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1235 m.'
-  - '1255 m.'
   - '1281 m.'
   - '1576 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XVI'
 date_start: '1235'
 date_end: '1576'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
   - vieta
   - vyskupas
+amziai:
+  - 'XIII'
+  - 'XVI'
 ---
 # Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas)
 
@@ -35,21 +27,25 @@ tags:
 1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai. 52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną. Viename tų laiškų, rašytame iš Marienburgo 1576 metų rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­ tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­ lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­ to tarybos, prie jo.
 
 ## Teiginiai
-- t-001
-  teiginys: '1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Viename tų laiškų, rašytame iš Marienburgo 1576 metų rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­ tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­ lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­ to tarybos, prie jo.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Teutonų
@@ -64,16 +60,14 @@ tags:
     kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '52 Tas žygis buvo paskubomis ir slap­ ta suruoštas, ir todėl didysis magist­ ras tuokart mažai teturėjo svetimša­ lių, juk nesigarsino po visą Europą, o slapčia iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    9 4 .
+    Lindenblatt Jahrbücher, p. 9 4 .
     52
     Tas žygis buvo paskubomis ir slap­
     ta suruoštas, ir todėl didysis magist­
@@ -86,13 +80,11 @@ tags:
     apie šitai pasakoja.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Viename tų laiškų, rašytame iš Marienburgo 1576 metų rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­ tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­ lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­ to tarybos, prie jo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius ŽYGIMANTAS AUGUSTAS
@@ -123,8 +115,6 @@ tags:
     ma reikalauti iš pirklių, o ko reikėtų atsisakyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003

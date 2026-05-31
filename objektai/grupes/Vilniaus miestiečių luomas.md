@@ -192,10 +192,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   teiginys: '— • - 152 ## Puslapis 169 Il KNYGA Iš Lenkijos miestų nusižiūrėtos laisvės, antra vertus, Magde­ burgo teisių savaiminė išdava lėmė tai, kad miestiečių luo­ mas užėmė aukštesnę visuomeninę padėtį negu nelaisvi kai­ mo žmonės; pagaliau Vilniaus, pralobusio per.'
   pagrindžia:
     - c-020
-- t-024
-  teiginys: '— • — 153 ## Puslapis 170 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnius, taip susiklosčius politiniams įvykiams, o labiausiai dėl pernelyg didelės galios monarcho, kurio sostinė buvo, ėmė iš tiesų lygiuotis į didesniuosius anų laikų miestus ir pelnė deramą.'
-  pagrindžia:
-    - c-021
 - t-025
   teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
   pagrindžia:
@@ -253,13 +249,17 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - c-035
 - t-039
-  teiginys: 'Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi esą labai varginami dėl to, kad nesilaikai jų atžvilgiu Mag­ deburgo teisės ir labai juos vargini, ir esą daugelyje tų teisių punktų pažeidi jų privilegijas ir kad.'
+  teiginys: '— • — 153 ## Puslapis 170 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnius, taip susiklosčius politiniams įvykiams, o labiausiai dėl pernelyg didelės galios monarcho, kurio sostinė buvo, ėmė iš tiesų lygiuotis į didesniuosius anų laikų miestus ir pelnė deramą.'
   pagrindžia:
     - c-036
 - t-040
-  teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
+  teiginys: 'Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi esą labai varginami dėl to, kad nesilaikai jų atžvilgiu Mag­ deburgo teisės ir labai juos vargini, ir esą daugelyje tų teisių punktų pažeidi jų privilegijas ir kad.'
   pagrindžia:
     - c-037
+- t-041
+  teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
+  pagrindžia:
+    - c-038
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -720,32 +720,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-023
-- c-021
-  santrauka: '— • — 153 ## Puslapis 170 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnius, taip susiklosčius politiniams įvykiams, o labiausiai dėl pernelyg didelės galios monarcho, kurio sostinė buvo, ėmė iš tiesų lygiuotis į didesniuosius anų laikų miestus ir pelnė deramą.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    ).
-    —  • —
-    153
-
-    ## Puslapis 170
-
-    VILNIAUS MIESTO ISTORIJA I TOMAS
-    Vilnius, taip susiklosčius politiniams įvykiams, o labiausiai
-    dėl pernelyg didelės galios monarcho, kurio sostinė buvo, ėmė
-    iš tiesų lygiuotis į didesniuosius anų laikų miestus ir pelnė
-    deramą pripažinimą. Vytautas Vilniui suteikė (1424 metais)
-    tam tikrų privilegijų, kurių galia miestiečiai buvo atleidžiami
-    nuo įvairių duoklių, tačiau tais laikais jau ėmęs stiprėti nepa­
-    kantumas kitatikiams lėmė, kad ta geradarybe vien tik Ro­
-    mos katalikų tikėjimą išpažįstantys naudojosi80.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-024
 - c-022
   santrauka: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1083,6 +1057,32 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   pagrindžia:
     - t-038
 - c-036
+  santrauka: '— • — 153 ## Puslapis 170 VILNIAUS MIESTO ISTORIJA I TOMAS Vilnius, taip susiklosčius politiniams įvykiams, o labiausiai dėl pernelyg didelės galios monarcho, kurio sostinė buvo, ėmė iš tiesų lygiuotis į didesniuosius anų laikų miestus ir pelnė deramą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ).
+    —  • —
+    153
+
+    ## Puslapis 170
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Vilnius, taip susiklosčius politiniams įvykiams, o labiausiai
+    dėl pernelyg didelės galios monarcho, kurio sostinė buvo, ėmė
+    iš tiesų lygiuotis į didesniuosius anų laikų miestus ir pelnė
+    deramą pripažinimą. Vytautas Vilniui suteikė (1424 metais)
+    tam tikrų privilegijų, kurių galia miestiečiai buvo atleidžiami
+    nuo įvairių duoklių, tačiau tais laikais jau ėmęs stiprėti nepa­
+    kantumas kitatikiams lėmė, kad ta geradarybe vien tik Ro­
+    mos katalikų tikėjimą išpažįstantys naudojosi80.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-037
   santrauka: 'Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi esą labai varginami dėl to, kad nesilaikai jų atžvilgiu Mag­ deburgo teisės ir labai juos vargini, ir esą daugelyje tų teisių punktų pažeidi jų privilegijas ir kad.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1113,8 +1113,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-039
-- c-037
+    - t-040
+- c-038
   santrauka: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1155,7 +1155,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-040
+    - t-041
 
 ## Ryšiai
 ### Susiję objektai
@@ -1210,7 +1210,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/asmenys/Ivanas Vasiljevičius]]
-- [[objektai/asmenys/Mendli Girėjus]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/asmenys/Steponas Batoras]]
@@ -1238,4 +1237,3 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - [[objektai/grupes/Vokiečių ir rusų pirkliai]]
 - [[objektai/zodynas/pastočių davimas]]
 - [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]
-- [[objektai/ivykiai/Žygimanto privilegijos mėsinėms Vilniaus mieste suteikimas (1543 m.)]]

@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Sulikovskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - miestas
@@ -25,13 +16,15 @@ tags:
 Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papročiu, Bekešo pa­ laikai buvę palaidoti po apvaliu bokštu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papročiu, Bekešo pa­ laikai buvę palaidoti po apvaliu bokštu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papročiu, Bekešo pa­ laikai buvę palaidoti po apvaliu bokštu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau amžininkas rašytojas
@@ -55,9 +48,7 @@ Tačiau amžininkas rašytojas Sulikovskis pasakoja tiktai, kad, užsienio papro
     gis, pag. 130.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

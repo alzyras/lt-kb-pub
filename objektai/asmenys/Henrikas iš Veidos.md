@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas iš Veidos'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1247 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1247'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - pilis
   - valdovas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Henrikas iš Veidos
 
@@ -30,38 +26,20 @@ tags:
 Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius metus296. Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius metus296.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius metus296.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    1247
 
-       Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius
-    metus296. Jis atsivedė drauge su savimi  į Prūsijos žemę kilnųjį vyrą Veidos valdovą297,
-    savo giminaitį, ir penkiasdešimt didžiai įgudusių kariauti vyrų (jie buvo tokie narsūs,
-    kad apie juos sklido garsas, jog niekas nestengė jų ieties atremti, o jų paleistos strėlės
-    visados susirasdavusios taikinį) bei daug kitų kilmingų maldininkų iš Vokietijos. Sis brolis
-    Henrikas, gavęs savo žmonos sutikimą, apsivilko Teutonų ordino vienuolio apsiaustą, o
-    ji pati įstojo  į Kronsvico moterų vienuolyną298, kurį jis pats įkūrė ir aprūpino ir kuriam
-    suteikė dosnių dovanų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie vienos pilies užkariavimą ir apie Kristburgo pilį
@@ -78,11 +56,48 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
     pranašas anksčiau, nei jis radosi magistro bei kitų brolių mintyse.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1247
+
+       Brolis Henrikas iš Veidos, trečias Prūsijos žemės magistras, vadovavo aštuonerius
+    metus296. Jis atsivedė drauge su savimi  į Prūsijos žemę kilnųjį vyrą Veidos valdovą297,
+    savo giminaitį, ir penkiasdešimt didžiai įgudusių kariauti vyrų (jie buvo tokie narsūs,
+    kad apie juos sklido garsas, jog niekas nestengė jų ieties atremti, o jų paleistos strėlės
+    visados susirasdavusios taikinį) bei daug kitų kilmingų maldininkų iš Vokietijos. Sis brolis
+    Henrikas, gavęs savo žmonos sutikimą, apsivilko Teutonų ordino vienuolio apsiaustą, o
+    ji pati įstojo  į Kronsvico moterų vienuolyną298, kurį jis pats įkūrė ir aprūpino ir kuriam
+    suteikė dosnių dovanų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  santrauka: 'Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pilį Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko rūpestingai rengtis.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    58 (57). Apie vienos pilies užkariavimą ir apie Kristburgo pilį
+
+       Brolis Henrikas, magistras, sužinojęs iš brolių, kiek blogybių tikėjimui ir tikintiesiems
+    yra pridarę Sventopelkas bei jo bendrai, Prūsijos žemės naujakrikščiai atsimetėliai, įniko
+    rūpestingai rengtis juos sunaikinti ir tikėjimą išaukštinti. Štai todėl, sušaukęs brolius
+    ir maldininkus, patraukė  į karą ir viešpaties gimimo išvakarėse, vidurnaktį, žmonėms
+    ilsintis,  priartėjo  prie pamedėnų  pilies,  stovėjusios tada  toje  vietoje,  kuri dabar
+    vadinama Senuoju Kristburgu, slapta įsibrovė  į  pilį, pristatęs prie sienų kopėčias,  ir
+    ją užėmė nukovęs ar išsivaręs  į nelaisvę daugelį, o piliai saugoti įkurdino ten brolių ir
+    daug ginklanešių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -90,7 +105,10 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
+- [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]

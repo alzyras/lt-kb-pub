@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Tai ne tas kelias, Maloningasis Pone'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - karalius
@@ -27,13 +18,15 @@ tags:
 Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu ir visu kleru, pon­ tifiko apdaru, užkirto kelią karaliui, kurio priekyje ėjo dide­ lis rūmų sargybos būrys, ir, sučiupęs jo žirgą už pavadžių, tarė: „Tai ne tas kelias, Maloningasis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Užvirė atkakli dvasininkų kova su reformatoriais ir tęsėsi
@@ -57,9 +50,7 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
     lių, kad, atsisakęs ketinimo, pasuko į katalikų katedrą46.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'homo furiosus, ac crapula infamis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - posakis
@@ -25,13 +16,15 @@ tags:
 3, p. 140; jį vadina: homo furiosus, ac crapula in­ famis [baisus žmogus ir begėdis gir­ tuoklis].
 
 ## Teiginiai
+
 - t-001
   teiginys: '3, p. 140; jį vadina: homo furiosus, ac crapula in­ famis [baisus žmogus ir begėdis gir­ tuoklis].'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '3, p. 140; jį vadina: homo furiosus, ac crapula in­ famis [baisus žmogus ir begėdis gir­ tuoklis].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis kunigaikštis, dar nuo pirmųjų kivir-
@@ -59,9 +52,7 @@ tags:
     tiškos civilizacijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

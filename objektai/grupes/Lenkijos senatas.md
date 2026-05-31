@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Lenkijos senatas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
@@ -27,17 +18,20 @@ tags:
 Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­ tui karu, jeigu jis neatsisakysiąs savo sumanymo. Len­ kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­ ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­ kijos senato valią galima būtų didžiajam kunigaikščiui už­ dėti Lietuvos.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­ tui karu, jeigu jis neatsisakysiąs savo sumanymo.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Len­ kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­ ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­ kijos senato valią galima būtų didžiajam kunigaikščiui už­ dėti Lietuvos.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­ tui karu, jeigu jis neatsisakysiąs savo sumanymo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­ tui karu, jeigu jis neatsisakysiąs savo sumanymo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Deja, tik dalis tos pasiuntinybės pasie­
@@ -51,13 +45,11 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     vė.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Len­ kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­ ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­ kijos senato valią galima būtų didžiajam kunigaikščiui už­ dėti Lietuvos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Puikų suruošia Vytautas priėmimą,
@@ -73,9 +65,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     džiamiems.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

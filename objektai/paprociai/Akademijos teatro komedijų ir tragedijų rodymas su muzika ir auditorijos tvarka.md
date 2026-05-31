@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Akademijos teatro komedijų ir tragedijų rodymas su muzika ir auditorijos tvarka'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
 ---
@@ -24,31 +15,39 @@ tags:
 Durys pušinės, dvigubos, apkalinėtos, su geležiniais vyriais, nuo įėjimo einant tiesiai yra 3 pakopos iš plytų; 2 langai nuo gatvės pusės, be stiklų, į teatro prieangį, kur grindys ir lu­ bos lentų, langų - 7, be stiklų, langinės kiekvieno dvigubos, medinės.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Durys pušinės, dvigubos, apkalinėtos, su geležiniais vyriais, nuo įėjimo einant tiesiai yra 3 pakopos iš plytų; 2 langai nuo gatvės pusės, be stiklų, į teatro prieangį, kur grindys ir lu­ bos lentų, langų - 7, be stiklų, langinės kiekvieno dvigubos, medinės.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Durys pušinės, dvigubos, apkalinėtos, su geležiniais vyriais, nuo įėjimo einant tiesiai yra 3 pakopos iš plytų; 2 langai nuo gatvės pusės, be stiklų, į teatro prieangį, kur grindys ir lu­ bos lentų, langų - 7, be stiklų, langinės kiekvieno dvigubos, medinės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Taip
+    pat laiptai į teatrą, pradžioje 2 pakopos ir grindys plytelių.
     Durys pušinės, dvigubos, apkalinėtos, su geležiniais vyriais,
     nuo įėjimo einant tiesiai yra 3 pakopos iš plytų; 2 langai nuo
     gatvės pusės, be stiklų, į teatro prieangį, kur grindys ir lu­
@@ -66,8 +65,6 @@ Nenurodyta
     pai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

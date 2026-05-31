@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
@@ -27,33 +18,40 @@ tags:
 „Pageidautume, - rašo toliau, - savo krašte tu­ rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios teises, dvasininkus gerbsime, Dievo garbinimą maldomis plėtosime. Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis!
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '„Pageidautume, - rašo toliau, - savo krašte tu­ rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios teises, dvasininkus gerbsime, Dievo garbinimą maldomis plėtosime.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis!'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: '„Pageidautume, - rašo toliau, - savo krašte tu­ rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios teises, dvasininkus gerbsime, Dievo garbinimą maldomis plėtosime.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Pageidautume, - rašo toliau, - savo krašte tu­ rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios teises, dvasininkus gerbsime, Dievo garbinimą maldomis plėtosime.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     „Pageidautume, - rašo toliau, - savo krašte tu­
@@ -84,13 +82,11 @@ Nenurodyta
     resnė atrodytų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau jie sako, jog tai daro dėl to, kad nori apginti krikščionis!'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau jie sako, jog tai daro dėl to,
@@ -104,9 +100,7 @@ Nenurodyta
     sakyti pamokslus ir atlikinėti kitas šventąsias apeigas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

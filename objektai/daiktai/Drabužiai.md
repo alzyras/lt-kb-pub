@@ -148,7 +148,6 @@ Nenurodyta
 - [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
 - [[objektai/paprociai/Lyčių pasiskirstymas ūkio ir namų darbuose]]
 - [[objektai/asmenys/V. Leninas]]
-- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/Šlapjurgis|šlapjurgis]]
 - [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]

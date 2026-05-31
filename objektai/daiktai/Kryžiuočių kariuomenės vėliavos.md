@@ -64,6 +64,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Žalgirio mūšis]]
 - [[objektai/daiktai/Ordino komtūrų barzdos]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

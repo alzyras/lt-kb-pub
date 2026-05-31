@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Antanas Kaminskas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
@@ -26,16 +17,20 @@ tags:
 Jiems vadovavo kapitonas Antanas Kaminskas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento, dengusių du reduto pabūklus.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Jiems vadovavo kapitonas Antanas Kaminskas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kapitonas Antanas Kaminskas vadovavo apie 80 karių iš 8-ojo regimento, dengusių du reduto pabūklus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tarp miesto ir prie-
@@ -50,10 +45,23 @@ Jiems vadovavo kapitonas Antanas Kaminskas.
     vuckio bei Juozapo Bielako priešakinės sar-
     gybos pulkas su 1-osios tautinės kavalerijos
     brigada, vadovaujama Mykolo Sulistrovskio.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Jiems vadovavo kapitonas Antanas Kaminskas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    per Muchaveco upę. Tarp miesto ir prie-
+    miesčio esančiame redute buvo du pabū-
+    klai, kuriuos dengė apie 80 karių iš 8-ojo
+    regimento. Jiems vadovavo kapitonas
+    Antanas Kaminskas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

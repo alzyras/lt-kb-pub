@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - ordinas
@@ -27,69 +18,25 @@ tags:
 Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus. Nors ir yra pinigų, paimtų už Mask­ vos kalinius bei ką tik iš Gdansko atgabentų, vis dėlto pa­ tartume tą sumą dvarui sulaikyti iki Jų Malonybių ponų tarybos narių suvažiavimo.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Nors ir yra pinigų, paimtų už Mask­ vos kalinius bei ką tik iš Gdansko atgabentų, vis dėlto pa­ tartume tą sumą dvarui sulaikyti iki Jų Malonybių ponų tarybos narių suvažiavimo.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tik tada Švitrigaila
-    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
-    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
-    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
-    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
-    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
-    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
-    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
-    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
-    reikalams, kaip tuomet.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Radvila užsistojo juos,
-    prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­
-    mo, ir karalius sutiko. Tačiau Torunės seime, kilus ginčams
-    su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­
-    tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam
-    pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo
-    teises bei privilegijas, bet iškilus netikėtiems krašto reika­
-    lams, visų pirma dėl Livonijos ir Lietuvos sienų gynybos,
-    norėdamas, kad pirkliai iš nemažų savo prekybos pajamų
-    ką nors kraštui paskirtų, kas jiems su kaupu sugrįš iš užsie­
-    nio prekybos, bet nebūtų rizikuojama sienų saugumu, įsakė
-    tuojau pat rinkti muitus. Dėl Vilniaus Batoras pareikalavo
-    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
-    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
-    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
-    čius*.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Nors ir yra pinigų, paimtų už Mask­ vos kalinius bei ką tik iš Gdansko atgabentų, vis dėlto pa­ tartume tą sumą dvarui sulaikyti iki Jų Malonybių ponų tarybos narių suvažiavimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nes, tarp kitko, mūsų mi­
@@ -114,8 +61,50 @@ Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pa
     prie valdovo kūno, būtų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno. Dar
+    niekada Kryžiuočių ordinas neturėjo tokios įtakos Lietuvos
+    reikalams, kaip tuomet.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Radvila užsistojo juos,
+    prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­
+    mo, ir karalius sutiko. Tačiau Torunės seime, kilus ginčams
+    su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­
+    tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam
+    pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo
+    teises bei privilegijas, bet iškilus netikėtiems krašto reika­
+    lams, visų pirma dėl Livonijos ir Lietuvos sienų gynybos,
+    norėdamas, kad pirkliai iš nemažų savo prekybos pajamų
+    ką nors kraštui paskirtų, kas jiems su kaupu sugrįš iš užsie­
+    nio prekybos, bet nebūtų rizikuojama sienų saugumu, įsakė
+    tuojau pat rinkti muitus. Dėl Vilniaus Batoras pareikalavo
+    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
+    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
+    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
+    čius*.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

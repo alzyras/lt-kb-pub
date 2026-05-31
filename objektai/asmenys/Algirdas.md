@@ -281,14 +281,14 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
   pagrindžia:
     - c-053
-- t-054
-  teiginys: 'Algirdas buvo gavęs Krėvę (be to, kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­ das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus sritį valdė jis pats.'
-  pagrindžia:
-    - c-054
 - t-055
   teiginys: 'Algirdas pabėgo ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir gavo valdyti Zaslaulį.'
   pagrindžia:
     - c-055
+- t-056
+  teiginys: 'Algirdas buvo gavęs Krėvę (be to, kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­ das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus sritį valdė jis pats.'
+  pagrindžia:
+    - c-056
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -1332,7 +1332,23 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-053
-- c-054
+- c-055
+  santrauka: 'Algirdas pabėgo ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir gavo valdyti Zaslaulį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tai buvo vyriausias brolių — Al­
+    girdas.
+    Jaunutis iš Vilniaus buvo išvytas jėga. Išsyk jis pabėgo
+    ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
+    gavo valdyti Zaslaulį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-055
+- c-056
   santrauka: 'Algirdas buvo gavęs Krėvę (be to, kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­ das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus sritį valdė jis pats.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -1356,23 +1372,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-054
-- c-055
-  santrauka: 'Algirdas pabėgo ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir gavo valdyti Zaslaulį.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tai buvo vyriausias brolių — Al­
-    girdas.
-    Jaunutis iš Vilniaus buvo išvytas jėga. Išsyk jis pabėgo
-    ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
-    gavo valdyti Zaslaulį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-055
+    - t-056
 
 ## Ryšiai
 ### Susiję objektai
@@ -1519,7 +1519,6 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/zodynas/Feodalinė visuomenė lenas vienvaldystė]]
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/daiktai/Goštauto liepa]]
 - [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
@@ -1559,8 +1558,6 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - [[objektai/asmenys/Simonas Lengvenis]]
 - [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
-- [[objektai/ivykiai/Tverės kautynės]]
-- [[objektai/ivykiai/Ugros taika]]
 - [[objektai/asmenys/Vaidila]]
 - [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
 - [[objektai/daiktai/Varpai]]
@@ -1592,4 +1589,3 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/kapitula]]
-- [[objektai/asmenys/Jaunutis]]

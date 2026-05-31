@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Lenkų tautiniai demokratai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
@@ -26,13 +17,15 @@ tags:
 Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organizacijų, beveik visų lenkų (Lenkijos) politinių partijų padaliniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių or-
@@ -45,9 +38,7 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
     statusas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

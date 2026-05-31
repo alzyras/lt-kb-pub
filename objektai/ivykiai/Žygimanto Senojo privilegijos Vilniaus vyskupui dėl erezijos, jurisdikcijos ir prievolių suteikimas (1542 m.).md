@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1542 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1542'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - privilegija
   - ritualas
   - tikėjimas
+amziai:
+  - 'XVI'
 ---
 # Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)
 
@@ -30,26 +24,31 @@ tags:
 Be to, suteikiame dvasiškiams pilną ir ne­ ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­ se, dominijose.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Be to, suteikiame dvasiškiams pilną ir ne­ ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­ se, dominijose.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Be to, suteikiame dvasiškiams pilną ir ne­ ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­ se, dominijose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, suteikiame dvasiškiams pilną ir ne­
@@ -80,9 +79,7 @@ Nenurodyta
     raisiais Viešpaties metais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

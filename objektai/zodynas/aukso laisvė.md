@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'aukso laisvė'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,16 +15,20 @@ tags:
 Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vadinamoji „aukso laisvė": kas tik buvo galingas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vadinamoji „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vadinamoji „aukso laisvė": kas tik buvo galingas, galėjo nieko neklausyti ir elgtis kaip tinkamas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vadinamoji „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik dėl Maskvos nusilpimo tepavyko atgauti didelius žemių
@@ -37,14 +38,32 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
     lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
     gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vadinamoji „aukso laisvė": kas tik buvo galingas, galėjo nieko neklausyti ir elgtis kaip tinkamas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kaip tik Zigmanto laikais tiek Lenkijoje, tiek Lietuvoje įsi-
+    galėjo vėliau dar labiau įsivyravusi vidaus netvarka. Didžiū-
+    nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
+    lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
+    gas, galėjo nieko neklausyti ir elgtis kaip tinkamas. Jo nevy-
+    kusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuo-
+    sius (unitus su pravoslavais) ir paruošė dirvą vėlesnėms aud-
+    roms ir Maskvos įsikišimui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
+- [[objektai/zodynas/unija]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]

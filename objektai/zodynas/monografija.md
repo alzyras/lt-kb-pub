@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'monografija'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - žemėlapis
@@ -25,35 +16,49 @@ tags:
 Monografijoje yra 320 puslapiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Monografijoje yra 320 puslapių.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Monografijoje yra 320 puslapiu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Monografijoje yra 320 puslapių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Monografijoje yra 320 puslapiu. Išleista gerame popieriuje su Vytauto
     Didžiojo portretu ir to laiko Lietuvos žemėlapiu.
     1.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Monografijoje yra 320 puslapiu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytauto vieta mūsų istorijoje.
+    Monografijoje yra 320 puslapiu. Išleista gerame popieriuje su Vytauto
+    Didžiojo portretu ir to laiko Lietuvos žemėlapiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
-- [[objektai/posakiai/1930 — VYTAUTO DIDŽIOJO — METAI]]
 - [[objektai/autoriai/A. Alekna]]
 - [[objektai/autoriai/A. Lewickis]]
 - [[objektai/autoriai/Alfredas Bumblauskas]]

@@ -3,17 +3,17 @@ tipas: grupe
 pavadinimas: "Lietuvos laisvės kovos sąjūdis"
 sukurta: '2026-05-14'
 variantai:
-  - "LLKS"
-  - "Sąjūdis"
-  - "Lietuvos laisvės kovų sąjūdis"
+  - 'LLKS'
+  - 'Sąjūdis'
+  - 'Lietuvos laisvės kovų sąjūdis'
 aliases:
-  - "LLKS Tarybos prezidiumas"
+  - 'LLKS Tarybos prezidiumas'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
 laikotarpis: "1948-1953 m."
 vaidmenys:
-  - "centralizuota ginkluoto ir politinio pasipriešinimo organizacija"
+  - 'centralizuota ginkluoto ir politinio pasipriešinimo organizacija'
 dalyviai: []
 susije_irasai: []
 datos:
@@ -97,15 +97,14 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-017
-  teiginys: '1949 m. dalyvavo kuriant vieningą pasipriešinimo judėjimo vadovybę, tapo Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo pirmininko J.'
-  pagrindžia:
-    - c-003
 - t-018
   teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
   pagrindžia:
     - c-004
-
+- t-019
+  teiginys: '1949 m. dalyvavo kuriant vieningą pasipriešinimo judėjimo vadovybę, tapo Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo pirmininko J.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
@@ -143,22 +142,6 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
   pagrindžia:
     - t-015
     - t-016
-- c-003
-  santrauka: '1949 m. dalyvavo kuriant vieningą pasipriešinimo judėjimo vadovybę, tapo Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo pirmininko J.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1949 m. dalyvavo kuriant
-    vieningą pasipriešinimo judėjimo vadovybę, tapo
-    Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
-    pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
-    vėliau ir LLKS gynybos pajėgų vadu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
 - c-004
   santrauka: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -179,21 +162,31 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
-
+- c-005
+  santrauka: '1949 m. dalyvavo kuriant vieningą pasipriešinimo judėjimo vadovybę, tapo Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo pirmininko J.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1949 m. dalyvavo kuriant
+    vieningą pasipriešinimo judėjimo vadovybę, tapo
+    Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo
+    pirmininko J. Žemaičio-Vytauto pavaduotoju, kiek
+    vėliau ir LLKS gynybos pajėgų vadu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/organas]]
-- [[objektai/zodynas/santvarka]]
 - [[objektai/asmenys/Bronius Liesis-Naktis]]
 - [[objektai/grupes/Dainavos apygarda]]
 - [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]
 - [[objektai/asmenys/Henrikas Danilevičius-Vidmantas]]
+- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/asmenys/Juozas Lapienis-Darius]]
 - [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
 - [[objektai/grupes/LLKS gynybos pajėgos]]

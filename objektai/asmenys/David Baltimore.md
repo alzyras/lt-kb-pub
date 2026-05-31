@@ -1,21 +1,18 @@
 ---
 tipas: asmuo
 pavadinimas: 'David Baltimore'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'D'
+periodo_grupes: []
 ---
 # David Baltimore
 
@@ -24,16 +21,23 @@ tags:
 O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    O juk
+    Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
+    tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
+    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
+    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
+    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
+    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk
     reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
     susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m. lau-
     reatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių,
@@ -45,9 +49,7 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
     premija).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

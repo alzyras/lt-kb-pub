@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Kryžiaus statymas ant Veliuonos Gedimino kapu laikyto pilkapio'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - paprotys
@@ -26,29 +17,35 @@ tags:
 Šalimais to Pilies kalno iš rytų pusės dunkso kitas kalnas, viršūnė tarsi kaugės, vadinamas Gedimino, o jo viršuje iš ## Puslapis 118 VILNIAUS MIESTO ISTORIJA / TOMAS vakarų pusės išsišovęs pilkapis: didžiulis kaupas irgi gaub­ ta viršūnė, šalia kurio čia pat.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šalimais to Pilies kalno iš rytų pusės dunkso kitas kalnas, viršūnė tarsi kaugės, vadinamas Gedimino, o jo viršuje iš ## Puslapis 118 VILNIAUS MIESTO ISTORIJA / TOMAS vakarų pusės išsišovęs pilkapis: didžiulis kaupas irgi gaub­ ta viršūnė, šalia kurio čia pat.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šalimais to Pilies kalno iš rytų pusės dunkso kitas kalnas, viršūnė tarsi kaugės, vadinamas Gedimino, o jo viršuje iš ## Puslapis 118 VILNIAUS MIESTO ISTORIJA / TOMAS vakarų pusės išsišovęs pilkapis: didžiulis kaupas irgi gaub­ ta viršūnė, šalia kurio čia pat.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šalimais to Pilies kalno iš rytų pusės dunkso kitas kalnas,
@@ -69,9 +66,7 @@ Nenurodyta
     žuvusio Gedimino kapas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

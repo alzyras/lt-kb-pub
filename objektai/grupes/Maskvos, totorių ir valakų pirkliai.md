@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Maskvos, totorių ir valakų pirkliai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
@@ -26,13 +17,15 @@ tags:
 Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilnių, išskyrus metų muges, negalėjo mainytis savo prekėmis su kitais sve­ timšaliais, bet tiktai su Vilniaus pirkliais.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilnių, išskyrus metų muges, negalėjo mainytis savo prekėmis su kitais sve­ timšaliais, bet tiktai su Vilniaus pirkliais.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilnių, išskyrus metų muges, negalėjo mainytis savo prekėmis su kitais sve­ timšaliais, bet tiktai su Vilniaus pirkliais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos Metriko­
@@ -57,9 +50,7 @@ Maskvos, totorių ir valakų pirkliai, kaskart vis gausiau atvykstantys į Vilni
     įsikurdavo22.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

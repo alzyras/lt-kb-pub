@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'karo etika'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - sąvoka
@@ -26,13 +17,15 @@ tags:
 Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo vien skerdynės: jau buvo laikomasi tam tikros karo etikos, t.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo vien skerdynės: jau buvo laikomasi tam tikros karo etikos, t.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo vien skerdynės: jau buvo laikomasi tam tikros karo etikos, t.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kariavimo būdas jau pakitėjo. Kryžiuočiai su Lietuva jau
@@ -42,9 +35,7 @@ Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo 
     tė daugiausia dėl to meto lietuvių vado, Kęstučio, nuopelnų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -79,26 +79,6 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
-  pagrindžia:
-    - c-007
-- t-008
-  teiginys: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
-  pagrindžia:
-    - c-008
 - t-009
   teiginys: 'Dar 1539 metais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­ niaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­ gijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­ tijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo naujas.'
   pagrindžia:
@@ -115,6 +95,26 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   teiginys: 'Taigi tokia yra mūsų valia, ir tegu visi žmonės žino, kad ji tokia amžinai ir liks, kad ponas vysku­ pas šį Abraomą ir visus jo bendrininkus baudžia pagal teises ir kanonus bei jam priklausančias pareigas ir valdžią, ir, kad tas reikalas greičiau ir tinkamiau.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: 'Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
+  pagrindžia:
+    - c-017
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Abraomas Kulvietis pristatomas kaip kunigas, teologijos daktaras ir mokyklos steigėjas Vilniuje.
@@ -203,92 +203,6 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    ji apėmė visą Eu-
-    ropą, suskaldė Katalikų bažnyčią ir subrandino naują krikščionybės kryp-
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    61
-    tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
-    Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
-    jo liuteronas Abraomas Kulvietis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tokia įvykių seka rodė ne tik tai, kad Lie-
-    tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
-    Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
-    60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
-    į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
-    1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    ) Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-
-    sinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant
-    su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
-    padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
-    teresų lygį ir taip išugdyti lietuvių inteligentiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šią programą A. Kulvietis
-    bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-
-    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
-    programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
-    tekizmą“.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    viduryje buvo
-    Europos tolerancijos lopšys?
-    Tautos, kalbos, raštijos
-    Pradėkime nuo lietuviakalbės raštijos. Visų pirma – tai
-    Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi
-    pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
-    ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 - c-009
   santrauka: 'Dar 1539 metais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­ niaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­ gijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­ tijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo naujas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -406,6 +320,92 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-013
+  santrauka: 'Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ji apėmė visą Eu-
+    ropą, suskaldė Katalikų bažnyčią ir subrandino naują krikščionybės kryp-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    61
+    tį – protestantizmą. Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
+    Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
+    jo liuteronas Abraomas Kulvietis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tokia įvykių seka rodė ne tik tai, kad Lie-
+    tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
+    Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
+    60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
+    į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
+    1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ) Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-
+    sinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant
+    su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
+    padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
+    teresų lygį ir taip išugdyti lietuvių inteligentiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šią programą A. Kulvietis
+    bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pir-
+    maisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų
+    programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Ka-
+    tekizmą“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    viduryje buvo
+    Europos tolerancijos lopšys?
+    Tautos, kalbos, raštijos
+    Pradėkime nuo lietuviakalbės raštijos. Visų pirma – tai
+    Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi
+    pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
+    ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai
@@ -415,6 +415,4 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
-- [[objektai/asmenys/Abraomas]]
-- [[objektai/zodynas/diecezija]]
 - [[objektai/zodynas/reformacija]]

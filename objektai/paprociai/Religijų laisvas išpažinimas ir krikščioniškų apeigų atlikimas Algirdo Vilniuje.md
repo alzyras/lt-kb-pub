@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - pilis
@@ -27,29 +18,35 @@ tags:
 Tačiau per tą laisvai iš­ pažįstamų religijų įvairovę, palūžusios pagonybės akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą išpažįstančiųjų ir jų dvasininkų.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau per tą laisvai iš­ pažįstamų religijų įvairovę, palūžusios pagonybės akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą išpažįstančiųjų ir jų dvasininkų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau per tą laisvai iš­ pažįstamų religijų įvairovę, palūžusios pagonybės akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą išpažįstančiųjų ir jų dvasininkų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mikalojaus, ten, kur ji yra ir dabar18; o palei Žemutinę
@@ -64,9 +61,7 @@ Nenurodyta
     timu į tikėjimą, pasmerkė save skaudžioms kančioms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

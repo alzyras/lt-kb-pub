@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vytenio žygis į Lenkiją ir Lenčicos žudynės'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
@@ -27,54 +18,36 @@ tags:
 Dusburgietis teigia, kad apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­ nių nužudymą bei paėmimą į nelaisvę Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai. Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­ nių nužudymą bei paėmimą į nelaisvę Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­ nių nužudymą bei paėmimą į nelaisvę Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
-                            nių nužudymą bei paėmimą į nelaisvę
-
-       Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
-    vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
-    kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
-    o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
-    į nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,
-    neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
-    be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
-    belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė
-    trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
-    žūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­ nių nužudymą bei paėmimą į nelaisvę Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad po to, kai jie ėmė trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių žūties, leidosi jų persekioti su tūkstančiu ir aštuoniais šimtais vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Po to, kai jie ėmė
@@ -92,11 +65,31 @@ Nenurodyta
         251 (244).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    250 (243). Apie baisų Lenkijos žemės nusiaubimą ir apie daugybės tūkstančių krikščio­
+                            nių nužudymą bei paėmimą į nelaisvę
+
+       Tais pačiais metais Vytenis, Lietuvos karaliaus sūnus, įsibrovė su aštuoniais šimtais
+    vyrų į Lenkijos žemę540 ir per sekmines (birželio 6), kai Lenčicos bažnyčios kanauninkai,
+    kunigai ir kiti dvasininkai, apsivilkę iškilmių arnotais, ėjo procesiją, žiauriai juos užpuolė,
+    o bažnyčioje nužudė 400 krikščionių, kunigų ir prelatų; kitus, kuriuos panorėjo, išsivarė
+    į nelaisvę; jie arnotus, taures ir kitokius bažnytinius indus pavartojo, niekindami dievą,
+    neleistiniems reikalams, pavertė pelenais bažnyčią drauge su joje buvusiais sakramentais,
+    be to, nusiaubę visas apylinkes bei išžudę daug dievo žmonių, išsivarė tokią galybę
+    belaisvių, kad per dalybas kiekvienam lietuviui teko 20 krikščionių. Po to, kai jie ėmė
+    trauktis atgal, Kazimieras, Lenkijos kunigaikštis, sielvartaudamas dėl savo žmonių
+    žūties, leidosi jų persekioti su tūkstančiu  ir aštuoniais šimtais vyrų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -105,3 +98,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Vytenis]]

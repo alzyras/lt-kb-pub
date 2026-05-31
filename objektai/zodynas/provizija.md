@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'provizija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - sąvoka
@@ -26,13 +17,15 @@ tags:
 Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad šių, mūsų valdų, ir dvarų, taip pat
@@ -54,9 +47,7 @@ Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų ma
     Dievo tarnystei prie anos bažnyčios pasiliktų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

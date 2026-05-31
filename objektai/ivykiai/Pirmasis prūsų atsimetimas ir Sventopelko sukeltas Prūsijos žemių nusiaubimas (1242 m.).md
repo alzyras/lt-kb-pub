@@ -1,29 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1236 m.'
-  - '1242 m.'
   - '1243 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1236'
 date_end: '1243'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - ordinas
   - tauta
+amziai:
+  - 'XIII'
 ---
 # Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)
 
@@ -32,38 +25,102 @@ tags:
 Dusburgietis teigia, kad apie pirmąjį prūsų atsimetimą. Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią. Dusburgietis teigia, kad apie žemutinių Prūsijos žemės dalių nusiaubimą Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė atskleisti iki šiol slėptą tūžmingą įgeidį persekioti, anksčiau padarytas nedorybes papildydamas naujomis.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-002
-  teiginys: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad apie žemutinių Prūsijos žemės dalių nusiaubimą Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė atskleisti iki šiol slėptą tūžmingą įgeidį persekioti, anksčiau padarytas nedorybes papildydamas naujomis.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 80—81; Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis.., p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).'
-  pagrindžia:
-    - c-004
+
 - t-005
   teiginys: 'Dusburgietis teigia, kad jis išžudė 4 tūkstančius dievo žmonių, kurie jo garbei bei šlovei ten gyveno, ir rodėsi, jog visa Prūsijos žemė paraudusi nuo krikščionių kraujo.'
   pagrindžia:
     - c-005
 
+- t-002
+  teiginys: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
+  pagrindžia:
+    - c-002
+
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie žemutinių Prūsijos žemės dalių nusiaubimą Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė atskleisti iki šiol slėptą tūžmingą įgeidį persekioti, anksčiau padarytas nedorybes papildydamas naujomis.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 80—81; Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis.., p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
+- c-005
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Neilgai trukus tas pats Sventopelkas, velnio išpera, iš naujo sutelkė nuo tikėjimo
+    atsimetusius naujakrikščius ir, su ginklu rankose įsibrovęs į aukštutines žemes, būtent:
+    į Pamedės ir Kulmo žemes, viską siaubė, plėšdamas ir degindamas; jis užkariavo ir iki
+    pamatų sugriovė visas pilis bei įtvirtinimus, išskyrus tris, būtent: Torunės, Kulmo  ir
+    Rudino. Jis išžudė 4 tūkstančius dievo žmonių, kurie jo garbei bei šlovei ten gyveno, ir
+    rodėsi, jog visa Prūsijos žemė paraudusi nuo krikščionių kraujo.
+
+
+
+
+     36.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
+    Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
+    p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342). Kai kas mano, kad sukilimas
+    galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204,
+    211).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie žemutinių Prūsijos žemės dalių nusiaubimą
+
+      Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė
+    atskleisti  iki  šiol slėptą tūžmingą  įgeidį  persekioti, anksčiau padarytas nedorybes
+    papildydamas naujomis. Jis mat įsakė, kad naujakrikščiai, kurie visuomet lengvai sugrįžta
+    prie pirmykščių klaidų, vieną dieną visose Prūsijos žemėse patrauktų  į karą ir sukiltų
+    prieš brolius paniekinę ir atmetę tikėjimą. Štai todėl prūsai271, susirinkę visi kaip vienas,
+    išsirinko tą patį Sventopelką savo vyresniuoju bei vadu ir, susitelkę petys į petį, užplūdo
+    šio krašto žemutines apygardas, negailestingai išžudė visus senesnius krikščionis, kurie
+    buvo atvykę iš Vokietijos talkinti Prūsijos žemei, o moteris bei kūdikius išsivarė į amžiną
+    vergovę. Be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo
+    reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų
+    išgriovė ir išžudė brolius bei krikščionis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje
@@ -83,73 +140,29 @@ Nenurodyta
     jiems labai reikėjo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie žemutinių Prūsijos žemės dalių nusiaubimą Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė atskleisti iki šiol slėptą tūžmingą įgeidį persekioti, anksčiau padarytas nedorybes papildydamas naujomis.'
+
+- c-006
+  santrauka: 'Dusburgietis teigia, kad sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie žemutinių Prūsijos žemės dalių nusiaubimą
+    32. Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje
 
-      Kai šitai buvo padaryta, Sventopelkas, nepaisydamas dievo baimės, viešai sumanė
-    atskleisti  iki  šiol slėptą tūžmingą  įgeidį  persekioti, anksčiau padarytas nedorybes
-    papildydamas naujomis. Jis mat įsakė, kad naujakrikščiai, kurie visuomet lengvai sugrįžta
-    prie pirmykščių klaidų, vieną dieną visose Prūsijos žemėse patrauktų  į karą ir sukiltų
-    prieš brolius paniekinę ir atmetę tikėjimą. Štai todėl prūsai271, susirinkę visi kaip vienas,
-    išsirinko tą patį Sventopelką savo vyresniuoju bei vadu ir, susitelkę petys į petį, užplūdo
-    šio krašto žemutines apygardas, negailestingai išžudė visus senesnius krikščionis, kurie
-    buvo atvykę iš Vokietijos talkinti Prūsijos žemei, o moteris bei kūdikius išsivarė į amžiną
-    vergovę. Be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo
-    reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų
-    išgriovė ir išžudė brolius bei krikščionis.
+      Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių  ir
+    pragaišties, pasak šventojo rašto, be galo klastingos  ir suktos širdies; prūsų tautą,
+    neseniai priėmusią Kristaus tikėjimą, jis pradėjo taikiais žodžiais raginti griebtis klastos,
+    sudarė sąjungą su ta sąlyga, kad jie išvarysią jėga iš Prūsijos žemės Teutonų ordino
+    brolius ir kitus krikščionis266; jiems ši kalba rodėsi esanti gera, daug kas persimetė į jo
+    pusę, ir beveik visi jam prijautė. Kai šitai įvyko, šis kunigaikštis sutvirtino savo pilis Vyslos
+    pakrantėse  ir jose įkurdino nuodėmingus žmones, nedoringus vyrus  ir nusikaltėlius,
+    kurie tapo broliams nelyginant kilpa po kaklu.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad l., Die Eroberung.., 2, p. 80—81; Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis.., p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    271 Sukilimo pradžia datuojama 1242 m. (Ewald A. L., Die Eroberung.., 2, p. 80—81;
-    Kujot S., Dzieje Prus.., 1, p. 696; Matusas J., Senovės prūsų.., p. 28; Jasas R., Didysis..,
-    p. 26; Lietuvių karas.., p. 132; Historia Polski, 1, 1, p. 342). Kai kas mano, kad sukilimas
-    galėjęs prasidėti 1243 m. paskutiniame ketvirtyje (Powierski J., Przyczyny.., p. 204,
-    211).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Dusburgietis teigia, kad jis išžudė 4 tūkstančius dievo žmonių, kurie jo garbei bei šlovei ten gyveno, ir rodėsi, jog visa Prūsijos žemė paraudusi nuo krikščionių kraujo.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neilgai trukus tas pats Sventopelkas, velnio išpera, iš naujo sutelkė nuo tikėjimo
-    atsimetusius naujakrikščius ir, su ginklu rankose įsibrovęs į aukštutines žemes, būtent:
-    į Pamedės ir Kulmo žemes, viską siaubė, plėšdamas ir degindamas; jis užkariavo ir iki
-    pamatų sugriovė visas pilis bei įtvirtinimus, išskyrus tris, būtent: Torunės, Kulmo  ir
-    Rudino. Jis išžudė 4 tūkstančius dievo žmonių, kurie jo garbei bei šlovei ten gyveno, ir
-    rodėsi, jog visa Prūsijos žemė paraudusi nuo krikščionių kraujo.
-
-
-
-
-     36.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

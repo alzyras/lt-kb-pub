@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'kiekvienam geros valios žmogui'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - ordinas
@@ -27,25 +18,26 @@ tags:
 Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam geros valios žmogui“, dominikonų ir pranciškonų ordinams51, turėjo platų tarptautinį atgarsį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
+    Gedimino laiškas Dorpato, Eželio vyskupams, Revelio žemės danų vietininkui  ir
+    Rygos miesto tarybai)50. Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
     Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
     geros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį
     atgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei
     sukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,9 +1,6 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'skaistykla'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -11,21 +8,17 @@ datos:
   - '1244 m.'
   - '1245 m.'
   - '1330 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XIII'
-  - 'XIV'
 date_start: '1050'
 date_end: '1330'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - sąvoka
   - vyskupas
+amziai:
+  - 'XI'
+  - 'XIV'
 ---
 # skaistykla
 
@@ -34,13 +27,15 @@ tags:
 Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas ar kitas jo giminaitis negrąžinsiąs minėtojo lauko.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas ar kitas jo giminaitis negrąžinsiąs minėtojo lauko.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas ar kitas jo giminaitis negrąžinsiąs minėtojo lauko.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tas atsakė buvęs vienus metus maldininku Prūsijos žemėje, o grįždamas miręs ir čia
@@ -60,8 +55,6 @@ Dusburgietis teigia, kad laikinąja, būtent tol skaistykloje kentėti, kol tas 
     numirėlis esąs jo tėvas, ir pasižadėjo sąžiningai tą lauką sugrąžinti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

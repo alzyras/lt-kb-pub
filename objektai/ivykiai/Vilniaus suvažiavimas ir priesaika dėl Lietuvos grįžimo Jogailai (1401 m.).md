@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1401 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1401'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - didikas
   - ivykis
   - karalius
+amziai:
+  - 'XV'
 ---
 # Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)
 
@@ -30,26 +24,31 @@ tags:
 Vladislovas Jogaila, aukščiausiąją valdžią Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­ jungta prie Lenkijos.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vladislovas Jogaila, aukščiausiąją valdžią Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­ jungta prie Lenkijos.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vladislovas Jogaila, aukščiausiąją valdžią Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­ jungta prie Lenkijos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vladislovas Jogaila, aukščiausiąją valdžią
@@ -86,9 +85,7 @@ Nenurodyta
     nios bei pritarimo66.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

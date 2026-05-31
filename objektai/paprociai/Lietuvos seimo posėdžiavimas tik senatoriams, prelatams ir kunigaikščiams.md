@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Lietuvos seimo posėdžiavimas tik senatoriams, prelatams ir kunigaikščiams'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1528 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1528'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - miestas
   - paprotys
+amziai:
+  - 'XVI'
 ---
 # Lietuvos seimo posėdžiavimas tik senatoriams, prelatams ir kunigaikščiams
 
@@ -30,29 +24,35 @@ tags:
 1528 metų lapkričio 17 dieną Lietuvos seime, kur, pagal anų laikų paprotį, posėdžiavo tiktai senatoriai, prelatai ir kunigaikščiai, buvo paskelbtas pirmasis Lietuvos Statutas, kuriame stengtasi suderinti gana skirtingus atskirų provin­ cijų įstatymus ir.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '1528 metų lapkričio 17 dieną Lietuvos seime, kur, pagal anų laikų paprotį, posėdžiavo tiktai senatoriai, prelatai ir kunigaikščiai, buvo paskelbtas pirmasis Lietuvos Statutas, kuriame stengtasi suderinti gana skirtingus atskirų provin­ cijų įstatymus ir.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1528 metų lapkričio 17 dieną Lietuvos seime, kur, pagal anų laikų paprotį, posėdžiavo tiktai senatoriai, prelatai ir kunigaikščiai, buvo paskelbtas pirmasis Lietuvos Statutas, kuriame stengtasi suderinti gana skirtingus atskirų provin­ cijų įstatymus ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1528 metų sausio 20 dieną karalius pasirašė Žemaičių
@@ -66,9 +66,7 @@ Nenurodyta
     vo garantuojamos Magdeburgo teisės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

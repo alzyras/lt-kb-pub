@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Lenkijos bajorai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
@@ -27,13 +18,15 @@ tags:
 Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse šalyse.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse šalyse.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse šalyse.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kai ši jo nelaisvė gana ilgai užsi­
@@ -43,12 +36,12 @@ Tačiau kai ši jo nelaisvė gana ilgai užsi­ tęsė, apie tai pasklido žinia
     cialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­
     vinti karalių, o jeigu tai nieko neduotų, - surengti žygį į
     Lietuvą susirinkus ties Kijanų kaimu prie Viepšo4. Čia ener­
-    gingai reiškėsi popiežius Martynas V.
+    gingai reiškėsi popiežius Martynas V. Jis net imperatorių Zig­
+    mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­
+    niškai savo autoritetu didžiai prie to prisidėjo5.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

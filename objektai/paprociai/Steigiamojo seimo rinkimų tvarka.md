@@ -111,5 +111,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/grupes/Vokiečiai]]

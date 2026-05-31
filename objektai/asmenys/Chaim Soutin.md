@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Chaim Soutin'
-sukurta: '2026-05-18'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1871 m.'
   - '1924 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
+date_start: '1871'
+date_end: '1924'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XIX'
   - 'XX'
-date_start: '1871'
-date_end: '1924'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-18'
-tags:
-  - asmuo
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Chaim Soutin
 
@@ -29,16 +25,22 @@ tags:
 Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir mokęsis smuiko virtuozas Jascha Heifetz (Jaša.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir mokęsis smuiko virtuozas Jascha Heifetz (Jaša.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir mokęsis smuiko virtuozas Jascha Heifetz (Jaša.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
+    tuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos
+    miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
+    ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
+    galvoji, kiek dar tokių vardų slepia Lietuva?
     Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-
     vičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos
     scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir
@@ -53,9 +55,7 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
     ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

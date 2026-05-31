@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1390 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1390'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - kraštas
   - kunigaikštis
   - miestas
+amziai:
+  - 'XIV'
 ---
 # Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje
 
@@ -30,90 +24,45 @@ tags:
 Prie jos šliejosi pats miesto centras, nedidelis, su mediniais namais, bet su tvirtų statinių tvorų ir griovių sutvirtinimais. To­ je pilyje krikščionis kunigaikštis, mū­ sų mielasis brolis, ponas Kazimieras, vadovavo įgulai." 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila. 35 Stryjkowski loco cit., plačiai aprašinėdamas Vilniaus apgultį, taip svarsto apie Moskoževskio gy­ nybą Aukštutinėje pilyje: „Aukštu­ tinę pilį lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu narsiai gynė, tad nei padegdami Žemutinę pilį, nei grasinimais.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Prie jos šliejosi pats miesto centras, nedidelis, su mediniais namais, bet su tvirtų statinių tvorų ir griovių sutvirtinimais.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'To­ je pilyje krikščionis kunigaikštis, mū­ sų mielasis brolis, ponas Kazimieras, vadovavo įgulai." 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: '35 Stryjkowski loco cit., plačiai aprašinėdamas Vilniaus apgultį, taip svarsto apie Moskoževskio gy­ nybą Aukštutinėje pilyje: „Aukštu­ tinę pilį lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu narsiai gynė, tad nei padegdami Žemutinę pilį, nei grasinimais.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Prie jos šliejosi pats miesto centras, nedidelis, su mediniais namais, bet su tvirtų statinių tvorų ir griovių sutvirtinimais.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
-    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
-    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
-    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
-    pats miesto centras, nedidelis, su mediniais namais, bet su
-    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
-    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
-    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
-    mi28.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'To­ je pilyje krikščionis kunigaikštis, mū­ sų mielasis brolis, ponas Kazimieras, vadovavo įgulai." 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    544, yra vienas pranešimas
-    iš lenkų krašto, rašytas senąja vokie­
-    čių kalba: Fol. E, p. 70, kuriame esa­
-    ma tokių žodžių: „Apsupome W ille
-    (tai yra Vilnių), lietuvių žemėse patį
-    pavojingiausią miestą, kur buvo trys
-    pilys, saugomos įgulos. Viena jų va­
-    dinama Krautuvių Pilimi, kurioje su­
-    sirinko keletas tūkstančių ginkluotų
-    žmonių, vyresnieji bei abiejų lyčių
-    prastuomenė, - ir pilies ginti, ir ieš­
-    kodami ten saugaus prieglobsčio. To­
-    je pilyje krikščionis kunigaikštis, mū­
-    sų mielasis brolis, ponas Kazimieras,
-    vadovavo įgulai."
-    122
 
-    ## Puslapis 139
-
-    Il KNYGA
-    lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
-    tikras brolis Kazimieras - kunigaikštis Karigaila.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: '35 Stryjkowski loco cit., plačiai aprašinėdamas Vilniaus apgultį, taip svarsto apie Moskoževskio gy­ nybą Aukštutinėje pilyje: „Aukštu­ tinę pilį lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu narsiai gynė, tad nei padegdami Žemutinę pilį, nei grasinimais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     35
@@ -156,11 +105,58 @@ Nenurodyta
     Długosz Histor.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
+    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
+    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
+    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
+    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
+    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
+    mi28.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    544, yra vienas pranešimas
+    iš lenkų krašto, rašytas senąja vokie­
+    čių kalba: Fol. E, p. 70, kuriame esa­
+    ma tokių žodžių: „Apsupome W ille
+    (tai yra Vilnių), lietuvių žemėse patį
+    pavojingiausią miestą, kur buvo trys
+    pilys, saugomos įgulos. Viena jų va­
+    dinama Krautuvių Pilimi, kurioje su­
+    sirinko keletas tūkstančių ginkluotų
+    žmonių, vyresnieji bei abiejų lyčių
+    prastuomenė, - ir pilies ginti, ir ieš­
+    kodami ten saugaus prieglobsčio. To­
+    je pilyje krikščionis kunigaikštis, mū­
+    sų mielasis brolis, ponas Kazimieras,
+    vadovavo įgulai."
+    122
+
+    ## Puslapis 139
+
+    Il KNYGA
+    lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
+    tikras brolis Kazimieras - kunigaikštis Karigaila.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -175,5 +171,6 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
+- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
 - [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]

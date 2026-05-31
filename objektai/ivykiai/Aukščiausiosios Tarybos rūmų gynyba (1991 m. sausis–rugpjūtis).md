@@ -124,10 +124,6 @@ Nenurodyta
   teiginys: 'Pirmiausia, dar sausio 11-12 d., rūmų viduje spygliuota viela buvo apraizgyta dalis praėjimų ir ventiliacinių ## Puslapis 261 angų, smėlio maišais ir armatūros tinklais įtvirtintas pagrindinių AT rūmų pirmasis aukštas, užminuoti laiptai į antrą aukštą.'
   pagrindžia:
     - c-011
-- t-020
-  teiginys: 'Tačiau Aukščiausioji Taryba buvo paskutinė riba, kurią sovietams peržengus, būtų pereita prie atviros ginkluotos konfrontacijos.'
-  pagrindžia:
-    - c-012
 - t-021
   teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji gynėjų dalis turėjo aiškesnę uzduotį - pagal galimybes ginti AT rūmus ir jų išorinį perimetrą, siekiant užfiksuoti patį pasipriešinimo faktą, o daliai ginkluotų gynėjų AT šturmo metu atakuoti šturmuojančias.'
   pagrindžia:
@@ -136,6 +132,10 @@ Nenurodyta
   teiginys: 'Lietuvos pasiryžimas ir kovos metodai tapo pavyzdžiu bei „Sausio 11-13 dienomis Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika padarė pradžią naujai atsiradusiai karinei organizacijai.'
   pagrindžia:
     - c-014
+- t-023
+  teiginys: 'Tačiau Aukščiausioji Taryba buvo paskutinė riba, kurią sovietams peržengus, būtų pereita prie atviros ginkluotos konfrontacijos.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -360,24 +360,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
-- c-012
-  santrauka: 'Tačiau Aukščiausioji Taryba buvo paskutinė riba, kurią sovietams peržengus, būtų pereita prie atviros ginkluotos konfrontacijos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ]
-
-    Visą laiką politinė vadovybė akcentavo taikų pasipriešinimą be jokios jėgos naudo-
-    jimo. Tačiau Aukščiausioji Taryba buvo paskutinė riba, kurią sovietams peržengus, būtų
-    pereita prie atviros ginkluotos konfrontacijos. Veiksmai neturėjo apsiriboti Aukščiausiąja
-    Taryba ir jos prieigomis, viskas turėjo išplisti po visą miestą. Užpuolę parlamentą sovie-
-    tai būtų patys puolami.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
 - c-013
   santrauka: 'Pirmomis sausio įvykių dienomis tik mažesnioji gynėjų dalis turėjo aiškesnę uzduotį - pagal galimybes ginti AT rūmus ir jų išorinį perimetrą, siekiant užfiksuoti patį pasipriešinimo faktą, o daliai ginkluotų gynėjų AT šturmo metu atakuoti šturmuojančias.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -431,6 +413,24 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-022
+- c-015
+  santrauka: 'Tačiau Aukščiausioji Taryba buvo paskutinė riba, kurią sovietams peržengus, būtų pereita prie atviros ginkluotos konfrontacijos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ]
+
+    Visą laiką politinė vadovybė akcentavo taikų pasipriešinimą be jokios jėgos naudo-
+    jimo. Tačiau Aukščiausioji Taryba buvo paskutinė riba, kurią sovietams peržengus, būtų
+    pereita prie atviros ginkluotos konfrontacijos. Veiksmai neturėjo apsiriboti Aukščiausiąja
+    Taryba ir jos prieigomis, viskas turėjo išplisti po visą miestą. Užpuolę parlamentą sovie-
+    tai būtų patys puolami.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Susiję objektai

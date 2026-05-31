@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Disidentų knygų deginimas, reformatų maldos namų užpuolimas ir Batoro laiškas (1581 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1576 m.'
   - '1581 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1576'
 date_end: '1581'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - kraštas
   - kunigaikštis
+amziai:
+  - 'XVI'
 ---
 # Disidentų knygų deginimas, reformatų maldos namų užpuolimas ir Batoro laiškas (1581 m.)
 
@@ -31,26 +25,31 @@ tags:
 Rūsčiai išbarė už šią sumaištį karalius, susirūpinęs Pskovo apgultimi, ir iš stovyklos parašė aną atmintiną laišką, kuriame pareiš­ kė, kad prisiekęs visoje valstybėje visiems išsaugoti laisvę, negalėjęs nebausdamas leisti, kad dėl tos priežasties būtų.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rūsčiai išbarė už šią sumaištį karalius, susirūpinęs Pskovo apgultimi, ir iš stovyklos parašė aną atmintiną laišką, kuriame pareiš­ kė, kad prisiekęs visoje valstybėje visiems išsaugoti laisvę, negalėjęs nebausdamas leisti, kad dėl tos priežasties būtų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rūsčiai išbarė už šią sumaištį karalius, susirūpinęs Pskovo apgultimi, ir iš stovyklos parašė aną atmintiną laišką, kuriame pareiš­ kė, kad prisiekęs visoje valstybėje visiems išsaugoti laisvę, negalėjęs nebausdamas leisti, kad dėl tos priežasties būtų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet teisingas ir santūrus Steponas Batoras sugebė­
@@ -75,9 +74,7 @@ Nenurodyta
     vo teismui66.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,9 +1,6 @@
 ---
 tipas: ivykis
 pavadinimas: 'Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -14,22 +11,18 @@ datos:
   - '1276 m.'
   - '1278 m.'
   - '1306 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1222'
 date_end: '1306'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ežeras
   - ivykis
   - miestas
+amziai:
+  - 'XIII'
+  - 'XIV'
 ---
 # Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)
 
@@ -38,26 +31,31 @@ tags:
 Dusburgietis teigia, kad 1248 m. vietovė jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251 m. čia įkuriama Kulmo vyskupijos katedra ir miestas Culmense (PUB, 1, 1, Nr. 250, p. 180; UBC, 1, 1, Nr. 29, p. 16—18); vėlesniuose dokumentuose figūruoja Culmense (1276 m., PUB, 1, 2, Nr..
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad 1248 m. vietovė jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251 m. čia įkuriama Kulmo vyskupijos katedra ir miestas Culmense (PUB, 1, 1, Nr. 250, p. 180; UBC, 1, 1, Nr. 29, p. 16—18); vėlesniuose dokumentuose figūruoja Culmense (1276 m., PUB, 1, 2, Nr..'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 1248 m. vietovė jau vadinama Culmense (UBC, 1, 1, Nr. 18, p. 7), 1251 m. čia įkuriama Kulmo vyskupijos katedra ir miestas Culmense (PUB, 1, 1, Nr. 250, p. 180; UBC, 1, 1, Nr. 29, p. 16—18); vėlesniuose dokumentuose figūruoja Culmense (1276 m., PUB, 1, 2, Nr..'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Per 20 km  į šiaurę nuo Torunės yra Chelmža (Kulmsee), miestas prie to pat vardo
@@ -71,9 +69,7 @@ Nenurodyta
     Culmense (1306 m., ten pat. Nr. 860, p. 544; žr. SZCh, p. 21—22).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

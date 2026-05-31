@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Alanta'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - karalius
@@ -27,17 +18,20 @@ tags:
 Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius po jo atidavė garsiajam Bekešui. Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams paveldėtojams, giminaičiams ir tiek vy­ riškos, tiek ir moteriškos lyties artimiesiems tuos paminė­ tus Alantos dvarą ir jam priklausančius Kristupiškių ir Kirdeikiškių dvarelius bei.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius po jo atidavė garsiajam Bekešui.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams paveldėtojams, giminaičiams ir tiek vy­ riškos, tiek ir moteriškos lyties artimiesiems tuos paminė­ tus Alantos dvarą ir jam priklausančius Kristupiškių ir Kirdeikiškių dvarelius bei.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius po jo atidavė garsiajam Bekešui.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius po jo atidavė garsiajam Bekešui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kavars­
@@ -50,16 +44,16 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
     pabaigoje, pastaboje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams paveldėtojams, giminaičiams ir tiek vy­ riškos, tiek ir moteriškos lyties artimiesiems tuos paminė­ tus Alantos dvarą ir jam priklausančius Kristupiškių ir Kirdeikiškių dvarelius bei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Būtent tai, kas priguli mūsų galiai ir garbei,
+    O tuo laiku verti geradarybės ir naudingi tar­
+    nai kiekvienoje gerai tvarkomoje valstybėje būna remiami
+    ir aprūpinami. Būtent tai, kas priguli mūsų galiai ir garbei,
     ką daryti mums galima ir pridera, tą visą mūsų teisę, visą ir
     nepažeistą, perduodame minėtam ponui Gabrieliui Beke­
     šui. Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir
@@ -99,8 +93,6 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
     nui Bekešui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

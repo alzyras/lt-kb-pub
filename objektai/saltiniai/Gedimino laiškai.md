@@ -108,14 +108,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginys: 'L I E T U V O S I S T O R I J A 36 Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
   pagrindžia:
     - c-013
-- t-017
-  teiginys: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L...] Gediminui, lietuvių ir daugelio rusų garsiam karaliui, garbinti dievą ir bijoti jo [linki] vyskupas Jonas, dievo tarnų tarnas...“ [„[...JGedeminne, letwinorum et multorum ruthenorum.'
-  pagrindžia:
-    - c-014
-- t-018
-  teiginys: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L.'
-  pagrindžia:
-    - c-015
 - t-019
   teiginys: 'Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar tik norinčiam tapti krikščioniu ir tik vėliau privalėsiančiam perprasti krikščionišką mokymą ir išsilavinimą; tai veikiau žodžiai asmens.'
   pagrindžia:
@@ -140,6 +132,14 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   teiginys: 'Dusburgietis teigia, kad gedimino laiškai / Parengė V.'
   pagrindžia:
     - c-021
+- t-025
+  teiginys: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L...] Gediminui, lietuvių ir daugelio rusų garsiam karaliui, garbinti dievą ir bijoti jo [linki] vyskupas Jonas, dievo tarnų tarnas...“ [„[...JGedeminne, letwinorum et multorum ruthenorum.'
+  pagrindžia:
+    - c-022
+- t-026
+  teiginys: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L.'
+  pagrindžia:
+    - c-023
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -473,50 +473,6 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
-- c-014
-  santrauka: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L...] Gediminui, lietuvių ir daugelio rusų garsiam karaliui, garbinti dievą ir bijoti jo [linki] vyskupas Jonas, dievo tarnų tarnas...“ [„[...JGedeminne, letwinorum et multorum ruthenorum.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    “]
-
-    (1324 m. (birželio 1 d.) popiežiaus Jono XXII
-    laiškas Gediminui):
-
-    »L...] Gediminui, lietuvių ir daugelio rusų
-    garsiam karaliui, garbinti dievą ir bijoti
-    jo [linki] vyskupas Jonas, dievo tarnų tar-
-    nas...“ [„[...JGedeminne, letwinorum et
-    multorum ruthenorum regi illustri deum
-
-    colere et timere Joannes episcopus, servus
-    servorum dei.]“
-
-    Raitininkas dėvi savo metui būdingus žieduočio
-    šarvus ilgomis rankovėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
-- c-015
-  santrauka: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    “]
-
-    (1324 m. (birželio 1 d.) popiežiaus Jono XXII
-    laiškas Gediminui):
-
-    »L.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-018
 - c-016
   santrauka: 'Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar tik norinčiam tapti krikščioniu ir tik vėliau privalėsiančiam perprasti krikščionišką mokymą ir išsilavinimą; tai veikiau žodžiai asmens.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -641,3 +597,47 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-024
+- c-022
+  santrauka: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L...] Gediminui, lietuvių ir daugelio rusų garsiam karaliui, garbinti dievą ir bijoti jo [linki] vyskupas Jonas, dievo tarnų tarnas...“ [„[...JGedeminne, letwinorum et multorum ruthenorum.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “]
+
+    (1324 m. (birželio 1 d.) popiežiaus Jono XXII
+    laiškas Gediminui):
+
+    »L...] Gediminui, lietuvių ir daugelio rusų
+    garsiam karaliui, garbinti dievą ir bijoti
+    jo [linki] vyskupas Jonas, dievo tarnų tar-
+    nas...“ [„[...JGedeminne, letwinorum et
+    multorum ruthenorum regi illustri deum
+
+    colere et timere Joannes episcopus, servus
+    servorum dei.]“
+
+    Raitininkas dėvi savo metui būdingus žieduočio
+    šarvus ilgomis rankovėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-023
+  santrauka: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “]
+
+    (1324 m. (birželio 1 d.) popiežiaus Jono XXII
+    laiškas Gediminui):
+
+    »L.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026

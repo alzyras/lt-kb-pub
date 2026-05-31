@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Fridrichas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1500 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1500'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - pilis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Fridrichas
 
@@ -30,13 +26,15 @@ tags:
 230 ## Puslapis 247 III KNYGA pavasario, kai Aleksandro motina karalienė Elžbieta su duk­ terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­ vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
 
 ## Teiginiai
+
 - t-001
   teiginys: '230 ## Puslapis 247 III KNYGA pavasario, kai Aleksandro motina karalienė Elžbieta su duk­ terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­ vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '230 ## Puslapis 247 III KNYGA pavasario, kai Aleksandro motina karalienė Elžbieta su duk­ terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­ vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     _  .
@@ -49,12 +47,11 @@ tags:
     terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
     vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
     Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
-    to ginčai, ir po kelerių metų (1500 m.
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -84,6 +81,7 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Liudvikas iš Baldensheimo]]
 - [[objektai/asmenys/Luterbergas]]
+- [[objektai/daiktai/Ordino magistro valdžios žymenys]]
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/autoriai/Potkowski E]]
 - [[objektai/asmenys/Rudolfas (Pamedės vyskupas)]]
@@ -92,6 +90,7 @@ tags:
 - [[objektai/asmenys/Ulrichas iš Drinlevės]]
 - [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
 - [[objektai/ivykiai/Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)]]
+- [[objektai/posakiai/abu drauge turėjome keliauti ten, kur amžinos linksmybės]]
 - [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

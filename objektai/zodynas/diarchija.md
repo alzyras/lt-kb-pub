@@ -54,10 +54,6 @@ tags: []
   teiginys: 'Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m.'
   pagrindžia:
     - c-004
-- t-007
-  teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
-  pagrindžia:
-    - c-005
 - t-008
   teiginys: 'Toks Lietu­ vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­ torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas (1377).'
   pagrindžia:
@@ -66,6 +62,10 @@ tags: []
   teiginys: 'Baigdami šį darbą norėtume dar išspręsti vieną klausimą, būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­ mu^2 ), geriau diarchija^3 ), t.'
   pagrindžia:
     - c-001
+- t-010
+  teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Diarchija reiškė dviejų asmenų valdymo sistemą, susidariusią Algirdo ir Kęstučio valdymo laikais.'
@@ -133,23 +133,6 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-005
-  santrauka: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valdant
-    Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
-    visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodaliz-
-    mas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“. Lietuva tuo metu jau
-    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
-    civilizacijos ištakos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-006
   santrauka: 'Toks Lietu­ vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­ torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas (1377).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -166,16 +149,32 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-007
+  santrauka: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gediminas nebuvo pirmas šios dinastijos atsto-
+    vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus. Valdant
+    Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
+    visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodaliz-
+    mas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“. Lietuva tuo metu jau
+    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
+    civilizacijos ištakos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/posakiai/supremus dux]]
 - [[objektai/zodynas/Diarchijos sistema]]
 - [[objektai/autoriai/L. Kolankowski]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/supremus dux magnus dux]]
-- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]

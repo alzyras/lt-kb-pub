@@ -158,7 +158,6 @@ Politinė grupuotė.
 - [[objektai/asmenys/A. Smetona]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Jaunieji tautininkai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

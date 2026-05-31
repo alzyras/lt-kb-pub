@@ -55,19 +55,18 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Tuo būdu XI amž-je pagonys liko tik aisčiai ir su jais Pabaltijy gyvenusios ugrių suomių tautos — lybiai ir estai.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'Rausiantis kastuvu rytų Pabaltijo žemėje, kuri ir čia yra už­ konservavusi daug senosios kultūros paminklų, galima pažvelgti nepalyginamai giliau į seniausią praeitį lietuvių protėvių ir jų arti­ miausių giminių latvių, prūsų ir sūduvių-jotvingių.'
   pagrindžia:
     - c-007
-
+- t-008
+  teiginys: 'Tuo būdu XI amž-je pagonys liko tik aisčiai ir su jais Pabaltijy gyvenusios ugrių suomių tautos — lybiai ir estai.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia tirti lietuvių protėvių, latvių, prūsų ir sūduvių-jotvingių praeitį.'
@@ -139,41 +138,6 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Tuo būdu XI amž-je pagonys liko tik aisčiai ir su jais Pabaltijy gyvenusios ugrių suomių tautos — lybiai ir estai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu XI amž-je pagonys liko
-    tik aisčiai ir su jais Pabaltijy gyvenusios ugrių suomių tautos —
-    lybiai ir estai. Taip atsitiko dėl to, kad jie gyveno labai nuo-
-    šaliai ir neturėjo artimų ryšių su vakarų Europa.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Prasidė-
-    jus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis,
-    pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir
-    persikeltų į Rusijos tyrus ginti Europos nuo totorių. Be to, jie
-    pareikalavo, kad daugumas ordino užimtų žemių būtų grąžintos
-    Lietuvai, — kad būtų grąžintos visos žemės anapus Ne-
-    muno iki Priegliaus ir Alnos upės, paskui — visas Kuršas ir visas
-    kairysis Dauguvos krantas, o nuo Aiviekstės upės intako — ana-
-    pus Dauguvos esanti Latgala.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: 'Rausiantis kastuvu rytų Pabaltijo žemėje, kuri ir čia yra už­ konservavusi daug senosios kultūros paminklų, galima pažvelgti nepalyginamai giliau į seniausią praeitį lietuvių protėvių ir jų arti­ miausių giminių latvių, prūsų ir sūduvių-jotvingių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -191,3 +155,39 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Tuo būdu XI amž-je pagonys liko tik aisčiai ir su jais Pabaltijy gyvenusios ugrių suomių tautos — lybiai ir estai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    gale. Tuo būdu XI amž-je pagonys liko
+    tik aisčiai ir su jais Pabaltijy gyvenusios ugrių suomių tautos —
+    lybiai ir estai. Taip atsitiko dėl to, kad jie gyveno labai nuo-
+    šaliai ir neturėjo artimų ryšių su vakarų Europa.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Delegacija neat-
+    vyko į Lietuvą, bet sustojo pakeliui pas kryžiuočius. Prasidė-
+    jus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis,
+    pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir
+    persikeltų į Rusijos tyrus ginti Europos nuo totorių. Be to, jie
+    pareikalavo, kad daugumas ordino užimtų žemių būtų grąžintos
+    Lietuvai, — kad būtų grąžintos visos žemės anapus Ne-
+    muno iki Priegliaus ir Alnos upės, paskui — visas Kuršas ir visas
+    kairysis Dauguvos krantas, o nuo Aiviekstės upės intako — ana-
+    pus Dauguvos esanti Latgala.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

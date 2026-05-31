@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kraštas
@@ -27,29 +18,35 @@ tags:
 Numanu, kad Magdeburgo tei­ sės, karaliaus suteiktos miestui, buvo ne itin paveikios ne tik dėl to, kad dar taip neseniai pakilę iš barbarybės miestiečiai prie jų buvo dar nepripratę, bet ir dėl nuolatinės baimės bei su­ maišties per tuos žiaurius karus ir.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Numanu, kad Magdeburgo tei­ sės, karaliaus suteiktos miestui, buvo ne itin paveikios ne tik dėl to, kad dar taip neseniai pakilę iš barbarybės miestiečiai prie jų buvo dar nepripratę, bet ir dėl nuolatinės baimės bei su­ maišties per tuos žiaurius karus ir.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Numanu, kad Magdeburgo tei­ sės, karaliaus suteiktos miestui, buvo ne itin paveikios ne tik dėl to, kad dar taip neseniai pakilę iš barbarybės miestiečiai prie jų buvo dar nepripratę, bet ir dėl nuolatinės baimės bei su­ maišties per tuos žiaurius karus ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vien tik Vytauto privilegi­
@@ -67,9 +64,7 @@ Nenurodyta
     žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

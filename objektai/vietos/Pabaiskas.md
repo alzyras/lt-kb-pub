@@ -40,22 +40,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: '1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią.'
   pagrindžia:
@@ -76,6 +60,22 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   teiginys: 'Pabaisko vietovė kalvota, tačiau atvira, o ten, kur da­ bar iškilusi nauja mūrinė bažnyčia, netgi gana graži.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu.'
+  pagrindžia:
+    - c-011
+- t-013
+  teiginys: 'Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: '219 ## Puslapis 236 VILNIAUS MIESTO ISTORIJA// TOMAS įvyko rugsėjo 1 dieną (1435 metais), per pusantros mylios nuo Ukmergės miesto, prie kelio į Vilnių, ten, kur šiandien stovi Pabaisko parapijos bažnyčia.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,83 +92,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
-    pasibaigusį 1435 m. Pabaisko mūšiu. Buvo visiškai susilpnintas
-    ir jame dalyvavęs vis dar Lietuvai grasinęs Livonijos ordinas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sprendžiant iš pagrindinių istorinių
-    šaltinių, Švitrigailos ir Ordino pajėgos iš
-    Vilkmergės patraukė į pietus pro Pašilę
-    ir toliau keliu Gelvonų link, einančiu
-    per dabartinį Pabaiską, vakarine Žirnajų
-    ežero pakrante. Žygimanto kariuomenė
-    traukė į šiaurę rytine to paties ežero puse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šią kariuomenių išsidėstymo
-    situaciją natūroje atitinka ne Žirnajos (kaip
-    įprasta istoriografijoje), bet jos dešiniojo
-    intako Vintaros, tekančios per dabartinį
-    Pabaisko miestelį, padėtis.
-
-    Kokiose pozicijose buvo sustojusi kelyje
-    Gelvonų link Švitrigailos - Ordino ka-
-    riuomenė, ar buvo perėjusi Žirnajos upę
-    (kaip teigiama istoriografijoje), nėra aišku.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: '1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tas įsimintinas mūšis
-    20
-    Kotzebue Switrigail, p. 89. Ind.
-    Cod. Hist. Dipl. Livon. T. I, N. 1344.
-    219
-
-    ## Puslapis 236
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    įvyko rugsėjo 1 dieną (1435 metais), per pusantros mylios
-    nuo Ukmergės miesto, prie kelio į Vilnių, ten, kur šiandien
-    stovi Pabaisko parapijos bažnyčia. Kautynės prasidėjo prie
-    mažo upelio, laukuose, netoli nuo dabartinės bažnyčios.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Žygimantas mūšio lauką pavadino Pabaisku, per jį tekantį upelį – Viktorija, ir toje vietoje pastatė parapijos bažnyčią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -275,3 +198,89 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    sulėtino Lietuvos plėtrą rytuose.
+
+    Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
+    pasibaigusį 1435 m. Pabaisko mūšiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-013
+  santrauka: 'Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Taip jos kelias paras stovėjo, susikaupę
+    laukė mūšio. Šią kariuomenių išsidėstymo
+    situaciją natūroje atitinka ne Žirnajos (kaip
+    įprasta istoriografijoje), bet jos dešiniojo
+    intako Vintaros, tekančios per dabartinį
+    Pabaisko miestelį, padėtis.
+
+    Kokiose pozicijose buvo sustojusi kelyje
+    Gelvonų link Švitrigailos - Ordino ka-
+    riuomenė, ar buvo perėjusi Žirnajos upę
+    (kaip teigiama istoriografijoje), nėra aišku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: '219 ## Puslapis 236 VILNIAUS MIESTO ISTORIJA// TOMAS įvyko rugsėjo 1 dieną (1435 metais), per pusantros mylios nuo Ukmergės miesto, prie kelio į Vilnių, ten, kur šiandien stovi Pabaisko parapijos bažnyčia.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tas įsimintinas mūšis
+    20
+    Kotzebue Switrigail, p. 89. Ind.
+    Cod. Hist. Dipl. Livon. T. I, N. 1344.
+    219
+
+    ## Puslapis 236
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    įvyko rugsėjo 1 dieną (1435 metais), per pusantros mylios
+    nuo Ukmergės miesto, prie kelio į Vilnių, ten, kur šiandien
+    stovi Pabaisko parapijos bažnyčia. Kautynės prasidėjo prie
+    mažo upelio, laukuose, netoli nuo dabartinės bažnyčios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę ir toliau keliu Gelvonų link, einančiu per dabartinį Pabaiską, vakarine Žirnajų ežero pakrante.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ji buvo daug
+    svarbesnė pilių apgulose
+
+    vadovauti pavedė savo sūnui kunigaikščiui
+    Mykolui, kuris „su lietuviais ir lenkais“ žy-
+    giavo pasitikti priešo.
+
+    Sprendžiant iš pagrindinių istorinių
+    šaltinių, Švitrigailos ir Ordino pajėgos iš
+    Vilkmergės patraukė į pietus pro Pašilę
+    ir toliau keliu Gelvonų link, einančiu
+    per dabartinį Pabaiską, vakarine Žirnajų
+    ežero pakrante. Žygimanto kariuomenė
+    traukė į šiaurę rytine to paties ežero puse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015

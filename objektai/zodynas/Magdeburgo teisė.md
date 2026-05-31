@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Magdeburgo teisė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1564 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1564'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - miestas
   - seimas
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # Magdeburgo teisė
 
@@ -30,16 +24,25 @@ tags:
 Čia paminėti įstatymai gali būti laikomi galutiniu išsi­ vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Čia paminėti įstatymai gali būti laikomi galutiniu išsi­ vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Čia paminėti įstatymai gali būti laikomi galutiniu išsi­ vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
+    IV KNYGA
+    Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos
+    seime, vykusiame Liubline, ir sostinės Vilniaus pasiuntiniai bur­
+    mistrai Francas Dumikas, Teodoras Jackovičius ir raštininkas
+    Jeronimas Opachovskis kartu su kitais Didžiosios kunigaikš­
+    tystės delegatais 1569 metų liepos 1-ą dieną pasirašė šlovingąjį
+    susivienijimo dekretą, Lietuvos paskelbtą Lenkijos pasiunti­
+    niams. Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
     vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
     pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
     Kai dar 1564 metais Bełsko seime Žygimantas Augustas
@@ -53,9 +56,7 @@ tags:
     mąjį Statutą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

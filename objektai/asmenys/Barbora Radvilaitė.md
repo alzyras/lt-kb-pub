@@ -120,10 +120,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-- t-010
-  teiginys: 'Vilniaus miesto ir Universiteto istorijos, studija apie Barborą Radvilaitę, statisti­ niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­ laukė tęsinio.'
-  pagrindžia:
-    - c-008
 - t-011
   teiginys: '272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­ teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­ lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio atrado kuklumą ir sulaukė prielankumo.'
   pagrindžia:
@@ -140,6 +136,10 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   teiginys: 'Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės 343 ## Puslapis 360 VILNIAUS MIESTO ISTORIJA// TOMAS karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o vėliau ir kur kitur ir pas ką tik.'
   pagrindžia:
     - c-012
+- t-015
+  teiginys: 'Vilniaus miesto ir Universiteto istorijos, studija apie Barborą Radvilaitę, statisti­ niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­ laukė tęsinio.'
+  pagrindžia:
+    - c-013
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Barbora Radvilaitė įvardijama kaip Jurgio duktė, Goštauto našlė, Žygimanto Augusto mylimoji ir slapta žmona.
@@ -327,22 +327,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
-- c-008
-  santrauka: 'Vilniaus miesto ir Universiteto istorijos, studija apie Barborą Radvilaitę, statisti­ niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­ laukė tęsinio.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jis suvaidino svarbų vaidmenį formuojant Lietuvos isto­
-    riografijos tematiką ir probleminius mazgus. Vilniaus miesto ir
-    Universiteto istorijos, studija apie Barborą Radvilaitę, statisti­
-    niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­
-    laukė tęsinio. Tai didelis jo nuopelnas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 - c-009
   santrauka: '272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­ teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­ lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio atrado kuklumą ir sulaukė prielankumo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -452,6 +436,22 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-013
+  santrauka: 'Vilniaus miesto ir Universiteto istorijos, studija apie Barborą Radvilaitę, statisti­ niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­ laukė tęsinio.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jis suvaidino svarbų vaidmenį formuojant Lietuvos isto­
+    riografijos tematiką ir probleminius mazgus. Vilniaus miesto ir
+    Universiteto istorijos, studija apie Barborą Radvilaitę, statisti­
+    niai tyrinėjimai iš Vilniaus miesto ir LDK valstybės praeities su­
+    laukė tęsinio. Tai didelis jo nuopelnas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -480,8 +480,7 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - [[objektai/grupes/Radvilų giminė]]
 - [[objektai/grupes/Radvilų prokuratorija]]
 - [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]
-- [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/zodynas/mansionieriai]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Augustas]]

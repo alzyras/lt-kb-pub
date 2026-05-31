@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Volfgangas Auksakalys'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1522 m.'
   - '1530 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1522'
 date_end: '1530'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Volfgangas Auksakalys
 
@@ -28,15 +24,19 @@ tags:
 24 Vilniuje Žygimanto Senojo laikais auksakalių būta daug ir turtingų.
 
 ## Teiginiai
+
 - t-001
   teiginys: '24 Vilniuje Žygimanto Senojo laikais auksakalių būta daug ir turtingų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '24 Vilniuje Žygimanto Senojo laikais auksakalių būta daug ir turtingų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Rašyta Vilniaus mieste, 1507 me­
+    tų gegužės 1 dieną].
     24
     Vilniuje Žygimanto Senojo laikais
     auksakalių būta daug ir turtingų.
@@ -44,9 +44,7 @@ tags:
     1522 m., Štagelis - 1530 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

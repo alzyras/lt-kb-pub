@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Palačinskas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
 ---
@@ -24,13 +15,15 @@ tags:
 Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Leitenantas Barkauskas puolė į bolševikų štabą, kur miegojo aštuoni komisarai. Kai
@@ -43,9 +36,7 @@ Iš antros pusės stovėjęs eilinis Palačinskas nudūrė kitą.
     kviduotas divizijos štabas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

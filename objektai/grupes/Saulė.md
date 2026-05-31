@@ -87,7 +87,9 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   santrauka: 'Kylant lietuvių tarpe kaskart vis didesniam susidomėjimui prekyba ir visam krašte steigiantis vartotojų bendrovėms (koperatyvams), „Saulės" draugija taip pat Kaune įsteigė buhalterijos kursus, kurie ruošė tam darbui tinkamus žmones.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kylant
+    Jos rūpesčiu buvo įkurta nemaža pradžios mokyklų, skai-
+    tyklų ir pedagoginiai kursai Kaune, iš kurių išėjo daug tautiš-
+    kai susipratusių mokytojų ir šiaip apsišvietusių veikėjų. Kylant
     lietuvių tarpe kaskart vis didesniam susidomėjimui prekyba ir
     visam krašte steigiantis vartotojų bendrovėms (koperatyvams),
     „Saulės" draugija taip pat Kaune įsteigė buhalterijos

@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Ignalinos atominė elektrinė'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -18,26 +15,49 @@ tags:
 Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė esant nesaugią.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Stojant į ES buvo keliamas nerašytas reikalavimas uždaryti Ignalinos atominę elektrinę, kuri Europoje laikyta nesaugia.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė esant nesaugią.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Stojant į ES buvo keliamas nerašytas reikalavimas uždaryti Ignalinos atominę elektrinę, kuri Europoje laikyta nesaugia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Visi tie veiks-
+    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
+    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
+    mente – 12 europarlamentarų. Taigi, nors pavienės šalies įtaka ES spren-
+    dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
+    atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti. Visi tie veiks-
     niai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas
     stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
     esant nesaugią.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė esant nesaugią.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi, nors pavienės šalies įtaka ES spren-
+    dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
+    atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti. Visi tie veiks-
+    niai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas reikalavimas
+    stojant į ES uždaryti Ignalinos atominę elektrinę, kurią europiečiai manė
+    esant nesaugią. ES ir toliau griežtai laikantis savo nustatytų kriterijų, Lie-
+    tuva pamažu nusileido – strateginiai šalies tikslai buvo pernelyg svarbūs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

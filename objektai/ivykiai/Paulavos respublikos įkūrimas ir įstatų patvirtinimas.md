@@ -1,30 +1,23 @@
 ---
 tipas: ivykis
 pavadinimas: 'Paulavos respublikos įkūrimas ir įstatų patvirtinimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1767 m.'
-  - '1769 m.'
   - '1773 m.'
   - '1791 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
 date_start: '1767'
 date_end: '1791'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - ordinas
   - seimas
   - valstybė
+amziai:
+  - 'XVIII'
 ---
 # Paulavos respublikos įkūrimas ir įstatų patvirtinimas
 
@@ -33,30 +26,36 @@ tags:
 Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia. Bžostovskio įkurta Paulavos respublika.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Bžostovskio įkurta Paulavos respublika.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -66,15 +65,15 @@ Nenurodyta
     vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
     panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
     kartais laikomi Apšvietos epochos pradžia.
+    Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
+    sąjunga, sukurta Liublino unijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Bžostovskio įkurta Paulavos respublika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo
@@ -89,9 +88,7 @@ Nenurodyta
     ir Lietuvos Valstybėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

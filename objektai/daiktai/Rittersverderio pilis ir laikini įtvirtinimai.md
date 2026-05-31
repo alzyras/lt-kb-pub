@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Rittersverderio pilis ir laikini įtvirtinimai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1394 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1394'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - kraštas
   - kunigaikštis
   - miestas
+amziai:
+  - 'XIV'
 ---
 # Rittersverderio pilis ir laikini įtvirtinimai
 
@@ -30,52 +24,40 @@ tags:
 Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­ dinti ir stiprinti Rittersverderio pilį52. 136 ## Puslapis 153 Il KNYGA mas ne daugiau kaip 200 šaulių iš Burgundijos ir 300 kitų karių, laikinai buvo pasistatydinęs įtvirtinimus iš statybai skirtų medžiagų, kad apsigintų, kol atvyks raiteliai.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­ dinti ir stiprinti Rittersverderio pilį52.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: '136 ## Puslapis 153 Il KNYGA mas ne daugiau kaip 200 šaulių iš Burgundijos ir 300 kitų karių, laikinai buvo pasistatydinęs įtvirtinimus iš statybai skirtų medžiagų, kad apsigintų, kol atvyks raiteliai.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­ dinti ir stiprinti Rittersverderio pilį52.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Visa tai vyko žiemos pabaigo­
-    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
-    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
-    kiolika dienų teplėšė Lietuvą. Didysis magistras, vis dar
-    laikydamasis ankstesnių ketinimų atimti Vilnių iš Vytauto,
-    tais pačiais metais, vasarą, per Šv. Jokūbą, vėl išsiruošė ana­
-    pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­
-    dinti ir stiprinti Rittersverderio pilį52.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: '136 ## Puslapis 153 Il KNYGA mas ne daugiau kaip 200 šaulių iš Burgundijos ir 300 kitų karių, laikinai buvo pasistatydinęs įtvirtinimus iš statybai skirtų medžiagų, kad apsigintų, kol atvyks raiteliai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pastarasis, turėda-
@@ -125,11 +107,26 @@ Nenurodyta
     skirtų medžiagų, kad apsigintų, kol atvyks raiteliai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Visa tai vyko žiemos pabaigo­
+    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
+    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
+    kiolika dienų teplėšė Lietuvą. Didysis magistras, vis dar
+    laikydamasis ankstesnių ketinimų atimti Vilnių iš Vytauto,
+    tais pačiais metais, vasarą, per Šv. Jokūbą, vėl išsiruošė ana­
+    pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­
+    dinti ir stiprinti Rittersverderio pilį52.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'jazai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - sąvoka
@@ -27,13 +18,15 @@ tags:
 Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš mūsų valdinių per tą pačią upę kitose vietose statyti mažų tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­ žiūrą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš mūsų valdinių per tą pačią upę kitose vietose statyti mažų tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­ žiūrą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš mūsų valdinių per tą pačią upę kitose vietose statyti mažų tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­ žiūrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kad toks tilto muitas, mūsų aukščiau nu­
@@ -64,9 +57,7 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
     aukščiau mūsų nurodytomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

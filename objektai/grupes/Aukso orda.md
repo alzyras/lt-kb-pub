@@ -52,10 +52,6 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Per aštuonioliką sa­ vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net Aukso Ordoje.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Kai nuo XIV amž. galo totorių valstybė (Aukso Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.'
   pagrindžia:
@@ -80,6 +76,10 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   teiginys: 'Kryžiuočių ordinui, remiamam kryžininkų, nuo 1328 m. atnaujinus Lietuvos puolimus, Lietuva, atrodo, bus užmezgusi kompromisinius santykius su Aukso orda, kurios įtakoje, matyt, liko pietinė Kijevo žemės dalis.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Per aštuonioliką sa­ vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net Aukso Ordoje.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -135,25 +135,6 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Per aštuonioliką sa­ vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net Aukso Ordoje.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
-    dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
-    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
-    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
-    Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
-    čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
-    skynė kelią į tikruosius jo didybės laikus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Kai nuo XIV amž. galo totorių valstybė (Aukso Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -258,6 +239,26 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Per aštuonioliką sa­ vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net Aukso Ordoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    ```
+    I.
+    ```
+    Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
+    dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
+    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
+    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
+    Aukso Ordoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai

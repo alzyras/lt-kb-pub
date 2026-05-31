@@ -1,48 +1,52 @@
 ---
 tipas: grupe
 pavadinimas: 'Mongolai'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1272 m.'
   - '1328 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+date_start: '1272'
+date_end: '1328'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - grupe
 amziai:
   - 'XIII'
   - 'XIV'
-date_start: '1272'
-date_end: '1328'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
-tags:
-  - grupe
 ---
 # Mongolai
 
 ## Santrauka
 
+Nenurodyta
+
 ## Puslapis 21 Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos valdovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius mongolus prie Mėlynųjų vandenų.
 
+Nenurodyta
+
 ## Teiginiai
+
+- t-002
+  teiginys: '8 ## Puslapis 25 ĮVADAS denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino 1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu su Nogajaus mongolais.'
+  pagrindžia:
+    - c-002
+
 - t-001
   teiginys: 'Prie Mėlynųjų vandenų Algirdo vadovaujama Lietuvos kariuomenė sutriuškino rusų žemėse su lietuviais konkuravusius mongolus.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1272 m. Slonimas smarkiai pasipriešino Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.'
+
+- t-003
+  teiginys: '## Puslapis 21 Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos valdovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius mongolus prie Mėlynųjų vandenų.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Prie Mėlynųjų vandenų Algirdo vadovaujama Lietuvos kariuomenė sutriuškino rusų žemėse su lietuviais konkuravusius mongolus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 21
@@ -56,15 +60,13 @@ tags:
     (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai),
     gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
     sios Rusios kunigaikštijų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1272 m. Slonimas smarkiai pasipriešino Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Naugardukas jau buvo garsiojo Min­
@@ -82,11 +84,31 @@ tags:
     su Nogajaus mongolais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: '## Puslapis 21 Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos valdovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius mongolus prie Mėlynųjų vandenų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Gedimino laikais Lie-
+    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
+    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
+    žmonės - kariai, galintys bet kada stoti į tarnybą.
+
+    ## Puslapis 21
+
+    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
+    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
+    mongolus prie Mėlynųjų vandenų.
+
+    1328 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -98,13 +120,15 @@ tags:
 - [[objektai/zodynas/kondominiumas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pilėnai nuolatiniai karo tarnybininkai]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
 - [[objektai/grupes/Mongolų imperija]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Haličo kunigaikščiai]]

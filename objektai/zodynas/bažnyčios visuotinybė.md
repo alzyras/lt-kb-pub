@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'bažnyčios visuotinybė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1274 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1274'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - krikštas
   - sąvoka
   - tikėjimas
+amziai:
+  - 'XIII'
 ---
 # bažnyčios visuotinybė
 
@@ -30,16 +24,18 @@ tags:
 Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą 1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams, varmiams, notangams, bartams bei sembams, davus jiems įkaitų ir šitaip laidavus, kad jie ateityje niekada.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
+    175 (170). Apie nadruvių karą ir daugybės šios žemės žmonių atsivertimą
 
       1274 viešpaties metais, grįžus į šventosios motinos bažnyčios visuotinybę pagudėnams,
     varmiams, notangams, bartams bei sembams, davus jiems įkaitų  ir šitaip laidavus,
@@ -52,9 +48,7 @@ Dusburgietis teigia, kad apie nadruvių karą ir daugybės šios žemės žmoni�
     tarnauti gyvajam dievui Jėzui Kristui.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,48 +1,23 @@
 ---
 tipas: grupe
 pavadinimas: 'Baltai'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1888 m.'
-  - '1894 m.'
-  - '1910 m.'
-  - '1930 m.'
-  - '1931 m.'
-  - '1953 m.'
-  - '1956 m.'
-  - '1967 m.'
-  - '1976 m.'
-  - '1977 m.'
-  - '1981 m.'
-  - '1982 m.'
-  - '2004 m.'
-  - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-  - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'VI'
-  - 'XI'
-  - 'XIII'
-  - 'XIV'
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
 date_start: '1888'
 date_end: '2026'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
+amziai:
+  - 'XIX'
+  - 'XXI'
 ---
 # Baltai
 
@@ -51,167 +26,169 @@ tags:
 M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Baltų gentys pradėjo formuotis III tūkstantmečio pr.
 
 ## Teiginiai
-- t-008
-  teiginys: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
-  pagrindžia:
-    - c-007
-- t-009
-  teiginys: 'Dusburgietis teigia, kad taigi Lietuvos pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.'
-  pagrindžia:
-    - c-008
-- t-010
-  teiginys: 'Dusburgietis teigia, kad mindaugas norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės baltų žemės (Livonija ir Prūsija).'
-  pagrindžia:
-    - c-009
-- t-011
-  teiginys: 'Dusburgietis teigia, kad 186 Manoma, kad politinė ir etninė baltų (Pamedės prūsų) ir Pamario slavų riba ėjusi XII—XIII a.'
-  pagrindžia:
-    - c-010
-- t-012
-  teiginys: 'Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).'
-  pagrindžia:
-    - c-011
+
 - t-013
   teiginys: 'Dusburgietis teigia, kad romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,— prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   pagrindžia:
     - c-012
-- t-014
-  teiginys: 'Dusburgietis teigia, kad dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П.'
-  pagrindžia:
-    - c-013
-- t-015
-  teiginys: 'Dusburgietis teigia, kad 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią antropomorfinę dievybę, panašią į krikščioniškąjį dievą (Łowmiański H.'
-  pagrindžia:
-    - c-014
-- t-016
-  teiginys: 'Dusburgietis teigia, kad baltų filologijos įvadas.— V., 1982.'
-  pagrindžia:
-    - c-015
-- t-017
-  teiginys: 'Dusburgietis teigia, kad apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais —Iš lietuvių etnogenezės, V., 1981, p. 5—11.'
-  pagrindžia:
-    - c-016
-- t-018
-  teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
-  pagrindžia:
-    - c-017
+
 - t-019
   teiginys: ') baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų.'
   pagrindžia:
     - c-018
+
+- t-010
+  teiginys: 'Dusburgietis teigia, kad mindaugas norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės baltų žemės (Livonija ir Prūsija).'
+  pagrindžia:
+    - c-009
+
+- t-016
+  teiginys: 'Dusburgietis teigia, kad baltų filologijos įvadas.— V., 1982.'
+  pagrindžia:
+    - c-015
+
+- t-008
+  teiginys: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
+  pagrindžia:
+    - c-007
+
+- t-011
+  teiginys: 'Dusburgietis teigia, kad 186 Manoma, kad politinė ir etninė baltų (Pamedės prūsų) ir Pamario slavų riba ėjusi XII—XIII a.'
+  pagrindžia:
+    - c-010
+
+- t-017
+  teiginys: 'Dusburgietis teigia, kad apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais —Iš lietuvių etnogenezės, V., 1981, p. 5—11.'
+  pagrindžia:
+    - c-016
+
+- t-015
+  teiginys: 'Dusburgietis teigia, kad 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią antropomorfinę dievybę, panašią į krikščioniškąjį dievą (Łowmiański H.'
+  pagrindžia:
+    - c-014
+
+- t-012
+  teiginys: 'Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).'
+  pagrindžia:
+    - c-011
+
 - t-020
   teiginys: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
   pagrindžia:
     - c-019
 
-## Reikšmingi paminėjimai
-- c-007
-  santrauka: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Prūsai ir Lietuva
+- t-018
+  teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
+  pagrindžia:
+    - c-017
 
-       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
-    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
-    vientisumas.
-      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
-    atskirų žemių.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-009
+  teiginys: 'Dusburgietis teigia, kad taigi Lietuvos pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.'
   pagrindžia:
-    - t-008
-- c-008
-  santrauka: 'Dusburgietis teigia, kad taigi Lietuvos pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+    - c-008
+
+- t-014
+  teiginys: 'Dusburgietis teigia, kad dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П.'
+  pagrindžia:
+    - c-013
+
+- t-021
+  teiginys: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
+  pagrindžia:
+    - c-020
+
+## Reikšmingi paminėjimai
+
+- c-018
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Taigi Lietuvos
-    pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
-      Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
-    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
+    **4. Vidurinis geležies amžius (400-800 m.) baltuose ir jų san­**
+        **tykiai su kaimynais**
+
+    Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui
+    (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos
+    Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje
+    vyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi
+    Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
+    liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
+    amžiuje, baltai išlaikė ją aukštame laipsnyje.
   citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  teiginio_tipas: faktas
+  statusas: verified
   pagrindžia:
-    - t-009
+    - t-019
+
+- c-019
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Karo stovis su skandinavais nusitęsė beveik iki
+    pat istorinių laikų pradžios.
+    Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,
+    yra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų
+    slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų
+    bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
+    išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
+    Salys).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-020
+
 - c-009
-  santrauka: 'Dusburgietis teigia, kad mindaugas norėjo padaryti Lietuvą bendrąja baltų valstybe, į kurią įeitų šiaurinės ir pietvakarinės baltų žemės (Livonija ir Prūsija).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Mindaugas
+    Kai kuriuose to meto šaltiniuose Prūsija ir Lietuva
+    suprantama kaip viena visuma32, o Mindaugas vadinamas prūsų karaliumi33. Mindaugas
     norėjo padaryti Lietuvą bendrąja baltų valstybe,  į kurią įeitų šiaurinės ir pietvakarinės
     baltų žemės (Livonija  ir Prūsija). Mindaugo vadovaujama baltų sąjunga tampa ypač
     akivaizdžiu reiškiniu XIII a. 5-ojo dešimtmečio pradžioje34.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-010
-- c-010
-  santrauka: 'Dusburgietis teigia, kad 186 Manoma, kad politinė ir etninė baltų (Pamedės prūsų) ir Pamario slavų riba ėjusi XII—XIII a.'
+
+- c-008
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    186 Manoma, kad politinė  ir etninė baltų (Pamedės prūsų)  ir Pamario slavų riba
-    ėjusi XII—XIII  a. žemutine  Vysla  ir Nogatu (Trautmann  R.  Die  altpreussischen
-    Sprachdenkmäler, p. MII; Łowmiański H. Studja..., 1, p. 47; HP, 1, 1, p. 421—422 (G.
-    Labuda), nors prūsų tuo metu būta ir kair. Vyslos krante (Mevės apyl.— Yčas J. Prūsų...,
-    p. 11—12). Vyslos žemupį siekė ir baltų prokalbės, susiformavusios XX a. pr. m. e.,
-    arealas (Mažiulis V. Apie senovės vakarų baltus..., p. 5). Nors Vysla — pagrindinio baltų
-    arealo riba vakaruose, tačiau baltų hidronimikos yra ir  į vakarus nuo Vyslos (Ванагас
-    А. П., Максимальный ареал..., с. 119; Топоров В. Н. Новые работы..., с. 263—273;
-    plg. Рыбаков Б. А. Киевская Русь..., с. 15), periferinė baltų zona vakaruose siekusi
-    Oderio—Elbės tarpupį (Schall H. Baltische Gewässernamen..., p. 7—42; Топоров B. H.
-    К вопросу о топонимических соответствиях..., с. 103—111; to paties, Балтийский
-    элемент..., с. 250—252).
+    pasireiškė ir kitais atvejais, kovojant prieš vokiečių feodalinę agresiją. Taigi Lietuvos
+    pastangomis bendrai kovai buvo mobilizuojami beveik visi baltai.
+      Lietuvos  ir vakarinių baltų (prūsų, jotvingių) bendradarbiavimas tapo ypač ryškus
+    tada, kai prasidėjo kova prieš pavyslyje įsikūrusį Kryžiuočių ordiną.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-011
-- c-011
-  santrauka: 'Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M., Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83).'
+    - t-009
+
+- c-014
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
-    Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83). Prūsai V—VI a.
-    sandūroje vėl gyveno teritorijoje iki Vyslos (Labuda G. Zagadnienie..., p. 15, [Powierski J.]
-    Pomezania, p. 220). Kitų tvirtinama, kad prūsai pasiekė Vyslą ir Nogatą tik X—XI a. arba
-    net XII—XIII a. sandūroje (Pollakówna M. Zanik..., p. 164—165; Powierski J. Stosunki...,
-    p. 121; Górnowicz H. Toponimia..., p. 14—15). Pastaroji nuomonė kritikuojama (Ślaski
-    K. Rec.— ABS, 1967, 5, p. 358—360). Antikinių šaltinių tyrimas rodo, kad lotyniškoji
-    forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros
-    pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
-    66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
+    Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
+    antropomorfinę dievybę, panašią  į krikščioniškąjį dievą (Łowmiański H. Elementy..., p.
+    153). Apie politeistinę baltų religiją, indoeuropietiškos kilmės vyriausiąjį dievą (lygintiną
+    su prūsų Patrimpu), jo garbinimą, vyriausiojo žynio Krivės funkcijas, Perkūną ir kt. baltų
+    dievus — Gimbutienė M. Baltai, p. 148—178; Mannhardt W. Letto-Preussische..., Apie
+    Krivį— Топоров B. H. Прусский язык, K—L, с. 196—205.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-012
+    - t-015
+
 - c-012
-  santrauka: 'Dusburgietis teigia, kad romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,— prūsų, lietuvių ir kitų baltų religinio kulto centras.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     204 Romovė resp. Romuva (D. Romow, Jer.— Rômowe), Romava, pasak Dusburgiečio,—
     prūsų, lietuvių ir kitų baltų religinio kulto centras.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-013
+
 - c-013
-  santrauka: 'Dusburgietis teigia, kad dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos tarsi pilys: Tušemlios piliakalnyje aukštutinėje padneprėje (Третьяков П.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dabar jau žinome, kad kai kurios senovės baltų, lietuvių šventovės buvo įtvirtintos
@@ -223,30 +200,64 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     Senoji.., p. 36), Palangos Birutės kalne (Žulkus V., Birutės..., p. 16—17) ir kt.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-014
-- c-014
-  santrauka: 'Dusburgietis teigia, kad 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią antropomorfinę dievybę, panašią į krikščioniškąjį dievą (Łowmiański H.'
+
+- c-007
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Analizuojant XIII—XIV a. 1-os pusės šaltinius, paaiškėja, kad baltai garbino išsiskyrusią
-    antropomorfinę dievybę, panašią  į krikščioniškąjį dievą (Łowmiański H. Elementy..., p.
-    153). Apie politeistinę baltų religiją, indoeuropietiškos kilmės vyriausiąjį dievą (lygintiną
-    su prūsų Patrimpu), jo garbinimą, vyriausiojo žynio Krivės funkcijas, Perkūną ir kt. baltų
-    dievus — Gimbutienė M. Baltai, p. 148—178; Mannhardt W. Letto-Preussische..., Apie
-    Krivį— Топоров B. H. Прусский язык, K—L, с. 196—205.
+    Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-015
+    - t-008
+
+- c-017
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    2004
+    Lietuva tampa ES ir NATO nare.
+
+    I s k y r i u s
+    SENOJI LIETUVA
+    SENOVĖS BALTAI IR
+    LIETUVOS VALSTYBĖS ATSIRADIMAS
+    M
+    oksle baltais paprastai vadinama grupė indoeuro-
+    piečių genčių ir tautų, gyvenusių arba gyvenančių
+    Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis
+    kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Šian-
+    dien šiai šakai atstovauja likusios gyvuoti tik lietuvių ir latvių kalbos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-018
+
+- c-016
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
+    —Iš lietuvių etnogenezės, V., 1981, p. 5—11.
+       Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-017
+
 - c-015
-  santrauka: 'Dusburgietis teigia, kad baltų filologijos įvadas.— V., 1982.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kabelka J. Baltų filologijos įvadas.— V., 1982.
@@ -274,87 +285,65 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     Gdańsk, 1976.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-016
-- c-016
-  santrauka: 'Dusburgietis teigia, kad apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais —Iš lietuvių etnogenezės, V., 1981, p. 5—11.'
+
+- c-010
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Mažiulis V. Apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais
-    —Iš lietuvių etnogenezės, V., 1981, p. 5—11.
-       Mažiulis V. Senovės vakarų baltai.— MG, 1981, Nr. 2, p. 7—8.
+    186 Manoma, kad politinė  ir etninė baltų (Pamedės prūsų)  ir Pamario slavų riba
+    ėjusi XII—XIII  a. žemutine  Vysla  ir Nogatu (Trautmann  R.  Die  altpreussischen
+    Sprachdenkmäler, p. MII; Łowmiański H. Studja..., 1, p. 47; HP, 1, 1, p. 421—422 (G.
+    Labuda), nors prūsų tuo metu būta ir kair. Vyslos krante (Mevės apyl.— Yčas J. Prūsų...,
+    p. 11—12). Vyslos žemupį siekė ir baltų prokalbės, susiformavusios XX a. pr. m. e.,
+    arealas (Mažiulis V. Apie senovės vakarų baltus..., p. 5). Nors Vysla — pagrindinio baltų
+    arealo riba vakaruose, tačiau baltų hidronimikos yra ir  į vakarus nuo Vyslos (Ванагас
+    А. П., Максимальный ареал..., с. 119; Топоров В. Н. Новые работы..., с. 263—273;
+    plg. Рыбаков Б. А. Киевская Русь..., с. 15), periferinė baltų zona vakaruose siekusi
+    Oderio—Elbės tarpupį (Schall H. Baltische Gewässernamen..., p. 7—42; Топоров B. H.
+    К вопросу о топонимических соответствиях..., с. 103—111; to paties, Балтийский
+    элемент..., с. 250—252).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-017
-- c-017
-  santrauka: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
+    - t-011
+
+- c-011
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Manoma, kad žalvario amžiuje baltų arealas siekęs Oderio žemupį (Gimbutienė M.,
+    Rytprūsių..., p. 13, 31 ir kt.; tos pačios, The Balts, p. 30—31, 63, 83). Prūsai V—VI a.
+    sandūroje vėl gyveno teritorijoje iki Vyslos (Labuda G. Zagadnienie..., p. 15, [Powierski J.]
+    Pomezania, p. 220). Kitų tvirtinama, kad prūsai pasiekė Vyslą ir Nogatą tik X—XI a. arba
+    net XII—XIII a. sandūroje (Pollakówna M. Zanik..., p. 164—165; Powierski J. Stosunki...,
+    p. 121; Górnowicz H. Toponimia..., p. 14—15). Pastaroji nuomonė kritikuojama (Ślaski
+    K. Rec.— ABS, 1967, 5, p. 358—360). Antikinių šaltinių tyrimas rodo, kad lotyniškoji
+    forma Viscla, Visculus (t. y. Vysla) yra baltiškos kilmės, kad baltų buvimas mūsų eros
+    pradžioje prie Vyslos žiočių nekelia abejonių (Beddnarczuk L. Onomastyka..., p. 50—54,
+    66); žr. ir GAO, p. 204; Gimbutienė M. Baltai, p. 17—19, 48—51, 66, 106, 114.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-012
+
+- c-020
+  santrauka: 'Baltų gentys pradėjo formuotis III tūkstantmečio pr.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    2004
-    Lietuva tampa ES ir NATO nare.
-
-    I s k y r i u s
-    SENOJI LIETUVA
-    SENOVĖS BALTAI IR
-    LIETUVOS VALSTYBĖS ATSIRADIMAS
-    M
-    oksle baltais paprastai vadinama grupė indoeuro-
-    piečių genčių ir tautų, gyvenusių arba gyvenančių
-    Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis
-    kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Šian-
-    dien šiai šakai atstovauja likusios gyvuoti tik lietuvių ir latvių kalbos.
+    Baltų gentys pradėjo formuotis III tūkstantme-
+    čio pr. Kr. pabaigoje, kai čia atvykę indoeuropiečiai pajungė ir asimiliavo
+    vietinius gyventojus. I tūkstantmetyje po Kr. baltų genčių apgyvendintas
+    arealas driekėsi nuo Vyslos iki Dniepro ir Okos baseinų rytuose. Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-018
-- c-018
-  santrauka: ') baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    ) baltuose ir jų san­**
-        **tykiai su kaimynais**
-
-    Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui
-    (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos
-    Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje
-    vyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi
-    Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
-    liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
-    amžiuje, baltai išlaikė ją aukštame laipsnyje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
-- c-019
-  santrauka: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,
-    yra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų
-    slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų
-    bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
-    išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
-    Salys).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
@@ -362,7 +351,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/asmenys/Birutė]]
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Germanai]]
-- [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/L. Kolankowski]]
 - [[objektai/grupes/Latviai]]
@@ -397,6 +385,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/autoriai/Canaparius]]
 - [[objektai/asmenys/Dargis]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
+- [[objektai/asmenys/Dmitrijus Ivanovičius]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]
 - [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/autoriai/Endzelins J]]
@@ -411,8 +400,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/grupes/Gotai]]
 - [[objektai/asmenys/Gundramas]]
 - [[objektai/daiktai/Gyvatgalviai kapliai]]
+- [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/asmenys/Hirtshalsas]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
 - [[objektai/autoriai/J. Endzelynas]]
 - [[objektai/autoriai/J. Talmantas]]
@@ -433,14 +422,15 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
 - [[objektai/daiktai/Lietuvos akmens amžiaus dirbiniai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/autoriai/M. Michelbertas]]
 - [[objektai/autoriai/M. Tepenas]]
 - [[objektai/autoriai/M. Vasmeris]]
 - [[objektai/autoriai/Mannhardt W]]
 - [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
+- [[objektai/asmenys/Michailas Aleksandrovičius]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
 - [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės]]
@@ -476,13 +466,13 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/autoriai/V. Mažiulis]]
 - [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
 - [[objektai/zodynas/baltų sąjunga federacija]]
-- [[objektai/zodynas/chalkolitas]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/kastuvo mokslas]]
 - [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/kuopiniai kaimai]]
+- [[objektai/zodynas/lietuvininkai]]
 - [[objektai/posakiai/moterų kraštas|moterų kraštas (kraštas)]]
 - [[objektai/zodynas/prūsas Prūsa Prūsija]]
 - [[objektai/zodynas/territorium castri pilies apygarda|territorium castri pilies apygarda (pilis)]]
@@ -502,3 +492,4 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/autoriai/H. Biezais]]
 - [[objektai/grupes/Suomiai]]
 - [[objektai/zodynas/baltų tautų terminas]]
+- [[objektai/zodynas/Prūsijos žemė terra Prussiae]]

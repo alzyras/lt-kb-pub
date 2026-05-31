@@ -1,16 +1,19 @@
 ---
 tipas: saltinis
 pavadinimas: 'Vokiečių atsišaukimas Vilniuje apie Lenkijos karalystės perlą (1915 m.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1915 m.'
+date_start: '1915'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - saltinis
+amziai:
+  - 'XX'
 ---
 # Vokiečių atsišaukimas Vilniuje apie Lenkijos karalystės perlą (1915 m.)
 
@@ -19,28 +22,49 @@ tags:
 Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Dar nesusigaudę kur pateko, vokiečiai Vil-
+    Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
+    nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-
+    vasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o
+    rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
+    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
+    kariuomenių kontroliuojamoje zonoje. Toje teritorijoje gyveno lenkai,
+    lietuviai, latviai ir baltarusiai. Dar nesusigaudę kur pateko, vokiečiai Vil-
     niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
     Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
     kimus nudraskė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Toje teritorijoje gyveno lenkai,
+    lietuviai, latviai ir baltarusiai. Dar nesusigaudę kur pateko, vokiečiai Vil-
+    niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
+    Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
+    kimus nudraskė. Vos už pusmečio vokiečiai jau gerai žinojo kur esą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

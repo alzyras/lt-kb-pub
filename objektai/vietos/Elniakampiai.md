@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Elniakampiai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1571 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1571'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - karalius
   - privilegija
   - vieta
+amziai:
+  - 'XVI'
 ---
 # Elniakampiai
 
@@ -30,20 +24,28 @@ tags:
 Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­ mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbiterio nuo seno laikytas valdas: Helanokempis (Elniakampius), Putviškes, Pukančius ir Rudaminą su. Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­ mas ankstesniuosius tėvus jėzuitus: lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas, ad mentem fundacijų laiko Elniakampius, Putviškes, Pukančius.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­ mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbiterio nuo seno laikytas valdas: Helanokempis (Elniakampius), Putviškes, Pukančius ir Rudaminą su.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­ mas ankstesniuosius tėvus jėzuitus: lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas, ad mentem fundacijų laiko Elniakampius, Putviškes, Pukančius.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­ mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbiterio nuo seno laikytas valdas: Helanokempis (Elniakampius), Putviškes, Pukančius ir Rudaminą su.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­ mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbiterio nuo seno laikytas valdas: Helanokempis (Elniakampius), Putviškes, Pukančius ir Rudaminą su.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Rudaminos bažnyčią atidavė ko­
+    Pa­
+    naikinęs ano titulą ir pareigas, įvedė nuolatinio vikaro pa­
+    reigybę su jam priskiriamais adjutoriais [pagalbininkais], in
+    cura animarum administranda [rūpintis sielovada]; o tiems pa­
+    tiems [šviesybėms vienuoliams] jėzuitams suteikė neribotą
+    teisę minėtąjį vikarą siūlyti. Rudaminos bažnyčią atidavė ko­
     legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios
     ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa
     kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­
@@ -55,16 +57,20 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
     privilegiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Jono bažnyčios klebonas Adomas Ancypa, remdama­ sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­ mas ankstesniuosius tėvus jėzuitus: lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas, ad mentem fundacijų laiko Elniakampius, Putviškes, Pukančius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Jono bažnyčios klebonas Adomas Ancypa, remdama­
+    Asesorių sprendimas byloje su Vil­
+    niaus magistratu, tas aprobacijas ginčijančiu, paskelbtas; ka­
+    raliaus raštas, ta pačia data pažymėtas, duotas dvarioniui
+    sprendimo vykdymo reikalu, ir 1654 metų liepos 4 dieną
+    įvykdytas sprendimas patenkino magistrato ieškinį.
+    I e š k i n y s
+    Šv. Jono bažnyčios klebonas Adomas Ancypa, remdama­
     sis jam suteiktomis fundacijomis, padavė skundą, kaltinda­
     mas ankstesniuosius tėvus jėzuitus:
     lmo, kad jis, būdamas šiuo metu tos bažnyčios klebonas,
@@ -74,8 +80,6 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
     šamas ir mokesčius surenkamus už namus imdavo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

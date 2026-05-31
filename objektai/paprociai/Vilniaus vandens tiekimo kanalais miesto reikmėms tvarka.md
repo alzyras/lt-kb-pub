@@ -1,33 +1,22 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1513 m.'
-  - '1530 m.'
-  - '1533 m.'
-  - '1534 m.'
-  - '1535 m.'
-  - '1536 m.'
   - '1538 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1513'
 date_end: '1538'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - ordinas
   - paprotys
+amziai:
+  - 'XVI'
 ---
 # Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka
 
@@ -36,29 +25,35 @@ tags:
 Tai sukėlė nesiliaujančius vaidus tarp šio ordino ir miestiečių, tad Žygimantas, kad paten­ kintų pirmąją sąlygą ir aprūpintų Vilnių vandeniu, kaip kad buvo aprūpinta Krokuva, atidavė miestui nuosavą sa­ vo šaltinį netoli miesto, už Subačiaus vartų, prie.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tai sukėlė nesiliaujančius vaidus tarp šio ordino ir miestiečių, tad Žygimantas, kad paten­ kintų pirmąją sąlygą ir aprūpintų Vilnių vandeniu, kaip kad buvo aprūpinta Krokuva, atidavė miestui nuosavą sa­ vo šaltinį netoli miesto, už Subačiaus vartų, prie.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tai sukėlė nesiliaujančius vaidus tarp šio ordino ir miestiečių, tad Žygimantas, kad paten­ kintų pirmąją sąlygą ir aprūpintų Vilnių vandeniu, kaip kad buvo aprūpinta Krokuva, atidavė miestui nuosavą sa­ vo šaltinį netoli miesto, už Subačiaus vartų, prie.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai sukėlė nesiliaujančius vaidus
@@ -179,9 +174,7 @@ Nenurodyta
     reikmėms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

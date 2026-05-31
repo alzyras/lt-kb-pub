@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1582 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1582'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - kunigaikštis
   - popiežius
+amziai:
+  - 'XVI'
 ---
 # Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)
 
@@ -30,26 +24,31 @@ tags:
 O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kadangi no­
@@ -79,9 +78,7 @@ Nenurodyta
     popiežiui šviesiausiajam mūsų Šv. Tėvui Grigaliui XIII.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1582 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1582'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - kunigas
   - miestas
+amziai:
+  - 'XVI'
 ---
 # Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)
 
@@ -30,32 +24,39 @@ tags:
 (pasirašyta) Stephanus Rex [Karalius Steponas] (prikabintas antspaudas) Jonas Hlebavičius - Dubrovnoje Minsko kaštelionas, krašto paiždininkis ir raštininkas 424 ## Puslapis 441 IV KNYGA VYSKUPO SEMINARIJOS JSTEIGIMAS IŠ VYSKUPŲ STALO DVARO, VADINAMO. Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '(pasirašyta) Stephanus Rex [Karalius Steponas] (prikabintas antspaudas) Jonas Hlebavičius - Dubrovnoje Minsko kaštelionas, krašto paiždininkis ir raštininkas 424 ## Puslapis 441 IV KNYGA VYSKUPO SEMINARIJOS JSTEIGIMAS IŠ VYSKUPŲ STALO DVARO, VADINAMO.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '(pasirašyta) Stephanus Rex [Karalius Steponas] (prikabintas antspaudas) Jonas Hlebavičius - Dubrovnoje Minsko kaštelionas, krašto paiždininkis ir raštininkas 424 ## Puslapis 441 IV KNYGA VYSKUPO SEMINARIJOS JSTEIGIMAS IŠ VYSKUPŲ STALO DVARO, VADINAMO.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Rašytas ir duotas Varšuvoje, didžiajame visuotiniame seime.
     — • —
     423
 
@@ -88,13 +89,11 @@ Nenurodyta
     In Ckristi nomine Amen.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
@@ -123,9 +122,7 @@ Nenurodyta
     nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

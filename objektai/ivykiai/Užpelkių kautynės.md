@@ -83,7 +83,6 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Agentai-smogikai]]
 - [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/asmenys/Laurynas Mingilas-Džiugas]]
 - [[objektai/grupes/Maironio rinktinė]]
 - [[objektai/asmenys/Povilas Morkūnas-Rimantas]]

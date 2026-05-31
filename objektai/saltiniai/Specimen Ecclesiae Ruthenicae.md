@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Specimen Ecclesiae Ruthenicae'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - vyskupas
@@ -25,13 +16,15 @@ tags:
 Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ruthenicae, Pars.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ruthenicae, Pars.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ruthenicae, Pars.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas užkirto tam ke­
@@ -47,8 +40,6 @@ Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ru
     p. 75.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

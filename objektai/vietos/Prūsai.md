@@ -48,22 +48,6 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Kryžiuočių ordino atsikraustymas į Prūsus Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Visą savo nukariautą kraštą ordinas vadino Prūsais, nors prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo, užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sodybas.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­ dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­ šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.'
   pagrindžia:
@@ -72,7 +56,22 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   teiginys: 'Žodžiu, jis Prūsuose mito Vakarų kultūros vai­ siais, ypač materialine kultūra, kurią paskui kėlė savo krašte, statydamas bažnyčias, pilis ir t.'
   pagrindžia:
     - c-008
-
+- t-009
+  teiginys: 'Kryžiuočių ordino atsikraustymas į Prūsus Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Visą savo nukariautą kraštą ordinas vadino Prūsais, nors prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo, užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sodybas.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų.'
@@ -112,69 +111,6 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Kryžiuočių ordino atsikraustymas į Prūsus Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kryžiuočių ordino atsikraustymas į Prūsus**
-
-    Prūsuose gyvenusios aisčių giminės anksčiau už kitas susi-
-    dūrė su krikščioniškuoju pasauliu. O tam krikščioniškajam pa-
-    sauliui iš pradžių čia atstovavo ne kolonistai ateiviai, bet kaimy-
-    nai lenkai ir pamarėnai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Visą savo nukariautą kraštą ordinas vadino Prūsais, nors prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visą savo nukariautą kraštą ordinas vadino Prūsais, nors
-    prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios
-    anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino paverg-
-    tos. Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
-    visą nukariautą kraštą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo, užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sodybas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo,
-    užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-
-    bas. O du kartus (1242 - 1249 ir 1260 — 1274 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­
-    rius metus Prūsuose. Tenai, kryžiuočių tarpe, jis išėjo gerą ir
-    drausmingą gyvenimo mokyklą, kuri jam padėjo atsivaduoti
-    tėviškę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: 'Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­ dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­ šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -208,3 +144,73 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Kryžiuočių ordino atsikraustymas į Prūsus Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **11. Kryžiuočių ordino atsikraustymas į Prūsus**
+
+    Prūsuose gyvenusios aisčių giminės anksčiau už kitas susi-
+    dūrė su krikščioniškuoju pasauliu. O tam krikščioniškajam pa-
+    sauliui iš pradžių čia atstovavo ne kolonistai ateiviai, bet kaimy-
+    nai lenkai ir pamarėnai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Visą savo nukariautą kraštą ordinas vadino Prūsais, nors prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo tarpu visos kiltys, buvusios anapus Nemuno,
+    liko amžinoje vokiečių vergovėje.
+    Visą savo nukariautą kraštą ordinas vadino Prūsais, nors
+    prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios
+    anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino paverg-
+    tos. Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
+    visą nukariautą kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo, užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sodybas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Įsikūręs pirmiausia jų krašte, ordinas jų vardu pavadino ir
+    visą nukariautą kraštą.
+    Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo,
+    užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sody-
+    bas. O du kartus (1242 - 1249 ir 1260 — 1274 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis
+    visą laiką stengėsi palaikyti gerus santykius su Lietuvos visuo­
+    mene ir rado joje daug pritarimo.
+    ```
+    Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­
+    rius metus Prūsuose. Tenai, kryžiuočių tarpe, jis išėjo gerą ir
+    drausmingą gyvenimo mokyklą, kuri jam padėjo atsivaduoti
+    tėviškę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012

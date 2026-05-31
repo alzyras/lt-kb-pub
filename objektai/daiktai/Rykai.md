@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Rykai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - kraštas
@@ -23,32 +14,39 @@ tags:
 # Rykai
 
 ## Santrauka
+
 Nenurodyta
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '## Puslapis 40 VILNIAUS MIESTO ISTORIJA I TOMAS atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­ minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '## Puslapis 40 VILNIAUS MIESTO ISTORIJA I TOMAS atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­ minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš Rusios,
@@ -68,13 +66,13 @@ Nenurodyta
     vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Puslapis 40 VILNIAUS MIESTO ISTORIJA I TOMAS atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­ minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
+
+Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai

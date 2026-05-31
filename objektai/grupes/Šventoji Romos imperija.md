@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Šventoji Romos imperija'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - diplomatas
   - grupe
@@ -19,27 +16,42 @@ tags:
 Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisaugojo nuo politinių saitų su Šventąja Romos imperija.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisaugojo nuo politinių saitų su Šventąja Romos imperija.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
+    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
+    Livonijos delegatų nuostabai popiežius patenkino Mindaugo prašymą.
+    Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę –
+    apsisaugojo nuo politinių saitų su Šventąja Romos imperija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
   santrauka: 'Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisaugojo nuo politinių saitų su Šventąja Romos imperija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Livonijos delegatų nuostabai popiežius patenkino Mindaugo prašymą.
     Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę –
-    apsisaugojo nuo politinių saitų su Šventąja Romos imperija.
-  citata_rodoma: ""
+    apsisaugojo nuo politinių saitų su Šventąja Romos imperija. Šie svarūs
+    diplomatiniai laimėjimai rodo, kad Mindaugas talentingai sugebėjo pa-
+    kreipti įvykius sau naudinga linkme.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

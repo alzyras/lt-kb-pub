@@ -1,26 +1,20 @@
 ---
 tipas: vieta
 pavadinimas: 'Pietų Lietuva'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1951 m.'
   - '1956 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1951'
 date_end: '1956'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - vieta
+amziai:
+  - 'XX'
 ---
 # Pietų Lietuva
 
@@ -29,16 +23,20 @@ tags:
 Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai. Išleistas 1951 m. Pietų Lietuvos partizanų štabo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pakeliui į suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Išleistas 1951 m. Pietų Lietuvos partizanų štabo.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pakeliui į suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos partizanų vadų
@@ -67,10 +65,26 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 
     pateko į iš anksto parengtą pasalą ir pa-
     tyrę nuostolių buvo priversti grįžti atgal.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Išleistas 1951 m. Pietų Lietuvos partizanų štabo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Išleistas 1951 m.
+    Pietų Lietuvos partizanų
+    štabo. Karikatūra parodo
+    lietuvių padėtį Antrojo
+    pasaulinio karo metu
+
+    „Partizanų šuvių aidas“
+    1956 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

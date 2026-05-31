@@ -35,10 +35,6 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Kova tęsėsi ir prieš vėliau čia Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“ apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m. „[.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti „Lettonijos [Lietuvos] valdžia siekė valdyti visas šituose kraštuose gyvenančias gentis, tiek krikščionių, tiek pagonių, ir retas kas drįsdavo gyventi savo sodyboje.'
   pagrindžia:
@@ -51,6 +47,10 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   teiginys: 'Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir katalikų bažnyčios agresiją, nušviesti svarbios yra Henriko Latvio, Eiliuotoji Livonijos (rašytos XIII a.) bei Petro iš Dusburgo, Hermano iš Vartbergės, Vygando iš Marburgo.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Kova tęsėsi ir prieš vėliau čia Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“ apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m. „[.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,23 +73,6 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Kova tęsėsi ir prieš vėliau čia Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“ apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m. „[.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kova tęsėsi ir prieš vėliau čia
-
-    Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“
-    apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m.
-
-    „[.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti „Lettonijos [Lietuvos] valdžia siekė valdyti visas šituose kraštuose gyvenančias gentis, tiek krikščionių, tiek pagonių, ir retas kas drįsdavo gyventi savo sodyboje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -140,18 +123,40 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Kova tęsėsi ir prieš vėliau čia Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“ apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m. „[.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau tai negalėjo
+    sutrukdyti vis stiprėjančios vokiškosios
+    ekspansijos plėtros šiaurinėse baltų že-
+    mėse, pradėjusios įgauti vis grėsminges-
+    nes formas. Kova tęsėsi ir prieš vėliau čia
+
+    Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“
+    apie lietuvių būdą kovoje, mūšyje su kalavijuočiais prie Dauguvos, Livonijoje 1207 m.
+
+    „[.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Papuošalai]]
 - [[objektai/asmenys/Vygandas]]
+- [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Hermanas iš Vartbergės]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/autoriai/Vygandas iš Marburgo]]

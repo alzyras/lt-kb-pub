@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas (Bavarijos kunigaikštis)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1337 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1337'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Henrikas (Bavarijos kunigaikštis)
 
@@ -30,13 +26,15 @@ tags:
 Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­ varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­ dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su kryžiuočiais dalyvavo.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­ varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­ dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su kryžiuočiais dalyvavo.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydinta Ordinui pavedus ir padedant Ba­ varijos kunigaikščiui Henrikui apie 1337 metus, gavusi var­ dą, nuo jo paeinantį; pastarasis kunigaikštis draugėj su kryžiuočiais dalyvavo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabar Veliuona priklauso dvari­
@@ -51,9 +49,7 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
     raudonų plytų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

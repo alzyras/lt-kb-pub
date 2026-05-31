@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Eilartas fon Hobergas'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
@@ -26,16 +17,20 @@ tags:
 Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     negalėjo“. Žuvo Livonijos ordino magistras
@@ -49,13 +44,44 @@ tags:
     dalį priešo pajėgų, o po to persitvarkius
 
     sumušti priešą dalimis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Žuvo Livonijos ordino magistras Ernestas fon Racburgas, danų vietininkas Taline Eilartas fon Hobergas, tik kai kam pavyko ištrūkti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ši mašina
+    veikia naudojant
+    sunkio jėgą Šūvio metu nuo
+    kablio atsikabina
+    virve pririštas
+    sviedinys
+
+    Po kiekvieno šūvio svaidymo
+    mašiną aptarnaujantys kariai
+    sukdami rankenas turi pakelti
+    atsvarą
+
+    negalėjo“. Žuvo Livonijos ordino magistras
+    Ernestas fon Racburgas, danų vietininkas
+    Taline Eilartas fon Hobergas, tik kai kam
+    pavyko ištrūkti.
+
+    Atkreiptinas dėmesys į reikšmingą lie-
+    tuvių mūšio taktiką, kurios tikslas buvo
+    išvilioti, tarsi bėgant iš mūšio lauko,
+    dalį priešo pajėgų, o po to persitvarkius
+
+    sumušti priešą dalimis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

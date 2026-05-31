@@ -1,29 +1,23 @@
 ---
 tipas: paprotys
 pavadinimas: 'Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1396 m.'
   - '1820 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XIX'
 date_start: '1396'
 date_end: '1820'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - paprotys
   - valdovas
+amziai:
+  - 'XIV'
+  - 'XIX'
 ---
 # Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius
 
@@ -32,33 +26,40 @@ tags:
 Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466. [ir už mūsų, ir mūsų jau mirusių brolių Kazimiero Karigailos ir Alek­ sandro Vyganto sveikatą maldingo­ mis ir šventomis maldomis pasirū­ pinti].
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '[ir už mūsų, ir mūsų jau mirusių brolių Kazimiero Karigailos ir Alek­ sandro Vyganto sveikatą maldingo­ mis ir šventomis maldomis pasirū­ pinti].'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
@@ -103,13 +104,11 @@ Nenurodyta
     Aleksandrą Vygantą58.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '[ir už mūsų, ir mūsų jau mirusių brolių Kazimiero Karigailos ir Alek­ sandro Vyganto sveikatą maldingo­ mis ir šventomis maldomis pasirū­ pinti].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šioje privile­
@@ -125,9 +124,7 @@ Nenurodyta
     pinti].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

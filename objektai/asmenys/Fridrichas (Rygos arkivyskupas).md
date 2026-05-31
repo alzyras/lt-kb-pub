@@ -506,6 +506,5 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/legatas]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/popiežiaus legatas]]

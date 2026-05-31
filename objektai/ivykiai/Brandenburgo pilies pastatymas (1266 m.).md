@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Brandenburgo pilies pastatymas (1266 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1266 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1266'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Brandenburgo pilies pastatymas (1266 m.)
 
@@ -28,18 +22,23 @@ tags:
 Dusburgietis teigia, kad apie Brandenburgo pilies pastatymą Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro bei brolių patariamas, pastatydino Brandenburgo pilį399.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Brandenburgo pilies pastatymą Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro bei brolių patariamas, pastatydino Brandenburgo pilį399.'
   pagrindžia:
@@ -47,8 +46,8 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Brandenburgo pilies pastatymą Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių į Prūsijos žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro bei brolių patariamas, pastatydino Brandenburgo pilį399.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     127 (122). Apie Brandenburgo pilies pastatymą
@@ -59,24 +58,20 @@ Nenurodyta
     vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Brandenburgo pilies pastatymas (1266 m.) papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kaip jau esame sakę, Brandenburgo markgrafas atvyko su daugybe karių  į Prūsijos
     žemę 1266 viešpaties metais; kadangi nieko kita jis negalėjo čia nuveikti, tai, magistro
     bei brolių patariamas, pastatydino Brandenburgo pilį399 ir panorėjo, kad ji visą laiką būtų
     vadinama tuo pat vardu, kaip vadinama ir jo markgrafystė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

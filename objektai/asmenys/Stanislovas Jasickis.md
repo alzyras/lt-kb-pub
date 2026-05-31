@@ -1,24 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Stanislovas Jasickis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1699 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1699'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Stanislovas Jasickis
 
@@ -27,15 +23,20 @@ tags:
 Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, už 5 000 lenk.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, už 5 000 lenk.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, už 5 000 lenk.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti­
+    nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui
+    mokėti kasmet po 140 auksinų bažnyčios labui.
     1699. T. Stanislovas Jasickis, vaistininkas, kuriam pabo­
     do mokėti po 140 auksinų, už 5 000 lenk. auksinų sumą nu­
     pirko mūrinį namą, vadinamą Švarco, ir įpareigotą 140 auk­
@@ -43,9 +44,7 @@ Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, u�
     paskyrė Collegio [kolegijai].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

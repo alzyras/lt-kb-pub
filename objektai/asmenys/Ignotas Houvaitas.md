@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ignotas Houvaitas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,13 +18,15 @@ tags:
 žemės teismo antspaudu, išduo­ tas Jo Malonybei kunigui Ignotui Houvaitui, Smolensko ka­ nauninkui, Pabaisko klebonui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'žemės teismo antspaudu, išduo­ tas Jo Malonybei kunigui Ignotui Houvaitui, Smolensko ka­ nauninkui, Pabaisko klebonui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'žemės teismo antspaudu, išduo­ tas Jo Malonybei kunigui Ignotui Houvaitui, Smolensko ka­ nauninkui, Pabaisko klebonui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta pati fundacijos privilegija, šviesiausiojo
@@ -48,9 +41,7 @@ tags:
     nauninkui, Pabaisko klebonui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

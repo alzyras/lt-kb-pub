@@ -101,7 +101,6 @@ Nenurodyta
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/paprociai/Bajorijos karo prievolės vengimas ir samdytinė kariuomenė]]
 - [[objektai/grupes/Švedai]]

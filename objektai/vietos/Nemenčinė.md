@@ -1,19 +1,11 @@
 ---
 tipas: vieta
 pavadinimas: 'Nemenčinė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - upė
@@ -27,15 +19,14 @@ tags:
 Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš mūsų valdinių per tą pačią upę kitose vietose statyti mažų tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­ žiūrą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš mūsų valdinių per tą pačią upę kitose vietose statyti mažų tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­ žiūrą.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
-  pagrindžia:
-    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš mūsų valdinių per tą pačią upę kitose vietose statyti mažų tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­ žiūrą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -68,29 +59,6 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
     aukščiau mūsų nurodytomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jogaila važinėjo ir
-    kitur, įsakydamas mesti pagonybę. Tada buvo įkurtos ir pirmosios
-    septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
-    kuose, Kriave, Ainoje, Obolcuose^15. Jeigu tarp pirmųjų parapijų
-    neminimi Trakai ir Kaunas, yra ženklas, kad ten iš anksčiau tu­
-
-    ```
-    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS 289
-    ```
-    (^11) **Plg.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

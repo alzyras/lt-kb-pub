@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Žirnajos upelis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - karalius
@@ -26,13 +17,15 @@ tags:
 Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upelis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upelis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upelis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Žygimanto kariuomenė
@@ -48,8 +41,6 @@ Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upe
     karių, vadovaujamų Jokūbo iš Kobylanų).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

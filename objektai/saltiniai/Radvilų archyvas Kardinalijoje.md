@@ -1,26 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Radvilų archyvas Kardinalijoje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1493 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1493'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - mokslininkas
   - saltinis
+amziai:
+  - 'XV'
 ---
 # Radvilų archyvas Kardinalijoje
 
@@ -29,17 +23,20 @@ tags:
 Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus. 356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įgudęs lietuvių istorijos žinovas Ig­
@@ -58,13 +55,11 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     viską, ko tik reikėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiame laiške po parašais yra penki antspaudai.
@@ -83,8 +78,6 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
     duojantis Vytį su aplink neįskaitoma legenda.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Stanislovas Sabina'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1584 m.'
   - '1586 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1584'
 date_end: '1586'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - privilegija
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Stanislovas Sabina
 
@@ -31,20 +27,26 @@ tags:
 Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum. Stanislovas Sabina, medicinos daktaras, valdė - 1584 m.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Stanislovas Sabina, medicinos daktaras, valdė - 1584 m.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (Sabinus), daktarą ir Vilniaus vaitą, dėl to, kad jis, pažeisdamas pirkliams skirtas privilegijas, balandžio 7 dieną, pir­ madienį, išsiuntė miesto sargybos viršininką (Praefectum.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    149 ir 150,
+    Be karaliaus Stepono laiškų, rašytų
+    dėl kalendorinių ginčų, Dubins-
+    k i o išspausdintų „Vilniaus miesto
+    privilegijų rinkinyje", p. 149 ir 150,
     dar miesto archyve yra reliacinis ka­
     raliaus Stepono sprendimas: Decre­
     tum relationum Stephani Regis Polo-
@@ -81,23 +83,23 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
     nį, o vaitas atvyko pats.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Stanislovas Sabina, medicinos daktaras, valdė - 1584 m.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Povilas Mieleskis, jo sūnus.
+    Augustinas Rotundas Milesijus (Mieleskis),
+    abiejų teisių daktaras, išrinktas iš magistrato
+    narių, tačiau bajoras - 1542 m.
+    6. Povilas Mieleskis, jo sūnus.
     b) Po Unijos
     7. Stanislovas Sabina, medicinos daktaras, valdė - 1584 m.
+    8.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

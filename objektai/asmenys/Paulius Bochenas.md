@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Paulius Bochenas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1677 m.'
   - '1737 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
-  - 'XVIII'
 date_start: '1677'
 date_end: '1737'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
+amziai:
+  - 'XVII'
+  - 'XVIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Paulius Bochenas
 
@@ -30,15 +26,21 @@ tags:
 Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti
+    vyskupo Valerijono Protasevičiaus, prieš 1670 metus, prie­
+    šo puolimo metu, kaip ir visas miestas, buvo apiplėšti ir su­
+    deginti.
     1677. Akademijos Rektorius t. Paulius Bochenas, neturė­
     damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­
     nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­
@@ -54,9 +56,7 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
     remontuoti stovėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

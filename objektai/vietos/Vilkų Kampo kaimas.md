@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilkų Kampo kaimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - upė
@@ -26,15 +17,19 @@ tags:
 73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6.
 
 ## Teiginiai
+
 - t-001
   teiginys: '73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '73 Vilhelmas Habsburgas 281, 284- 286, 289 Vilhelmas Morenietis 166, 167, 180 Vilhelmas, Olandijos grafas 249 Vilija (Neris) 156 Vilikaila 162 Vilkaviškis 112 Vilkija 216 Vilkų Kampo kaimas 109 Vilnelė, upė 110, 244 Vilkolevičius, bajoras 368 Vilnius 5, 6.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    **Vidžemė 118
+    Viena, Austrijoje 65; Vienos univ.
     69, 373**
     **_Vienybė Lietuvnikų_** **55
     Vigantas-Aleksandras, Lengvenio
@@ -65,11 +60,13 @@ tags:
     321, 325, 328, 329, 334, 337, 340,
     343, 348, 351, 362, 364-369, 371,
     374, 376-378, 381 ; Vilniaus akade-
-    mija-univ.
+    mija-univ. 1, 52, 62, 64, 65, 74, 77,
+    79, 80 ; dvaro maršalas Čupurna
+    377 ; vysk. J. Plichta 377, žr.
+    Plichta
+    Vingaudas -Andrius , Algirdo sūnus
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

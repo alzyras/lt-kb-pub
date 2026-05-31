@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kiprijonas (Metonės vyskupas, Vilniaus sufraganas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
@@ -26,16 +17,22 @@ tags:
 Da­ lyvaujant didžiai gerbiamam Metonės vyskupui, mūsų 431 ## Puslapis 448 VILNIAUS MIESTO ISTORIJA// TOMAS tredecimi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Da­ lyvaujant didžiai gerbiamam Metonės vyskupui, mūsų 431 ## Puslapis 448 VILNIAUS MIESTO ISTORIJA// TOMAS tredecimi.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Da­ lyvaujant didžiai gerbiamam Metonės vyskupui, mūsų 431 ## Puslapis 448 VILNIAUS MIESTO ISTORIJA// TOMAS tredecimi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tėvui Grigaliui XIII. Da­
+    Duota ir
+    atlikta Vilniuje, įprastos mūsų rezidencijos rūmuose, sausio
+    vienuoliktą dieną, tūkstantis penki šimtai aštuoniasdešimt
+    antraisiais Viešpaties metais, popiežiaujant dešimtajam
+    popiežiui šviesiausiajam mūsų Šv. Tėvui Grigaliui XIII. Da­
     lyvaujant didžiai gerbiamam Metonės vyskupui, mūsų
     431
 
@@ -45,9 +42,7 @@ Da­ lyvaujant didžiai gerbiamam Metonės vyskupui, mūsų 431 ## Puslapis 448 
     tredecimi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

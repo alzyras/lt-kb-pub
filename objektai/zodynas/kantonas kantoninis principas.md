@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kantonas kantoninis principas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
   - tauta
@@ -26,78 +17,80 @@ tags:
 Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą. Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą. Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?
 
 ## Teiginiai
-- t-001
-  teiginys: 'Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Tikėtiniau, kad kantoninė Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.'
-  pagrindžia:
-    - c-004
+
 - t-005
   teiginys: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
   pagrindžia:
     - c-005
 
+- t-004
+  teiginys: 'Tikėtiniau, kad kantoninė Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.'
+  pagrindžia:
+    - c-004
+
+- t-001
+  teiginys: 'Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonominio rajono statusą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+
 - c-003
-  santrauka: 'Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
+    jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
+    vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
+    nebelaukė. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
+    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
+    karo, nei taikos“ situacijoje. Ar Lietuva nepralaimėjo neišnaudojusi visų
     federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
+    tas Šveicarijoje pasiteisinęs kantonų principas?
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Tikėtiniau, kad kantoninė Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.'
+
+- c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto
+    Abi šalys sutarė priimti tą planą kaip „bazę
+    diskusijom“. 1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją,
+    pritariančią Himanso planui. Rugsėjį Himansas dar pataisė planą lietuvių
+    naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
+    nio rajono statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Per tris savaites P. Himansas Šveicarijos pavyzdžiu paruošė Lietuvos
+    federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
+    Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
+    ir ekonominę konvencijas. Abi šalys sutarė priimti tą planą kaip „bazę
+    diskusijom“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-005
-  santrauka: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai federacijos
@@ -111,11 +104,42 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
     federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
+    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
+    karo, nei taikos“ situacijoje. Ar Lietuva nepralaimėjo neišnaudojusi visų
+    federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
+    tas Šveicarijoje pasiteisinęs kantonų principas? Tikėtiniau, kad kantoninė
+    Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto
+    tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-006
+  santrauka: 'Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ar Lietuva nepralaimėjo neišnaudojusi visų
+    federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdieg-
+    tas Šveicarijoje pasiteisinęs kantonų principas? Tikėtiniau, kad kantoninė
+    Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto
+    tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.
+    Neabejotina, kad lenkų ir lietuvių liberalai būtų sutarę, tačiau kaip būtų
+    sugyvenę Vilniaus regione lenkų ir lietuvių nacionalizmai?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

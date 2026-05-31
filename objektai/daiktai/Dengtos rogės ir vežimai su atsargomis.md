@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Dengtos rogės ir vežimai su atsargomis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - daiktas
@@ -27,33 +18,61 @@ tags:
 Tuo tikslu paskleidęs gandą, esą turįs at­ vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­ kluotų žmonių būrį. Tie patys metraštinin­ kai pasakoja, kad 300 vežimų, įvai­ rios žvėrienos prikrauti, atvažiavę į miestą ir kad Vytauto bajorai suva­ žiavę į miestą iš įvairių pusių, bet vienas jų, matyt, išdavęs paslaptį, o apie Sudimantą nėra užsiminta.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tuo tikslu paskleidęs gandą, esą turįs at­ vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­ kluotų žmonių būrį.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tie patys metraštinin­ kai pasakoja, kad 300 vežimų, įvai­ rios žvėrienos prikrauti, atvažiavę į miestą ir kad Vytauto bajorai suva­ žiavę į miestą iš įvairių pusių, bet vienas jų, matyt, išdavęs paslaptį, o apie Sudimantą nėra užsiminta.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Tuo tikslu paskleidęs gandą, esą turįs at­ vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­ kluotų žmonių būrį.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jogaila tam pasipriešino,
+    tad šia dingstimi negalima buvo į
+    Vilnių vykti. Tie patys metraštinin­
+    kai pasakoja, kad 300 vežimų, įvai­
+    rios žvėrienos prikrauti, atvažiavę į
+    miestą ir kad Vytauto bajorai suva­
+    žiavę į miestą iš įvairių pusių, bet
+    vienas jų, matyt, išdavęs paslaptį, o
+    apie Sudimantą nėra užsiminta.
+    20
+    Vilniaus kapitulos archy­
+    vas: MSS, vad. Acta, tai yra*
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Tuo tikslu paskleidęs gandą, esą turįs at­ vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­ kluotų žmonių būrį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     116
@@ -74,34 +93,9 @@ Nenurodyta
     pavertė anksčiau negu suspėjo Vytautas su kariauna19.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tie patys metraštinin­ kai pasakoja, kad 300 vežimų, įvai­ rios žvėrienos prikrauti, atvažiavę į miestą ir kad Vytauto bajorai suva­ žiavę į miestą iš įvairių pusių, bet vienas jų, matyt, išdavęs paslaptį, o apie Sudimantą nėra užsiminta.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jogaila tam pasipriešino,
-    tad šia dingstimi negalima buvo į
-    Vilnių vykti. Tie patys metraštinin­
-    kai pasakoja, kad 300 vežimų, įvai­
-    rios žvėrienos prikrauti, atvažiavę į
-    miestą ir kad Vytauto bajorai suva­
-    žiavę į miestą iš įvairių pusių, bet
-    vienas jų, matyt, išdavęs paslaptį, o
-    apie Sudimantą nėra užsiminta.
-    20
-    Vilniaus kapitulos archy­
-    vas: MSS, vad.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -112,4 +106,5 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/kapitula]]
+- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
 - [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]

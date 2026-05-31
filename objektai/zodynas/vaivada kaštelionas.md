@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'vaivada kaštelionas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1412 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1412'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - miestas
   - privilegija
   - sutartis
+amziai:
+  - 'XV'
 ---
 # vaivada kaštelionas
 
@@ -30,13 +24,15 @@ tags:
 Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarnybos ir tiksliai apibrėžtos jų pareigos miestui tarsi suteikė naujo pra­ kilnumo71.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarnybos ir tiksliai apibrėžtos jų pareigos miestui tarsi suteikė naujo pra­ kilnumo71.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarnybos ir tiksliai apibrėžtos jų pareigos miestui tarsi suteikė naujo pra­ kilnumo71.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - 4-oji privilegija, 1412,feria
@@ -64,9 +60,7 @@ Lenkijos pavyz­ džiu sekant, unijos aktu įvestos vaivados ir kašteliono tarn
     jos gyventojų72.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

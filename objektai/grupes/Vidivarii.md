@@ -63,7 +63,6 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - [[objektai/autoriai/Kassiodoras]]
 - [[objektai/autoriai/Jornandesas]]
 - [[objektai/autoriai/Thunmanas]]
-- [[objektai/ivykiai/Versalio taika]]
 - [[objektai/zodynas/Vidivarijai]]
 - [[objektai/zodynas/Vidivarijai nomen gentile nomen sociale]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

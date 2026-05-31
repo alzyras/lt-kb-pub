@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'žiogriai statinių tvoros palisadai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
@@ -27,89 +18,30 @@ tags:
 Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­ mutinės pilies pastatai, daugiausia mediniai, bet aukštais bokštais ir palisadais apjuosti. Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės. Visi tie pastatai, at­ skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­ mus, besišliejančius prie pilių, negu į tokius miestus, kokie jau XIV amžiuje puošė Lenkiją.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­ mutinės pilies pastatai, daugiausia mediniai, bet aukštais bokštais ir palisadais apjuosti.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Visi tie pastatai, at­ skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­ mus, besišliejančius prie pilių, negu į tokius miestus, kokie jau XIV amžiuje puošė Lenkiją.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės.'
+  pagrindžia:
+    - c-002
+
 - t-004
   teiginys: 'Vilniuje, vi­ dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­ tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­ juosta statinių tvoromis.'
   pagrindžia:
     - c-004
+
+- t-001
+  teiginys: 'Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­ mutinės pilies pastatai, daugiausia mediniai, bet aukštais bokštais ir palisadais apjuosti.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­ mutinės pilies pastatai, daugiausia mediniai, bet aukštais bokštais ir palisadais apjuosti.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tolėliau, toje vietoje,
-    kur dabar stovi katedra, stūksojo negrabus dievo Perkūno
-    stabas, pastatytas ant akmeninės pakylos. Aplink tą aikštę,
-    senosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­
-    mutinės pilies pastatai, daugiausia mediniai, bet aukštais
-    bokštais ir palisadais apjuosti. Kunigaikščio rūmų pastatai,
-    kuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;
-    1 je, kur šiais laikais buvo profesoriaus
-    Arklidės buvo erdvios, keturkam- Špicnagelio sodas, tarp pilies kalno
-    pės, pastatytos iš medžio toje vieto- ir karaliaus malūno
-    107
 
-    ## Puslapis 124
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    o pilį supančios sienos kampe, pietvakarių pusėje, stovėjo
-    aukštas mūrinis namas, užsibaigiantis keturiais bokšteliais,
-    kurį Vladislovas Jogaila vėliau paskyrė Vilniaus vyskupų
-    gyvenamajam būstui2.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Šalimais jo apvalus bokštas, iš plytų ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­ lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­ tinių tvora, paskui Vilnios upės.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Kunigaikščio rūmų pastatai,
-    kuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;
-    1 je, kur šiais laikais buvo profesoriaus
-    Arklidės buvo erdvios, keturkam- Špicnagelio sodas, tarp pilies kalno
-    pės, pastatytos iš medžio toje vieto- ir karaliaus malūno
-    107
-
-    ## Puslapis 124
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    o pilį supančios sienos kampe, pietvakarių pusėje, stovėjo
-    aukštas mūrinis namas, užsibaigiantis keturiais bokšteliais,
-    kurį Vladislovas Jogaila vėliau paskyrė Vilniaus vyskupų
-    gyvenamajam būstui2. Šalimais jo apvalus bokštas, iš plytų
-    ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai
-    skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­
-    lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­
-    tinių tvora, paskui Vilnios upės vandenų skalaujama iš vie­
-    nos pusės, o iš kitos - jos perkasos, dar Gedimino laikais
-    iškastos, - pilį puolantiems Lietuvos priešams sudarė ne­
-    lengvai įveikiamas kliūtis4. Iš Žemutinės pilies vakarinių var­
-    tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­
-    rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Visi tie pastatai, at­ skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­ mus, besišliejančius prie pilių, negu į tokius miestus, kokie jau XIV amžiuje puošė Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Antakalnis yra pava­
@@ -138,13 +70,71 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
     jau XIV amžiuje puošė Lenkiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kunigaikščio rūmų pastatai,
+    kuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;
+    1 je, kur šiais laikais buvo profesoriaus
+    Arklidės buvo erdvios, keturkam- Špicnagelio sodas, tarp pilies kalno
+    pės, pastatytos iš medžio toje vieto- ir karaliaus malūno
+    107
+
+    ## Puslapis 124
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    o pilį supančios sienos kampe, pietvakarių pusėje, stovėjo
+    aukštas mūrinis namas, užsibaigiantis keturiais bokšteliais,
+    kurį Vladislovas Jogaila vėliau paskyrė Vilniaus vyskupų
+    gyvenamajam būstui2. Šalimais jo apvalus bokštas, iš plytų
+    ir akmens sumūrytas, su langu, pro kurį žyniai ir pranašai
+    skelbdavo savo pranašystes žmonėms3, o visa Kreivosios pi­
+    lies apsauginė juosta, pirmiausia apsupta aukšta ir tvirta sta­
+    tinių tvora, paskui Vilnios upės vandenų skalaujama iš vie­
+    nos pusės, o iš kitos - jos perkasos, dar Gedimino laikais
+    iškastos, - pilį puolantiems Lietuvos priešams sudarė ne­
+    lengvai įveikiamas kliūtis4. Iš Žemutinės pilies vakarinių var­
+    tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­
+    rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tolėliau, toje vietoje,
+    kur dabar stovi katedra, stūksojo negrabus dievo Perkūno
+    stabas, pastatytas ant akmeninės pakylos. Aplink tą aikštę,
+    senosios religijos apeigoms parinktą, tęsėsi plačiai išsklidę Že­
+    mutinės pilies pastatai, daugiausia mediniai, bet aukštais
+    bokštais ir palisadais apjuosti. Kunigaikščio rūmų pastatai,
+    kuriuose buvo ir iždas, ir arklidės, užėmė daugiausia vietos1;
+    1 je, kur šiais laikais buvo profesoriaus
+    Arklidės buvo erdvios, keturkam- Špicnagelio sodas, tarp pilies kalno
+    pės, pastatytos iš medžio toje vieto- ir karaliaus malūno
+    107
+
+    ## Puslapis 124
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    o pilį supančios sienos kampe, pietvakarių pusėje, stovėjo
+    aukštas mūrinis namas, užsibaigiantis keturiais bokšteliais,
+    kurį Vladislovas Jogaila vėliau paskyrė Vilniaus vyskupų
+    gyvenamajam būstui2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-004
-  santrauka: 'Vilniuje, vi­ dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­ tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­ juosta statinių tvoromis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvai, ilgai nuo krikščio­
@@ -161,9 +151,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
     kur dabar stovi Rotušė ir Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
 

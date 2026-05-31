@@ -1,18 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: '„lenkų pradai“ „rusų pradai“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1881 m.'
+  - '1894 m.'
+date_start: '1881'
+date_end: '1894'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - sukilimas
   - sąvoka
   - tauta
+amziai:
+  - 'XIX'
 ---
 # „lenkų pradai“ „rusų pradai“
 
@@ -21,22 +25,30 @@ tags:
 Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene. „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: '„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-001
+  teiginys: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Abu sukilimai Rusijos aukštuosiuose sluoksniuose sukėlė rusiško nacionalizmo ir polonofobijos bangą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LIAUDIS VIRSTA TAUTA
@@ -46,30 +58,79 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
     nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis princi-
     pas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III
     (1881–1894) laikais), abu sukilimai Rusijos aukštuosiuose sluoksniuose
-    sukėlė rusiško nacionalizmo ir polonofobijos bangą.
-  citata_rodoma: ""
+    sukėlė rusiško nacionalizmo ir polonofobijos bangą. Imperijos politiko-
+    je „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti
+    jėga, neieškant konsensuso su vietos visuomene. Jie tikėjosi pakeisti pa-
+    čią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad
+    po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai
+    įmanoma pasiekti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nuga-
+    „Rusų pradų atkūrimo“
+    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu. Nuga-
     lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
     tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
     rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
     jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti jėga, neieškant konsensuso su vietos visuomene.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    114
+    LIAUDIS VIRSTA TAUTA
+    N
+    ors Rusijos imperijos vidaus politika nerusiškų im-
+    perijos regionų ir „pakraščių“ atžvilgiu tuomet dar
+    nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis princi-
+    pas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III
+    (1881–1894) laikais), abu sukilimai Rusijos aukštuosiuose sluoksniuose
+    sukėlė rusiško nacionalizmo ir polonofobijos bangą. Imperijos politiko-
+    je „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti
+    jėga, neieškant konsensuso su vietos visuomene. Jie tikėjosi pakeisti pa-
+    čią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad
+    po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai
+    įmanoma pasiekti. Juk separatizmas tarpo pirmiausia vietos bajoriškoje
+    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
+    nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
+    nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-004
+  santrauka: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro
+    valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės
+    Katalikų bažnyčios likvidavimo akcijos. Tad Bažnyčios veikla varžyta, ka-
+    talikai diskriminuojami ir viliojami į stačiatikybę. „Rusų pradų atkūrimo“
+    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu. Nuga-
+    lėjo tie, kurie „pradų“ diegimo praktikos nepatikėjo vietos gyventojams,
+    tad lietuvių kalba į švietimo įstaigas neįleista. Diegti „rusų pradus“ turėjo
+    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
+    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -80,6 +141,7 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 - [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/separatizmas]]
+- [[objektai/zodynas/akcijos]]
 - [[objektai/asmenys/Aleksandras III]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]

@@ -89,6 +89,5 @@ tags:
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/Perveiza|perveiza]]
-- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]
 - [[objektai/zodynas/Žemlionis|žemlionis]]
 - [[objektai/grupes/Lietuvos Vyčių Sąjunga]]

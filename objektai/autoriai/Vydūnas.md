@@ -87,7 +87,5 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/storasta]]
 - [[objektai/zodynas/prūsas Prūsa Prūsija]]

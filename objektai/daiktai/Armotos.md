@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Armotos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - pilis
@@ -25,29 +16,35 @@ tags:
 Skir­ gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­ lių armotų.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Skir­ gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­ lių armotų.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Skir­ gaila, Trakų piliai ginti gavo iš maršalkos dovanų keletą dide­ lių armotų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Patvirtinus tą aktą savo antspaudomis Baigos, Bran­
@@ -64,9 +61,7 @@ Nenurodyta
     lių armotų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

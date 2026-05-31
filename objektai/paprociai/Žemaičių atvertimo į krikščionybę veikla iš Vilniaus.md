@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Žemaičių atvertimo į krikščionybę veikla iš Vilniaus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1415 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1415'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - paprotys
   - sutartis
   - unija
+amziai:
+  - 'XV'
 ---
 # Žemaičių atvertimo į krikščionybę veikla iš Vilniaus
 
@@ -30,29 +24,35 @@ tags:
 Vilnius tuo metu tapo pagrindine vietove, kur vykdavo svarbios ir ilgos derybos bei pasirašomos sutartys su kryžiuočiais, buvo ir svarbiausias centras, iš kurio kara­ lius su Vytautu, atgavus Žemaičių žemę, karštai ėmėsi at­ vertimo į krikščionybę iki tol dar.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilnius tuo metu tapo pagrindine vietove, kur vykdavo svarbios ir ilgos derybos bei pasirašomos sutartys su kryžiuočiais, buvo ir svarbiausias centras, iš kurio kara­ lius su Vytautu, atgavus Žemaičių žemę, karštai ėmėsi at­ vertimo į krikščionybę iki tol dar.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilnius tuo metu tapo pagrindine vietove, kur vykdavo svarbios ir ilgos derybos bei pasirašomos sutartys su kryžiuočiais, buvo ir svarbiausias centras, iš kurio kara­ lius su Vytautu, atgavus Žemaičių žemę, karštai ėmėsi at­ vertimo į krikščionybę iki tol dar.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lenkijos pavyz­
@@ -69,9 +69,7 @@ Nenurodyta
     do upės išsidėsčiusį, su visais kaimais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

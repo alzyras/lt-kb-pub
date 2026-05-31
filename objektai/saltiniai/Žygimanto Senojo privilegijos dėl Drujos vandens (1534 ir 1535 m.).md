@@ -1,29 +1,22 @@
 ---
 tipas: saltinis
 pavadinimas: 'Žygimanto Senojo privilegijos dėl Drujos vandens (1534 ir 1535 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1534 m.'
-  - '1535 m.'
   - '1538 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1534'
 date_end: '1538'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - privilegija
   - saltinis
+amziai:
+  - 'XVI'
 ---
 # Žygimanto Senojo privilegijos dėl Drujos vandens (1534 ir 1535 m.)
 
@@ -32,15 +25,20 @@ tags:
 Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 metų liepos 4 dieną, ir kita, iš­ samesnė, išleista Vilniuje, 1535 metų liepos 17 dieną, su karaliaus parašu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 metų liepos 4 dieną, ir kita, iš­ samesnė, išleista Vilniuje, 1535 metų liepos 17 dieną, su karaliaus parašu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 metų liepos 4 dieną, ir kita, iš­ samesnė, išleista Vilniuje, 1535 metų liepos 17 dieną, su karaliaus parašu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Per pirmąjį
+    gaisrą buvo sunaikinta Aukštutinė pilis, per antrąjį lieps­
+    nose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis9.
     Tai atsitiko labiausiai dėl to, kad, nukreipus vamzdžiais Ving­
     rių šaltinius, toliausiai nuo upės esančioms miesto dalims
     8
@@ -65,8 +63,6 @@ Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 met
     ti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

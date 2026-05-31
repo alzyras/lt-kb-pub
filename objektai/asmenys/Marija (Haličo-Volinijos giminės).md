@@ -78,7 +78,6 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Boleslovas-Jurgis II]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
 - [[objektai/asmenys/Marija]]

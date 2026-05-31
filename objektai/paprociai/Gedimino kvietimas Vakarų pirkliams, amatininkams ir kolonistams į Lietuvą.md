@@ -72,14 +72,14 @@ Nenurodyta
   teiginys: 'Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus.'
   pagrindžia:
     - c-003
-- t-005
-  teiginys: 'Gediminas kvietė pirklius, amatininkus ir žemdirbius atvykti į jo valstybę, žadėdamas jiems mokestines lengvatas.'
-  pagrindžia:
-    - c-004
 - t-006
   teiginys: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
   pagrindžia:
     - c-005
+- t-007
+  teiginys: 'Gedimino laiškai p. 21 kais rašytas, ant pergamento, be da- (Leid. past.) tos Slapt.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -134,8 +134,27 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-004
-  santrauka: 'Gediminas kvietė pirklius, amatininkus ir žemdirbius atvykti į jo valstybę, žadėdamas jiems mokestines lengvatas.'
+- c-005
+  santrauka: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gedimino krikšto akcija
+    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
+    Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
+    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    33
+    lonistus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-006
+  santrauka: 'Gedimino laiškai p. 21 kais rašytas, ant pergamento, be da- (Leid. past.) tos Slapt.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karius, kurie atvyks pas mus, aprūpinsim to­
@@ -167,32 +186,14 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-005
-  santrauka: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gedimino krikšto akcija
-    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
-    Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
-    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    33
-    lonistus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/grupes/Karaimai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Vokiečiai]]

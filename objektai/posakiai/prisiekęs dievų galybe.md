@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'prisiekęs dievų galybe'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - posakis
@@ -25,13 +16,15 @@ tags:
 Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisiekęs dievų galybe niekad ateityje nelaukti, kol broliai užpulsią kokią pilį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisiekęs dievų galybe niekad ateityje nelaukti, kol broliai užpulsią kokią pilį.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisiekęs dievų galybe niekad ateityje nelaukti, kol broliai užpulsią kokią pilį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Todėl jie turėjo nutraukti
@@ -44,11 +37,23 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
               239 (232).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisiekęs dievų galybe niekad ateityje nelaukti, kol broliai užpulsią kokią pilį.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Broliai nieku
+    būdu jų negalėjo susišaukti, nors ne kartą bandė šitai padaryti. Todėl jie turėjo nutraukti
+    apgulą. Neilgai trukus vadas Surminas paliko šią  pilį prisiekęs dievų galybe niekad
+    ateityje nelaukti, kol broliai užpulsią kokią pilį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

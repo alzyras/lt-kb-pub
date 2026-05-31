@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 29.
+Objektų skaičius: 28.
 
 ## Kaip naudoti
 
@@ -31,7 +31,6 @@ Objektų skaičius: 29.
 - [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
 - [[objektai/paprociai/Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio]]
 - [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]
-- [[objektai/paprociai/Pabaisko bažnyčios dešimtinės, duoklių ir tarnybinių prievolių mokėjimo tvarka]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
 - [[objektai/paprociai/Skurdo ištikto žmogaus savižudybė kaip paprotinis sprendimas]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
@@ -48,7 +47,7 @@ Objektų skaičius: 29.
 - [[objektai/paprociai/Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga]]
 
 ### Posakiai
-- [svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo](../objektai/posakiai/sve%C4%8Di%C4%85%20b%C5%ABsi%C4%85%20nepakankamai%20pamyl%C4%97j%C4%99%2C%20jeigu%20jis%20negersi%C4%85s%20iki%20apsvaigimo)
+- [[objektai/posakiai/svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo]]
 
 ### Įvykiai
 - [Liubomirskio seimo išardymas (1639 m.)](../objektai/ivykiai/Liubomirskio%20seimo%20i%C5%A1ardymas%20%281639%20m.%29)

@@ -1,13 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Kaluga'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - vieta
 ---
@@ -18,16 +15,20 @@ tags:
 Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Žygio metu buvo pasiekta Kaluga, taip pat Tula ir Riazanė.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Žygio metu buvo pasiekta Kaluga, taip pat Tula ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas
@@ -38,10 +39,23 @@ tags:
     svyravo tarp Maskvos ir Lietuvos. Be to, jis pats pasidarė
     savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
     buvo pasiekta net Tula, Kaluga ir Riazanė.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, jis pats pasidarė
+    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
+    buvo pasiekta net Tula, Kaluga ir Riazanė. Iš tikro tai buvo
+    ne karas, o vien kelionės žygis, nes rusų kunigaikštėliai net ne-
+    išdrįso kariauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

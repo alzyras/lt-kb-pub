@@ -1,30 +1,22 @@
 ---
 tipas: posakis
 pavadinimas: '„idealiąją Lietuvą“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1871 m.'
-  - '1901 m.'
   - '1924 m.'
   - '1952 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1871'
 date_end: '1952'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - posakis
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # „idealiąją Lietuvą“
 
@@ -33,38 +25,48 @@ tags:
 Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
 - t-002
   teiginys: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
   pagrindžia:
     - c-002
+
+- t-003
+  teiginys: 'Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijos prezidento Bronislovo Komo-
+    rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
+    kio apskrityje. Galėtume vardyti tuos Lietuvos žmones, kuriuos emigra-
+    cijos bangos nunešė toli į pasaulį, tačiau ten daugelio jų pačių vardai tapo
+    geriau atpažįstami nei Lietuvos.
     Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
     ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
     tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
     o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
     (Karolis Bučinskis).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    O kai pamatai po provincijos
+    Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
+    tuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos
     miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
     ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
     galvoji, kiek dar tokių vardų slepia Lietuva?
@@ -82,11 +84,28 @@ tags:
     ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: 'Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
+    ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
+    tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
+    o juose vaidina seras John Gielgud (Džonas Gilgudas) ir Charles Bronson
+    (Karolis Bučinskis). Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
+    tuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos
+    miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
+    ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
+    galvoji, kiek dar tokių vardų slepia Lietuva?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -101,6 +120,7 @@ tags:
 - [[objektai/asmenys/Eimuntas Nekrošius]]
 - [[objektai/asmenys/Robertas (Sicilijos karalius)]]
 - [[objektai/asmenys/Robertas Zemeckis]]
+- [[objektai/asmenys/Davidas Suchetas]]
 - [[objektai/asmenys/Donatas Katkus]]
 - [[objektai/asmenys/Gintaras Rinkevičius]]
 - [[objektai/daiktai/JAV vieno cento moneta]]

@@ -58,7 +58,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/autoriai/Mykolas Lietuvis]]
-- [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/asmenys/Petras Šuiskis]]
 - [[objektai/grupes/Rusai]]

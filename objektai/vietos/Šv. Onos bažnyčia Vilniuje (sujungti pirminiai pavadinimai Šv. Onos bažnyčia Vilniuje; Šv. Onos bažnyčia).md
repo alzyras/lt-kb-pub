@@ -46,10 +46,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginys: 'Dėl to norime, kad mūsų kū­ nas būtų ten palaidotas, kur mus užklups paskutinioji va­ landa, tai yraA jeigu Lenkijos Karalystėje mums esant Vieš­ pats Dievas malonėtų leisti mums mirti, tuomet Krokuvoje, pilies bažnyčios koplyčioje, kur mūsų pono tėvo.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­ kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią; kad jos didenybės karalienės Halškos (Elžbietos) palaikai dešinėje pusėje nuo.'
-  pagrindžia:
-    - c-005
 - t-006
   teiginys: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
   pagrindžia:
@@ -62,6 +58,10 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   teiginys: 'Šiai bažnyčiai visą bažnytinį auksą, sidabrą, koks tik yra ir bus rūmų iždo rinkinyje, taip pat ir tą, kuris prie mūsų visada būna mišioms ir kas tik yra pas Zaleskį Tikocine, atiduodame, kaip kielikus, patenas, kryželius, pacifikalus, liktorius.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­ kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią; kad jos didenybės karalienės Halškos (Elžbietos) palaikai dešinėje pusėje nuo.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansionieriams, naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­ tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje.'
@@ -145,41 +145,6 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­ kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią; kad jos didenybės karalienės Halškos (Elžbietos) palaikai dešinėje pusėje nuo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tai
-    darome atsižvelgdami, kad nebūtų nereikalingų išlaidų ir
-    rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
-    Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve
-    mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­
-    kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią;
-    kad jos didenybės karalienės Halškos (Elžbietos) palaikai
-    dešinėje pusėje nuo įėjimo į bažnyčią, bažnyčios pastato kam­
-    pe, prie altoriaus, o jos didenybės karalienės Barboros iš cho­
-    ro pusės, kampe, kairėje bažnyčios pastato pusėje, būtų pa­
-    dėti, - prašydami, kad dabartinėms laidotuvėms nebūtų
-    rengiamos visiškai jokios šio vargano pasaulio pompos ir
-    iškilmės. O atiduodami sielą nieko daugiau iš Viešpaties Die-
-    334
-
-    ## Puslapis 351
-
-    IV  KNYGA
-    vo nepageidaujame ir mirdami nieko daugiau neprašysime,
-    tik vieno, kad Respubliką, kokią iš mūsų protėvių gavome,
-    visai tokią pačią, taikoje ir gerovėje, atiduotume; jos gerove
-    pagal mūsų švenčiausiąją galią per visą mūsų viešpatavi­
-    mo amžių uoliai rūpinomės, jos gerovei ir saugumui negai­
-    lėdami savo sveikatos (Dievas liudininkas) ir.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-006
   santrauka: 'Onos bažnyčios kleboniją ir didžio­ joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip reikiant, pagal savo nuomonę, priderančiomis pajamomis bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo Dievo tarnystei prie anos bažnyčios pasiliktų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -249,3 +214,38 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­ kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią; kad jos didenybės karalienės Halškos (Elžbietos) palaikai dešinėje pusėje nuo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai
+    darome atsižvelgdami, kad nebūtų nereikalingų išlaidų ir
+    rūpesčių kūną po mirties iš valstybės į valstybę gabenant.
+    Taip pat norime, kad mūsų ponių žmonų, Viešpatyje Dieve
+    mirusių, kūnai iš Šventojo Kazimiero koplyčios, kur yra lai­
+    kinai palaidoti, būtų perkelti į tą Šventos Onos bažnyčią;
+    kad jos didenybės karalienės Halškos (Elžbietos) palaikai
+    dešinėje pusėje nuo įėjimo į bažnyčią, bažnyčios pastato kam­
+    pe, prie altoriaus, o jos didenybės karalienės Barboros iš cho­
+    ro pusės, kampe, kairėje bažnyčios pastato pusėje, būtų pa­
+    dėti, - prašydami, kad dabartinėms laidotuvėms nebūtų
+    rengiamos visiškai jokios šio vargano pasaulio pompos ir
+    iškilmės. O atiduodami sielą nieko daugiau iš Viešpaties Die-
+    334
+
+    ## Puslapis 351
+
+    IV  KNYGA
+    vo nepageidaujame ir mirdami nieko daugiau neprašysime,
+    tik vieno, kad Respubliką, kokią iš mūsų protėvių gavome,
+    visai tokią pačią, taikoje ir gerovėje, atiduotume; jos gerove
+    pagal mūsų švenčiausiąją galią per visą mūsų viešpatavi­
+    mo amžių uoliai rūpinomės, jos gerovei ir saugumui negai­
+    lėdami savo sveikatos (Dievas liudininkas) ir.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

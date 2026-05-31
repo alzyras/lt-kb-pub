@@ -1,15 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kazimieras Būga'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1902 m.'
+  - '2001 m.'
+date_start: '1902'
+date_end: '2001'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XX'
+  - 'XXI'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Kazimieras Būga
 
@@ -18,29 +25,50 @@ tags:
 Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir trukdant politrukams.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kazimieras Būga pradėjo lietuvių kalbos žodyno sudarymą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir trukdant politrukams.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kazimieras Būga pradėjo lietuvių kalbos žodyno sudarymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kazi-
+    1938 m. lapkričio 1 d. įkurtas Antano
+    Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių
+    kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir
+    šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
+    techninius terminus, rinkti tautosakos, dainų lobius. Tęstas 1902 m. Kazi-
     miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai
     atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir
     trukdant politrukams.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir trukdant politrukams.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tęstas 1902 m. Kazi-
+    miero Būgos pradėtas lietuvių kalbos žodyno sudarymas (pirmieji tomai
+    atspausdinti nacių okupacijos metais, tolesni rengti sovietų laikais, nors ir
+    trukdant politrukams. Pasaulyje unikaliausias leksikografinis darbas už-
+    baigtas tik 2001 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1941 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1941'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
   - karas
   - tauta
+amziai:
+  - 'XX'
 ---
 # Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)
 
@@ -30,26 +24,31 @@ tags:
 Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Talkinin-
@@ -66,9 +65,7 @@ Nenurodyta
     jų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -78,3 +75,4 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/zonderkomanda]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Tautinės darbo apsaugos batalionas]]

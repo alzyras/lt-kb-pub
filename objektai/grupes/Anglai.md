@@ -71,10 +71,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   teiginys: 'Kai rug­ pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­ ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­ pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę jų esant.'
   pagrindžia:
     - c-007
-- t-008
-  teiginys: 'Vytautas su žemai­ čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­ vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro sienų.'
-  pagrindžia:
-    - c-008
 - t-009
   teiginys: 'Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30.'
   pagrindžia:
@@ -83,6 +79,10 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   teiginys: 'Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: duodecem talenta cerae Pud dieta, de curia castri nostri Viln.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Vytautas su žemai­ čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­ vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro sienų.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -251,30 +251,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-- c-008
-  santrauka: 'Vytautas su žemai­ čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­ vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro sienų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    "
-    122
-
-    ## Puslapis 139
-
-    Il KNYGA
-    lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
-    tikras brolis Kazimieras - kunigaikštis Karigaila.
-    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
-    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
-    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
-    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
-    sienų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 - c-009
   santrauka: 'Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -364,6 +340,30 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Vytautas su žemai­ čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­ vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro sienų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    "
+    122
+
+    ## Puslapis 139
+
+    Il KNYGA
+    lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
+    tikras brolis Kazimieras - kunigaikštis Karigaila.
+    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
+    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
+    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
+    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
+    sienų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
@@ -424,6 +424,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
 - [[objektai/autoriai/Walsinghamas]]
 - [[objektai/zodynas/bombarda]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/prūsiškos grivenos]]
 - [[objektai/grupes/Škotai]]
 - [[objektai/asmenys/Karigaila]]

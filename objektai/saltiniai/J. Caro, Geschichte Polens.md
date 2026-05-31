@@ -49,7 +49,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Caro : Geschichte Polens, III, 1869, 211 p. (^12) AUPL, nr.'
+  teiginys: 'Caro : Geschichte Polens, III, 1869, 211 p.'
   pagrindžia:
     - c-003
 
@@ -82,11 +82,11 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
 
 ## Reikšmingi paminėjimai
 - c-003
-  santrauka: 'Caro : Geschichte Polens, III, 1869, 211 p. (^12) AUPL, nr.'
+  santrauka: 'Caro : Geschichte Polens, III, 1869, 211 p.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    — J.** Caro **:** **_Geschichte Polens,_** **III, 1869, 211** p.
-    (^12) **AUPL, nr.
+    — HrlU,
+    **IV, 127 p. — J.** Caro **:** **_Geschichte Polens,_** **III, 1869, 211** p.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

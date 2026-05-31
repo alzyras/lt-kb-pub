@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Pabūklai, bombardos, patrankos ir artilerijos įranga'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1383 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1383'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - kunigaikštis
   - miestas
   - ordinas
+amziai:
+  - 'XIV'
 ---
 # Pabūklai, bombardos, patrankos ir artilerijos įranga
 
@@ -30,41 +24,65 @@ tags:
 Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti. Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti. Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.'
   pagrindžia:
     - c-004
 
+- t-003
+  teiginys: 'Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
+  pagrindžia:
+    - c-002
+
+- t-001
+  teiginys: 'Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
+    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
+    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
+    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
+    sienų. Visos tuometinės artilerijos karo mašinos ir ugnias-
+    vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Nepaisant įnirtingos gynybos, kelias dienas užsi­ tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­ versta pasiduoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau kiti, 1383 metai, atnešė Vilniui dar
@@ -77,30 +95,29 @@ Nenurodyta
     versta pasiduoti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Visos tuometinės artilerijos karo mašinos ir ugniasvaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.'
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
-    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
-    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
-    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
-    sienų. Visos tuometinės artilerijos karo mašinos ir ugnias-
-    vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
+    Tatai yra tiesiog pažodinis D1 u-
+    g o š o, Lib. X, p. 129 vertimas. Vitol-
+    dus in duellando captum (Narimun-
+    dum) et in arbore Wiqz per pedes in pra-
+    to in quo bombardae pruthenicae
+    constiterant, suspensum, sagittis Litu-
+    cinorum, Tartarorum et Ruthenorum in
+    cum jactis, crudelius quam utriusque
+    conueniebat conditioni cruciavit.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-002
+    - t-004
+
 - c-003
-  santrauka: 'Arkikomtūro laiškas Romos - • 123 ## Puslapis 140 VILNIAUS MIESTO ISTORIJA I TOMAS Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­ dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose įgauti, lėmė Lietuvos patirtus didžiausius smūgius30.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto visi
@@ -124,31 +141,9 @@ Nenurodyta
     vo likimą31.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Vitoldus in duellando captum (Narimundum) et in arbore Wiqz per pedes in prato in quo bombardae pruthenicae constiterant, suspensum, sagittis Litucinorum, Tartarorum et Ruthenorum in cum jactis, crudelius quam utriusque conueniebat conditioni cruciavit.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tatai yra tiesiog pažodinis D1 u-
-    g o š o, Lib. X, p. 129 vertimas. Vitol-
-    dus in duellando captum (Narimun-
-    dum) et in arbore Wiqz per pedes in pra-
-    to in quo bombardae pruthenicae
-    constiterant, suspensum, sagittis Litu-
-    cinorum, Tartarorum et Ruthenorum in
-    cum jactis, crudelius quam utriusque
-    conueniebat conditioni cruciavit.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,27 +1,21 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'miesto sargybos viršininkas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1586 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1586'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - privilegija
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # miesto sargybos viršininkas
 
@@ -30,16 +24,21 @@ tags:
 149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem ex seriis partium controversiis anno 1586 die 11 Julii latum, quo festa.
 
 ## Teiginiai
+
 - t-001
   teiginys: '149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem ex seriis partium controversiis anno 1586 die 11 Julii latum, quo festa.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '149 ir 150, dar miesto archyve yra reliacinis ka­ raliaus Stepono sprendimas: Decre­ tum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem ex seriis partium controversiis anno 1586 die 11 Julii latum, quo festa.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    149 ir 150,
+    Be karaliaus Stepono laiškų, rašytų
+    dėl kalendorinių ginčų, Dubins-
+    k i o išspausdintų „Vilniaus miesto
+    privilegijų rinkinyje", p. 149 ir 150,
     dar miesto archyve yra reliacinis ka­
     raliaus Stepono sprendimas: Decre­
     tum relationum Stephani Regis Polo-
@@ -76,9 +75,7 @@ tags:
     nį, o vaitas atvyko pats.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

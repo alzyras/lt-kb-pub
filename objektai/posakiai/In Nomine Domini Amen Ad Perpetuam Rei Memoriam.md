@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'In Nomine Domini Amen Ad Perpetuam Rei Memoriam'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - privilegija
@@ -25,13 +16,15 @@ tags:
 Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensis Canonicus Ecclesiae in Poboysco Plebanus, in Honorem Sanctae et Individuae Trinitatis extructae, nec non in Memoriam Nativitatis, et As­ sumptionis Gloriosae Virginis Mariae, et.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensis Canonicus Ecclesiae in Poboysco Plebanus, in Honorem Sanctae et Individuae Trinitatis extructae, nec non in Memoriam Nativitatis, et As­ sumptionis Gloriosae Virginis Mariae, et.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensis Canonicus Ecclesiae in Poboysco Plebanus, in Honorem Sanctae et Individuae Trinitatis extructae, nec non in Memoriam Nativitatis, et As­ sumptionis Gloriosae Virginis Mariae, et.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Quum Nobis Exposuisset Venerabilis Valentinus
@@ -53,8 +46,6 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
     galio DIEVO gaunamas geradarybes ir yra dėkingi.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

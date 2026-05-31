@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - mokslininkas
@@ -27,32 +18,48 @@ tags:
 Alteram vero ex altera parte domus eiusdem Sartoris nostri Tbomae, similiter impen­ sis nostris, in area antiquitus deserta extruximus, utramque in 414 ## Puslapis 431 IV KNYGA studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­ nimui mūsų akmeninį ar.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Alteram vero ex altera parte domus eiusdem Sartoris nostri Tbomae, similiter impen­ sis nostris, in area antiquitus deserta extruximus, utramque in 414 ## Puslapis 431 IV KNYGA studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­ nimui mūsų akmeninį ar.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Alteram vero ex altera parte domus eiusdem Sartoris nostri Tbomae, similiter impen­ sis nostris, in area antiquitus deserta extruximus, utramque in 414 ## Puslapis 431 IV KNYGA studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­ nimui mūsų akmeninį ar.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Alteram vero ex altera
+    Praeterea ut iidem studiosi, qui
+    pro tempore in Bursa supra nominata habitabunt, aliquod
+    inopiae suae sublevamen haberent, ad ligna nimirum, legu­
+    mina, et alias res necessarias comparandas, dedimus et hisce
+    literis nostris damus, duas domus de integro sumptibus nost­
+    ris erectas, cum areis et aliis omnibus aedificiis, unam quam
+    a certo quodam eiusdem domus herede emimus, inter Colle­
+    gium ex una, et domum sartoris nostri Thomae, ex altera
+    partibus sitam, quod evidentius emptionis literae, quas ad ma­
+    nus Reverendi Patris Rectoris, cum aliis ad idem negotium
+    pertinen. literis dedimus, declarant. Alteram vero ex altera
     parte domus eiusdem Sartoris nostri Tbomae, similiter impen­
     sis nostris, in area antiquitus deserta extruximus, utramque in
     414
@@ -79,9 +86,7 @@ Nenurodyta
     tins stropumui, o geruosius apgaubs tėviška meile.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,15 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Silvestras Valiūnas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1818 m.'
+date_start: '1818'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # Silvestras Valiūnas
 
@@ -18,28 +23,53 @@ tags:
 Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Silvestras Valiūnas buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Silvestras Valiūnas buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
+    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
+    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
+    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
+    kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
     Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
-    Poška, Silvestras Valiūnas).
-  citata_rodoma: ""
+    Poška, Silvestras Valiūnas). Įspūdį padarė 1818 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Ši mintis paskatino kai kuriuos inteligentus, gyvenusius Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas Poška, Silvestras Valiūnas).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Varšuvoje Mokslo bičiulių drau-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    111
+    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
+    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
+    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
+    kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
+    Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
+    Poška, Silvestras Valiūnas). Įspūdį padarė 1818 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

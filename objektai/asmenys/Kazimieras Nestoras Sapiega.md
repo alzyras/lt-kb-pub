@@ -1,13 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Kazimieras Nestoras Sapiega'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - seimas
@@ -20,40 +17,54 @@ tags:
 Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Sapiega.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Sapiega.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
 - c-002
-  santrauka: 'Sapiega.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Septyni ministrai palaikė karalių,
+    penki buvo prieš – siūlė priešintis ir toliau derėtis, siekiant kuo palan-
+    kesnių sąlygų valstybei. Kiekybiškai tai – nepaprastai maža persvara, ir
+    tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš
+    vadų H. Kolontajus nebūtų parėmęs valdovo pozicijos. Lietuvos atstovai
+    pasirodė net garbingiau nei Lenkijos – iš penkių balsų, pasisakiusių už
+    priešinimąsi, trys buvo iš Lietuvos: LDK didysis maršalas Ignotas Potoc-
     kis, LDK rūmų maršalas Stanislovas Soltanas ir LLV Seimo lietuviškosios
+    pusės maršalas K. N. Sapiega.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių
+    Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda
+    komisijų įvardijimuose, atskirai vyksta kodifikacijos darbai. Lietuvos
+    atstovų pozicija – LDK turi likti atskira politinė bendruomenė, turinti
+    savo atskirą teisę, būtina išsaugoti Lietuvos Statutą kaip LDK tapatybės
+    pagrindą.
+    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
+    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
+    įžadu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

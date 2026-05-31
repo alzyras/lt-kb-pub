@@ -65,14 +65,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   teiginys: ', Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
-  pagrindžia:
-    - c-007
 - t-008
   teiginys: 'Edukacinės komisijos veikla sulaukė pagyrimo, priešingai nei XVII-XVIII a. jėzuitų ordino veikla.'
   pagrindžia:
@@ -95,6 +87,14 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   teiginys: 'Ypač negailestingos jo kritikos susilaukė jė­ zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės komisijos veikla.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -172,38 +172,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
-    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
-    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
-    švietimo sistemą. Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
-    ti vientisą švietimo sistemą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Edukacinė komisija sumoder-
-    nino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skai-
-    čiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio,
-    amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas. Es-
-    minių permainų įvyko Vilniaus universiteto mokslo ir studijų srityse.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 - c-008
   santrauka: 'Edukacinės komisijos veikla sulaukė pagyrimo, priešingai nei XVII-XVIII a. jėzuitų ordino veikla.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -282,6 +250,39 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-013
+  santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
+    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
+    švietimo sistemą. Edukacinė komisija ėmėsi permainų ir stengėsi sukur-
+    ti vientisą švietimo sistemą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Edukacinė komisija sumodernino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skaičiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio, amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos provincijos švietimą
+    tvarkė reformuotas Vilniaus universitetas. Edukacinė komisija sumoder-
+    nino ir supasaulietino mokymo programą (įvedė privalomą rašymą ir skai-
+    čiavimą, bendrojo lavinimo elementus ėmė jungti su praktinių žemės ūkio,
+    amatų įgūdžių ugdymu), įvedė gamtos ir tiksliųjų mokslų disciplinas. Es-
+    minių permainų įvyko Vilniaus universiteto mokslo ir studijų srityse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ivanas Vasiljevičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,17 +18,20 @@ tags:
 Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Vasiljevičiaus užmačių. Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Vasiljevičiaus užmačių.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Vasiljevičiaus užmačių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Toks didžio­
@@ -92,13 +86,11 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     džiąją kunigaikštytę Eleną.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
@@ -109,9 +101,7 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

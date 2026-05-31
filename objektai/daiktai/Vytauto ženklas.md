@@ -58,18 +58,18 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
-  pagrindžia:
-    - c-002
-- t-005
-  teiginys: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
-  pagrindžia:
-    - c-003
 - t-006
   teiginys: 'Esą Vytautas reikalavęs chaną jam paklusti ir savo piniguose mušti Vytauto ženklą^33.'
   pagrindžia:
     - c-004
+- t-007
+  teiginys: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
+  pagrindžia:
+    - c-005
+- t-008
+  teiginys: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -89,7 +89,22 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-002
+- c-004
+  santrauka: 'Esą Vytautas reikalavęs chaną jam paklusti ir savo piniguose mušti Vytauto ženklą^33.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Esą Vytautas reikalavęs chaną
+    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
+    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
+    vado Edigos dalinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-005
   santrauka: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -111,49 +126,38 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-003
+    - t-007
+- c-006
   santrauka: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Edigėjus skelbėsi amžiumi vy-
+    Vytautas 5 dienas stovėjo kitoje Vorsklos
+    pusėje, įtvirtintoje stovykloje su geležinė-
+    mis grandinėmis kaustytais vežimais, su
+    daugeliu patrankėlių (piščalių), patrankų,
+    „arbaletų“. Edigėjus skelbėsi amžiumi vy-
     resniu, todėl reikalavo Vytauto klusnumo
     ir atsakydamas į ankstesnį Vytauto reikala-
     vimą, pareikalavo Lietuvos pinigus žymėti
     Ordos ženklais. Tuomet Vytautas įsakė
     savo kariams ruoštis kautynėms.
-
-    1399 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-004
-  santrauka: 'Esą Vytautas reikalavęs chaną jam paklusti ir savo piniguose mušti Vytauto ženklą^33.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Esą Vytautas reikalavęs chaną
-    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
-    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
-    vado Edigos dalinių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Ediga]]
-- [[objektai/asmenys/Timuras]]
+- [[objektai/asmenys/Edigėjus]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Timur-Kutlugas]]
+- [[objektai/zodynas/emyras]]
+- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

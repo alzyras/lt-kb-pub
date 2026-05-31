@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Algimantas Marcinkevičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1967 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1967'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - tauta
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Algimantas Marcinkevičius
 
@@ -28,13 +24,15 @@ tags:
 Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vytauto Sirvydžio kardiochirurgijos mokykla.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vytauto Sirvydžio kardiochirurgijos mokykla.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vytauto Sirvydžio kardiochirurgijos mokykla.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Europos čem-
@@ -43,12 +41,13 @@ tags:
     garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
     Šiandien didžiuojamės chirurgų Algimanto Marcinkevičiaus ar Vy-
     tauto Sirvydžio kardiochirurgijos mokykla. O juk reikėtų prisiminti, kad
-    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m.
+    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
+    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
+    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
+    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

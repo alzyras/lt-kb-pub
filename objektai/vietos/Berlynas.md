@@ -91,10 +91,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
   pagrindžia:
     - c-008
-- t-009
-  teiginys: 'Abi šalys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos pusėje.'
-  pagrindžia:
-    - c-009
 - t-010
   teiginys: 'Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį Kaunui sakė Maskva ir Berlynas.'
   pagrindžia:
@@ -135,6 +131,10 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
   pagrindžia:
     - c-020
+- t-021
+  teiginys: 'Abi šalys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos pusėje.'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -278,22 +278,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-009
-  santrauka: 'Abi šalys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos pusėje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Abi ša-
-    lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
-    pusėje. Paskui Lietuva tikėjosi, kad Klaipėdos klausimas bėra tik vidaus
-    problema, tačiau vokiečiai nemanė, kad techninės sutartys reiškia galuti-
-    nį Klaipėdos atsisakymą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
 - c-010
   santrauka: 'Prancūzai ir britai patarė lenkų reikalavimus priimti, tą patį Kaunui sakė Maskva ir Berlynas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -446,3 +430,20 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+- c-021
+  santrauka: 'Abi šalys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos pusėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    po ilgų
+    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis. Abi ša-
+    lys Berlyne nustatė sienos liniją, kuri Klaipėdos teritoriją paliko Lietuvos
+    pusėje. Paskui Lietuva tikėjosi, kad Klaipėdos klausimas bėra tik vidaus
+    problema, tačiau vokiečiai nemanė, kad techninės sutartys reiškia galuti-
+    nį Klaipėdos atsisakymą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021

@@ -10,6 +10,7 @@ tags: []
 # Įrodymų ledgerio suvestinė - Vytautas Didysis 1350-1430 (1930 m.)
 
 ## Vykdymo metaduomenys
+
 - knyga: Vytautas Didysis 1350-1430 (1930 m.)
 - viešasis šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
 - paskutinis_promptas: `darbas/prompts/05_quality_control/00_build_evidence_ledger.md`
@@ -26,6 +27,7 @@ tags: []
   - `darbas/prompts/05_quality_control/00_build_evidence_ledger.md`
 
 ## Kandidatų mastas
+
 - authors: 112
 - customs: 49
 - events: 101
@@ -38,6 +40,7 @@ tags: []
 - vocabulary: 85
 
 ## Kandidatų ledgerio būsenos
+
 - authors: `verified 173`, `quote_not_found 178`, `no_quote 33`, `ambiguous 11`
 - customs: `verified 78`, `quote_not_found 8`, `no_quote 63`, `ambiguous 2`
 - events: `verified 206`, `quote_not_found 8`, `no_quote 91`, `ambiguous 0`
@@ -50,6 +53,7 @@ tags: []
 - vocabulary: `verified 241`, `quote_not_found 8`, `no_quote 0`, `ambiguous 2`
 
 ## Atrankos pastabos
+
 - Ši suvestinė fiksuoja aukšto signalo, mechaniškai patvirtintų citatų branduolį ir kategorinę būsenų kontrolę po sujungtų kandidatų peržiūros.
 - `quote_not_found`, `no_quote`, `ambiguous`, antraštiniai ar bibliografiniai vienetai nelaikomi galutine padengtimi ir negali blokuoti vėlesnio kūno citatos panaudojimo viešose pastabose.
 - Didžiausios nebaigtų kandidatų sankaupos yra `people` ir `authors`, kur daug silpnų variantinių vardų, santrumpų ir OCR iškraipytų pėdsakų.
@@ -57,7 +61,10 @@ tags: []
 
 ## Patvirtintų citatų branduolys
 
+Nenurodyta
+
 ## source-bibliografija-001
+
 - status: unused
 - claim_role: new_claim
 - kategorija: saltinis
@@ -94,6 +101,7 @@ tags: []
     Akcinė „Varpo“ B-vės spaustuvė, Kaunas, Gedimino gatvė Nr. 38.
 
 ## source-turinys-001
+
 - status: unused
 - claim_role: new_claim
 - kategorija: saltinis
@@ -120,12 +128,13 @@ tags: []
     A. Šapoka. Vytauto vieta mūsų istorijoj ....................................... 267
 
 ## people-vytautas-001
+
 - status: unused
 - claim_role: new_claim
 - kategorija: asmuo
 - kandidatas: Vytautas Didysis
 - potencialus_teiginys: Vytautas pristatomas kaip žymiausias dinastijos atstovas, Kęstučio ir Birutės sūnus, gimęs apie 1350 m.
-- public_note: objektai/asmenys/Vytautas.md
+- public_note: objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.).md
 - saltinis: Vytautas Didysis 1350-1430 (1930 m.)
 - vieta_saltinyje: chunk_0001; match: exact
 - santrauka: Tiesioginė tapatybės ir datavimo citata pagrindiniam leidinio veikėjui.
@@ -140,12 +149,13 @@ tags: []
     vadinasi turėjo gimti apie 1350 metus^3 ).
 
 ## people-vytautas-002
+
 - status: unused
 - claim_role: new_claim
 - kategorija: asmuo
 - kandidatas: Vytautas Didysis
 - potencialus_teiginys: Vytautas aprašomas kaip neaukšto ūgio, energingas, pasitikintis savimi ir labai darbštus valdovas.
-- public_note: objektai/asmenys/Vytautas.md
+- public_note: objektai/asmenys/Vytautas (Lietuvos valdovas, 1384 m.).md
 - saltinis: Vytautas Didysis 1350-1430 (1930 m.)
 - vieta_saltinyje: chunk_0016; match: exact
 - santrauka: Aukšto signalo charakteristikos citata apie išvaizdą, laikyseną ir darbo būdą.
@@ -166,6 +176,7 @@ tags: []
     dingo valdovo šviesa.
 
 ## customs-laidotuves-ir-velines-001
+
 - status: unused
 - claim_role: new_claim
 - kategorija: paprotys
@@ -188,6 +199,7 @@ tags: []
     toliau, kaip anksčiau tarnavo”1 2).
 
 ## items-karuna-001
+
 - status: unused
 - claim_role: new_claim
 - kategorija: daiktas
@@ -210,6 +222,7 @@ tags: []
     su Lietuva.
 
 ## vocabulary-lenas-001
+
 - status: unused
 - claim_role: new_claim
 - kategorija: zodynas
@@ -226,6 +239,7 @@ tags: []
     są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų ją atgauti^2 ).
 
 ## sayings-kariaujame-ne-su-kryzium-001
+
 - status: unused
 - claim_role: new_claim
 - kategorija: posakis
@@ -242,11 +256,8 @@ tags: []
     vokiečiais!“
 
 ## Neužbaigti mazgai
+
 - `authors` kategorijoje daugiausia nebaigtų variantų kyla iš bibliografinių santrumpų, OCR iškraipytų formų ir silpnų alternatyvių vardo išplėtimų; jie negali būti laikomi padengtimi be tikslios kūno citatos.
 - `people` kategorijoje `quote_not_found` sankaupa labai didelė, nes į sujungimą pateko daug vienvardžių, silpnų varianto formų ir to paties asmens kartotinių aptikimų iš skirtingų gabalų.
 - `customs` ir `sayings` kategorijose dalis `no_quote` bei `ambiguous` atvejų yra antraštiniai, reklaminiai ar formuliniai pėdsakai, kurie turi likti tik kaip atradimo užuominos.
 - `sources`, `groups`, `places`, `events` ir `vocabulary` turi pakankamai patvirtintų kūno citatų potencialą viešam integravimui.
-
-## Teiginiai
-
-## Reikšmingi paminėjimai

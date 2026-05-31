@@ -1,31 +1,25 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Vilhelmas iš Modenos'
-aliases:
-  - 'Vilhelmas iš Modenos'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1222 m.'
   - '1323 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
 date_start: '1222'
 date_end: '1323'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
   - ordinas
   - popiežius
+amziai:
+  - 'XIII'
+  - 'XIV'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)
 
@@ -34,37 +28,25 @@ tags:
 Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; ji atkreipė dėmesį į Sventopelko ir Ordino 1248 m. Kristburgo sutartį, Dusburgiečio, beje, panaudotą labai savavališkai (III, 67), į dokumentus, turinčius ryšio su popiežiaus pasiuntinio Vilhelmo iš Modenos. Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269. Dusburgietis teigia, kad vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją į Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; ji atkreipė dėmesį į Sventopelko ir Ordino 1248 m. Kristburgo sutartį, Dusburgiečio, beje, panaudotą labai savavališkai (III, 67), į dokumentus, turinčius ryšio su popiežiaus pasiuntinio Vilhelmo iš Modenos.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją į Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143).'
   pagrindžia:
     - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; ji atkreipė dėmesį į Sventopelko ir Ordino 1248 m. Kristburgo sutartį, Dusburgiečio, beje, panaudotą labai savavališkai (III, 67), į dokumentus, turinčius ryšio su popiežiaus pasiuntinio Vilhelmo iš Modenos.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    M. Poliakuvna dar labiau praplėtė dokumentų skaičių; ji atkreipė dėmesį į Sventopelko
-    ir Ordino 1248 m. Kristburgo sutartį, Dusburgiečio, beje, panaudotą labai savavališkai (III,
-    67), į dokumentus, turinčius ryšio su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla
-    Prūsijoje (III, 33), surado naujų įrodymų, kad duomenys apie lietuvių niokojamus žygius
-    1323 m.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269.'
   pagrindžia:
-    - t-001
+    - c-002
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską, kas ten taisytina, ir įstatyti į tinkamas vėžes269.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie apaštališkojo sosto pasiuntinį
@@ -82,22 +64,35 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
     kas ten taisytina, ir įstatyti  į tinkamas vėžes269.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    M. Poliakuvna dar labiau praplėtė dokumentų skaičių; ji atkreipė dėmesį į Sventopelko
+    ir Ordino 1248 m. Kristburgo sutartį, Dusburgiečio, beje, panaudotą labai savavališkai (III,
+    67), į dokumentus, turinčius ryšio su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla
+    Prūsijoje (III, 33), surado naujų įrodymų, kad duomenys apie lietuvių niokojamus žygius
+    1323 m., Gedimino krikštą paremti dokumentais kaip ir duomenys apie Ordino magistro
+    Vernerio nužudymą 1330 m. (Papildymas, 20). Ji priėjo išvadą, kad Dusburgietis laisvai
+    naudojosi Ordino archyvu, iš kurio netgi perėmęs popiežiaus kanceliarijos dokumentų
+    stilių (iškilmingą, pilną biblinių aliuzijų ir pan.)124.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją į Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     269 1243 m. liepos mėn. Vilhelmas (nuo 1222 m. Modenos vyskupas) padalijo Prūsiją
     į Kulmo, Pamedės, Varmės ir Sembos vyskupystes (PUB, 1, 1, Nr. 143).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

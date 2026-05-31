@@ -246,3 +246,4 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - [[objektai/ivykiai/Durbės mūšis]]
 - [[objektai/ivykiai/Mindaugo nužudymas]]
 - [[objektai/grupes/Rogvoldovičiai]]
+- [[objektai/grupes/Žemaičiai]]

@@ -47,7 +47,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Krikščioniškų švenčių, pavyzdžiui, Kalėdų ir Velykų, papročiuose išliko archajiškų pagoniškų elementų.'
+  teiginys: '“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų.'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Krikščioniškų švenčių, pavyzdžiui, Kalėdų ir Velykų, papročiuose išliko archajiškų pagoniškų elementų.'
+  santrauka: '“ Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     “ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,

@@ -257,6 +257,10 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginys: 'Smolenskas buvo paliktas Maskvai; jis grįžo Lietuvai tik maždaug po 100 metų (t.'
   pagrindžia:
     - c-050
+- t-051
+  teiginys: 'Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.'
+  pagrindžia:
+    - c-051
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -1151,3 +1155,16 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-050
+- c-051
+  santrauka: 'Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1615-1616 m. J. K. Chodkevičius kovojo su Maskvos
+    kariuomene gindamas Smolenską.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-051

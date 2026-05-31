@@ -1,28 +1,22 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'daraktorinės mokyklėlės'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1863 m.'
   - '1864 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1863'
 date_end: '1864'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - sukilimas
   - sąvoka
   - vyskupas
+amziai:
+  - 'XIX'
 ---
 # daraktorinės mokyklėlės
 
@@ -31,13 +25,15 @@ tags:
 Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Etninės Lietuvos miestuose atsirado ir rusų kultūros židinių, bet jie te-
@@ -55,9 +51,7 @@ Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
     dė – buvo poreikis, susiformavo tradicija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

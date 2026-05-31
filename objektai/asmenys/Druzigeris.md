@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Druzigeris'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -27,24 +18,28 @@ tags:
 Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės. Dusburgietis teigia, kad druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant koks bailys pamatęs daugybę nukautųjų. Dusburgietis teigia, kad tuo tarpu stalininkas Druzigeris, su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo žemėje ir Lenkijoje kilo toks baisus krikščionių.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant koks bailys pamatęs daugybę nukautųjų.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad tuo tarpu stalininkas Druzigeris, su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo žemėje ir Lenkijoje kilo toks baisus krikščionių.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­ jos [vyrų] Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą ir kai įsakė kitiems jį skelbti karalystėse bei provincijose, skirtose tam reikalui, 1246 m. Prūsijos žemės.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
+    55 (54). Dar kartą apie brolių laimėtą mūšį, kuriame vėl buvo nukauta 1500 Pomerani­
                                             jos [vyrų]
 
       Kai apaštališkojo sosto legatas293 pats paskelbė kryžiaus karą  ir kai įsakė kitiems
@@ -54,41 +49,40 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     kariauti vyrais, be to, atvyko riteris Henrikas iš Lichtenšteino, o su juo daug maldininkų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant koks bailys pamatęs daugybę nukautųjų.'
+
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
+    grobio  ir laimėję garbingą pergalę, nes jiems talkino mūsų viešpats Jėzus Kristus,
+    kuris tebūnie garbinamas per amžių amžius, amen. Tuo tarpu stalininkas Druzigeris,
+    su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
+    ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo
+    žemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo
+    girdėta. Tačiau kitos dienos pavakaryje, kai broliai su kariuomene sugrįžo po pergalingo
+    mūšio, toks didelis džiaugsmas apėmė krikščionių širdis, kad pranoko vakarykštės dienos
+    raudas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
+    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
+    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
     koks bailys pamatęs daugybę nukautųjų. Šitai išvydęs, valdovas Henrikas iš Lichtenšteino
     staiga užgriuvo priešus ir sugrąžino  į pirmykštę vietą atimtą grobį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad tuo tarpu stalininkas Druzigeris, su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo žemėje ir Lenkijoje kilo toks baisus krikščionių.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Tuo tarpu stalininkas Druzigeris,
-    su saviškiais nelyginant koks bailys pabėgęs iš mūšio, Torunės mieste pranešė, kad
-    ir broliai, ir maldininkai, ir visa krikščionių kariuomenė žuvusi mūšyje, o tada Kulmo
-    žemėje ir Lenkijoje kilo toks baisus krikščionių raudojimas, kokio nuo amžių nebuvo
-    girdėta.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai

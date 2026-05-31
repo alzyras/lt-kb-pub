@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Lietuviai Lietuvos kariuomenė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1385 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1385'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - grupe
   - miestas
   - ordinas
+amziai:
+  - 'XIV'
 ---
 # Lietuviai Lietuvos kariuomenė
 
@@ -30,17 +24,20 @@ tags:
 Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­ lių, turėjo grįžti prie likusių karių. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo Ordino riterių kirstas pagoniškai Lietuvai.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­ lių, turėjo grįžti prie likusių karių.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo Ordino riterių kirstas pagoniškai Lietuvai.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­ lių, turėjo grįžti prie likusių karių.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­ lių, turėjo grįžti prie likusių karių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Su trigubai di­
@@ -51,13 +48,11 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
     per kurį didelę Vilniaus dalį pasiglemžė ugnis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo Ordino riterių kirstas pagoniškai Lietuvai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
@@ -70,9 +65,7 @@ Jurgio vėliava puolė į mūšį Ordino riteriai, bet, narsiai lietuvių atremt
     kimas glaudžiai susijęs su viso krašto likimu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

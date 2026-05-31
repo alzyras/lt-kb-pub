@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Žygimanto šalininkai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
@@ -27,16 +18,20 @@ tags:
 Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­ jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių Žygimanto ir Švitrigailos grupuočių taikiniu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­ jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių Žygimanto ir Švitrigailos grupuočių taikiniu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­ jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių Žygimanto ir Švitrigailos grupuočių taikiniu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    I I I  KNYGA
+    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
+    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
     vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
     sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
     nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
@@ -53,9 +48,7 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
     iš įvairių šeimynų, visus prieš save sukiršino18.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

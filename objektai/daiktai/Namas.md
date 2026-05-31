@@ -225,7 +225,6 @@ Nenurodyta
 - [[objektai/asmenys/Šventoji Barbora]]
 - [[objektai/paprociai/Žiemos kelionės upeliais šunis užkinkius]]
 - [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]
-- [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
 - [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]
 - [[objektai/asmenys/Jurgis Radvila]]

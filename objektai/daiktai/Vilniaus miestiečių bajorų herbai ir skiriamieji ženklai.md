@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - daiktas
@@ -27,32 +18,44 @@ tags:
 Tokiems miestiečiams galėjo būti suteikti bajorų herbai, bet tik sutikus nors vienai pastariesiems priklausančiai šei­ mai, o viešiesiems reikalams magistratas negalėjo naudoti kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su šventojo Kristoforo.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tokiems miestiečiams galėjo būti suteikti bajorų herbai, bet tik sutikus nors vienai pastariesiems priklausančiai šei­ mai, o viešiesiems reikalams magistratas negalėjo naudoti kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su šventojo Kristoforo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tokiems miestiečiams galėjo būti suteikti bajorų herbai, bet tik sutikus nors vienai pastariesiems priklausančiai šei­ mai, o viešiesiems reikalams magistratas negalėjo naudoti kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su šventojo Kristoforo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
+    Tas pats Gardino seimas Vilniaus miesto
+    gyventojams buvo labai įsimintinas dėl suteiktos privilegi­
+    jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs
+    vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­
+    rate, su palikuonimis buvo visiems laikams pakeltas į bajo­
+    rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
+    gus. Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
     bet tik sutikus nors vienai pastariesiems priklausančiai šei­
     mai, o viešiesiems reikalams magistratas negalėjo naudoti
     kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su
@@ -92,9 +95,7 @@ Nenurodyta
     naujos ar atskiros privilegijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

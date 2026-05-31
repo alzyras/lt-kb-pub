@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Snorro Sturleson'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1179 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
 date_start: '1179'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
   - miestas
   - tauta
+amziai:
+  - 'XII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Snorro Sturleson
 
@@ -30,20 +26,23 @@ tags:
 Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kraštus, rado savo genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius), Tryk (Trakų) ir kitų miestų, netgi Lenkijojek. Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kraštus, rado savo genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius), Tryk (Trakų) ir kitų miestų, netgi Lenkijojek.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kraštus, rado savo genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius), Tryk (Trakų) ir kitų miestų, netgi Lenkijojek.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kraštus, rado savo genties nausėdžių ir suprato jų šnektą - prie V eini (Vilnius), Tryk (Trakų) ir kitų miestų, netgi Lenkijojek.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    262.'
+    VII, p. 262.'
     49
 
     ## Puslapis 66
@@ -57,13 +56,11 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
     Tryk (Trakų) ir kitų miestų, netgi Lenkijojek.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Įdedame čia trumpą žinutę apie tą Snorro ir jo darbus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Įdedame čia trumpą žinutę apie tą
@@ -84,8 +81,6 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
     svarbių žinių Šiaurės istorijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

@@ -39,10 +39,6 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: '104 Vytautas ir Jogaila, kaip žymūs to meto valdovai krikš­ čioniškoje Europoje, popiežiaus Jono XXIII pasiuntinių taip pat buvo pakviesti į susirinkimą.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.'
   pagrindžia:
@@ -51,6 +47,10 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   teiginys: 'Jonas XXIII atėmė Vok.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: '104 Vytautas ir Jogaila, kaip žymūs to meto valdovai krikš­ čioniškoje Europoje, popiežiaus Jono XXIII pasiuntinių taip pat buvo pakviesti į susirinkimą.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,28 +91,6 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '104 Vytautas ir Jogaila, kaip žymūs to meto valdovai krikš­ čioniškoje Europoje, popiežiaus Jono XXIII pasiuntinių taip pat buvo pakviesti į susirinkimą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    ```
-    104
-    ```
-    Vytautas ir Jogaila, kaip žymūs to meto valdovai krikš­
-    čioniškoje Europoje, popiežiaus Jono XXIII pasiuntinių taip pat
-    buvo pakviesti į susirinkimą. Sumanus Vytautas tuojau suprato,
-    kokią didelę reikšmę gali turėti Lietuvai toks visuotinis su­
-    sirinkimas, kuriame geriausiai bus galima parodyti, kad Lietu­
-    va jau katalikų šalis, kad Kristaus tikėjimas joje prigyja ir todėl
-    be reikalo Ordinas ir toliau ją puola, skleisdamas Europoje vi­
-    sokių neteisybių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -146,6 +124,31 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '104 Vytautas ir Jogaila, kaip žymūs to meto valdovai krikš­ čioniškoje Europoje, popiežiaus Jono XXIII pasiuntinių taip pat buvo pakviesti į susirinkimą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ).
+
+
+    ```
+    104
+    ```
+    Vytautas ir Jogaila, kaip žymūs to meto valdovai krikš­
+    čioniškoje Europoje, popiežiaus Jono XXIII pasiuntinių taip pat
+    buvo pakviesti į susirinkimą. Sumanus Vytautas tuojau suprato,
+    kokią didelę reikšmę gali turėti Lietuvai toks visuotinis su­
+    sirinkimas, kuriame geriausiai bus galima parodyti, kad Lietu­
+    va jau katalikų šalis, kad Kristaus tikėjimas joje prigyja ir todėl
+    be reikalo Ordinas ir toliau ją puola, skleisdamas Europoje vi­
+    sokių neteisybių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

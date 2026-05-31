@@ -1,24 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konstantinas Sirvydas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1620 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1620'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Konstantinas Sirvydas
 
@@ -27,13 +23,15 @@ tags:
 Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“ (1620).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“ (1620).'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų žodynas“ (1620).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors sporadiškai lietuviškų knygų leidimas nenutrūko per visą Ba-
@@ -46,9 +44,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     aiškinami lotyniškai, o tik paskui lietuviškai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

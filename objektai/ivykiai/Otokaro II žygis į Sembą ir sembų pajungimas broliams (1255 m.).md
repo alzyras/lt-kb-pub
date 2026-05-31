@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1254 m.'
   - '1255 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1254'
 date_end: '1255'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - karvedys
   - kunigaikštis
+amziai:
+  - 'XIII'
 ---
 # Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)
 
@@ -31,86 +25,76 @@ tags:
 Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.). Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną. Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas Medenava, ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs į nelaisvę ir išžudęs, ten pat ir pernakvojo.'
   pagrindžia:
     - c-004
+
 - t-005
   teiginys: 'Dusburgietis teigia, kad viską tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai.'
   pagrindžia:
     - c-005
 
+- t-003
+  teiginys: 'Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 
-- c-001
-  santrauka: 'Dusburgietis teigia, kad 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1, Nr. 52, p. 38 ir kt.).'
+- c-005
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
-    Nr. 52, p. 38 ir kt.). Dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius,
-    dalyvavęs Čekijos karaliaus Otokaro II (ir kryžiuočių) 1255 m. puolime prieš Sembą,
-    konstatuoja, kad už Prūsijos  į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad
-    aquilonem — Colker M. L. America..., p. 721; Samalavičius S., Abramauskas S. Naujas...,
-    p. 63).
+    Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai. Sitai
+    užbaigęs ir įvykdęs maldininko įžadus, sugrįžo karalius į savo karalystę, žygyje praradęs
+    nedaug savo žmonių.
+
+
+
+
+
+              72 (71).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos karalių318, tikrai pamaldų vyrą ir įgudusį karvedį, Otoną.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie sembų pavergimą
-
-      Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
-    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
-    karalių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
-    kuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos
-    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
-    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
-    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
-    atkeršyti už nukryžiuotojo viešpaties kančias.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+    - t-005
 
 - c-003
-  santrauka: 'Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą, vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama Kandeimu, gerai žinojusį visą Sembos karių galią.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Žiemą ši kariuomenė atžygiavo  į Elbingą,
+    priskaičiuotum daugiau kaip 60 tūkstančių karių; kiek buvo vežimų ir ketverinių ratų,
+    gabenusių ginklus ir maistą, nesu girdėjęs. Žiemą ši kariuomenė atžygiavo  į Elbingą,
     tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
     apvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti
     du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti,  ir
@@ -122,14 +106,28 @@ Nenurodyta
     Kandeimu, gerai žinojusį visą Sembos karių galią.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
+- c-006
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
+    sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
+    karalių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
+    kuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos
+    markgrafą319, Kulmo vyskupą Henriką, Varmės vyskupą Anzelmą, Olomouco320 vyskupą
+    su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
+    Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
+    atkeršyti už nukryžiuotojo viešpaties kančias.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-004
-  santrauka: 'Dusburgietis teigia, kad tada karalius įsibrovė į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas Medenava, ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs į nelaisvę ir išžudęs, ten pat ir pernakvojo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tada karalius įsibrovė  į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
@@ -168,41 +166,31 @@ Nenurodyta
     įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
 
-- c-005
-  santrauka: 'Dusburgietis teigia, kad viską tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai.'
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Viską
-    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
-    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
-    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai. Sitai
-    užbaigęs ir įvykdęs maldininko įžadus, sugrįžo karalius į savo karalystę, žygyje praradęs
-    nedaug savo žmonių.
-
-
-
-
-
-              72 (71).
+    XIII a. 1-oje pusėje atskirai nuo Prūsijos minima Semba (Samblandia, PUB, 1, 1,
+    Nr. 52, p. 38 ir kt.). Dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius,
+    dalyvavęs Čekijos karaliaus Otokaro II (ir kryžiuočių) 1255 m. puolime prieš Sembą,
+    konstatuoja, kad už Prūsijos  į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad
+    aquilonem — Colker M. L. America..., p. 721; Samalavičius S., Abramauskas S. Naujas...,
+    p. 63).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-005
+    - t-001
 
-- c-006
-  santrauka: Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.) papildomas patvirtintas šaltinio paminėjimas.
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
+    Apie sembų pavergimą
+
+      Kai atsivertė mūsų anksčiau minėti pagonys [gentes] prie vieningo tikėjimo, paliko
     sembai, kurių pavergti Kristus savo įsikūnijimo 1254 metais pasiuntė Otokarą, Čekijos
     karalių318, tikrai pamaldų vyrą  ir įgudusį karvedį, Otoną, Brandenburgo markgrafą,
     kuris šiame maldininkų žygyje buvo  jo maršalas, Austrijos  kunigaikštį, Moravijos
@@ -210,11 +198,9 @@ Nenurodyta
     su galybe maldininkų ir baronų, riterių bei kilmingųjų iš Saksonijos, Tiuringijos, Meiseno,
     Austrijos, Reino krašto [de... Reno] ir kitų Vokietijos žemių; jie visi degte degė troškimu
     atkeršyti už nukryžiuotojo viešpaties kančias.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
   pagrindžia:
     - t-002
 

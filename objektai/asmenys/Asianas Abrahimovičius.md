@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Asianas Abrahimovičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
@@ -25,16 +16,32 @@ tags:
 Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Todėl, jo pageidavimu, jam leidome kurį laiką pagy­
+    VILNIAUS MIESTO ISTORIJA // TOMAS
+    Jonui Boleslavovičiui Svirskiui, jo karališkosios malonybės
+    maršalkai, Maišiagalos valdytojui ir taip pat gerbiamam Sta­
+    nislovui Sabinai, Jo Malonybės karaliaus sekretoriui, Vilniaus
+    vaitui, kad tuo laiku Turkijos imperatoriaus čiaušas Ibrahi-
+    mas, atvažiavęs nuo didžiojo Maskvos kunigaikščio, turėda­
+    mas tam tikrų reikalų į jo karališkąją malonybę, palikęs Vil­
+    niaus mieste tarnus su žirgais ir kai kuriais savo daiktais, būtų
+    atvažiavęs čia, pas jo malonybę karalių į Gardiną, bet Vieš­
+    pats Dievas savo šventąja valia tuo laiku jo karališkąją malo­
+    nybę mūsų valdovą teikėsi pašaukti į savo šventąją garbę,
+    mus ir visą Respubliką ištikus nelaimei, tasai čiaušas negali
+    būti šiuo metu išsiųstas neišsprendus tų reikalų, dėl kurių
+    buvo Turkijos imperatoriaus atsiųstas pas jo karališkąją ma­
+    lonybę. Todėl, jo pageidavimu, jam leidome kurį laiką pagy­
     venti Vilniaus mieste, kol jų malonybės tarybos ponai visi čia,
     į Gardiną, suvažiuos. Kartu su juo yra siunčiamas ir mūsų
     priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­
@@ -46,9 +53,7 @@ Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovič
     šingu atveju dėl to tegu jums bus atmintis mūsų pamokymai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

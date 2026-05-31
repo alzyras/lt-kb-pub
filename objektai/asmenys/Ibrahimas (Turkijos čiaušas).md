@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Ibrahimas (Turkijos čiaušas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1586 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1586'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - valdovas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Ibrahimas (Turkijos čiaušas)
 
@@ -30,17 +26,20 @@ tags:
 354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE. Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi.
 
 ## Teiginiai
-- t-001
-  teiginys: '354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: '354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     354
@@ -97,13 +96,11 @@ tags:
     lonybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­ sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje, Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad tąjį čiaušą ir jo tarnus, kurių jis turi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Todėl, jo pageidavimu, jam leidome kurį laiką pagy­
@@ -119,9 +116,7 @@ tags:
     Rašytas Gardine.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

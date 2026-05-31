@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Pareinės valstybių sąjunga'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
@@ -26,13 +17,15 @@ tags:
 Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esančią Pareinės valstybių sąjungą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esančią Pareinės valstybių sąjungą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esančią Pareinės valstybių sąjungą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kunigaikščiu buvo paskirtas Saksų
@@ -43,9 +36,7 @@ Varšuvos kunigaikštija kartu su Saksonija įėjo į Napoleono protektorate esa
     pat tekusios Prūsijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

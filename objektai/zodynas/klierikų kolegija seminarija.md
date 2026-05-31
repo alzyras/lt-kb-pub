@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'klierikų kolegija seminarija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
@@ -27,17 +18,20 @@ tags:
 O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą! Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.
 
 ## Teiginiai
-- t-001
-  teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     O kadangi no­
@@ -59,13 +53,11 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
     mūsų seminarija.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Klierikų mokymo reikalus ir vadovavimą kole­
@@ -85,9 +77,7 @@ O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų i
     popiežiui šviesiausiajam mūsų Šv.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

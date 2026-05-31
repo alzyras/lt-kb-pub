@@ -42,5 +42,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai]]

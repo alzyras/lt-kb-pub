@@ -1,9 +1,6 @@
 ---
 tipas: vieta
 pavadinimas: 'Vyskupų gatvė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
@@ -11,22 +8,18 @@ datos:
   - '1579 m.'
   - '1677 m.'
   - '1737 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
 date_start: '1573'
 date_end: '1737'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - mokslininkas
   - vieta
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Vyskupų gatvė
 
@@ -35,21 +28,25 @@ tags:
 Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius namus, vieną Bernardinų gatvėje, o du Vyskupų gatvėje, 1579 metų kovo 6 dieną, fundacijos teise, užrašė Akademijai ir Collegio, nustatydamas sąlygas: lmo: kad keliems studentams. Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų. Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų gatve nuo Jo Didenybės Vil­ niaus vyskupo dvaro link prieglau­ dos ir Šv.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius namus, vieną Bernardinų gatvėje, o du Vyskupų gatvėje, 1579 metų kovo 6 dieną, fundacijos teise, užrašė Akademijai ir Collegio, nustatydamas sąlygas: lmo: kad keliems studentams.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų gatve nuo Jo Didenybės Vil­ niaus vyskupo dvaro link prieglau­ dos ir Šv.'
   pagrindžia:
     - c-003
+
+- t-002
+  teiginys: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius namus, vieną Bernardinų gatvėje, o du Vyskupų gatvėje, 1579 metų kovo 6 dieną, fundacijos teise, užrašė Akademijai ir Collegio, nustatydamas sąlygas: lmo: kad keliems studentams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     lėšų, prie Akademijos aikštės dar kai kuriuos
@@ -62,15 +59,17 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     mokslus, būtų duodamas valgis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­ nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­ gui Eustachijui Kotovičiui pardavė už 750 auksinų, o tuos 750 auksinų skyrė suremontuoti kitam namui, esančiam Vys­ kupų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti
+    vyskupo Valerijono Protasevičiaus, prieš 1670 metus, prie­
+    šo puolimo metu, kaip ir visas miestas, buvo apiplėšti ir su­
+    deginti.
     1677. Akademijos Rektorius t. Paulius Bochenas, neturė­
     damas už ką minėtų mūrų remontuoti, mūrinį namą ‘Ber­
     nardinų gatvėje Vilniaus kanauninkui maloningajam kuni­
@@ -86,13 +85,11 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     remontuoti stovėjo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų gatve nuo Jo Didenybės Vil­ niaus vyskupo dvaro link prieglau­ dos ir Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau 1573 metais
@@ -107,8 +104,6 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     Skapo vardu".
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003

@@ -1,20 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Svečės pilies statyba ir nesėkmingas Ordino puolimas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'VD'
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
@@ -28,33 +18,40 @@ tags:
 Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems. Dusburgietis teigia, kad jis mat norėjo neleisti statyti čia pilies.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad jis mat norėjo neleisti statyti čia pilies.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kadangi
+    Šitai išgirdęs, 1245 legatas pats paskelbė kryžiaus karą prieš minėtąjį tironą ir
+    įsakė jį skelbti apaštališkojo sosto vardu įvairiose karalystėse bei provincijose. Kadangi
     klastinga piktybė ir piktas vylius neša džiaugsmą niekšingiems žmonėms, kai jie gali
     daryti blogus darbus, ir skatina dar didesnėms blogybėms, todėl ir Sventopelkas, be galo
     didžiuodamasis Santyro pilimi, pastatyta kenkti tikėjimui ir tikintiesiems, pradėjo statyti
@@ -64,13 +61,11 @@ Nenurodyta
     traukti su kariuomene į šią vietą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad jis mat norėjo neleisti statyti čia pilies.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kai ši žinia pasiekė magistrą, jis įsakė Kulmo broliams
@@ -100,9 +95,7 @@ Nenurodyta
     nieko nepešusiems, pasitraukus, Sventopelkas, grįžęs atgal, pilį dar labiau sustiprino.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

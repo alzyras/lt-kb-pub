@@ -1,35 +1,23 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Magdeburgo teisės vokiečių teisė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1321 m.'
-  - '1387 m.'
-  - '1408 m.'
-  - '1432 m.'
-  - '1442 m.'
-  - '1495 m.'
   - '1578 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
 date_start: '1321'
 date_end: '1578'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
   - privilegija
   - sąvoka
+amziai:
+  - 'XIV'
+  - 'XVI'
 ---
 # Magdeburgo teisės vokiečių teisė
 
@@ -38,17 +26,46 @@ tags:
 — • - 152 ## Puslapis 169 Il KNYGA Iš Lenkijos miestų nusižiūrėtos laisvės, antra vertus, Magde­ burgo teisių savaiminė išdava lėmė tai, kad miestiečių luo­ mas užėmė aukštesnę visuomeninę padėtį negu nelaisvi kai­ mo žmonės; pagaliau Vilniaus, pralobusio per. Vytauto viešpatavimo laikams einant į pabaigą, šis kunigaikštis, to­ lydžio neišvengiantis tam tikros trinties su feodaline valdžia, nenorėjo sąžiningai laikytis Horodlės susitarimo sąlygų; Taigi Vilnius - Gedimino suteikta vokiečių teise, Rygos pavyzdžiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: '— • - 152 ## Puslapis 169 Il KNYGA Iš Lenkijos miestų nusižiūrėtos laisvės, antra vertus, Magde­ burgo teisių savaiminė išdava lėmė tai, kad miestiečių luo­ mas užėmė aukštesnę visuomeninę padėtį negu nelaisvi kai­ mo žmonės; pagaliau Vilniaus, pralobusio per.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Vytauto viešpatavimo laikams einant į pabaigą, šis kunigaikštis, to­ lydžio neišvengiantis tam tikros trinties su feodaline valdžia, nenorėjo sąžiningai laikytis Horodlės susitarimo sąlygų; Taigi Vilnius - Gedimino suteikta vokiečių teise, Rygos pavyzdžiu.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vytauto
+    viešpatavimo laikams einant į pabaigą, šis kunigaikštis, to­
+    lydžio neišvengiantis tam tikros trinties su feodaline valdžia,
+    nenorėjo sąžiningai laikytis Horodlės susitarimo sąlygų;
+    Taigi
+    Vilnius - Gedimino suteikta vokiečių teise, Rygos pavyzdžiu
+    remiantis....................................................................1321 m.
+    iš Vladislovo Jogailos gauta Magdeburgo teisė
+    .................1387 m.
+    Kaunas - Vytautas po šio miesto gaisro patvirtina pirmtako
+    suteiktas laisves, kaip tai liudija autentiška privilegija,
+    iki šiol išsaugota Kauno archyve.............................1408 m.
+    Luckas - Magdeburgo teisę gavo iš Vladislovo Jogailos
+    ...........:... 1432 m.
+    Kremenecas -...........................................................................1442 m.
+    Bielskas - paskutinėmis lapkričio dienomis....................................1495 m.
+    Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: '— • - 152 ## Puslapis 169 Il KNYGA Iš Lenkijos miestų nusižiūrėtos laisvės, antra vertus, Magde­ burgo teisių savaiminė išdava lėmė tai, kad miestiečių luo­ mas užėmė aukštesnę visuomeninę padėtį negu nelaisvi kai­ mo žmonės; pagaliau Vilniaus, pralobusio per.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dabar tik kai
@@ -72,39 +89,9 @@ tags:
     kalus, vis dėlto yra svarbi epocha Vilniaus istorijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Vytauto viešpatavimo laikams einant į pabaigą, šis kunigaikštis, to­ lydžio neišvengiantis tam tikros trinties su feodaline valdžia, nenorėjo sąžiningai laikytis Horodlės susitarimo sąlygų; Taigi Vilnius - Gedimino suteikta vokiečių teise, Rygos pavyzdžiu.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Vytauto
-    viešpatavimo laikams einant į pabaigą, šis kunigaikštis, to­
-    lydžio neišvengiantis tam tikros trinties su feodaline valdžia,
-    nenorėjo sąžiningai laikytis Horodlės susitarimo sąlygų;
-    Taigi
-    Vilnius - Gedimino suteikta vokiečių teise, Rygos pavyzdžiu
-    remiantis....................................................................1321 m.
-    iš Vladislovo Jogailos gauta Magdeburgo teisė
-    .................1387 m.
-    Kaunas - Vytautas po šio miesto gaisro patvirtina pirmtako
-    suteiktas laisves, kaip tai liudija autentiška privilegija,
-    iki šiol išsaugota Kauno archyve.............................1408 m.
-    Luckas - Magdeburgo teisę gavo iš Vladislovo Jogailos
-    ...........:... 1432 m.
-    Kremenecas -...........................................................................1442 m.
-    Bielskas - paskutinėmis lapkričio dienomis....................................1495 m.
-    Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,23 +1,19 @@
 ---
 tipas: asmuo
 pavadinimas: 'Pelka'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - vyskupas
+amziai: []
+periodo_grupes: []
 ---
 # Pelka
 
@@ -26,25 +22,34 @@ tags:
 į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad „1253 metais Petras, išrinktas Poznanės vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­ tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­ kupais.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad „1253 metais Petras, išrinktas Poznanės vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­ tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­ kupais.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad „1253 metais Petras, išrinktas Poznanės vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­ tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­ kupais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    į lenkų kalbą 1822 m., Varšuva), nuro­
+    Il KNYGA
+    IV
+    VILNIAUS VYSKUPŲ SĄRAŠAS NUO KATEDROS ĮKŪRIMO
+    IKI 1600 METŲ
+    Dar prieš krikščionybės įvedimą, XIII amžiuje, kai Min­
+    daugas (Myndozve, Mendog) pasiskelbė Lietuvos karaliumi
+    ir pranešė apie siekius priimti Romos tikėjimą, popiežius
+    išrinko ir paskyrė visai Lietuvai vyskupą. Apie tai mini Kroni­
+    ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s -
+    lavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­
     dydama, kad „1253 metais Petras, išrinktas Poznanės
     vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
     tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
-    kupais. (Žr.
+    kupais. (Žr. 1.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

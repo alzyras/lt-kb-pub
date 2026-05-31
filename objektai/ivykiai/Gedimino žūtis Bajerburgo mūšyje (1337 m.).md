@@ -1,30 +1,23 @@
 ---
 tipas: ivykis
 pavadinimas: 'Gedimino žūtis Bajerburgo mūšyje (1337 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1200 m.'
   - '1337 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XIV'
 date_start: '1200'
 date_end: '1337'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - miestas
   - valdovas
+amziai:
+  - 'XII'
+  - 'XIV'
 ---
 # Gedimino žūtis Bajerburgo mūšyje (1337 m.)
 
@@ -33,29 +26,40 @@ tags:
 O vis dėlto Vilniuje, galingos valstybės sostinėje, Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­ tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­ čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­ giję feodalinio valdymo.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O vis dėlto Vilniuje, galingos valstybės sostinėje, Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­ tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­ čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­ giję feodalinio valdymo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O vis dėlto Vilniuje, galingos valstybės sostinėje, Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­ tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­ čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­ giję feodalinio valdymo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    O vis dėlto Vilniuje, galingos valstybės sostinėje,
+    Betgi toje epochoje, kai naujos civilizacijos
+    spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
+    nepaisant Lietuvos valdovų išmintingų siekių, karo reikalai
+    ir užgrobimai labiau už įstatymų leidimą ar krašto valdy­
+    mą visiems rūpėjo, dar skendint barbariškų laikų tamsoj ar­
+    gi galima laiduoti už bet kokių įstatymų pastovumą ir pati­
+    kimumą? O vis dėlto Vilniuje, galingos valstybės sostinėje,
     Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
     tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
     čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
@@ -75,9 +79,7 @@ Nenurodyta
     dinę keletą namų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

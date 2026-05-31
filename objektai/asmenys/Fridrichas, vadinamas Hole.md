@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Fridrichas, vadinamas Hole'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1372 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1372'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Fridrichas, vadinamas Hole
 
@@ -29,13 +25,15 @@ tags:
 Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais pačiais metais brolis Fridrichas, vadinamas Hole, brolio Markvardo iš Revelingės 511 D.— Nova domus, castrum novum (III, 303), Jer.— Nûwe huis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais pačiais metais brolis Fridrichas, vadinamas Hole, brolio Markvardo iš Revelingės 511 D.— Nova domus, castrum novum (III, 303), Jer.— Nûwe huis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais pačiais metais brolis Fridrichas, vadinamas Hole, brolio Markvardo iš Revelingės 511 D.— Nova domus, castrum novum (III, 303), Jer.— Nûwe huis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie brolio Fridricho Holės ir 30 vyrų žūtį
@@ -57,15 +55,13 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
     ir jį, ir 30 vyrų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
+- [[objektai/grupes/Sūduviai]]
 - [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]

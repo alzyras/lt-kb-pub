@@ -1,35 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1490 m.'
-  - '1517 m.'
-  - '1519 m.'
-  - '1522 m.'
-  - '1541 m.'
-  - '1547 m.'
-  - '1553 m.'
-  - '1562 m.'
-  - '1569 m.'
   - '1575 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XVI'
 date_start: '1490'
 date_end: '1575'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - paprotys
   - reforma
+amziai:
+  - 'XV'
+  - 'XVI'
 ---
 # Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje
 
@@ -38,29 +24,35 @@ tags:
 Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
@@ -86,9 +78,7 @@ Nenurodyta
     mas Lietuvoje virto nenutrūkstamu procesu.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -155,6 +155,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/asmenys/K. Škirpa]]
-- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/grupes/Panevėžio batalionas]]

@@ -225,7 +225,6 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras Jakovlevas]]
 - [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]
 - [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]

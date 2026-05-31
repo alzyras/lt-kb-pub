@@ -1,9 +1,6 @@
 ---
 tipas: saltinis
 pavadinimas: 'Ambrassat A. Die Provinz Ostpreussen'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
@@ -17,22 +14,18 @@ datos:
   - '1351 m.'
   - '1912 m.'
   - '1939 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'naujieji laikai'
-amziai:
-  - 'XIV'
-  - 'XX'
 date_start: '1319'
 date_end: '1939'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ežeras
   - miestas
   - ordinas
   - pilis
+amziai:
+  - 'XIV'
+  - 'XX'
 ---
 # Ambrassat A. Die Provinz Ostpreussen
 
@@ -41,21 +34,25 @@ tags:
 Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389). Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421). Dusburgietis teigia, kad ambrassat A.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389).'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421).'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389).'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad ambrassat A.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpreussen, p. 389).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     594 D.— Lunenburgk, Jer.— Lûnenburc (plg. lie. liūnas, Liūnai — GAO, p. 92); vėliau
@@ -64,13 +61,21 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
     389).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ambrassat A. Die Prowinz Ostpreussen —Königsberg i. Pr., 1912.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad ordino pilis statyta 1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen..., p. 473; Ambrassat A., Die Provinz..., p. 421).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
@@ -83,20 +88,6 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
     HGAPW).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad ambrassat A.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Ambrassat A. Die Prowinz Ostpreussen —Königsberg i. Pr., 1912.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003

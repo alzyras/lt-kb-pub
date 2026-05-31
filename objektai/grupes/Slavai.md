@@ -278,7 +278,6 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]
 - [[objektai/asmenys/Stanislovas Ratka]]
 - [[objektai/autoriai/Stasys Šalkauskis]]
-- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/autoriai/Thunmanas]]
 - [[objektai/autoriai/V. O. Ključevskis]]

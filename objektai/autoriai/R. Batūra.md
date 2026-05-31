@@ -1,30 +1,21 @@
 ---
 tipas: autorius
 pavadinimas: 'Romas Batūra'
-sukurta: '2026-05-20'
-variantai:
-  - 'Romas Batūra'
-  - 'R. Batūra'
-  - 'ROMAS BATŪRA'
-  - 'Бaтypa P.'
-aliases:
-  - 'R. Batūra'
 saltiniai:
-  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1966 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1966'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'XX a.'
 ---
 # Romas Batūra
 
@@ -33,34 +24,54 @@ tags:
 R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais. Šiame šaltinyje papildomai pateikta pilna jo vardo forma Romas Batūra ir bibliografinės nuorodos į įvadinę studiją šiame leidime bei darbus „Šiaulių..“, „Lietuva...“ ir „Karinė...“.
 
 ## Teiginiai
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad rOMAS BATŪRA международный конгресс.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad 150 Maтyзoвa В. И. Apxeoгpaфнчccкие..., c. 19—21; tos pačios, «Xpoникa зeмли Пpyccкoй... », c. 34—35; tos pačios, Идeйнo..., c. 152—169; Бaтypa P. Из пpoблeмaтнкк..., c. 69.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Dusburgietis teigia, kad romas Batūra datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
-  pagrindžia:
-    - c-005
+
 - t-006
   teiginys: 'Dusburgietis teigia, kad 191—192; Batūra R., Karinė..., р.'
   pagrindžia:
     - c-006
+
+- t-005
+  teiginys: 'Dusburgietis teigia, kad romas Batūra datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
+  pagrindžia:
+    - c-005
+
 - t-007
   teiginys: 'Batūra rašė : XIII a.'
   pagrindžia:
     - c-007
 
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
+
+- c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuvių
+    santykius ir kovas su kryžiuočiais XV-ame a. išsamiai tyrinėja
+    B. Dundulis 108. R. Batūra rašė : _XIII a. Lietuvos sostinės
+    klausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su
+    totoriais^109.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad rOMAS BATŪRA международный конгресс.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     ROMAS BATŪRA
@@ -69,50 +80,14 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 
 
 
-    международный конгресс.
+    международный конгресс...
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad 150 Maтyзoвa В. И. Apxeoгpaфнчccкие..., c. 19—21; tos pačios, «Xpoникa зeмли Пpyccкoй... », c. 34—35; tos pačios, Идeйнo..., c. 152—169; Бaтypa P. Из пpoблeмaтнкк..., c. 69.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    150 Maтyзoвa  В.  И.  Apxeoгpaфнчccкие...,  c. 19—21;  tos  pačios, «Xpoникa
-    зeмли  Пpyccкoй... », c. 34—35; tos pačios, Идeйнo..., c. 152—169; Бaтypa P. Из
-    пpoблeмaтнкк..., c. 69.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad apie Sventopelko karą su Teutonų ordino broliais 1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo plitimo 262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino kalavijuočius (Ivinskis Z..'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie Sventopelko karą su Teutonų ordino broliais
-     1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo
-                                              plitimo
 
-
-      262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino
-    kalavijuočius (Ivinskis Z., Saulės—Šiaulių kautynės...; Pakarklis P., Lietuvių kova...;
-    Lietuvių karas.., p. 109—119; Benninghoven F., Der Orden...; Urban W., The Baltic.., p.
-    158—159; Batūra R., Šiaulių.., p. 22—24).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
-  santrauka: 'Dusburgietis teigia, kad romas Batūra datuojamas ir 1263 m.) organizavo Mindaugas, o tuo metu, kaip atrodo, Žemaitiją valdęs Treniota vadovavo kariuomenei (Regesta Lithuaniae, Nr. 393; Paszkiewicz H, Jagiellonowie..., p. 103; Lietuvių karas..., p. 159, 165; Batūra R., Lietuva..., p. 153).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie daugy­
@@ -131,13 +106,41 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     860; Пашуто В. T. Образование.., с. 492—493).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
+
+- c-004
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Sventopelko karą su Teutonų ordino broliais
+     1242 viešpaties dievo metais, o pirmiausia apie velnio pavydą dėl sėkmingo tikėjimo
+                                              plitimo
+
+
+      262 Kalbama apie 1236.IX.22 Saulės (Šiaulių) mūšį, kuriame lietuviai sutriuškino
+    kalavijuočius (Ivinskis Z., Saulės—Šiaulių kautynės...; Pakarklis P., Lietuvių kova...;
+    Lietuvių karas.., p. 109—119; Benninghoven F., Der Orden...; Urban W., The Baltic.., p.
+    158—159; Batūra R., Šiaulių.., p. 22—24).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    150 Maтyзoвa  В.  И.  Apxeoгpaфнчccкие...,  c. 19—21;  tos  pačios, «Xpoникa
+    зeмли  Пpyccкoй... », c. 34—35; tos pačios, Идeйнo..., c. 152—169; Бaтypa P. Из
+    пpoблeмaтнкк..., c. 69.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-006
-  santrauka: 'Dusburgietis teigia, kad 191—192; Batūra R., Karinė..., р.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Minėtieji Numa ir
@@ -148,25 +151,9 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
     to paties, Абарончыя..., c. 52—55.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Batūra rašė : XIII a.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    R. Batūra rašė : _XIII a. Lietuvos sostinės
-    klausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su
-    totoriais^109.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
 
 ## Ryšiai
 ### Susiję objektai

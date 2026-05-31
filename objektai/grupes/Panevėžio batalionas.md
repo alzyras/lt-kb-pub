@@ -1,24 +1,18 @@
 ---
 tipas: grupe
 pavadinimas: 'Panevėžio batalionas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1919 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1919'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
+amziai:
+  - 'XX'
 ---
 # Panevėžio batalionas
 
@@ -27,13 +21,15 @@ tags:
 BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     BE Bolševikų gynybinės pozicijos
@@ -53,9 +49,7 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
     frontą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

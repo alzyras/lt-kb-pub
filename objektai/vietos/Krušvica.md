@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Krušvica'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - vieta
@@ -25,13 +16,15 @@ tags:
 Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbinBandtk.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jau jam valdant Krušvica, Poznanė ir kiti
@@ -52,8 +45,6 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
     giems jo pulkams teikėc).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

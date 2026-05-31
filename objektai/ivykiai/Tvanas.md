@@ -1,17 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Tvanas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1587 m.'
+  - '1763 m.'
+date_start: '1587'
+date_end: '1763'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dinastija
   - ivykis
   - karas
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Tvanas
 
@@ -20,49 +25,88 @@ tags:
 Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '„Tvanas“ buvo Rusijos ir Švedijos invazija į Lietuvą ir Lenkiją 1654–1667 m., ištikusi valdant Vazų dinastijai.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„Tvanas“ buvo Rusijos ir Švedijos invazija į Lietuvą ir Lenkiją 1654–1667 m., ištikusi valdant Vazų dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    tiems karaimams, totoriams ir žydams.
     Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
     dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
     (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
     vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
-    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
-  citata_rodoma: ""
+    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
+    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
+    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
+    panaikinimo.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Antra vertus,
+    tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
+    visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
+    joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
+    Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
+
+    L I E T U V O S  I S T O R I J A
+    64
+    tiems karaimams, totoriams ir žydams.
+    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
+    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
+    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
+    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
+    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
+    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
+    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
+    panaikinimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]

@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Ordino pareigūno laiškas Lenkijos karalienei apie Karigailą'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1391 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1391'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - ordinas
   - pilis
   - saltinis
+amziai:
+  - 'XIV'
 ---
 # Ordino pareigūno laiškas Lenkijos karalienei apie Karigailą
 
@@ -30,16 +24,26 @@ tags:
 Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) Lenki­ jos karalienei 1391 metų pradžioje, kuriame taip pasakyta: „Iš jūsų laiš­ ko mums aišku, kad Jūsų Karališko­ sios Didenybės vadai, kurie dalyva­ vo įvykiuose prie Vilniaus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) Lenki­ jos karalienei 1391 metų pradžioje, kuriame taip pasakyta: „Iš jūsų laiš­ ko mums aišku, kad Jūsų Karališko­ sios Didenybės vadai, kurie dalyva­ vo įvykiuose prie Vilniaus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) Lenki­ jos karalienei 1391 metų pradžioje, kuriame taip pasakyta: „Iš jūsų laiš­ ko mums aišku, kad Jūsų Karališko­ sios Didenybės vadai, kurie dalyva­ vo įvykiuose prie Vilniaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tą
+    Gynėjai iškėlė vėliavas su kryžiais, kaip
+    ženklą, esą su pagonimis kovojantys, mat žemaičių ir lietu­
+    vių, dar nepakrikštytų, begalė buvo Vytauto gretose, nes prie
+    lio skundų ir ginčų tarp Jogailos ir
+    Ordino priežastis; pastarasis smar­
+    kiai gynėsi, atremdamas priekaištus,
+    esą skriaudos jam tuo daromos, va­
+    dindamas juos melagingais prasi­
+    manymais, žeidžiančiais Ordiną. Tą
     liudija Ordino pareigūno vienas laiš­
     kas (įdėtas F o i g t o, V, 546) Lenki­
     jos karalienei 1391 metų pradžioje,
@@ -64,8 +68,6 @@ Tą liudija Ordino pareigūno vienas laiš­ kas (įdėtas F o i g t o, V, 546) 
     gailalauvęs nukirsdintas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

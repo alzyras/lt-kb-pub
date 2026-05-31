@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Petras Puzdravičius'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
@@ -25,13 +16,15 @@ tags:
 Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, į ilgį besitęsiančia įstrižai prieglaudos sklypo iki Petro Puzdravičiaus ir Povilo Piestavičiaus, piliečių, Maloningiausiojo Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, į ilgį besitęsiančia įstrižai prieglaudos sklypo iki Petro Puzdravičiaus ir Povilo Piestavičiaus, piliečių, Maloningiausiojo Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, į ilgį besitęsiančia įstrižai prieglaudos sklypo iki Petro Puzdravičiaus ir Povilo Piestavičiaus, piliečių, Maloningiausiojo Vilniaus vyskupo valdinių, namo galo, per šimtą arba 34 uo­.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šitaip jie nužymėjo ir apibrėžė: pradedant nuo įėjimo arba
@@ -46,9 +39,7 @@ Dva­ sios bažnyčios kapinių vartus, nuo tų vartų prasidedančia ri­ ba, �
     galo - 60 sprindžių arba 20 uolekčių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

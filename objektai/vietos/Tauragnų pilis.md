@@ -39,7 +39,7 @@ tags:
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Jogaila iškilmingu aktu dovanojo Vilniaus katedrai Tauragnų pilį su visu pavietu.'
+  teiginys: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jogaila iškilmingu aktu dovanojo Vilniaus katedrai Tauragnų pilį su visu pavietu.'
+  santrauka: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Karalius tuoj pat

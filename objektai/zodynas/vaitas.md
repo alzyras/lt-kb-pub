@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'vaitas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
@@ -27,17 +18,20 @@ tags:
 Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į miesto reikalus, ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­ sė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus. 41 Miesto archyve yra Aleksandro Jogailaičio, Lietuvos didžiojo kunigaikš­ čio, tokio turinio laiškas: „Vaitas, ta­ rybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, Vilniaus vaivados ir valstybės kanclerio Mi­ kalojaus Radvilos vietininką, kad tas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į miesto reikalus, ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­ sė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '41 Miesto archyve yra Aleksandro Jogailaičio, Lietuvos didžiojo kunigaikš­ čio, tokio turinio laiškas: „Vaitas, ta­ rybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, Vilniaus vaivados ir valstybės kanclerio Mi­ kalojaus Radvilos vietininką, kad tas.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į miesto reikalus, ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­ sė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į miesto reikalus, ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­ sė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Privilegijose Žygimantas pareiškė, kad
@@ -54,16 +48,14 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     sakyti ir aiškintis dėl pateiktų priekaištų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '41 Miesto archyve yra Aleksandro Jogailaičio, Lietuvos didžiojo kunigaikš­ čio, tokio turinio laiškas: „Vaitas, ta­ rybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, Vilniaus vaivados ir valstybės kanclerio Mi­ kalojaus Radvilos vietininką, kad tas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    10.
+    D u b i ń s k i, 1.10.
     41
     Miesto archyve yra Aleksandro Jogai-
     laičio, Lietuvos didžiojo kunigaikš­
@@ -88,9 +80,7 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
     taičio, vietininkai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
@@ -104,7 +94,6 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - [[objektai/zodynas/grašis]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
 - [[objektai/asmenys/Abramas (iždininkas)]]
 - [[objektai/asmenys/Augustinas Rotundas]]
 - [[objektai/paprociai/Bažnytinių mėsinių nuoma ir laisva mėsos prekyba Vilniuje]]
@@ -134,21 +123,17 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/autoriai/Puslapis 206]]
 - [[objektai/zodynas/Puslapis 77]]
-- [[objektai/grupes/Radvilų giminė]]
 - [[objektai/asmenys/Raina Sluščianka]]
 - [[objektai/asmenys/Stanislovas Sabina]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius]]
-- [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
 - [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]
 - [[objektai/grupes/Vilniaus pirkliai]]
 - [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
-- [[objektai/ivykiai/Vytauto žygis į Lydą ir Kaributo sumušimas (1392 m. sausis)]]
 - [[objektai/zodynas/ekskomunikacija ekskomunika]]
-- [[objektai/zodynas/jurisdikcija]]
 - [[objektai/zodynas/miesto magistrato pareigybės]]
 - [[objektai/zodynas/miesto sargybos viršininkas]]
 - [[objektai/zodynas/monopolis privati prekyba]]
@@ -157,8 +142,6 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - [[objektai/zodynas/vaitas Vilniaus vaitystė]]
 - [[objektai/zodynas/vaitas ir tarėjai]]
 - [[objektai/zodynas/činšas]]
-- [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]
-- [[objektai/ivykiai/Žygimanto privilegijos mėsinėms Vilniaus mieste suteikimas (1543 m.)]]
 - [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis)]]
 - [[objektai/zodynas/vietininkas]]

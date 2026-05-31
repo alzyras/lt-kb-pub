@@ -146,4 +146,3 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/posakiai/didžiuliu paklydimu]]

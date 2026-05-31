@@ -1,19 +1,10 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vytenio minoritams pastatyta bažnyčia'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - kraštas
@@ -27,29 +18,35 @@ tags:
 Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
-  teiginys: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
+  teiginys: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'''' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tiesa, arkivyskupui Isamui tarpininkaujant,
@@ -67,9 +64,7 @@ Nenurodyta
     krikščionybei ginti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

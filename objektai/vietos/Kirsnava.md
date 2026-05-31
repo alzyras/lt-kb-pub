@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Kirsnava'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - karas
@@ -27,13 +18,15 @@ tags:
 Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą; kai jis žygiavo atgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi jį persekioti, nukovė ir jį, ir 30 vyrų.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą; kai jis žygiavo atgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi jį persekioti, nukovė ir jį, ir 30 vyrų.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą; kai jis žygiavo atgal, paėmęs didelį grobį Kirsnavos valsčiuje514, priešai, leidęsi jį persekioti, nukovė ir jį, ir 30 vyrų.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė  į Sūduvą; kai jis žygiavo
@@ -46,8 +39,6 @@ Dusburgietis teigia, kad tikras brolis, su 100 raitelių iš Brandenburgo pilies
     sūduviai, dalyvavę tame kare ir viską matę.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

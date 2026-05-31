@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Gzovskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
@@ -26,16 +17,24 @@ tags:
 Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės 343 ## Puslapis 360 VILNIAUS MIESTO ISTORIJA// TOMAS karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o vėliau ir kur kitur ir pas ką tik.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės 343 ## Puslapis 360 VILNIAUS MIESTO ISTORIJA// TOMAS karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o vėliau ir kur kitur ir pas ką tik.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir pas ką suras, taip pat ir jos didenybės 343 ## Puslapis 360 VILNIAUS MIESTO ISTORIJA// TOMAS karalienės Barboros apdarus, kuriuos Gzovskis saugoja, o vėliau ir kur kitur ir pas ką tik.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tik po to, kas iš sumos atliks, tegu lygiomis dalimis
+    O atskirai jos didenybės Švedijos karalienės Kotrynos ir
+    jos didenybės karalaitės Onos aprangai iš tos pinigų sumos,
+    kurią jos didenybė ponia mūsų motina visą mirdama pali­
+    ko, jo didenybės Ispanijos karaliaus duotą Bellafoge Neapo­
+    lyje, paskiriame po penkiasdešimt tūkstančių auksinių tale­
+    rių, kurie po mūsų mirties pirmiausia tegu būna abidviem
+    išduoti. Tik po to, kas iš sumos atliks, tegu lygiomis dalimis
     su jos didenybe karalaite Sofija, Braunsbergo kunigaikštie­
     ne, jau paėmusią tokią sumą, tarpusavyje pasidalija kaip sa­
     vo nuosavą iš motinos paveldėtą turtą.
@@ -60,9 +59,7 @@ Visus mūsų apdarus, drabužius, esančius mūsų sau­ gyklose ir kur tik ir p
     kokiais kitais, kuriuos po mūsų ras.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

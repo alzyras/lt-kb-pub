@@ -1,11 +1,11 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas Botelis'
-sukurta: '2026-05-30'
+sukurta: '2026-05-31'
 variantai: []
 aliases: []
 saltiniai:
-  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1219 m.'
   - '1238 m.'
@@ -17,50 +17,70 @@ amziai:
 date_start: '1219'
 date_end: '1238'
 patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+atnaujinta: '2026-05-31'
 tags:
   - asmuo
-  - karas
   - mūšis
   - ordinas
+  - upė
 ---
 # Henrikas Botelis
 
 ## Santrauka
 
-Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi. Dusburgietis teigia, kad henriko Botelio.
+Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi.'
-  pagrindžia:
-    - c-001
 - t-002
-  teiginys: 'Dusburgietis teigia, kad henriko Botelio.'
+  teiginys: 'Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi.'
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi.'
+  teiginys: 'Dusburgietis teigia, kad henriko Botelio.'
   pagrindžia:
     - c-003
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ordino pajėgos buvo iškirstos „gintis ne-
+    suspėję“, dėl, matyt, naujos staigios atakos.
+
+    Taip „lauke prie Durbės upės“ žuvo
+    Livonijos magistras Burchardas Horn-
+    hauzenas, Prūsijos maršalas Henrikas Bo-
+    telis, su jais 150 Ordino brolių, kai kurie
+    kryžininkai, o paprastų karių „dievo žmo-
+    nių tokia daugybė, kad nesu nė girdėjęs
+    jų skaičiaus“, pažymi kronikininkas.
+    „Kai mūšis pasibaigė, kas krikščio-
+    nių gyvas liko, brolių ir ginklanešių,
+    piligrimų ir sembų, nebegalėdami
+    kovoti, iš baimės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+- c-002
   santrauka: 'Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
+    581), bet čia — jau ne Notangos teritorija.
+
     Kadangi prūsų daugėjo ir daugėjo, broliai galop buvo priversti sudaryti štai šitokią sutartį.
     Jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius,
-    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi. Šitokia sutartis nepatiko
-    dievo numylėtam broliui Jonui, Baigos vicekomtūrui, kuris nuoširdžiai įkalbinėjo brolius,
-    pasikliovus viešpačiu, drąsiai stoti į kovą.
+    kurių reikalavo prūsai, kad kiti, paimti  į nelaisvę, išliktų gyvi.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
+    - t-002
+- c-003
   santrauka: 'Dusburgietis teigia, kad henriko Botelio.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -94,39 +114,20 @@ Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Botel
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ordino pajėgos buvo iškirstos „gintis ne-
-    suspėję“, dėl, matyt, naujos staigios atakos.
-
-    Taip „lauke prie Durbės upės“ žuvo
-    Livonijos magistras Burchardas Horn-
-    hauzenas, Prūsijos maršalas Henrikas Bo-
-    telis, su jais 150 Ordino brolių, kai kurie
-    kryžininkai, o paprastų karių „dievo žmo-
-    nių tokia daugybė, kad nesu nė girdėjęs
-    jų skaičiaus“, pažymi kronikininkas.
-    „Kai mūšis pasibaigė, kas krikščio-
-    nių gyvas liko, brolių ir ginklanešių,
-    piligrimų ir sembų, nebegalėdami
-    kovoti, iš baimės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
+- [[objektai/grupes/Estai]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įkaitai]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/grupes/Pamedėnai]]
 - [[objektai/grupes/Varmiai]]
+- [[objektai/asmenys/Burchardas iš Hornhauzeno]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

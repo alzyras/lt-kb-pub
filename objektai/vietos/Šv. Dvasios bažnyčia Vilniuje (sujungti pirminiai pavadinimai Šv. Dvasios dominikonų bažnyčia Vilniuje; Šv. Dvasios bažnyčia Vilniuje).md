@@ -1,28 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1501 m.'
   - '1505 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1501'
 date_end: '1505'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigas
   - vieta
   - vyskupas
+amziai:
+  - 'XVI'
 ---
 # Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje)
 
@@ -31,44 +25,87 @@ tags:
 Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą. Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėtimo prie dominikonų vienuolyno Šv.'
-  pagrindžia:
-    - c-004
+
 - t-005
   teiginys: 'Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti.'
   pagrindžia:
     - c-005
+
+- t-004
+  teiginys: 'Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėtimo prie dominikonų vienuolyno Šv.'
+  pagrindžia:
+    - c-004
+
+- t-001
+  teiginys: 'Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv.'
+
+- c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Aleksandras
+    Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
+    glaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­
+    sios [bažnyčios] namelius, stovinčius žemiau Šventosios
+    Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­
+    ris tik tuo metu turės, taip pat ir du kitus namelius viršuje
+    už prieglaudos, ten pat, priešais Šv. Dvasios bažnyčią, kad
+    jų didenybės nupirktų iš tų, kieno bus, ir taip, kad jie pir­
+    miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
+    glauda būtų plečiama.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Suteikdamas Hozijui teisę pasta­
+    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
+    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
+    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
+    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
+    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
+    išlaidos, prie dominikonų Šv. Dvasios bažnyčios pastatyti vie­
+    šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
+    vaujant Vilniaus vyskupui18.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Daugelis jų garsėjo su­
+    manumu ir turtais, bet labiausiai buvo žinomas Onka Hrice-
+    vičius, turtingas įvairių nuomos mokesčių rinkikas daugelyje
+    Lietuvos miestų nuo Vilniaus iki Smolensko49. Aleksandras
     iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­
     vo kapeliono kunigo Korčiako mirties, jiems atidavė Šv. Dva­
     sios kleboniją, skyrė lėšų bažnyčiai ir vienuolynui statyti50.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pa-
@@ -86,53 +123,11 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     paveikslą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Hozijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos išlaidos, prie dominikonų Šv.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Suteikdamas Hozijui teisę pasta­
-    tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria
-    iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­
-    kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­
-    gumui paskirti labdaringą ir Vilniui labai svarbią įstaigą. Ho-
-    zijus buvo įpareigotas vėliau, kai jam sugrįš tilto statybos
-    išlaidos, prie dominikonų Šv. Dvasios bažnyčios pastatyti vie­
-    šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado­
-    vaujant Vilniaus vyskupui18.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­ glaudos praplėtimo prie dominikonų vienuolyno Šv.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Taipgi norime, kad supirktų dėl Šventosios Trejybės prie­
-    glaudos praplėtimo prie dominikonų vienuolyno Šv. Dva­
-    sios [bažnyčios] namelius, stovinčius žemiau Šventosios
-    Trejybės bažnyčios, ties Merkelio Savickio namu nuo to, ku­
-    ris tik tuo metu turės, taip pat ir du kitus namelius viršuje
-    už prieglaudos, ten pat, priešais Šv. Dvasios bažnyčią, kad
-    jų didenybės nupirktų iš tų, kieno bus, ir taip, kad jie pir­
-    miausia, kaip ir kiti, būtų leidžiami į prieglaudą, o ši prie­
-    glauda būtų plečiama.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+
 - c-005
-  santrauka: 'Dvasios vienuolyno tėvais reikalai taip susi­ klostė, kad apžiūrėjo tinkamą vietą, kurioje prieglaudą ir ki­ tus pagalbinius jos pastatus būtų galima patogiai pastatyti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Dvasios vienuolyno tėvais reikalai taip susi­
@@ -147,8 +142,6 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
     lektis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005

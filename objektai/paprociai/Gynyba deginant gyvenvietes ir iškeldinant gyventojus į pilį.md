@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Gynyba deginant gyvenvietes ir iškeldinant gyventojus į pilį'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - paprotys
@@ -26,29 +17,35 @@ tags:
 Olesnickis, užbėgdamas kryžiuočiams už akių, buvo priverstas paau­ koti miestą gelbėdamas pilis; įsakė tuojau pat sudeginti dar likusius šen bei ten po negandų namus, o jų gyventojus su manta ir maisto atsargomis iškeldinęs į Žemutinę pilį, pats stipriai.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Olesnickis, užbėgdamas kryžiuočiams už akių, buvo priverstas paau­ koti miestą gelbėdamas pilis; įsakė tuojau pat sudeginti dar likusius šen bei ten po negandų namus, o jų gyventojus su manta ir maisto atsargomis iškeldinęs į Žemutinę pilį, pats stipriai.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Olesnickis, užbėgdamas kryžiuočiams už akių, buvo priverstas paau­ koti miestą gelbėdamas pilis; įsakė tuojau pat sudeginti dar likusius šen bei ten po negandų namus, o jų gyventojus su manta ir maisto atsargomis iškeldinęs į Žemutinę pilį, pats stipriai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Už­
@@ -68,9 +65,7 @@ Nenurodyta
     stipriai įsitvirtino abiejose pilyse.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,23 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Tomas Akvinietis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1280 m.'
+date_start: '1280'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - popiežius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Tomas Akvinietis
 
@@ -26,13 +25,15 @@ tags:
 Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto mokinys bei pamokslininkų ordino vienuolis (Ptol.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto mokinys bei pamokslininkų ordino vienuolis (Ptol.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto mokinys bei pamokslininkų ordino vienuolis (Ptol.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
@@ -44,11 +45,24 @@ Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alber
                          42.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dusburgietis teigia, kad tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto mokinys bei pamokslininkų ordino vienuolis (Ptol.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Atsisakęs Regensburgo vyskupystės,  jis 18
+    metų triūsė Kelno mieste ir mirė, sulaukęs savo amžiaus 80-ųjų metų, 1280 viešpaties
+    metais, o palaidotas Kelne. Tuo pat metu garsėjo ir brolis Tomas Akvinietis, Alberto
+    mokinys bei pamokslininkų ordino vienuolis (Ptol. 22,18—20), vėliau popiežiaus Jono
+    XXII kanonizuotas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

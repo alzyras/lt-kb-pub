@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1972 m.'
+date_start: '1972'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
+amziai:
+  - 'XX'
 ---
 # Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)
 
@@ -19,54 +22,68 @@ tags:
 1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
   pagrindžia:
     - c-002
 
+- t-003
+  teiginys: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
-- c-001
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Siekdama
+    sumenkinti šį įvykį, sovietų valdžia paskelbė, kad R. Kalantos susideginimo
+    priežastis – sunki psichikos liga šizofrenija. Ši informacija neatitiko tikro-
+    vės – jaunuolis buvo sąmoningas ir suvokė savo veiksmus.
+    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
+    klausimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
   santrauka: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1972 m. gegužės 14 d. devyniolikme-
     tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
+    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
+    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė. R. Kalanta ligoninėje
+    mirė. Lietuvoje tai pirmas susideginimo, protestuojant prieš okupacinę
+    valdžią, atvejis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Romas Kalanta]]
+- [[objektai/posakiai/„Laisvę Lietuvai!“]]

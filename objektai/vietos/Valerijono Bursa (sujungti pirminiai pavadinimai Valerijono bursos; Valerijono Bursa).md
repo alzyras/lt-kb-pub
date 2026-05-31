@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Valerijono Bursa (sujungti pirminiai pavadinimai Valerijono bursos; Valerijono Bursa)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1579 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1579'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - mokslininkas
   - vieta
   - vyskupas
+amziai:
+  - 'XVI'
 ---
 # Valerijono Bursa (sujungti pirminiai pavadinimai Valerijono bursos; Valerijono Bursa)
 
@@ -30,17 +24,20 @@ tags:
 2mo: kad tie namai būtų vadinami Valerijono bursomis. Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­ dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­ žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­ dame du naujus, mūsų.
 
 ## Teiginiai
+
 - t-001
   teiginys: '2mo: kad tie namai būtų vadinami Valerijono bursomis.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­ dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­ žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­ dame du naujus, mūsų.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '2mo: kad tie namai būtų vadinami Valerijono bursomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar anksčiau minėtas Vilniaus vyskupas Protase-
@@ -55,13 +52,11 @@ tags:
     das už fundatoriaus sielą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvenantiems, būtų šiek tiek palengvintas skur­ dus gyvenimas, kad galėtų pasirūpinti, aišku, malkų, dar­ žovių ir kitų būtinų dalykų, davėme ir šiuo mūsų raštu duo­ dame du naujus, mūsų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tikimės, kad didžiai gerbiamas tė­
@@ -84,8 +79,6 @@ tags:
     Vyskupų gatvėje.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

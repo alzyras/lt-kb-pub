@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas iš Izenbergo'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1325 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1325'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
   - pilis
   - vyskupas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Henrikas iš Izenbergo
 
@@ -30,16 +26,18 @@ tags:
 Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą ir pritarimą,— to vyro, kuris itin rūpestingai ir uoliai ėjo jam patikėtas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą ir pritarimą,— to vyro, kuris itin rūpestingai ir uoliai ėjo jam patikėtas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą ir pritarimą,— to vyro, kuris itin rūpestingai ir uoliai ėjo jam patikėtas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie daugybės miestų bei pilių pastatymą
+    360 (353). Apie daugybės miestų bei pilių pastatymą
 
       1325 viešpaties metais brolis Henrikas iš Izenbergo, Karaliaučiaus komtūras, gavęs
     gerbiamojo vyro brolio Vernerio, didžiojo magistro, leidimą  ir pritarimą,— to vyro,
@@ -50,12 +48,10 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
 
 
     pagonis lietuvius, nors turime duomenų, jog patys kryžiuočiai siaubė krikščionių žemes,
-    netgi vyskupų valdas (žr.
+    netgi vyskupų valdas (žr. D. papildymus, 13 ir paaiškinimus).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konradas iš Dortmundo'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karas
@@ -27,13 +18,15 @@ tags:
 Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų išgriovė ir išžudė brolius bei krikščionis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų išgriovė ir išžudė brolius bei krikščionis.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su visa šeimyna, pamaldų ir karo reikalus išmanantį vyrą, užkariavo visas pilis, išskyrus Elbingą ir Baigą, jas ligi pamatų išgriovė ir išžudė brolius bei krikščionis.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Štai todėl prūsai271, susirinkę visi kaip vienas,
@@ -50,9 +43,7 @@ Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su vi
                    35.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

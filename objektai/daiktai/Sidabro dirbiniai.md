@@ -84,7 +84,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/autoriai/M. Michelbertas]]
-- [[objektai/asmenys/Matas (Pipino sūnus)]]
 - [[objektai/daiktai/Brūkšniuotoji keramika]]
 - [[objektai/autoriai/E. Danilaitė]]
 - [[objektai/autoriai/E. Radzvilovaitė]]

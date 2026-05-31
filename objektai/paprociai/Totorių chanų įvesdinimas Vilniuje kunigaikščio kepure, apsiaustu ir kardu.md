@@ -1,28 +1,22 @@
 ---
 tipas: paprotys
 pavadinimas: 'Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1418 m.'
   - '1419 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1418'
 date_end: '1419'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - ordinas
   - paprotys
   - tauta
+amziai:
+  - 'XV'
 ---
 # Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu
 
@@ -31,29 +25,35 @@ tags:
 Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­ dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra skelbęs.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­ dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra skelbęs.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais, klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­ dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra skelbęs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
@@ -93,9 +93,7 @@ Nenurodyta
     liko ištikimas Lietuvai bei paslaugus75 iki pat mirties.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

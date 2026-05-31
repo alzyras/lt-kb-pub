@@ -1,29 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Vakarų Lietuva'
-sukurta: '2026-05-20'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1949 m.'
   - '1951 m.'
   - '1952 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1949'
 date_end: '1952'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-20'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ginklas
   - tauta
   - vieta
+amziai:
+  - 'XX'
 ---
 # Vakarų Lietuva
 
@@ -32,16 +26,20 @@ tags:
 Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas, kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs). Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai. Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities vadu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pakeliui į suvažiavimą susitiko Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities vadu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pakeliui į suvažiavimą susitiko Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos partizanų vadų
@@ -70,10 +68,22 @@ Tačiau jie ## Puslapis 235 LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA 1949
 
     pateko į iš anksto parengtą pasalą ir pa-
     tyrę nuostolių buvo priversti grįžti atgal.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities vadu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kęstučio apygardos vadu, 1951 m. Vakarų Lietuvos (Jūros) srities
+    vadu. Silpstant ginkluotam pasipriešinimui 1952 m. įkūrė „Vyčių sąjungą,
+    kuri turėjo pasipriešinimo kovą tęsti intelektiniame ir
+    dvasiniame lygmenyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

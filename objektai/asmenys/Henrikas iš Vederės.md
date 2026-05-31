@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas iš Vederės'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1296 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1296'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - pilis
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Henrikas iš Vederės
 
@@ -29,16 +25,18 @@ tags:
 Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubimą 1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias pėdas; jomis nusekė.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
+    266 (259). Apie Gardino pilies apylinkių bei jos papilio nusiaubimą
 
       1296 viešpaties metų žiemą brolis Zigfridas iš Rechbergo, Baigos komtūras, su daugybe
     brolių bei raitelių iš Notangos patraukė link Lietuvos ir, priėjęs Gardino pilį, išvydo šviežias
@@ -49,9 +47,7 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
     iš žaizdų srūvančio kraujo pėdsakais, surado jį ir nudėjo.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -59,5 +55,6 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]
 - [[objektai/asmenys/Valteris, pravarde Goldinas]]
 - [[objektai/asmenys/Zigfridas iš Rechbergo]]

@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus tiltas per Viliją'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - pilis
@@ -27,24 +18,31 @@ tags:
 Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė. O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė.'
   pagrindžia:
     - c-002
+
 - t-003
   teiginys: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
   pagrindžia:
     - c-003
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus, kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto patirdavę, besikeliant per tą upę nukentėdavę jų daiktai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Kai mes ankstesniais metais svarstėme mūsų LDK val­
+    Šiuo raštu
+    skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
+    esantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­
+    sieks. Kai mes ankstesniais metais svarstėme mūsų LDK val­
     dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus,
     kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto
     patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­
@@ -79,39 +77,11 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     varomas parduoti, - vienas denaras arba obolas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Šis garbingasis Ulrikas Hozijus, 387 ## Puslapis 404 VILNIAUS MIESTO ISTORIJA// TOMAS patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir išlaidomis labai greitai ir rūpestingai susiruošė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Dvasios bažnyčios,
-    kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­
-    ti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus,
-    387
 
-    ## Puslapis 404
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą
-    Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir
-    išlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam
-    amžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­
-    kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas,
-    nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
-    gant laikui išskaičiavo ir susigrąžino.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'O kad toks tilto muitas, mūsų aukščiau nu­ statytas, teiktų gausesnius pelnus ir pajamas išlaikyti toms įstaigoms, kurioms juos paskyrėme, kaip aukščiau aprašyta­ me mūsų įstatyme pareikšta, nusprendėme, kad reikia visiems laikams uždrausti ir uždraudžiame.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tie, kuriuos minėtas garbingasis Jonas Hozijus
@@ -142,8 +112,31 @@ Kai mes ankstesniais metais svarstėme mūsų LDK val­ dinių, o ir kitų žmon
     žiūrą atimant turtą ir kitas bausmes skiriant.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dominyko ordino brolių pa­
+    mokslininkų vienuolyno, esančio prie Šv. Dvasios bažnyčios,
+    kur minėtame mūsų mieste Vilniuje galėtų būti apgyvendin­
+    ti ir pamaitinti bei prižiūrėti. Šis garbingasis Ulrikas Hozijus,
+    387
+
+    ## Puslapis 404
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    patenkindamas mūsų valią ir įsakymą, tokį tiltą per minėtą
+    Vilijos upę prie mūsų Vilniaus miesto didelėmis lėšomis ir
+    išlaidomis labai greitai ir rūpestingai susiruošė, pastatė ilgam
+    amžiui, kiek buvo įmanoma, sutvirtino ir muitą arba tilto mo­
+    kestį pagal mūsų aukščiau išdėstytą potvarkį nustatydamas,
+    nuo jo pinigus, kuriuos jis išleido minėto tilto statybai, bė­
+    gant laikui išskaičiavo ir susigrąžino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

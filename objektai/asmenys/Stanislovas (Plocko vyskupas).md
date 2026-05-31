@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Stanislovas (Plocko vyskupas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1386 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1386'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
   - vyskupas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Stanislovas (Plocko vyskupas)
 
@@ -29,13 +25,15 @@ tags:
 Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­ mes pašventino vyskupai: Kijevo - Mykolas ir Plocko - Stanislovas82.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tais
@@ -54,9 +52,7 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
     Stanislovas82.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -81,16 +77,13 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - [[objektai/asmenys/Bodzanta]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
 - [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]
-- [[objektai/asmenys/Elžbieta Pečkavičiūtė]]
 - [[objektai/daiktai/Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje]]
-- [[objektai/asmenys/Felicija Pečkavičiūtė]]
 - [[objektai/asmenys/Gabrielis Narutovičius]]
 - [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas|Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)]]
 - [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jonas Pečkavičius]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
 - [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
@@ -98,28 +91,22 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - [[objektai/asmenys/Kotryna II]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
 - [[objektai/ivykiai/LLV padalijimų aktų panaikinimas Sovietų Rusijoje]]
-- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/grupes/Lietuvos kunigaikščiai ir didikai]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/grupes/Mamoničių giminė]]
 - [[objektai/grupes/Oberostas]]
-- [[objektai/paprociai/Pabaisko bažnyčios dešimtinės, duoklių ir tarnybinių prievolių mokėjimo tvarka]]
-- [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]
 - [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
 - [[objektai/paprociai/Privalomas naujai išspausdintų knygų egzempliorių davimas kancleriams ir Viešajai bibliotekai]]
 - [[objektai/zodynas/Puslapis 67]]
 - [[objektai/zodynas/Puslapis 77]]
-- [[objektai/grupes/Radvilų giminė]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]
 - [[objektai/asmenys/Stanislovas Leščinskis]]
 - [[objektai/asmenys/Stanislovas Narutavičius]]
 - [[objektai/asmenys/Stanislovas Sabina]]
 - [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]
 - [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
-- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]
@@ -132,7 +119,6 @@ Jono bažnyčią, Vladislovo Jogailos lėšomis statyti pradėtą, Vytauto užba
 - [[objektai/zodynas/abdikacija]]
 - [[objektai/zodynas/amžinoji ugnis Gabija]]
 - [[objektai/zodynas/bursa konviktas]]
-- [[objektai/zodynas/dešimtinė]]
 - [[objektai/zodynas/dignitoriai]]
 - [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]
 - [[objektai/zodynas/kahalas]]

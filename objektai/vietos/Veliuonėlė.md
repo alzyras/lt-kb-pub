@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Veliuonėlė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - vieta
@@ -25,13 +16,15 @@ tags:
 Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­ lies ir Gedimino kalno šlaitus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ant pilkapio nuo neatme­
@@ -44,8 +37,6 @@ Mažas upeliu­ kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama P
     žuvusio Gedimino kapas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

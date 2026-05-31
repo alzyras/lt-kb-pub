@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Antisemitizmas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -24,51 +15,62 @@ tags:
 Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus supirkėjų ir atvirkščiai. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus supirkėjų ir atvirkščiai.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 167 Lietuvos piliečiai žydai ir lenkai Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus.'
   pagrindžia:
     - c-003
 
+- t-002
+  teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus supirkėjų ir atvirkščiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos piliečiai žydai ir lenkai
     Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes
     lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavu-
-    sių žydų pirklių ir derliaus supirkėjų ir atvirkščiai.
+    sių žydų pirklių ir derliaus supirkėjų ir atvirkščiai. Malonybiškai ir kartu
+    pašaipiai lietuvių vadinami „mūsų žydeliai“ (dėl to, kad nebuvo aukšto
+    ūgio ir užsiėmė valstiečių neigiamai vertinama prekyba, o ne „rimtu“
+    darbu) garsėjo visuotiniu raštingumu, pomėgiu knygai ir tuo atžvilgiu
+    buvo geras pavyzdys lietuvių tautiniam judėjimui, nors lietuviams atrodė
+    „kitokie“. Žydai lietuvių valstiečius matė kaip mažai civilizuotus kaimie-
+    čius, iš kurių jie tik pirko produkciją, o vos prasibrėžianti lietuvių kultūra
+    jiems, kaip ir lenkams, visiškai neimponavo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
+    Žydų miesto bendruomenės ir jų prekybos, finan-
+    sų pajėgų parama dar nelietuviškuose miestuose buvo svarbi ir vidaus,
+    ir užsienio politikos sumetimais. 1918 m. gruodį žydų sionistai Jokūbas
+    Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais atitin-
+    kamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų vi-
+    ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
     planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
     tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 167 Lietuvos piliečiai žydai ir lenkai Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavusių žydų pirklių ir derliaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     balandį atleido jį iš pareigų.
@@ -86,9 +88,7 @@ tags:
     „kitokie“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

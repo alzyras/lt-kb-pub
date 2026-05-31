@@ -1,25 +1,19 @@
 ---
 tipas: daiktas
 pavadinimas: 'Aleksandro laikų Vilniaus monetos ir kalyklos metalai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1505 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1505'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
+amziai:
+  - 'XVI'
 ---
 # Aleksandro laikų Vilniaus monetos ir kalyklos metalai
 
@@ -28,33 +22,40 @@ tags:
 Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51. A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
@@ -69,13 +70,11 @@ Nenurodyta
     1505 metų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pan Litawor Chrebtowicz, Marszałok
@@ -100,9 +99,7 @@ Nenurodyta
     me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

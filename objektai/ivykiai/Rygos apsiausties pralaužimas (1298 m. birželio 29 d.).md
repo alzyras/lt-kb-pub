@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1298 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1298'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - miestas
   - ordinas
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)
 
@@ -30,18 +24,23 @@ tags:
 Dusburgietis teigia, kad šie, susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio 29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę 549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad šie, susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio 29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę 549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p.'
   pagrindžia:
@@ -49,8 +48,8 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad šie, susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio 29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę 549 Goliubo pilis prie Drevantos, į šiaurės rytus nuo Torunės (SZCh, p.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1298 viešpaties
@@ -69,13 +68,11 @@ Nenurodyta
       549 Goliubo pilis prie Drevantos,  į šiaurės rytus nuo Torunės (SZCh, p. 36), dab.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Rygos apsiausties pralaužimas (1298 m. birželio 29 d.) papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1298 viešpaties
@@ -90,11 +87,9 @@ Nenurodyta
     Bertoldą Briuhaveną, Karaliaučiaus komtūrą, su daugybe brolių  ir ginklanešių. Šie,
     susijungę su Livonijos brolių kariuomene šventų Petro bei Povilo, apaštalų, dieną (birželio
     29), nukovė per 4 tūkstančius Rygos miestiečių ir lietuvių, kurie tuo metu buvo apsupę
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

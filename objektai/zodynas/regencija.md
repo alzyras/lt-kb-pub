@@ -68,5 +68,4 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija. regencija: su j
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Vosylius]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/grupes/Krimo totoriai]]

@@ -122,6 +122,7 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 ### Susiję objektai
 - [[objektai/grupes/Kazokai]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/grupes/Livonijos konfederacija]]
 - [[objektai/grupes/Rygos vyskupija]]

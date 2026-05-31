@@ -61,8 +61,6 @@ tags:
 - [[objektai/grupes/11 brigada]]
 - [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
 - [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]
-- [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
-- [[objektai/posakiai/Jų spalva, ženklai ar pavadinimas mums neturėjo jokios reikšmės]]
 - [[objektai/posakiai/MIRTIES AKIVAIZDOJE]]
 - [[objektai/grupes/Marijampolės batalionas]]
 - [[objektai/grupes/Mokomoji kuopa]]

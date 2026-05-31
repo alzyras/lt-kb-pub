@@ -121,6 +121,7 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
 - [[objektai/zodynas/Pusiau prezidentinė ir parlamentinė valdymo sistema]]
 - [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/grupes/Sapiegos]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/autoriai/Tadas Korsakas]]

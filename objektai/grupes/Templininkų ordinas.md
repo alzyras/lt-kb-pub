@@ -78,7 +78,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Turkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/žygis]]

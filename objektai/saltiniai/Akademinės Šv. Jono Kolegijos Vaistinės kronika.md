@@ -1,28 +1,22 @@
 ---
 tipas: saltinis
 pavadinimas: 'Akademinės Šv. Jono Kolegijos Vaistinės kronika'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1546 m.'
   - '1780 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVIII'
 date_start: '1546'
 date_end: '1780'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - saltinis
   - vyskupas
+amziai:
+  - 'XVI'
+  - 'XVIII'
 ---
 # Akademinės Šv. Jono Kolegijos Vaistinės kronika
 
@@ -31,17 +25,40 @@ tags:
 Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų ir pinigų užrašytų neturinti, buvo Collegii [kolegijos!
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jono Kolegijos Vaistinės kronika 1546.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų ir pinigų užrašytų neturinti, buvo Collegii [kolegijos!'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Jono Kolegijos Vaistinės kronika 1546.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų
+    ir pinigų užrašytų neturinti, buvo Collegii [kolegijos! lėšo­
+    182
+
+    ## Puslapis 199
+
+    Il KNYGA
+    mis įsteigta ir išlaikoma tik dėlei asmenų, in Collegio [kole­
+    gijoje] gyvenančių. Betgi pastaraisiais laikais, kelių vaisti­
+    ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip
+    dabar (1780 metais).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Jono Kolegijos Vaistinės kronika 1546.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     - • —
@@ -63,30 +80,6 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
     Trejybės Špitolei, Žr. D u b i ń s k i, p. 79.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų ir pinigų užrašytų neturinti, buvo Collegii [kolegijos!'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Toji vaistinė savo gyvavimo pradžioje, kaip jokių turtų
-    ir pinigų užrašytų neturinti, buvo Collegii [kolegijos! lėšo­
-    182
-
-    ## Puslapis 199
-
-    Il KNYGA
-    mis įsteigta ir išlaikoma tik dėlei asmenų, in Collegio [kole­
-    gijoje] gyvenančių. Betgi pastaraisiais laikais, kelių vaisti­
-    ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip
-    dabar (1780 metais).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Valkininkų konfederacijos nutarimas (1700 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1700 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1700'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - ivykis
+amziai:
+  - 'XVII'
 ---
 # Valkininkų konfederacijos nutarimas (1700 m.)
 
@@ -28,26 +22,31 @@ tags:
 Jų alga - trisdešimt livry už ketvirtį.“ suvažiavimas, priėmęs „Valkininkų nutarimą“, kuriuo buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai, nutarta atimti iš Sapiegų jų turėtas pareigybes, o dvarus konfiskuoti.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jų alga - trisdešimt livry už ketvirtį.“ suvažiavimas, priėmęs „Valkininkų nutarimą“, kuriuo buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai, nutarta atimti iš Sapiegų jų turėtas pareigybes, o dvarus konfiskuoti.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jų alga - trisdešimt livry už ketvirtį.“ suvažiavimas, priėmęs „Valkininkų nutarimą“, kuriuo buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai, nutarta atimti iš Sapiegų jų turėtas pareigybes, o dvarus konfiskuoti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jų alga - trisdešimt livry už ketvirtį.“
@@ -66,9 +65,7 @@ Nenurodyta
     7500 etatinių vienetų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

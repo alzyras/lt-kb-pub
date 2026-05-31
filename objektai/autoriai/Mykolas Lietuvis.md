@@ -51,10 +51,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
-  pagrindžia:
-    - c-002
 - t-009
   teiginys: 'Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.'
   pagrindžia:
@@ -67,14 +63,18 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginys: 'Mykolas Lietuvis rašė apie Keturiasdešimties Totorių kaimo pavadinimo kilmę.'
   pagrindžia:
     - c-006
-- t-013
-  teiginys: 'Cituojama pagal Mykolas Lietuvis.'
-  pagrindžia:
-    - c-007
 - t-014
   teiginys: 'Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.'
   pagrindžia:
     - c-008
+- t-015
+  teiginys: '(Kaip liudija Mykolas Lietuvis, jos su kitomis čia saugotomis sudegė per 1530 m. gaisrą).'
+  pagrindžia:
+    - c-009
+- t-016
+  teiginys: 'Cituojama pagal Mykolas Lietuvis.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,24 +94,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   pagrindžia:
     - t-006
     - t-007
-- c-002
-  santrauka: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Čia, valdovui grįžus, įvyko
-    triumfo iškilmės, eisenoje buvo vedami
-    belaisviai Maskvos karvedžiai ir kariai,
-    Vilniaus katedroje pakabintos trofėjinės
-    vėliavos. (Kaip liudija Mykolas Lietuvis,
-    jos su kitomis čia saugotomis sudegė per
-    1530 m. gaisrą).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 - c-003
   santrauka: 'Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -183,22 +165,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-- c-007
-  santrauka: 'Cituojama pagal Mykolas Lietuvis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    *
-    Cituojama pagal Mykolas Lietuvis.
-    Apie totorių, lietuvių ir maskvėnų
-    papročius, vertė M. Ročka. Vilnius,
-    1966, p. 39.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
 - c-008
   santrauka: 'Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -220,6 +186,40 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-009
+  santrauka: '(Kaip liudija Mykolas Lietuvis, jos su kitomis čia saugotomis sudegė per 1530 m. gaisrą).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Čia, valdovui grįžus, įvyko
+    triumfo iškilmės, eisenoje buvo vedami
+    belaisviai Maskvos karvedžiai ir kariai,
+    Vilniaus katedroje pakabintos trofėjinės
+    vėliavos. (Kaip liudija Mykolas Lietuvis,
+    jos su kitomis čia saugotomis sudegė per
+    1530 m. gaisrą).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-010
+  santrauka: 'Cituojama pagal Mykolas Lietuvis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    *
+    Cituojama pagal Mykolas Lietuvis.
+    Apie totorių, lietuvių ir maskvėnų
+    papročius, vertė M. Ročka. Vilnius,
+    1966, p. 39.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
@@ -230,3 +230,5 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]

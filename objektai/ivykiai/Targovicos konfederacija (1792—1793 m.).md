@@ -147,4 +147,3 @@ Nenurodyta
 - [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos konfederacija]]

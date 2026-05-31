@@ -1,27 +1,23 @@
 ---
 tipas: autorius
 pavadinimas: 'Karamzin'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1430 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1430'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - bajorija
   - karalius
   - kunigaikštis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Karamzin
 
@@ -30,13 +26,15 @@ tags:
 84 Kryžiuočių Slaptajame Archyve, Karaliaučiuje, yra Vy­ tauto laiškų, rašytų magistrui Rusdorfui (pasak Karamzino, V, p. 145) derybų dėl Lietuvos karūnos Vytau­ tui dingstimi, kur viename iš jų, da­ tuotame 1430 m. rugpjūčio mėn., didžiajam magistrui praneša.
 
 ## Teiginiai
+
 - t-001
   teiginys: '84 Kryžiuočių Slaptajame Archyve, Karaliaučiuje, yra Vy­ tauto laiškų, rašytų magistrui Rusdorfui (pasak Karamzino, V, p. 145) derybų dėl Lietuvos karūnos Vytau­ tui dingstimi, kur viename iš jų, da­ tuotame 1430 m. rugpjūčio mėn., didžiajam magistrui praneša.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '84 Kryžiuočių Slaptajame Archyve, Karaliaučiuje, yra Vy­ tauto laiškų, rašytų magistrui Rusdorfui (pasak Karamzino, V, p. 145) derybų dėl Lietuvos karūnos Vytau­ tui dingstimi, kur viename iš jų, da­ tuotame 1430 m. rugpjūčio mėn., didžiajam magistrui praneša.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     84
@@ -81,9 +79,7 @@ tags:
     jį buvo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

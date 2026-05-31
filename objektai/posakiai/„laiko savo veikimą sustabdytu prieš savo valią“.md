@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: '„laiko savo veikimą sustabdytu prieš savo valią“'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -24,13 +15,15 @@ tags:
 Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepatenkinti LV egzistavimu naciai liepos 23-iosios naktį voldemari-
@@ -43,9 +36,7 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
     veikimą sustabdytu prieš savo valią“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

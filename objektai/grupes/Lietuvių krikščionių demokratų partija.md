@@ -91,6 +91,4 @@ Lietuvos visuomenė dar nebuvo politiškai susipratusi.
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/grupes/Steigiamasis seimas]]
 - [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
-- [[objektai/grupes/Socialdemokratai]]
-- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Lietuvių valstiečių sąjunga]]

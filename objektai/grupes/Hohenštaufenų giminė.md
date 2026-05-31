@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Hohenštaufenų giminė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - grupe
@@ -27,13 +18,15 @@ tags:
 Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl Hohenštaufenų giminės žlu­ gimo, miestams suteikė lemiamą persvarą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl Hohenštaufenų giminės žlu­ gimo, miestams suteikė lemiamą persvarą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl Hohenštaufenų giminės žlu­ gimo, miestams suteikė lemiamą persvarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­
@@ -49,9 +42,7 @@ Dideli politinės padėties pokyčiai, radęsi Švabijoje ir Frankonijoje dėl H
     jungininkais.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

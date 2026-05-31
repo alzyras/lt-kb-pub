@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'F. Rolandas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1831 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1831'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - mūšis
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 ---
 # F. Rolandas
 
@@ -28,13 +24,15 @@ tags:
 Rolando pajėgas pasukti kairiau, Nėries link.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Rolando pajėgas pasukti kairiau, Nėries link.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Rolando pajėgas pasukti kairiau, Nėries link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     @ Priešo šaulių ir artilerijos ugnis
@@ -128,9 +126,7 @@ Rolando pajėgas pasukti kairiau, Nėries link.
     versti trauktis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

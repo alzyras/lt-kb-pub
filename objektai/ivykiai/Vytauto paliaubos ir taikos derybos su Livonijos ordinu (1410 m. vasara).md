@@ -71,7 +71,6 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/asmenys/B. Hevelmannu]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/maršalas]]

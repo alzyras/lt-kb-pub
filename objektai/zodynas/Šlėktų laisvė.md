@@ -103,5 +103,4 @@ Vartojama aiškinant feodalinio valdymo formas Lenkijoje ir Lietuvos kaimynystė
 - [[objektai/asmenys/Lokietka]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Feodalinis ir leninis valdymas]]
-- [[objektai/grupes/Riuriko giminė]]
 - [[objektai/asmenys/Vladislovas Lokietka]]

@@ -1,29 +1,23 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1179 m.'
   - '1697 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XVII'
 date_start: '1179'
 date_end: '1697'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - kunigaikštis
   - paprotys
   - tauta
+amziai:
+  - 'XII'
+  - 'XVII'
 ---
 # Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje
 
@@ -32,29 +26,35 @@ tags:
 50 ## Puslapis 67 I KNYGA las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­ mus rengęs.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '50 ## Puslapis 67 I KNYGA las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­ mus rengęs.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '50 ## Puslapis 67 I KNYGA las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­ mus rengęs.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad
@@ -111,9 +111,7 @@ Nenurodyta
     mus rengęs.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

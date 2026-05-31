@@ -1,26 +1,20 @@
 ---
 tipas: paprotys
 pavadinimas: 'Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1397 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1397'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - paprotys
   - vyskupas
+amziai:
+  - 'XIV'
 ---
 # Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą
 
@@ -29,29 +23,35 @@ tags:
 Kitais metais (1397 m.) atvykęs į Lie­ tuvą, Vladislovas Jogaila, kartu su kunigaikščiu Vytautu, atlygindami Vilniaus vyskupui Andriui už tokį dorą jo pa­ sišventimą, negailint savęs ir turto, nepaisant daugybės pa­ vojų, tykančių skleidžiant krikščioniškąjį.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kitais metais (1397 m.) atvykęs į Lie­ tuvą, Vladislovas Jogaila, kartu su kunigaikščiu Vytautu, atlygindami Vilniaus vyskupui Andriui už tokį dorą jo pa­ sišventimą, negailint savęs ir turto, nepaisant daugybės pa­ vojų, tykančių skleidžiant krikščioniškąjį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kitais metais (1397 m.) atvykęs į Lie­ tuvą, Vladislovas Jogaila, kartu su kunigaikščiu Vytautu, atlygindami Vilniaus vyskupui Andriui už tokį dorą jo pa­ sišventimą, negailint savęs ir turto, nepaisant daugybės pa­ vojų, tykančių skleidžiant krikščioniškąjį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     140
@@ -71,9 +71,7 @@ Nenurodyta
     šimtą, kol neįsigalės taika tarp Lietuvos ir kryžiuočių59.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

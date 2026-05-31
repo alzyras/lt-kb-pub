@@ -327,6 +327,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/grupes/Pskovo respublika]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/asmenys/Tomas Survila]]
 - [[objektai/grupes/Totorių pajėgos]]
@@ -343,4 +344,3 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/daiktai/Šarvinės pirštinės]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
-- [[objektai/asmenys/Tochtamišas]]

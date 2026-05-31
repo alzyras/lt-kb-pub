@@ -1,28 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Senoji Torunė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1231 m.'
   - '1233 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1231'
 date_end: '1233'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - ordinas
   - pilis
   - privilegija
+amziai:
+  - 'XIII'
 ---
 # Senoji Torunė
 
@@ -31,17 +25,33 @@ tags:
 Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Dusburgietis teigia, kad dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai, dalyvavę 1231 m. puolime į Kulmo žemę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.).'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai, dalyvavę 1231 m. puolime į Kulmo žemę.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.).'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
+    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
+    rankose, ji naudota kaip gyvulininkystės dvaras.
+      Kaip rodo archeologiniai tyrimai, dab.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.).'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Senojoje Torunėje greta pilies augo miestas (gavęs privilegiją 1233 m.). Privilegijos
@@ -51,22 +61,6 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
     133; Jasiński T. Przedmieścia..., 4 žemėl.).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai, dalyvavę 1231 m. puolime į Kulmo žemę.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgo minimi 7 broliai Senojoje Torunėje — tai veikiausiai ne įgula, o riteriai,
-    dalyvavę 1231 m. puolime į Kulmo žemę. Senosios Torunės pilaitė ir toliau liko Ordino
-    rankose, ji naudota kaip gyvulininkystės dvaras.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

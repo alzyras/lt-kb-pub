@@ -38,7 +38,7 @@ tags:
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vytautas 1430 m. rugpjūtį magistrui Rusdorfui pranešė apie Maskvos ir Tverės didžiųjų kunigaikščių atvykimą į Lietuvą.'
+  teiginys: '84 Kryžiuočių Slaptajame Archyve, Karaliaučiuje, yra Vy­ tauto laiškų, rašytų magistrui Rusdorfui (pasak Karamzino, V, p. 145) derybų dėl Lietuvos karūnos Vytau­ tui dingstimi, kur viename iš jų, da­ tuotame 1430 m. rugpjūčio mėn., didžiajam magistrui praneša.'
   pagrindžia:
     - c-002
 
@@ -66,7 +66,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vytautas 1430 m. rugpjūtį magistrui Rusdorfui pranešė apie Maskvos ir Tverės didžiųjų kunigaikščių atvykimą į Lietuvą.'
+  santrauka: '84 Kryžiuočių Slaptajame Archyve, Karaliaučiuje, yra Vy­ tauto laiškų, rašytų magistrui Rusdorfui (pasak Karamzino, V, p. 145) derybų dėl Lietuvos karūnos Vytau­ tui dingstimi, kur viename iš jų, da­ tuotame 1430 m. rugpjūčio mėn., didžiajam magistrui praneša.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     84
@@ -91,6 +91,10 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
 - [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
 - [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris]]
@@ -100,4 +104,3 @@ tags:
 - [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
 - [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

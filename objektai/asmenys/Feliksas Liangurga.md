@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Feliksas Liangurga'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1527 m.'
   - '1552 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1527'
 date_end: '1552'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - miestas
   - privilegija
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Feliksas Liangurga
 
@@ -31,17 +27,43 @@ tags:
 Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, o kartu ir kaip karalių teisingumo i Žygimanto Senojo laikais, nuo 1527 iki 1552 metų, Vilniaus vaitas buvo Feliksas Liangurga, Krokuvos mies­ tietis, tą patvirtina miesto aktuose. Pridedame tiktai dar tą pastabą, kad 1548 metais, kai iš Vilniaus miesto turėjo būti pa­ skelbtas liudijimas su anuo antspau­ du, kaip tvirtina šio straipsnio auto­ rius, - Vilniaus vaitas tada buvo Feliksas Liangurga, kilęs iš Kroku­ vos, uolus katalikas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, o kartu ir kaip karalių teisingumo i Žygimanto Senojo laikais, nuo 1527 iki 1552 metų, Vilniaus vaitas buvo Feliksas Liangurga, Krokuvos mies­ tietis, tą patvirtina miesto aktuose.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Pridedame tiktai dar tą pastabą, kad 1548 metais, kai iš Vilniaus miesto turėjo būti pa­ skelbtas liudijimas su anuo antspau­ du, kaip tvirtina šio straipsnio auto­ rius, - Vilniaus vaitas tada buvo Feliksas Liangurga, kilęs iš Kroku­ vos, uolus katalikas.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ne­
+    įmanoma suprasti. Pridedame tiktai
+    dar tą pastabą, kad 1548 metais, kai
+    iš Vilniaus miesto turėjo būti pa­
+    skelbtas liudijimas su anuo antspau­
+    du, kaip tvirtina šio straipsnio auto­
+    rius, - Vilniaus vaitas tada buvo
+    Feliksas Liangurga, kilęs iš Kroku­
+    vos, uolus katalikas; tad jau jis nie­
+    kad nebūtų naudojęs stabmeldžių
+    antspaudo. Taip pat raidės MR po
+    herbu negalėtų reikšti jo inicialų, o
+    prie jų esantis kryžius negalėtų tu­
+    rėti jokio ryšio su milžinu Alkiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
-  santrauka: 'Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, o kartu ir kaip karalių teisingumo i Žygimanto Senojo laikais, nuo 1527 iki 1552 metų, Vilniaus vaitas buvo Feliksas Liangurga, Krokuvos mies­ tietis, tą patvirtina miesto aktuose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Miesto archyvas, kaip sostinės piliečių lais­
@@ -64,36 +86,9 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
     joru (Nobilis).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Pridedame tiktai dar tą pastabą, kad 1548 metais, kai iš Vilniaus miesto turėjo būti pa­ skelbtas liudijimas su anuo antspau­ du, kaip tvirtina šio straipsnio auto­ rius, - Vilniaus vaitas tada buvo Feliksas Liangurga, kilęs iš Kroku­ vos, uolus katalikas.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Ne­
-    įmanoma suprasti. Pridedame tiktai
-    dar tą pastabą, kad 1548 metais, kai
-    iš Vilniaus miesto turėjo būti pa­
-    skelbtas liudijimas su anuo antspau­
-    du, kaip tvirtina šio straipsnio auto­
-    rius, - Vilniaus vaitas tada buvo
-    Feliksas Liangurga, kilęs iš Kroku­
-    vos, uolus katalikas; tad jau jis nie­
-    kad nebūtų naudojęs stabmeldžių
-    antspaudo. Taip pat raidės MR po
-    herbu negalėtų reikšti jo inicialų, o
-    prie jų esantis kryžius negalėtų tu­
-    rėti jokio ryšio su milžinu Alkiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Išganytojo (Spaso) bažnyčia Vilniuje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1505 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1505'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - karas
   - miestas
   - pilis
+amziai:
+  - 'XVI'
 ---
 # Išganytojo (Spaso) bažnyčia Vilniuje
 
@@ -30,13 +24,15 @@ tags:
 Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spaso) bažnyčia ir penktuosius - nuo Pilies.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tad 1505 metais, kai tie barbarai buvo mažumėlę
@@ -52,8 +48,6 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
     so) bažnyčia ir penktuosius - nuo Pilies.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

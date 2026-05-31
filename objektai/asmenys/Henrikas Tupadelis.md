@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Henrikas Tupadelis'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
@@ -26,16 +17,20 @@ tags:
 Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas, ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus] piliai padegti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Henrikas
+    Galop vieną dieną visi pakilo  į
+    kovą, lankininkai [šaudė] strėles, apgulos mašinos [mėtė] akmenis, kiti nešė malkų
+    bei šiaudų piliai padegti, o likusieji dar kitais būdais kamavo apsuptuosius. Henrikas
     Tupadelis, kuris vėliau tapo Teutonų ordino broliu, puikus karys ir įgudęs balistininkas,
     ragino apsuptuosius gintis ir drauge su jais daug kartų gesino degalus, [pakišamus]
     piliai padegti. Šioje smarkioje kovoje daug netikėlių buvo nukauta ir mirtinai sužeista, o
@@ -45,9 +40,7 @@ Dusburgietis teigia, kad henrikas Tupadelis, kuris vėliau tapo Teutonų ordino 
     jam ranką prie mašinos; visa tai pamatę, netikėliai pabūgo ir nutraukė apgultį.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

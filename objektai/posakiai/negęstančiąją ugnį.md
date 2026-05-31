@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'negęstančiąją ugnį'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tikėjimas
@@ -25,23 +16,26 @@ tags:
 Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Be to, jie garbino, kaip buvo įprasta
+    Toks didelis buvo jo autoritetas,
+    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
+    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
+    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
     senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
     žinoma, [tikėjo] ne taip, kaip dera.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

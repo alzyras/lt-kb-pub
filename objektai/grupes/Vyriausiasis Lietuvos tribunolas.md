@@ -46,7 +46,7 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: '1785 m. kovo 14 d. Pabaisko bažnyčios fundacijos privilegija buvo pateikta įrašyti į Vyriausiojo Lietuvos tribunolo knygas.'
+  teiginys: '238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.'
   pagrindžia:
     - c-004
 
@@ -105,7 +105,7 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
   pagrindžia:
     - t-003
 - c-004
-  santrauka: '1785 m. kovo 14 d. Pabaisko bažnyčios fundacijos privilegija buvo pateikta įrašyti į Vyriausiojo Lietuvos tribunolo knygas.'
+  santrauka: '238 ## Puslapis 255 PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS TREČIOSIOS KNYGOS I PABAISKO BAŽNYČIOS FUNDACIJA Išrašas iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygų, tvarkytų Vilniuje Metais tūkstantis septyni šimtai aštuoniasdešimt penktais kovo mėnesio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     238
@@ -164,8 +164,11 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/fundacija]]
 - [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/klebonija]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/maršalka]]

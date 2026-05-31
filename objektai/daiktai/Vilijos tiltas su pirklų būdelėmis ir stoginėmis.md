@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vilijos tiltas su pirklų būdelėmis ir stoginėmis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1529 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1529'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
   - miestas
   - tauta
+amziai:
+  - 'XVI'
 ---
 # Vilijos tiltas su pirklų būdelėmis ir stoginėmis
 
@@ -30,33 +24,40 @@ tags:
 Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­ dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų. Suteikdamas Hozijui teisę pasta­ tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­ kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­ gumui paskirti labdaringą ir Vilniui.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­ dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Suteikdamas Hozijui teisę pasta­ tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­ kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­ gumui paskirti labdaringą ir Vilniui.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­ tautas, Vilniaus vaivada ir LDK kancleris, gavo karaliaus lei­ dimą priešais Žemutinės Vilniaus pilies vartus, per Vilijos upę nutiesti tiltą iš akmenų arba plytų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taip pat šiek tiek vėliau, 1529 metais, Albertas Goš­
@@ -69,13 +70,11 @@ Nenurodyta
     kėto potvynio metu priskirta Vilniaus miestiečiams17.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Suteikdamas Hozijui teisę pasta­ tyti tiltą per Viliją, kad būtų pakeista nepatogi perkėla, kuria iki tol buvo naudojamasi, karalius leido imti tam tikrą mo­ kestį nuo pravažiuojančių; be to, jis nutarė visuomenės pato­ gumui paskirti labdaringą ir Vilniui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Suteikdamas Hozijui teisę pasta­
@@ -92,9 +91,7 @@ Nenurodyta
     statybą užbaigė jo sūnus Jonas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

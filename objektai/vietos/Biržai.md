@@ -44,14 +44,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Biržus jau 26 d. buvo išvadavęs Šiaurės Lietuvoje veikęs partizanų batalionas.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Švedai išvežė ją iš Biržų 1625 m. niją, turėdamas daug reikalų namie, nebenorėjo kariauti.'
   pagrindžia:
@@ -60,7 +52,14 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginys: 'Tokios pat mokyklėlės liko Biržuose ir Slucke.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Biržus jau 26 d. buvo išvadavęs Šiaurės Lietuvoje veikęs partizanų batalionas.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Biržai ir Kėdainiai buvo vienos Radvilų šeimos šakos centrai.'
@@ -89,36 +88,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Biržus jau 26 d. buvo išvadavęs Šiaurės Lietuvoje veikęs partizanų batalionas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Biržus jau 26 d. buvo išvadavęs Šiaurės
-    Lietuvoje veikęs partizanų batalionas.
-    Galiausiai bolševikai gegužės 30-31 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kalvinizmas vėliau pradėjo nykti, tačiau išliko
-    iki šių dienų. Apie Biržus gyvenantys evangelikai reformatai yra tiesiogi-
-    niai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vado-
-    vavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.
-    Reformacija tapo nauju lenkėjimo postūmiu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Švedai išvežė ją iš Biržų 1625 m. niją, turėdamas daug reikalų namie, nebenorėjo kariauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -148,3 +117,34 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    šeštajame–septintajame dešimtmetyje beveik visi didikai buvo
+    perėję į reformaciją ir sekuliarizavę savo pačių funduotas bažnyčias – tai
+    sudarė pusę visų bažnyčių. Kalvinizmas vėliau pradėjo nykti, tačiau išliko
+    iki šių dienų. Apie Biržus gyvenantys evangelikai reformatai yra tiesiogi-
+    niai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vado-
+    vavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Biržus jau 26 d. buvo išvadavęs Šiaurės Lietuvoje veikęs partizanų batalionas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    užėmė Troškūnus ir Subačių.
+    Biržus jau 26 d. buvo išvadavęs Šiaurės
+    Lietuvoje veikęs partizanų batalionas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

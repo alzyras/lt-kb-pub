@@ -1,24 +1,18 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'lotyniškos apskaitos formulės spaustuvės kronikoje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '2000 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '2000'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
+amziai:
+  - 'XX'
 ---
 # lotyniškos apskaitos formulės spaustuvės kronikoje
 
@@ -27,15 +21,22 @@ tags:
 Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­ doms] - spaudmenims, popieriui, atlyginimams, rinkėjams ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau kaip 20 žmonių maitinimui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­ doms] - spaudmenims, popieriui, atlyginimams, rinkėjams ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau kaip 20 žmonių maitinimui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­ doms] - spaudmenims, popieriui, atlyginimams, rinkėjams ir spausdintojams, prefekto ir padėjėjo išlaikymui, daugiau kaip 20 žmonių maitinimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Nėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­
+    kiamą naudą ir paskutiniojoje privilegijoje išsakytą sąlygą,
+    kad nuo kiekvienos naujai išspausdintos knygos po vieną
+    egzempliorių privalo duoti Lietuvos kancleriams ir Viešajai
+    bibliotekai.
     Spaustuvės lėšas sudaro pajamos, gautos už parduotas
     joje spausdintas knygas, ir a demptis expensis [iš gautų išlai­
     doms] - spaudmenims, popieriui, atlyginimams, rinkėjams
@@ -49,9 +50,7 @@ Spaustuvės lėšas sudaro pajamos, gautos už parduotas joje spausdintas knygas
     nio alaus oxeftą duoti tenebatur [privalėjo].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

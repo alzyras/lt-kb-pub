@@ -1,16 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'M. Gorbačiovo ultimatumas ir sovietų kariuomenės veiksmai Lietuvoje (1991 m. sausio 10–11 d.)'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1991 m.'
+date_start: '1991'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kraštas
+amziai:
+  - 'XX'
 ---
 # M. Gorbačiovo ultimatumas ir sovietų kariuomenės veiksmai Lietuvoje (1991 m. sausio 10–11 d.)
 
@@ -19,44 +22,76 @@ tags:
 Tačiau 1991 m. sausio 10 d. M.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Sovietų kariuomenė ir specialios paskirties būriai „Alfa“ turėjo įsikišti į „pilietinį konfliktą“ ir nuversti teisėtą Lietuvos valdžią.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Tačiau 1991 m. sausio 10 d. M.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Sovietų kariuomenė ir specialios paskirties būriai „Alfa“ turėjo įsikišti į „pilietinį konfliktą“ ir nuversti teisėtą Lietuvos valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Promaskviniai būriai turėjo įsiveržti
+    Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
+    vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
+    ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vė-
+    liau – Vilniaus geležinkelio mazgą. Promaskviniai būriai turėjo įsiveržti
     į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskir-
     ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
     Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
     ir nuversti teisėtą Lietuvos valdžią.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Tačiau 1991 m. sausio 10 d. M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau 1991 m.
+    sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
+    pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
+    mą. Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
+    vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
+    ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vė-
+    liau – Vilniaus geležinkelio mazgą. Promaskviniai būriai turėjo įsiveržti
+    į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskir-
+    ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
+    Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
+    ir nuversti teisėtą Lietuvos valdžią. Įgyvendinti šį scenarijų sovietams
+    nepavyko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Kazimiera Prunskienė]]

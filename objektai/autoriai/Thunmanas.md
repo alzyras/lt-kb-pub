@@ -1,19 +1,10 @@
 ---
 tipas: autorius
 pavadinimas: 'Thunmanas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kraštas
@@ -27,16 +18,23 @@ tags:
 i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos kilmę, kol kas to dar neketinu šia­ me veikale aptarti; vis dėlto turiu pripažinti, kad švedų mokslininko Thunmano tyrinėjimai ir prie­ laidos panašiausios į tiesą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos kilmę, kol kas to dar neketinu šia­ me veikale aptarti; vis dėlto turiu pripažinti, kad švedų mokslininko Thunmano tyrinėjimai ir prie­ laidos panašiausios į tiesą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos kilmę, kol kas to dar neketinu šia­ me veikale aptarti; vis dėlto turiu pripažinti, kad švedų mokslininko Thunmano tyrinėjimai ir prie­ laidos panašiausios į tiesą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Kraštas, ku­
+    Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
     rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
     jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
     tuvių tautos padermių gyvenvietė: Žemaitijos, arba
@@ -56,9 +54,7 @@ i Kol istorikai neįstengė rasti patiki­ mos išvados apie lietuvių tautos ki
     tis Cap.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

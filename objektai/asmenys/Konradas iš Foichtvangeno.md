@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Konradas iš Foichtvangeno'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1279 m.'
   - '1295 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1279'
 date_end: '1295'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ginklas
   - karas
   - ordinas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Konradas iš Foichtvangeno
 
@@ -31,62 +27,48 @@ tags:
 Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai pasirodęs viešpats apreiškė regėjime šį pralaimėjimą. Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus. Dusburgietis teigia, kad praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti, 494 Žuvo 1279.111.5 prie dab. Aizkrauklės (buv. Ašeradė) prie Dauguvos, kur Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę (Varakauskas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai pasirodęs viešpats apreiškė regėjime šį pralaimėjimą.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai pasirodęs viešpats apreiškė regėjime šį pralaimėjimą.'
+  pagrindžia:
+    - c-001
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti, 494 Žuvo 1279.111.5 prie dab. Aizkrauklės (buv. Ašeradė) prie Dauguvos, kur Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę (Varakauskas.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko į Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras, ir, išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir paguodė.'
   pagrindžia:
     - c-004
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai pasirodęs viešpats apreiškė regėjime šį pralaimėjimą.'
+
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie tą patį
+    Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
+    Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,
+    išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir
+    paguodė juos išmintingais žodžiais ir pamokymais.
 
-      Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado
-    iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai
-    pasirodęs viešpats apreiškė regėjime šį pralaimėjimą. Ji matė brolius bei jų ginklanešius
-    kovojančius su netikėliais ir žūstančius ir jų sielas angelų nešamas į dangų.
+
+
+
+                 265 (258). Apie Kimelio pilies sunaikinimą 1296 metais
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+    - t-004
 
-       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
-    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
-    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
-    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
-    metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
-
-      494  Žuvo 1279.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Dusburgietis teigia, kad praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti, 494 Žuvo 1279.111.5 prie dab. Aizkrauklės (buv. Ašeradė) prie Dauguvos, kur Lietuvos kariuomenė sumušė Livonijos ordino bei Revelio (Talino) danų riterių kariuomenę (Varakauskas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
@@ -98,31 +80,59 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
     atsisakė savo pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko į Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras, ir, išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir paguodė.'
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Tuo metu (1295 metais), kai prūsų atskalūnybė dar nebuvo išsikvėpusi, atvyko  į
-    Prūsijos žemę brolis Konradas iš Foichtvangeno, Teutonų ordino didysis magistras,  ir,
-    išvydęs, kokios sunkios negandos ją slegia, parėmė brolius brangiausiomis dovanomis ir
-    paguodė juos išmintingais žodžiais ir pamokymais.
+    86 (82). Apie tą patį
 
-
-
-
-                 265 (258).
+      Viename Vokietijos vienuolyne gyveno dievui atsidavusi moteris, brolio Konrado
+    iš Foichtvangeno354, vėliau tapusio Teutonų ordino didžiuoju magistru, sesuo, kuriai
+    pasirodęs viešpats apreiškė regėjime šį pralaimėjimą. Ji matė brolius bei jų ginklanešius
+    kovojančius su netikėliais ir žūstančius ir jų sielas angelų nešamas į dangų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-001
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+
+       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais. Praslinkus vieniems metams, jis, jausdamas, jog nestengsiąs abi žemes valdyti,
+
+      494  Žuvo 1279.111.5 prie dab.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-005
+  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    201 (196). Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+
+       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -134,5 +144,7 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]
+- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
+- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
 - [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

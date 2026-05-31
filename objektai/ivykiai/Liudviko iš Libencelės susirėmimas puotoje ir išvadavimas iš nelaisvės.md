@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - ivykis
@@ -25,30 +16,36 @@ tags:
 Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti. Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Jį, paimtą  į nelaisvę,
@@ -62,13 +59,11 @@ Nenurodyta
     kalaviju nukovė savo varžovą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo vienas minėtojo Skomanto šeimynykštis [famulus] ir sugrąžino pas brolius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Šitai išgirdęs, brolis Liudvikas įsidrąsinęs
@@ -81,9 +76,7 @@ Nenurodyta
                  211 (206).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

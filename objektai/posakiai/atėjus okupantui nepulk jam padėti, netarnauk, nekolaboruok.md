@@ -1,26 +1,20 @@
 ---
 tipas: posakis
 pavadinimas: 'atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1940 m.'
   - '1990 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1940'
 date_end: '1990'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
+amziai:
+  - 'XX'
 ---
 # atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok
 
@@ -29,15 +23,21 @@ tags:
 Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupacijų lietuvių visuomenė aptarė savo istoriją, jausdamasi gavusi sunkią, bet esminę moralinę pamoką – atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok – tave gali panaudoti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupacijų lietuvių visuomenė aptarė savo istoriją, jausdamasi gavusi sunkią, bet esminę moralinę pamoką – atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok – tave gali panaudoti.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupacijų lietuvių visuomenė aptarė savo istoriją, jausdamasi gavusi sunkią, bet esminę moralinę pamoką – atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok – tave gali panaudoti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai leidžia kalbėti apie išprususią, imlią ir mobilią Lietuvos visuomenę,
+    galinčią kaip lygi su lygia konkuruoti su vakarietiška visuomene, kurios
+    laimėjimai nepriklausomybės pradžioje daugumai lietuvių atrodė kaip
+    nepasiekiamas idealas.
     Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų
     okupacijų lietuvių visuomenė aptarė savo istoriją, jausdamasi gavusi sun-
     kią, bet esminę moralinę pamoką – atėjus okupantui nepulk jam padėti,
@@ -49,9 +49,7 @@ Po išgyventų dramatiškų 1940–1990 m. sovietų, nacių, vėl sovietų okupa
     klausimai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

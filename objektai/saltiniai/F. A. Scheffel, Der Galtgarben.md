@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'F. A. Scheffel, Der Galtgarben'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
 ---
@@ -24,13 +15,15 @@ tags:
 Dusburgietis teigia, kad wegweiser.., p. 95, 97; GAO, p. 33—34; Łowmiański H., Studja.., 2, p. 36; Scheffel F.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad wegweiser.., p. 95, 97; GAO, p. 33—34; Łowmiański H., Studja.., 2, p. 36; Scheffel F.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad wegweiser.., p. 95, 97; GAO, p. 33—34; Łowmiański H., Studja.., 2, p. 36; Scheffel F.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     304; PUB, 2, 2,
@@ -41,8 +34,6 @@ Dusburgietis teigia, kad wegweiser.., p. 95, 97; GAO, p. 33—34; Łowmiański H
     6; HGAPW).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

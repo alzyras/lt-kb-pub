@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Mata'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,38 +18,30 @@ tags:
 Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar XIV a. Dusburgietis teigia, kad šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata; kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė Kristaus tikėjimą222. Dusburgietis teigia, kad šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar XIV a.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata; kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė Kristaus tikėjimą222.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus.'
   pagrindžia:
     - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar XIV a.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Štai pirmosiose  kovose prieš Ordiną
-    žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
-    XIV a. viduryje134. Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata; kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė Kristaus tikėjimą222.'
   pagrindžia:
-    - t-001
+    - c-002
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata; kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė Kristaus tikėjimą222.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;
+    Neilgai trukus  jis išdavė
+    savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
+    ir ten po medžiu pakorė221. Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;
     kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
     uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
     Kristaus tikėjimą222.
@@ -70,16 +53,31 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
                      8.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus.'
+
+- c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti
+    Iš jų pažymėtinas Martynas iš Golino, traukdavęs į žygį su Rudino, o vėliau
+    su Karaliaučiaus broliais (III, 156—157, 198—199, 228—229) ir kt.
+      Daug žinių galėjo duoti ir Ordinui paklusę prūsai, ypač kilmingieji, buvę vadai, gerai
+    pažinoję teritoriją, kelius ir žmones (III, 74, 223). Štai pirmosiose  kovose prieš Ordiną
+    žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar
+    XIV a. viduryje134. Vardijami taip pat kai kurie skalviai, pagaliau ir lietuviai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
+    o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
+    grobio. Šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti
     iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu
     Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus,
     atsakė: „Palikime savo arklius toli užpakalyje, kad neturėtume vilties prie jų sugrįžti, ir
@@ -89,9 +87,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     mūšyje atsilaikyti dėl sunkių ginklų.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 

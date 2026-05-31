@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Venedai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1387 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1387'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
   - miestas
   - tauta
+amziai:
+  - 'XIV'
 ---
 # Venedai
 
@@ -30,17 +24,20 @@ tags:
 Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos). Prancūzijoje, Aljė departa­ mente, esama mineralinių vandenų, vadinamų Neris, prie taip pat pava­ dinto miestelio, išsidriekusio tarp Šero ir Luaros upių, kur X amžiuje siekė normanų antpuoliai ir netgi jų gyvenvietės - slavų, venedų, gyve­ nančių Hanoverio.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Prancūzijoje, Aljė departa­ mente, esama mineralinių vandenų, vadinamų Neris, prie taip pat pava­ dinto miestelio, išsidriekusio tarp Šero ir Luaros upių, kur X amžiuje siekė normanų antpuoliai ir netgi jų gyvenvietės - slavų, venedų, gyve­ nančių Hanoverio.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     12
@@ -72,13 +69,11 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     vietės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Prancūzijoje, Aljė departa­ mente, esama mineralinių vandenų, vadinamų Neris, prie taip pat pava­ dinto miestelio, išsidriekusio tarp Šero ir Luaros upių, kur X amžiuje siekė normanų antpuoliai ir netgi jų gyvenvietės - slavų, venedų, gyve­ nančių Hanoverio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Mūsų kaimiečiai
@@ -93,12 +88,14 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
     gyvenvietės - slavų, venedų, gyve­
     nančių Hanoverio žemėje prie Elbės
     žemupio, netoli nuo Lūchovo, kal­
-    ba žodis Vilija reiškia valią. Žr.
+    ba žodis Vilija reiškia valią. Žr. Voy­
+    age^ dans quelques parties de Ia Basse
+    Saxe, pour Ia recherche des antiquites
+    Slaves ou Vendes, fait en 1794, par le
+    Comte Jean Potocki, p. 63, tit.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -119,6 +119,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/pastočiai]]

@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Butigeidis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - dinastija
@@ -25,16 +16,19 @@ tags:
 Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    jis įsitraukė į politinį gyvenimą ir,
+    Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
+    kunigaikštijos ir tapęs vienuoliu. 1264 m. jis įsitraukė į politinį gyvenimą ir,
     susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.
     Gediminaičių dinastijos iškilimas
     XIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-
@@ -42,9 +36,7 @@ Butigeidis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo prie�
     Vytenis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

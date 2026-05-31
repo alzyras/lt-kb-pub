@@ -39,19 +39,18 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Švitrigailos įkalbėtas Ordinas trimis kryptimis puolė Lenkiją, ją puolė ir Moldavija.'
   pagrindžia:
-    - c-002
-- t-003
+    - c-005
+- t-006
   teiginys: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
   pagrindžia:
-    - c-003
-- t-004
+    - c-006
+- t-007
   teiginys: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
   pagrindžia:
-    - c-004
-
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Į Vytauto susitikimą atvyko ir Moldavijos pasiuntiniai.'
@@ -71,11 +70,13 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
+- c-005
   santrauka: 'Švitrigailos įkalbėtas Ordinas trimis kryptimis puolė Lenkiją, ją puolė ir Moldavija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Švitrigailos
+    Jogaila apsiautė Lucką, apgula
+    tęsėsi, tačiau jo pajėgos buvo atremtos —
+    lietuviai sėkmingai gynėsi. Švitrigailos
     įkalbėtas Ordinas trimis kryptimis puolė
     Lenkiją, ją puolė ir Moldavija. Jogaila
     1431 m.
@@ -85,11 +86,13 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
+    - t-005
+- c-006
   santrauka: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Lenkijai suartėjus su
+    čekų husitais, Ordinui kilo didelė grėsmė.
     Magistras dar balandį prašė Švitrigailos
     kartu su Livonija, Podole, Valakija-Mol-
     davija ir totoriais pulti Lenkiją. Tuo tar-
@@ -103,21 +106,21 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
+    - t-006
+- c-007
   santrauka: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Atkeliavo ir Vytauto giminaičiai, Mo­
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
     zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
     niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
     riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
-    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
-    džiai priimti.
+    niai^2 ).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-007

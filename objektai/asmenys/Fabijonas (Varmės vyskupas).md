@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Fabijonas (Varmės vyskupas)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1514 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1514'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Fabijonas (Varmės vyskupas)
 
@@ -28,13 +24,15 @@ tags:
 374 ## Puslapis 391 IV KNYGA I \ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono.
 
 ## Teiginiai
+
 - t-001
   teiginys: '374 ## Puslapis 391 IV KNYGA I \ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '374 ## Puslapis 391 IV KNYGA I \ Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsdami kelią būsimiems sunkumams, sutikome su Varmės baž­ nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­ tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     1514.
@@ -60,9 +58,7 @@ tags:
     me išrūpinti Šventojo Tėvo patvirtinimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

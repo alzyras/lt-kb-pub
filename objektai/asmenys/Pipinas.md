@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Pipinas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
@@ -27,24 +18,50 @@ tags:
 Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas. Dusburgietis teigia, kad palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija, ir Dusburgiečio tekstus, matome, jog Pipinas buvo kryžiuočių žiauriai nukankintas: išpjovus jam iš pilvo bambą ir prikalus ją prie medžio, Pipinas, smarkiai mušamas, buvo verčiamas. Dusburgietis teigia, kad vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę arba nužudomas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas.'
-  pagrindžia:
-    - c-001
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę arba nužudomas.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Dusburgietis teigia, kad neilgai trukus jis išdavė savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės ir ten po medžiu pakorė221.'
   pagrindžia:
     - c-004
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi, jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po medžiu pakartas.'
+
+- c-004
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Aprašydamas vieno
+    Galop broliai susikovė su Ragavos pilėnais ir, dievui
+    leidus, daugybę jų nužudė, o jų nelaisvėn paimtą vadą išsivedė; tas vadas, norėdamas
+    išvengti mirties, perdavė jiems savo pilį, o vėliau, kai kitos pilies pilėnai po gėrynių
+    gulėjo girti kas sau, nuvedė ten brolius su kariuomene, kurie juos smarkiai užpuolė,
+    vienus išžudė, kitus paėmė į nelaisvę, o pilį pavertė pelenais. Neilgai trukus  jis išdavė
+    savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
+    ir ten po medžiu pakorė221. Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;
+    kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
+    uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
+    Kristaus tikėjimą222.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Nutyli lenkų feodalinės ekspansijos  į prūsų žemes
+    bandymus iki 1223 m. kryžiaus žygio imtinai, lenkų — kryžiuočių ginčus dėl Kulmo
+    žemės dovanojimo charakterio, apimties ir t. t.142
+      Tendencingai Dusburgietis vaizduoja ir prūsų bei lietuvių kovas. Aprašydamas vieno
     iš pačių pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją Pipino mirtį, jis tepažymi,
     jog, patekęs į nelaisvę, Pipinas buvo pririštas prie arklio, atvilktas iki Torunės ir ten po
     medžiu pakartas. Palyginę Senosios Olivos kronikos, kurioje ryški Pamedės tradicija,
@@ -53,43 +70,26 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     buvo verčiamas vaikščioti, kol visos žarnos susivijo aplink kamieną.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-003
-  santrauka: 'Dusburgietis teigia, kad vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę arba nužudomas.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     vienoje pilaitėje gyvenęs Pamedės kilmingasis Pipinas220, su būriais netikėlių vertęsis
     plėšikavimu: kiekvienas krikščionis, išdrįsęs išeiti iš pilies, būdavo paimamas į nelaisvę
     arba nužudomas. Vieni krikščionis puolė iš aukščiau pastatytos pilies, kiti — iš žemiau,
-    o šis — iš esančios per patį vidurį.
+    o šis — iš esančios per patį vidurį. Galop broliai susikovė su Ragavos pilėnais ir, dievui
+    leidus, daugybę jų nužudė, o jų nelaisvėn paimtą vadą išsivedė; tas vadas, norėdamas
+    išvengti mirties, perdavė jiems savo pilį, o vėliau, kai kitos pilies pilėnai po gėrynių
+    gulėjo girti kas sau, nuvedė ten brolius su kariuomene, kurie juos smarkiai užpuolė,
+    vienus išžudė, kitus paėmė į nelaisvę, o pilį pavertė pelenais.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Dusburgietis teigia, kad neilgai trukus jis išdavė savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės ir ten po medžiu pakorė221.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Neilgai trukus  jis išdavė
-    savo seserėną Pipiną broliams, kurie jį, pririštą, prie arklio uodegos, nuvilko iki Torunės
-    ir ten po medžiu pakorė221. Šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata;
-    kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo
-    uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė
-    Kristaus tikėjimą222.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

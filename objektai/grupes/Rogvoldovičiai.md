@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Rogvoldovičiai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
@@ -27,15 +18,23 @@ tags:
 [Lietuvos valdovų pradžia - į Poloc­ ko kunigaikščius, j Rogvoldo vietą atėjo didysis Mstislavas Vladimirovičius ir užėmė Polocką, o Rogvoldovičiai išbėgo į Cargradą [Konstan­ tinopolį].
 
 ## Teiginiai
+
 - t-001
   teiginys: '[Lietuvos valdovų pradžia - į Poloc­ ko kunigaikščius, j Rogvoldo vietą atėjo didysis Mstislavas Vladimirovičius ir užėmė Polocką, o Rogvoldovičiai išbėgo į Cargradą [Konstan­ tinopolį].'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '[Lietuvos valdovų pradžia - į Poloc­ ko kunigaikščius, j Rogvoldo vietą atėjo didysis Mstislavas Vladimirovičius ir užėmė Polocką, o Rogvoldovičiai išbėgo į Cargradą [Konstan­ tinopolį].'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Otcem
+    że jeho mnoho łaskasze i mukami pre-
+    tiasze, o że nikako łaskania i słuszasze,
+    ni preszczenja bojaszesia i zyviasze w
+    monastyri i sławia Swiatuju Troycu Ot­
+    ca i Syna i Swiatoho Ducha - ir t. t.
     [Lietuvos valdovų pradžia - į Poloc­
     ko kunigaikščius, j Rogvoldo vietą
     atėjo didysis Mstislavas Vladimiro-
@@ -70,9 +69,7 @@ tags:
     ne vienuolis Vaišelga) ir Daumantas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

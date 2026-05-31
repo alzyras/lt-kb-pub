@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - didikas
@@ -27,33 +18,40 @@ tags:
 144 ## Puslapis 161 Il KNYGA keti činšą, kuris jai iš Lietuvos priklausantis, kadangi šis kraštas karaliaus Vladislovo Jogailos jai atiduotas kaip vestuvinė do­ vana. Tačiau Jogaila norėjo tą vien tik asme­ niškai Vytauto duotą pasižadėjimą padaryti reikšmingesnį gau­ damas pačių lietuvių sutikimą ir priesaiką, o Vytautas savo ruožtu siekė ir palikuonims, jeigu jų kada turėtų, garantuoti šio­ kios tokios naudos, tad.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '144 ## Puslapis 161 Il KNYGA keti činšą, kuris jai iš Lietuvos priklausantis, kadangi šis kraštas karaliaus Vladislovo Jogailos jai atiduotas kaip vestuvinė do­ vana.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Tačiau Jogaila norėjo tą vien tik asme­ niškai Vytauto duotą pasižadėjimą padaryti reikšmingesnį gau­ damas pačių lietuvių sutikimą ir priesaiką, o Vytautas savo ruožtu siekė ir palikuonims, jeigu jų kada turėtų, garantuoti šio­ kios tokios naudos, tad.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '144 ## Puslapis 161 Il KNYGA keti činšą, kuris jai iš Lietuvos priklausantis, kadangi šis kraštas karaliaus Vladislovo Jogailos jai atiduotas kaip vestuvinė do­ vana.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     144
@@ -71,13 +69,11 @@ Nenurodyta
     naus Vytauto klausimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Tačiau Jogaila norėjo tą vien tik asme­ niškai Vytauto duotą pasižadėjimą padaryti reikšmingesnį gau­ damas pačių lietuvių sutikimą ir priesaiką, o Vytautas savo ruožtu siekė ir palikuonims, jeigu jų kada turėtų, garantuoti šio­ kios tokios naudos, tad.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau Jogaila norėjo tą vien tik asme­
@@ -110,9 +106,7 @@ Nenurodyta
     nios bei pritarimo66.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

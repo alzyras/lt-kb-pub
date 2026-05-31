@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Sicilijos prancūzų žudynės (1281 m.)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1281 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1281'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - karalius
   - popiežius
+amziai:
+  - 'XIII'
 ---
 # Sicilijos prancūzų žudynės (1281 m.)
 
@@ -29,18 +23,23 @@ tags:
 Dusburgietis teigia, kad apie Martyną IV, popiežių, karalių Rudolfą ir baisingą jūrų žuvį bei daugybės pran­ cūzų [Gallicorum] žūtį Sicilijoje 1281 viešpaties metais valdė Martynas IV, popiežius, ir Rudolfas, Romos karalius.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Martyną IV, popiežių, karalių Rudolfą ir baisingą jūrų žuvį bei daugybės pran­ cūzų [Gallicorum] žūtį Sicilijoje 1281 viešpaties metais valdė Martynas IV, popiežius, ir Rudolfas, Romos karalius.'
   pagrindžia:
@@ -48,8 +47,8 @@ Nenurodyta
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Martyną IV, popiežių, karalių Rudolfą ir baisingą jūrų žuvį bei daugybės pran­ cūzų [Gallicorum] žūtį Sicilijoje 1281 viešpaties metais valdė Martynas IV, popiežius, ir Rudolfas, Romos karalius.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Martyną IV, popiežių, karalių Rudolfą ir baisingą jūrų žuvį bei daugybės pran­
@@ -68,13 +67,11 @@ Nenurodyta
     Mart. p. 422; Mart. p. 424).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: Sicilijos prancūzų žudynės (1281 m.) papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     1281 viešpaties metais valdė Martynas IV, popiežius, ir Rudolfas, Romos karalius.
@@ -88,11 +85,9 @@ Nenurodyta
     prancūzus, tiek vyrus, tiek moteris, o baisiausia — nėščioms lotynų moterims, kurios
     sakėsi pastojusios nuo prancūzų, vėrė šonus ir žudė jų negimusius kūdikius (Ptol. 24, 1;
     Mart. p. 422; Mart. p. 424).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  statusas: verified
   pagrindžia:
     - t-001
 

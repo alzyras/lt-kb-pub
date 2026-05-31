@@ -1,29 +1,22 @@
 ---
 tipas: vieta
 pavadinimas: 'Kuršo žemė'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1259 m.'
-  - '1260 m.'
   - '1261 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1259'
 date_end: '1261'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - mūšis
   - ordinas
   - pilis
+amziai:
+  - 'XIII'
 ---
 # Kuršo žemė
 
@@ -32,13 +25,15 @@ tags:
 Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
@@ -65,8 +60,6 @@ Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 1
     grobio.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

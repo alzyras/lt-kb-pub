@@ -54,8 +54,8 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
-- [[objektai/asmenys/Karijotas]]
 - [[objektai/ivykiai/1863 m. sukilimo pradžia|1863 m. sukilimo pradžia (sukilimas)]]
+- [[objektai/grupes/Bazilijonų ordinas]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje]]
 - [[objektai/grupes/Lietuviai]]
@@ -63,5 +63,4 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
-- [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
 - [[objektai/asmenys/Borisas Karijotaitis]]

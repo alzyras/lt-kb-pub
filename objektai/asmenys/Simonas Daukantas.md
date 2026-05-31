@@ -1,29 +1,26 @@
 ---
 tipas: asmuo
 pavadinimas: 'Simonas Daukantas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1793 m.'
   - '1875 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
-  - 'XIX'
 date_start: '1793'
 date_end: '1875'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - dokumentas
   - kraštas
   - valstybė
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'LDK'
 ---
 # Simonas Daukantas
 
@@ -32,89 +29,178 @@ tags:
 Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu. Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Simoną Daukantą įkvėpė žinojimas, skatinęs Lietuvos šviesuolius raštu įamžinti savo šalies praeitį.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
   pagrindžia:
     - c-003
+
 - t-004
   teiginys: 'Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­ čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją.'
   pagrindžia:
     - c-004
+
 - t-005
   teiginys: 'P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.'
   pagrindžia:
     - c-005
+
+- t-002
+  teiginys: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
+  pagrindžia:
+    - c-002
+
 - t-006
   teiginys: 'Daukanto dėmesio.'
   pagrindžia:
     - c-006
+
+- t-008
+  teiginys: 'Daukanto viršinin­ kas.'
+  pagrindžia:
+    - c-008
+
+- t-001
+  teiginys: 'Simoną Daukantą įkvėpė žinojimas, skatinęs Lietuvos šviesuolius raštu įamžinti savo šalies praeitį.'
+  pagrindžia:
+    - c-001
+
 - t-007
   teiginys: 'Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M.'
   pagrindžia:
     - c-007
 
+- t-009
+  teiginys: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
+  pagrindžia:
+    - c-009
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Simoną Daukantą įkvėpė žinojimas, skatinęs Lietuvos šviesuolius raštu įamžinti savo šalies praeitį.'
+
+- c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    “
+    1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kita vertus, pirmoje
+    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
+    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
+    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
+    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
+    Malevskiui už gausius išrašus iš Lietuvos Metrikos. P. Malev-
+    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
+    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
+    kas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kituose Gazeta Warszawska spausdintuose straipsniuo­
+    se istorikas detaliai aprašė Vilniaus Archeologinės komisijos
+    veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė
+    istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­
+    šuvoje, Vilniuje, Lvove, Krokuvoje ir Poznanėje. M. Balinskis
+    supažindino skaitytoją su kultūriniu sąjūdžiu Žemaitijoje, Ka­
+    rolinos Praniauskaitės poezija, Lauryno Ivinskio kalendoriais.
+    Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
+    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
+    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
+    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
     Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-
     niais valstybės raidos etapais ir išskirtinėmis progomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
+
+- c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rengė žodynus,
+    netgi parašė lietuvių kalba vadovėlį vidurinėms mokykloms.
     Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
     1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
     Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
     riją lietuviškai. 1848 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Romantikas S. Daukantas savo
-    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
-    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
-    europietiškos katalikiškos civilizacijos šalininkas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­ čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją.'
+
+- c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
+    Kita vertus, pirmoje
+    dalyje apžvelgiama ne vien Vilniaus miesto istorija, bet ir ben­
+    dra ikikrikščioniškos Lietuvos valstybės istorija. Veikalo pra­
+    tarmėje M. Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­
+    nui Onacevičiui už pagalbą istoriniais dokumentais, Pranciškui
+    Malevskiui už gausius išrašus iš Lietuvos Metrikos. P. Malev-
+    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
+    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
+    kas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš
+    tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet
+    veikalų, atspindinčių krašto istoriją nuo seniausių laikų, nebu­
+    vo. Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
     čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
     tautos istoriją. Ilgas paruošiamasis darbas - istorinių šaltinių pa­
     ieška ir grupavimas, istorinės medžiagos ir siužeto pateikimo
@@ -122,53 +208,28 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     mą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    P. Malev-
-    skis buvo Lietuvos Metrikos padalinio prie Senato Trečiojo De­
-    partamento vadovas ir tiesioginis istoriko S. Daukanto viršinin­
-    kas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Daukanto dėmesio.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Šios publikacijos susilaukė M. Akelaičio, S. Daukanto dėmesio.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M.'
+
+- c-009
+  santrauka: 'Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Romantikas S. Daukantas savo
-    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
-    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
-    europietiškos katalikiškos civilizacijos šalininkas.
+    Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
+    parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų
+    plito nuorašais. Vėliau S. Daukantas persikėlė į Sankt Peterburgą, įsidar-
+    bino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų
+    Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietu-
+    vos istorijos knygas, išleido plačią beletrizuotą etninių lietuvių kultūros
+    studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
+    Simonas Daukantas. Dail. J. Zenkevičius,
+    1850 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-007
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai

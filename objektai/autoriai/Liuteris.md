@@ -90,7 +90,6 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Puslapis 77]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
 - [[objektai/grupes/Vilniaus kapitula]]

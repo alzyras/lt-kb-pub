@@ -1,28 +1,22 @@
 ---
 tipas: paprotys
 pavadinimas: 'Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1934 m.'
   - '1935 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
 date_start: '1934'
 date_end: '1935'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - kraštas
   - paprotys
   - sukilimas
+amziai:
+  - 'XX'
 ---
 # Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas
 
@@ -31,33 +25,40 @@ tags:
 Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų. Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmasis Europoje procesas prieš nacius ir Klaipėdos praradimas Viena iš svarbių problemų darėsi nesėkmingas Klaipėdos integravimas, nes Klaipėda niekaip „neprilipo“ prie Lietuvos, o vokiškoji Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmasis Europoje procesas prieš nacius
@@ -70,13 +71,11 @@ Nenurodyta
     susirinkimus, puldinėjo žydus. Klaipėda slydo iš Lietuvos kontrolės.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirma-
@@ -94,9 +93,7 @@ Nenurodyta
     doje. Procesas baigėsi 1935 m. kovo 26 d. – nuteisti 76 hitlerininkai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Jurgio Radvilos laiškas Jėzaus Draugijos generaliniam prepozitui dėl Vilniaus seminarijos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
 ---
@@ -24,13 +15,15 @@ tags:
 Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tai jų sąžinei griežtai
@@ -47,8 +40,6 @@ Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiama
     me visą seminariją ir kiekvieną joje esantį klieriką.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

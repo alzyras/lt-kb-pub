@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Romanija'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - popiežius
@@ -27,13 +18,15 @@ tags:
 Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
@@ -44,8 +37,6 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
     žmogaus pastangomis.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

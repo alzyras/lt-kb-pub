@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Rudolfas (Tiberiados valdovas)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
@@ -27,16 +18,22 @@ tags:
 Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Kai jo šventenybė Jeruzalės patriarchas
+    Nors
+    apaštalas sako: „Aš sodinau, Apolonas laistė, o dievas augino“, nors iš šių žodžių visiškai
+    aišku, kad „nieko nereiškia sodintojas nei laistytojas, bet tik augintojas dievas“, tačiau
+    stropus žmogus negali nesirūpinti augalais, kurie, dar jaunučiai tebebūdami, jau duoda
+    gausiai vaisių, o ateityje duos dar gausiau. Kai jo šventenybė Jeruzalės patriarchas
     Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir
     Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras  ir tamplierių ordino
     magistras, daugelis abiejų ordinų brolių ir daugybė šventosios žemės baronų, būtent:
@@ -59,9 +56,7 @@ Dusburgietis teigia, kad rudolfas (Tiberiados valdovas) sušakosiąs ir ateityje
     popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

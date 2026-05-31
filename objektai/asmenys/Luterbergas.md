@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Luterbergas'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
@@ -27,20 +18,45 @@ tags:
 Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas, Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto pilį, vardu Plutai589, o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą. Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas, Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto pilį, vardu Plutai589, o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas, Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto pilį, vardu Plutai589, o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą.'
+
+- c-002
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Be to, tas pats brolis Fridrichas
+    Tuo metu brolis Ditrichas iš Altenburgo, Baigos komtūras, paprašęs didįjį magistrą
+    leidimo  ir  jį gavęs, pastatė Bartos žemėje, dviejų upių, būtent: Gubros  ir Sainos593,
+    santakoje, Lunenburgo [Liūno] pilį594, pavadintą nuo vardo lauko, kuriame ji stovi. Be
+    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
+    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
+    Ilienburgo [Ilijos] pilies595.
+
+
+
+
+
+      593 D.— Says, Jer.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Prūsai, kurie irgi statė šią pilį, įtikinėjo, kad niekad nebuvo
+    matę šioje negyvenamoje dykynėje naminių balandžių. Be to, tas pats brolis Fridrichas
     pastatė Glotavos valsčiuje, Alnos vidurupyje, miestą, vardu Gutštatas587, o Jordanas,
     Varmės [vyskupystės] valdytojas,—netoli Malzekuko588 miesto  pilį, vardu  Plutai589,
     o Rudolfas, Pamedės vyskupas,— Osos pakrantėje miestą, vardu Bišofsverderis590, o
@@ -54,32 +70,9 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
      361 (354).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas, jo šviesybės Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras,— miestą prie Ilienburgo [Ilijos] pilies595.'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Be
-    to, tas pats komtūras pastatė miestą prie Bartenšteino pilies, o brolis Luterbergas,
-    jo šviesybės Braunšveigo kunigaikščio sūnus  ir Kristburgo komtūras,— miestą prie
-    Ilienburgo [Ilijos] pilies595.
-
-
-
-
-
-      593 D.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

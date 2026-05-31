@@ -1,25 +1,19 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'vaitas Vilniaus vaitystė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1583 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1583'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - sąvoka
+amziai:
+  - 'XVI'
 ---
 # vaitas Vilniaus vaitystė
 
@@ -28,13 +22,15 @@ tags:
 Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Velykų dieną, pagal pataisytą kalendorių, nekreipdami dėmesio į katalikiškas šventes, išdrįso pardavinėti prekes.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Velykų dieną, pagal pataisytą kalendorių, nekreipdami dėmesio į katalikiškas šventes, išdrįso pardavinėti prekes.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Velykų dieną, pagal pataisytą kalendorių, nekreipdami dėmesio į katalikiškas šventes, išdrįso pardavinėti prekes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pirmiausia
@@ -56,9 +52,7 @@ Pirmiausia vaitas įrodė nieko savavališkai ne­ padaręs, kadangi pirkliai,Ve
     vaito pasiuntinius.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

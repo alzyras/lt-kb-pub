@@ -37,7 +37,7 @@ tags:
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Konrado Valenrodo šlovė ir riterystės siekis subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.'
+  teiginys: 'Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryžininkų pulkus.'
   pagrindžia:
     - c-002
 
@@ -64,7 +64,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Konrado Valenrodo šlovė ir riterystės siekis subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.'
+  santrauka: 'Po visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­ do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­ ties narsa, o pirmiausia nesulaikomas potraukis į riterystę vėl subūrė iš visų Europos šalių gausius ir pajėgius kryžininkų pulkus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, dar leidžia kapitulai
@@ -121,15 +121,21 @@ tags:
 - [[objektai/grupes/Varmiai]]
 - [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
 - [[objektai/posakiai/kein Soule sie karten wider]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
 - [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/autoriai/M. Perlbachas]]
 - [[objektai/autoriai/Perlbach M]]
 - [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]
@@ -139,3 +145,4 @@ tags:
 - [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/asmenys/Konradas Valenrodas]]
+- [[objektai/zodynas/Puslapis 77]]

@@ -46,7 +46,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/autoriai/Adolfas Šapoka]]
 - [[objektai/grupes/Lietuviai]]

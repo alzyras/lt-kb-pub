@@ -1,27 +1,21 @@
 ---
 tipas: vieta
 pavadinimas: 'Kauno Vilniaus pirklių prekių sandėlis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1529 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1529'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - privilegija
   - vieta
+amziai:
+  - 'XVI'
 ---
 # Kauno Vilniaus pirklių prekių sandėlis
 
@@ -30,13 +24,15 @@ tags:
 Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vilniaus vaitui į užsienį parduoti tris gaba­ lus vaško po 50 akmenų], fol.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pagaliau
@@ -104,8 +100,6 @@ Pagaliau karaliaus raštas ponui Abramui, iž­ dininkui, kad laisvai leistų Vi
     vams, vadinamoms vytinėms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

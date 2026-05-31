@@ -42,14 +42,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Prie Kijevo telktoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: '1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą.'
   pagrindžia:
@@ -58,6 +50,14 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   teiginys: 'Tokios iškilmės Vy­ tauto laikais pirmą kartą (1419 m.) buvo surengtos Vilniaus pilyje, kai po Tochtamišo sūnaus sultono Saladino, ištikimo Lie­ tuvos sąjungininkomirties, jo įpėdinis Kerimberdėjus nenorėjo paklusti Lietuvos valdovui, ir Vytautas didžiosios.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -89,46 +89,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Besirengdamas žygiui į Sarajų, Aukso
-    ordos chanas Timūr-Kutlukas atsiuntė savo
-    pasiuntinius pas lietuvių didįjį kunigaikštį
-    Vytautą, kad išduotų jam pabėgusį „carą“
-    Tochtamišą, jo priešą. O Vytautas atsakęs:
-    „caro Tochtamišo neišduosiu, o su caru
-    Timūr-Kutluku noriu matytis pats“.
-    Pagrindinė Vytauto kariuomenė iš
-    Vilniaus išvyko apie gegužės 18 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Prie Kijevo telktoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pagrindinė Vytauto kariuomenė iš
-    Vilniaus išvyko apie gegužės 18 d. Vytautas
-    visą birželį telkė karius (savo lietuvius,
-    jam pavaldžių rusų kunigaikščių karius ir
-    kitus) stovykloje prie Kijevo. Čia buvo ir
-    Tochtamišo totoriai (keli tūkstančiai), 400
-    pavienių lenkų riterių, tokių kaip Spytekas
-    iš Melštyno, Krokuvos vaivada ir Podolės
-    valdytojas bei kiti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: '1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -174,6 +134,49 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Greičiausiai Vytauto
+    iniciatyva per Maskvos didįjį kunigaikštį
+    Vasilijų Konstantinopolio patriarchas ra-
+    gino Kijevo metropolitą Kiprijoną kviesti
+    tikinčiuosius į karą prieš totorius.
+    Besirengdamas žygiui į Sarajų, Aukso
+    ordos chanas Timūr-Kutlukas atsiuntė savo
+    pasiuntinius pas lietuvių didįjį kunigaikštį
+    Vytautą, kad išduotų jam pabėgusį „carą“
+    Tochtamišą, jo priešą. O Vytautas atsakęs:
+    „caro Tochtamišo neišduosiu, o su caru
+    Timūr-Kutluku noriu matytis pats“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pagrindinė Vytauto kariuomenė iš
+    Vilniaus išvyko apie gegužės 18 d. Vytautas
+    visą birželį telkė karius (savo lietuvius,
+    jam pavaldžių rusų kunigaikščių karius ir
+    kitus) stovykloje prie Kijevo. Čia buvo ir
+    Tochtamišo totoriai (keli tūkstančiai), 400
+    pavienių lenkų riterių, tokių kaip Spytekas
+    iš Melštyno, Krokuvos vaivada ir Podolės
+    valdytojas bei kiti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -183,16 +186,23 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/daiktai/Šarvinės pirštinės]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
+- [[objektai/grupes/Auksinė Orda]]
 - [[objektai/asmenys/Janas Kropidła]]
 - [[objektai/asmenys/Kerimberdėjus]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Saladinas]]
 - [[objektai/asmenys/Spytekas iš Melštyno]]
-- [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
 - [[objektai/grupes/Totorių pajėgos]]
-- [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Aukso orda]]

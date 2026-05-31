@@ -1,27 +1,21 @@
 ---
 tipas: ivykis
 pavadinimas: 'Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1401 m.'
   - '1404 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1401'
 date_end: '1404'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XV'
 ---
 # Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)
 
@@ -30,26 +24,31 @@ tags:
 Kad galėtų vėl imti veikti rytuose, Vytautas iš naujo Raciąže 1404 turėjo ordinui pažadėti pildyti Salyno taikos sąlygas^46.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kad galėtų vėl imti veikti rytuose, Vytautas iš naujo Raciąže 1404 turėjo ordinui pažadėti pildyti Salyno taikos sąlygas^46.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kad galėtų vėl imti veikti rytuose, Vytautas iš naujo Raciąže 1404 turėjo ordinui pažadėti pildyti Salyno taikos sąlygas^46.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Be to, pajutę Maskvos Vasiliaus priešingumą uošviui, ėmė
@@ -61,9 +60,7 @@ Nenurodyta
     čių valdžią, vėl buvo jiems pažadami.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

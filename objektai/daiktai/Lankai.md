@@ -73,7 +73,6 @@ Nenurodyta
 - [[objektai/asmenys/Jonas Lonei]]
 - [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vinrichas fon Kniprodė]]
 - [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]

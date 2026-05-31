@@ -1,24 +1,20 @@
 ---
 tipas: autorius
 pavadinimas: 'August von Kotzebue'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
 date_start: ''
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
   - mokslininkas
   - ordinas
+amziai: []
+periodo_grupes: []
 ---
 # August von Kotzebue
 
@@ -27,41 +23,144 @@ tags:
 Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D. 1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: '1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Bet kokia priežastis vertė Kotzebue nemačiomis tai praleisti, kas plika akimi matoma?'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Šitai vėlei liu­ dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės, klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Vis dėlto ir Švitri­ gailai atsirado gynėjas: Kotzebue, aukščiau cituotame savo rašinyje Switrigail ein Beytrag etc.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: '9 Kotzebue Switrigail, p. 83, cituo­ ja Slaptajame archyve esantį Švitrigai­ los laišką didžiajam magistrui, rašy­ tą iš Trakų, trečiadienį prieš Švč.'
-  pagrindžia:
-    - c-007
+
 - t-008
   teiginys: 'Mat nemaža miesto dalis su- 15 Nors Kotzebue loco cit.'
   pagrindžia:
     - c-008
+
+- t-006
+  teiginys: 'Vis dėlto ir Švitri­ gailai atsirado gynėjas: Kotzebue, aukščiau cituotame savo rašinyje Switrigail ein Beytrag etc.'
+  pagrindžia:
+    - c-006
+
+- t-003
+  teiginys: '1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T.'
+  pagrindžia:
+    - c-003
+
+- t-004
+  teiginys: 'Bet kokia priežastis vertė Kotzebue nemačiomis tai praleisti, kas plika akimi matoma?'
+  pagrindžia:
+    - c-004
+
+- t-005
+  teiginys: 'Šitai vėlei liu­ dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės, klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.'
+  pagrindžia:
+    - c-005
+
+- t-001
+  teiginys: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
+  pagrindžia:
+    - c-001
+
+- t-007
+  teiginys: '9 Kotzebue Switrigail, p. 83, cituo­ ja Slaptajame archyve esantį Švitrigai­ los laišką didžiajam magistrui, rašy­ tą iš Trakų, trečiadienį prieš Švč.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
+
+- c-008
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mat nemaža miesto dalis su-
+    15
+    Nors Kotzebue loco cit. pasakoja,
+    kad tai įvykę tarp rugpjūčio 14 ir 28
+    dienos, tačiau tai negalėjo įvykti
+    anksčiau, nebent prieš pat 28-ą;
+    Slaptajame archyve yra didžiojo ku­
+    nigaikščio Boleslovo Švitrigailos
+    pavedimas didžiajam magistrui su
+    antspaudais su juo sudarytoms su­
+    tartims antspauduoti, datuota dar
+    1432 metų rugpjūčio 13 dieną iš Ker­
+    navės. Žr. Ind. Cod. Hist. Dipl. Liv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-008
+
+- c-005
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Be abejonės,
+    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
+    dino piktadarystę" atsidūrė kryžiuočių archyve. Šitai vėlei liu­
+    dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
+    klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.
+    Hennig, Łukasz Dawid, pratarmė, T. I, p. IX).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-005
+
+- c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Il
+    APIE VALDOVO GEDIMINO LAIŠKUS, RAŠYTUS IŠ VILNIAUS,
+    JŲ AUTENTIŠKUMĄ IR APIE ĮVYKIUS, KURIE BUVO JŲ
+    PASKELBIMO PASEKMĖ
+    A.
+    Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve
+    Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į
+    jo veikalą, vad.: Preuszens aeltere Geschichte von August von
+    Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
+    Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Būtų visiškai paika sakyti, kad pajūrio mies­
+    tai tuos laiškus nusiuntę Ordinui. Kokia priežastis būtų ver­
+    tųsi? Bet kokia priežastis vertė Kotzebue nemačiomis tai
+    praleisti, kas plika akimi matoma? Tų laiškų originalai turėjo
+    būti kryžiuočių archyve? Anaiptol. Tikriausiai Kotzebue
+    vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs apkal­
+    tinti Ordiną nauja piktadarystė, kaip kad buvo įpratęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-003
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Apie jo priėmimą popiežiaus
+    rūmuose pasakoja Vygandas
+    M a r b u r g a s, p. 279; Adiit papam,
+    u quo honorifice et amicabiliter suscep­
+    tus est [Atvyko pas popiežių, kurio
+    buvo pagarbiai ir draugiškai priim­
+    tas]. Žr. Kryžiuočių ordino Kroniką,
+    pateiktą M a t h e s s, p. 771.
+    z
+    Tokius skundo punktus randame
+    įdėtus R a y n a 1  d, an. 1324 Nr. 53,
+    kurie visiškai atitinka tuos, kurie yra
+    Kotzebue, T. Il, p. 368-371.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003
+
 - c-001
-  santrauka: 'Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nė kiek nenorėdami su­
@@ -82,80 +181,11 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     geriausias paliudijimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į jo veikalą, vad.: Preuszens aeltere Geschichte von August von Kotzebue etc., Riga, 1808 4 D.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Trys Gedimino laiškai, esantys slaptajame Kryžiuočių Arckyve
-    Karaliaučiuje, pažymėti NÓ0, Augusto Kotzebue išrašyti ir įdėti į
-    jo veikalą, vad.: Preuszens aeltere Geschichte von August von
-    Kotzebue etc., Riga, 1808 4 D. 8-vo, iš Il t., p. 353 ir seąu.
-    Foigto vertimas į len kųk ir teksto lotynų k. pataisymai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1324 Nr. 53, kurie visiškai atitinka tuos, kurie yra Kotzebue, T.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    z
-    Tokius skundo punktus randame
-    įdėtus R a y n a 1  d, an. 1324 Nr. 53,
-    kurie visiškai atitinka tuos, kurie yra
-    Kotzebue, T. Il, p. 368-371.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Bet kokia priežastis vertė Kotzebue nemačiomis tai praleisti, kas plika akimi matoma?'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Būtų visiškai paika sakyti, kad pajūrio mies­
-    tai tuos laiškus nusiuntę Ordinui. Kokia priežastis būtų ver­
-    tųsi? Bet kokia priežastis vertė Kotzebue nemačiomis tai
-    praleisti, kas plika akimi matoma? Tų laiškų originalai turėjo
-    būti kryžiuočių archyve? Anaiptol. Tikriausiai Kotzebue
-    vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs apkal­
-    tinti Ordiną nauja piktadarystė, kaip kad buvo įpratęs.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Šitai vėlei liu­ dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės, klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Be abejonės,
-    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
-    dino piktadarystę" atsidūrė kryžiuočių archyve. Šitai vėlei liu­
-    dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
-    klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr.
-    Hennig, Łukasz Dawid, pratarmė, T. I, p. IX).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
+
 - c-006
-  santrauka: 'Vis dėlto ir Švitri­ gailai atsirado gynėjas: Kotzebue, aukščiau cituotame savo rašinyje Switrigail ein Beytrag etc.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šis kunigaikštis, dar nuo pirmųjų kivir-
@@ -183,13 +213,11 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     tiškos civilizacijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-006
+
 - c-007
-  santrauka: '9 Kotzebue Switrigail, p. 83, cituo­ ja Slaptajame archyve esantį Švitrigai­ los laišką didžiajam magistrui, rašy­ tą iš Trakų, trečiadienį prieš Švč.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     9
@@ -217,35 +245,9 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     mo".
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-007
-- c-008
-  santrauka: 'Mat nemaža miesto dalis su- 15 Nors Kotzebue loco cit.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mat nemaža miesto dalis su-
-    15
-    Nors Kotzebue loco cit. pasakoja,
-    kad tai įvykę tarp rugpjūčio 14 ir 28
-    dienos, tačiau tai negalėjo įvykti
-    anksčiau, nebent prieš pat 28-ą;
-    Slaptajame archyve yra didžiojo ku­
-    nigaikščio Boleslovo Švitrigailos
-    pavedimas didžiajam magistrui su
-    antspaudais su juo sudarytoms su­
-    tartims antspauduoti, datuota dar
-    1432 metų rugpjūčio 13 dieną iš Ker­
-    navės. Žr. Ind. Cod. Hist. Dipl. Liv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 
 ## Ryšiai
 ### Susiję objektai

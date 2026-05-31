@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus miesto vartai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - pilis
@@ -27,13 +18,15 @@ tags:
 Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­ tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie kelio į Trakus, trečiuosius - palei Švč.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­ tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie kelio į Trakus, trečiuosius - palei Švč.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­ tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie kelio į Trakus, trečiuosius - palei Švč.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­
@@ -47,8 +40,6 @@ tags:
     duktus.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,13 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - tauta
@@ -20,38 +17,51 @@ tags:
 Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“. 1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: '1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Naujieji 160 000 ūkininkų vykdė melioraciją, pavertė dirbama žeme
+    tūkstančius hektarų ganyklų, krūmų ir miškų, pasėlių plotai padidėjo
+    trečdaliu, Lietuva pati apsirūpindavo maistiniais ir pašariniais grūdais,
+    o perteklių eksportuodavo (1938 m. – 132 000 tonų). Kooperatyvams ir
+    pavieniams ūkininkams įsivežus iš Danijos, Švedijos ir Vokietijos tūks-
+    tančius žalųjų bei juodmargių karvių, pieno išmilžiai pakilo nuo 700 iki
+    2 000 litrų ir lenkė daugelį šalių. Kai privati ekonominė iniciatyva dau-
     geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
+    kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę vei-
+    klą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: '1935 m. „Pienocentras“, supirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo kai­nas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žemės ūkio
+    ir pramonės augimas buvo nepakankamas greitam pragyvenimo lygio
+    pakilimui, daugybė smulkių ūkių išvaržyti. 1935 m. „Pienocentras“, su-
+    pirkinėjęs iš vals­tiečių pieno produktus, triskart sumažino supirkimo
     kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
+    į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
+    Veiveriuose nušovė tris valstiečius, šimtus areštavo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -169,4 +169,3 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 - [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija]]
 - [[objektai/zodynas/žemės santykiais pagrįsta periodizacija]]
-- [[objektai/autoriai/A. Šapoka]]

@@ -62,10 +62,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: '1919 m. kovo 19-24 d. jie pasitraukė ir iš Panevėžio.'
   pagrindžia:
@@ -86,6 +82,10 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginys: 'Tačiau galiausiai Panevėžio batalionas turėjo apleisti savo miestą ir atsitraukti į Kėdainius.'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1919 m. sausio 9 d. bolševikų pajėgoms užimant Panevėžį, J. Variakojis su pirmuoju savanorių būriu paliko miestą.'
@@ -190,21 +190,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jos rėmė lenkų pradines mokyklas ir Lie-
-    tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane-
-    vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų
-    mokyklų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: '1919 m. kovo 19-24 d. jie pasitraukė ir iš Panevėžio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -284,3 +269,20 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Švietimui padėjo lenkų kultūros organiza-
+    cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
+    gaudavusios pinigų iš Lenkijos. Jos rėmė lenkų pradines mokyklas ir Lie-
+    tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane-
+    vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų
+    mokyklų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012

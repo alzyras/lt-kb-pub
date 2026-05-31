@@ -257,7 +257,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/autoriai/K. Avižonis]]

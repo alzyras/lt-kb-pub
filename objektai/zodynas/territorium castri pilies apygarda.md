@@ -1,21 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'territorium castri pilies apygarda (pilis)'
-sukurta: '2026-05-30'
-variantai:
-  - 'territorium castri pilies apygarda'
-aliases:
-  - 'territorium castri pilies apygarda'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - sąvoka
@@ -27,13 +16,15 @@ tags:
 Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     D. territorium castri (III, 247, 266, 276 ir kt.; Jer.— burcgebit) — tai pilies apygarda.
@@ -43,9 +34,7 @@ Dusburgietis teigia, kad territorium castri (III, 247, 266, 276 ir kt.; Jer.— 
     sistema buvusi panaši į senovės graikų (Gimbutienė M. Baltai, p. 145—146).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

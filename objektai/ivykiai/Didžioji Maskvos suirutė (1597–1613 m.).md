@@ -152,7 +152,6 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Teodoras]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Romanovų dinastija]]

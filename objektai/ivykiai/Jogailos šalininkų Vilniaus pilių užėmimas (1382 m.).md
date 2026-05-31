@@ -1,28 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1382 m.'
   - '1385 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1382'
 date_end: '1385'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
   - miestas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)
 
@@ -31,30 +25,36 @@ tags:
 Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­ gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­ mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus. Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­ gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­ mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.'
   pagrindžia:
     - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­ gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­ mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­
@@ -93,13 +93,11 @@ Nenurodyta
     pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Re­ gis, iš jo kilusi Hanulu giminė, kurių 36 ## Puslapis 53 I KNYGA Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­ gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Re­
@@ -120,9 +118,7 @@ Nenurodyta
     pagalbą sūnui pagaliau nebūtų atvykęs.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

@@ -1,27 +1,21 @@
 ---
 tipas: grupe
 pavadinimas: 'Kiršenšteinai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1346 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1346'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - miestas
   - mūšis
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Kiršenšteinai
 
@@ -30,13 +24,15 @@ tags:
 Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi pilietybę, keletą šimtmečių val­ dė Raudonės pilį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi pilietybę, keletą šimtmečių val­ dė Raudonės pilį.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi pilietybę, keletą šimtmečių val­ dė Raudonės pilį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Rau­
@@ -85,9 +81,7 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
     dė Raudonės pilį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

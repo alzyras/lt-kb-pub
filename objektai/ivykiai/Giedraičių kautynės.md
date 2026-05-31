@@ -88,5 +88,4 @@ Nenurodyta
 - [[objektai/grupes/brigada]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/daiktai/Kardas]]
-- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]

@@ -1,14 +1,15 @@
 ---
 tipas: tyrimas
-pavadinimas: "Tuščių ar silpnų pastabų auditas - A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+pavadinimas: 'Tuščių ar silpnų pastabų auditas - A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 saltiniai:
-  - "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 sukurta: ''
 atnaujinta: ''
 ---
-# Auditas
+# Tuščių ar silpnų pastabų auditas - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 
 ## Vykdymo metaduomenys
+
 - knyga: A. Šapoka (red.), Lietuvos istorija (1936 m.)
 - source_file: `darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md`
 - modelis: unknown
@@ -71,6 +72,7 @@ atnaujinta: ''
 - Veiksmas: po kritinių taisymų pakartoti kokybės ciklą ir tik tada kelti į galutinę būseną.
 
 ## Kiti veiksmai
+
 - Pirmiausia sutvarkyti `Dancigas` ir `Karaliaučius`, nes ten vienu metu yra ir senasis formatas, ir nukirsta vieša citata.
 - Tada pakeisti antraštinius bei iliustracinius pseudo-įrodymus kūno teksto citatomis.
 - Po to iškelti biografinius teiginius iš `autoriai` kategorijos į atskirus `asmenys` lapus ir panaikinti vidinius citatų dublius.

@@ -88,10 +88,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginys: 'Rytų Pabaltijyje ir šiaurės rytų Rusijoje medžiotojų bei žvejų kultūra tęsėsi panašiu lygiu apie porą tūkstančių metų.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.'
   pagrindžia:
@@ -132,14 +128,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginys: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   pagrindžia:
     - c-016
-- t-017
-  teiginys: 'Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių rezultatų, kokių tikėjosi.'
-  pagrindžia:
-    - c-017
-- t-018
-  teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
-  pagrindžia:
-    - c-018
 - t-019
   teiginys: '1579 m. iš Vilniaus karalius per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   pagrindžia:
@@ -188,10 +176,22 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginys: 'Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.'
   pagrindžia:
     - c-031
-- t-032
+- t-034
+  teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
+  pagrindžia:
+    - c-034
+- t-035
+  teiginys: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.'
+  pagrindžia:
+    - c-035
+- t-036
+  teiginys: 'Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių rezultatų, kokių tikėjosi.'
+  pagrindžia:
+    - c-036
+- t-037
   teiginys: 'Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų kultūra panašiame laipsnyje tęsėsi porą tūkstančių metų.'
   pagrindžia:
-    - c-032
+    - c-037
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -271,22 +271,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
-    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
-    tus, o rusai į vakarus. Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga
-    aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikė-
-    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: 'Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -456,40 +440,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
-- c-017
-  santrauka: 'Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių rezultatų, kokių tikėjosi.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
-    žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių
-    rezultatų, kokių tikėjosi. Nors visuose apskrities centruose, didesniuo-
-    se miesteliuose buvo pastatytos cerkvės, bet.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
-- c-018
-  santrauka: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Sierakausko manymu,
-    po mėnesio kito turėjo prasidėti Anglijos
-    ir Prancūzijos intervencija prieš Rusiją.
-    Šiems tikslams įgyvendinti už Anykščių
-    esančio Andrioniškio miške prie Teresboro
-    palivarko (dabar Knebių kaimas) sukilėliai
-    įrengė stovyklą, į kurią sutraukė didesnę
-    dalį savo pajėgų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-018
 - c-019
   santrauka: '1579 m. iš Vilniaus karalius per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -741,7 +691,64 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-031
-- c-032
+- c-034
+  santrauka: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Z. Sierakausko manymu,
+    po mėnesio kito turėjo prasidėti Anglijos
+    ir Prancūzijos intervencija prieš Rusiją.
+    Šiems tikslams įgyvendinti už Anykščių
+    esančio Andrioniškio miške prie Teresboro
+    palivarko (dabar Knebių kaimas) sukilėliai
+    įrengė stovyklą, į kurią sutraukė didesnę
+    dalį savo pajėgų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-035
+  santrauka: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva yra toje pačioje
+    geografinėje platumoje kaip į vakarus nuo Lietuvos esančios Pietų Švedi-
+    ja, Danija, Škotija; toje pačioje geografinėje ilgumoje kaip į šiaurę – Suo-
+    mija, į pietus – Rumunija, Bulgarija, Graikija.
+    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
+    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
+    tus, o rusai į vakarus. Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga
+    aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikė-
+    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-036
+  santrauka: 'Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių rezultatų, kokių tikėjosi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taip tikėtasi iš pačių lietuvių
+    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
+    lietuvių „suartinimo“ su rusų kultūra gija.
+    Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
+    žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių
+    rezultatų, kokių tikėjosi. Nors visuose apskrities centruose, didesniuo-
+    se miesteliuose buvo pastatytos cerkvės, bet.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-037
   santrauka: 'Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų kultūra panašiame laipsnyje tęsėsi porą tūkstančių metų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -759,4 +766,4 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-032
+    - t-037

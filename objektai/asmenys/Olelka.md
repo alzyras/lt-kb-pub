@@ -1,19 +1,10 @@
 ---
 tipas: asmuo
 pavadinimas: 'Olelka'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
@@ -27,13 +18,15 @@ tags:
 To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Manvydo ir Rumbauto mirties, Mstislavlio kunigaikš­ čio Jurgio Lengvenaičio ir Kopylę valdžiusio Olelkos - Algirdo palikuonių - įkalinimo, nutarė gelbėtis Žygimanto gyvybės kaina.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Manvydo ir Rumbauto mirties, Mstislavlio kunigaikš­ čio Jurgio Lengvenaičio ir Kopylę valdžiusio Olelkos - Algirdo palikuonių - įkalinimo, nutarė gelbėtis Žygimanto gyvybės kaina.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Manvydo ir Rumbauto mirties, Mstislavlio kunigaikš­ čio Jurgio Lengvenaičio ir Kopylę valdžiusio Olelkos - Algirdo palikuonių - įkalinimo, nutarė gelbėtis Žygimanto gyvybės kaina.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     221
@@ -52,9 +45,7 @@ To­ kia Lietuvos padėtis negalėjo trukti ilgai; diduomenė, įbau­ ginta Man
     susidorojimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,28 +1,22 @@
 ---
 tipas: daiktas
 pavadinimas: 'Laivai Memelyje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
   - '1325 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1323'
 date_end: '1325'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
   - miestas
   - pilis
+amziai:
+  - 'XIV'
 ---
 # Laivai Memelyje
 
@@ -31,29 +25,35 @@ tags:
 J a r o- 68 ## Puslapis 85 I KNYGA ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'J a r o- 68 ## Puslapis 85 I KNYGA ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'J a r o- 68 ## Puslapis 85 I KNYGA ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Energingas Garteno (Gar­
@@ -108,9 +108,7 @@ Nenurodyta
     plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

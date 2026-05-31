@@ -62,4 +62,3 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]
-- [[objektai/grupes/Vilniaus miesto vokiečiai]]

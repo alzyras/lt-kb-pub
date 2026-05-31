@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Rumbautas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1432 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1432'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - bajorija
   - didikas
   - karas
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Rumbautas
 
@@ -30,13 +26,15 @@ tags:
 Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­ raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­ imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam į.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­ raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­ imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam į.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­ raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­ imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam į.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
@@ -58,9 +56,7 @@ Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu
     magistrui 1432 metų sausio 5 dieną.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -161,4 +161,3 @@ tags:
 - [[objektai/asmenys/Daumantas]]
 - [[objektai/ivykiai/Treniotos nužudymas ir Vaišelgos atėjimas į valdžią]]
 - [[objektai/grupes/Valimantaičiai]]
-- [[objektai/asmenys/Vytenis]]

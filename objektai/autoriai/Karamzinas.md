@@ -97,7 +97,6 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Karigaila]]
-- [[objektai/asmenys/Narimantas]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Aleksandras Balinskis]]

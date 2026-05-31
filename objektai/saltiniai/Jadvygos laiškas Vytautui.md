@@ -1,29 +1,23 @@
 ---
 tipas: saltinis
 pavadinimas: 'Jadvygos laiškas Vytautui'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1398 m.'
   - '1966 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XX'
 date_start: '1398'
 date_end: '1966'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - miestas
   - saltinis
   - tauta
+amziai:
+  - 'XIV'
+  - 'XX'
 ---
 # Jadvygos laiškas Vytautui
 
@@ -32,13 +26,15 @@ tags:
 Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos bus užtraukusi: mat parašė laišką Vytautui prašydama išmomiestų, kuriuos reikėtų saugoti.] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos bus užtraukusi: mat parašė laišką Vytautui prašydama išmomiestų, kuriuos reikėtų saugoti.] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398 m.); pati karalienė Jadvyga juos bus užtraukusi: mat parašė laišką Vytautui prašydama išmomiestų, kuriuos reikėtų saugoti.] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau tas kelias Lietuvos sostinės patirtas sėkmes (1398 m.)
@@ -106,8 +102,6 @@ Gana grėsmingai įsiliepsnojo pirmieji nesuta­ rimai tarp abiejų tautų (1398
     vana.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

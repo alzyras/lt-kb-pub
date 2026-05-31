@@ -1,26 +1,20 @@
 ---
 tipas: ivykis
 pavadinimas: 'Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1812 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1812'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - dokumentas
   - ivykis
   - karas
+amziai:
+  - 'XIX'
 ---
 # Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje
 
@@ -29,29 +23,37 @@ tags:
 Šis netikėtas ir liūdnas įvykis nė kiek neatšal­ dė Goštauto uolumo.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Šis netikėtas ir liūdnas įvykis nė kiek neatšal­ dė Goštauto uolumo.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Šis netikėtas ir liūdnas įvykis nė kiek neatšal­ dė Goštauto uolumo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Šis netikėtas ir liūdnas įvykis nė kiek neatšal­
+    Algirdas viešai nubaudė to žiauraus poelgio vadei­
+    vas ir liepė paskelbti visame krašte valią nevaržomiems
+    gyventi visiems krikščionių vienuoliams ir laisvę išpažinti
+    savo tikėjimą. Šis netikėtas ir liūdnas įvykis nė kiek neatšal­
     dė Goštauto uolumo. Nukankintuosius palaidojęs, tos pa­
     čios regulos vienuolių vėlei atkvietė iš Lenkijos, ir gal dėl
     to, kad jų buveinė buvo liaudies sugriauta ir su ja siejosi
@@ -68,9 +70,7 @@ Nenurodyta
     kelti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

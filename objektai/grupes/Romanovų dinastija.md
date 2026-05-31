@@ -141,7 +141,6 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Slavai]]
-- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]

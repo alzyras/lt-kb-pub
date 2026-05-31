@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Lonei'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1348 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1348'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - ordinas
   - valdovas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Jonas Lonei
 
@@ -30,13 +26,15 @@ tags:
 O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėliavos penkios dešimtys nukauta.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėliavos penkios dešimtys nukauta.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė, būtent Gdansko komtūrui ir tokiam Sembos vyskupo teisėjui Jonui Lonei, su kuriuo prie vėliavos penkios dešimtys nukauta.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
@@ -63,9 +61,7 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
     Lietuvos valdovo Algirdo ir vieno lyvių seniūno pokalbį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

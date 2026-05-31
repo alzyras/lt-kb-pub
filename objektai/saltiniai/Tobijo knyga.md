@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Tobijo knyga'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ordinas
   - pinigai
@@ -26,13 +17,15 @@ tags:
 Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad apreikšti dievo darbus yra šlovinga.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad apreikšti dievo darbus yra šlovinga.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad apreikšti dievo darbus yra šlovinga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
@@ -49,8 +42,30 @@ Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, ka
     atminimas.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dusburgietis teigia, kad mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad apreikšti dievo darbus yra šlovinga.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    PRŪSIJOS ŽEMĖS
+       KRONIKA
+
+    Dedikacija
+
+
+         Gerbiamam  vyrui   ir  Kristuje  pasišventusiam  broliui  Verneriui  iš  Orzelno,
+    Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą
+    sveikindamas  reiškia  brolis Petras  iš Dusburgo, tų pačių šventųjų įžadų kunigas.
+    Kiekvienam pastabiam žmogui žinoma, kaip kruopščiai ir rūpestingai aiškino praeityje
+    šventieji tėvai stebuklingus mūsų viešpaties Jėzaus Kristaus darbus, kuriuos jis teikėsi
+    nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei
+    būsimosioms kartoms pamokyti. Mat jie turėjo omenyje Tobijo (Tob 12,7) žodžius, kad
+    apreikšti dievo darbus yra šlovinga.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002

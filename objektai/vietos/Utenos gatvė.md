@@ -1,34 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Utenos gatvė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1990 m.'
-  - '1995 m.'
-  - '2001 m.'
-  - '2002 m.'
-  - '2004 m.'
-  - '2005 m.'
   - '2007 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
 date_start: '1990'
 date_end: '2007'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - sutartis
   - tauta
   - vieta
+amziai:
+  - 'XX'
+  - 'XXI'
 ---
 # Utenos gatvė
 
@@ -37,16 +26,18 @@ tags:
 Spausdino UAB „Logotipas", Utenos g.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Spausdino UAB „Logotipas", Utenos g.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Spausdino UAB „Logotipas", Utenos g.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    45
+    UDK 947.45
 
     ## Puslapis 494
 
@@ -82,8 +73,6 @@ Spausdino UAB „Logotipas", Utenos g.
     Estetika - XX a.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

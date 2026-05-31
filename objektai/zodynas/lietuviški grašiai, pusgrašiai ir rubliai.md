@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'lietuviški grašiai, pusgrašiai ir rubliai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - kunigaikštis
@@ -27,17 +18,20 @@ tags:
 Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me­ tais energingai darbavosi, kaldama lietuviškus grašius ir pusgrašius11. Atrodo, kad ir lietu­ viški rubliai, tai yra, sidabrinės laz­ delės, arba liejinukai, šioje kalykloje buvo daromi rusiškų pavyzdžiu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me­ tais energingai darbavosi, kaldama lietuviškus grašius ir pusgrašius11.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Atrodo, kad ir lietu­ viški rubliai, tai yra, sidabrinės laz­ delės, arba liejinukai, šioje kalykloje buvo daromi rusiškų pavyzdžiu.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me­ tais energingai darbavosi, kaldama lietuviškus grašius ir pusgrašius11.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     —  « —
@@ -56,13 +50,11 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
     gera.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Atrodo, kad ir lietu­ viški rubliai, tai yra, sidabrinės laz­ delės, arba liejinukai, šioje kalykloje buvo daromi rusiškų pavyzdžiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     11
@@ -81,9 +73,7 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
     Ašmenos buvo rasta daug kartų.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

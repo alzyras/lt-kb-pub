@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Vilniaus vaivadija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kraštas
   - pilis
@@ -26,13 +17,15 @@ tags:
 Krašto padalinimas į pavietus ir vaivadijas.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Krašto padalinimas į pavietus ir vaivadijas.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Krašto padalinimas į pavietus ir vaivadijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Krašto padalinimas į pavietus ir vaivadijas. Visas kraš-
@@ -47,8 +40,6 @@ Krašto padalinimas į pavietus ir vaivadijas.
     pavietuose priklausė seniūnams, o vaivadijose — vaivadoms.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,13 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos kariuomenės pertvarkymo įstatymas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
 ---
@@ -18,27 +15,44 @@ tags:
 Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Liepos 3 d. priimtu Lietuvos kariuomenės pertvarkymo įstatymu kariuomenė tapo Liaudies kariuomene.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Liepos 3 d. priimtu Lietuvos kariuomenės pertvarkymo įstatymu kariuomenė tapo Liaudies kariuomene.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Liepos 3 dieną priimtas Lietuvos
+    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
+    Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
+    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
     kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
     liau – Raudonosios armijos 29-uoju šaulių korpusu).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Liepos 3 dieną priimtas Lietuvos kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vėliau – Raudonosios armijos 29-uoju šaulių korpusu).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Maskva diegė SSRS valdymo modelį administracijoje, policijoje, teis-
+    muose, pradėta kurti liaudies milicija. Liepos 3 dieną priimtas Lietuvos
+    kariuomenės pertvarkymo įstatymas, ji tapo Liaudies kariuomene (vė-
+    liau – Raudonosios armijos 29-uoju šaulių korpusu). Liepos 11 dieną su-
+    stabdyta Lietuvos šaulių sąjungos veikla, ji nuginkluota.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002

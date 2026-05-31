@@ -1,18 +1,23 @@
 ---
 tipas: posakis
 pavadinimas: '„Šventos santuokos“'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+datos:
+  - '1386 m.'
+  - '1569 m.'
+date_start: '1386'
+date_end: '1569'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - tauta
   - unija
   - valstybė
+amziai:
+  - 'XIV'
+  - 'XVI'
 ---
 # „Šventos santuokos“
 
@@ -21,47 +26,75 @@ tags:
 „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Galima su šypsena žiūrėti į tradicinės lenkų istorinės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos partneris?
 
 ## Teiginiai
-- t-001
-  teiginys: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Galima su šypsena žiūrėti į tradicinės lenkų istorinės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos partneris?'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai buvo ori-
+    ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
+    Sąjungos pirmtaku. Be Lenkijos ir Lietuvos suartėjimo ir kariuomenių
+    sąjungos nebūtų buvo Žalgirio pergalės, o sėkmingos Livonijos karo baig-
+    ties XVI a. – būtent be Liublino unijos.
+    Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
+    kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
+    o Lenkijos Respublika.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
 - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
+    visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino uni-
+    ja, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai buvo ori-
+    ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
+    Sąjungos pirmtaku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-003
   santrauka: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    ABIEJŲ TAUTŲ RESPUBLIKA
+    Liublino unija
+    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
+    visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino uni-
+    ja, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai buvo ori-
     ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
+    Sąjungos pirmtaku.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Galima su šypsena žiūrėti į tradicinės lenkų istorinės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos partneris?'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/grupes/Lenkai]]

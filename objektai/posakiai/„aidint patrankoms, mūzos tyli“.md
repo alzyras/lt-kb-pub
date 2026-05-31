@@ -53,6 +53,7 @@ Sakoma: aidint patrankoms, mūzos tyli.
 - [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/zodynas/reformacija]]
 - [[objektai/grupes/Katalikų bažnyčia katalikai]]

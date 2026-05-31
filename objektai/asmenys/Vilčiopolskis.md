@@ -1,24 +1,20 @@
 ---
 tipas: asmuo
 pavadinimas: 'Vilčiopolskis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1610 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1610'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
+amziai:
+  - 'XVII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Vilčiopolskis
 
@@ -27,13 +23,15 @@ tags:
 Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui Vilčiopolskiui.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui Vilčiopolskiui.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui Vilčiopolskiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jonas Neliubovičius mūrinį namą su sklypu par­
@@ -45,9 +43,7 @@ Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui V
     metų Akademijos kolegijai turėsiąs priklausyti.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

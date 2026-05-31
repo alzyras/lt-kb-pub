@@ -1,27 +1,21 @@
 ---
 tipas: daiktas
 pavadinimas: 'Vilniaus miestiečių gynybinė ginkluotė'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1522 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1522'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - daiktas
   - karalius
   - miestas
   - pilis
+amziai:
+  - 'XVI'
 ---
 # Vilniaus miestiečių gynybinė ginkluotė
 
@@ -30,29 +24,35 @@ tags:
 Ma­ gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­ tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­ ma dieną ir naktį.
 
 ## Pavadinimai šaltiniuose
+
 Nenurodyta
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Naudojimas
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Ma­ gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­ tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­ ma dieną ir naktį.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Ma­ gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­ tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­ ma dieną ir naktį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gaisro atveju kiekvienas miestie­
@@ -69,9 +69,7 @@ Nenurodyta
     ma dieną ir naktį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1495 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1495'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - kunigaikštis
   - paprotys
   - valdovas
   - vyskupas
+amziai:
+  - 'XV'
 ---
 # Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas
 
@@ -30,55 +24,40 @@ tags:
 O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir. Tada Aleksandras šalia prašmatniose rogėse sėdin­ čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į Šv.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Tada Aleksandras šalia prašmatniose rogėse sėdin­ čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į Šv.'
   pagrindžia:
     - c-002
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
-    terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
-    tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
-    sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
-    Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
-    daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
-    rinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo
-    miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos
-    ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
-    tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
-    bėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+- t-001
+  teiginys: 'O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­ terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­ tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­ sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio, Mykolo Rusalkos ir.'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Tada Aleksandras šalia prašmatniose rogėse sėdin­ čios Elenos jojo raitas iki miesto, kur sužadėtinė, išklausiusi mišias graikų apeigų cerkvėje, buvo iškilmingai nuvesta į Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tada Aleksandras šalia prašmatniose rogėse sėdin­
@@ -94,11 +73,34 @@ Nenurodyta
     42 daugelyje rusų metraščių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
+    O tada, carui sutikus, kad Lietuvos valdovas vestų jo duk­
+    terį (1495 m.), sužadėtoji didžioji kunigaikštytė Elena, ki­
+    tų metų sausį išvažiavusi iš Maskvos, į Vilnių atvyko va­
+    sarį, lydima bojarinų: kunigaikščio Simono Rapolovskio,
+    Mykolo Rusalkos ir Prokopo Zinovjevičiaus, jų žmonų bei
+    daugybės kitų dvariškių, kambarinių, arklininkų ir boja­
+    rinų vaikų. Ją sutiko pats Aleksandras per pusę mylios nuo
+    miesto, kelyje į Nemėžį, ir ten, apsupti dvaro bei tarybos
+    ponų, sustoję ant žydros, auksu siuvinėtos gelumbės pa­
+    tiesalo, padavė vienas kitam rankas ir pirmąkart pasikal­
+    bėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

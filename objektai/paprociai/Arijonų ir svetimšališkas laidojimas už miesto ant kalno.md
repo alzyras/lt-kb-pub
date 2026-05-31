@@ -1,19 +1,10 @@
 ---
 tipas: paprotys
 pavadinimas: 'Arijonų ir svetimšališkas laidojimas už miesto ant kalno'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - paprotys
@@ -25,29 +16,35 @@ tags:
 62 Pagal vietinį Vilniaus paprotį, Beke­ šas dėl to turėjęs būti palaidotas ant kalno už miesto, kadangi buvęs arijonas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: '62 Pagal vietinį Vilniaus paprotį, Beke­ šas dėl to turėjęs būti palaidotas ant kalno už miesto, kadangi buvęs arijonas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '62 Pagal vietinį Vilniaus paprotį, Beke­ šas dėl to turėjęs būti palaidotas ant kalno už miesto, kadangi buvęs arijonas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     62
@@ -75,9 +72,7 @@ Nenurodyta
     gis, pag.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

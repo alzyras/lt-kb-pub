@@ -57,7 +57,6 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 - [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]
 - [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui]]
-- [[objektai/paprociai/Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas]]
 - [[objektai/asmenys/Heidenreichas|Heidenreichas (vyskupas, XIII–XIV a.)]]
 - [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

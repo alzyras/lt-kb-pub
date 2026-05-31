@@ -1,29 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Pukuveras (Lietuvos karalius, XIII a.)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Pukuveras'
-aliases:
-  - 'Pukuveras'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1292 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1292'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - ordinas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Pukuveras (Lietuvos karalius, XIII a.)
 
@@ -32,31 +26,20 @@ tags:
 Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum): Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267, 269, 306, 310, 356). Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum): Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267, 269, 306, 310, 356).'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.'
   pagrindžia:
     - c-002
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum): Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267, 269, 306, 310, 356).'
-  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
-  citata_originali: |
-    Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):
-    Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,
-    269, 306, 310, 356).
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-001
+  teiginys: 'Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum): Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267, 269, 306, 310, 356).'
   pagrindžia:
-    - t-001
+    - c-001
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad apie Lenkijos žemės apiplėšimą Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį538 su didele kariuomene į Lenkiją, į Bresto žemę539; kai jie ten pridarė daug žalos, galybę žmonių nukovę bei paėmę į nelaisvę, išdeginę bei išgrobstę.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie Lenkijos žemės apiplėšimą
@@ -89,11 +72,26 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     tučtuojau grįšite atgal, jus grįžtančius išžudys saviškiai“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
+- c-001
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowinorum):
+    Mindaugą (tik titulą), Pukuverą, Vytenį, Gediminą (III, 160, 228, 248, 250, 259, 267,
+    269, 306, 310, 356).
+      208 Paprastus žmones, prastuomenę D. vadina communis populus  (III, 5, 188,
+    249, 259, 291; Jer,— dî gemeine schar) arba ignobiles — nekilmingieji (III, 5, 220).
+    Jis vardija vargšus, neturtingus (pauperes), menkus, silpnus (impotentes), vergus ir
+    tarnaites, verges (servi et ancille — III, 5; mulier Pruthena servilis condicionis — III,
+    130), taip pat laukininkus — valstiečius (rustict — III, 262).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

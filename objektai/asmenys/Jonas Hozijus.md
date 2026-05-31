@@ -43,10 +43,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   teiginys: '1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
   pagrindžia:
@@ -55,6 +51,10 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   teiginys: 'Dėl to taip pat norime ir šiuo mūsų raštu patvirtiname, kad minėtasis Jonas Hozijus ir jo įpėdiniai, tvarkantys muitą, arba mokestį tiek tilto, tiek prieglaudos, laikinai mūsų skiriami prieš mi­ nėtąjį Jo šv.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijaus, atiteko Sebastijonui Vitinskiui.'
@@ -124,41 +124,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Jos statybą prieš tai buvo pradė­
-    jęs, norėjo užbaigti ir jau nemažą jos dalį išmūrijęs buvo, bet
-    pirmiau negu užbaigti įstengė, kaip paprastai atsitinka žmo­
-    nėms, atsisveikino su šiuo pasauliu. Mes į jo vietą garbingąjį
-    Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas
-    ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam
-    patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­
-    kimai vykdydamas, gerai mums užsirekomendavo, taip pat
-    ir, mūsų valia bei paliepimu, taisydamas tą patį tiltą, kurį pra­
-    ėjusį pavasarį didelės vandens ir ledų sangrūdos sugadino ir
-    sulaužė, parodė savo uolumą, tiltui suteikdamas pirmykštį
-    tvirtumą ir pritaikydamas jį žmonėms naudotis, iš anksto
-    surinkęs šiek tiek pinigų iš ano muito ir tikėdamasis iš jo
-    tolesnių pajamų. Taigi mes, pageidaudami, kad šis tiltas taip
-    visiems būsimiems laikams ir tuo atveju, ar dėl kokio priešo
-    užpuolimo, bėgant laikui, arba dėl galingo vandens protrū­
-    kio pakenktas, vėl galėtų būti atstatytas ir pataisytas, minė­
-    tą muitą arba mokestį, aukščiau aprašytą, kurį minėti Ulri­
-    kas Hozijus ir jo sūnus Jonas mūsų aukščiau įvardintu
-    sprendimu ir valia rinko, tikra mūsų žinia ir karališkąja va­
-    lia nusprendėme skirti tam pačiam tiltui ir šiuo mūsų raštu
-    patvirtiname, kad žmonės su savo daiktais ir prekėmis per
-    jį pereinantys, pagal mūsų nurodymą, aukščiau pareikštą, pri­
-    valo mokėti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, aukš­ čiau paminėtas garbingasis Jonas Hozijus, kurį to paties tilto prokuratoriumi ir provizoriumi skiriame, tilto muitą, kurį jo, kaip minėtos prieglaudos provizoriaus žiniai, pavedėme.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -211,6 +176,41 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Mes į jo vietą garbingąjį Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­ kimai vykdydamas, gerai mums užsirekomendavo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jos statybą prieš tai buvo pradė­
+    jęs, norėjo užbaigti ir jau nemažą jos dalį išmūrijęs buvo, bet
+    pirmiau negu užbaigti įstengė, kaip paprastai atsitinka žmo­
+    nėms, atsisveikino su šiuo pasauliu. Mes į jo vietą garbingąjį
+    Joną Hozijų, minėtojo Ulriko sūnų, paskyrėme: jis, būdamas
+    ištikimas doros ir tėvo pasekėjas, kaip įvairias kitas mūsų jam
+    patikėtas pareigas, taip pat ir šį muito mokesčio rinkimą išti­
+    kimai vykdydamas, gerai mums užsirekomendavo, taip pat
+    ir, mūsų valia bei paliepimu, taisydamas tą patį tiltą, kurį pra­
+    ėjusį pavasarį didelės vandens ir ledų sangrūdos sugadino ir
+    sulaužė, parodė savo uolumą, tiltui suteikdamas pirmykštį
+    tvirtumą ir pritaikydamas jį žmonėms naudotis, iš anksto
+    surinkęs šiek tiek pinigų iš ano muito ir tikėdamasis iš jo
+    tolesnių pajamų. Taigi mes, pageidaudami, kad šis tiltas taip
+    visiems būsimiems laikams ir tuo atveju, ar dėl kokio priešo
+    užpuolimo, bėgant laikui, arba dėl galingo vandens protrū­
+    kio pakenktas, vėl galėtų būti atstatytas ir pataisytas, minė­
+    tą muitą arba mokestį, aukščiau aprašytą, kurį minėti Ulri­
+    kas Hozijus ir jo sūnus Jonas mūsų aukščiau įvardintu
+    sprendimu ir valia rinko, tikra mūsų žinia ir karališkąja va­
+    lia nusprendėme skirti tam pačiam tiltui ir šiuo mūsų raštu
+    patvirtiname, kad žmonės su savo daiktais ir prekėmis per
+    jį pereinantys, pagal mūsų nurodymą, aukščiau pareikštą, pri­
+    valo mokėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -225,5 +225,4 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
 - [[objektai/zodynas/muitas tilto mokestis]]
 - [[objektai/zodynas/špitolė prieglauda]]
 - [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]
-- [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]
 - [[objektai/zodynas/prokuratorius ir provizorius]]

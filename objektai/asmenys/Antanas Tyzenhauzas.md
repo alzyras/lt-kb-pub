@@ -262,6 +262,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
 - [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
 - [[objektai/zodynas/Baroko epocha]]
+- [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lotynai]]

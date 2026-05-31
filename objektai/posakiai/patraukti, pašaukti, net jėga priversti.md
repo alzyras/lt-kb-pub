@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'patraukti, pašaukti, net jėga priversti'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - dokumentas
@@ -27,13 +18,15 @@ tags:
 Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams sutinkant, jis įsipareigojo visus lietuvių tautos gyventojus, kokioje jie bebūtų sektoje, «patraukti, pašaukti, net jėga priversti » paklusti Romos Bažnyčiai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams sutinkant, jis įsipareigojo visus lietuvių tautos gyventojus, kokioje jie bebūtų sektoje, «patraukti, pašaukti, net jėga priversti » paklusti Romos Bažnyčiai.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams sutinkant, jis įsipareigojo visus lietuvių tautos gyventojus, kokioje jie bebūtų sektoje, «patraukti, pašaukti, net jėga priversti » paklusti Romos Bažnyčiai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Prie to jie « gali
@@ -47,9 +40,7 @@ Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams
     (^18) **CDV, I, 29-30 (nr.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -57,3 +48,4 @@ Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems Lietuvos didikams
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]

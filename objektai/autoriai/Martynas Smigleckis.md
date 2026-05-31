@@ -63,6 +63,10 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   teiginys: 'Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į.'
   pagrindžia:
     - c-005
+- t-010
+  teiginys: '55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -175,6 +179,29 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-006
+  santrauka: '55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    55
+    Vilniui šis stiklo monopolis turėjo
+    būti įsimintinas, kai Smigleckis, au­
+    torius nepaprastai parašytos ir savo
+    laiku labai patrauklios knygos „Apie
+    palūkanas, atpirkimus, činšus, ben­
+    drą pelną, nuomas, mainus ir apie
+    privačią prekybą - trumpas moks­
+    las, parašytas kun. Martyno Smig-
+    leckio, jėzuito, šv. teologijos dakta­
+    ro". 7-as leidimas, Krokuvoje, pas
+    Andžejų Piotrkovčiką, 1640, in 4to.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai

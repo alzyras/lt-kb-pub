@@ -185,3 +185,4 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/zodynas/maršalka]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.)]]
+- [[objektai/zodynas/kontribucija]]

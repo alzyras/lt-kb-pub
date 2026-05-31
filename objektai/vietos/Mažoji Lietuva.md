@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1750 m.'
+  - '1914 m.'
   - '1921 m.'
   - '1935 m.'
   - '1940 m.'
@@ -17,6 +18,7 @@ periodo_grupes:
   - 'LDK'
   - 'XX a.'
   - 'modernioji Lietuva'
+  - 'naujieji laikai'
 amziai:
   - 'XVIII'
   - 'XX'
@@ -83,10 +85,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   teiginys: '), plėtojosi meno saviveikla, buvo kuriami chorai, JAV lietuviai finansiškai rėmė Lietuvos kultūrinį gyvenimą, rengė politines akcijas, atkreipdami dėmesį į tautinius suvaržymus Rusijos imperijoje.'
   pagrindžia:
     - c-012
-- t-013
-  teiginys: 'Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautiečiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspoziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų, kitų daiktų, o svarbiausia – slapta Prūsijoje.'
-  pagrindžia:
-    - c-013
 - t-014
   teiginys: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
   pagrindžia:
@@ -108,9 +106,13 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - c-018
 - t-019
-  teiginys: 'Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje ir Mažojoje Lietuvoje yra surišta su lydimais.'
+  teiginys: 'Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautiečiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspoziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų, kitų daiktų, o svarbiausia – slapta Prūsijoje.'
   pagrindžia:
     - c-019
+- t-020
+  teiginys: 'Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje ir Mažojoje Lietuvoje yra surišta su lydimais.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -311,28 +313,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-- c-013
-  santrauka: 'Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautiečiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspoziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų, kitų daiktų, o svarbiausia – slapta Prūsijoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-
-    čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
-    ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
-    kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
-
-    L I E T U V O S  I S T O R I J A
-    122
-    pavyzdžių. Taip pasauliui buvo pasiųsta žinia, kad caro valdžia draudžia
-    spaudą lietuvių – lotynų abėcėle ir kad yra tokia šalis – Lietuva.
-    Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
-    atrado dar vieną – lenkų polonizatorius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
 - c-014
   santrauka: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -407,6 +387,28 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   pagrindžia:
     - t-018
 - c-019
+  santrauka: 'Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautiečiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspoziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų, kitų daiktų, o svarbiausia – slapta Prūsijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-
+    čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
+    ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
+    kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
+
+    L I E T U V O S  I S T O R I J A
+    122
+    pavyzdžių. Taip pasauliui buvo pasiųsta žinia, kad caro valdžia draudžia
+    spaudą lietuvių – lotynų abėcėle ir kad yra tokia šalis – Lietuva.
+    Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
+    atrado dar vieną – lenkų polonizatorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
   santrauka: 'Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje ir Mažojoje Lietuvoje yra surišta su lydimais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -421,4 +423,4 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-019
+    - t-020

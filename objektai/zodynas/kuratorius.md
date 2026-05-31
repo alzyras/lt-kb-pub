@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'kuratorius'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,16 +15,15 @@ tags:
 Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rusi-
@@ -41,13 +37,34 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 
 
     Adomas Čartoriskis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vienos tokios apygardos centru buvo Vilnius;
+    prie jos priklausė visos buvusios Lietuvos kunigaikštijos žemės
+    ir, be to, dar Voluinė, Podolė ir Kijevo sritis (vėliau tos apy-
+    gardos ribos buvo kaitaliojamos, bet jos centras visą laiką
+    buvo Vilnius). Apygardos viršininku — kuratorium buvo pa-
+    skirtas caro Aleksandro jaunystės draugas ir artimas patarėjas
+
+
+    Adomas Čartoriskis. Tuo pat metu įsteigtas Vilniaus
+    universitetas taip pat priklausė apygardos kuratoriui ir turėjo
+    prižiūrėti visas apygardoje
+    esančias žemesniąsias moky-
+    klas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

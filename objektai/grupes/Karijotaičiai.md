@@ -60,23 +60,22 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
-  pagrindžia:
-    - c-007
 - t-008
   teiginys: '1366 vasarą Kazimieras, remiamas Mozūrijos Ziemovito ir Karijotaičių Jurgio ir Aleksandro, su kuriais Liubartas buvo suėjęs į konfliktą, padarė žygį.'
   pagrindžia:
     - c-008
-
+- t-009
+  teiginys: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
+  pagrindžia:
+    - c-011
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nėra galutinai išaiškinta, kada Karijotaičiai pasirodė Podolėje.'
@@ -148,10 +147,30 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
+- c-008
+  santrauka: '1366 vasarą Kazimieras, remiamas Mozūrijos Ziemovito ir Karijotaičių Jurgio ir Aleksandro, su kuriais Liubartas buvo suėjęs į konfliktą, padarė žygį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1366 vasarą Kazimieras, remiamas Mozūrijos Ziemovito ir
+    Karijotaičių Jurgio ir Aleksandro, su kuriais Liubartas buvo suėjęs
+    į konfliktą, padarė žygį. Tada Kęstutis buvo užimtas kovomis
+    su ordinu, o Algirdas ruošėsi žygiui į Maskvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
   santrauka: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
+
     Lietuvos kariuomenė buvo sudaryta
     iš Lietuvos valdovo Algirdo ir jo brolio
     Karijoto trijų sūnų - Karijotaičių vado-
@@ -159,21 +178,20 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     jūros pajūrio ir Krymo totorių teritori-
     jos trijų vadų-kunigaikščių Chadžibėjaus,
     Kutlugbugo, Dmitrijaus kariuomene.
-
-    Didžiausia tikimybė, kad Mėlynieji Van-
-    denys, tai Siniuchos upė Pietų Ukrainoje,
-    kairysis Pietinio Bugo intakas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-006
+    - t-009
+- c-010
   santrauka: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Neišlaikę spaudimo totoriai bėgo“ žuvo
+    daug murzy ir ulonų.
+
     Mūšio padariniai
 
     „Pasakojime apie Podolę“ tei-
@@ -200,12 +218,15 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-007
+    - t-010
+- c-011
   santrauka: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Algirdo remiami Karijotaičiai,
+    Tai buvo
+    pirmas Rytų Europoje toks didelis įsiverži-
+    mas į Ordos valdas, sudavęs jos įtakai di-
+    delį smūgį. Algirdo remiami Karijotaičiai,
     įsitvirtinę Mažojoje Podolėje, vietiniams
     gyventojams pritariant, organi-
     zavo šio krašto gynybą nuo
@@ -219,44 +240,24 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: '1366 vasarą Kazimieras, remiamas Mozūrijos Ziemovito ir Karijotaičių Jurgio ir Aleksandro, su kuriais Liubartas buvo suėjęs į konfliktą, padarė žygį.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1366 vasarą Kazimieras, remiamas Mozūrijos Ziemovito ir
-    Karijotaičių Jurgio ir Aleksandro, su kuriais Liubartas buvo suėjęs
-    į konfliktą, padarė žygį. Tada Kęstutis buvo užimtas kovomis
-    su ordinu, o Algirdas ruošėsi žygiui į Maskvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Karijotas]]
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Liubartas]]
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/baskakas]]
 - [[objektai/asmenys/Chadžibėjus]]
 - [[objektai/asmenys/Dmitrijus (totorių vadas)]]
 - [[objektai/autoriai/Karamzino]]
 - [[objektai/asmenys/Kutlubuga]]
 - [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/zodynas/atamanas]]
-- [[objektai/zodynas/baskakas]]
 - [[objektai/autoriai/St. Krakowski]]

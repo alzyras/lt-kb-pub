@@ -1,19 +1,10 @@
 ---
 tipas: ivykis
 pavadinimas: 'Naujas Sventopelko karas ir susidūrimas prie Renzeno'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
@@ -27,30 +18,36 @@ tags:
 Dusburgietis teigia, kad pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis, žiaurus ir neteisingas, neilgai tepajėgė nuslėpti įgimtą nedorovingumą, kurį iš jaunų dienų buvo pratęs rodyti; praslinkus vieniems metams nuo tos dienos, kai buvo. Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis, žiaurus ir neteisingas, neilgai tepajėgė nuslėpti įgimtą nedorovingumą, kurį iš jaunų dienų buvo pratęs rodyti; praslinkus vieniems metams nuo tos dienos, kai buvo.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant.'
   pagrindžia:
     - c-002
 
+- t-001
+  teiginys: 'Dusburgietis teigia, kad pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis, žiaurus ir neteisingas, neilgai tepajėgė nuslėpti įgimtą nedorovingumą, kurį iš jaunų dienų buvo pratęs rodyti; praslinkus vieniems metams nuo tos dienos, kai buvo.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis, žiaurus ir neteisingas, neilgai tepajėgė nuslėpti įgimtą nedorovingumą, kurį iš jaunų dienų buvo pratęs rodyti; praslinkus vieniems metams nuo tos dienos, kai buvo.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     pameta kelią, kurį pamėgo jaunystėje, dėl to ir veidmainingasis Pomeranijos kunigaikštis,
@@ -66,13 +63,11 @@ Nenurodyta
     pelkės, vardu Renzenas279, kur naktį ilsėjosi.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad šiam sumanymui pasipriešino brolis Berlevinas, naujas maršalas; nors senesnieji broliai nenoromis tam pritarė, nes jiems rodėsi, kad, anksčiau puldami, priverstų juos gintis, bet paklausė šio patarimo ir, drąsiai užgriuvę jų priekinius būrius, bematant.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie tai sužinoję, Kulmo pilies broliai pasekė
@@ -91,9 +86,7 @@ Nenurodyta
     pamatę išžudytus brolius. Prūsai besivydami daugybę išžudė, o kiti pabėgo280.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 

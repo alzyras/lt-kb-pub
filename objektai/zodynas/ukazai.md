@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'ukazai'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - reforma
   - sąvoka
@@ -19,16 +16,15 @@ tags:
 Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
@@ -36,13 +32,25 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
     Dvarininkai, žinoma, tik savimi tesirūpino. Visą reformą pagal
     manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti
     per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Dvarininkai, žinoma, tik savimi tesirūpino. Visą reformą pagal
+    manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti
+    per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą). Su
+    valstiečiais turėjo būti sudarytos specialios sutartys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

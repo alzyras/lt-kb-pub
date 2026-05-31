@@ -1,31 +1,23 @@
 ---
 tipas: vieta
 pavadinimas: 'Čikaga'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1879 m.'
   - '1910 m.'
-  - '1917 m.'
   - '1952 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1879'
 date_end: '1952'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - seimas
   - vieta
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Čikaga
 
@@ -34,26 +26,30 @@ tags:
 Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV). Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o. Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV).'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: '1910 m. JAV (Pensilvanijoje, Čikagoje, Niujorke) gyveno 207 tūkst.'
   pagrindžia:
     - c-004
 
+- t-001
+  teiginys: 'Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV).'
+  pagrindžia:
+    - c-001
+
+- t-003
+  teiginys: 'Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.'
+  pagrindžia:
+    - c-003
+
+- t-002
+  teiginys: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Idėja skynėsi kelią ne tik Europo-
@@ -61,15 +57,22 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     (JAV).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
+    sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
+    formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos,
+    gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija,
+    caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
+    tiškai jie skilo: kai 1917 m. kovą Petrograde susirinko Lietuvių seimas,
+    revoliucijos euforijos apimtai kairei pasisakius už Lietuvos ateitį Rusijos
+    laisvų tautų federacijoje, aiškiai nepriklausomybės siekianti koservaty-
+    vioji dauguma apleido seimą.
     Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
     nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
     rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
@@ -78,15 +81,18 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     klausimą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Robertas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje), o juose vaidina seras John Gielgud (Džonas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lenkijos prezidento Bronislovo Komo-
+    rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
+    kio apskrityje. Galėtume vardyti tuos Lietuvos žmones, kuriuos emigra-
+    cijos bangos nunešė toli į pasaulį, tačiau ten daugelio jų pačių vardai tapo
+    geriau atpažįstami nei Lietuvos.
     Įsivaizduokime „idealiąją Lietuvą“, kurioje spektaklius ir filmus kuria
     ne tik Jonas Mekas ar teatro režisierius Eimuntas Nekrošius, bet ir Rober-
     tas Zemeckis (Robert Zemecki, gimęs Čikagoje 1952 m. lietuvio šeimoje),
@@ -94,13 +100,11 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     (Karolis Bučinskis).
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: '1910 m. JAV (Pensilvanijoje, Čikagoje, Niujorke) gyveno 207 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1910 m. JAV (Pensilvanijoje, Čikagoje, Niujorke) gyveno 207 tūkst. lietu-
@@ -117,8 +121,6 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     liglotas Georgas (liet.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004

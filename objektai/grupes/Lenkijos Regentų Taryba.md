@@ -1,19 +1,10 @@
 ---
 tipas: grupe
 pavadinimas: 'Lenkijos Regentų Taryba'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ginklas
   - grupe
@@ -26,13 +17,15 @@ tags:
 Tada okupacinę valdžią buvo paėmusios į savo rankas vokiečių kareivių (paskelbusių revoliuciją) tarybos.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tada okupacinę valdžią buvo paėmusios į savo rankas vokiečių kareivių (paskelbusių revoliuciją) tarybos.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tada okupacinę valdžią buvo paėmusios į savo rankas vokiečių kareivių (paskelbusių revoliuciją) tarybos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada okupacinę valdžią buvo paėmu-
@@ -44,9 +37,7 @@ Tada okupacinę valdžią buvo paėmusios į savo rankas vokiečių kareivių (p
     jėgos.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

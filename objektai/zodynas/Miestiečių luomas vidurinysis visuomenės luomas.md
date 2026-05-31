@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Miestiečių luomas vidurinysis visuomenės luomas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kunigaikštis
@@ -27,42 +18,25 @@ tags:
 Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos priežastis. Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­ ma, kad jis vėlavo, kaip ir bendra šalies civilizacijos raida, juk tai vyko tik XIV amžiuje. Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­ lių turtų, nei ypatingo svorio.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos priežastis.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­ ma, kad jis vėlavo, kaip ir bendra šalies civilizacijos raida, juk tai vyko tik XIV amžiuje.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­ lių turtų, nei ypatingo svorio.'
   pagrindžia:
     - c-003
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos priežastis.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    M. Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­
-    lyvos raidos priežastis. Istorikas kritiškai pažymėjo, kad dėl
-    miestiečių - viduriniojo visuomenės luomo - nebuvimo Lenki­
-    jos - Lietuvos valstybėje vyko daugiau destruktyvių procesų,
-    nulėmusių jos žlugimą. M. Balinskis įžvelgė savotišką miestų
-    kūrimosi vėlavimo dėsningumą Lietuvos istorijoje, sąlygojusį
-    politinio, ekonominio ir kultūrinio gyvenimo atsilikimą. „Lie­
-    tuvos miestiečių istorijoje galima pastebėti: pirmiausia, kad ji
-    vėlai pasireiškė, kaip kad ir bendra krašto civilizacijos raida vė­
-    lavo, - tik XIV amžiuje"10.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-002
+  teiginys: 'Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­ ma, kad jis vėlavo, kaip ir bendra šalies civilizacijos raida, juk tai vyko tik XIV amžiuje.'
   pagrindžia:
-    - t-001
+    - c-002
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­ ma, kad jis vėlavo, kaip ir bendra šalies civilizacijos raida, juk tai vyko tik XIV amžiuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Lietuvos miestiečių luomo istorijoje šit kas pastebima: pir­
@@ -77,13 +51,11 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
     lių turtų, nei ypatingo svorio.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide­ lių turtų, nei ypatingo svorio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui,
@@ -98,11 +70,28 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
     būta labai svarbių priežasčių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    M. Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­
+    lyvos raidos priežastis. Istorikas kritiškai pažymėjo, kad dėl
+    miestiečių - viduriniojo visuomenės luomo - nebuvimo Lenki­
+    jos - Lietuvos valstybėje vyko daugiau destruktyvių procesų,
+    nulėmusių jos žlugimą. M. Balinskis įžvelgė savotišką miestų
+    kūrimosi vėlavimo dėsningumą Lietuvos istorijoje, sąlygojusį
+    politinio, ekonominio ir kultūrinio gyvenimo atsilikimą. „Lie­
+    tuvos miestiečių istorijoje galima pastebėti: pirmiausia, kad ji
+    vėlai pasireiškė, kaip kad ir bendra krašto civilizacijos raida vė­
+    lavo, - tik XIV amžiuje"10.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

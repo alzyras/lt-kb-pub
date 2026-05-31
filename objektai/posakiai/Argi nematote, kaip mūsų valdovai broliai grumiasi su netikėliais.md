@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
   - valdovas
@@ -25,13 +16,15 @@ tags:
 Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė ore brolius kovojančius su lietuviais ir, sušaukęs savo šeimyną, tarė: „Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais?
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė ore brolius kovojančius su lietuviais ir, sušaukęs savo šeimyną, tarė: „Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais?'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė ore brolius kovojančius su lietuviais ir, sušaukęs savo šeimyną, tarė: „Argi nematote, kaip mūsų valdovai broliai grumiasi su netikėliais?'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Dar apie tą patį
@@ -45,9 +38,7 @@ Dusburgietis teigia, kad kai jis stovėjo prie savo namo durų, aiškiai matė o
     dievo angelus, kylančius su jų sielomis  į dangų“.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

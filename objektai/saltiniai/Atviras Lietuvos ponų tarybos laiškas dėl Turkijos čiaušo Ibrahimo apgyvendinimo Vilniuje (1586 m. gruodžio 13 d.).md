@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1586 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1586'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
   - saltinis
   - valdovas
+amziai:
+  - 'XVI'
 ---
 # Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.)
 
@@ -30,17 +24,20 @@ tags:
 354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE. Šiame laiške po parašais yra penki antspaudai.
 
 ## Teiginiai
+
 - t-001
   teiginys: '354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Šiame laiške po parašais yra penki antspaudai.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '354 ## Puslapis 371 IV KNYGA B) ATVIRAS LIETUVOS PONŲ TARYBOS LAIŠKAS DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ TURKIJOS ČLAUŠUI IBRAHIMUI, SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI, VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T, O JO NESANT VILNIUJE.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     354
@@ -107,13 +104,11 @@ tags:
     Rašytas Gardine. 1586 metų gruodžio mėnesio 13 dieną.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Šiame laiške po parašais yra penki antspaudai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     [manu proprio -
@@ -125,8 +120,6 @@ tags:
     Šiame laiške po parašais yra penki antspaudai.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

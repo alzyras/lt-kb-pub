@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Zygfridas iš Da[he]nfeldo'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1348 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1348'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - ordinas
   - valdovas
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Zygfridas iš Da[he]nfeldo
 
@@ -30,13 +26,15 @@ tags:
 „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.
 
 ## Teiginiai
+
 - t-001
   teiginys: '„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
@@ -63,9 +61,7 @@ tags:
     Lietuvos valdovo Algirdo ir vieno lyvių seniūno pokalbį.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -82,5 +78,4 @@ tags:
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Jonas Lonei]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
-- [[objektai/asmenys/Vinrichas fon Kniprodė]]
 - [[objektai/zodynas/stabmeldys]]

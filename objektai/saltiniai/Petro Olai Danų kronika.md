@@ -1,19 +1,10 @@
 ---
 tipas: saltinis
 pavadinimas: 'Petro Olai Danų kronika'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - upė
@@ -25,17 +16,20 @@ tags:
 Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie­ ną tokį žygį. Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijoje karaliui Kanutui (Cnud), kai dėl pragaištingo nederliaus visiems gyventojams trū­ ko grūdų, buvo įsakyta kas trečią žmogų išvaryti iš valsčiaus visiems laikams.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie­ ną tokį žygį.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijoje karaliui Kanutui (Cnud), kai dėl pragaištingo nederliaus visiems gyventojams trū­ ko grūdų, buvo įsakyta kas trečią žmogų išvaryti iš valsčiaus visiems laikams.'
   pagrindžia:
     - c-002
+
+- t-001
+  teiginys: 'Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie­ ną tokį žygį.'
+  pagrindžia:
+    - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie­ ną tokį žygį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nors ir patogio­
@@ -59,13 +53,11 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
     laikams.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijoje karaliui Kanutui (Cnud), kai dėl pragaištingo nederliaus visiems gyventojams trū­ ko grūdų, buvo įsakyta kas trečią žmogų išvaryti iš valsčiaus visiems laikams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Juk šis kroniki­
@@ -85,8 +77,6 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
     T. II.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

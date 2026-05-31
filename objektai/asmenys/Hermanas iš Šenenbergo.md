@@ -1,30 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Hermanas iš Šenenbergo (karvedys, XIII a.)'
-sukurta: '2026-05-30'
-variantai:
-  - 'Hermanas iš Šenenbergo'
-aliases:
-  - 'Hermanas iš Šenenbergo'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1262 m.'
   - '1277 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
 date_start: '1262'
 date_end: '1277'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - dokumentas
   - karvedys
   - kraštas
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'LDK'
 ---
 # Hermanas iš Šenenbergo (karvedys, XIII a.)
 
@@ -33,13 +27,15 @@ tags:
 Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru brolį Hermaną iš Šenenbergo480, prityrusį karvedį, kuris jiems pradėjo drąsiai priešintis: kiekvieną kartą, kai sūduviai su nedidele kariuomene įsibraudavo į Kulmo žemę, jis su savo ginklanešiais drąsiai jiems.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop
@@ -64,9 +60,7 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
     kariuomenės.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 
@@ -77,7 +71,6 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 ### Susiję objektai
 - [[objektai/asmenys/Bertoldas]]
 - [[objektai/asmenys/Bertoldas iš Nordhauzeno]]
-- [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Sūduviai]]

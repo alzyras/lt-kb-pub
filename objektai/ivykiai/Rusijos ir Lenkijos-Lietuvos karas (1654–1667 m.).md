@@ -129,7 +129,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
-- [[objektai/asmenys/Jonušas Radvila]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

@@ -1,34 +1,25 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'reformacija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1000 m.'
   - '1515 m.'
-  - '1517 m.'
   - '1539 m.'
-  - '1563 m.'
   - '1565 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-  - 'viduramžiai'
-amziai:
-  - 'X'
-  - 'XVI'
 date_start: '1000'
 date_end: '1565'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - kunigaikštis
   - reforma
   - sąvoka
+amziai:
+  - 'X'
+  - 'XVI'
 ---
 # reformacija
 
@@ -37,21 +28,25 @@ tags:
 1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų. Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip. Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.
 
 ## Teiginiai
-- t-001
-  teiginys: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma viena iš reikšmingiausių Naujųjų amžių apraiškų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma
@@ -65,32 +60,33 @@ tags:
     jo liuteronas Abraomas Kulvietis.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    ) Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-
+    Tokia įvykių seka rodė ne tik tai, kad Lie-
+    tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
+    Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
+    60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
+    į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
+    1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-
     sinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant
     su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
     padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
     teresų lygį ir taip išugdyti lietuvių inteligentiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pačios Katalikų bažnyčios įtaką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
+    A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
     diduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama
     rusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti:
     lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
@@ -100,12 +96,11 @@ tags:
     Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
     čios Katalikų bažnyčios įtaką. Lietuvos reformacijos ryškiausia ir įtakin-
     giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
-    Radvila Juodasis (1515–1565), 1563 m.
+    Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
+    ją“.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
 
@@ -135,9 +130,13 @@ tags:
 - [[objektai/grupes/Katalikų bažnyčia katalikai]]
 - [[objektai/paprociai/LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas]]
 - [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
+- [[objektai/paprociai/Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
+- [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/asmenys/Martynas Liuteris]]
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/grupes/Radvilos]]
 - [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]

@@ -1,26 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1640 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVII'
 date_start: '1640'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - privilegija
   - saltinis
+amziai:
+  - 'XVII'
 ---
 # Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą
 
@@ -29,19 +23,23 @@ tags:
 55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las. Nagrinėdamas geras ir blogas priva­ čios prekybos arba monopolio pu­ ses, Vilnių, stiklo prekių atžvilgiu, pateikia kaip pavyzdį, o jau buvo po Paleckio privilegijos žlugimo.
 
 ## Teiginiai
+
 - t-001
   teiginys: '55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Nagrinėdamas geras ir blogas priva­ čios prekybos arba monopolio pu­ ses, Vilnių, stiklo prekių atžvilgiu, pateikia kaip pavyzdį, o jau buvo po Paleckio privilegijos žlugimo.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '55 Vilniui šis stiklo monopolis turėjo būti įsimintinas, kai Smigleckis, au­ torius nepaprastai parašytos ir savo laiku labai patrauklios knygos „Apie palūkanas, atpirkimus, činšus, ben­ drą pelną, nuomas, mainus ir apie privačią prekybą - trumpas moks­ las.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Žr. VII priedą.
     55
     Vilniui šis stiklo monopolis turėjo
     būti įsimintinas, kai Smigleckis, au­
@@ -56,13 +54,11 @@ tags:
     Andžejų Piotrkovčiką, 1640, in 4to.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Nagrinėdamas geras ir blogas priva­ čios prekybos arba monopolio pu­ ses, Vilnių, stiklo prekių atžvilgiu, pateikia kaip pavyzdį, o jau buvo po Paleckio privilegijos žlugimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     7-as leidimas, Krokuvoje, pas
@@ -82,8 +78,6 @@ tags:
     duodami.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

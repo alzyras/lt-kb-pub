@@ -90,4 +90,3 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/kapituliacija]]

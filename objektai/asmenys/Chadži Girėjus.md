@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Chadži Girėjus'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1443 m.'
   - '1468 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
 date_start: '1443'
 date_end: '1468'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - ordinas
   - sutartis
+amziai:
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Chadži Girėjus
 
@@ -30,13 +26,15 @@ tags:
 Čia, Vilniuje (1443 metais), totorių pasiuntinių prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­ tas Perekopo chanu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Čia, Vilniuje (1443 metais), totorių pasiuntinių prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­ tas Perekopo chanu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Čia, Vilniuje (1443 metais), totorių pasiuntinių prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­ tas Perekopo chanu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Daug jų vyko
@@ -52,9 +50,7 @@ tags:
     tą38.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

@@ -1,25 +1,19 @@
 ---
 tipas: vieta
 pavadinimas: 'Štuthofas'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1943 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
 date_start: '1943'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - miestas
   - vieta
+amziai:
+  - 'XX'
 ---
 # Štuthofas
 
@@ -28,64 +22,40 @@ tags:
 – į Štuthofą, Dachau, Osvencimą. Keturi tarėjai, atsisakę vykdyti vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos stovyklą. Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.
 
 ## Teiginiai
+
 - t-001
   teiginys: '– į Štuthofą, Dachau, Osvencimą.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Keturi tarėjai, atsisakę vykdyti vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos stovyklą.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.'
-  pagrindžia:
-    - c-003
+
 - t-004
   teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
   pagrindžia:
     - c-004
 
+- t-003
+  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '– į Štuthofą, Dachau, Osvencimą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Keturi tarėjai, atsisakę vykdyti vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos stovyklą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
 - c-004
-  santrauka: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai masiškiausia
+    antinacinė organizacija, ji numatė bent dalyje teritorijos paskelbus ne-
+    priklausomybę išlaikyti ją ginklu.
+    1943 m., kai okupacinė vokiečių valdžia, vermachtui pralaimint Rytų
+    fronte, pareikalavo iš okupuotų tautų, tarp jų ir lietuvių, siųsti vyrus į
+    Vokietijos karines pajėgas, pradėjo agituoti lietuvius stoti į SS batalio-
+    ną, lietuvių pogrindis boikotavo akciją (iš visų nacių okupuotų šalių tik
+    Lenkijoje ir Lietuvoje naciams nepavyko suformuoti Waffen SS divizijų).
     Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
     46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
     klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
@@ -93,8 +63,55 @@ tags:
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau ir didžiųjų getų žydai žudyti vadinamųjų
+    akcijų metu. Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
+    ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
+    ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
+- c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pervadino vadybomis. Taigi lietuvių administracija prižiūrėta per lie-
+    tuvių generalinius tarėjus, pavaldžius generaliniam tarėjui – juo tapo
+    voldemarininkas gen. Petras Kubiliūnas. Keturi tarėjai, atsisakę vykdyti
+    vokiečių nurodymus, 1943 m. suimti ir išvežti į Štuthofo koncentracijos
+    stovyklą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
+
+- c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai masiškiausia
+    antinacinė organizacija, ji numatė bent dalyje teritorijos paskelbus ne-
+    priklausomybę išlaikyti ją ginklu.
+    1943 m., kai okupacinė vokiečių valdžia, vermachtui pralaimint Rytų
+    fronte, pareikalavo iš okupuotų tautų, tarp jų ir lietuvių, siųsti vyrus į
+    Vokietijos karines pajėgas, pradėjo agituoti lietuvius stoti į SS batalio-
+    ną, lietuvių pogrindis boikotavo akciją (iš visų nacių okupuotų šalių tik
+    Lenkijoje ir Lietuvoje naciams nepavyko suformuoti Waffen SS divizijų).
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-003

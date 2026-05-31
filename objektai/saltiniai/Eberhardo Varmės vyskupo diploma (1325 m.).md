@@ -1,26 +1,20 @@
 ---
 tipas: saltinis
 pavadinimas: 'Eberhardo Varmės vyskupo diploma (1325 m.)'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1325 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1325'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - tikėjimas
   - vyskupas
+amziai:
+  - 'XIV'
 ---
 # Eberhardo Varmės vyskupo diploma (1325 m.)
 
@@ -29,16 +23,19 @@ tags:
 Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 metais rašo: Quidam - factis caritatem negantes, que ambiciosa non est, nugis victum querentes in populo apud fideles predicare et asserere mendaciter sunt inventi, quod (Lethowini) Gristi.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 metais rašo: Quidam - factis caritatem negantes, que ambiciosa non est, nugis victum querentes in populo apud fideles predicare et asserere mendaciter sunt inventi, quod (Lethowini) Gristi.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 metais rašo: Quidam - factis caritatem negantes, que ambiciosa non est, nugis victum querentes in populo apud fideles predicare et asserere mendaciter sunt inventi, quod (Lethowini) Gristi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    19 ir 20). Tačiau apgaulė greitai išaiškėjo, jau Varmės
+    (Slaptasis archyvas, Spinta
+    XI, Nr. 19 ir 20). Tačiau apgaulė greitai išaiškėjo, jau Varmės
     vyskupas Eberhardas  1325 metais rašo: Quidam - factis
     caritatem negantes, que ambiciosa non est, nugis victum queren-
     tes in populo apud fideles predicare et asserere mendaciter sunt
@@ -62,8 +59,6 @@ Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 meta
     siai neigia].
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

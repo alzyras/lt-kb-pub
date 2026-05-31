@@ -1,25 +1,19 @@
 ---
 tipas: ivykis
 pavadinimas: 'Vilniaus sukilimo centrinio komiteto susikūrimas'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1830 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
 date_start: '1830'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - ivykis
   - sukilimas
+amziai:
+  - 'XIX'
 ---
 # Vilniaus sukilimo centrinio komiteto susikūrimas
 
@@ -28,29 +22,36 @@ tags:
 Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas.
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Dalyviai ir vaidmenys
+
 Nenurodyta
 
 ## Eiga
+
 Nenurodyta
 
 ## Rezultatas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
+    Be to,
+    politiniai įvykiai kuriam laikui visiškai sustabdė istorijos leidi­
+    mą. Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
     niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
     Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
     onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
@@ -58,9 +59,7 @@ Nenurodyta
     karinėse Rusijos imperijos gubernijose.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

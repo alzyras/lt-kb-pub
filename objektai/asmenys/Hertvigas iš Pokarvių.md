@@ -1,26 +1,22 @@
 ---
 tipas: asmuo
 pavadinimas: 'Hertvigas iš Pokarvių'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1322 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
 date_start: '1322'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - kraštas
   - pilis
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 ---
 # Hertvigas iš Pokarvių
 
@@ -29,16 +25,18 @@ tags:
 Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­ mėje 1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo iš Pokarvių sūnus, kuris, sulaukęs ketverių metų, numirė ir atgijo per viešpaties kryžiaus.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
+    122. Apie vieno berniuko prisikėlimą iš numirusiųjų Brandenburgo pilyje Prūsijos že­
                                      mėje
 
       1322 viešpaties metais Prūsijos žemėje, Brandenburgo pilyje, gyveno Tomas, Hertvigo
@@ -52,9 +50,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
         123.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

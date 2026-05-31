@@ -1,13 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'činšininkas'
-sukurta: '2026-04-25'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-04-25'
+sukurta: ''
+atnaujinta: ''
 tags:
   - sąvoka
 ---
@@ -18,16 +15,20 @@ tags:
 Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Daugelis valstiečių iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+
+- t-002
+  teiginys: 'Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Daugelis valstiečių iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia bajorijos buvo labai daug, bet ji daugiausia
@@ -37,13 +38,27 @@ Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų
     ir tebekalbėjo lietuviškai. Valstiečiai čia taip pat buvo geresnėje
     būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo
     činšininkai, o ne baudžiauninkai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau
+    būdami neturtingi, bajorai čia tebebuvo nenutolę nuo liaudies
+    ir tebekalbėjo lietuviškai. Valstiečiai čia taip pat buvo geresnėje
+    būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo
+    činšininkai, o ne baudžiauninkai. Todėl jie beveik buvo lygūs
+    su smulkbajoriais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

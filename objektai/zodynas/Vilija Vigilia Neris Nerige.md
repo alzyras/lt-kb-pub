@@ -1,29 +1,23 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'Vilija Vigilia Neris Nerige'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1390 m.'
   - '1926 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XX'
 date_start: '1390'
 date_end: '1926'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - krikštas
   - privilegija
   - sąvoka
   - upė
+amziai:
+  - 'XIV'
+  - 'XX'
 ---
 # Vilija Vigilia Neris Nerige
 
@@ -32,48 +26,30 @@ tags:
 5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė. Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­. Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.
 
 ## Teiginiai
-- t-001
-  teiginys: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
-  pagrindžia:
-    - c-001
+
 - t-002
   teiginys: 'Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.'
+
+- t-001
+  teiginys: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
   pagrindžia:
-    - c-003
+    - c-001
+
 - t-004
   teiginys: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
   pagrindžia:
     - c-004
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '5 Žodį Vilija, jeigu jo kilmės imtume ieškoti lietuvių kalboje, galima tarti kilus nuo Wiloju [vilioju] - gundau, arba nuo Wilius [vylius] - klasta, tad tokiu atveju Vilija reikštų Vilioklė.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Studija apie Vilniaus
-    atsiradimą.
-    5
-    Žodį Vilija, jeigu jo kilmės imtume
-    ieškoti lietuvių kalboje, galima tarti
-    kilus nuo Wiloju [vilioju] - gundau,
-    arba nuo Wilius [vylius] - klasta, tad
-    tokiu atveju Vilija reikštų Vilioklė.
-    Gal dėl to, kad ta nuostabi upė vi­
-    liojo ir masino prie savo krantų vie­
-    nišus, klajojančius po gūdžias girias
-    senovės lietuvius ir jų vaidilas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+
+- t-003
+  teiginys: 'Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.'
   pagrindžia:
-    - t-001
+    - c-003
+
+## Reikšmingi paminėjimai
+
 - c-002
-  santrauka: 'Juk randama, kad Vilniaus kapitulai 1390 metais Vladislovo Jo­ gailos duotoje privilegijoje, kuria do­ vanojami Paneriai, Vilija yra pava­ dinta Vigilia: obstaculum in superiori parte nostri obstaculi, in fluvio Vigilia situati [aukštutinėje dalyje mūsų už­.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Bet jeigu upei Vili­
@@ -95,13 +71,11 @@ tags:
     Lips. p. 1926. T. II.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
+
 - c-003
-  santrauka: 'Upė Nerige, dažnai minima senovi­ niame Lietuvos kelių aprašyme, esančiame Kryžiuočių archyve, yra dabartinė Vilija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Anksčiau kitaip
@@ -121,13 +95,11 @@ tags:
     rye ir Neria.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
+
 - c-004
-  santrauka: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Tačiau gali būti dar vie­
@@ -149,11 +121,30 @@ tags:
     Wilja.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-004
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Studija apie Vilniaus
+    atsiradimą.
+    5
+    Žodį Vilija, jeigu jo kilmės imtume
+    ieškoti lietuvių kalboje, galima tarti
+    kilus nuo Wiloju [vilioju] - gundau,
+    arba nuo Wilius [vylius] - klasta, tad
+    tokiu atveju Vilija reikštų Vilioklė.
+    Gal dėl to, kad ta nuostabi upė vi­
+    liojo ir masino prie savo krantų vie­
+    nišus, klajojančius po gūdžias girias
+    senovės lietuvius ir jų vaidilas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

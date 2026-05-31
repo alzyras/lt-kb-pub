@@ -1,19 +1,10 @@
 ---
 tipas: vieta
 pavadinimas: 'Žemutinė pilis Kreivoji pilis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - didikas
   - karalius
@@ -27,17 +18,20 @@ tags:
 O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
   pagrindžia:
     - c-001
+
 - t-002
   teiginys: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­ siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje, palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
@@ -53,13 +47,11 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     didžiai garbinama lietuvių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
 - c-002
-  santrauka: 'Iš Žemutinės pilies vakarinių var­ tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­ rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kunigaikščio rūmų pastatai,
@@ -87,8 +79,6 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     rių upokšnį, kuris šalimais su ana upe įtekėjo į Viliją.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002

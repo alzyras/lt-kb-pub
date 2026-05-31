@@ -45,14 +45,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Jis kiek sutrumpėjo, kai reikšmingais 1336 metais, prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­ tyta didelė keturių bokštų pilis Įsrutis (Insterburg).'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Metų pabaigoje magistras ruošėsi įsiveržti su kryžininkais anglais, prancūzais - bet žygio neįvykdė, juos sutelkė Įsrutyje gynybai nuo lietuvių.'
   pagrindžia:
@@ -61,7 +53,14 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   teiginys: 'Grįžęs namo, jis vėl organizavo žygį iš Įsruties į Kauną, „atnešė stabmeldžiams visokių nelaimių“, bet per Kauno mūrinės pilies statyba.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Jis kiek sutrumpėjo, kai reikšmingais 1336 metais, prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­ tyta didelė keturių bokštų pilis Įsrutis (Insterburg).'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1347 m. pabaigoje magistras sutelkė anglų ir prancūzų kryžininkus Įsrutyje gynybai nuo lietuvių.'
@@ -105,41 +104,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Rytų fronte Vokiečių jėgų menkumas leido Rusijos
-    kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsru-
-    ties, Gumbinės, Stalupėnų. Tačiau veikiai vokiečiai išstūmė ru-
-    sų kariuomenę ir įsiveržė į dabartinės Lietuvos teritoriją, ypa-
-    čiai į Suvalkų kraštą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Jis kiek sutrumpėjo, kai reikšmingais 1336 metais, prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­ tyta didelė keturių bokštų pilis Įsrutis (Insterburg).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš pagrindinės ordino žygių
-    bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo
-    gana tolimas. Jis kiek sutrumpėjo, kai reikšmingais 1336 metais,
-    prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių
-    plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­
-    tyta didelė keturių bokštų pilis Įsrutis (Insterburg). Ši paskutinė
-    ordino pilis dykroje virto svarbiu sustojimo punktu į «reysus»
-    žygiuojantiems ir grįžtantiems.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Metų pabaigoje magistras ruošėsi įsiveržti su kryžininkais anglais, prancūzais - bet žygio neįvykdė, juos sutelkė Įsrutyje gynybai nuo lietuvių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -174,3 +138,41 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    rugpiūčio mėnesį
+    Vokietija pirmiausia visomis jėgomis puolė vakaruose Belgiją ir
+    Prancūziją. Rytų fronte Vokiečių jėgų menkumas leido Rusijos
+    kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsru-
+    ties, Gumbinės, Stalupėnų. Tačiau veikiai vokiečiai išstūmė ru-
+    sų kariuomenę ir įsiveržė į dabartinės Lietuvos teritoriją, ypa-
+    čiai į Suvalkų kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Jis kiek sutrumpėjo, kai reikšmingais 1336 metais, prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­ tyta didelė keturių bokštų pilis Įsrutis (Insterburg).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
+    terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
+    deli kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir
+    rečiau lietuvių apgyventose vietose. Iš pagrindinės ordino žygių
+    bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo
+    gana tolimas. Jis kiek sutrumpėjo, kai reikšmingais 1336 metais,
+    prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių
+    plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­
+    tyta didelė keturių bokštų pilis Įsrutis (Insterburg).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

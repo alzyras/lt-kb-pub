@@ -89,7 +89,6 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
 - [[objektai/grupes/Bolševikų 2-asis šaulių pulkas]]
 - [[objektai/ivykiai/Brastos taikos derybos ir pasirašymas]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
-- [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/grupes/I brigada]]
 - [[objektai/asmenys/I. Musteikis]]

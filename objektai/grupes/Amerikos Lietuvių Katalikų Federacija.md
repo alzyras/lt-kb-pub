@@ -1,28 +1,22 @@
 ---
 tipas: grupe
 pavadinimas: 'Amerikos Lietuvių Katalikų Federacija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1899 m.'
   - '1912 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
 date_start: '1899'
 date_end: '1912'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karas
   - mokslininkas
+amziai:
+  - 'XIX'
+  - 'XX'
 ---
 # Amerikos Lietuvių Katalikų Federacija
 
@@ -31,13 +25,15 @@ tags:
 Be to, jis yra įkūręs Amerikos Lietuvių Katalikų Federaciją, kuri jungia visas katalikiškąsias Amerikos lietuvių organizacijas ir ypatingai rūpinasi švietimu ir mokyklų steigimu.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Be to, jis yra įkūręs Amerikos Lietuvių Katalikų Federaciją, kuri jungia visas katalikiškąsias Amerikos lietuvių organizacijas ir ypatingai rūpinasi švietimu ir mokyklų steigimu.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Be to, jis yra įkūręs Amerikos Lietuvių Katalikų Federaciją, kuri jungia visas katalikiškąsias Amerikos lietuvių organizacijas ir ypatingai rūpinasi švietimu ir mokyklų steigimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis yra įkūręs Amerikos Lietuvių Ka-
@@ -58,9 +54,7 @@ Be to, jis yra įkūręs Amerikos Lietuvių Katalikų Federaciją, kuri jungia v
     kai); ji turi apie 100 kuopų ir leidžia savo laikraštį „Vytį".
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

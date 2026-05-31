@@ -86,7 +86,15 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
   santrauka: 'Be to, suteikiame dvasiškiams pilną ir ne­ ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­ se, dominijose.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Be to, suteikiame dvasiškiams pilną ir ne­
+    , Venceslao Mednicensi Episcopis, nec non
+    402
+
+    ## Puslapis 419
+
+    IV KNYGA
+    laikytųsi tų pačių prievolių įsigytos ar įsigytinos nuosavy­
+    bės atžvilgiu, kurių laikėsi tie, iš kurių tą nuosavybę įsigijo
+    ar ruošiasi įsigyti. Be to, suteikiame dvasiškiams pilną ir ne­
     ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
     se, dominijose. Norime, kad ponai vyskupai turėtų įgalioji­
     mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto
@@ -112,7 +120,6 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Puslapis 77]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Stanislovas Skopas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/grupes/Vilniaus kapitula]]
@@ -120,3 +127,5 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
 - [[objektai/zodynas/užstato teisė dominijos teisė]]
 - [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Apaštalų Sostas]]
+- [[objektai/zodynas/jurisdikcija]]

@@ -1,19 +1,10 @@
 ---
 tipas: zodyno_irasas
 pavadinimas: 'vyskupijos stalas, personatai ir beneficijos'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - karas
   - kunigas
@@ -27,13 +18,15 @@ tags:
 Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­ sų diecezijoje egzistuojančių.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­ sų diecezijoje egzistuojančių.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­ sų diecezijoje egzistuojančių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Taigi, kai mes, Jurgis Radvila,
@@ -62,9 +55,7 @@ Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad i
     nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

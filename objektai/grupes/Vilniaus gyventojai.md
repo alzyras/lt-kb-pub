@@ -1,33 +1,25 @@
 ---
 tipas: grupe
 pavadinimas: 'Vilniaus gyventojai'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1387 m.'
   - '1390 m.'
   - '1521 m.'
-  - '1566 m.'
   - '1788 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVI'
-  - 'XVIII'
 date_start: '1387'
 date_end: '1788'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - grupe
   - karalius
   - kunigaikštis
   - kunigas
+amziai:
+  - 'XIV'
+  - 'XVIII'
 ---
 # Vilniaus gyventojai
 
@@ -36,88 +28,50 @@ tags:
 Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai. Buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios. Prie to dar prisidėjo pareiga, nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai steigti ten, kur anksčiau stovėjusios pagonių šventyklos arba augusios giraitės, medžiai, buvęs akmuo ar­ ba šiaip vietovė kokiam nors dievai­ čiui pašvęsta.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Prie to dar prisidėjo pareiga, nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai steigti ten, kur anksčiau stovėjusios pagonių šventyklos arba augusios giraitės, medžiai, buvęs akmuo ar­ ba šiaip vietovė kokiam nors dievai­ čiui pašvęsta.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Didelė dalis gyventojų žuvo per kautynes prie Žemuti­ nės pilies, o kiti, netekę prieglobsčio ir mieste, ir aplinkinėse pilyse, kryžiuočių nuožmiai nudriokotose, iš­ sibėgiojo po visą kraštą36.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390 metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­ jos parvyko į.'
-  pagrindžia:
-    - c-006
+
 - t-007
   teiginys: 'Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­ jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­ tolių už 60 000 sidabro luitų.'
   pagrindžia:
     - c-007
+
+- t-005
+  teiginys: 'Didelė dalis gyventojų žuvo per kautynes prie Žemuti­ nės pilies, o kiti, netekę prieglobsčio ir mieste, ir aplinkinėse pilyse, kryžiuočių nuožmiai nudriokotose, iš­ sibėgiojo po visą kraštą36.'
+  pagrindžia:
+    - c-005
+
+- t-002
+  teiginys: 'Buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios.'
+  pagrindžia:
+    - c-002
+
 - t-008
   teiginys: 'Bažnyčios pajamos priklausė: dalis arkipresbiteriui, da­ lis Vilniaus gyventojams, Šv.'
   pagrindžia:
     - c-008
+
+- t-006
+  teiginys: 'Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390 metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­ jos parvyko į.'
+  pagrindžia:
+    - c-006
+
+- t-001
+  teiginys: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
+  pagrindžia:
+    - c-001
+
+- t-004
+  teiginys: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Tuoj pat sušauktas lietuvių ku­
-    nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­
-    sirinkusiems žmonėms apie didelį ir esminį religijos pokytį.
-    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
-    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
-    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
-    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
-    liavietės, pradėta statyti Šv.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Buvo juk to­
-    kia visuotinė pirmykščių krikščionių
-    bažnyčios taisyklė - pagonis atver­
-    čiant į tikrąjį tikėjimą bažnyčias
-    113
 
-    ## Puslapis 130
-
-    VILNIAUS MIESTO ISTORIJA / TOMAS
-    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
-    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
-    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
-    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
-    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
-    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
-    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
-    tės, valdovas Vilniui suteikė Magdeburgo teises15.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Prie to dar prisidėjo pareiga, nuo seno jiems galiojanti, saugoti Vilniaus pilį: gyventojai steigti ten, kur anksčiau stovėjusios pagonių šventyklos arba augusios giraitės, medžiai, buvęs akmuo ar­ ba šiaip vietovė kokiam nors dievai­ čiui pašvęsta.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prie to dar prisidėjo pareiga,
@@ -175,32 +129,37 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     aptvertas mūro siena.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Čia slėpdavo­ si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­ mi28.'
+
+- c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Aukštutinė pilis, aukštų mūrų bei
-    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
-    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
-    pats miesto centras, nedidelis, su mediniais namais, bet su
-    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
-    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
-    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
-    mi28.
+    Buvo juk to­
+    kia visuotinė pirmykščių krikščionių
+    bažnyčios taisyklė - pagonis atver­
+    čiant į tikrąjį tikėjimą bažnyčias
+    113
+
+    ## Puslapis 130
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
+    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
+    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
+    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
+    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
+    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
+    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
+    tės, valdovas Vilniui suteikė Magdeburgo teises15.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-004
+    - t-002
+
 - c-005
-  santrauka: 'Didelė dalis gyventojų žuvo per kautynes prie Žemuti­ nės pilies, o kiti, netekę prieglobsčio ir mieste, ir aplinkinėse pilyse, kryžiuočių nuožmiai nudriokotose, iš­ sibėgiojo po visą kraštą36.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Ta nelaiminga ap­
@@ -217,53 +176,11 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     gyvenimo aprašymo.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390 metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­ jos parvyko į.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
-    metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau
-    pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos
-    tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­
-    jos parvyko į griuvėsiais virtusį gimtąjį miestą. Nemažos
-    maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­
-    kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra-
-    radusiems gyventojams, o karaliaus buvimas stiprino tie­
-    kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
-    gyventojai ir statytis namus ant degėsių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­ jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­ tolių už 60 000 sidabro luitų.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Gertrūdą.
-    Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­
-    jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­
-    tolių už 60 000 sidabro luitų.
-    Dinaburgo komtūras
-    (parašas)
-    Originalą atitinka:
-    Dr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
+
 - c-008
-  santrauka: 'Bažnyčios pajamos priklausė: dalis arkipresbiteriui, da­ lis Vilniaus gyventojams, Šv.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nuo įkūrimo laikų ta bažnyčia buvo pavesta klebonams
@@ -278,11 +195,80 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     Žygimanto Augusto patvirtintą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-008
+
+- c-004
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Aukštutinė pilis, aukštų mūrų bei
+    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
+    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
+    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
+    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
+    mi28.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-004
+
+- c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
+    metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau
+    pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos
+    tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­
+    jos parvyko į griuvėsiais virtusį gimtąjį miestą. Nemažos
+    maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­
+    kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra-
+    radusiems gyventojams, o karaliaus buvimas stiprino tie­
+    kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
+    gyventojai ir statytis namus ant degėsių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-006
+
+- c-007
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Gertrūdą.
+    Dar man sako pasiuntinys, kad, pasak Vilniaus gyvento­
+    jų žodžių, tasai gaisras (dėmė Vörste) Vytautui padaręs nuos­
+    tolių už 60 000 sidabro luitų.
+    Dinaburgo komtūras
+    (parašas)
+    Originalą atitinka:
+    Dr. Hennigas
+    Karai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-007
+
+- c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuoj pat sušauktas lietuvių ku­
+    nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­
+    sirinkusiems žmonėms apie didelį ir esminį religijos pokytį.
+    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
+    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
+    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
+    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
+    liavietės, pradėta statyti Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

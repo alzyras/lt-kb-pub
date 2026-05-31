@@ -1,25 +1,21 @@
 ---
 tipas: asmuo
 pavadinimas: 'Povilas Mieleckis'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1561 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1561'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - miestas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Povilas Mieleckis
 
@@ -28,13 +24,15 @@ tags:
 Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip patvirtina tų pačių vaitų sąrašas, išlikęs miesto ar­ chyve.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip patvirtina tų pačių vaitų sąrašas, išlikęs miesto ar­ chyve.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip patvirtina tų pačių vaitų sąrašas, išlikęs miesto ar­ chyve.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Po Rotundo Vilniaus
@@ -49,9 +47,7 @@ Po Rotundo Vilniaus vaitu tapo ir 1561 metais valdė Po­ vilas Mieleckis, kaip 
     abejotinas.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

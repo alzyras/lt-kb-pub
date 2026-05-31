@@ -1,27 +1,21 @@
 ---
 tipas: saltinis
 pavadinimas: 'Lietuvos Respublikos Konstitucija'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1992 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
 date_start: '1992'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - saltinis
   - seimas
   - tauta
   - valstybė
+amziai:
+  - 'XX'
 ---
 # Lietuvos Respublikos Konstitucija
 
@@ -30,13 +24,15 @@ tags:
 Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdymą pagal demokratinį Vakarų pasaulio modelį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vi-
@@ -59,8 +55,6 @@ Tapusi visateise Europos valstybe, Lietuva siekė pertvarkyti savo vidaus valdym
     čius; tautinėms bendrijoms valstybė teikia paramą.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

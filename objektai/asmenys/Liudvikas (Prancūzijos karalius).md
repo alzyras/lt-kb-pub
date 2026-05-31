@@ -1,28 +1,24 @@
 ---
 tipas: asmuo
 pavadinimas: 'Liudvikas (Prancūzijos karalius)'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1217 m.'
   - '1296 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
 date_start: '1217'
 date_end: '1296'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - karalius
   - kunigaikštis
   - popiežius
+amziai:
+  - 'XIII'
+periodo_grupes:
+  - 'viduramžiai'
 ---
 # Liudvikas (Prancūzijos karalius)
 
@@ -31,21 +27,25 @@ tags:
 Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol. Dusburgietis teigia, kad apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­ kų, patraukusių vaduoti šventosios žemės 1270 viešpaties metų rugpjūčio 25 dieną Liudvikas, Prancūzijos karalius, patraukė su dviem savo sūnumis ir daugybe kunigaikščių į. Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Dusburgietis teigia, kad apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­ kų, patraukusių vaduoti šventosios žemės 1270 viešpaties metų rugpjūčio 25 dieną Liudvikas, Prancūzijos karalius, patraukė su dviem savo sūnumis ir daugybe kunigaikščių į.'
-  pagrindžia:
-    - c-002
+
 - t-003
   teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.'
   pagrindžia:
     - c-003
+
+- t-001
+  teiginys: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
+  pagrindžia:
+    - c-001
+
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­ kų, patraukusių vaduoti šventosios žemės 1270 viešpaties metų rugpjūčio 25 dieną Liudvikas, Prancūzijos karalius, patraukė su dviem savo sūnumis ir daugybe kunigaikščių į.'
+  pagrindžia:
+    - c-002
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Apie viešpaties erškėčių vainiko perkėlimą
@@ -58,16 +58,28 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
     27.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Dusburgietis teigia, kad apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­ kų, patraukusių vaduoti šventosios žemės 1270 viešpaties metų rugpjūčio 25 dieną Liudvikas, Prancūzijos karalius, patraukė su dviem savo sūnumis ir daugybe kunigaikščių į.'
+
+- c-003
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­
+    83. Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
+
+      1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
+
+    karalių (Ptol. pried. p. 1217; Mart. p. 436).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-003
+
+- c-002
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    53. Apie Liudviko, Prancūzijos karaliaus, bei jo sūnaus mirtį ir apie daugybę kryžinin­
                           kų, patraukusių vaduoti šventosios žemės
 
       1270 viešpaties metų rugpjūčio 25 dieną Liudvikas, Prancūzijos karalius, patraukė
@@ -77,27 +89,23 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
     šventovei, tavajam vardui dėkoju, viešpatie”, o šitai pasakęs, atidavė dievui sielą.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Dusburgietis teigia, kad apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą 1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos karalių (Ptol.'
+
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
-    Apie švento Liudviko, Prancūzijos karaliaus, kanonizavimą
+    26. Apie viešpaties erškėčių vainiko perkėlimą
 
-      1296 viešpaties metais Bonifacas [VIII], popiežius, kanonizavo Liudviką, Prancūzijos
-
-    karalių (Ptol. pried. p. 1217; Mart. p. 436).
+      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
+    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

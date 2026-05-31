@@ -161,7 +161,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

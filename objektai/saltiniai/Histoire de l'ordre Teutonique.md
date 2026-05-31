@@ -1,39 +1,39 @@
 ---
 tipas: saltinis
-pavadinimas: 'Histoire de l''ordre Teutonique'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
+pavadinimas: 'Histoire de l''''ordre Teutonique'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - pilis
   - saltinis
 ---
-# Histoire de l'ordre Teutonique
+# Histoire de l''ordre Teutonique
 
 ## Santrauka
 
 24 Tai buvo ne garsusis prancūzų mar­ šalas Boucicaut, bet jo sūnus: juk D e W a 1 (Histoire de Vordre Teutonique T.
 
 ## Teiginiai
+
 - t-001
   teiginys: '24 Tai buvo ne garsusis prancūzų mar­ šalas Boucicaut, bet jo sūnus: juk D e W a 1 (Histoire de Vordre Teutonique T.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: '24 Tai buvo ne garsusis prancūzų mar­ šalas Boucicaut, bet jo sūnus: juk D e W a 1 (Histoire de Vordre Teutonique T.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
+    Taigi Derbio grafas, daly­
+    vavęs Vilniaus apgultyje 1390 m.,
+    negalėjo būti jo tėvas kunigaikštis
+    Lankasteris, mat jis, kelerius metus
+    prabuvęs Ispanijoje, siekdamas už­
+    imti Kastilijos sostą, bemaž tuo pat
+    metu tiesiai iš ten pargrįžo į Angliją.
     24
     Tai buvo ne garsusis prancūzų mar­
     šalas Boucicaut, bet jo sūnus: juk D e
@@ -54,8 +54,6 @@ tags:
     vo sumanę ginti perėjas25.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001

@@ -1,27 +1,21 @@
 ---
 tipas: paprotys
 pavadinimas: 'Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę'
-sukurta: '2026-05-31'
-variantai: []
-aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1564 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1564'
 date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-31'
+sukurta: ''
+atnaujinta: ''
 tags:
   - bajorija
   - kraštas
   - miestas
   - paprotys
+amziai:
+  - 'XVI'
 ---
 # Vilniaus miestiečių bylinėjimasis pagal Magdeburgo teisę
 
@@ -30,29 +24,35 @@ tags:
 Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d..
 
 ## Laikotarpis ir datos
+
 Nenurodyta
 
 ## Kas tai
+
 Nenurodyta
 
 ## Atlikimas
+
 Nenurodyta
 
 ## Paskirtis
+
 Nenurodyta
 
 ## Kontekstas
+
 Nenurodyta
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d..'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­ rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove, atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­ mus, atskiru liepos 7 d..'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Kai dar 1564 metais Bełsko seime Žygimantas Augustas
@@ -72,9 +72,7 @@ Nenurodyta
     žmonių.
   citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
 

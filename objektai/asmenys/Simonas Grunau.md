@@ -1,27 +1,23 @@
 ---
 tipas: asmuo
 pavadinimas: 'Simonas Grunau'
-sukurta: '2026-05-14'
-variantai: []
-aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1521 m.'
   - '1529 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
 date_start: '1521'
 date_end: '1529'
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-14'
+sukurta: ''
+atnaujinta: ''
 tags:
   - asmuo
   - papuošalas
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 ---
 # Simonas Grunau
 
@@ -31,52 +27,73 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 
 ## Teiginiai
 
+- t-001
+  teiginys: 'Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais.'
+  pagrindžia:
+    - c-001
+
 - t-002
   teiginys: 'Dusburgietis teigia, kad 3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.'
   pagrindžia:
     - c-002
 
-- t-001
-  teiginys: 'Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais.'
+- t-003
+  teiginys: 'Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
   pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+    - c-003
 
 ## Reikšmingi paminėjimai
 
+- c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII  a. Prū-
+    sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
+    Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
+    kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
+    vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  statusas: verified
+  pagrindžia:
+    - t-001
+
 - c-002
-  santrauka: 'Dusburgietis teigia, kad 3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
     3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
     redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
     laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
+       Pirmąjį Dusburgiečio kronikos leidimą parengė K. Hartknochas (Karaliaučius, 1679
+    m.)82.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-002
 
-- c-001
-  santrauka: 'Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais.'
+- c-003
+  santrauka: 'Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė, kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų dievų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Pasak
+    Prū-
+    sijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus. Pasak
     Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė,
     kur auga žiemą vasarą žaliuojantis ąžuolas, o po juo įsikūrusi prūsų die-
     vų šventykla, papuošta trimis stabais, vaizduojančiais tris prūsų dievus.
-  citata_rodoma: ""
+    Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
+    ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  statusas: verified
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
+
+### Susiję objektai
+- [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
+- [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]]

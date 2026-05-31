@@ -1,19 +1,10 @@
 ---
 tipas: posakis
 pavadinimas: 'Vardan viešpaties— į priekį'
-sukurta: '2026-05-30'
-variantai: []
-aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
-patikimumas: 'vidutinis'
-atnaujinta: '2026-05-30'
+sukurta: ''
+atnaujinta: ''
 tags:
   - posakis
 ---
@@ -24,13 +15,15 @@ tags:
 Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspausdamas pentinais: „Vardan viešpaties— į priekį“.
 
 ## Teiginiai
+
 - t-001
   teiginys: 'Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspausdamas pentinais: „Vardan viešpaties— į priekį“.'
   pagrindžia:
     - c-001
+
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspausdamas pentinais: „Vardan viešpaties— į priekį“.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
     Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas
@@ -43,11 +36,24 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
     vardą viešpaties, per kurį išvengė šitokio siaubingo pavojaus.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  statusas: verified
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspausdamas pentinais: „Vardan viešpaties— į priekį“.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Mat arklys matė pavojų, kurio raitelis nakties
+    tamsoje negalėjo išvysti. Galop Henrikas tarė savo arkliui, stipriai  jį paspausdamas
+    pentinais: „Vardan viešpaties— į priekį“. Tada jo bendras, tai yra velnias, atsistojo prieš
+    jį ir pasakė: „Tavo laimė, kad paminėjai savo dievo vardą, jeigu to nebūtum padaręs,
+    jau būtum negyvas nutrenktas  į šią pragarmę“.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  statusas: verified
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
