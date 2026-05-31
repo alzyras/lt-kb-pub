@@ -12,7 +12,9 @@ saltiniai:
   - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
 atnaujinta: '2026-04-25'
-tags: []
+tags:
+  - karas
+  - sąvoka
 ---
 # kaštelionas
 
@@ -95,14 +97,8 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
 ### Susiję objektai
-- [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Benediktas]]
 - [[objektai/zodynas/Municipalinė teisėtvarka]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Barbora Radvilaitė]]

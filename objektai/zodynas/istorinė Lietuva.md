@@ -158,4 +158,3 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 - [[objektai/zodynas/litvakai Lite litviš]]
 - [[objektai/zodynas/senalietuviai jaunalietuviai]]
 - [[objektai/asmenys/Česlovas Milošas]]
-- [[objektai/grupes/Žydai]]

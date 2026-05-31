@@ -76,7 +76,6 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/savarankiškumas]]
-- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/grupes/Lenkų bajorija]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/zodynas/perdėtinis]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]

@@ -207,10 +207,9 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/dykra]]
-- [[objektai/zodynas/krašto magistras|krašto magistras (kraštas)]]
+- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/daiktai/Šventasis ąžuolas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]
-- [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]
 - [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]

@@ -120,7 +120,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 ### Susiję objektai
 - [[objektai/zodynas/Kilmingieji]]
 - [[objektai/daiktai/Malūnas]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/vergai]]
 - [[objektai/zodynas/vitingas]]
 - [[objektai/asmenys/Konradas iš Dortmundo]]

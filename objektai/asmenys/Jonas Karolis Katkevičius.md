@@ -123,13 +123,3 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/rokošas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Švedai]]

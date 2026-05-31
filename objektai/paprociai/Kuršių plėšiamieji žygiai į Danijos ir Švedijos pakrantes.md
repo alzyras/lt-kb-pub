@@ -73,4 +73,3 @@ Nenurodyta
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Vikingai]]
-- [[objektai/grupes/Skandinavai]]

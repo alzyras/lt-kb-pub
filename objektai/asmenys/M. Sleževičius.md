@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
+  - valstybė
 ---
 # M. Sleževičius
 
@@ -87,7 +88,6 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]

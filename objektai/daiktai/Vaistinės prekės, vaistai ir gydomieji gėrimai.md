@@ -161,5 +161,3 @@ Nenurodyta
 - [[objektai/grupes/Raudonasis Kryžius]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
 - [[objektai/asmenys/V. Kučius]]
-- [[objektai/zodynas/deficitas talonai]]
-- [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]

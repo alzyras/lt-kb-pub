@@ -111,10 +111,6 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Alebardos]]
 - [[objektai/asmenys/Juozapas Bielakas]]
 - [[objektai/asmenys/Karolis Moravskis]]

@@ -70,8 +70,3 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/rekrutų prievolė rekrutai]]

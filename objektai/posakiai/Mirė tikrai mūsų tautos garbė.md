@@ -97,8 +97,3 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]

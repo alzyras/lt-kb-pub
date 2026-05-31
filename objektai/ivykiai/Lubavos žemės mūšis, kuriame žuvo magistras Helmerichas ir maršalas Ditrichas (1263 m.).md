@@ -155,4 +155,3 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]
 - [[objektai/asmenys/Helmerichas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

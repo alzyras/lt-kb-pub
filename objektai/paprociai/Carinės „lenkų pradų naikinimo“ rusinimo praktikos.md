@@ -106,10 +106,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/lenkų pradų naikinimo politika]]
-- [[objektai/zodynas/pradai]]

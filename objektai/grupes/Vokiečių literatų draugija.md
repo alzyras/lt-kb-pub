@@ -49,5 +49,4 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Birutės draugija]]
 - [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]

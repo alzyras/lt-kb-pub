@@ -13,15 +13,15 @@ saltiniai:
 datos:
   - '1358 m.'
 patikimumas: 'vidutinis'
+amziai:
+  - 'XIV'
+periodo_grupes:
+  - 'LDK'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - krikštas
   - popiežius
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 ---
 # Karolis IV
 
@@ -114,7 +114,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -134,7 +134,7 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -159,8 +159,6 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
 - [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
 - [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]
-- [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]

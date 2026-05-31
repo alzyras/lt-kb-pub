@@ -68,10 +68,3 @@ Papildomos aiškios formos neišskirtos.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
-- [[objektai/posakiai/negęstančiąją ugnį]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Krivis]]
-- [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/Negęstančiosios ugnies garbinimas]]
-- [[objektai/zodynas/krivis krivė krivaitis]]

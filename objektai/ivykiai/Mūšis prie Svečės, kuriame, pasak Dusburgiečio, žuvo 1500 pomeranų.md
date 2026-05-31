@@ -123,4 +123,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Pomeranai]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]

@@ -186,12 +186,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Nuometai]]
-- [[objektai/daiktai/Kilimas]]
-- [[objektai/zodynas/Kilimas|kilimas]]

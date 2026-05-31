@@ -56,4 +56,3 @@ Todėl iš visų indoeuropiečių kalbų slavų kalbos yra artimiausios baltų k
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Slavai]]
-- [[objektai/autoriai/A. Salys]]

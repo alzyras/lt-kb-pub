@@ -75,6 +75,5 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]
 - [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
-- [[objektai/asmenys/Boleslovas]]
 - [[objektai/asmenys/Kazimieras (Konrado sūnus)]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]

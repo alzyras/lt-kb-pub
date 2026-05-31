@@ -120,4 +120,3 @@ Nenurodyta
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Henrikas iš Hohenlohės]]
-- [[objektai/grupes/Lietuviai]]

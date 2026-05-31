@@ -97,8 +97,3 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Skalviai]]

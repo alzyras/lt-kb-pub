@@ -91,7 +91,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -144,5 +144,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vežimai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

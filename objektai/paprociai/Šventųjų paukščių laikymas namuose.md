@@ -93,8 +93,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Žemaičiai]]

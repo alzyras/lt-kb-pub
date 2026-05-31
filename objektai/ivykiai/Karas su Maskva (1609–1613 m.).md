@@ -98,7 +98,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Bajorijos karo prievolės vengimas ir samdytinė kariuomenė]]
-- [[objektai/grupes/Švedai]]

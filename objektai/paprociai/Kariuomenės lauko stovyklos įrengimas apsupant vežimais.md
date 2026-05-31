@@ -115,10 +115,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

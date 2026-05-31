@@ -126,8 +126,4 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 - [[temos/bajoras]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Sapiegos]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]

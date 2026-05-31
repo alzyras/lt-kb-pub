@@ -59,8 +59,8 @@ Jo krikštatėviu buvo Ragainės komtūras Vy­ gandas von Baldersheimas, dėl t
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/asmenys/Danuta]]
 - [[objektai/asmenys/Ona Vytautienė]]

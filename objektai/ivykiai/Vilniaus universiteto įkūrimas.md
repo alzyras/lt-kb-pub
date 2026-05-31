@@ -130,10 +130,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/grupes/Vilniaus universitetas]]
-- [[objektai/grupes/Katalikų bažnyčia katalikai]]

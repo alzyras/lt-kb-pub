@@ -131,4 +131,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]

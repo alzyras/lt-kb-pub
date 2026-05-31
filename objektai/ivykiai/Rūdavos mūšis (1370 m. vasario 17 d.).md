@@ -105,11 +105,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

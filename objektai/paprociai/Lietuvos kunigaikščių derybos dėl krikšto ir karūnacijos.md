@@ -214,18 +214,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Lizdeika]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Netimeras]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]

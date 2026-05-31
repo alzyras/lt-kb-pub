@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 45.
+Objektų skaičius: 44.
 
 ## Kaip naudoti
 
@@ -43,16 +43,15 @@ Objektų skaičius: 45.
 
 ### Papročiai
 - [[objektai/paprociai/Bajorų valstiečių baudžiavos įtvirtinimas]]
-- [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams|Jogailos privilegija apsikrikštijusiems bajorams (privilegija)]]
+- [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
-- [[objektai/paprociai/Lietuvos bajorijos seimai]]
 - [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
 
 ### Posakiai
 - [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos|Damoklo kardas tikrai pakibo ant unijos (unija)]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
-- [„valstybė valstybėje“](../objektai/posakiai/%E2%80%9Evalstyb%C4%97%20valstyb%C4%97je%E2%80%9C)
+- [[objektai/posakiai/„valstybė valstybėje“]]
 
 ### Įvykiai
 - [1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)](../objektai/ivykiai/1422%20m.%20%C4%8Cervinsko%20stovykla%20ir%20bajor%C5%B3%20privilegij%C5%B3%20suteikimas)
@@ -72,7 +71,7 @@ Objektų skaičius: 45.
 - [liscis lizkis](../objektai/zodynas/liscis%20lizkis)
 - [liscis lizkis Lisske](../objektai/zodynas/liscis%20lizkis%20Lisske)
 - [Mahometoniškas tikėjimas](../objektai/zodynas/Mahometoni%C5%A1kas%20tik%C4%97jimas)
-- [privilegija lex privata (privilegija)](../objektai/zodynas/privilegija%20lex%20privata)
+- [privilegija lex privata](../objektai/zodynas/privilegija%20lex%20privata)
 - [Tautinės mažumos](../objektai/zodynas/Tautin%C4%97s%20ma%C5%BEumos)
 - [tripartitio christiana luominė visuomenė](../objektai/zodynas/tripartitio%20christiana%20luomin%C4%97%20visuomen%C4%97)
 - [šlėkta](../objektai/zodynas/%C5%A1l%C4%97kta)

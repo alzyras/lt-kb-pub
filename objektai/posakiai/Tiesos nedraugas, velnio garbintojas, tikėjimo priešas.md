@@ -111,5 +111,5 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Gedimino antspaudas]]

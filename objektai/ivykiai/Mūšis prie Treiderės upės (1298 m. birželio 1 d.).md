@@ -103,5 +103,5 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
+- [[objektai/asmenys/Brunonas]]
 - [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)]]

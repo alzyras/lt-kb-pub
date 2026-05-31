@@ -101,4 +101,3 @@ Nenurodyta
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/daiktai/Torielius]]
-- [[objektai/daiktai/Ragotinė]]

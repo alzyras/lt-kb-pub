@@ -232,7 +232,7 @@ Nenurodyta
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Švitrigaila]]

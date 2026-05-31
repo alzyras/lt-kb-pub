@@ -268,24 +268,11 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - šaltinyje vartojama ir vienaskaita, ir daugiskaita, bet reikšmė aiškiai susieta su neapgyventa pasienio erdve.
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-- [[temos/karinis-terminas]]
-
 ### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Gundramas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/žygis]]
 - [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]
-- [[objektai/autoriai/Powierski J]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/lietuvininkai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]
-- [[objektai/daiktai/Krikšto vandens indas|Krikšto vandens indas (krikštas, XIII a.)]]
-- [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]
-- [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]
+- [[objektai/autoriai/Powierski J]]

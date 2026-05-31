@@ -90,9 +90,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/zodynas/Liuosybė|liuosybė]]
-- [[objektai/daiktai/Vyženos]]

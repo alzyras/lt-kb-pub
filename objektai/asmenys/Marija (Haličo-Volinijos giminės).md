@@ -57,6 +57,6 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Traidenis I]]

@@ -92,7 +92,6 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
 - [[objektai/grupes/8-asis pėstininkų pulkas]]
 - [[objektai/asmenys/Antoine Gramont]]
 - [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]
-- [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/zodynas/rezervas]]
 - [[objektai/posakiai/„Kristus prisikėlė“]]

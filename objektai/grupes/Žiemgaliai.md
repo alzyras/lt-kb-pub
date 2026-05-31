@@ -439,22 +439,14 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Traidenis]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/grupes/Lietgaliai]]
-- [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]
 - [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
 - [[objektai/asmenys/Nameisis]]
 - [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]]
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]
 - [[objektai/zodynas/donacija]]
 - [[objektai/zodynas/kuopiniai kaimai]]
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
 - [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
-- [[objektai/asmenys/Skomantas]]
-- [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]

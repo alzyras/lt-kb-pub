@@ -252,7 +252,4 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
-- [[objektai/asmenys/Jekaterina II]]
-- [[objektai/paprociai/Aukso laisvės ideologija]]
-- [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]

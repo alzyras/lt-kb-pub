@@ -64,5 +64,4 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
 - [[objektai/asmenys/Aleksandras Kolčiakas]]
 - [[objektai/asmenys/Pavelas Bermontas-Avalovas]]
 - [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų|Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)]]
-- [[objektai/posakiai/„nuo jūros iki jūros“]]
 - [[objektai/paprociai/Karo grobio dalijimas į keturias dalis]]

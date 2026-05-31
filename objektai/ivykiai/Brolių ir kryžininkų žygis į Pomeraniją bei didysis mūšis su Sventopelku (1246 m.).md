@@ -21,10 +21,10 @@ date_end: '1500'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-30'
 tags:
-  - mūšis
   - ivykis
   - kunigaikštis
   - miestas
+  - popiežius
 ---
 # Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)
 
@@ -142,12 +142,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Druzigeris]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/stalininkas]]
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]]

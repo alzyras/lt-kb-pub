@@ -134,5 +134,4 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]
-- [[objektai/asmenys/Henrikas VI]]
 - [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]

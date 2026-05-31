@@ -86,4 +86,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

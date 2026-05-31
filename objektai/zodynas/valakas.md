@@ -102,7 +102,3 @@ Maža to, 1557 m. jis paskelbė įstatymą, visiškai pertvarkantį žemės ūk�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Valakai]]

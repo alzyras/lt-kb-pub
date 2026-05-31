@@ -107,6 +107,3 @@ tags: []
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

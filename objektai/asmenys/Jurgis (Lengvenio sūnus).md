@@ -53,4 +53,3 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
 - [[objektai/asmenys/Lengvenis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Smolensko pulkai]]

@@ -72,10 +72,4 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Ordino brolis]]
-- [[objektai/asmenys/Konradas, vardu Divelis]]
-- [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
-- [[objektai/asmenys/Stavimėlas]]
-- [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

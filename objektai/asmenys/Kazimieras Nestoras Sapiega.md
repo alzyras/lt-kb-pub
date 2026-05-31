@@ -54,8 +54,3 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/didysis maršalas]]
-- [[objektai/zodynas/maršalas]]

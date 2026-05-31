@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 8.
+Objektų skaičius: 7.
 
 ## Kaip naudoti
 
@@ -19,7 +19,6 @@ Objektų skaičius: 8.
 ## Susiję objektai
 
 ### Posakiai
-- [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]
 - [[objektai/posakiai/Ne bičiulystės, o teisybės]]
 - [[objektai/posakiai/ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas]]
 - [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]

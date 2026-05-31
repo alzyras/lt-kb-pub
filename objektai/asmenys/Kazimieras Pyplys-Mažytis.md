@@ -52,6 +52,5 @@ tags:
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
 - [[objektai/zodynas/geležinė uždanga]]

@@ -103,7 +103,5 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/V. Pisani]]
 - [[objektai/autoriai/W. Schmidt]]
-- [[objektai/daiktai/Šarvai]]

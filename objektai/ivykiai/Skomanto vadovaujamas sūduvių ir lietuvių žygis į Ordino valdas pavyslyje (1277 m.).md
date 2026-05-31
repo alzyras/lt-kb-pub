@@ -70,4 +70,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/asmenys/Skomantas]]
-- [[objektai/grupes/Žiemgaliai]]

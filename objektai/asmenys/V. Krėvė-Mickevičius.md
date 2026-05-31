@@ -70,10 +70,3 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
-- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

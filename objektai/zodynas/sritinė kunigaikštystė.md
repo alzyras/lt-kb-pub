@@ -66,8 +66,3 @@ sritinė kunigaikštystė: tik Lietuvos feoda- lizmas buvo kiek kitoks: jis skyr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/feodalizmas]]
-- [[objektai/zodynas/kunigaikščiai]]

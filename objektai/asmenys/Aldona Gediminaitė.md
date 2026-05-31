@@ -171,7 +171,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -186,19 +186,14 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/asmenys/Lokietka]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Kazimieras]]
-- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/asmenys/Lokietka]]
 - [[objektai/asmenys/Vladislovas Łokietka]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

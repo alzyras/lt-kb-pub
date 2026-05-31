@@ -92,8 +92,3 @@ tags: []
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Latviai]]

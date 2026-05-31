@@ -63,4 +63,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

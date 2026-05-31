@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - grupe
+  - karas
   - seimas
   - sutartis
 ---
@@ -83,9 +84,5 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Karo ir iždo komisijos]]
-- [[objektai/grupes/Nuolatinė Taryba|Nuolatinė Taryba (institucija)]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]

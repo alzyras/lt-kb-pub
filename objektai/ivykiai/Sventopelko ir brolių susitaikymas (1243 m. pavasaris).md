@@ -121,12 +121,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
-- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/įkaitai]]

@@ -104,9 +104,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/papilys]]

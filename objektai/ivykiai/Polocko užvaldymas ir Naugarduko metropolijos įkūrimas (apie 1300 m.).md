@@ -67,4 +67,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
+- [[objektai/asmenys/Vytenis]]

@@ -80,5 +80,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/asmenys/Albertas iš Meiseno]]
 - [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]

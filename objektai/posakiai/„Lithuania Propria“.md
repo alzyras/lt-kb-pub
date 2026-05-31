@@ -96,5 +96,4 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
 
 ### Susiję objektai
 - [[objektai/asmenys/Jurgis Šaulys]]
-- [[objektai/asmenys/Steponas Kairys]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]

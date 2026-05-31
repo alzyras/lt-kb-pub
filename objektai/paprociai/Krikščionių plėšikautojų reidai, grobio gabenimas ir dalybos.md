@@ -139,4 +139,3 @@ Nenurodyta
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Martyno iš Golino laivo užgrobimas Bugo upėje]]
 - [[objektai/ivykiai/Martyno iš Golino vakarinis antpuolis Sūduvos kaime]]
-- [[objektai/daiktai/Pirčia]]

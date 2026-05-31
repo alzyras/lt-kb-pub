@@ -68,8 +68,3 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/zodynas/Adynos|adynos]]

@@ -67,4 +67,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Krymo totoriai]]

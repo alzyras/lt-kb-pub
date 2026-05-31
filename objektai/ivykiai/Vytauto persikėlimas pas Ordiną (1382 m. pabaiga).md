@@ -95,7 +95,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/tėviškė]]

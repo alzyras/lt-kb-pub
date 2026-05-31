@@ -93,4 +93,3 @@ Nenurodyta
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Jonas, vadinamas Pope]]
-- [[objektai/grupes/Žemaičiai]]

@@ -68,4 +68,4 @@ tags: []
 - [[temos/formulė]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

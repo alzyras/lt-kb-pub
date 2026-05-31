@@ -81,4 +81,3 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai]]
 - [[objektai/zodynas/bajorija]]
-- [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]

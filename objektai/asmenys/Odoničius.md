@@ -80,8 +80,7 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
+- [[objektai/asmenys/Brunonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
 - [[objektai/asmenys/Samboras]]

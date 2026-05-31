@@ -140,7 +140,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 - [[objektai/asmenys/Albrechtas]]
 - [[objektai/asmenys/Albrechtas iš Hageno]]
 - [[objektai/asmenys/Fridrichas Kvicas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Hartmanas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

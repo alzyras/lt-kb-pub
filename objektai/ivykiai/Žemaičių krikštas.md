@@ -78,5 +78,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]

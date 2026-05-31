@@ -75,10 +75,3 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]

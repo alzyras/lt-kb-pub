@@ -82,11 +82,8 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Jaskanis J]]
-- [[objektai/grupes/Kuršiai]]
 - [[objektai/autoriai/Mepжинский А. Ф]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
 - [[objektai/asmenys/Ptolemajas]]
-- [[objektai/grupes/Skalviai]]
 - [[objektai/autoriai/Топоров B. H]]
 - [[objektai/autoriai/Энговатов H. В]]
-- [[objektai/posakiai/Jei gims berniukas, nužudykite jį, jeigu mergaitė — palikite gyvą]]

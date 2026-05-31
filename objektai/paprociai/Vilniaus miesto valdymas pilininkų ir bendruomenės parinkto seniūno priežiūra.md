@@ -125,7 +125,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/Pilininkas]]

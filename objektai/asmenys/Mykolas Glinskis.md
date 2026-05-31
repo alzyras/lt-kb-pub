@@ -233,8 +233,6 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 - [[temos/karvedys]]
 
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/daiktai/Trimitai]]
-- [[objektai/zodynas/flangas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

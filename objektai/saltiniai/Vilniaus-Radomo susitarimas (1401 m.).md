@@ -12,6 +12,7 @@ tags:
   - bajorija
   - dokumentas
   - saltinis
+  - valdovas
 ---
 # Vilniaus-Radomo susitarimas (1401 m.)
 

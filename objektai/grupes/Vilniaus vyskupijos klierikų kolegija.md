@@ -225,7 +225,6 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/dominija]]
 - [[objektai/autoriai/A. Plateris]]
-- [[objektai/ivykiai/Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais]]
 - [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/zodynas/mokytojų seminarija]]

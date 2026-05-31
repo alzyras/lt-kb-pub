@@ -72,9 +72,3 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 ## Pastabos
 
 - Žodis `kilimas` čia nereiškia grindų kilimo, o apsisiaudžiamą drabužį.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/daiktai/Kilimas]]
-- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

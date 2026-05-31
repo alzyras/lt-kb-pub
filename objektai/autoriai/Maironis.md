@@ -191,7 +191,6 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
 - [[objektai/ivykiai/Užpelkių kautynės]]
-- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
 - [[objektai/zodynas/tautinis krikštas|tautinis krikštas (krikštas)]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

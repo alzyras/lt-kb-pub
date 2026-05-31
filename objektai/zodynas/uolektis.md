@@ -53,7 +53,5 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Danielius]]
 - [[objektai/asmenys/Nabuchodonosaras]]
 - [[objektai/posakiai/Matyt, tas magistras labai storas, jeigu jam reikia tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos (miestas, XVI a.)]]

@@ -59,5 +59,5 @@ ją Algimantaitę, Vytauto dvare išauklėtą ir, be to, giminaitę, bet jos kar
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]

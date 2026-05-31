@@ -86,4 +86,4 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
 ### Susiję objektai
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/zodynas/brevė]]
-- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/pagonybė]]

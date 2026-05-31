@@ -66,6 +66,6 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
 ### Susiję objektai
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kontribucija]]
 - [[objektai/zodynas/jubiliejus]]

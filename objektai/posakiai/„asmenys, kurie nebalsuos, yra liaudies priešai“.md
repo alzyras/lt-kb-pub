@@ -67,5 +67,4 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
 - [[objektai/zodynas/liaudies priešai]]

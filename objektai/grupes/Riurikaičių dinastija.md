@@ -108,15 +108,6 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Kalita]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/asmenys/Fiodoras]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]
-- [[objektai/grupes/Romanovų dinastija]]
-- [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]

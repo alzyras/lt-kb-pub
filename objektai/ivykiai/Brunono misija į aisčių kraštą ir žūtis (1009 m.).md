@@ -127,7 +127,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -143,7 +143,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -159,7 +159,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -175,7 +175,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -205,8 +205,3 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]

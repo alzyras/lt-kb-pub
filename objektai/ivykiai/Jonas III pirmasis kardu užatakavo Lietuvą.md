@@ -75,7 +75,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

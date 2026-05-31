@@ -61,10 +61,3 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
-- [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/zodynas/pagonybė]]

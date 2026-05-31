@@ -102,9 +102,3 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]

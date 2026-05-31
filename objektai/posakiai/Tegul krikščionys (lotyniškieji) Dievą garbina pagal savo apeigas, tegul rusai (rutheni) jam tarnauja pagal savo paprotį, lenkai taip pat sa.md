@@ -57,7 +57,7 @@ Popiežiaus legato pasiuntiniams apie savo ir Lietuvos valsty­ bės tikėjimo k
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]

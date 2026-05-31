@@ -122,4 +122,3 @@ Nenurodyta
 - [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
-- [[objektai/grupes/Lietuviai]]

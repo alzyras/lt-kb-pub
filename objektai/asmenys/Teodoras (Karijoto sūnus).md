@@ -56,8 +56,8 @@ Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/asmenys/Liubartas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Teodoras]]

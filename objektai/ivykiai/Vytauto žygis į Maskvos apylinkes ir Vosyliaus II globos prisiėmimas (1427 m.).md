@@ -105,7 +105,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/zodynas/kunigaikščiai]]

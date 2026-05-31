@@ -90,6 +90,4 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės papilių sudeginimą 298 m
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
 - [[objektai/ivykiai/Junigėdos ir Pieštvės pilių papilių sudeginimas (1298 m.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

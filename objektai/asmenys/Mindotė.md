@@ -61,7 +61,6 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
 - [[objektai/asmenys/Henrikas Rutėnas]]
 - [[objektai/asmenys/Henrikas iš Plockės]]
 - [[objektai/asmenys/Kviramas iš Valdavos]]
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Rebodas iš Izenburgo]]
 - [[objektai/asmenys/Spagerotė]]
 - [[objektai/asmenys/Ulrichas iš Tetingeno]]

@@ -124,7 +124,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -142,7 +142,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -160,7 +160,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -182,7 +182,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -200,7 +200,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -222,20 +222,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Danielius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Morta]]
-- [[objektai/asmenys/Tautvilas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/pagonybė]]

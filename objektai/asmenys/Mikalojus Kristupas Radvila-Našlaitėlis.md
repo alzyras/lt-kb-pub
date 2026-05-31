@@ -144,7 +144,3 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]

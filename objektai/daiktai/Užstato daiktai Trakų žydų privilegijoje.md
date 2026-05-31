@@ -187,7 +187,5 @@ Nenurodyta
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/asmenys/Mstivojus]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
-- [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
 - [[objektai/asmenys/Vimaras [Gneomiras]]]
 - [[objektai/asmenys/Vojakas [Vojachas]]]

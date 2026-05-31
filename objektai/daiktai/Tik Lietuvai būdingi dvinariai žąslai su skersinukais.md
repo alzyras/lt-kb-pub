@@ -66,4 +66,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
-- [[objektai/daiktai/Dviašmenis kalavijas]]

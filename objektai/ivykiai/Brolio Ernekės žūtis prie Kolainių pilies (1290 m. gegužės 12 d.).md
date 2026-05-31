@@ -129,19 +129,3 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ernekė]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas iš Vienos]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Surminas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Nodamas]]
-- [[objektai/zodynas/Pilininkas]]
-- [[objektai/zodynas/šeštinės]]

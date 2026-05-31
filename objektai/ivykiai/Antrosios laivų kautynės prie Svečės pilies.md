@@ -94,5 +94,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/ginklanešiai]]

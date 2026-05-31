@@ -361,10 +361,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - [[temos/dvasininkas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Protestantai]]
 - [[objektai/grupes/Katalikų bažnyčia katalikai]]
-- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]

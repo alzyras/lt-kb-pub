@@ -84,14 +84,6 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Celestinas III]]
-- [[objektai/asmenys/Danielius]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Popiežius Celestinas III]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Gotfridas Hohenlohė]]
 - [[objektai/ivykiai/Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)]]
@@ -99,13 +91,8 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
 - [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]
 - [[objektai/posakiai/Pradžioje buvo žodis]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
-- [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
 - [[objektai/asmenys/Zigfridas iš Foichtvangeno]]
 - [[objektai/zodynas/suma]]
 - [[objektai/zodynas/tautinė sąmonė]]
-- [[objektai/zodynas/tribunolas]]
-- [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]
-- [[objektai/zodynas/landkomtūras]]

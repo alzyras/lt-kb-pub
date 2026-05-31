@@ -131,7 +131,7 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
 - [[objektai/asmenys/Albrechtas]]
 - [[objektai/asmenys/Albrechtas iš Hageno]]
 - [[objektai/asmenys/Fridrichas Kvicas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Hartmanas]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/zodynas/maršalas]]

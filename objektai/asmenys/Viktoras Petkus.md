@@ -67,4 +67,3 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Balys Gajauskas]]
-- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]

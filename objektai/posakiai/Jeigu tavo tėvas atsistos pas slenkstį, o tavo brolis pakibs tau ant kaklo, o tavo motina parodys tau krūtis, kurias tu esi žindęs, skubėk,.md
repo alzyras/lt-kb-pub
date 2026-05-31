@@ -61,5 +61,3 @@ Dusburgietis teigia, kad mat jie pakluso šiems išganingos Jeronimo paskatos ž
 - [[objektai/asmenys/Jeronimas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.)]]

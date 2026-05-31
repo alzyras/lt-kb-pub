@@ -10,8 +10,10 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
+  - bajorija
+  - didikas
+  - kraštas
   - mokslininkas
-  - paprotys
 ---
 # Studijos Europos universitetuose
 

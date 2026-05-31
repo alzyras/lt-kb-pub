@@ -190,6 +190,3 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/asmenys/Linkas]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]

@@ -131,9 +131,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jelena Boner]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Varpai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Švedas V]]
-- [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]

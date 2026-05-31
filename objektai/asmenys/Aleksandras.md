@@ -96,13 +96,11 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - [[temos/karvedys]]
 
 ### Susiję objektai
-- [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]
 - [[objektai/asmenys/Elena]]
 - [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/zodynas/Politinė amnestija]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
@@ -110,7 +108,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]
 - [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
 - [[objektai/grupes/Vilniaus Senienų muziejus]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
 - [[objektai/zodynas/švietimo apygarda]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]

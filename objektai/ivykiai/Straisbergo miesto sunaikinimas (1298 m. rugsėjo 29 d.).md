@@ -98,5 +98,3 @@ Nenurodyta
 - [[objektai/asmenys/Konradas]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/daiktai/Krikšto vandens indas|Krikšto vandens indas (krikštas, XIII a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/dykra]]

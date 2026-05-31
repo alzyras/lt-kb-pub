@@ -76,6 +76,5 @@ Nenurodyta
 - [[objektai/autoriai/M. Liubavskij]]
 - [[objektai/daiktai/Mira]]
 - [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
-- [[objektai/grupes/Rygiečiai]]
 - [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]
 - [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]

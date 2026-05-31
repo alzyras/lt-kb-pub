@@ -96,4 +96,3 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/daiktai/Kino kronikos kameros]]
-- [[objektai/daiktai/Sutikimo vartai]]

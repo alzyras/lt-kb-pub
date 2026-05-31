@@ -68,7 +68,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„paskirti save Tėvynės garbei“]]

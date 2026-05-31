@@ -68,7 +68,3 @@ Vartojamos formos: `rykius`.
 ## Pastabos
 
 - Forma archajiška; reikšmė aiški iš šalia einančių „viešpačių“ ir „kunigaikščių“.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Romėnai]]

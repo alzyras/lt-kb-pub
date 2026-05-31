@@ -76,5 +76,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
+- [[objektai/asmenys/Brunonas]]
 - [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]

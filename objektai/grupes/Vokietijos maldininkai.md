@@ -122,6 +122,4 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

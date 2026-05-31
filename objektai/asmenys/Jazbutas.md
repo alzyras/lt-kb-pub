@@ -78,4 +78,3 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]

@@ -187,7 +187,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
 ## Pavadinimai šaltiniuose
 

@@ -59,6 +59,5 @@ Dusburgietis teigia, kad apie Bonifaco, popiežiaus, ir Pilypo, Prancūzijos kar
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/reskriptas]]
-- [[objektai/asmenys/Kiprijonas]]
 - [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
 - [[objektai/ivykiai/Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)]]

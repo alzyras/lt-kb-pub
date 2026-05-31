@@ -230,10 +230,3 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukso orda]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/zodynas/Lietuvos atsikūrimas]]
-- [[objektai/zodynas/kryžininkai]]

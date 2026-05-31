@@ -106,8 +106,3 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/grupes/Rytas]]
-- [[objektai/grupes/SSRS kariuomenė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

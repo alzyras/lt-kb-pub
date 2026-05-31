@@ -10,6 +10,8 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
+  - kraštas
+  - miestas
   - seimas
   - vieta
 ---

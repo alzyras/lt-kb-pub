@@ -169,8 +169,3 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/zodynas/monografija]]

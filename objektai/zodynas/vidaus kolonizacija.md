@@ -62,12 +62,11 @@ Pagaliau pasibaigus karams su kryžiuo­ čiais (1422 m.—su Prūsų, 1435 m.�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
 - [[objektai/daiktai/Varpai]]
-- [[objektai/daiktai/Monetos]]
 - [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
 - [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
 - [[objektai/zodynas/misijų teorija]]

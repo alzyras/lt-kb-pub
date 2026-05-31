@@ -130,9 +130,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/žygis]]

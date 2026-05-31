@@ -150,11 +150,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Russdorfas]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

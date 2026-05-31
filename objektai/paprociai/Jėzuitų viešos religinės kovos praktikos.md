@@ -128,8 +128,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Protestantai]]

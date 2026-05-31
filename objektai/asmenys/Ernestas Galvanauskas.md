@@ -136,12 +136,3 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Pilsudskis]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/zodynas/akcijos]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/asmenys/Juzefas Pilsudskis]]

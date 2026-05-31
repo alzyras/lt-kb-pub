@@ -188,14 +188,10 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/autoriai/Jakštas, J]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Kryžius ant kardo galo]]
 - [[objektai/ivykiai/Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas]]
-- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
 - [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/paprociai/Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje]]

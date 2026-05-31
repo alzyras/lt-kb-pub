@@ -116,9 +116,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

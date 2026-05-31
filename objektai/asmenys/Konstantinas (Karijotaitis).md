@@ -59,5 +59,4 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - [[objektai/zodynas/artilerijos pasala]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
-- [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
 - [[objektai/asmenys/Borisas Karijotaitis]]

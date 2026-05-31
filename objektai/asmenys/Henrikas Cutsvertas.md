@@ -137,7 +137,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
+- [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Miera|miera]]

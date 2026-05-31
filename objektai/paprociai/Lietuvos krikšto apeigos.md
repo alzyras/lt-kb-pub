@@ -199,7 +199,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
@@ -214,7 +214,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -229,7 +229,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
@@ -242,7 +242,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
@@ -257,7 +257,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -272,7 +272,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-007
@@ -281,12 +281,3 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
 - [[temos/ritualas]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/grupes/Bajorai]]

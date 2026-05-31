@@ -112,7 +112,3 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]
-- [[objektai/zodynas/žygis]]

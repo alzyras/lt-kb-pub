@@ -88,6 +88,6 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Magdeburgo teisės]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/grupes/Žydai]]

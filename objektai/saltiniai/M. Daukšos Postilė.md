@@ -22,10 +22,7 @@ dalyviai: []
 susije_irasai: []
 patikimumas: "aukštas"
 atnaujinta: '2026-05-14'
-tags:
-  - saltinis
-  - tauta
-  - valstybė
+tags: []
 ---
 # M. Daukšos Postilė
 

@@ -76,8 +76,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis XII]]
-- [[objektai/grupes/Švedai]]

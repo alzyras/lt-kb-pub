@@ -150,9 +150,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

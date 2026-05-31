@@ -114,10 +114,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/klauzūra]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/autoriai/Powierski J]]
-- [[objektai/grupes/Lenkai]]

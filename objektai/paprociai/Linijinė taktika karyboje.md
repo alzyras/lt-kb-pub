@@ -175,7 +175,3 @@ Nenurodyta
   pagrindžia:
     - t-011
     - t-012
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/karyba]]

@@ -78,6 +78,3 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - [[objektai/asmenys/Gabrielius Bekešas]]
 - [[objektai/autoriai/J. Jaroszewicz]]
 - [[objektai/posakiai/Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
-- [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]
-- [[objektai/zodynas/tėvonija tėvų palikimas]]

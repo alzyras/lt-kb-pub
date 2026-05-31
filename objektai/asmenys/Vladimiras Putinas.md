@@ -44,5 +44,4 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/„valdomos demokratijos“]]
-- [[objektai/zodynas/Pokomunistinė erdvė]]
 - [[objektai/zodynas/Valdoma demokratija]]

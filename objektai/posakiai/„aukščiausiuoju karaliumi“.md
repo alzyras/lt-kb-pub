@@ -72,6 +72,4 @@ tags:
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]
-- [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]
 - [[objektai/posakiai/„Mindaugo Lietuvą“]]

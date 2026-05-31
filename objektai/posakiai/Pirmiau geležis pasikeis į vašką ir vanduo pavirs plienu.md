@@ -97,4 +97,4 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/daiktai/Vaškas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]

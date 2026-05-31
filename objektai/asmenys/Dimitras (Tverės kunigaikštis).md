@@ -54,6 +54,5 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Marija (Gedimino duktė)]]

@@ -158,7 +158,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -175,7 +175,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -194,7 +194,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -209,7 +209,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -226,7 +226,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -245,23 +245,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/zodynas/Kilmingieji]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lenkų bajorija]]
-- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių bajorija]]
-- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Čupurna]]
-- [[objektai/zodynas/sankcija]]

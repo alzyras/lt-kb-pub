@@ -85,7 +85,7 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
 - [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/saar]]
 - [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]

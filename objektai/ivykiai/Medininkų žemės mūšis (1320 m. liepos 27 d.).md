@@ -79,4 +79,3 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]
 - [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]
-- [[objektai/grupes/Žemaičiai]]

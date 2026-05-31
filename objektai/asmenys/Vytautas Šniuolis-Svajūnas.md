@@ -58,4 +58,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

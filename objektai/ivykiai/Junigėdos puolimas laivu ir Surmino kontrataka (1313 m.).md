@@ -75,4 +75,4 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Surminas]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
+- [[objektai/asmenys/Vytenis]]

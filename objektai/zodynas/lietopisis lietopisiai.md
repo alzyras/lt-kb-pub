@@ -56,7 +56,7 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Rusai]]

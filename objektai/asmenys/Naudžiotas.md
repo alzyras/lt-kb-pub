@@ -77,4 +77,3 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]

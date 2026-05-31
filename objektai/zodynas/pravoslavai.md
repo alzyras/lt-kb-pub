@@ -77,7 +77,7 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/metropolitas]]

@@ -119,6 +119,6 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/autoriai/Albertas Krantzas]]

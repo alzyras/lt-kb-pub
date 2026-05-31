@@ -61,4 +61,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]

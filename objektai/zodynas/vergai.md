@@ -45,13 +45,9 @@ Tai buvo vergai.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/asmenys/Glapas]]
 - [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]
 - [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
 - [[objektai/zodynas/nuomininkas]]
 - [[objektai/zodynas/prastuomenė communis populus ignobiles|prastuomenė / communis populus / ignobiles]]
 - [[objektai/zodynas/Sūdas|sūdas]]

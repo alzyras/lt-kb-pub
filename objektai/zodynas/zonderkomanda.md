@@ -58,6 +58,5 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]
 - [[objektai/grupes/Heinricho Hamano skrajojantis būrys]]
+- [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]

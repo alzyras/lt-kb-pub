@@ -218,11 +218,6 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NKGB]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Agentai-smogikai]]
 - [[objektai/grupes/Algimanto apygarda]]
 - [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
@@ -231,8 +226,6 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 - [[objektai/asmenys/Jonas Neifalta-Lakūnas]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/ivykiai/Lietuvos partizanų apygardų atstovų suvažiavimas ir LLKS deklaracija (1949 m. vasaris)]]
-- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
-- [[objektai/grupes/Lietuvos šaulių sąjunga]]
 - [[objektai/grupes/Muškietininkų būrys]]
 - [[objektai/grupes/NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas]]
 - [[objektai/grupes/Naikintojų batalionai]]
@@ -243,8 +236,5 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 - [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 34]]
 - [[objektai/zodynas/agentas-smogikas]]
 - [[objektai/posakiai/pif paf]]
-- [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]
 - [[objektai/grupes/Šarūno rinktinė]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]
-- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
-- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]

@@ -152,13 +152,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/Liberum veto]]
-- [[objektai/zodynas/jakobinizmas]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Čartoriskiai]]
 - [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]
+- [[objektai/zodynas/jakobinizmas]]
 - [[objektai/zodynas/jakobinizmas jakobinų klubas]]

@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - grupe
+  - kraštas
 ---
 # Slavofilai
 
@@ -65,6 +66,5 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
 - [[objektai/autoriai/Jonas Juškevičius]]
 - [[objektai/zodynas/Rusiškosios raidės]]

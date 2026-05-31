@@ -52,4 +52,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

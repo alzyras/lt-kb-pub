@@ -76,6 +76,5 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]
 - [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
-- [[objektai/asmenys/Pelužis]]
 - [[objektai/asmenys/Stavimėlas]]
 - [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

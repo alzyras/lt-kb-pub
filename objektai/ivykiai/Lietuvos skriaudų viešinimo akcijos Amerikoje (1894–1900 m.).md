@@ -12,7 +12,6 @@ atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - kunigas
-  - pinigai
   - tauta
 ---
 # Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)
@@ -127,11 +126,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]

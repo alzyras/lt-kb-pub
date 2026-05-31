@@ -3,8 +3,6 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 sukurta: ''
 atnaujinta: ''
-tags:
-  - dvasininkas
 ---
 ---
   tipas: asmuo
@@ -317,19 +315,3 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dvasininkas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Kardas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Kuršiečiai]]
-- [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/netikėliai]]

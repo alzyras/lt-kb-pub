@@ -83,7 +83,7 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
@@ -91,4 +91,3 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
-- [[objektai/grupes/Riurikaičių dinastija]]

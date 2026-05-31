@@ -91,4 +91,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

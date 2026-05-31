@@ -55,9 +55,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]

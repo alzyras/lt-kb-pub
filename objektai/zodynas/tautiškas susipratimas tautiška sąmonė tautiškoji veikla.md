@@ -100,4 +100,3 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių literatų draugija]]
-- [[objektai/grupes/Birutės draugija]]

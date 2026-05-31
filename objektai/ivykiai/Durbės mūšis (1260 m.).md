@@ -200,14 +200,3 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Kilmingieji]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Noliubas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]
-- [[objektai/asmenys/Sklodas iš Kvedenavos]]
-- [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]

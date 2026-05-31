@@ -84,8 +84,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laidotuvės]]
-
-### Susiję objektai
-- [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

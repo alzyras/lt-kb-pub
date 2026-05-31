@@ -91,9 +91,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]
-- [[objektai/ivykiai/Martyno iš Golino vakarinis antpuolis Sūduvos kaime]]

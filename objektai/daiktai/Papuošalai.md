@@ -120,5 +120,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
-- [[objektai/daiktai/Gintaro ir stiklo karoliai]]
 - [[objektai/daiktai/Juostos]]

@@ -58,5 +58,4 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]
 - [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]
-- [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/landkomtūras]]

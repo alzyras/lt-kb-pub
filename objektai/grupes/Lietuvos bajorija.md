@@ -336,11 +336,9 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bajorija]]
-- [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
-- [[objektai/autoriai/Laurynas Ivinskis]]
-- [[objektai/zodynas/dvarų milicija]]
-- [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
+- [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
+- [[objektai/zodynas/dvarų milicija]]
 - [[objektai/zodynas/nobilitetas]]
 - [[objektai/zodynas/statutas]]
+- [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]

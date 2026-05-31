@@ -172,8 +172,4 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
-- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas|Vyriausias Mažosios Lietuvos gelbėjimo komitetas (institucija)]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]
 - [[objektai/zodynas/demarkacijos linija]]
-- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]

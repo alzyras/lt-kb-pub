@@ -92,5 +92,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Sventopelkas]]

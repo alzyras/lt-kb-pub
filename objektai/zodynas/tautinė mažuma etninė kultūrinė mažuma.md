@@ -103,11 +103,3 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/Tautinės mažumos]]
-- [[objektai/zodynas/organinis nacionalizmas]]

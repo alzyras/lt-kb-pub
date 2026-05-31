@@ -77,5 +77,3 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Dominykas Semaško]]
-- [[objektai/asmenys/Simonas Rozenbaumas]]

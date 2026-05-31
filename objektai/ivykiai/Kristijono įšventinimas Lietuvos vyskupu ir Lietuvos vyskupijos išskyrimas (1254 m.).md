@@ -92,7 +92,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Inocentas IV]]
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
+- [[objektai/asmenys/Kristijonas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

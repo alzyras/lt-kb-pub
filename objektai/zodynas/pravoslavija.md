@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - sąvoka
+  - tauta
 ---
 # pravoslavija
 
@@ -60,7 +61,3 @@ pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Unitai]]

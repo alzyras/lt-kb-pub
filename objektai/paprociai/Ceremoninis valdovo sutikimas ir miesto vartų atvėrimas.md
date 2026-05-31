@@ -95,9 +95,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Rusai]]

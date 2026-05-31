@@ -47,4 +47,3 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]

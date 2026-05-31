@@ -104,11 +104,8 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/protestantizmas]]
 - [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai|Aukščiausiosios Tarybos gynybos principai (institucija)]]
 - [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]
-- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
 - [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
 - [[objektai/ivykiai/Pirmosios lietuviškos knygos išspausdinimas]]
 - [[objektai/grupes/Raudonasis Kryžius]]

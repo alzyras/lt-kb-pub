@@ -53,19 +53,14 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
-- [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
 - [[objektai/ivykiai/Brunsbergo miesto bei pilies atkūrimas (1279 m.)]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/ivykiai/Glotavos valsčiaus antpuolis ir 72 lietuvių žūtis (1300 m. ruduo)]]
 - [[objektai/asmenys/Henrikas (Varmės vyskupas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Mažiulis V]]
 - [[objektai/asmenys/Muka]]
 - [[objektai/asmenys/Petras Atsiskyrėlis]]
 - [[objektai/asmenys/Simeonas]]
 - [[objektai/asmenys/Valteris Goldinas]]
-- [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
 - [[objektai/asmenys/Jodokas]]
 - [[objektai/zodynas/grašis]]

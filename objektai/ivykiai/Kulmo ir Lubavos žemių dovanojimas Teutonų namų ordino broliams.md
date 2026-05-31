@@ -130,6 +130,5 @@ Nenurodyta
 - [[objektai/asmenys/Gernuldas]]
 - [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
 - [[objektai/asmenys/Jonas (kancleris)]]
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
 - [[objektai/asmenys/Mykolas (Kujavijos vyskupas)]]
 - [[objektai/asmenys/Vilhelmas (dekanas)]]

@@ -69,8 +69,6 @@ Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/autoriai/Domagała R]]
 - [[objektai/asmenys/Glapas]]
 - [[objektai/autoriai/Guldon Z]]

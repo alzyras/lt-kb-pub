@@ -93,4 +93,3 @@ Nenurodyta
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Ditrichas (Kristburgo komtūras)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

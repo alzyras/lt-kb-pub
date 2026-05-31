@@ -108,8 +108,3 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Vilniaus universiteto leidykla]]

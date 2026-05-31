@@ -159,7 +159,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Gediminas]]

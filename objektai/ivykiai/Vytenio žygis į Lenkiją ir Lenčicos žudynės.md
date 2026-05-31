@@ -105,4 +105,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]

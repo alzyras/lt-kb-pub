@@ -99,4 +99,3 @@ Nenurodyta
 - [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
-- [[objektai/zodynas/deficitas talonai]]

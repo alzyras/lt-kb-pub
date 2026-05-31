@@ -154,6 +154,3 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Sembai]]

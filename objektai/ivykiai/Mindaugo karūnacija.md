@@ -69,8 +69,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/autoriai/Alfredas Bumblauskas]]

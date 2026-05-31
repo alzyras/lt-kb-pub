@@ -75,4 +75,3 @@ Dusburgietis teigia, kad antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

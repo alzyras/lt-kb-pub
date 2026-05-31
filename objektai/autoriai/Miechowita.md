@@ -113,5 +113,5 @@ Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/magistras]]

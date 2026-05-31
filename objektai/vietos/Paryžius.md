@@ -9,9 +9,6 @@ saltiniai:
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
-  - karalius
-  - ordinas
-  - popiežius
   - vieta
 ---
 # Paryžius

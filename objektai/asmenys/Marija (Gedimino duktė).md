@@ -81,9 +81,3 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]

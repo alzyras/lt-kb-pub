@@ -154,5 +154,4 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Vilniaus universiteto leidykla]]

@@ -73,6 +73,5 @@ Dusburgietis teigia, kad savo žmonos Agotos bei sūnų Boleslovo, Kazimiero ir 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/asmenys/Boleslovas]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
 - [[objektai/asmenys/Zemovitas]]

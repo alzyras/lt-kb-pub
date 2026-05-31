@@ -60,6 +60,5 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
 - [[temos/formulė]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
-- [[objektai/zodynas/feodalizmas]]

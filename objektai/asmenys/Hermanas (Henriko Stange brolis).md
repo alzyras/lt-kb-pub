@@ -50,7 +50,3 @@ Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]

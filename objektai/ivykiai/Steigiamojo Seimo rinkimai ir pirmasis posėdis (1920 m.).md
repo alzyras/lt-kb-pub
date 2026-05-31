@@ -83,9 +83,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionių demokratų blokas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvių krikščionių demokratų partija]]

@@ -60,4 +60,4 @@ Tačiau ir tos sutar­ ties, kaip ir visų kitų, galia parėjo ne nuo pergament
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -111,5 +111,4 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Abveras]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
 - [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]

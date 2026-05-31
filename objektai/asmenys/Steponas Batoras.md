@@ -572,14 +572,11 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/unija]]
 - [[objektai/daiktai/Jono Budrio Polovinsko špaga]]
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
-- [[objektai/grupes/Raudonoji armija]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
+- [[objektai/grupes/Vilniaus miesto cechai]]
 - [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku]]
 - [[objektai/zodynas/kariuomenės konfederacija]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
-- [[objektai/grupes/Vilniaus miesto cechai]]
-- [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]

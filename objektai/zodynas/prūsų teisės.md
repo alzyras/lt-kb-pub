@@ -66,7 +66,3 @@ prūsų teisės: tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

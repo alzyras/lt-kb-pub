@@ -90,8 +90,7 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/etmonas]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/asmenys/Romanas Sanguška]]
+- [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]

@@ -63,4 +63,3 @@ Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lie
 - [[objektai/zodynas/inkorporacija]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]
-- [[objektai/zodynas/aneksija]]

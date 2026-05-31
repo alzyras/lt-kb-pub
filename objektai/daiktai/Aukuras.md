@@ -113,16 +113,8 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Birutė]]
 - [[objektai/daiktai/Dievų stabai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
-- [[objektai/zodynas/Romuva ir krivis]]
+- [[objektai/autoriai/Józef Wolff]]
 - [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]
 - [[objektai/daiktai/Torielius]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lotynai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/Józef Wolff]]

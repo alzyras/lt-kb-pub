@@ -118,7 +118,3 @@ Nenurodyta
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]

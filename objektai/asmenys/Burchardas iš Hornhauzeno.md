@@ -106,5 +106,4 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Henrikas Botelis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)]]

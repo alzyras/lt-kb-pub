@@ -82,5 +82,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Liberum veto]]
+### Teminiai klasteriai
+- [[temos/frazė]]

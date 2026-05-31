@@ -182,8 +182,3 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]

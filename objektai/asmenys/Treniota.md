@@ -10,9 +10,8 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
-  - karalius
+  - kunigaikštis
   - ordinas
-  - pilis
 ---
 # Treniota
 
@@ -74,12 +73,6 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/pagonybė]]
 - [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
 - [[objektai/asmenys/Treniota Vykintaitis]]
 - [[objektai/ivykiai/Treniotos nužudymas (1264 m.)]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]
-- [[objektai/zodynas/turma]]

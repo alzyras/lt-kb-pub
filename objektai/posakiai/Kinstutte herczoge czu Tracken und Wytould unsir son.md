@@ -57,4 +57,4 @@ Pačiame tekste yra pažymėta, kad be ma­ gistro ir Jogailos savo antspaudas p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

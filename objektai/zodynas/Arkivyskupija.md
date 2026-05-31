@@ -57,7 +57,7 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Stačiatikiai]]

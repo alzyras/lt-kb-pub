@@ -184,7 +184,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Potkowski E]]
 - [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
 - [[objektai/daiktai/Šventojo kryžiaus relikvija]]

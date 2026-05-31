@@ -51,5 +51,4 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
 ### Susiję objektai
 - [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]

@@ -46,6 +46,5 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]

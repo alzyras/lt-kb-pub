@@ -83,8 +83,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
-- [[objektai/daiktai/Vytauto paminklai]]

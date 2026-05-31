@@ -195,6 +195,4 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/zodynas/pikinierius pikinieriai]]

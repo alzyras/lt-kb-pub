@@ -12,8 +12,8 @@ atnaujinta: '2026-04-25'
 tags:
   - bajorija
   - didikas
-  - pinigai
   - seimas
+  - sąvoka
 ---
 # plikbajoris
 
@@ -106,10 +106,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/zodynas/seimelis]]

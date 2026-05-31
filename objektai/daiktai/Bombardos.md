@@ -162,4 +162,3 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

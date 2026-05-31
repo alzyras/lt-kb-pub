@@ -72,6 +72,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Flandrai]]
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/asmenys/Albrechtas (Romos karalius)]]
 - [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
 - [[objektai/asmenys/Klemensas V]]

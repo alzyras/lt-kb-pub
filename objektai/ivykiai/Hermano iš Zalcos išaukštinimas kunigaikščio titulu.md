@@ -124,6 +124,4 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vėliava]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Ordino magistro valdžios žymenys]]

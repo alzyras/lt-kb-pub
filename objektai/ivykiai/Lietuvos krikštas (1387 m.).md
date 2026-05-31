@@ -229,7 +229,7 @@ Nenurodyta
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/žygis]]

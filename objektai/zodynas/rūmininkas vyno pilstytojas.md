@@ -58,8 +58,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės (pilis)]]
+- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]

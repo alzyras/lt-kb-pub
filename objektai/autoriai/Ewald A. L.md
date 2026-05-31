@@ -69,7 +69,3 @@ Dusburgietis teigia, kad kvidzino (Ewald A. Dusburgietis teigia, kad 234 Atvyko 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]

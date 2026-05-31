@@ -50,8 +50,3 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

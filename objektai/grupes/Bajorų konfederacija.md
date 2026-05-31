@@ -59,8 +59,6 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
-- [[objektai/asmenys/Kristupas Pacas]]
-- [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/ivykiai/Žemaičių sukilimas (1656 m.)]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Pacai]]

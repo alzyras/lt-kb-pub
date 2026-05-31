@@ -99,4 +99,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

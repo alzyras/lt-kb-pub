@@ -154,8 +154,3 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Vilniaus universiteto leidykla]]

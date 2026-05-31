@@ -70,4 +70,3 @@ tags:
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Pilėnų pilies gynimas (1336 m.)]]

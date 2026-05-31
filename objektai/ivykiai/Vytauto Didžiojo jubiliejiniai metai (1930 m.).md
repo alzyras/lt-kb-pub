@@ -95,6 +95,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Šapoka]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/jaunųjų istorikų būrelis]]

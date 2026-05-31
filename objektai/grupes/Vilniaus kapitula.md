@@ -803,6 +803,4 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Dobrogostas]]
-- [[objektai/zodynas/kapitula]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]

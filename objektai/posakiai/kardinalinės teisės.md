@@ -10,8 +10,10 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
+  - bajorija
+  - elekcija
+  - karalius
   - posakis
-  - seimas
 ---
 # kardinalinės teisės
 
@@ -113,6 +115,4 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Varpai]]
-- [[objektai/zodynas/kitatikiai]]
 - [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]

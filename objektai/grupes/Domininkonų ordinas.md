@@ -475,8 +475,3 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
-- [[objektai/asmenys/Benediktas]]
-- [[objektai/asmenys/Popiežius Honorijus III]]
-- [[objektai/zodynas/Romos karalius]]
-- [[objektai/asmenys/Goštautas]]
-- [[objektai/asmenys/Benediktas XI]]

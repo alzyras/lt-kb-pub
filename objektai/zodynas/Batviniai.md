@@ -71,7 +71,3 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 ## Pastabos
 
 - Tiksli botaninė reikšmė iš teksto vienareikšmiškai neišskirta.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

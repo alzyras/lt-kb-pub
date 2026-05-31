@@ -68,7 +68,3 @@ tags:
     - t-001
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

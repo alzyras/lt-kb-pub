@@ -221,12 +221,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/daiktai/Malūnas]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Otokaras II]]

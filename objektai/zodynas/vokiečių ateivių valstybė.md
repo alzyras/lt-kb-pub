@@ -74,12 +74,3 @@ Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuvia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kolonijos]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -59,14 +59,11 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Bomba]]
 - [[objektai/ivykiai/Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris)]]
 - [[objektai/asmenys/Stasys Lozoraitis]]
 - [[objektai/zodynas/Status quo]]
-- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
 - [[objektai/zodynas/primus inter pares]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Šventoji Romos imperija]]
-- [[objektai/autoriai/Žalys V]]
 - [[objektai/asmenys/Stasys Antanas Bačkis]]

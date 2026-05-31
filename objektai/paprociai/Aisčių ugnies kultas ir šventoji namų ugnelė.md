@@ -115,7 +115,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
@@ -131,12 +131,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/S. Grunau]]

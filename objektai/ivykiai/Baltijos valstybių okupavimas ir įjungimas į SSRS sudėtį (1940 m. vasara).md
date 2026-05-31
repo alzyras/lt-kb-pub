@@ -60,5 +60,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Sovietų Sąjunga]]
-- [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
 - [[objektai/zodynas/liaudies demokratija]]

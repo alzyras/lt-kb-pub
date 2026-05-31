@@ -65,5 +65,4 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Rygos miestiečiai]]

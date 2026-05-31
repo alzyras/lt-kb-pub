@@ -237,4 +237,3 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 
 ### Susiję objektai
 - [[objektai/zodynas/konfederacija]]
-- [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]

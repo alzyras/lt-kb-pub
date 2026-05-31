@@ -90,7 +90,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -101,19 +101,14 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/daiktai/Aleksandro pinigai]]
-- [[objektai/grupes/Husitai]]
 - [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
 - [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
 - [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
-- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
 - [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]
 - [[objektai/zodynas/ekskomunika]]
 - [[objektai/posakiai/in odium Sigismundi]]
 - [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
-- [[objektai/ivykiai/Mykolo Kaributo Višniaveckio elekcija (1669 m.)]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]

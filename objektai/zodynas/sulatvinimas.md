@@ -60,8 +60,3 @@ sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sula
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]

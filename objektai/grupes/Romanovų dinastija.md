@@ -125,7 +125,7 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -133,15 +133,3 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/grupes/Hohenzollernai]]
-- [[objektai/grupes/Riurikaičių dinastija]]
-- [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]

@@ -132,4 +132,3 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Bisenės pilies užkariavimas|Bisenės pilies užkariavimas (pilis)]]

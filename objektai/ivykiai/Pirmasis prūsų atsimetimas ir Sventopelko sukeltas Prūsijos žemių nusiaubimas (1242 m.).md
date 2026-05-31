@@ -150,9 +150,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Prūsijos žemė]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
-- [[objektai/grupes/Teutonai]]

@@ -66,4 +66,3 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 - [[objektai/grupes/Vidivarii]]
 - [[objektai/zodynas/Vidivarijai]]
 - [[objektai/posakiai/pacatum hominum genus omnino]]
-- [[objektai/autoriai/Łowmiański H]]

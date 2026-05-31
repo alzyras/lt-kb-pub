@@ -85,7 +85,6 @@ Vartojamos formos: `pažines`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Egiptiečiai]]
 - [[objektai/grupes/Finikiečiai]]
 - [[objektai/zodynas/Vartavodamos|vartavodamos]]

@@ -53,5 +53,4 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos (miestas, XVI a.)]]
 - [[objektai/zodynas/uolektis]]

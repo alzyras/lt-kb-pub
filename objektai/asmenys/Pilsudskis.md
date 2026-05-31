@@ -84,17 +84,12 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/unija]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/asmenys/Ernestas Galvanauskas]]
-- [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
-- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/grupes/Lenkų socialistų partija]]
 - [[objektai/grupes/Žečpospolita]]
 - [[objektai/posakiai/„Karas ar taika “]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/posakiai/„seimokratija“]]

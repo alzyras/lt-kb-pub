@@ -20,7 +20,9 @@ dalyviai: []
 susije_irasai: []
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
-tags: []
+tags:
+  - posakis
+  - valdovas
 ---
 # Jūs abudu esate mūsų valdovai
 
@@ -80,12 +82,3 @@ Formulė keliuose pasakojimuose pateikiama kaip iškilmingas Jogailos ir Vytauto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/frazė]]
-
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]

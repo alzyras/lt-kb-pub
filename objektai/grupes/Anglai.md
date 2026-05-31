@@ -214,16 +214,10 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
 - [[objektai/asmenys/Horacijus]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
-- [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
 - [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
-- [[objektai/autoriai/Martynas Smigleckis]]
 - [[objektai/asmenys/Motiejus Kazimieras Sarbievijus]]
-- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
 - [[objektai/autoriai/Wulfstanas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Sandara]]

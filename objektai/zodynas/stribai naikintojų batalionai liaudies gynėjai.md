@@ -61,10 +61,3 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NKGB]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]

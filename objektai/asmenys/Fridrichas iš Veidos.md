@@ -53,5 +53,5 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/ginklanešiai]]

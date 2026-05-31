@@ -80,4 +80,3 @@ Nenurodyta
 - [[objektai/asmenys/Elena]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/asmenys/Šv. Elena]]
-- [[objektai/asmenys/Šv. Stanislovas]]

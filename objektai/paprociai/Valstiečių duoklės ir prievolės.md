@@ -9,6 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
+  - bajorija
   - paprotys
   - pilis
   - pinigai
@@ -124,9 +125,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/zodynas/sidabrinė duoklė]]
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/grupes/Valakai]]

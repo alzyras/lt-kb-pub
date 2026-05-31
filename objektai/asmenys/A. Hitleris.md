@@ -102,10 +102,3 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/SA smogikai]]
-- [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]

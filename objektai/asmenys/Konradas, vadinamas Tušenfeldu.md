@@ -50,4 +50,4 @@ Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfel
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]

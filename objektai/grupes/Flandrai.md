@@ -99,7 +99,6 @@ Dusburgietis teigia, kad apie daugybės prancūzų ir flandrų žūtį Tų pači
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Prancūzai]]
-- [[objektai/asmenys/Albrechtas (Romos karalius)]]
 - [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]
 - [[objektai/ivykiai/Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.)]]
 - [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis]]

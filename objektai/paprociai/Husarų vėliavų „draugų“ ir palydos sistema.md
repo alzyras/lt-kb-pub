@@ -224,9 +224,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/husarai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]

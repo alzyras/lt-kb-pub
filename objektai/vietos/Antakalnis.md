@@ -14,7 +14,8 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
-tags: []
+tags:
+  - vieta
 ---
 # Antakalnis
 

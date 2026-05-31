@@ -119,10 +119,3 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/zodynas/markgrafas]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]

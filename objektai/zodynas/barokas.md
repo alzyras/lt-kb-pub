@@ -125,14 +125,11 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
-- [[objektai/paprociai/Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]
 - [[objektai/asmenys/J. K. Glaubitzas]]
-- [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas (architektas)]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/paprociai/Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
 - [[objektai/asmenys/Peteris Paulius Rubensas]]
@@ -141,7 +138,5 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
 - [[objektai/grupes/Vilniaus baroko mokykla]]
 - [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
-- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
-- [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

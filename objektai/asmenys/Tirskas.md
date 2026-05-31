@@ -138,8 +138,5 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Pagudėnai]]
 - [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]
-- [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/bažnyčios visuotinybė]]

@@ -81,4 +81,3 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
-- [[objektai/daiktai/Laivai]]

@@ -31,6 +31,7 @@ susije_irasai: []
 patikimumas: 'aukstas'
 atnaujinta: '2026-05-02'
 tags:
+  - ivykis
   - mūšis
 ---
 # Giedraičių kautynės (1920 m.)
@@ -148,6 +149,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Giedraičių kautynės]]

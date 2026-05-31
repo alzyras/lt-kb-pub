@@ -180,11 +180,8 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
-- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
-- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]

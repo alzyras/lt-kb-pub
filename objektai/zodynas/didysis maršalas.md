@@ -59,7 +59,6 @@ Dusburgietis teigia, kad pabaigoje kryžiuočių žvalgų pranešimų pagrindu s
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Ignotas Potockis]]
-- [[objektai/asmenys/Kazimieras Nestoras Sapiega]]
 - [[objektai/asmenys/Stanislovas Soltanas]]
 - [[objektai/ivykiai/Stanislovo Augusto kapituliacija ir prisijungimas prie Targovicos konfederacijos]]
 - [[objektai/asmenys/Frydrichas fon Valenrodas]]

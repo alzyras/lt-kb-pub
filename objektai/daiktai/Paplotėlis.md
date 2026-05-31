@@ -67,6 +67,5 @@ Nenurodyta
 - [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Albertas (Karaliaučiaus komtūras)]]
-- [[objektai/asmenys/Albertas iš Meiseno]]
 - [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]
 - [[objektai/daiktai/Šventojo kryžiaus ženklas]]

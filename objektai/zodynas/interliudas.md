@@ -50,5 +50,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
+- [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Lietuviai]]

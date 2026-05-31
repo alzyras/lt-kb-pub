@@ -100,12 +100,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Kilmingieji]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/žygis]]

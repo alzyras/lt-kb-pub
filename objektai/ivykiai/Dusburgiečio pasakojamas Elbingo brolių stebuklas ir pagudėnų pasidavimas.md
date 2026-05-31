@@ -86,9 +86,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]
-- [[objektai/paprociai/Pasidavimas tikėjimui ir broliams davus įkaitį]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]

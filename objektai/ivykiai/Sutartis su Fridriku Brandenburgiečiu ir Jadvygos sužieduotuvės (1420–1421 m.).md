@@ -99,7 +99,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

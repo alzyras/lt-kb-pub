@@ -100,9 +100,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/daiktai/Kino kronikos kameros]]
-- [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]

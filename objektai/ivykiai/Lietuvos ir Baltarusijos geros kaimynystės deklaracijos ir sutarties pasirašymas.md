@@ -75,5 +75,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Borisas Jelcinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas Landsbergis]]

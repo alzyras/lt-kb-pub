@@ -53,4 +53,3 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/saar]]

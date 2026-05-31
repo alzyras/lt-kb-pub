@@ -60,5 +60,4 @@ Dusburgietis teigia, kad pirmosios dalies įvade tvirtinama, kaip Kristus pastat
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/landkomtūras]]

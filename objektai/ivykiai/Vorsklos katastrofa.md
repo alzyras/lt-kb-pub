@@ -69,6 +69,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Bajazitas]]
 - [[objektai/grupes/Tochtamišo totoriai]]

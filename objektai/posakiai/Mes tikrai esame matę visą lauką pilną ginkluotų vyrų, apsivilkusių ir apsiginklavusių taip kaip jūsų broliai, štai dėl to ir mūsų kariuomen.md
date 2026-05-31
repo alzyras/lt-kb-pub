@@ -72,6 +72,4 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
 - [[objektai/paprociai/Pasidavimas tikėjimui ir broliams davus įkaitį]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]

@@ -86,10 +86,3 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/autonomija autonominis statusas]]
-- [[objektai/zodynas/federacija federacinė valstybė]]

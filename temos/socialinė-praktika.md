@@ -20,7 +20,6 @@ Objektų skaičius: 25.
 
 ### Papročiai
 - [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
 - [[objektai/paprociai/Kasdienis maudymasis pirtyse iš pagarbos dievams]]
@@ -35,6 +34,7 @@ Objektų skaičius: 25.
 - [[objektai/paprociai/Sąjūdžio masiniai mitingai ir reikalavimų viešinimas]]
 - [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]
 - [[objektai/paprociai/Valstybinio turto privatizavimas investiciniais čekiais]]
+- [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
 - [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
 - [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]
 - [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]

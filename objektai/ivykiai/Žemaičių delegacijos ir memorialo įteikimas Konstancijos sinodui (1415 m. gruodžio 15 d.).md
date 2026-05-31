@@ -73,7 +73,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/memorialas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

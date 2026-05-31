@@ -10,10 +10,10 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
-  - elekcija
+  - bajorija
+  - didikas
   - ivykis
-  - karas
-  - seimas
+  - karalius
 ---
 # Zigmanto Vazos elekcija (1587 m.)
 
@@ -124,8 +124,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

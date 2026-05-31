@@ -100,7 +100,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kontribucija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]

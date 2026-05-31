@@ -58,17 +58,10 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Nepriklausomybės kovos]]
-- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
 - [[objektai/asmenys/Pipinas]]
 - [[objektai/ivykiai/Pipino nukankinimas ir mirtis]]
 - [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
-- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]
 - [[objektai/asmenys/Timūras (Tamerlanas)]]
 - [[objektai/asmenys/Uzbeko]]

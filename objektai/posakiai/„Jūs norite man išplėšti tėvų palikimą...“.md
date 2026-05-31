@@ -72,7 +72,7 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]

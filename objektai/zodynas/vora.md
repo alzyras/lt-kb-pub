@@ -66,4 +66,3 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/asmenys/K. Dragunevičius]]
-- [[objektai/asmenys/Vytautas Landsbergis]]

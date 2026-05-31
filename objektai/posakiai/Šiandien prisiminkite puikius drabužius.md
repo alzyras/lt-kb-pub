@@ -61,5 +61,4 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Noliubas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/asmenys/Sklodas iš Kvedenavos]]

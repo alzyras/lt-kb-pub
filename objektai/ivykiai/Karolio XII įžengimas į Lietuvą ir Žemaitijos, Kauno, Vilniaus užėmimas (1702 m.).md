@@ -10,8 +10,10 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
+  - bajorija
   - ivykis
   - karalius
+  - karas
 ---
 # Karolio XII įžengimas į Lietuvą ir Žemaitijos, Kauno, Vilniaus užėmimas (1702 m.)
 
@@ -76,7 +78,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Švedai]]

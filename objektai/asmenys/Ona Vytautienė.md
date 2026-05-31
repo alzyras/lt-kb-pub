@@ -129,9 +129,9 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Ona Jogailaitė]]
 - [[objektai/asmenys/Danuta]]

@@ -133,10 +133,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sembai]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/posakiai/Dar šiandien sembai bus išžudyti]]

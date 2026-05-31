@@ -276,18 +276,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mantas]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/posakiai/„Šventos santuokos“]]

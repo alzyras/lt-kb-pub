@@ -58,4 +58,4 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

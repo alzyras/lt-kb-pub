@@ -238,21 +238,14 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/vėliava]]
-- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/asmenys/Elena]]
 - [[objektai/asmenys/Henrikas iš Berkos]]
 - [[objektai/asmenys/Henrikas iš Ceico]]
 - [[objektai/asmenys/Hermanas Balkas]]
 - [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/asmenys/Konradas iš Tuteleno]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Mokinių slėnio brolių ordinas]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.)]]
-- [[objektai/daiktai/Altorius]]
-- [[objektai/zodynas/markgrafas]]

@@ -97,10 +97,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/grupes/Sembai]]

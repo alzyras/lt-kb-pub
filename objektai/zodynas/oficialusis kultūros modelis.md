@@ -55,12 +55,3 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/integracinė kalba polonizacija]]
-- [[objektai/zodynas/polonizacija integracinė kalba]]

@@ -10,7 +10,6 @@ patikimumas: 'aukštas'
 periodas: viduramziai
 atnaujinta: '2026-04-28'
 tags:
-  - pinigai
   - daiktas
 ---
 # Monetos
@@ -73,7 +72,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -89,22 +88,11 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
-- [[objektai/daiktai/Varpai]]
 - [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
-- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
-- [[objektai/zodynas/misijų teorija]]
-- [[objektai/zodynas/vidaus kolonizacija]]

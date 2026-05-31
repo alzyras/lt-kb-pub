@@ -61,4 +61,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]
+- [[objektai/grupes/Liublino seimas]]

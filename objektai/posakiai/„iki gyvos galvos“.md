@@ -57,5 +57,4 @@ Po Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės taika ir Žema
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

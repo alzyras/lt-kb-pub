@@ -72,10 +72,9 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
+- [[objektai/asmenys/Brunonas]]
 - [[objektai/daiktai/Pilys]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Brunonas iš Kverfurto]]
-- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas (miestas, X a.)]]

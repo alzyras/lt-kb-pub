@@ -88,4 +88,3 @@ tags:
 - [[objektai/grupes/Turkai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/unija]]
-- [[objektai/grupes/Kuršo kunigaikštystė]]

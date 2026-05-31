@@ -111,8 +111,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Hermanas (Henriko Stange brolis)]]

@@ -67,5 +67,4 @@ Taryba, susirinkusi spalių mėn. Tautų Sąjungos Taryba, negalėdama sutikti s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.)]]

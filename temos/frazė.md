@@ -18,11 +18,13 @@ Objektų skaičius: 10.
 
 ## Susiję objektai
 
+### Papročiai
+- [[objektai/paprociai/Aukso laisvės ideologija]]
+
 ### Posakiai
 - [[objektai/posakiai/du priešai, šaltis ir totoriai]]
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
-- [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
 - [[objektai/posakiai/Kad tik be arklio nebūtų]]
 - [[objektai/posakiai/Mūsų kraštą pavergti|Mūsų kraštą pavergti (kraštas)]]
 - [[objektai/posakiai/Respublika laikosi netvarka]]

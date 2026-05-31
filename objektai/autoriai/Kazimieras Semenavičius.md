@@ -141,8 +141,5 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Daugiapakopės raketos]]
-- [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

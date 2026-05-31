@@ -125,4 +125,3 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/„lenkai atakuoja...“]]
-- [[objektai/grupes/Ministerių kabinetas]]

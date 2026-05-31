@@ -14,7 +14,8 @@ datos:
   - '1819 m.'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
-tags: []
+tags:
+  - grupe
 ---
 # Masonų ložė „Uolusis lietuvis“
 

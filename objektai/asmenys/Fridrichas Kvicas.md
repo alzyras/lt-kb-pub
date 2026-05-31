@@ -150,18 +150,15 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Hartmanas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/maršalas]]
-- [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
 - [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]
 - [[objektai/asmenys/Ditrichas iš Altenburgo]]
 - [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/papilys]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/asmenys/Ulrichas iš Drinlevės]]

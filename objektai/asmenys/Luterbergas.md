@@ -84,4 +84,3 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]

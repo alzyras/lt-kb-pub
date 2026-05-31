@@ -60,7 +60,6 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
 ### Susiję objektai
 - [[objektai/grupes/Daukšių būrys]]
 - [[objektai/grupes/Gintaro rinktinė]]
-- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
 - [[objektai/autoriai/Sigitas Tamkevičius]]
 - [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]

@@ -293,7 +293,5 @@ Dusburgietis teigia, kad jiems narsiai pasipriešino miestiečiai ir pilėnai, p
 - [[objektai/zodynas/vėliava]]
 - [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]
 - [[objektai/asmenys/Folradas]]
-- [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
 - [[objektai/zodynas/pilėnas]]
 - [[objektai/zodynas/stabų garbinimas stabmeldystė]]
-- [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas|Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas (pilis)]]

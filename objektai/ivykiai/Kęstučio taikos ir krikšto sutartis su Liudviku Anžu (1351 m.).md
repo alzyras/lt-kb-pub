@@ -72,6 +72,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/grupes/Totoriai]]

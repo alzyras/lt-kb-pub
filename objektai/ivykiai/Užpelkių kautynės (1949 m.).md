@@ -35,6 +35,7 @@ susije_irasai: []
 patikimumas: 'aukstas'
 atnaujinta: '2026-05-02'
 tags:
+  - ivykis
   - mūšis
 ---
 # Užpelkių kautynės (1949 m.)
@@ -112,15 +113,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Juozas Paliūnas-Rytas]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/autoriai/Maironis]]
-- [[objektai/asmenys/Petras Bartkus-Žadgaila]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
-- [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/ivykiai/Užpelkių kautynės]]

@@ -12,7 +12,9 @@ saltiniai:
   - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
 atnaujinta: '2026-04-25'
-tags: []
+tags:
+  - pinigai
+  - sąvoka
 ---
 # sidabrinė duoklė
 
@@ -73,7 +75,7 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/teisinis-terminas]]
+- [[temos/pinigai]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Valstiečių duoklės ir prievolės]]

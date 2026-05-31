@@ -81,11 +81,3 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/savarankiškumas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

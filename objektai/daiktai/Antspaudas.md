@@ -123,10 +123,6 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Cechas]]
 - [[objektai/asmenys/Elena]]
 - [[objektai/asmenys/Gabrielius Bekešas]]
@@ -134,10 +130,7 @@ Nenurodyta
 - [[objektai/posakiai/Kinstutte herczoge czu Tracken und Wytould unsir son]]
 - [[objektai/asmenys/Mstivojus]]
 - [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
-- [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
 - [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]
-- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
 - [[objektai/grupes/Vilniaus miesto cechai]]
 - [[objektai/asmenys/Vimaras [Gneomiras]]]
 - [[objektai/asmenys/Vojakas [Vojachas]]]

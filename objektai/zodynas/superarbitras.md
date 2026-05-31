@@ -59,4 +59,4 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

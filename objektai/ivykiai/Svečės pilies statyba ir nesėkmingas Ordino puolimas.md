@@ -105,9 +105,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/ivykiai/Kryžiaus karo paskelbimas prieš Sventopelką (1245 m.)]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]

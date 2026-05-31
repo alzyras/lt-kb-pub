@@ -162,11 +162,5 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Juozas Lukša-Skirmantas]]
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/asmenys/Kazimieras Pyplys-Mažytis]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Miera|miera]]
 - [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina)]]
 - [[objektai/zodynas/pyliavos]]
-- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]

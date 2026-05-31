@@ -68,4 +68,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
-- [[objektai/autoriai/M. Tepenas]]

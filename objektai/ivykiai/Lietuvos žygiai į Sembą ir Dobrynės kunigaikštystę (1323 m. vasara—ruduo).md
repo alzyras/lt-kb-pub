@@ -98,4 +98,3 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]
 - [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]]
-- [[objektai/grupes/Žemaičiai]]

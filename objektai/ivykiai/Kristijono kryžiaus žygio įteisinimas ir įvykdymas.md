@@ -82,7 +82,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
+- [[objektai/asmenys/Kristijonas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Powierski J]]
 - [[objektai/autoriai/Szacherska S. M]]

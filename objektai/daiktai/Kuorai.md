@@ -71,12 +71,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
-- [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]
 - [[objektai/asmenys/Engelbertas I]]
 - [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]
 - [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
 - [[objektai/daiktai/Katilas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Sembai]]
 - [[objektai/daiktai/Tiltas per Prieglių]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]

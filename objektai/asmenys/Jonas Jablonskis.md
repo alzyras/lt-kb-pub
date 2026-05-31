@@ -63,5 +63,3 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Liudvika Didžiulienė-Žmona]]
 - [[objektai/daiktai/A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“]]
-- [[objektai/asmenys/Julija Žymantienė-Žemaitė]]
-- [[objektai/asmenys/Petras Kriaučiūnas]]

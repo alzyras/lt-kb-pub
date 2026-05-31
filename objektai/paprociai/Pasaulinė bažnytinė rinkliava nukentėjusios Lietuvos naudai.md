@@ -78,8 +78,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
-- [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]

@@ -130,5 +130,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Respublikonai]]
-- [[objektai/grupes/Valkininkų konfederacija]]
 - [[objektai/zodynas/kontribucija]]

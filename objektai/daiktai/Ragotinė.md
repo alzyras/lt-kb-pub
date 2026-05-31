@@ -129,7 +129,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Noragai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/daiktai/Taurės]]

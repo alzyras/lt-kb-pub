@@ -110,5 +110,4 @@ tags: []
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]
 - [[objektai/daiktai/Vytauto paminklai]]

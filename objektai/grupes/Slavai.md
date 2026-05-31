@@ -176,10 +176,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Salys]]
 - [[objektai/zodynas/Arkivyskupija]]
-- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
-- [[objektai/asmenys/Henrikas von Plauenas]]
 - [[objektai/autoriai/J. Jaroszewicz]]
 - [[objektai/autoriai/Jonas Juškevičius]]
 - [[objektai/zodynas/Kanceliarinė rašto kalba]]
@@ -189,15 +186,12 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/autoriai/Nepokupnas A]]
-- [[objektai/paprociai/Rašto vartojimas valstybės ir Bažnyčios reikaluose]]
 - [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
 - [[objektai/zodynas/Rusiškosios raidės]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/autoriai/Stasys Šalkauskis]]
 - [[objektai/autoriai/V. O. Ključevskis]]
 - [[objektai/autoriai/V. V. Antonovičius]]
 - [[objektai/asmenys/Vaclovas Čekietis]]
-- [[objektai/posakiai/Visa Rusija turi priklausyti Lietuvai]]
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/prokalbė]]
 - [[objektai/zodynas/rublis]]

@@ -142,4 +142,3 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 - [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]
-- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]

@@ -188,25 +188,14 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/asmenys/Kiprijonas]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/metropolija]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
 - [[objektai/asmenys/Ciprijonas]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
-- [[objektai/asmenys/Fotijus]]
 - [[objektai/asmenys/Gr. Camblakas]]
 - [[objektai/autoriai/Grigorijus Camblakas]]
 - [[objektai/autoriai/J. Adamus]]
-- [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/asmenys/Jurgis Cemblakas]]
 - [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
@@ -215,6 +204,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 - [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
 - [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teodosijus]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/zodynas/daugiakonfesiškumas]]

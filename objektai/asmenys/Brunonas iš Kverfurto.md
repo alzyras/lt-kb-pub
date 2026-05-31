@@ -49,5 +49,5 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
+- [[objektai/asmenys/Brunonas]]
 - [[objektai/asmenys/Burchardas iš Magdeburgo]]

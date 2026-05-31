@@ -58,5 +58,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/asmenys/Gediminas]]

@@ -79,8 +79,6 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sembai]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Sklodas iš Kvedenavos]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]

@@ -54,7 +54,6 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
 - [[objektai/asmenys/Elena]]
 - [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/autoriai/M. K. Liubavskis]]
-- [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/autoriai/Pranciškus Malevskis]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/autoriai/V. T. Pašuto]]

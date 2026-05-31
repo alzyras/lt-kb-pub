@@ -105,7 +105,4 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]
 - [[objektai/zodynas/Prūsijos žemė terra Prussiae]]

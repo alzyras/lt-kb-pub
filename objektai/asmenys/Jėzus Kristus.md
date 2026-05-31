@@ -99,7 +99,4 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kuoras aukštai ąžuole]]
-- [[objektai/autoriai/Petras Dusburgietis]]

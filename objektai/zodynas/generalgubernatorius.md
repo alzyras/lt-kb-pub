@@ -101,8 +101,6 @@ Jį valdė Vilniaus generalgubernatorius.
 - [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/asmenys/Ivanas Kornilovas]]
-- [[objektai/asmenys/Konstantinas Kalinauskas]]
-- [[objektai/asmenys/Michailas Muravjovas]]
 - [[objektai/asmenys/T. Dalevskis]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/gubernija apskritis (ujezd)]]

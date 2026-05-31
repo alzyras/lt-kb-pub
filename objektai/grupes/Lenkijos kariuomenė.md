@@ -142,15 +142,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Zigmantas Vaza]]
-- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
 - [[objektai/asmenys/Albertas Manvydas]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]
-- [[objektai/asmenys/Simonas Lengvenis]]
 - [[objektai/grupes/Čekijos husitai]]
-- [[objektai/asmenys/Žygimantas Kaributaitis]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/zodynas/etmonas]]

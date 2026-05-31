@@ -104,7 +104,7 @@ Nenurodyta
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Stanislovas Ciołek]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Ziemovitas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/luomas]]

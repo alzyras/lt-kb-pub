@@ -118,10 +118,9 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]

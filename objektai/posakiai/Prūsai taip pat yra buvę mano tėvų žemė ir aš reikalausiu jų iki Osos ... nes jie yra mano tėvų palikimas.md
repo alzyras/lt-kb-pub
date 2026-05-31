@@ -55,4 +55,4 @@ Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai parei�
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

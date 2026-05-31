@@ -164,14 +164,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
-- [[objektai/grupes/Karaimai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/unija]]

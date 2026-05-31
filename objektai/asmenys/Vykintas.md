@@ -64,6 +64,5 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/posakiai/jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi]]
 - [[objektai/posakiai/kein Soule sie karten wider]]

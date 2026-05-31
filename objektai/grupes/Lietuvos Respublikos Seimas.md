@@ -78,5 +78,4 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
 - [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

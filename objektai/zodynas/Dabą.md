@@ -69,4 +69,4 @@ Vartojamos formos: `dabos`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Rėda|rėda]]

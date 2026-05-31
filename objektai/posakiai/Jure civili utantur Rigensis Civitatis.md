@@ -91,4 +91,4 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]

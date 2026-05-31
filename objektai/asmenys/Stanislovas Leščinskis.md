@@ -105,7 +105,3 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Augustas III]]

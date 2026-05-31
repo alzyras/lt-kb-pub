@@ -195,18 +195,9 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/daiktai/Balnas]]
 - [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
-- [[objektai/asmenys/Martynas V]]
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
 - [[objektai/asmenys/Prokopas]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
@@ -215,6 +206,8 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - [[objektai/zodynas/ekskomunika]]
 - [[objektai/posakiai/in odium Sigismundi]]
 - [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/grupes/Čekijos husitai]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/daiktai/Balnas]]

@@ -85,4 +85,6 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Augustinijonų ordinas]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/vaivada]]

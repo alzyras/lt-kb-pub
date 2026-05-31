@@ -113,4 +113,4 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/paliaubos]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

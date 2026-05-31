@@ -78,7 +78,3 @@ Dusburgietis teigia, kad galtgarbių kalne esą buvusi legendinio Vaidevučio (V
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/magistras]]

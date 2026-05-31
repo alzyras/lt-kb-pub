@@ -68,4 +68,3 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Pamarėnai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

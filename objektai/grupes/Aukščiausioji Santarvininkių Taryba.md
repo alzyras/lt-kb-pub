@@ -115,4 +115,3 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Kerzono linija]]
-- [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]

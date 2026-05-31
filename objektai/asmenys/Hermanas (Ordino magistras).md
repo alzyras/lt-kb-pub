@@ -87,5 +87,3 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas (miestas, X a.)]]

@@ -162,10 +162,3 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Glapas]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/asmenys/Steinavas]]
-- [[objektai/grupes/Varmiai]]

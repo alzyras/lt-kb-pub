@@ -111,7 +111,6 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - [[objektai/zodynas/maršalas]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygūnai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
 - [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/asmenys/Henrikas iš Berkos]]

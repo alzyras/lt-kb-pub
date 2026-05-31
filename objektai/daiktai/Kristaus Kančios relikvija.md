@@ -100,13 +100,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Flekenšteinas]]
-- [[objektai/asmenys/Gebhardas]]
-- [[objektai/asmenys/Gebhardas iš Manstfeldo]]
-- [[objektai/asmenys/Hertvigas]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.)]]
-- [[objektai/asmenys/Hertvigas iš Pokarvių]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

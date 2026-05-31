@@ -79,4 +79,3 @@ Dusburgietis teigia, kad brolis Ditrichas, vardu Rodė, Kristburgo komtūras416,
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Kristburgo komtūro Ditricho iš Rodės žygis į Pagudę ir pergalė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

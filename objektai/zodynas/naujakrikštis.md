@@ -134,8 +134,3 @@ Vartojama religinės-socialinės priklausomybės ir statuso kalboje.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/luomas]]
-- [[objektai/paprociai/Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus]]

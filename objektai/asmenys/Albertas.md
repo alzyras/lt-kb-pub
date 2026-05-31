@@ -12,7 +12,8 @@ atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - ordinas
-  - vyskupas
+  - popiežius
+  - valdovas
 ---
 # Albertas
 
@@ -84,13 +85,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Albertas (Brandenburgo markgrafas)]]
 - [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]
-- [[objektai/asmenys/Albertas iš Meiseno]]
 - [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi]]
 - [[objektai/asmenys/Ditrichas (Meiseno markgrafas)]]
 - [[objektai/grupes/Dobrinės ordinas]]
@@ -103,13 +99,10 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - [[objektai/asmenys/Henrikas (Jeruzalės karalius)]]
 - [[objektai/asmenys/Henrikas (Jeruzalės patriarchas)]]
 - [[objektai/asmenys/Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis)]]
-- [[objektai/asmenys/Henrikas VI]]
 - [[objektai/asmenys/Henrikas iš Kalendino]]
 - [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]
 - [[objektai/asmenys/Hugonas]]
-- [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/asmenys/Jonas iš Hibelino]]
-- [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
 - [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]
 - [[objektai/asmenys/Konradas (Landsbergo markgrafas)]]
 - [[objektai/asmenys/Konradas (Mainco arkivyskupas)]]

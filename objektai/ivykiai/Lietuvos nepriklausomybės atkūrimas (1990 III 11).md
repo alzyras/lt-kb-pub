@@ -119,11 +119,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]

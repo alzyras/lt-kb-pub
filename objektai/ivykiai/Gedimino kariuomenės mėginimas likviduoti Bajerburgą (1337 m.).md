@@ -80,6 +80,6 @@ Nenurodyta
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Bartai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]

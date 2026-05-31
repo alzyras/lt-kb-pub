@@ -106,12 +106,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
-- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Gediminaičiai]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/asmenys/Motiejus Huniadis]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

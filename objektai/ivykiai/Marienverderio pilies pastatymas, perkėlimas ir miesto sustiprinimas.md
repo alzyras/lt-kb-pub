@@ -157,14 +157,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Burchardas iš Magdeburgo]]
-- [[objektai/asmenys/Hermanas (Ordino magistras)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

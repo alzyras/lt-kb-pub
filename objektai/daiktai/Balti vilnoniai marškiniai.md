@@ -117,16 +117,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
 ### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
-- [[objektai/daiktai/Kilimas]]
-- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
-- [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]
 - [[objektai/daiktai/Vyženos]]
-- [[objektai/zodynas/Kilimas|kilimas]]
 - [[objektai/asmenys/Hermanas iš Lichtenburgo]]

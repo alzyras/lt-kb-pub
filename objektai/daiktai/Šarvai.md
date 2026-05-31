@@ -167,18 +167,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Lankai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/daiktai/Skydas]]
-- [[objektai/zodynas/lengvoji kavalerija]]
 - [[objektai/asmenys/Gerhardas, pravarde Rudė]]
 - [[objektai/daiktai/Karacenos šarvų komplektas]]
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
 - [[objektai/asmenys/Mergelė Marija]]
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/asmenys/Petras (Hermano iš Lichtenburgo nuodėmklausys)]]
 - [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]
-- [[objektai/grupes/Saulė]]
 - [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/netikėliai]]

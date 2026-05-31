@@ -129,6 +129,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/politinis-sprendimas]]
-
-### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]

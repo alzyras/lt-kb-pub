@@ -90,12 +90,3 @@ Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/konfederacija]]

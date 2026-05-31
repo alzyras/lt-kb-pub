@@ -156,7 +156,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
 - [[objektai/asmenys/Konradas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Pomeranai]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]

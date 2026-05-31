@@ -141,11 +141,11 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
+- [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Miera|miera]]

@@ -154,5 +154,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Ediga]]
 - [[objektai/asmenys/Timuras]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]

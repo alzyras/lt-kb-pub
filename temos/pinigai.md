@@ -39,7 +39,6 @@ Objektų skaičius: 51.
 - [[objektai/daiktai/Lietuvos auksas]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/daiktai/Lietuvos pinigai litas]]
-- [[objektai/daiktai/Monetos]]
 - [[objektai/daiktai/Muštiniai]]
 - [[objektai/daiktai/Popiežiaus vainikas]]
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]
@@ -48,13 +47,14 @@ Objektų skaičius: 51.
 
 ### Grupės
 - [[objektai/grupes/Dalomoji Komisija]]
-- [JAV lietuviai](../objektai/grupes/JAV%20lietuviai)
+- [[objektai/grupes/JAV lietuviai]]
 - [Jutrzenka](../objektai/grupes/Jutrzenka)
 - [Oswiata](../objektai/grupes/Oswiata)
 - [Pochodnia](../objektai/grupes/Pochodnia)
 - [Totorių pajėgos](../objektai/grupes/Totori%C5%B3%20paj%C4%97gos)
 
 ### Papročiai
+- [Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose](../objektai/paprociai/Bajorijos%20ir%20didik%C5%B3%20pasipelnymo%20%C4%AFprotis%20vie%C5%A1uosiuose%20reikaluose)
 - [Kasdienis maudymasis pirtyse iš pagarbos dievams](../objektai/paprociai/Kasdienis%20maudymasis%20pirtyse%20i%C5%A1%20pagarbos%20dievams)
 - [Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas](../objektai/paprociai/Pavaldumo%20demonstravimas%20derybose%20per%20pinig%C5%B3%20%C5%BEenklinim%C4%85%20ir%20dovanas)
 - [Valstiečių duoklės ir prievolės](../objektai/paprociai/Valstie%C4%8Di%C5%B3%20duokl%C4%97s%20ir%20prievol%C4%97s)
@@ -67,18 +67,18 @@ Objektų skaičius: 51.
 - [šio šventojo žygio atminimas](../objektai/posakiai/%C5%A1io%20%C5%A1ventojo%20%C5%BEygio%20atminimas)
 
 ### Įvykiai
-- [Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)](../objektai/ivykiai/Lietuvos%20skriaud%C5%B3%20vie%C5%A1inimo%20akcijos%20Amerikoje%20%281894%E2%80%931900%20m.%29)
 - [Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.)](../objektai/ivykiai/Vengr%C5%B3%20karaliaus%20karo%20paskelbimas%20Lenkijai%20%281410%20m.%20liepos%2011%20d.%29)
 
 ### Žodynas
 - [chanas](../objektai/zodynas/chanas)
 - [emyras](../objektai/zodynas/emyras)
+- [generaliniai seimeliai](../objektai/zodynas/generaliniai%20seimeliai)
 - [grašis](../objektai/zodynas/gra%C5%A1is)
 - [litas](../objektai/zodynas/litas)
 - [natūralinis ūkis](../objektai/zodynas/nat%C5%ABralinis%20%C5%ABkis)
 - [pastočiai](../objektai/zodynas/pasto%C4%8Diai)
-- [plikbajoris](../objektai/zodynas/plikbajoris)
 - [rublis](../objektai/zodynas/rublis)
+- [sidabrinė duoklė](../objektai/zodynas/sidabrin%C4%97%20duokl%C4%97)
 - [sidabrinė duoklė tributum serebsčina](../objektai/zodynas/sidabrin%C4%97%20duokl%C4%97%20tributum%20serebs%C4%8Dina)
 - [vyrgalvė](../objektai/zodynas/Vyrgalv%C4%97)
 - [šventasis žygis](../objektai/zodynas/%C5%A1ventasis%20%C5%BEygis)

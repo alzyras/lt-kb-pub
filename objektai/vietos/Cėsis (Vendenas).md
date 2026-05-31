@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - ordinas
+  - pilis
   - vieta
 ---
 # Cėsis (Vendenas)

@@ -106,4 +106,3 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/grupes/Kalavijuočių ordinas]]

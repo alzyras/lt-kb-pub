@@ -67,6 +67,6 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
+- [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Dusburgas]]

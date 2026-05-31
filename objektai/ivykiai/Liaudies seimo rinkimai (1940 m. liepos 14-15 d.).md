@@ -82,9 +82,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/aneksija]]
-- [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]
-- [[objektai/zodynas/liaudies priešai]]

@@ -86,5 +86,4 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]
 - [[objektai/asmenys/Grigalius IX]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai]]

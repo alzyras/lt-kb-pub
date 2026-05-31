@@ -116,4 +116,3 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Bonifacas IX]]
-- [[objektai/zodynas/neofitas]]

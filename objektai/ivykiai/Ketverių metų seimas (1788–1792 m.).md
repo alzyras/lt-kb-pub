@@ -124,10 +124,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis (reformų veikėjas)]]

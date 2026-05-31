@@ -73,6 +73,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Kuorai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]
 - [[objektai/daiktai/Vąšas]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]

@@ -56,8 +56,3 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/neutralitetas]]
-- [[objektai/grupes/Žydai]]

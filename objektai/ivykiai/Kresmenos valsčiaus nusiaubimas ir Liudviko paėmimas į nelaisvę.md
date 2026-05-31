@@ -128,7 +128,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Skomantas]]

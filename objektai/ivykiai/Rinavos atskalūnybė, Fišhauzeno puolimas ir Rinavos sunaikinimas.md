@@ -126,4 +126,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
 - [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

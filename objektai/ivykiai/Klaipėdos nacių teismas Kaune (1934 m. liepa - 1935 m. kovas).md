@@ -104,6 +104,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]

@@ -61,4 +61,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija]]

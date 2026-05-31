@@ -151,7 +151,6 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
 - [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]
 - [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]
 - [[objektai/paprociai/Šubravcų satyrinė spaudos kritika]]

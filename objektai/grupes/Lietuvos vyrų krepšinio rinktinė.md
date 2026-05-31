@@ -72,6 +72,5 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]
 - [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės olimpiniai bronzos medaliai (1992, 1996 ir 2000 m.)]]
 - [[objektai/daiktai/Olimpiniai medaliai]]

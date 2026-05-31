@@ -12,6 +12,7 @@ atnaujinta: '2026-04-25'
 tags:
   - paprotys
   - sutartis
+  - valdovas
   - valstybė
 ---
 # Rašto vartojimas valstybės ir Bažnyčios reikaluose
@@ -113,7 +114,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Slavai]]

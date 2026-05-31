@@ -121,11 +121,4 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
-- [[objektai/zodynas/inkorporacija]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]

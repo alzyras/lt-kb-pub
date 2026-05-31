@@ -85,10 +85,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Pilys]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]

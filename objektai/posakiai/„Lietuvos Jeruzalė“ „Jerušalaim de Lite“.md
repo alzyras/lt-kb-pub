@@ -25,7 +25,6 @@ saltiniai:
 patikimumas: 'aukstas'
 atnaujinta: '2026-05-18'
 tags:
-  - kunigaikštis
   - posakis
 ---
 # „Lietuvos Jeruzalė“ „Jerušalaim de Lite“
@@ -93,8 +92,3 @@ tags:
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Armėnai]]
-- [[objektai/grupes/Žydai]]

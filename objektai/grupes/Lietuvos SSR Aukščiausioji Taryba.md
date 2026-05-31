@@ -143,11 +143,3 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
-- [[objektai/zodynas/suverenitetas suverenumas]]
-- [[objektai/zodynas/suverenumas suverenitetas]]

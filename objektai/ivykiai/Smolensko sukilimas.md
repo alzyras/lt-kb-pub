@@ -83,8 +83,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/apostazija]]
-- [[objektai/zodynas/vietininkas]]

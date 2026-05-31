@@ -12,7 +12,8 @@ atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - karas
-  - ordinas
+  - kunigaikštis
+  - mūšis
 ---
 # Andriaus ir koalicijos sutriuškinimas
 
@@ -84,8 +85,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/grupes/Lenkai]]

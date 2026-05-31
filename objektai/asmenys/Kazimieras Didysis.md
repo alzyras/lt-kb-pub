@@ -215,7 +215,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -233,14 +233,11 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]

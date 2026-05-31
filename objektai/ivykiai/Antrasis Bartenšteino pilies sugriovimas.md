@@ -88,6 +88,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Varmiai]]
-- [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

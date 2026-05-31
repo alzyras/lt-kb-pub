@@ -69,4 +69,3 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]
-- [[objektai/zodynas/dykra]]

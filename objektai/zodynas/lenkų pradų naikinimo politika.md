@@ -59,12 +59,3 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/pradai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/posakiai/„Čia nebus Lenkijos“]]
-- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]

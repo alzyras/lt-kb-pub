@@ -107,5 +107,3 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 - [[objektai/zodynas/tautos atstovai]]
 - [[objektai/zodynas/vora]]
 - [[objektai/daiktai/Šarvuočiai]]
-- [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas|Aukščiausioji Taryba-Atkuriamasis Seimas (seimas)]]
-- [[objektai/asmenys/Vytautas Landsbergis]]

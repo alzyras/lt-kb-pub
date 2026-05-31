@@ -86,4 +86,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pagudėnai]]
-- [[objektai/grupes/Pamedėnai]]

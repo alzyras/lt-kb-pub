@@ -124,7 +124,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]

@@ -63,6 +63,6 @@ Po šių Vytauto pasisekimų Jogaila smarkiai susirūpina Lietuvos reikalais: no
 ### Susiję objektai
 - [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vietininkas]]

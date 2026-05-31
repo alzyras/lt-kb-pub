@@ -75,6 +75,5 @@ tags:
 ### Susiję objektai
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/asmenys/J. Juška]]
-- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/posakiai/„karas po karo“]]

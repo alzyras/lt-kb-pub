@@ -159,14 +159,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]
-- [[objektai/zodynas/viešpaties karas]]

@@ -75,12 +75,10 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
+- [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
-- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

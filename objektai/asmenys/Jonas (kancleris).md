@@ -61,7 +61,6 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
 - [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas)]]
 - [[objektai/asmenys/Gernuldas]]
 - [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
 - [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]
 - [[objektai/asmenys/Mykolas (Kujavijos vyskupas)]]
 - [[objektai/asmenys/Vilhelmas (dekanas)]]

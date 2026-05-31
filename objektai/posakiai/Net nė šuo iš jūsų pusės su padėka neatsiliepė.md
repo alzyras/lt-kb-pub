@@ -80,4 +80,4 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]

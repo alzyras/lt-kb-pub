@@ -48,4 +48,3 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 ### Susiję objektai
 - [[objektai/daiktai/Altorius]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Šv. Stanislovas]]

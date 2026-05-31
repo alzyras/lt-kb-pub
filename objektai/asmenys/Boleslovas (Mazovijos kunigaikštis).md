@@ -82,4 +82,3 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
 ### Susiję objektai
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]

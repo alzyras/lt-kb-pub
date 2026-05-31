@@ -108,7 +108,5 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
-- [[objektai/asmenys/Vosylius I]]
-- [[objektai/zodynas/regencija]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/asmenys/Vosylius II]]

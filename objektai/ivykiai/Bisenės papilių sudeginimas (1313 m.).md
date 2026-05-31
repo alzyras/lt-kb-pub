@@ -85,6 +85,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/papilys]]

@@ -66,5 +66,4 @@ tags:
 - [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika]]
 - [[objektai/zodynas/suverenumas]]

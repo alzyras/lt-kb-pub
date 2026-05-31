@@ -54,6 +54,4 @@ Dusburgietis teigia, kad po šių skerdynių notangai, sumanę savo dievams paau
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/grupes/Notangai]]
 - [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.)]]

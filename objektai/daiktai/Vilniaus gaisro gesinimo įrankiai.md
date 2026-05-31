@@ -88,11 +88,9 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/vaivada]]
 - [[objektai/paprociai/Aisčių medžių ir girių garbinimas]]
-- [[objektai/daiktai/Akmeniniai kovos kirviai]]
 - [[objektai/daiktai/Akstys]]
 - [[objektai/autoriai/Archeologai ir priešistorės tyrėjai]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/autoriai/Z. Raulinaitis]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
-- [[objektai/daiktai/Laivo pavidalo akmens kirviai]]
 - [[objektai/daiktai/Ūkio įrankiai]]

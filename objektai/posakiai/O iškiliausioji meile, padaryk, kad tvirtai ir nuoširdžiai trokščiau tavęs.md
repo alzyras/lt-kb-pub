@@ -87,4 +87,3 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 - [[objektai/daiktai/Deglas]]
 - [[objektai/daiktai/Sidabro dirbiniai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Albertas iš Meiseno]]

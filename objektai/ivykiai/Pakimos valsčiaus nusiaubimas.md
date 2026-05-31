@@ -94,4 +94,3 @@ Nenurodyta
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

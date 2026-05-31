@@ -98,7 +98,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albrechtas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Skalviai]]

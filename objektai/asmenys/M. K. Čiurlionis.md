@@ -82,10 +82,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
-- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

@@ -45,7 +45,3 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]

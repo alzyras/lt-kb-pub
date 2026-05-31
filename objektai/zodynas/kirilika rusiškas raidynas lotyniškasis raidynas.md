@@ -70,7 +70,3 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

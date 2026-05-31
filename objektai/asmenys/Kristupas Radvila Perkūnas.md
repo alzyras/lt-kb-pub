@@ -141,12 +141,4 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Chodkevičius]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
-- [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]

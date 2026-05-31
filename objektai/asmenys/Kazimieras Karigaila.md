@@ -18,23 +18,11 @@ laikotarpis: 1390 m. Vilniaus puolimo ir 1396 m. Vytauto privilegijos kontekstas
 datos:
   - '1390 m.'
   - '1396 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
 amziai:
   - 'XIV'
-date_start: '1390'
-date_end: '1396'
-vaidmenys:
-  - kunigaikštis
-  - karvedys
-dalyviai: []
-susije_irasai: []
-patikimumas: aukštas
+periodo_grupes:
+  - 'LDK'
 atnaujinta: '2026-05-27'
-tags:
-  - karvedys
-  - kunigaikštis
 ---
 # Kazimieras Karigaila
 
@@ -238,16 +226,3 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/grupes/Anglai]]
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/asmenys/Karigaila]]

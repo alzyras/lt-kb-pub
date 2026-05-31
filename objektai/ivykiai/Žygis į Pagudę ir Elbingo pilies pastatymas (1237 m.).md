@@ -126,5 +126,3 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

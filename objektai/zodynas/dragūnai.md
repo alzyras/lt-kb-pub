@@ -79,5 +79,4 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
-- [[objektai/zodynas/vėliava]]
 - [[objektai/asmenys/M. P. Sapiega]]

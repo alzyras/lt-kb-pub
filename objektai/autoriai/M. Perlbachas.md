@@ -110,7 +110,3 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

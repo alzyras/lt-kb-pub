@@ -120,11 +120,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Manfredas]]
-- [[objektai/grupes/NATO]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
-- [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]

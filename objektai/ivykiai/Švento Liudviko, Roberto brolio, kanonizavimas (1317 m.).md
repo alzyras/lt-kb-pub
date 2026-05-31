@@ -86,4 +86,3 @@ Nenurodyta
 - [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
 - [[objektai/asmenys/Liudvikas (Sicilijos karaliaus Roberto brolis)]]
-- [[objektai/grupes/Pranciškonų ordinas]]

@@ -60,5 +60,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
 - [[objektai/posakiai/lietuviška Golgota]]
-- [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]

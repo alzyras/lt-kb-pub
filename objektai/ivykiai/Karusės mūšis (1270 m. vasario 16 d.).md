@@ -122,11 +122,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Žirgai]]
-- [[objektai/asmenys/Luterbergas]]
-- [[objektai/asmenys/Ottonas Luterbergas]]
-- [[objektai/zodynas/magistras]]

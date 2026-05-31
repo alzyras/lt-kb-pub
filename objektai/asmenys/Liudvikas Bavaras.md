@@ -102,7 +102,7 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

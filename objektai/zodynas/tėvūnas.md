@@ -10,7 +10,9 @@ saltiniai:
   - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
 atnaujinta: '2026-04-25'
-tags: []
+tags:
+  - kunigaikštis
+  - sąvoka
 ---
 # tėvūnas
 
@@ -60,8 +62,5 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Sūdas|sūdas]]

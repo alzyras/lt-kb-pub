@@ -74,4 +74,4 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]
-- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės (pilis)]]
+- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]

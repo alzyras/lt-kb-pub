@@ -148,7 +148,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/grupes/Piastų dinastija]]
 - [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]

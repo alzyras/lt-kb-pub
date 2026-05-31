@@ -202,7 +202,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
@@ -218,13 +218,7 @@ Nenurodyta
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Vėlė|vėlė]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Lietuviai]]

@@ -208,6 +208,5 @@ Nenurodyta
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]
-- [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]
 - [[objektai/asmenys/Mathias Ziindt]]
 - [[objektai/asmenys/Petras Šuiskis]]

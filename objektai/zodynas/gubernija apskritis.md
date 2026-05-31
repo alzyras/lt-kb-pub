@@ -60,7 +60,3 @@ Gubernija buvo administracijos vienetas, valdomas gubernatoriaus ir gubernijos v
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/gubernija]]

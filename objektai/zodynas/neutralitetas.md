@@ -77,8 +77,4 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/autoriai/Senn A. E]]
 - [[objektai/grupes/Tautų Sąjunga]]

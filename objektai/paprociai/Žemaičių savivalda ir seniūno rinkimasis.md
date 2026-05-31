@@ -108,6 +108,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/kunigaikščiai]]

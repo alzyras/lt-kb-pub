@@ -97,4 +97,3 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 - [[objektai/zodynas/polonizacija]]
 - [[objektai/zodynas/bolševizacija]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
-- [[objektai/zodynas/oficialusis kultūros modelis]]

@@ -65,4 +65,3 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19)]]
 - [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

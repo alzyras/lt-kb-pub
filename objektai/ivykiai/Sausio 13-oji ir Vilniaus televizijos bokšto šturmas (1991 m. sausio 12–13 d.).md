@@ -108,14 +108,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jelena Boner]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Sausio 13-osios gynybinės barikados]]
-- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
-- [[objektai/daiktai/Varpai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Šarvuočiai]]
-- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]

@@ -115,6 +115,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Pamedėnai]]
 - [[objektai/asmenys/Samilis]]

@@ -170,7 +170,3 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]

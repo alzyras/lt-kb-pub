@@ -10,7 +10,6 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
-  - mokslininkas
 ---
 # Petras Kriaučiūnas
 
@@ -57,12 +56,3 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liudvika Didžiulienė-Žmona]]
-- [[objektai/daiktai/A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“]]
-- [[objektai/asmenys/Jonas Jablonskis]]
-- [[objektai/asmenys/Julija Žymantienė-Žemaitė]]

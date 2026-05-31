@@ -74,5 +74,4 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]
 - [[objektai/zodynas/papilys]]

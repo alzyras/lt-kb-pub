@@ -55,5 +55,4 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 - [[objektai/grupes/Saracėnai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Almimolino žygis į Ispaniją ir pralaimėjimas]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/talkininkas]]

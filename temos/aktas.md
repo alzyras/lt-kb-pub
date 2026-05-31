@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 53.
+Objektų skaičius: 52.
 
 ## Kaip naudoti
 
@@ -36,25 +36,24 @@ Objektų skaičius: 53.
 - [[objektai/daiktai/Malūnas]]
 
 ### Grupės
-- [[objektai/grupes/III Seimas|III Seimas (seimas)]]
+- [[objektai/grupes/III Seimas]]
 - [[objektai/grupes/Konfederaciniai seimai]]
 - [[objektai/grupes/Lenkijos bajorija]]
 - [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
-- [[objektai/grupes/Radomo konfederacija]]
 - [[objektai/grupes/Targovicos konfederacija]]
 - [[objektai/grupes/Varšuvos seimas|Varšuvos seimas (seimas)]]
 
 ### Papročiai
 - [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]
-- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė|Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė (seimas)]]
+- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
 
 ### Posakiai
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
 - [[objektai/posakiai/Didžiosios Spalio socialistinės revoliucijos]]
 - [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]]
-- [„etnologinėmis sienomis“](../objektai/posakiai/%E2%80%9Eetnologin%C4%97mis%20sienomis%E2%80%9C)
+- [[objektai/posakiai/„etnologinėmis sienomis“]]
 - [„kad yra atstatomas 1940 metais svetimos jėgos panaikintas Lietuvos Valstybės suverenių galių vykdymas...“](../objektai/posakiai/%E2%80%9Ekad%20yra%20atstatomas%201940%20metais%20svetimos%20j%C4%97gos%20panaikintas%20Lietuvos%20Valstyb%C4%97s%20suvereni%C5%B3%20gali%C5%B3%20vykdymas...%E2%80%9C)
 - [„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“](../objektai/posakiai/%E2%80%9Eniekuomet%20nebuvo%20karo%20pad%C4%97tyje%E2%80%9C%20%E2%80%9Enedraugi%C5%A1kas%20aktas%E2%80%9C)
 - [„valdomos demokratijos“](../objektai/posakiai/%E2%80%9Evaldomos%20demokratijos%E2%80%9C)

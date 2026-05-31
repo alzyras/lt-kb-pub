@@ -12,6 +12,7 @@ atnaujinta: '2026-04-25'
 tags:
   - ivykis
   - ordinas
+  - pilis
   - sutartis
 ---
 # Racionžo taika (1404 m.)
@@ -81,9 +82,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/grupes/Žemaičiai]]

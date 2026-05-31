@@ -253,7 +253,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]

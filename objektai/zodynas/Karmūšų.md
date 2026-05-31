@@ -63,4 +63,3 @@ Papildomos aiškios formos neišskirtos.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Liuosybė|liuosybė]]
-- [[objektai/paprociai/Kovų vietų neliečiamumas]]

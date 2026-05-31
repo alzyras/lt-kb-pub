@@ -141,7 +141,3 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Švedai]]

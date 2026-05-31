@@ -76,4 +76,3 @@ Nenurodyta
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

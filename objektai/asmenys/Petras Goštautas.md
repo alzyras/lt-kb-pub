@@ -283,7 +283,7 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Pranciškonų ordinas]]

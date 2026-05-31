@@ -21,7 +21,8 @@ dalyviai: []
 susije_irasai: []
 patikimumas: vidutinis
 atnaujinta: '2026-04-25'
-tags: []
+tags:
+  - sąvoka
 ---
 # mezliava
 
@@ -94,10 +95,3 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 
 ## Pastabos
 - Konkretus mokėjimo turinys kinta pagal vietą ir laiką, bet prievolinės duoklės reikšmė aiški.
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/teisinis-terminas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Duona]]

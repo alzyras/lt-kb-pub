@@ -103,11 +103,4 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Liublino seimo sprendimas dėl seimų vietos|Liublino seimo sprendimas dėl seimų vietos (seimas)]]
-- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė|Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė (seimas)]]
-- [[objektai/zodynas/statuto dėsniai]]
-- [[objektai/zodynas/savarankiškumas]]

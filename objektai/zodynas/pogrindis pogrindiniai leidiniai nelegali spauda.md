@@ -88,6 +88,5 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
-- [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
 - [[objektai/daiktai/Religinės relikvijos]]

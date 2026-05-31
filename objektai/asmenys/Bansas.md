@@ -74,5 +74,3 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
 ### Susiję objektai
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Pagudėnai]]

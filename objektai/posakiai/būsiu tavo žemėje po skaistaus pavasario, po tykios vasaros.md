@@ -64,5 +64,5 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

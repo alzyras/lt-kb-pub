@@ -63,5 +63,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

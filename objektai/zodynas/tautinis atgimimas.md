@@ -140,17 +140,10 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/autoriai/S. Daukantas]]
-- [[objektai/zodynas/vyskupystė]]
 - [[objektai/ivykiai/1830-1831 m. ir 1863 m. sukilimai]]
 - [[objektai/ivykiai/1905 m. revoliucija Rusijoje]]
-- [[objektai/grupes/Aušrininkai]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/autoriai/Ign. Kraszewskio]]
 - [[objektai/autoriai/Justinas Marcinkevičius]]
 - [[objektai/autoriai/L. Kondratowicziaus (Wl. Syrokomlės)]]
-- [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
 - [[objektai/autoriai/Vytautas Petkevičius]]

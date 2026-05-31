@@ -61,12 +61,9 @@ Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę š
 ### Susiję objektai
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Jotvingiai]]
 - [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
 - [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
 - [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
 - [[objektai/grupes/Pamarėnai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Živinbudas]]

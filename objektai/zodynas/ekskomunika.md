@@ -60,6 +60,6 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
 - [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]

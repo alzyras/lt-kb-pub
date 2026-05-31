@@ -9,8 +9,7 @@ saltiniai:
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
-  - karas
-  - tauta
+  - valstybė
   - vieta
 ---
 # Mažoji Lietuva

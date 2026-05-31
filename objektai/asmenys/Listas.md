@@ -49,4 +49,3 @@ Dusburgietis teigia, kad kai čia laivai įstrigo seklumoje ir toliau neįsteng�
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]

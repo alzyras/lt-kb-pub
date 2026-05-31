@@ -50,5 +50,4 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/asmenys/Benito Musolinis]]
-- [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]

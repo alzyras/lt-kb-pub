@@ -80,6 +80,4 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/daiktai/Laivai]]
 - [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka]]
-- [[objektai/grupes/Lietuviai]]

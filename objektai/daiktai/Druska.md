@@ -72,8 +72,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Burgundijos kalno nuslinkimas (1225 m.)]]
 - [[objektai/daiktai/Vąšas]]
-- [[objektai/daiktai/Vėliavos]]
 - [[objektai/posakiai/„Lietuvos žemės druska“]]

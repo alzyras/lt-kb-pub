@@ -148,10 +148,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]
-- [[objektai/daiktai/Partizanų bunkeriai]]
-- [[objektai/ivykiai/Šimonių girios apgultis]]
-- [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]

@@ -146,10 +146,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/gotika]]
-- [[objektai/paprociai/Pagoniškų elementų išlikimas krikščioniškų švenčių papročiuose]]
-- [[objektai/paprociai/Pagoniškųjų tikėjimų integravimas į krikščionišką praktiką]]

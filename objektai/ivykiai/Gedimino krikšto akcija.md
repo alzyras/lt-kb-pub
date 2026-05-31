@@ -61,8 +61,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/unija]]
-- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/zodynas/Arkivyskupija]]

@@ -11,6 +11,8 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - karalius
+  - karas
+  - seimas
   - sąvoka
 ---
 # kariuomenės konfederacija
@@ -73,8 +75,3 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/zodynas/konfederacija]]

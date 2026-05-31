@@ -99,4 +99,3 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
 - [[objektai/asmenys/Mstivojus]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]

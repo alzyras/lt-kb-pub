@@ -175,9 +175,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dobrogostas]]
-- [[objektai/asmenys/Urbonas VI]]
-- [[objektai/zodynas/brevė]]

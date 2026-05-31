@@ -60,6 +60,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba|Lietuvos SSR Aukščiausioji Taryba (institucija)]]
-- [[objektai/zodynas/suverenitetas suverenumas]]
-- [[objektai/zodynas/suverenumas suverenitetas]]

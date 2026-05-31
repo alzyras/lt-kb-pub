@@ -139,13 +139,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/daiktai/Duona]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -86,4 +86,3 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

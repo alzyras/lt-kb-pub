@@ -125,7 +125,3 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maldininkai]]

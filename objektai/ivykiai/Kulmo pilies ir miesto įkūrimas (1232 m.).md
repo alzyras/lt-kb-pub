@@ -92,14 +92,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
-- [[objektai/asmenys/Jeronimas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maldininkai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -54,7 +54,7 @@ Dusburgietis teigia, kad šie pareiškimai, taip pat Gedimino laiškai, adresuot
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/zodynas/Miera|miera]]

@@ -75,5 +75,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Livonijos ordinas]]

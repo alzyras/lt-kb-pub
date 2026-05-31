@@ -131,7 +131,6 @@ tags:
 - [[objektai/grupes/Respublikonai]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/zodynas/hegemonija]]
-- [[objektai/asmenys/Martynas V]]
 - [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
 - [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
 - [[objektai/zodynas/indulgencija]]

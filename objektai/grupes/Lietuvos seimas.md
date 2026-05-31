@@ -76,7 +76,5 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 - [[objektai/zodynas/tranzitas]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/grupes/Lietuvos seimas (1924 m.)]]
-- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas|Vyriausias Mažosios Lietuvos gelbėjimo komitetas (institucija)]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]

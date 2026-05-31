@@ -446,7 +446,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius (poetas)]]
+- [[objektai/asmenys/Oskaras Milašius]]
 - [[objektai/asmenys/Petras Klimas]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Prancūzai]]

@@ -119,5 +119,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Pamedėnai]]

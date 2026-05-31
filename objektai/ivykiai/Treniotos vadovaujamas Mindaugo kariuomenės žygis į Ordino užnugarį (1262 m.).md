@@ -91,6 +91,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Sembai]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
-- [[objektai/asmenys/Treniota]]

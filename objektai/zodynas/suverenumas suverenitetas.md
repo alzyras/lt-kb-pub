@@ -71,11 +71,3 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba|Lietuvos SSR Aukščiausioji Taryba (institucija)]]
-- [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
-- [[objektai/zodynas/suverenitetas suverenumas]]

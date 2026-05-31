@@ -56,4 +56,3 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 ### Susiję objektai
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Konradas Švabas iš Elbingo]]
-- [[objektai/grupes/Pamedėnai]]

@@ -88,6 +88,5 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Voldemarininkai]]
-- [[objektai/asmenys/Antanas Merkys]]
 - [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]
 - [[objektai/zodynas/Vieningo darbo vyriausybė]]

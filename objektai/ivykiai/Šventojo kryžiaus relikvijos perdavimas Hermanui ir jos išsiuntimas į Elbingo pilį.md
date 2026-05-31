@@ -96,5 +96,4 @@ Nenurodyta
 - [[objektai/asmenys/Fridrichas II]]
 - [[objektai/asmenys/Popiežius Honorijus III]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/daiktai/Šventojo kryžiaus relikvija]]

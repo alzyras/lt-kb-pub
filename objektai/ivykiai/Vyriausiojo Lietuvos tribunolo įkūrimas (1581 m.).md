@@ -87,6 +87,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Steponas]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/tribunolas]]

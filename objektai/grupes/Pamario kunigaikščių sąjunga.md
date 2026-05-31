@@ -58,5 +58,5 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]

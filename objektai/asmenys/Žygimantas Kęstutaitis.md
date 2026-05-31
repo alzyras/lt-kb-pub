@@ -261,8 +261,4 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]

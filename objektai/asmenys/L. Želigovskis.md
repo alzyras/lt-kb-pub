@@ -71,4 +71,3 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/L. Želigovskio pajėgos]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]

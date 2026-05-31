@@ -201,9 +201,3 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Lietuvos atsikūrimas]]
-- [[objektai/zodynas/Nepriklausomybės kovos]]
-- [[objektai/zodynas/karyba]]

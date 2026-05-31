@@ -116,4 +116,3 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 - [[objektai/zodynas/unija]]
 - [[objektai/daiktai/Didysis Lietuvos antspaudas]]
 - [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė]]
-- [[objektai/zodynas/kantonas kantoninis principas]]

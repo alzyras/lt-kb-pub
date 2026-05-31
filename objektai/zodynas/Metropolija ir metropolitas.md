@@ -63,4 +63,4 @@ Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų 
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -98,11 +98,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Šubravcų draugija]]
-- [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Mykolas Balinskis]]
-- [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]
+### Teminiai klasteriai
+- [[temos/socialinė-praktika]]

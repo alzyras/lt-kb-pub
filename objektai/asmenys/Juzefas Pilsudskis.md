@@ -244,5 +244,4 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - [[objektai/posakiai/„tėvyninė“ šalis]]
 - [[objektai/grupes/Lenkų socialistų partija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/posakiai/„seimokratija“]]

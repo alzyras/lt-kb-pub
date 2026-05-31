@@ -11,8 +11,9 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
-  - karalius
-  - tikėjimas
+  - kunigaikštis
+  - ordinas
+  - tauta
 ---
 # Danielius
 
@@ -102,16 +103,10 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/uolektis]]
 - [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
-- [[objektai/daiktai/Karinė ginkluotė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/grupes/Rygos vokiečiai]]
 - [[objektai/grupes/Vyčio apygarda]]
 - [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]
-- [[objektai/zodynas/didysis magistras]]
 - [[objektai/posakiai/jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi]]
-- [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/landkomtūras]]
 - [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]

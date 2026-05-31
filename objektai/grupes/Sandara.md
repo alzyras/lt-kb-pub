@@ -47,5 +47,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Anglai]]
 - [[objektai/zodynas/Žiuponai|žiuponai]]

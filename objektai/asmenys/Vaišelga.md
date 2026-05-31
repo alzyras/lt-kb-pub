@@ -102,8 +102,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]

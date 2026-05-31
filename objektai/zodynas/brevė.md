@@ -60,5 +60,4 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
 - [[objektai/asmenys/Dobrogostas]]
 - [[objektai/asmenys/Urbonas VI]]
 - [[objektai/asmenys/Inocentas VI]]
-- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/grupes/Lietuviai]]

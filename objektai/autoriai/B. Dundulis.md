@@ -145,7 +145,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -162,7 +162,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
@@ -175,7 +175,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -188,7 +188,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -202,7 +202,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -216,7 +216,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -224,6 +224,3 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Istorikų kolektyvas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

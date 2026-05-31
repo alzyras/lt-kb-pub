@@ -98,4 +98,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Michailas Muravjovas]]

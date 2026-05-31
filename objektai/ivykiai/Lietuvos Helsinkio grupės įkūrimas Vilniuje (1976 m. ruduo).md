@@ -76,13 +76,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/asmenys/Jonas Kauneckas]]
-- [[objektai/grupes/Maskvos Helsinkio grupė]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Tomas Venclova]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Viktoras Petkus]]

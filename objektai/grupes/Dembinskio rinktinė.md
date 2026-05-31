@@ -63,8 +63,3 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/ivykiai/Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.)]]

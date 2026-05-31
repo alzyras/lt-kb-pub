@@ -127,6 +127,3 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/asmenys/T. Dambrava]]
-- [[objektai/ivykiai/coaequatio iurium įstatymo priėmimas (1697 m.)]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Pacai]]

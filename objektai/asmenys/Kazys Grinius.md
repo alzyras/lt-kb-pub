@@ -93,6 +93,5 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)]]
-- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/grupes/Ministerių kabinetas]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]

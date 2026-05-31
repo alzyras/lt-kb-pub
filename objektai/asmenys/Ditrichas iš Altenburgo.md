@@ -121,9 +121,8 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Fridrichas Kvicas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]

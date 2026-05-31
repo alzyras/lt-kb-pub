@@ -88,7 +88,3 @@ Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Susiję objektai
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -89,4 +89,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Kalavijai]]
-- [[objektai/grupes/Notangai]]

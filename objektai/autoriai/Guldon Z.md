@@ -50,5 +50,5 @@ Dusburgietis teigia, kad przekaz..., p. 389—391; to paties, Dobra ostrowicko-g
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/krašto magistras|krašto magistras (kraštas)]]
+- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]

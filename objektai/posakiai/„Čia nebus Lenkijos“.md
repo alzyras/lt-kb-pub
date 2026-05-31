@@ -67,4 +67,3 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/unija]]
-- [[objektai/zodynas/lenkų pradų naikinimo politika]]

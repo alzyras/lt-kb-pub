@@ -181,19 +181,3 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/autoriai/K. Būga]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/autoriai/Endzelins J]]
-- [[objektai/autoriai/F. Bopas]]
-- [[objektai/autoriai/G. H. F. Neselmanas]]
-- [[objektai/autoriai/J. Endzelynas]]
-- [[objektai/autoriai/V. Mažiulis]]

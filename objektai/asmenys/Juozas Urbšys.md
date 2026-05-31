@@ -134,6 +134,5 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 ### Susiję objektai
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]

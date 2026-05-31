@@ -73,11 +73,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
+- [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
-- [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
 - [[objektai/zodynas/Kristaus kariai]]
-- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

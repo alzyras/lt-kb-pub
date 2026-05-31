@@ -257,11 +257,4 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/posakiai/Gorbis ar Lietuva]]
-- [[objektai/asmenys/Jelena Boner]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Jedinstvo]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]

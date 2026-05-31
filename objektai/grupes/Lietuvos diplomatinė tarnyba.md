@@ -72,5 +72,4 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]
-- [[objektai/grupes/Raudonoji armija]]
 - [[objektai/ivykiai/Lietuvos diplomatinės tarnybos darbo pabaiga (1991 m. rugsėjo 6 d.)]]

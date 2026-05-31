@@ -72,5 +72,3 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]
-- [[objektai/daiktai/Šarvai]]
-- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]

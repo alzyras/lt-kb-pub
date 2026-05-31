@@ -130,9 +130,3 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

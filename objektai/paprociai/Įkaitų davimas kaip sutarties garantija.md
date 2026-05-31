@@ -265,12 +265,3 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-013
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Kilmingieji]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
-- [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]
-- [[objektai/paprociai/Pasidavimas tikėjimui ir broliams davus įkaitį]]
-- [[objektai/grupes/Sembai]]

@@ -90,7 +90,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -98,8 +98,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/daiktai/Vėliavos]]

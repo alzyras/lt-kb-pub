@@ -79,11 +79,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Žiemgaliai]]

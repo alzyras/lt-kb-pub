@@ -118,6 +118,6 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/paliaubos]]

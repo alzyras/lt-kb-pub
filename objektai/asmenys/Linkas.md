@@ -60,6 +60,4 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bartai]]
-- [[objektai/asmenys/Augustas II]]
 - [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
-- [[objektai/grupes/Pagudėnai]]

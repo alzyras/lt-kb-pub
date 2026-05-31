@@ -58,9 +58,3 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/barokas]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

@@ -59,4 +59,3 @@ Dusburgietis teigia, kad kaip Teuton킬 nam킬 ordino broliams atiteko Livonijos �
 - [[objektai/grupes/Kry탑iuo훾i킬 ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kalavijuo훾i킬 ordinas]]

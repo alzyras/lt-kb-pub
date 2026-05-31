@@ -61,4 +61,3 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]
-- [[objektai/grupes/Žemaičiai]]

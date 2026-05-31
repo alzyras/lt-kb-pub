@@ -177,7 +177,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Laivai]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]

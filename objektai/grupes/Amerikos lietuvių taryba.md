@@ -54,4 +54,3 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Lietuvių laisvinimo darbo konferencija Niujorke (1974 m. spalio 26–27 d.)]]
 - [[objektai/grupes/Pasaulio lietuvių bendruomenė]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)]]

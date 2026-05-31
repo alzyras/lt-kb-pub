@@ -80,5 +80,4 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Helmerichas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]

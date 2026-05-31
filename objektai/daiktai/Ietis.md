@@ -104,15 +104,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Margalis (Margirius )]]
 - [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
-- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]

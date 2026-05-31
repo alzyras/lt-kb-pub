@@ -78,6 +78,5 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/polonofobija]]
 - [[objektai/asmenys/Aleksandras III]]
-- [[objektai/zodynas/pradai]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

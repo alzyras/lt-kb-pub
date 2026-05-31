@@ -88,4 +88,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Karolis (didysis magistras)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

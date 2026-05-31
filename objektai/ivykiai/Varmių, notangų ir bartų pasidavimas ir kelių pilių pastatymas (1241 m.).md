@@ -94,11 +94,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bartai]]
-- [[objektai/zodynas/Kilmingieji]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Varmiai]]

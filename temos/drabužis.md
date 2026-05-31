@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 28.
+Objektų skaičius: 26.
 
 ## Kaip naudoti
 
@@ -29,8 +29,6 @@ Objektų skaičius: 28.
 
 ### Daiktai
 - [[objektai/daiktai/1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai]]
-- [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/daiktai/Drabužiai]]
 
 ### Grupės
 - [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
@@ -56,6 +54,6 @@ Objektų skaičius: 28.
 ### Žodynas
 - [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/pasaulietis]]
-- [Watmal Vatmalis](../objektai/zodynas/Watmal%20Vatmalis)
-- [šeštinės](../objektai/zodynas/%C5%A1e%C5%A1tin%C4%97s)
+- [[objektai/zodynas/Watmal Vatmalis]]
+- [[objektai/zodynas/šeštinės]]
 - [žygūnai](../objektai/zodynas/%C5%BEyg%C5%ABnai)

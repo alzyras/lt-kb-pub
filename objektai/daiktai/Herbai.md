@@ -228,13 +228,8 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/daiktai/Herbas]]
-- [[objektai/asmenys/Julius Slovackis]]
-- [[objektai/autoriai/Mickevičius]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/nobilitetas]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
+- [[objektai/daiktai/Herbas]]
 - [[objektai/daiktai/Žygimanto Senojo kalavijas su Lietuvos ir Lenkijos herbais]]

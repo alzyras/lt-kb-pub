@@ -48,4 +48,3 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 - [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)]]

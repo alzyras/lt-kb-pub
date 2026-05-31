@@ -58,6 +58,4 @@ Kalbos redaktorė Gražina Indrišiūnienė Viršelio dailininkė Audronė Uziel
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
 - [[objektai/autoriai/Alvydas Jokubaitis]]
-- [[objektai/autoriai/Antanas Kulakauskas]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
-- [[objektai/autoriai/Raimundas Lopata]]

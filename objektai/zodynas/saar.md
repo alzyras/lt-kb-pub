@@ -128,16 +128,7 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/Gaspadorius|gaspadorius]]
-- [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
 - [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
 - [[objektai/grupes/Maskvos kunigaikštija]]
-- [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
 - [[objektai/zodynas/protežė]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]]
-- [[objektai/grupes/Krimo totoriai]]
-- [[objektai/grupes/Krymo totoriai]]

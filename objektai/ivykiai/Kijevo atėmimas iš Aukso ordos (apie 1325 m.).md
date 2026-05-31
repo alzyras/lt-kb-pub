@@ -81,8 +81,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
-- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]

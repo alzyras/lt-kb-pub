@@ -132,4 +132,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
 - [[objektai/grupes/Teutonai]]
-- [[objektai/asmenys/Albertas iš Meiseno]]

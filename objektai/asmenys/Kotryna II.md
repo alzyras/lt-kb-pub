@@ -205,8 +205,3 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Rusai]]

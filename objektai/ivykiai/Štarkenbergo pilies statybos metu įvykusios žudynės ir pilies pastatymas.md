@@ -87,11 +87,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/pilėnas pilėnai]]

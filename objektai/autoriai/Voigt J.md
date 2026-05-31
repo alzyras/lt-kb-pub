@@ -93,7 +93,3 @@ Dusburgietis teigia, kad 1-os pusės dokumentuose vadinama Rommowe, Romaynis; te
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/maldininkai]]

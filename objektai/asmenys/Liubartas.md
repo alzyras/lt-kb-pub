@@ -236,12 +236,8 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/asmenys/Kazimieras]]
 - [[objektai/autoriai/J. Puzyna]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
-- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]

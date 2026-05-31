@@ -71,10 +71,3 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]

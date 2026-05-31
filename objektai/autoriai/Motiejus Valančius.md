@@ -24,14 +24,14 @@ vaidmenys:
   - 'Žemaičių vyskupas'
   - 'blaivybės veikėjas'
 patikimumas: 'aukštas'
-atnaujinta: '2026-04-24'
-tags:
-  - autorius
-  - mokslininkas
 amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+atnaujinta: '2026-04-24'
+tags:
+  - autorius
+  - mokslininkas
 ---
 # Motiejus Valančius
 
@@ -316,15 +316,8 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Blaivybės brolijos]]
-- [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
-- [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
 - [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
 - [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
 - [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]
-- [[objektai/zodynas/tautinis atgimimas]]
-- [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]

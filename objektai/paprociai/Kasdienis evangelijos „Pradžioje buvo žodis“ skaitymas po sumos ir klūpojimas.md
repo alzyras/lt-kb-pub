@@ -93,6 +93,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/posakiai/Pradžioje buvo žodis]]
 - [[objektai/zodynas/kapitula]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/zodynas/suma]]

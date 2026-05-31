@@ -58,7 +58,4 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Gruzinai]]
-- [[objektai/grupes/Saracėnai]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]
-- [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]

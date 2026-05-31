@@ -89,4 +89,3 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Eberhardas iš Manheimo]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

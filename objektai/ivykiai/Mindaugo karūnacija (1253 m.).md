@@ -184,6 +184,5 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
 - [[temos/karūnacija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“]]
 - [[objektai/posakiai/„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“]]

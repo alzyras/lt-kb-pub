@@ -78,5 +78,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Liudvika Didžiulienė-Žmona]]
 - [[objektai/asmenys/Jonas Jablonskis]]
-- [[objektai/asmenys/Julija Žymantienė-Žemaitė]]
-- [[objektai/asmenys/Petras Kriaučiūnas]]

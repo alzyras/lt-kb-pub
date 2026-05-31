@@ -50,10 +50,9 @@ Lietuva liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Netimeras]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]

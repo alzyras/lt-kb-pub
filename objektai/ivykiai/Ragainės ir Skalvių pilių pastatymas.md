@@ -124,7 +124,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Skalviai]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/ginklanešys]]

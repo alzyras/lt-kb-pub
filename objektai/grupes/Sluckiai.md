@@ -45,7 +45,6 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
 - [[objektai/grupes/Sanguškos]]
 - [[objektai/grupes/Vyšnioveckiai]]
 - [[objektai/grupes/Čartoriskiai]]

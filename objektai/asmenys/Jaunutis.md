@@ -170,5 +170,5 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karijotas]]
 - [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]
+- [[objektai/asmenys/Karijotas]]

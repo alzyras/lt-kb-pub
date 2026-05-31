@@ -219,7 +219,4 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - [[objektai/asmenys/Ditrichas iš Gaterslebeno]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
-- [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Pagudėnai]]
 - [[objektai/zodynas/fogtas]]

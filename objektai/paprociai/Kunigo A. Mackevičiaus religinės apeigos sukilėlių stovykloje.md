@@ -127,5 +127,4 @@ Nenurodyta
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/1863-1864 m. sukilėlių vėliava]]
-- [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba]]

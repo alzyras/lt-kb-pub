@@ -50,5 +50,4 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/asmenys/Fridrichas Kvicas]]

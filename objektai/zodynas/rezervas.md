@@ -93,6 +93,5 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/J. Reikala]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
-- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/bendrasis rezervas]]
 - [[objektai/zodynas/kovinė-agentūrinė grupė]]

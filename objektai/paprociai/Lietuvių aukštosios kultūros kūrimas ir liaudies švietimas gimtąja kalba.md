@@ -129,10 +129,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Simonas Stanevičius]]
-- [[objektai/grupes/Vokiečiai]]

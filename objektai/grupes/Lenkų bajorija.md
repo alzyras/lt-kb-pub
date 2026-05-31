@@ -115,7 +115,6 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/unija]]
-- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
 - [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
 - [[objektai/grupes/Lenkijos bajorija]]

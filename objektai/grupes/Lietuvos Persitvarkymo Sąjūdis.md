@@ -426,20 +426,6 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Romualdas Ozolas]]
-- [[objektai/zodynas/Suverenitetas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/konstitucijos]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Dailininkų sąjunga]]
 - [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/zodynas/baltosios dėmės]]
-- [[objektai/asmenys/Vytautas Landsbergis]]
-- [[objektai/ivykiai/LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.)]]
-- [[objektai/paprociai/Sąjūdžio masiniai mitingai ir reikalavimų viešinimas]]
-- [[objektai/zodynas/pertvarka perestroika]]
-- [[objektai/zodynas/tautos frontas]]
-- [[objektai/posakiai/„Lietuva be suvereniteto – Lietuva be ateities.“]]

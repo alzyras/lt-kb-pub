@@ -143,5 +143,5 @@ tags: []
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žemaičiai]]

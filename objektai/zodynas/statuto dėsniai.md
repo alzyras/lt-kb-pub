@@ -76,9 +76,3 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/statutas]]

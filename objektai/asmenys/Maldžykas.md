@@ -53,5 +53,5 @@ Tame suvažiavime, nors ir neoficialiai, daly­ vavo ir Vytauto pasiuntinys Mald
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/šlėkta]]

@@ -65,8 +65,3 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/zodynas/kunigas]]

@@ -105,4 +105,3 @@ Nenurodyta
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/grupes/Rytų Lietuvos sritis]]
-- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]

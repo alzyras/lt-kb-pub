@@ -78,7 +78,7 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -86,7 +86,3 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/apsikarūnavimas]]

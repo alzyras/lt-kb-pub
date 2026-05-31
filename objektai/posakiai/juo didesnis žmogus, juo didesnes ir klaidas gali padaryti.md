@@ -63,4 +63,4 @@ Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj savo politikoj: 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

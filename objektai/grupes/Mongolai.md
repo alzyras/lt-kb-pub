@@ -90,14 +90,13 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]
+- [[objektai/asmenys/Karolis IV]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
+- [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/kondominiumas]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/pilėnai nuolatiniai karo tarnybininkai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.)]]
 - [[objektai/grupes/Haličo kunigaikščiai]]

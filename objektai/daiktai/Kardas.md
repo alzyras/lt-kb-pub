@@ -13,7 +13,7 @@ tags:
   - bajorija
   - daiktas
   - didikas
-  - seimas
+  - ginklas
 ---
 # Kardas
 
@@ -174,15 +174,11 @@ Nenurodyta
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
-- [[objektai/asmenys/Jonas XXIII]]
 - [[objektai/grupes/Kardo rinktinė]]
-- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/grupes/Klevo kuopa]]
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/daiktai/Kryžius ant kardo galo]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/asmenys/Paulius Vladimiri]]
 - [[objektai/zodynas/Meldžionys|meldžionys]]
 - [[objektai/zodynas/vachmistras]]
 - [[objektai/daiktai/Pistoletas]]
-- [[objektai/zodynas/regimentorius]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 5.
+Objektų skaičius: 4.
 
 ## Kaip naudoti
 
@@ -21,6 +21,5 @@ Objektų skaičius: 5.
 ### Daiktai
 - [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
 - [[objektai/daiktai/Deglas]]
-- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/daiktai/Parakas]]
 - [[objektai/daiktai/Sausio 13-osios gynybinės barikados]]

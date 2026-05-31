@@ -87,6 +87,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
 - [[objektai/posakiai/Mes tikrai esame matę visą lauką pilną ginkluotų vyrų, apsivilkusių ir apsiginklavusių taip kaip jūsų broliai, štai dėl to ir mūsų kariuomen]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]

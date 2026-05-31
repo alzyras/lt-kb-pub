@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 25.
+Objektų skaičius: 23.
 
 ## Kaip naudoti
 
@@ -28,7 +28,6 @@ Objektų skaičius: 25.
 - [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]]
 - [[objektai/asmenys/Julijus Cezaris|Julijus Cezaris (vyskupas)]]
 - [[objektai/asmenys/Juodutis]]
-- [[objektai/asmenys/Kazimieras Karigaila]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]]
 - [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]
@@ -38,7 +37,6 @@ Objektų skaičius: 25.
 - [[objektai/asmenys/Stanislovas Kiška]]
 - [[objektai/asmenys/V. B. Seremetjevas]]
 - [[objektai/asmenys/Vilhelmas (vengrų karvedys)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 
 ### Daiktai
 - [[objektai/daiktai/Ringrafas]]

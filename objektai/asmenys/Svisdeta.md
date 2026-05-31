@@ -53,4 +53,3 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
-- [[objektai/grupes/Skalviai]]

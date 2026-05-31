@@ -48,4 +48,3 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]

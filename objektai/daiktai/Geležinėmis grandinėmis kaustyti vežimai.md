@@ -112,6 +112,6 @@ Nenurodyta
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/daiktai/Vežimai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

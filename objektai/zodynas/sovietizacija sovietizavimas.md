@@ -52,4 +52,3 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
 ### Susiję objektai
 - [[objektai/grupes/Liaudies vyriausybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]

@@ -80,7 +80,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
+- [[objektai/asmenys/Brunonas]]
 - [[objektai/asmenys/Brunonas Bonifacijus]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Netimeras]]

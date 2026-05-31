@@ -124,7 +124,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Gardino seimas|Gardino seimas (seimas)]]
+- [[objektai/grupes/Gardino seimas]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/asmenys/Mantas]]
 - [[objektai/zodynas/luomas]]

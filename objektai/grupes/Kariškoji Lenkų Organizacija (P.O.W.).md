@@ -10,8 +10,10 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
+  - dokumentas
   - grupe
-  - sutartis
+  - kraštas
+  - sukilimas
 ---
 # Kariškoji Lenkų Organizacija (P.O.W.)
 
@@ -100,8 +102,3 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 5.
+Objektų skaičius: 6.
 
 ## Kaip naudoti
 
@@ -17,6 +17,9 @@ Objektų skaičius: 5.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Autoriai
+- [[objektai/autoriai/Mykolas Balinskis]]
 
 ### Grupės
 - [[objektai/grupes/Vilniaus archeologijos komisija]]

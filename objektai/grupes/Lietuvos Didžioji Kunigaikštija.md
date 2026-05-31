@@ -154,21 +154,5 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/grupes/Gediminaičiai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/posakiai/„civilizaciniam šuoliui“]]
-- [[objektai/zodynas/hegemonija]]
 - [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje]]
-- [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]
-- [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]
-- [[objektai/posakiai/„tauta galėjo apsisaugoti tik sukūrusi valstybę“]]

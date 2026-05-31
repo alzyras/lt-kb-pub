@@ -58,4 +58,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/statutas]]
-- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]

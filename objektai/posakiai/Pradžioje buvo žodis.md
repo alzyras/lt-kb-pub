@@ -59,6 +59,4 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
 ### Susiję objektai
 - [[objektai/zodynas/kapitula]]
 - [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/zodynas/suma]]

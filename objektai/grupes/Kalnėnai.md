@@ -138,11 +138,6 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/grupes/Žuvėdai]]
-- [[objektai/autoriai/A. Brückner]]
-- [[objektai/grupes/Anglai]]
 - [[objektai/daiktai/Kalvė]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/paprociai/Panedėlio už grieką laikymas]]
@@ -155,14 +150,11 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 - [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]
 - [[objektai/autoriai/V. Jungfer]]
 - [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
-- [[objektai/zodynas/Pažinės|pažinės]]
 - [[objektai/zodynas/Strūnijo|strūnijo]]
-- [[objektai/paprociai/Šventųjų paukščių laikymas namuose]]
 - [[objektai/zodynas/Šliuižiai|šliuižiai]]
 - [[objektai/daiktai/Ūkės lazda]]
 - [[objektai/paprociai/Aisčių medžių ir girių garbinimas]]
 - [[objektai/grupes/Giruliai]]
-- [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
 - [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]

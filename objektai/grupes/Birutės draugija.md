@@ -79,13 +79,7 @@ Birutės draugija: pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Vokiečių literatų draugija]]
-- [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]

@@ -59,4 +59,3 @@ Kovoje buvo nukautas Livonijos magistras Ottonas Luterbergas, taip pat 52 Ordino
 ### Susiję objektai
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]

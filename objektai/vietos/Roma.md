@@ -10,10 +10,9 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
-  - karalius
-  - miestas
-  - popiežius
+  - unija
   - vieta
+  - vyskupas
 ---
 # Roma
 

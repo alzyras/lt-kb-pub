@@ -84,5 +84,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/asmenys/Albrechtas (Romos karalius)]]
 - [[objektai/asmenys/Jonas (vadinamas Anlantu)]]

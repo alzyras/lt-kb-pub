@@ -120,9 +120,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/žygis]]

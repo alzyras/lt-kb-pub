@@ -10,10 +10,10 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
-  - elekcija
   - grupe
   - kunigaikštis
   - valdovas
+  - valstybė
 ---
 # Jogailos palikuonys
 
@@ -89,10 +89,4 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Gediminaičių šeima]]
-- [[objektai/asmenys/Kazimieras Jogailaitis]]

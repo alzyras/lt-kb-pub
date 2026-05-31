@@ -326,7 +326,6 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
 - [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/asmenys/Ona Jogailaitė]]
-- [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]
 - [[objektai/zodynas/lėnininkai]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/asmenys/Žygimantas]]

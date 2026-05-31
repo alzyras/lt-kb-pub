@@ -157,9 +157,4 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Vyguntas]]
-- [[objektai/asmenys/Julijona]]

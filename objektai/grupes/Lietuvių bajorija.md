@@ -160,5 +160,4 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 - [[objektai/daiktai/Herbai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/nobilitetas]]
-- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/zodynas/sankcija]]

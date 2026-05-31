@@ -285,6 +285,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vasalas]]

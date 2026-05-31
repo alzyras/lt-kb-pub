@@ -150,7 +150,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/autoriai/Ričardas Čekutis]]

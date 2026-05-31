@@ -64,9 +64,3 @@ Tegyvuoja gegužės 3 d. konstitucija!: vienas Vilniaus gimnazijos mokinys ant l
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

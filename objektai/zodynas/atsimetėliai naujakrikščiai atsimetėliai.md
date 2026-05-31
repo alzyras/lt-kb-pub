@@ -81,7 +81,7 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pamedėnai]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]

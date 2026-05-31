@@ -48,5 +48,4 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Herbas]]
-- [[objektai/daiktai/Herbai]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]

@@ -52,9 +52,3 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/statutas]]
-- [[objektai/zodynas/eurokomunistinio tipo partija]]
-- [[objektai/ivykiai/LKP XX suvažiavimas ir atsiskyrimas nuo SSKP (1989 m. gruodis)]]

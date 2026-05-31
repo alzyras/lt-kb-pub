@@ -97,5 +97,4 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]

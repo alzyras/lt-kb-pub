@@ -10,6 +10,7 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
+  - didikas
   - karalius
   - ordinas
   - sąvoka
@@ -113,13 +114,10 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Protestantai]]
 - [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
 - [[objektai/grupes/Biržų Radvilos]]
 - [[objektai/grupes/Brandenburgo elektoriai]]
 - [[objektai/autoriai/J. Bretkūnas]]
 - [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
-- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/autoriai/Stanislovas Rapagelionis]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
-- [[objektai/grupes/Jėzuitų ordinas]]

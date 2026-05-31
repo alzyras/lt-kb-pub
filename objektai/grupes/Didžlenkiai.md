@@ -85,5 +85,5 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/žygis]]

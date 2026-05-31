@@ -58,5 +58,5 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]

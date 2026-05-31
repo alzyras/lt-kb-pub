@@ -136,4 +136,3 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/zodynas/Pilininkas]]

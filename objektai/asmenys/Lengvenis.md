@@ -177,5 +177,3 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
-- [[objektai/grupes/Smolensko pulkai]]
-- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]

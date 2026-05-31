@@ -67,9 +67,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Andrius Štirlandas]]

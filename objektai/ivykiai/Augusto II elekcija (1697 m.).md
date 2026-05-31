@@ -83,9 +83,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
-- [[objektai/grupes/Prancūzai]]

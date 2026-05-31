@@ -149,7 +149,7 @@ Nenurodyta
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kraucevičius]]
 - [[objektai/grupes/Lenkai]]

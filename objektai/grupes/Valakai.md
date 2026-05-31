@@ -80,7 +80,7 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -95,21 +95,17 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/zodynas/barokinė santvarka]]
 - [[objektai/zodynas/barokinė santvarka barokinis ūkis]]
 - [[objektai/zodynas/palivarkas]]
-- [[objektai/zodynas/valakas]]
 - [[objektai/zodynas/Dvilaukė sistema]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]
 - [[objektai/grupes/Turkijos kariuomenė]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]
-- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]

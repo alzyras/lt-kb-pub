@@ -61,4 +61,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
-- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]

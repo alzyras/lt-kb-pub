@@ -175,11 +175,3 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/G. Labuda]]

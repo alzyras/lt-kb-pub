@@ -79,7 +79,7 @@ Nenurodyta
 - [[objektai/autoriai/Maironis]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Agentai-smogikai]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/grupes/Maironio rinktinė]]
@@ -87,4 +87,3 @@ Nenurodyta
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/zodynas/agentas-smogikas]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

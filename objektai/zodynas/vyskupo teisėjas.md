@@ -92,5 +92,4 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
 - [[objektai/daiktai/Vėliavos]]

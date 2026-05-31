@@ -149,7 +149,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]

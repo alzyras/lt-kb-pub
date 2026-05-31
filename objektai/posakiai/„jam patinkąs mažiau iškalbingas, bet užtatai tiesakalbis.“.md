@@ -56,5 +56,5 @@ O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]

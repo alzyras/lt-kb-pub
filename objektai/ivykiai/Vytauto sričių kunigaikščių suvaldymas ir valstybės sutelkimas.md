@@ -159,11 +159,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/asmenys/Liubartas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Švitrigaila]]

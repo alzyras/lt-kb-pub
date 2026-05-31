@@ -60,4 +60,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/V. Leninas]]
-- [[objektai/asmenys/Vladimiras Leninas]]

@@ -10,7 +10,11 @@ saltiniai:
 bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
-tags: []
+tags:
+  - miestas
+  - ordinas
+  - pilis
+  - valstybė
 ---
 # Ryga
 

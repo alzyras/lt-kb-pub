@@ -65,5 +65,4 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - [[objektai/asmenys/Gebhardas iš Manstfeldo]]
 - [[objektai/asmenys/Hertvigas]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Tomo sūnaus prisikėlimas Brandenburgo pilyje (1322 m.)]]
-- [[objektai/daiktai/Kristaus Kančios relikvija]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

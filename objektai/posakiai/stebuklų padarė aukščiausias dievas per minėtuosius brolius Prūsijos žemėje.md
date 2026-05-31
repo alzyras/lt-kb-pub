@@ -90,8 +90,3 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Drabužiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

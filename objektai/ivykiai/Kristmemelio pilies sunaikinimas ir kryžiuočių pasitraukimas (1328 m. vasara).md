@@ -82,7 +82,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]

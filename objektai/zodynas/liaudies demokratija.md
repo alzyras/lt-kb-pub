@@ -49,4 +49,3 @@ Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
-- [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]

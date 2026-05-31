@@ -139,5 +139,4 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 - [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
-- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]

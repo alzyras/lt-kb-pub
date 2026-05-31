@@ -11,8 +11,8 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - ivykis
-  - kraštas
   - kunigas
+  - miestas
   - mokslininkas
 ---
 # Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais
@@ -156,7 +156,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]

@@ -47,4 +47,3 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
 
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]

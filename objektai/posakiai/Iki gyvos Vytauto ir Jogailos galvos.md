@@ -104,9 +104,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/daiktai/Karūna]]
-- [[objektai/posakiai/„iki gyvos galvos“]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]

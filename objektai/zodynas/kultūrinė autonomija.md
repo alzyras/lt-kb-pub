@@ -93,8 +93,4 @@ tags:
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/autokratinė monarchinė imperija]]

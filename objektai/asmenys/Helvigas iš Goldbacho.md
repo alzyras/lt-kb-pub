@@ -108,5 +108,4 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Henrikas iš Šenenbergo]]
 - [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas]]
-- [[objektai/grupes/Notangai]]
 - [[objektai/asmenys/Povyda]]

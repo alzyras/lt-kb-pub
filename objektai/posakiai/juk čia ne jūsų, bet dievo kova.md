@@ -90,8 +90,3 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Vežimai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]

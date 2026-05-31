@@ -126,7 +126,3 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 ### Teminiai klasteriai
 - [[temos/karinis-terminas]]
 - [[temos/religinis-terminas]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/netikėliai]]

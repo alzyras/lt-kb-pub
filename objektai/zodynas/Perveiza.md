@@ -67,5 +67,4 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Žemlionys]]
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
-- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/Žemlionis|žemlionis]]

@@ -94,4 +94,4 @@ Nenurodyta
 - [[objektai/grupes/Lybiai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/posakiai/Širvintų stebuklas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

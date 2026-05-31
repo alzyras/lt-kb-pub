@@ -103,4 +103,3 @@ Nenurodyta
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]

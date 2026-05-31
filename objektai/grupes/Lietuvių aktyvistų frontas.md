@@ -172,9 +172,3 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
     - t-008
 
 ## Šaltiniai ir įrodymai
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/asmenys/K. Škirpa]]
-- [[objektai/grupes/Žydai]]

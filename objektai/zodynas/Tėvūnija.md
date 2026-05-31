@@ -87,5 +87,4 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 - [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
-- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/Perveiza|perveiza]]

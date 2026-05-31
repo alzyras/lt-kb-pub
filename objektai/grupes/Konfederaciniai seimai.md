@@ -68,6 +68,3 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]

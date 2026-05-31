@@ -74,10 +74,10 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Antanas Liesys-Idenas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/asmenys/Robertas (Sicilijos karalius)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
 - [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]

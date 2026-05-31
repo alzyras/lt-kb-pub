@@ -126,4 +126,3 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
 - [[objektai/asmenys/Krivis]]
 - [[objektai/zodynas/vergai]]
 - [[objektai/daiktai/Žirgai]]
-- [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]

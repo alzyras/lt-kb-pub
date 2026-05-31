@@ -96,4 +96,3 @@ Nenurodyta
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Konradas Švabas iš Elbingo]]
 - [[objektai/grupes/Marienverderio miestiečiai]]
-- [[objektai/grupes/Pamedėnai]]

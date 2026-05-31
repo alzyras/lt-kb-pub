@@ -11,6 +11,8 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - paprotys
+  - sukilimas
+  - sutartis
 ---
 # Konspiracinė P.O.W. organizacijos veikla
 
@@ -97,9 +99,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis)]]

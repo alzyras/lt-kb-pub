@@ -173,14 +173,3 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

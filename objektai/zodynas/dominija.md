@@ -102,9 +102,4 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
-- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
-- [[objektai/zodynas/kunigaikštija]]

@@ -23,8 +23,6 @@ date_start: '1380'
 date_end: '1380'
 atnaujinta: '2026-04-25'
 tags:
-  - ivykis
-  - ordinas
   - sutartis
 ---
 # Dovydiškių sutarties sudarymas
@@ -202,9 +200,5 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vaidotas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
-- [[objektai/zodynas/chanas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

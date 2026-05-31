@@ -74,5 +74,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Pilypas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/žygis]]

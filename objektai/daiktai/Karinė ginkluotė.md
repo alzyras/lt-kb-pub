@@ -277,21 +277,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Druska]]
-- [[objektai/daiktai/Vilnonės medžiagos]]
-- [[objektai/asmenys/Danielius]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/daiktai/Ietis]]
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Seidokas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/daiktai/Brūklys]]
-- [[objektai/daiktai/Skydas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/daiktai/Brangieji metalai]]

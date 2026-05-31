@@ -74,9 +74,3 @@ tags:
     - t-001
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
-- [[objektai/grupes/Vilniaus universitetas]]

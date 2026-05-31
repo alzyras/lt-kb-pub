@@ -89,9 +89,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Lenkai]]

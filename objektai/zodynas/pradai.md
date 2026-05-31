@@ -58,13 +58,7 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
-- [[objektai/zodynas/lenkų pradų naikinimo politika]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„Čia nebus Lenkijos“]]
-- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
-- [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

@@ -60,6 +60,5 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 - [[objektai/asmenys/Flekenšteinas]]
 - [[objektai/asmenys/Gebhardas iš Manstfeldo]]
 - [[objektai/asmenys/Hertvigas iš Pokarvių]]
-- [[objektai/daiktai/Kristaus Kančios relikvija]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/ivykiai/Šnikenbergo pilies pastatymas|Šnikenbergo pilies pastatymas (pilis)]]

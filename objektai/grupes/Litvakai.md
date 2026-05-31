@@ -149,4 +149,3 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 - [[objektai/asmenys/Christiaan Barnard]]
 - [[objektai/asmenys/Louis Washkansky]]
 - [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
-- [[objektai/grupes/Žydai]]

@@ -149,7 +149,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]

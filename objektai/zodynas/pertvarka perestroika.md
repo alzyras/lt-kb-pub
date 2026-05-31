@@ -79,4 +79,3 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
 - [[objektai/asmenys/Petras Griškevičius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

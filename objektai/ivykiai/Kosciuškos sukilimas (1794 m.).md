@@ -130,10 +130,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
-- [[objektai/zodynas/hetmonas]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]

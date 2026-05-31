@@ -84,5 +84,4 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]

@@ -211,12 +211,6 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkų bajorija]]
-- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/zodynas/unija]]
-- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/zodynas/perdėtinis]]
+- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]

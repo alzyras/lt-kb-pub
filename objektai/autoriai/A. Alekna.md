@@ -193,6 +193,4 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/jubiliejus]]
-- [[objektai/zodynas/monografija]]
 - [[objektai/grupes/Sakalo bendrovė]]

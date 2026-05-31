@@ -50,5 +50,3 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
 ### Susiję objektai
 - [[objektai/zodynas/peticija]]
 - [[objektai/grupes/Europos Parlamentas]]
-- [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

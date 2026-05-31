@@ -110,8 +110,3 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]

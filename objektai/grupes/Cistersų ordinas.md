@@ -107,7 +107,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Klemensas V]]
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
+- [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Švento Jono ligoninės ordinas]]

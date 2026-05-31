@@ -134,7 +134,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]

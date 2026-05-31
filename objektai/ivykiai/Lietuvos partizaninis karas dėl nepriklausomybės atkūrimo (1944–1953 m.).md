@@ -128,9 +128,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]

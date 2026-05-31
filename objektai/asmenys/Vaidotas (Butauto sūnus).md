@@ -84,7 +84,7 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Karolis IV]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vaidotas]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]

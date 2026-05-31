@@ -156,6 +156,3 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
-
-### Susiję objektai
-- [[objektai/zodynas/marksistinė periodizacija]]

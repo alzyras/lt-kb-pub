@@ -132,6 +132,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Gediminas]]

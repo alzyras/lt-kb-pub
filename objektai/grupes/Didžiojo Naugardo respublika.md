@@ -149,7 +149,7 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
@@ -166,17 +166,13 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Pamario kunigaikščių sąjunga]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/grupes/Naugardo respublika]]
 - [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]

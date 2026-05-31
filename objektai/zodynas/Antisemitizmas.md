@@ -60,11 +60,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/posakiai/„mūsų žydeliai“]]
 - [[objektai/daiktai/Išsaugotos Toros]]
-- [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/zodynas/Restitucija]]
 - [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]

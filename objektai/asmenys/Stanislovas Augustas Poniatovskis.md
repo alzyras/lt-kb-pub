@@ -390,7 +390,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Gardino seimas|Gardino seimas (seimas)]]
+- [[objektai/grupes/Gardino seimas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/abdikacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

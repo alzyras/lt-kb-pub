@@ -64,9 +64,8 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/posakiai/„nuo jūros iki jūros“]]
-- [[objektai/grupes/Mongolų imperija]]
 - [[objektai/posakiai/Sausis didžiąja raide]]
 - [[objektai/posakiai/„aksomine imperija“]]

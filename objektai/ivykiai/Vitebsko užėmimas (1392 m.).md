@@ -73,4 +73,4 @@ Nenurodyta
 - [[objektai/asmenys/Dimitras Kaributas]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

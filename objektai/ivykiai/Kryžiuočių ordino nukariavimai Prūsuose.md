@@ -216,9 +216,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Pilys]]

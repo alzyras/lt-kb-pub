@@ -65,8 +65,3 @@ Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Gintaras]]
-- [[objektai/grupes/Romėnai]]

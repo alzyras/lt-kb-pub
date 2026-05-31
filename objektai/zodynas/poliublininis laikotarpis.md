@@ -209,7 +209,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
-- [[temos/istorinė-sąvoka - teisinis-terminas]]
 
 ### Susiję objektai
 - [[objektai/autoriai/A. Šapoka]]
@@ -222,7 +221,6 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/zodynas/poliublininiai laikai]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
 - [[objektai/zodynas/valstybingumo sąmonė]]

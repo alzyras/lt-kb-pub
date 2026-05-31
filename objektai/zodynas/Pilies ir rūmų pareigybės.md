@@ -147,7 +147,5 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
-- [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
 - [[objektai/zodynas/rūmininkas vyno pilstytojas]]

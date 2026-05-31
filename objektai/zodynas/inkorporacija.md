@@ -109,12 +109,10 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
-- [[temos/istorinė-sąvoka - teisinis-terminas]]
 
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/lenas]]
-- [[objektai/zodynas/aneksija]]
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
 - [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
 - [[objektai/daiktai/Karūna]]

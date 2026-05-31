@@ -62,6 +62,6 @@ Lapkričio 21 d. į frontą atvykusi Tautų Sąjungos kontrolės komisija pareik
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

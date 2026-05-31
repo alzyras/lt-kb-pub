@@ -78,9 +78,5 @@ Vartojamos formos: `lažu`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
-- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
 - [[objektai/zodynas/nuomininkas]]
-- [[objektai/autoriai/S. Daukantas]]

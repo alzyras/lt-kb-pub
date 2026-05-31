@@ -111,5 +111,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
 - [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]

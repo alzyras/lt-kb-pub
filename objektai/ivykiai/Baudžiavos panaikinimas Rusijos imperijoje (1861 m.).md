@@ -134,10 +134,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Baudžiava]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/ukazai]]

@@ -107,13 +107,6 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - [[temos/redaktorius]]
 
 ### Susiję objektai
-- [[objektai/zodynas/Kilmingieji]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
 - [[objektai/asmenys/Burchardas iš Hornhauzeno]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
 - [[objektai/asmenys/Henrikas Botelis]]
@@ -122,5 +115,4 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/grupes/Suomiai]]
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
-- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/zodynas/Vidivarijai]]

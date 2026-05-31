@@ -46,4 +46,3 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/statutas]]
-- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]

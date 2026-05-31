@@ -83,3 +83,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 ## Pastabos
 
 - Forma archajiška; kai kur vartojama kaip vietos apibūdinimas etnonimų aiškinime.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Įšleitė|įšleitė]]

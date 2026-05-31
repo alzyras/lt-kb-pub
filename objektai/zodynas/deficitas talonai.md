@@ -52,10 +52,3 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Duona]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/daiktai/Deficitinės vartojimo prekės]]
-- [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]

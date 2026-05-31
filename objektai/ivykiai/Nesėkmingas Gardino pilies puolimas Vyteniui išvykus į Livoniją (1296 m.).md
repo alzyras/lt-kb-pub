@@ -125,6 +125,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytenis|Vytenis (Lietuvos karalius, XIII–XIV a.)]]
+- [[objektai/asmenys/Vytenis]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]

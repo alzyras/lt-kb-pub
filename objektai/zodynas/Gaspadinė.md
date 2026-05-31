@@ -95,7 +95,5 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Rytas]]
-- [[objektai/zodynas/Vėdliai|vėdliai]]
 - [[objektai/daiktai/Vąšas]]
 - [[objektai/zodynas/Ūkės vilkėja|ūkės vilkėja]]

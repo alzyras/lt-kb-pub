@@ -190,7 +190,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
@@ -203,7 +203,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
@@ -219,7 +219,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
@@ -232,18 +232,14 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
-- [[objektai/grupes/Aukso orda]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/asmenys/Burundajus]]
 - [[objektai/asmenys/Chudandachas]]
@@ -251,11 +247,9 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
 - [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
 - [[objektai/asmenys/Ediga]]
-- [[objektai/asmenys/Edyga]]
 - [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
 - [[objektai/asmenys/Jonas Survila]]
 - [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
-- [[objektai/asmenys/Kiprijonas]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]
 - [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
@@ -263,13 +257,11 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/asmenys/Markvardas Zalzbachas]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
-- [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/asmenys/Tomas Survila]]
 - [[objektai/grupes/Totorių pajėgos]]
 - [[objektai/grupes/Užvolgio totoriai]]
 - [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]
-- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]

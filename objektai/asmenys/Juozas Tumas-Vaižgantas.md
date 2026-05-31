@@ -57,5 +57,4 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/spiritus movens]]

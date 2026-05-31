@@ -166,23 +166,6 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Gardolfas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/asmenys/Klemensas V]]
-- [[objektai/grupes/Tamplierių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Švento Jono ligoninės ordinas]]
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
 - [[objektai/asmenys/Henrikas Valpotas]]
 - [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]
-- [[objektai/ivykiai/Hospitaljerų Rodo salos užėmimas (1307 m.)]]
-- [[objektai/grupes/Turkai]]

@@ -92,7 +92,3 @@ Dusburgietis teigia, kad 597; Perlbach M. Dusburgietis teigia, kad 1.23 popieži
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

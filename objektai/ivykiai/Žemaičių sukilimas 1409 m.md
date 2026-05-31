@@ -15,7 +15,6 @@ tags:
   - ivykis
   - pilis
   - valdovas
-  - sukilimas
 ---
 # Žemaičių sukilimas 1409 m
 
@@ -185,11 +184,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/ivykiai/Žemaičių sukilimas (1409 m. gegužė)]]

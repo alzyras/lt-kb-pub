@@ -117,8 +117,5 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/J. Basanavičius]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
 - [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]

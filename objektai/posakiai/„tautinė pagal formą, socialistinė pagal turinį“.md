@@ -73,5 +73,3 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/V. Leninas]]
-- [[objektai/asmenys/Vladimiras Leninas]]
-- [[objektai/zodynas/Soclageris]]

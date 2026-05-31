@@ -58,6 +58,6 @@ Dusburgietis teigia, kad apie tai, kaip buvo atnaujinta ir sulaužyta taika ir p
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/ivykiai/Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)]]
 - [[objektai/asmenys/Mstivojus]]

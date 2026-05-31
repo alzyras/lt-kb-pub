@@ -92,6 +92,5 @@ Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokiet
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
 - [[objektai/posakiai/„Lietuviais esame mes gimę...“]]

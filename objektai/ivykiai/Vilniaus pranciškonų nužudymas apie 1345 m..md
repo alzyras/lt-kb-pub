@@ -129,7 +129,7 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
 - [[temos/konfliktas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/autoriai/Grzybowski]]
 - [[objektai/grupes/Pranciškonų ordinas]]

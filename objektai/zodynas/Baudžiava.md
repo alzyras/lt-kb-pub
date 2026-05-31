@@ -316,27 +316,19 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 ## Pastabos
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/teisinis-terminas]]
-
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
-- [[objektai/autoriai/Adomas Honorijus Kirkoras]]
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
+- [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
 - [[objektai/zodynas/Baudžiavinė santvarka]]
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/grupes/Lietuvos gubernijų seimeliai]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/grupes/Raudonieji]]
-- [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
-- [[objektai/grupes/Vilniaus Senienų muziejus]]
 - [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]
-- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
+- [[objektai/zodynas/servitutas]]
 - [[objektai/zodynas/taikos suvažiavimai]]
 - [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
 - [[objektai/zodynas/ukazai]]
@@ -344,6 +336,7 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[objektai/zodynas/činšininkai]]
 - [[objektai/zodynas/činšininkas]]
 - [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]
-- [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
-- [[objektai/zodynas/servitutas]]
-- [[objektai/zodynas/činšas]]
+- [[objektai/autoriai/Adomas Honorijus Kirkoras]]
+- [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
+- [[objektai/grupes/Vilniaus Senienų muziejus]]
+- [[objektai/zodynas/marksistinė periodizacija]]

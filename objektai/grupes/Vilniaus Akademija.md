@@ -88,5 +88,4 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
 - [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Lietuvos jėzuitų kolegijos]]
 - [[objektai/grupes/Vyriausioji Lietuvos Mokykla]]

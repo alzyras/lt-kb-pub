@@ -144,7 +144,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]

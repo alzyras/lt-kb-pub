@@ -64,5 +64,5 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/žygis]]

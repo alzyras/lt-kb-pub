@@ -100,7 +100,7 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Totorių pajėgos]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
 - [[objektai/zodynas/kunigaikščiai]]

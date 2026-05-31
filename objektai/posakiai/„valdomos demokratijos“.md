@@ -52,6 +52,5 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/Pokomunistinė erdvė]]
 - [[objektai/zodynas/Valdoma demokratija]]
 - [[objektai/asmenys/Vladimiras Putinas]]

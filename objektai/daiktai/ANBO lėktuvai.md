@@ -156,9 +156,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Stasys Girėnas]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/posakiai/„Antanas nori būti ore“]]

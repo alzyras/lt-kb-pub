@@ -146,7 +146,6 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
-- [[temos/istorinė-sąvoka - teisinis-terminas]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Akademijos teatro įranga]]
@@ -161,11 +160,8 @@ Autorius aprašo sovietinių istorikų taikytą schemą ir ją kritikuoja kaip s
 - [[objektai/ivykiai/Lietuvos okupacija (1940 m.)]]
 - [[objektai/ivykiai/Nepriklausomybės pradžia]]
 - [[objektai/autoriai/V. O. Ključevskis]]
-- [[objektai/grupes/Vazų dinastija]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
-- [[objektai/zodynas/proistorė]]
 - [[objektai/zodynas/suverenumas]]
-- [[objektai/zodynas/valstybingumo idėja]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija]]
 - [[objektai/zodynas/žemės santykiais pagrįsta periodizacija]]

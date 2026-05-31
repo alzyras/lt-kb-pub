@@ -136,5 +136,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/grupes/Turkai]]
-- [[objektai/zodynas/kryžininkai]]

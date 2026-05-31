@@ -91,7 +91,6 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Pjūklai]]
 - [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
 - [[objektai/grupes/7-ojo fuzilierių regimento]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
@@ -102,14 +101,12 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
 - [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
 - [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]]
-- [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Marija (Liudviko duktė)]]
+- [[objektai/daiktai/Pjūklai]]
 - [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
 - [[objektai/ivykiai/Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.)]]
 - [[objektai/asmenys/Vilhelmas (vengrų karvedys)]]
-- [[objektai/asmenys/Vilhelmas Habsburgas]]
-- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
 - [[objektai/asmenys/Vladislovas iš Opolės]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/applicare]]

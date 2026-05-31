@@ -137,8 +137,3 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/daiktai/Namas]]

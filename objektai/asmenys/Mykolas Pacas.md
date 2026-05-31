@@ -11,7 +11,9 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
-  - vyskupas
+  - karalius
+  - mūšis
+  - valstybė
 ---
 # Mykolas Pacas
 
@@ -68,13 +70,3 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Bajorų konfederacija]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Jonas Kazimieras Vaza]]
-- [[objektai/asmenys/Kristupas Pacas]]

@@ -180,7 +180,6 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Kimelio pilies sunaikinimas (1296 m.)]]
 - [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Ulrichas Bajeris]]
 - [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]
 - [[objektai/zodynas/ginklanešys]]

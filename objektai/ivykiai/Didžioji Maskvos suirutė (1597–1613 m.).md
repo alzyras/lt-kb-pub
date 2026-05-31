@@ -10,9 +10,10 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
+  - bajorija
   - dinastija
   - ivykis
-  - kraštas
+  - karalius
 ---
 # Didžioji Maskvos suirutė (1597–1613 m.)
 
@@ -145,7 +146,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/zodynas/metropolitas]]

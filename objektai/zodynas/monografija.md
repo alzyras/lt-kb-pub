@@ -53,11 +53,8 @@ Monografijoje yra 320 puslapiu.
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
-- [[objektai/autoriai/A. Alekna]]
 - [[objektai/autoriai/A. Lewickis]]
-- [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/grupes/Sakalo bendrovė]]
 - [[objektai/autoriai/Kryczyński, St]]
 - [[objektai/grupes/Lietuvos Karininkų Ramovė]]
-- [[objektai/autoriai/P. Šležas]]
 - [[objektai/autoriai/St. Kryczyński]]

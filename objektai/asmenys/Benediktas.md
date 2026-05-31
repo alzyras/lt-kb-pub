@@ -57,5 +57,4 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
 ### Susiję objektai
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/grupes/Švento Benedikto ordinas]]

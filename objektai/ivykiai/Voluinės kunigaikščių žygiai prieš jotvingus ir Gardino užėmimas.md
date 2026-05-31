@@ -79,11 +79,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]

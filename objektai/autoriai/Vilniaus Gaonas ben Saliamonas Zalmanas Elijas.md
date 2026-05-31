@@ -173,7 +173,6 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/ješiva]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]

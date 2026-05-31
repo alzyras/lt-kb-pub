@@ -85,4 +85,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]
-- [[objektai/daiktai/Pirčia]]

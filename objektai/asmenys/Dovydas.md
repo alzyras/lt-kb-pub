@@ -102,5 +102,4 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]

@@ -56,7 +56,7 @@ Objektų skaičius: 32.
 - [[objektai/ivykiai/Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas]]
 - [Pakimos valsčiaus nusiaubimas](../objektai/ivykiai/Pakimos%20vals%C4%8Diaus%20nusiaubimas)
 - [Vartenbergo apylinkių žmonių žudynės](../objektai/ivykiai/Vartenbergo%20apylinki%C5%B3%20%C5%BEmoni%C5%B3%20%C5%BEudyn%C4%97s)
-- [Veklico pilies ir vienos pilaitės sugriovimas (pilis)](../objektai/ivykiai/Veklico%20pilies%20ir%20vienos%20pilait%C4%97s%20sugriovimas)
+- [Veklico pilies ir vienos pilaitės sugriovimas](../objektai/ivykiai/Veklico%20pilies%20ir%20vienos%20pilait%C4%97s%20sugriovimas)
 - [Veliuonos suvažiavimas dėl Žemaičių sienos (1420 m. rugsėjo 8 d.)](../objektai/ivykiai/Veliuonos%20suva%C5%BEiavimas%20d%C4%97l%20%C5%BDemai%C4%8Di%C5%B3%20sienos%20%281420%20m.%20rugs%C4%97jo%208%20d.%29)
 
 ### Žodynas

@@ -65,7 +65,3 @@ Po triukšmingų puotų jis išvyko iš Vilniaus, tik kai kuriuos ponus apdovano
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/bajorija]]

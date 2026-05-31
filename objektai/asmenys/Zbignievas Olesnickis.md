@@ -269,7 +269,7 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/apsikarūnavimas]]

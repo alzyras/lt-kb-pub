@@ -119,5 +119,4 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune]]
 - [[objektai/asmenys/Pranciškus Ferdinandas]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]
 - [[objektai/grupes/Baltijos antantė]]

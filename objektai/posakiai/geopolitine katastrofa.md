@@ -58,4 +58,3 @@ Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkus
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Baltijos valstybės]]
-- [[objektai/grupes/Rusijos Federacija]]

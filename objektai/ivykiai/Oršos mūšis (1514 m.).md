@@ -151,6 +151,5 @@ Nenurodyta
 - [[objektai/daiktai/Pilys]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/grupes/Jogailaičiai]]
 - [[objektai/zodynas/artilerijos pasala]]
 - [[objektai/asmenys/Vasilijus III]]

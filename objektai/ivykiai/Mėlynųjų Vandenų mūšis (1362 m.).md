@@ -291,7 +291,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]

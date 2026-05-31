@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 24.
+Objektų skaičius: 25.
 
 ## Kaip naudoti
 
@@ -23,6 +23,7 @@ Objektų skaičius: 24.
 - [[objektai/asmenys/Vilhelmas (Sabinos kardinolas)]]
 
 ### Autoriai
+- [[objektai/autoriai/A. Šapoka]]
 - [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Dr. J. Šliūpas]]
 - [[objektai/autoriai/Gražina Indrišiūnienė]]

@@ -82,11 +82,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Pacai]]
-- [[objektai/grupes/Turkai]]
-- [[objektai/zodynas/hetmonas]]
-- [[objektai/grupes/Lenkai]]

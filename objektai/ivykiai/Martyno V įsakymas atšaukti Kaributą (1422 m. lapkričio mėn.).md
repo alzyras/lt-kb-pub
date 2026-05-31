@@ -73,7 +73,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
 - [[objektai/grupes/Lietuvos vyskupai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/zodynas/ekskomunika]]

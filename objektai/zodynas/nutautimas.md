@@ -12,6 +12,7 @@ atnaujinta: '2026-04-25'
 tags:
   - sąvoka
   - tauta
+  - valstybė
 ---
 # nutautimas
 
@@ -62,7 +63,3 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

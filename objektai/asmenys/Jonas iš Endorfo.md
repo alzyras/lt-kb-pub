@@ -57,13 +57,11 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/oktava]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/zodynas/mišparai]]

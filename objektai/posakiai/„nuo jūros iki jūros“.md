@@ -73,7 +73,4 @@ Formulė „nuo jūros iki jūros“ nusako didelės Lenkijos planą nuo Baltijo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/karo grobis]]
 - [[objektai/zodynas/didvalstybė]]

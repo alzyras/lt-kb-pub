@@ -83,13 +83,4 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Auksinė Orda]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/bulė]]
-- [[objektai/zodynas/chanas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Aukso orda]]
 - [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/grupes/Totoriai]]

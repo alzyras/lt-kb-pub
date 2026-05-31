@@ -92,4 +92,3 @@ Nenurodyta
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Šarvai]]
-- [[objektai/zodynas/netikėliai]]

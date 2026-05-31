@@ -118,4 +118,3 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
-- [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]

@@ -62,5 +62,4 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
 - [[objektai/asmenys/Antoine Gramont]]
 - [[objektai/posakiai/gerai užrakinamus Krymo vartus]]
 - [[objektai/zodynas/sunkioji kavalerija]]
-- [[objektai/daiktai/Šarvai]]
 - [[objektai/daiktai/Žirgai]]

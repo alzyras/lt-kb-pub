@@ -91,4 +91,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/grupes/Šubravcų draugija]]
-- [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]

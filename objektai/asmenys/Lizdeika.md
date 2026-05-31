@@ -54,7 +54,5 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 ### Susiję objektai
 - [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]

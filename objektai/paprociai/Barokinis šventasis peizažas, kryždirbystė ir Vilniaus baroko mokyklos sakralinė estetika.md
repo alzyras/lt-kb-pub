@@ -121,6 +121,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/zodynas/barokas]]

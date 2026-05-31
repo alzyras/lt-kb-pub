@@ -92,11 +92,3 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Vilhelmas Habsburgas]]
-- [[objektai/zodynas/savarankiškumas]]

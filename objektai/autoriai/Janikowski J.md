@@ -50,5 +50,5 @@ Dusburgietis teigia, kad podziały..., p. 171; Janikowski J., Domagała R.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/krašto magistras|krašto magistras (kraštas)]]
+- [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/magistras]]

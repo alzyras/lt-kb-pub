@@ -184,9 +184,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/maršalas]]

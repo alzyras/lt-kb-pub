@@ -74,5 +74,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Steponas]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]

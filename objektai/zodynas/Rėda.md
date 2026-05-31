@@ -115,7 +115,6 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Dabą|dabą]]
+- [[objektai/zodynas/Ermyderiai|ermyderiai]]
 - [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai]]
-- [[objektai/zodynas/Žemlionis|žemlionis]]
-- [[objektai/autoriai/S. Daukantas]]

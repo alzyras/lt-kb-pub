@@ -85,5 +85,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
-- [[objektai/paprociai/Kraujo keršto paprotys po žmogžudystės]]
 - [[objektai/paprociai/Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde]]

@@ -158,9 +158,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kaltis]]
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Pamedėnai]]

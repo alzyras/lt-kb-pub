@@ -54,4 +54,3 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Turkai]]
-- [[objektai/zodynas/neofitas]]

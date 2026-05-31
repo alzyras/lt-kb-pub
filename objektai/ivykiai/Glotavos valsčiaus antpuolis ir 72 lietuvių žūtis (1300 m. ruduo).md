@@ -96,4 +96,3 @@ Nenurodyta
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vyskupystė]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -98,5 +98,4 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/pasaulietis]]

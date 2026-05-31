@@ -89,12 +89,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Konradas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
-- [[objektai/asmenys/Konradas iš Foichtvangeno]]
-- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

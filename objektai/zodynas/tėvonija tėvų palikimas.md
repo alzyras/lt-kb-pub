@@ -87,12 +87,3 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/grupes/Vyšnioveckiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/grupes/Čartoriskiai]]

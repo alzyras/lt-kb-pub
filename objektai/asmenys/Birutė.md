@@ -160,7 +160,5 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
 - [[objektai/grupes/Tauro apygarda]]
 - [[objektai/zodynas/vaidilutė]]
-- [[objektai/zodynas/pagonybė]]
 - [[objektai/autoriai/Józef Wolff]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Vydimantas]]

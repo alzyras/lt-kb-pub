@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - bajorija
+  - ginklas
   - ivykis
   - kraštas
 ---
@@ -164,8 +165,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Dembinskio rinktinė]]
-- [[objektai/grupes/Rusai]]

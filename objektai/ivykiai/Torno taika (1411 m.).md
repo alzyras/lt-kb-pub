@@ -114,7 +114,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/Grünwaldo pergalės atsisakymas]]
 - [[objektai/grupes/Vokietijos kunigaikščiai]]
 - [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]

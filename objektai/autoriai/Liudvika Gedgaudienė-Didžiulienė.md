@@ -122,7 +122,3 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Varpai]]

@@ -88,10 +88,7 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 ### Susiję objektai
 - [[objektai/asmenys/A. Nelepcos]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
-- [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]
-- [[objektai/ivykiai/Mykolo Kaributo Višniaveckio elekcija (1669 m.)]]
 - [[objektai/asmenys/Nikolajus Arsenjevas]]
 - [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]
 - [[objektai/zodynas/elektorius]]
-- [[objektai/grupes/Sapiegos]]
 - [[objektai/grupes/Bajorų konfederacija]]

@@ -81,12 +81,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sovietų Sąjunga]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
-- [[objektai/zodynas/liaudies demokratija]]

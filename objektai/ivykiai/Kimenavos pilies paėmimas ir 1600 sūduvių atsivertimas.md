@@ -120,4 +120,3 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Kantigirdas]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

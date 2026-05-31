@@ -109,7 +109,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/magistras]]

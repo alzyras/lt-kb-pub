@@ -13,6 +13,7 @@ tags:
   - bajorija
   - didikas
   - paprotys
+  - pinigai
 ---
 # Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose
 
@@ -77,3 +78,7 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/pinigai]]

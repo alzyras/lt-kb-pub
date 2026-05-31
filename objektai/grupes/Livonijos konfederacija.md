@@ -65,5 +65,4 @@ Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos kon
 - [[objektai/asmenys/Fulvio Ruggieri]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Rygos vyskupija]]
-- [[objektai/grupes/Kuršo kunigaikštystė]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]

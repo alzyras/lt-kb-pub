@@ -87,3 +87,7 @@ Nenurodyta
     - t-002
 
 ## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/buities-daiktas]]

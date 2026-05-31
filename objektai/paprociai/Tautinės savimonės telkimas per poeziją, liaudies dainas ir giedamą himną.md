@@ -162,4 +162,3 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/autoriai/Zauerveinas]]
 - [[objektai/zodynas/kunigas]]
-- [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]

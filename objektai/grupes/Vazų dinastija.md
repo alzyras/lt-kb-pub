@@ -123,9 +123,3 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/marksistinė periodizacija]]

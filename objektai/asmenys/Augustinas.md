@@ -50,5 +50,4 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 - [[objektai/grupes/Augustinų ordinas]]
 - [[objektai/asmenys/Dovas Zaunius]]
 - [[objektai/posakiai/„Karas ar taika “]]
-- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/zodynas/in corpore]]

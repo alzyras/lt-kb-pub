@@ -227,7 +227,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
@@ -245,7 +245,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
@@ -261,7 +261,7 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
@@ -342,14 +342,4 @@ Nenurodyta
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vykintas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Volkvinas]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Estai]]
-- [[objektai/grupes/Kuršiai]]
 - [[objektai/autoriai/Hermanas Vartbergė]]

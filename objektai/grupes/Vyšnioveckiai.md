@@ -47,5 +47,4 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 - [[objektai/grupes/Sluckiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/grupes/Sanguškos]]

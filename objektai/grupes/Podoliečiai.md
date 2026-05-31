@@ -52,5 +52,5 @@ O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovauj
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/žygis]]

@@ -73,5 +73,5 @@ Nenurodyta
 - [[objektai/autoriai/A. Butrimas]]
 - [[objektai/asmenys/Birutė]]
 - [[objektai/asmenys/Dlugošas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vydimantas]]

@@ -166,8 +166,8 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/paliaubos]]

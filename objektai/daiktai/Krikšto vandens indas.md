@@ -84,4 +84,3 @@ Nenurodyta
 - [[objektai/asmenys/Konradas]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]
-- [[objektai/zodynas/dykra]]

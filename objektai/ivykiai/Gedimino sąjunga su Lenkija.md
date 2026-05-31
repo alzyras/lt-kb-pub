@@ -162,15 +162,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Traidenis]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/markgrafas]]
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/zodynas/talkininkas]]
-- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

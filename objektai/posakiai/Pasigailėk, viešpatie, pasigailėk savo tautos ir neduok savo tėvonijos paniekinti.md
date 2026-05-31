@@ -53,5 +53,5 @@ Dusburgietis teigia, kad tuo metu, kai šitai vyko, Kulmo broliai, susirinkę dr
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/tėvonija]]

@@ -66,5 +66,4 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
 - [[objektai/ivykiai/Kolainių pilies sudeginimas ir Junigedos valsčiaus nusiaubimas (1291 m. vasario 2 d.)]]
 - [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
 - [[objektai/ivykiai/Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]

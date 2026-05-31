@@ -53,5 +53,4 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/indulgencija]]
-- [[objektai/autoriai/A. Alekna]]
 - [[objektai/grupes/Sakalo bendrovė]]

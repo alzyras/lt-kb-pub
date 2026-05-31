@@ -121,20 +121,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Kalavijai]]
-- [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/daiktai/Namas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/zodynas/netikėliai]]
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/daiktai/Geležiniai įrankiai]]
 - [[objektai/autoriai/J. Stankus]]
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
 - [[objektai/autoriai/V. T. Pašuto]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/daiktai/Šarvai]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
-- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/grupes/Lietuvos totoriai]]
-- [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]

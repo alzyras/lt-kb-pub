@@ -97,8 +97,3 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Katalikų veikimo centras]]
-- [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]

@@ -75,8 +75,3 @@ Dusburgietis teigia, kad paėmę pilį, kryžiuočiai čia įsitvirtino, pastat�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Malūnas]]

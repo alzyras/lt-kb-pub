@@ -196,16 +196,3 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]
-- [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]

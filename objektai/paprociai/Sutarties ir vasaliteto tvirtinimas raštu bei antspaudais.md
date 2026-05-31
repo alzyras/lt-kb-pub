@@ -111,10 +111,3 @@ Praktika minima Vytauto santykiuose su Ordinu ir Jogailos dokumentiniame pažad�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/grupes/Lenkai]]

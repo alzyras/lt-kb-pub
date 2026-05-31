@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 5.
+Objektų skaičius: 3.
 
 ## Kaip naudoti
 
@@ -19,8 +19,6 @@ Objektų skaičius: 5.
 ## Susiję objektai
 
 ### Žodynas
-- [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/komputas]]
 - [[objektai/zodynas/kryžiaus karas]]
 - [[objektai/zodynas/rotmistras]]
-- [[objektai/zodynas/valstybingumo idėja]]

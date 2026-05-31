@@ -238,8 +238,8 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Ziemovitas]]
 - [[objektai/zodynas/žygis]]

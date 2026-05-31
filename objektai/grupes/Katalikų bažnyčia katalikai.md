@@ -70,9 +70,3 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Protestantai]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]

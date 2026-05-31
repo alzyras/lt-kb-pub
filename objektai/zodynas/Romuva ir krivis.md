@@ -87,7 +87,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/amfiktionija]]
-- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

@@ -176,12 +176,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
-- [[temos/karinis-terminas]]
-- [[temos/teisinis-terminas]]
-- [[temos/istorinė-sąvoka - teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumu grįsta periodizacija]]

@@ -13,7 +13,6 @@ bukle: juodrastis
 laikotarpis: ''
 datos:
   - '1700 m.'
-  - '1737 m.'
   - '1767 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -173,7 +172,4 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 ### Susiję objektai
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Vilniaus baroko mokykla]]

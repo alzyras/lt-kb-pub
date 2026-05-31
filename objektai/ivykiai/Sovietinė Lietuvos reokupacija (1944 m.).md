@@ -92,7 +92,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m. vasara)]]

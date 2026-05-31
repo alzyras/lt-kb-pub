@@ -585,4 +585,3 @@ Nenurodyta
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
-- [[objektai/zodynas/litas]]

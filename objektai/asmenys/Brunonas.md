@@ -11,9 +11,8 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
-  - didikas
-  - kunigaikštis
-  - ordinas
+  - kraštas
+  - krikštas
 ---
 # Brunonas
 
@@ -87,20 +86,11 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Brunonas iš Kverfurto]]
 - [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
 - [[objektai/asmenys/Burchardas iš Magdeburgo]]
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
 - [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai]]
 - [[objektai/asmenys/Odoničius]]
 - [[objektai/asmenys/Samboras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
 - [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
 - [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.)]]
-- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
-- [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/zodynas/Kristaus kariai]]
-- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

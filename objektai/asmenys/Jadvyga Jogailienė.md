@@ -421,12 +421,4 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - [[temos/karalienė]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jadvyga]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
-- [[objektai/zodynas/činšas]]

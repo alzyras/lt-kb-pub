@@ -176,8 +176,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/zodynas/Adynos|adynos]]

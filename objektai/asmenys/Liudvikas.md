@@ -100,15 +100,13 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Fridrichas iš Holdenštetės]]
 - [[objektai/asmenys/Kantigirdas]]
 - [[objektai/ivykiai/Kimelio pilies sunaikinimas (1296 m.)]]
@@ -125,7 +123,6 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]
 - [[objektai/asmenys/Skomantas]]
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Ulrichas Bajeris]]
 - [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]
 - [[objektai/zodynas/ginklanešiai]]

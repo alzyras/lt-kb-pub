@@ -146,7 +146,7 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/Diarchijos sistema]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/supremus dux magnus dux]]

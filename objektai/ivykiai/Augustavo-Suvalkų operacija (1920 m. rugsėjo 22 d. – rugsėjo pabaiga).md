@@ -184,8 +184,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

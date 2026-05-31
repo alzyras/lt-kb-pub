@@ -74,6 +74,3 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/grupes/Hipių judėjimas sovietinėje Lietuvoje]]

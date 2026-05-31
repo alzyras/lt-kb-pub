@@ -66,4 +66,3 @@ Nenurodyta
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
-- [[objektai/daiktai/Sutikimo vartai]]

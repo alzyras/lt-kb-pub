@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 22.
+Objektų skaičius: 23.
 
 ## Kaip naudoti
 
@@ -29,6 +29,7 @@ Objektų skaičius: 22.
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]
 - [[objektai/daiktai/Lenino kampeliai ir sienlaikraščiai]]
+- [[objektai/daiktai/Lenino paminklas Vilniuje]]
 - [[objektai/daiktai/Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas „Žaliukas“]]
 - [[objektai/daiktai/Lietuvos trispalvė]]
 - [[objektai/daiktai/Olimpiniai medaliai]]

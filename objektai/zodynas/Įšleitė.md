@@ -64,5 +64,6 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Medė|medė]]
 - [[objektai/grupes/Egiptiečiai]]
 - [[objektai/grupes/Finikiečiai]]

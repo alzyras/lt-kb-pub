@@ -86,5 +86,6 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lotynai]]
-- [[objektai/grupes/Vilniaus Akademija]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]

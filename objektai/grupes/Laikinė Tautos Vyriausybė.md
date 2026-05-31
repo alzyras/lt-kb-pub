@@ -52,7 +52,3 @@ Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine T
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]

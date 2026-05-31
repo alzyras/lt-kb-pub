@@ -46,5 +46,4 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/ivykiai/Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.)]]

@@ -12,8 +12,6 @@ atnaujinta: '2026-04-25'
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
-  - sutartis
 ---
 # Boleslovas
 
@@ -68,19 +66,9 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Agota|Agota (kunigaikščio žmona, XIII a.)]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]]
-- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
 - [[objektai/daiktai/Vaišių stalai]]
 - [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lenčicos žudynės]]
-- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
-- [[objektai/asmenys/Kazimieras (Konrado sūnus)]]
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
-- [[objektai/asmenys/Zemovitas]]

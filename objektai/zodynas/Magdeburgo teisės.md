@@ -380,13 +380,8 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - t-015
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/teisinis-terminas]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/luomas]]
-- [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
 - [[objektai/grupes/Miestelėnų luomas]]
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]

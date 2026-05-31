@@ -11,7 +11,9 @@ saltiniai:
   - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
 atnaujinta: '2026-04-25'
-tags: []
+tags:
+  - karalius
+  - sąvoka
 ---
 # urėdas
 
@@ -78,15 +80,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
 ### Susiję objektai
-- [[objektai/zodynas/seniūnas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Kuršo kunigaikštystė]]
-- [[objektai/paprociai/Lietuvos bajorijos seimai]]
-- [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/pilies teismas|pilies teismas (pilis)]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/seniūnas storasta]]

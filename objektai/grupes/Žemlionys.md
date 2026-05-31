@@ -87,7 +87,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
-- [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/Perveiza|perveiza]]
 - [[objektai/grupes/Lietuvos Vyčių Sąjunga]]
-- [[objektai/zodynas/Žemlionis|žemlionis]]

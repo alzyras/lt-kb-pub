@@ -119,9 +119,6 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Stanislovas Ciołek]]
-- [[objektai/asmenys/Ziemovitas]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/asmenys/Stanislovas Ciołek]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]

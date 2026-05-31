@@ -183,17 +183,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/zodynas/ES pilietis]]
-- [[objektai/grupes/NATO]]
-- [[objektai/zodynas/peticija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
-- [[objektai/grupes/Europos Sąjunga]]
-- [[objektai/grupes/Lietuvos Respublikos Seimas|Lietuvos Respublikos Seimas (seimas)]]
-- [[objektai/ivykiai/Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)]]
-- [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

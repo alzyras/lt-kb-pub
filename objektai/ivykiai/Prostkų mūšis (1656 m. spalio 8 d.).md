@@ -206,6 +206,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]

@@ -120,5 +120,4 @@ tags:
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/daiktai/ANBO lėktuvai]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]

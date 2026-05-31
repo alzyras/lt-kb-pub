@@ -118,11 +118,4 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/karo-reikmuo]]
 - [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Vėliavos]]

@@ -153,11 +153,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Ateitis]]
-- [[objektai/zodynas/ES pilietis]]
-- [[objektai/zodynas/peticija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

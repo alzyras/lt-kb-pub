@@ -11,7 +11,6 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - ivykis
-  - sutartis
 ---
 # Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)
 
@@ -73,8 +72,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Karolis XII]]

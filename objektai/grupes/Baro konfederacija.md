@@ -76,8 +76,5 @@ Radomo konfederacijos ir 1768 m. seimo metu Repninas jau perdaug aiškiai išėj
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/konfederacija]]
 - [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
 - [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]

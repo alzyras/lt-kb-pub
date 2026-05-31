@@ -95,9 +95,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Manfredas]]
-- [[objektai/grupes/NATO]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

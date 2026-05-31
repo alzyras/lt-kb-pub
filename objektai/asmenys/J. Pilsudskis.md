@@ -154,17 +154,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Pilsudskis]]
-- [[objektai/grupes/Prancūzai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„tėvyninė“ šalis]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/posakiai/„Karas ar taika “]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/asmenys/Ernestas Galvanauskas]]
-- [[objektai/posakiai/„seimokratija“]]
+- [[objektai/posakiai/„tėvyninė“ šalis]]

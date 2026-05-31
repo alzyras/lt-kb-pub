@@ -80,7 +80,6 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Cistersų ordinas]]
-- [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/grupes/Kartūzų ordinas]]
 - [[objektai/ivykiai/Hospitaljerų Rodo salos užėmimas (1307 m.)]]
 - [[objektai/grupes/Turkai]]

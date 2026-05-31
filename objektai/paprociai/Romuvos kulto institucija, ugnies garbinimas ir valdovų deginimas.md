@@ -100,4 +100,3 @@ Nenurodyta
 - [[objektai/asmenys/Krivis]]
 - [[objektai/zodynas/amfiktionija]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/Romuva ir krivis]]

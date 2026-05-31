@@ -103,7 +103,3 @@ A. Kučinskas 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įraš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]

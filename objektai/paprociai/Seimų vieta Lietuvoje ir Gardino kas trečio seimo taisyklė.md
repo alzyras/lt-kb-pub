@@ -170,12 +170,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]

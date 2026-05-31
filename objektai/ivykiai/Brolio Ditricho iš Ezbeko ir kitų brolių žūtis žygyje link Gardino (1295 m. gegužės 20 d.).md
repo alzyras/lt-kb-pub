@@ -87,10 +87,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/asmenys/Heinmanas, vardu Kindas]]
-- [[objektai/asmenys/Listas]]

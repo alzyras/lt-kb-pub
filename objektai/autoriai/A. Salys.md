@@ -14,7 +14,6 @@ saltiniai:
 laikotarpis: '1930 m.; 1954 m.; 1955 m.'
 datos:
   - '1930 m.'
-  - '1954 m.'
   - '1955 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
@@ -32,6 +31,7 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - autorius
+  - upė
 ---
 # A. Salys
 
@@ -188,8 +188,4 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Skandinavai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/zodynas/prokalbė]]
 - [[objektai/zodynas/prūsas Prūsa Prūsija]]

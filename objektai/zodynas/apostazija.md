@@ -208,4 +208,3 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/ivykiai/Smolensko sukilimas|Smolensko sukilimas (sukilimas)]]

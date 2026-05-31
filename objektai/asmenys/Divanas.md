@@ -164,5 +164,4 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/asmenys/Arnoldas Krofas]]
 - [[objektai/asmenys/Dabaras]]
-- [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis|Senenzės pilies apgula ir Divano žūtis (pilis, XIII a.)]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]

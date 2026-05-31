@@ -77,11 +77,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/daiktai/Varpai]]
-- [[objektai/daiktai/Monetos]]
 - [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
 - [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
 - [[objektai/zodynas/misijų teorija]]

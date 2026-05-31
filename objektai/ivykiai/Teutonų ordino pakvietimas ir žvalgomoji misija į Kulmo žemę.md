@@ -141,4 +141,3 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Konradas iš Landsbergo]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

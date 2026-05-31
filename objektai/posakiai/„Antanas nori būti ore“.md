@@ -46,5 +46,4 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]
-- [[objektai/daiktai/ANBO lėktuvai]]
 - [[objektai/grupes/Lietuvos karo aviacija]]

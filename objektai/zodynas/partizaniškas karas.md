@@ -11,7 +11,9 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - karas
+  - kraštas
   - sąvoka
+  - tauta
 ---
 # partizaniškas karas
 
@@ -67,10 +69,3 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
-- [[objektai/zodynas/maršalka]]

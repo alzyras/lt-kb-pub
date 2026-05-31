@@ -70,13 +70,3 @@ Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
-
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/Endzelins J]]
-- [[objektai/autoriai/G. H. F. Neselmanas]]
-- [[objektai/autoriai/J. Endzelynas]]
-- [[objektai/autoriai/V. Mažiulis]]
-- [[objektai/zodynas/vakariniai baltai]]

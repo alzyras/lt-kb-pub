@@ -160,20 +160,3 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Lokietka]]
-- [[objektai/asmenys/Odoničius]]
-- [[objektai/asmenys/Sventopelkas|Sventopelkas (Lenkijos karalius)]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka (Lenkijos karalius)]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Dobrynės broliai]]
-- [[objektai/asmenys/Samboras]]

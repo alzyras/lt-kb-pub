@@ -46,9 +46,8 @@ Dusburgietis teigia, kad šventas komt.— komtūras talk.— talkininkas Liv. D
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Almimolinas]]
 - [[objektai/asmenys/Anonas (didysis magistras)]]
 - [[objektai/asmenys/Antiochas Epifanas]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

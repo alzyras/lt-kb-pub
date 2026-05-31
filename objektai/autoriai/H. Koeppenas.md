@@ -52,7 +52,3 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

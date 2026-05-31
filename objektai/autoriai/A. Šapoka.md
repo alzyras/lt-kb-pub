@@ -20,13 +20,13 @@ vaidmenys:
   - 'teksto suderintojas'
   - 'autorius'
 patikimumas: 'aukštas'
-atnaujinta: '2026-04-24'
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+atnaujinta: '2026-04-24'
+tags:
+  - autorius
 ---
 # A. Šapoka
 
@@ -230,6 +230,9 @@ A. Šapoka šiame šaltinyje minimas kaip redaktorius, teksto suderintojas; jam 
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/redaktorius]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos Respublikos švietimo ministerija|Lietuvos Respublikos švietimo ministerija (institucija)]]
 - [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]

@@ -99,10 +99,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Hitleris|Adolfas Hitleris (XX a.)]]
-- [[objektai/grupes/SA smogikai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

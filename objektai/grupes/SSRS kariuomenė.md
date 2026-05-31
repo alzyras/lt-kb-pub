@@ -53,9 +53,6 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
 ### Susiję objektai
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/grupes/Sovietų Sąjunga]]
-- [[objektai/asmenys/Viačeslavas Molotovas]]
 - [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
 - [[objektai/zodynas/polpredas]]
 - [[objektai/asmenys/Juozas Urbšys]]

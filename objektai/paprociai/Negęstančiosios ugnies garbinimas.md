@@ -88,7 +88,5 @@ Nenurodyta
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/paprociai/Kreipimasis į dievus per krivį ir pagarba krivūlei]]
 - [[objektai/asmenys/Krivis]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Negęstančioji ugnis]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
-- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]

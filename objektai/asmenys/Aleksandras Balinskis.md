@@ -179,7 +179,6 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - [[objektai/paprociai/Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje]]
 - [[objektai/grupes/Ložė Uolusis Lietuvis]]
 - [[objektai/grupes/Vilniaus archeologijos komisija]]
-- [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
 - [[objektai/zodynas/locus geni]]
 - [[objektai/grupes/Šubravcų draugija]]
 - [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]

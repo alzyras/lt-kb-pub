@@ -80,5 +80,3 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 ### Susiję objektai
 - [[objektai/grupes/Bartai]]
 - [[objektai/zodynas/ginklanešiai]]
-- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas (mūšis, XIII a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

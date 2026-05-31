@@ -67,7 +67,7 @@ tags:
 - [[temos/metraštis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/asmenys/Julijona]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]

@@ -61,16 +61,10 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/autoriai/Henrikas Latvis]]
 - [[objektai/autoriai/Hermanas iš Vartbergės]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/autoriai/Vygandas iš Marburgo]]
-- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
 - [[objektai/zodynas/naratyviniai šaltiniai]]
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/terra žemė]]
 - [[objektai/zodynas/vyskupo teisėjas]]
-- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
 - [[objektai/asmenys/Vygandas von Baldersheimas]]

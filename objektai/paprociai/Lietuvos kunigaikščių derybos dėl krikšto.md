@@ -74,7 +74,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas]]
@@ -82,4 +82,3 @@ Nenurodyta
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]

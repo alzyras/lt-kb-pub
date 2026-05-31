@@ -83,11 +83,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/vėliava]]
-- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]

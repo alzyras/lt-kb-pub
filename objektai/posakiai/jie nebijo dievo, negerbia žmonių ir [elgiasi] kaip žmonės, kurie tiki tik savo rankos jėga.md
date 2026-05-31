@@ -52,4 +52,4 @@ Dusburgietis teigia, kad tarptautinėje sferoje tuo metu susilaukė atgarsio Lie
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]

@@ -174,19 +174,13 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - t-009
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/teisinis-terminas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/zodynas/tėvonija]]
 - [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/asmenys/Skomantas]]
-- [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Vladislovas iš Opolės]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/asmenys/Skomantas]]
+- [[objektai/grupes/Sūduviai]]

@@ -65,12 +65,3 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Bajorų konfederacija]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Jonas Kazimieras Vaza]]
-- [[objektai/asmenys/Mykolas Pacas]]

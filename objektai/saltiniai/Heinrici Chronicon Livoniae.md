@@ -25,10 +25,7 @@ dalyviai: []
 susije_irasai: []
 patikimumas: ''
 atnaujinta: '2026-04-27'
-tags:
-  - karas
-  - ordinas
-  - saltinis
+tags: []
 ---
 # Heinrici Chronicon Livoniae
 

@@ -12,6 +12,7 @@ atnaujinta: '2026-04-25'
 tags:
   - elekcija
   - ivykis
+  - kraštas
   - seimas
 ---
 # coaequatio iurium įstatymo priėmimas (1697 m.)
@@ -97,8 +98,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Sapiegos]]
-- [[objektai/zodynas/hetmonas]]

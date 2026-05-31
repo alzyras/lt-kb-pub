@@ -89,5 +89,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/ivykiai/Vartenbergo apylinkių žmonių žudynės]]

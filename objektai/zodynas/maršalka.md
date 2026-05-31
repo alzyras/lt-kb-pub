@@ -89,22 +89,13 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/tribunolas]]
 - [[objektai/asmenys/Gedgaudas]]
 - [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/ivykiai/Ordino žygis į Lietuvą ir Suražiaus pilies sudeginimas (1392 m. ruduo)]]
-- [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
 - [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]
-- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė|Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė (seimas)]]
-- [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]
 - [[objektai/ivykiai/Seimų vietos įstatymo priėmimas (1673 m.)]]
 - [[objektai/ivykiai/Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)]]
 - [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
-- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
-- [[objektai/zodynas/partizaniškas karas]]
 - [[objektai/posakiai/Piktuoju iš manęs dar niekas nieko nelaimėjo]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
 - [[objektai/asmenys/Zaberezinskis]]

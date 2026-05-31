@@ -80,19 +80,12 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Teutonai]]
-- [[objektai/daiktai/ANBO lėktuvai]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
 - [[objektai/grupes/Vilniaus miesto cechai]]
-- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
-- [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]
 - [[objektai/zodynas/konversija christianizacija europeizacija]]
-- [[objektai/zodynas/tribunolas]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]
-- [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
 - [[objektai/posakiai/„švento valdovo“ įvaizdis]]

@@ -317,21 +317,17 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
     - t-011
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/vilnius]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/1830-1831 m. sukilimas]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/zodynas/Istorinis-geografinis tautos supratimas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Lietuvos socialinio ir kultūrinio gyvenimo aptarimas periodikoje]]
 - [[objektai/grupes/Ložė Uolusis Lietuvis]]
 - [[objektai/grupes/Vilniaus archeologijos komisija]]
-- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
 - [[objektai/zodynas/locus geni]]
-- [[objektai/zodynas/metrika]]
-- [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Šubravcų draugija]]
 - [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
+- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]

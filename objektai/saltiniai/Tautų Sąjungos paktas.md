@@ -11,6 +11,7 @@ atnaujinta: '2026-04-25'
 tags:
   - saltinis
   - tauta
+  - valstybė
 ---
 # Tautų Sąjungos paktas
 

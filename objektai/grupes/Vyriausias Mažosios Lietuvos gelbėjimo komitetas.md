@@ -75,10 +75,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Ambasadorių Konferencija]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

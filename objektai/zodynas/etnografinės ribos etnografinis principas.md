@@ -102,4 +102,3 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - [[objektai/zodynas/gubernija]]
 - [[objektai/posakiai/„Lithuania Propria“]]
 - [[objektai/asmenys/Jurgis Šaulys]]
-- [[objektai/asmenys/Steponas Kairys]]

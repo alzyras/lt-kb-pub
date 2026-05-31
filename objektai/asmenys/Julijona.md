@@ -12,9 +12,7 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
-  - karas
-  - kunigaikštis
-  - ordinas
+  - sutartis
 ---
 # Julijona
 
@@ -133,5 +131,4 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
 - [[objektai/posakiai/nei žemės, nei žmonių]]
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/asmenys/Vyguntas]]

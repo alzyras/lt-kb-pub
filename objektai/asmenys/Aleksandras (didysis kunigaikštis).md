@@ -174,7 +174,3 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]

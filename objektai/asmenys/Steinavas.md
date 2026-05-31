@@ -71,4 +71,3 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
 ### Susiję objektai
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Varmiai]]
-- [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]

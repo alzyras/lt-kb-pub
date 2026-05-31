@@ -67,7 +67,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vilniaus universiteto Tarptautinių santykių ir politikos mokslų institutas]]

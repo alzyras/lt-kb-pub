@@ -98,6 +98,5 @@ Nenurodyta
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Konradas, vardu Divelis]]
-- [[objektai/asmenys/Pelužis]]
 - [[objektai/asmenys/Stavimėlas]]
 - [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo]]

@@ -104,10 +104,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
 - [[objektai/asmenys/Juozas Gabrys-Paršaitis]]
 - [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]

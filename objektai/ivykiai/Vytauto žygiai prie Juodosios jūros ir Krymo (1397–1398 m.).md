@@ -138,7 +138,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Karaimai]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/grupes/Totoriai]]

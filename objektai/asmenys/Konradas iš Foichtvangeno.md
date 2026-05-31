@@ -134,5 +134,3 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]
-- [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

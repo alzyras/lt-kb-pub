@@ -10,8 +10,8 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
-  - ginklas
   - ivykis
+  - kraštas
   - ordinas
   - popiežius
 ---
@@ -124,10 +124,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Kalavijuočių ordinas]]

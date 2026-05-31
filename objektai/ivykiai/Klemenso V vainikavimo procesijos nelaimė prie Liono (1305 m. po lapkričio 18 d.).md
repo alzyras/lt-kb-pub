@@ -112,5 +112,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos (miestas, XVI a.)]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/zodynas/oktava]]

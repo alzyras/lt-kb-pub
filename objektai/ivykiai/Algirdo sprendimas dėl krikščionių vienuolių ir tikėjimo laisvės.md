@@ -99,7 +99,7 @@ Nenurodyta
 - [[temos/politinis-sprendimas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/zodynas/regula]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/grupes/Pranciškonų ordinas]]

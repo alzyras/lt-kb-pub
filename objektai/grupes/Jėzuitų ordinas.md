@@ -520,6 +520,3 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Susiję objektai
-- [[objektai/zodynas/protestantizmas]]

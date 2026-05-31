@@ -70,6 +70,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
-- [[objektai/zodynas/Lažas|lažas]]
-- [[objektai/zodynas/činšas]]
-- [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis (reformų veikėjas)]]

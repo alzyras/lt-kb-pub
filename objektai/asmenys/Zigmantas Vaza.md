@@ -176,12 +176,3 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]

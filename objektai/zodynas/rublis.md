@@ -86,10 +86,9 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Čekai]]
-- [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
 - [[objektai/zodynas/grašis]]

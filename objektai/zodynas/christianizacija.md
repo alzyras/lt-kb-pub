@@ -55,8 +55,6 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - [[objektai/autoriai/Andziulytė-Ruginienė, M]]
 - [[objektai/asmenys/Olafas (Norvegijos valdovas)]]
 - [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]]
-- [[objektai/autoriai/P. Šležas]]
-- [[objektai/autoriai/S. Sužiedėlis]]
 - [[objektai/autoriai/Semkowicz, W]]
 - [[objektai/autoriai/Springmann, K]]
 - [[objektai/asmenys/Steponas (Vengrijos valdovas)]]

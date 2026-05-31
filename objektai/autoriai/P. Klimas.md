@@ -16,13 +16,13 @@ vaidmenys:
   - 'Vykdomojo Komiteto biuro narys'
   - 'Lietuvos Tarybos narys'
 patikimumas: 'aukštas'
-atnaujinta: '2026-04-24'
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+atnaujinta: '2026-04-24'
+tags:
+  - autorius
 ---
 # P. Klimas
 
@@ -231,7 +231,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
@@ -248,7 +248,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
@@ -265,11 +265,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]

@@ -113,5 +113,3 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Skalviai]]

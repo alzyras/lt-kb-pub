@@ -69,5 +69,3 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
 - [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka]]
-- [[objektai/autoriai/Andžej Geglis]]
-- [[objektai/autoriai/Karolis Zikaras]]

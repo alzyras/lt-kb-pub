@@ -190,20 +190,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/netikėliai]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Hugonas Butyras]]
 - [[objektai/asmenys/Julijus Cezaris|Julijus Cezaris (vyskupas)]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kristaus karių ordinas]]
 - [[objektai/zodynas/Kristaus kariai]]
-- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
-- [[objektai/asmenys/Brunonas|Brunonas (vyskupas)]]
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
-- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

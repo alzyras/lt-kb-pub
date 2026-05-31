@@ -73,6 +73,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Ragotinė]]
 - [[objektai/daiktai/Ratai ant dviejų tekinių]]
 - [[objektai/autoriai/Guagnini]]

@@ -106,9 +106,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/tautos atstovai]]

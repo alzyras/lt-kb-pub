@@ -187,13 +187,3 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/daiktai/Deglas]]
-- [[objektai/daiktai/Paplotėlis]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]
-- [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]

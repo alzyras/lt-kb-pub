@@ -118,8 +118,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/posakiai/Mirė tikrai mūsų tautos garbė|Mirė tikrai mūsų tautos garbė.]]

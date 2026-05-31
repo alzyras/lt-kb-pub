@@ -11,6 +11,7 @@ patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
+  - valdovas
 ---
 # Ona (Zigmanto Augusto sesuo)
 
@@ -99,8 +100,3 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]

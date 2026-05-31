@@ -333,7 +333,3 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-015
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lotynai]]

@@ -80,7 +80,3 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Bajorai]]

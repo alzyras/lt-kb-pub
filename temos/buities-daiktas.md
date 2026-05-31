@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 8.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -27,3 +27,4 @@ Objektų skaičius: 8.
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/daiktai/Vaišių stalai]]
+- [[objektai/daiktai/Šakutė]]

@@ -124,16 +124,3 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/grupes/Ateitis]]
-- [[objektai/asmenys/Gardolfas]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/landgrafas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/markgrafas]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]

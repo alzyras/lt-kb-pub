@@ -25,9 +25,7 @@ susije_irasai: []
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-14'
 tags:
-  - daiktas
-  - diplomatas
-  - kraštas
+  - simbolis
 ---
 # Lenino paminklas Vilniuje
 
@@ -91,6 +89,9 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/simbolis]]
+
 ### Susiję objektai
 - [[objektai/zodynas/Baltic Kindergarten]]
 - [[objektai/ivykiai/Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)]]

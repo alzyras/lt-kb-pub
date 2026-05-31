@@ -10,7 +10,9 @@ saltiniai:
   - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
 atnaujinta: '2026-04-25'
-tags: []
+tags:
+  - sutartis
+  - sąvoka
 ---
 # vasalystė
 
@@ -49,13 +51,3 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/teisinis-terminas]]
-
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

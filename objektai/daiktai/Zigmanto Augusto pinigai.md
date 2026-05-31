@@ -118,10 +118,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/daiktai/Herbas]]
-- [[objektai/asmenys/Jonas]]
-- [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Zigmantas Augustas]]

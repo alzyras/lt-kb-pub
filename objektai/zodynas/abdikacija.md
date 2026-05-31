@@ -82,12 +82,9 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/istorinė-sąvoka - teisinis-terminas]]
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

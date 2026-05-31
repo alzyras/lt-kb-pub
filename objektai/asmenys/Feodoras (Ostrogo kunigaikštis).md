@@ -61,6 +61,5 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/asmenys/Klemensas Moskorzewskis]]
 - [[objektai/posakiai/dux Russiae]]

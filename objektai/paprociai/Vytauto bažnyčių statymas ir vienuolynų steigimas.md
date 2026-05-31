@@ -125,4 +125,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -121,4 +121,3 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Grigalius IX]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

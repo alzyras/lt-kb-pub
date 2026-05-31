@@ -58,13 +58,3 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Čekai]]

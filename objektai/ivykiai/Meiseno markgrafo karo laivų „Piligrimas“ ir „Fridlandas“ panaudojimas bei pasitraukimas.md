@@ -107,5 +107,3 @@ Nenurodyta
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/markgrafas]]
 - [[objektai/posakiai/Išmintingas žmogus visados išmintingai elgiasi ir saugosi busimųjų nelaimių]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

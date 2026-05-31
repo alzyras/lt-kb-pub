@@ -184,4 +184,3 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/daiktai/Laivai]]

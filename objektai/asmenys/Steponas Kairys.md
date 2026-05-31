@@ -53,10 +53,3 @@ Smetona, Steponas Kairys, J. Kairys, Stanislovas Narutavičius, Jonas Vileišis 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/posakiai/„Lithuania Propria“]]
-- [[objektai/zodynas/etnografinės ribos etnografinis principas]]

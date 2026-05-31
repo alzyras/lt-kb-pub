@@ -66,6 +66,4 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
 
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/posakiai/šio šventojo žygio atminimas]]

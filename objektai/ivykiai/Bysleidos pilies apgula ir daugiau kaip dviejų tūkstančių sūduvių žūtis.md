@@ -92,4 +92,3 @@ Nenurodyta
 - [[objektai/asmenys/Nameda]]
 - [[objektai/asmenys/Pasdrauputis]]
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/grupes/Sūduviai-jotvingiai]]

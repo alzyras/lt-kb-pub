@@ -119,11 +119,3 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
-- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

@@ -20,13 +20,13 @@ vaidmenys:
   - 'autorius'
   - 'istorikas'
 patikimumas: 'aukštas'
-atnaujinta: '2026-04-24'
-tags:
-  - autorius
 amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+atnaujinta: '2026-04-24'
+tags:
+  - autorius
 ---
 # Zenonas Ivinskis
 
@@ -236,7 +236,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: 'Citata automatiškai pririšta prie exact source offsetų.'
   pagrindžia:
     - t-004
@@ -250,7 +250,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: 'Citata automatiškai pririšta prie exact source offsetų.'
   pagrindžia:
     - t-004

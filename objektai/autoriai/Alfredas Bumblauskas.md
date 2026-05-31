@@ -201,14 +201,3 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/ivykiai/Mindaugo karūnacija]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/monografija]]
-- [[objektai/zodynas/pagonybė]]

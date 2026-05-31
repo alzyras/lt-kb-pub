@@ -121,15 +121,3 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/autoriai/Hermanas iš Vartbergės]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/autoriai/Vygandas iš Marburgo]]

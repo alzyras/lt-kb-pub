@@ -95,5 +95,4 @@ Nenurodyta
 - [[objektai/asmenys/Gebhardas iš Manstfeldo]]
 - [[objektai/asmenys/Hertvigas]]
 - [[objektai/asmenys/Hertvigas iš Pokarvių]]
-- [[objektai/daiktai/Kristaus Kančios relikvija]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

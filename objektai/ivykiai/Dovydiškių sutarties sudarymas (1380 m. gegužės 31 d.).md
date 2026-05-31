@@ -76,5 +76,5 @@ Nenurodyta
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]

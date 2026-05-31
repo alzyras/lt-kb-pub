@@ -87,7 +87,3 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/NKVD]]

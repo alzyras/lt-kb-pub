@@ -260,15 +260,5 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/paliaubos]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/činšas]]

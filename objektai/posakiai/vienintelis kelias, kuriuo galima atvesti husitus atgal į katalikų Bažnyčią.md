@@ -92,5 +92,5 @@ Vytautas tad stojo vidury tarp husitų ir popiežiaus. Tad Vytautas įsakė grį
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Martynas iš Golino]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Čekai]]

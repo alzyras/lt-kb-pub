@@ -73,5 +73,4 @@ tags:
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]
 - [[objektai/posakiai/„aukščiausiuoju karaliumi“]]

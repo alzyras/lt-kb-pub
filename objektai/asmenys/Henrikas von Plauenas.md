@@ -140,7 +140,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
@@ -157,18 +157,11 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
+  patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/elektorius]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Vaclovas Čekietis]]

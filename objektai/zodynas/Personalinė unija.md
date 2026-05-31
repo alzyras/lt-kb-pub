@@ -260,7 +260,5 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/zodynas/aneksija]]
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
 - [[objektai/grupes/Lietuviai]]

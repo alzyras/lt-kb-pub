@@ -58,6 +58,6 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Enėjas Silvijus Pikolominis]]
 - [[objektai/posakiai/„civilizaciniam šuoliui“]]

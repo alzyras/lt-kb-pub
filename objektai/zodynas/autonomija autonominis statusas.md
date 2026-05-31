@@ -87,10 +87,3 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/zodynas/kantonas kantoninis principas]]

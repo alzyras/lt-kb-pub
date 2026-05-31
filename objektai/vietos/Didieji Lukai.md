@@ -10,10 +10,10 @@ bukle: juodrastis
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
+  - karalius
   - karas
   - paliaubos
   - sutartis
-  - vieta
 ---
 # Didieji Lukai
 

@@ -105,6 +105,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas, XIII–XIV a.)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)]]

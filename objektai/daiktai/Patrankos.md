@@ -238,10 +238,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Monetos]]
 - [[objektai/daiktai/Varpai]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka]]
 - [[objektai/asmenys/M. Dejevas]]
 - [[objektai/daiktai/Patranka Hidra]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]]

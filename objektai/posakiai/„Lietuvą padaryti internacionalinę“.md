@@ -67,7 +67,6 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
 - [[objektai/zodynas/pertvarka perestroika]]
 - [[objektai/asmenys/Nikolajus Mitkinas]]
 - [[objektai/asmenys/Petras Griškevičius]]

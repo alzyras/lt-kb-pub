@@ -97,6 +97,3 @@ Pilis sudeginta ir liko apleista.
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Fridrichas Kvicas]]
-- [[objektai/zodynas/ginklanešiai]]
-- [[objektai/asmenys/Ditrichas iš Altenburgo]]

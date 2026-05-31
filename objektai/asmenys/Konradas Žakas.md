@@ -110,5 +110,4 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/jį mylėjo ir dievas, ir žmonės]]
