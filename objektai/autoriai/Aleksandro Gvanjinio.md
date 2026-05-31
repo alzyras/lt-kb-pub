@@ -7,14 +7,15 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1506 m.'
+  - '1482 m.'
   - '1512 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XV'
   - 'XVI'
-date_start: '1506'
+date_start: '1482'
 date_end: '1512'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -41,7 +42,10 @@ tags:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Tarp jų bene labiausiai pagarsėjo 1482 m. įvykęs Kijevo nusiaubimas, kurio metu į totorių nelaisvę pakliuvo aukščiausias vietinės Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais.'
@@ -79,6 +83,25 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tarp jų bene labiausiai pagarsėjo 1482 m. įvykęs Kijevo nusiaubimas, kurio metu į totorių nelaisvę pakliuvo aukščiausias vietinės Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tarp
+    jų bene labiausiai pagarsėjo 1482 m. įvykęs
+    Kijevo nusiaubimas, kurio metu į toto-
+
+    rių nelaisvę pakliuvo aukščiausias vietinės
+
+    Iliustracija iš Aleksandro Gvanjinio knygos „Europos Sarmatijos aprašymas“, vaizduojanti mūšį su totoriais.
+    Paplitusi nuomonė, jog čia vaizduojamas lietuvių mūšis prieš Krymo totorius prie Klecko 1506 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

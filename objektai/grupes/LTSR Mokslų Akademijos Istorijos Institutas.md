@@ -67,4 +67,5 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/autoriai/J. Stankus]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Skydas]]
+- [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai]]
+- [[objektai/autoriai/R. Jasas]]

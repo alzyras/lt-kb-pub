@@ -39,6 +39,10 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginys: 'Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs prieš dvejas kautynes (1 Mak 4, 10): pirmą kartą, kai kovojo su Antiochu Eupatoru ir jo nenugalėjo, bet pasuko atgal, o antrą kartą, kai kovojo su Bachidu ir Alchimu, tada ir pats krito kovoje, ir Izraelio.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad .“ Ne kas kitas, o broliai apšvarino — kaip Judas Makabėjus — šventąją Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui Šlovės ir garbės auka.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis teigia, kad nedera, be to, užmiršti ir šlovingų bei dievui malonių kovų Makabėjų, kurie, tyruose maitinęsi žolelėmis, nes nenorėjo susitepti nederamu maistu, uoliai paisydami įstatymo bei įkvėpti tikėjimo, nugalėjo Antiochą Epifaną ir išrovė neteisybės šaknis, tad įveikė.'
@@ -92,6 +96,21 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad .“ Ne kas kitas, o broliai apšvarino — kaip Judas Makabėjus — šventąją Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui Šlovės ir garbės auka.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    .“ Ne kas
+    kitas, o broliai apšvarino — kaip Judas Makabėjus — šventąją Prūsijos žemę, kurią
+    tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui Šlovės ir
+    garbės auka.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

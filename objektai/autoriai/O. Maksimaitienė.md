@@ -62,4 +62,5 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Antspaudai]]
 - [[objektai/zodynas/gubernija]]

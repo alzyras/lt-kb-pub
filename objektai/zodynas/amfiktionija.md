@@ -84,4 +84,7 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Graikai]]
+- [[objektai/daiktai/Aukuro kalnai ir akmenys]]
+- [[objektai/zodynas/Romuva ir krivis]]
 - [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

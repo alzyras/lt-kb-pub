@@ -57,3 +57,9 @@ Derybų su Lenkija mediatoriumi tapo buvęs Belgijos užsienio reikalų ministra
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/„bazę diskusijom“]]
+- [[objektai/zodynas/federacija federacinė valstybė]]
+- [[objektai/zodynas/kantonas kantoninis principas]]

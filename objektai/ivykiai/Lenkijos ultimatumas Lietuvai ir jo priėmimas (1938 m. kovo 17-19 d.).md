@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1937 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1937'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -51,6 +60,10 @@ Nenurodyta
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -100,9 +113,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“), oficialiąją Varšuvą rezultatai tenkino.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors tūkstančiai karštakošių Lenkijos
+    miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“),
+    oficialiąją Varšuvą rezultatai tenkino.
+    Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
+    liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
+    tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
+    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
+    Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
+    Lietuvos bendradarbiavimas nesusiklostė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Prancūzai]]

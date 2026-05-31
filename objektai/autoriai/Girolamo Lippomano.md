@@ -59,3 +59,8 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/lauko stovykla]]
+- [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]

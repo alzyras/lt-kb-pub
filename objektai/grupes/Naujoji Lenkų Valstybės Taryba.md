@@ -50,3 +50,4 @@ Tuo tarpu Vokietija ir Austrija Vengrija 1916 metais lapkričio 5 dieną paskelb
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Valstybės Taryba]]

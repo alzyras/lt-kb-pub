@@ -76,4 +76,6 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 - [[temos/karvedys]]
 
 ### Susiję objektai
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]

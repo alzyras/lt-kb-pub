@@ -72,4 +72,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Adomas (auksakalys)]]
 - [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
+- [[objektai/ivykiai/Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.)]]

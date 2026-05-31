@@ -7,7 +7,7 @@ variantai:
   - Pilėnų tragedija
 aliases: []
 saltiniai:
-  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 laikotarpis: 1336 m.
 datos:
   - 1336 m.
@@ -54,19 +54,19 @@ Pilėnų gynėjai pasirinko žūtį ugnyje vietoj pasidavimo vokiečiams.
   teiginys: 1336 m. Pilėnų pilį gynė kunigaikščio Margio vadovaujami lietuviai.
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
   teiginys: Pilėnų gynėjai, nebegalėdami apsiginti, pasirinko žūti ugnyje, o ne pasiduoti vokiečiams.
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Tiesiogiai aprašo Pilėnų gynimą, Margio vadovavimą ir gynėjų apsisprendimą žūti ugnyje.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas. Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsiginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
   citata_rodoma: ''

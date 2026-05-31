@@ -105,3 +105,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/rublis]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]

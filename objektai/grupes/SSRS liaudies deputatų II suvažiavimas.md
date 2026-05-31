@@ -46,4 +46,8 @@ Pagaliau 1989 m. gruodį, veikiant visų Baltijos tautų atstovams, slaptųjų p
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

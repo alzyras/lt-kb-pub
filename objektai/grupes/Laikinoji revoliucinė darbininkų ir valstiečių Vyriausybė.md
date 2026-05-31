@@ -61,4 +61,5 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
 ### Susiję objektai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]
+- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/suverenumas]]

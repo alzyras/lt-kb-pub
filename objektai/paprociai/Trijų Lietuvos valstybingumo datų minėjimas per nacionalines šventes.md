@@ -73,6 +73,10 @@ Nenurodyta
   teiginys: 'Visus šiuos tris kartus minime per nacionalines šventes ir kalbame apie Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo.'
   pagrindžia:
     - c-003
+- t-008
+  teiginys: 'Jau vien šios aplinkybės neleidžia tiesiogiai lyginti ir gretinti Švedijos ir Lietuvos istorijos, juo labiau kad niekada nesibodėjo savo karų istorijos, ir tai lengva pamatyti Stokholme, kuris yra kupinas paminklų savo karvedžiams ir valdovams.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -135,3 +139,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-004
+  santrauka: 'Jau vien šios aplinkybės neleidžia tiesiogiai lyginti ir gretinti Švedijos ir Lietuvos istorijos, juo labiau kad niekada nesibodėjo savo karų istorijos, ir tai lengva pamatyti Stokholme, kuris yra kupinas paminklų savo karvedžiams ir valdovams.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jau vien šios aplinkybės neleidžia tiesiogiai lyginti ir
+    gretinti Švedijos ir Lietuvos istorijos, juo labiau kad niekada nesi-
+    bodėjo savo karų istorijos, ir tai lengva pamatyti Stokholme, kuris
+    yra kupinas paminklų savo karvedžiams ir valdovams. Tačiau svar-
+    biausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė
+    buvo naikinama ir turėjo kurtis arba keltis net tris kartus. Visus
+    šiuos tris kartus minime per nacionalines šventes ir kalbame apie
+    Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas
+    Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
+    (1918-aisiais tą dieną buvo deklaruojama Lietuvos valstybingumo,
+    panaikinto 1795 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

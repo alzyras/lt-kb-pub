@@ -76,4 +76,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Saladinas]]

@@ -55,6 +55,7 @@ Dusburgietis teigia, kad apie nuostabų įvykį Tuo metu Marienburgo pilyje gyve
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/asmenys/Fridrichas (Marienburgo brolis)]]
 - [[objektai/posakiai/abu drauge turėjome keliauti ten, kur amžinos linksmybės]]

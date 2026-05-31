@@ -109,3 +109,5 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/stalininkas]]
+- [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -50,10 +50,14 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/grupes/Saksų dinastija]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/ivykiai/Tvanas]]
 - [[objektai/grupes/Unitai]]
+- [[objektai/grupes/Unitų bažnyčia unitai]]
+- [[objektai/grupes/Vazų dinastija]]

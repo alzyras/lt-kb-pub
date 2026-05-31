@@ -130,3 +130,16 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/daiktai/Trimitai]]
+- [[objektai/daiktai/Troba]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/zodynas/Liuosybė|liuosybė]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/Sutartinės|sutartinės]]
+- [[objektai/zodynas/Karmūšų|karmūšų]]

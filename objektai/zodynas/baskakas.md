@@ -16,6 +16,7 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
+  - 'XV'
   - 'XXI'
 date_start: '1331'
 date_end: '2026'
@@ -64,7 +65,10 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   teiginys: '1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.'
   pagrindžia:
     - c-004
-
+- t-006
+  teiginys: 'Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
@@ -138,7 +142,24 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-005
+  santrauka: 'Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Podolės žemės tėvonys bei paveldėtojai“.
+    Podolėje veikė jų paskirti atamanai, kurie
+    nuo Podolės žemės duodavo duoklę at-
+    vykstantiems Ordos baskakams.
 
+    Mėlynųjų Vandenų įvykių pagrindi-
+    niai šaltiniai: žinios xv a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 ## Pastabos
 
 - Šiame šaltinyje pareigybė formaliai neapibrėžiama, todėl reikšmė nustatoma tik iš valdžios ir duoklės konteksto.
@@ -148,11 +169,15 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/tėvonys]]
+- [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]
 - [[objektai/zodynas/atamanas]]
 - [[objektai/zodynas/vietininkas]]

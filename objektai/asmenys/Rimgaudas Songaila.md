@@ -86,5 +86,11 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/zodynas/baltosios dėmės]]
 - [[objektai/zodynas/pertvarka perestroika]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

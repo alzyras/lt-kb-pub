@@ -70,4 +70,7 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]
+- [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]
+- [[objektai/paprociai/Pagoniškųjų tikėjimų integravimas į krikščionišką praktiką]]
 - [[objektai/zodynas/gotika plytų gotika]]
+- [[objektai/zodynas/raštinių kultūra]]

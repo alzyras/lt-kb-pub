@@ -55,6 +55,6 @@ Dusburgietis teigia, kad apie Kulmo žemės bei Graudingo, Marienverderio, Santy
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Bertoldas (pranciškonas)]]
+- [[objektai/asmenys/Bertoldas]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]]

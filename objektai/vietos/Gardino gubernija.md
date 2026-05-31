@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1843 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1843'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -43,7 +52,10 @@ tags:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos dalies apskričių buvo sudaryta Kauno gubernija, o prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms, todėl caro valdžia etnografiškai.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai.'
@@ -90,6 +102,7 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+    - t-005
 - c-004
   santrauka: 'Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

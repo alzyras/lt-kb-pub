@@ -46,6 +46,10 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   teiginys: 'Vilniaus vaivada Goštautas prisidėjo prie Žygimanto ir kitų bajorų žygio į Švitrigailos dvarą prie Ašmenos.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­ raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­ imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam į.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -177,11 +181,54 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­ raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­ imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam į.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
+    tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau
+    įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­
+    raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­
+    imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių
+    didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
+    į Vilnių13.
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/ivykiai/Grabovo derybos]]
+- [[objektai/ivykiai/Kriavo aktas]]
 - [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]

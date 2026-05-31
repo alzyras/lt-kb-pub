@@ -79,3 +79,4 @@ Nenurodyta
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/grupes/Žiemgaliai]]
+- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]

@@ -39,6 +39,10 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sunaikinimą ir jo gyventojų žūtį Kai apie šitai sužinojo Karaliaučiaus broliai, jie įtūžę drauge su kitais sembais subūrė kariuomenę ir, įsibrovę į Rinavos valsčių, išžudė visus vyrus, o moteris bei vaikus su visu jų turtu išsivarė su.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai!'
@@ -83,3 +87,20 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Rinavos valsčiaus sembų naują atskalūnybę
+
+      Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės,
+    sukurstė  tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo.
+    Todėl jie, subūrę kariuomenę, užpuolė Sembos vyskupo pilį Fišhauzeną383, kur tuo metu
+    tebuvo du vyrai: vienas brolis bei jo tarnas. Ir štai kokie stebuklai!
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

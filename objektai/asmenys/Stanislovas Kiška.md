@@ -39,6 +39,10 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   teiginys: 'Stanislovas Kiška dalyvavo kaip Lietuvos Didžiosios Kunigaikštystės lauko etmonas tarp specialiai pakviestų liudininkų.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir savo favorita, dvaro maršalką, kunigaikštį Mykolą Glinskį, o pats grįžo į Vilnių.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -88,8 +92,35 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir savo favorita, dvaro maršalką, kunigaikštį Mykolą Glinskį, o pats grįžo į Vilnių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jis
+    vyriausiais kariuomenės vadais paskyrė
+    LDK etmoną Stanislovą Kišką ir savo favo-
+    rita, dvaro maršalką, kunigaikštį Mykolą
+    Glinskį, o pats grįžo į Vilnių. Stanislovas
+    Kiška nebuvo labai gabus karvedys, bet jau
+    turėjo tam tikros patirties kovose su toto-
+    riais ir maskvėnais (po to, kai 1502 m. jam
+    pavyko apginti Smolenską nuo maskvėnų,
+    jam buvo patikėtos etmono pareigos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
 - [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/Miera|miera]]

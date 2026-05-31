@@ -85,3 +85,9 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Skirgaila]]

@@ -8,6 +8,11 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1251 m.'
+  - '1253 m.'
+  - '1280 m.'
+  - '1286 m.'
+  - '1317 m.'
   - '1392 m.'
   - '1919 m.'
   - '1936 m.'
@@ -17,10 +22,11 @@ periodo_grupes:
   - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XIII'
   - 'XIV'
   - 'XX'
   - 'XXI'
-date_start: '1392'
+date_start: '1251'
 date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
@@ -69,6 +75,11 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-007
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.'
+  pagrindžia:
+    - c-008
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius.'
@@ -187,3 +198,24 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Poznanė dar anksčiau už Krokuvą - 1253 metais,
+    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
+    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
+    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
+    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus. Išsi­
+    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
+    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
+    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
+    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
+    zacijos požiūriu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

@@ -104,5 +104,10 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/posakiai/„iki gyvos galvos“]]
+- [[objektai/grupes/Lenkų bajorai]]
+- [[objektai/zodynas/savarankiškumas]]

@@ -45,4 +45,6 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/primus inter pares]]
+- [[objektai/posakiai/„primus inter pares“]]
 - [[objektai/zodynas/diplomatija]]

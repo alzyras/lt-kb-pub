@@ -43,3 +43,7 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/žyniai vaidilos raganos]]

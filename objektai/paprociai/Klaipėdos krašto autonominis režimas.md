@@ -132,3 +132,20 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Steigiamasis seimas]]
+- [[objektai/zodynas/autonominis vienetas]]
+- [[objektai/zodynas/klaipėdiečiai]]
+- [[objektai/zodynas/seimelis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/tranzitas]]
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/zodynas/Suverenitetas]]

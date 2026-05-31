@@ -65,7 +65,10 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   teiginys: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
   pagrindžia:
     - c-004
-
+- t-013
+  teiginys: 'Vienas iš tokių grįžusiųjų bus stambus dvarininkas ir kompozitorius, garsiojo polonezo „Atsisveikinimas su Tėvyne“ autorius Mykolas Kleopas Oginskis.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mykolas Kleopas Oginskis buvo stambus dvarininkas, kompozitorius ir polonezo „Atsisveikinimas su Tėvyne“ autorius.'
@@ -140,10 +143,34 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-005
+  santrauka: 'Vienas iš tokių grįžusiųjų bus stambus dvarininkas ir kompozitorius, garsiojo polonezo „Atsisveikinimas su Tėvyne“ autorius Mykolas Kleopas Oginskis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kosciuškos rėmėjai. Vienas
+    iš tokių grįžusiųjų bus stambus
+    dvarininkas ir kompozitorius,
+    garsiojo polonezo „Atsisveikini-
+    mas su Tėvyne“ autorius Mykolas
+    Kleopas Oginskis. Bajorai turėjo
+    savivaldą gubernijos ir apskrities
+    lygmeniu, vadinamuosius seime-
+    lius, kurie vykdė pagalbines val-
+    džios aparato funkcijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bajoras]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/gubernija]]

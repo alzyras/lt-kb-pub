@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1237 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+date_start: '1237'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -39,6 +48,10 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Tik čia tuo atžvilgiu buvo sunkiau, nes kaip tik tuo metu Livonijos valstybių žemes pradėjo smarkiai pulti Maskva, kuri norėjo pasiekti jūrą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,3 +112,31 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tik čia tuo atžvilgiu buvo sunkiau, nes kaip tik tuo metu Livonijos valstybių žemes pradėjo smarkiai pulti Maskva, kuri norėjo pasiekti jūrą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tik čia
+    tuo atžvilgiu buvo sunkiau, nes kaip tik tuo metu Livonijos
+    valstybių žemes pradėjo smarkiai pulti Maskva, kuri norėjo
+    pasiekti jūrą. Livonijos valstybės vadams reikėjo ne tik ap-
+    sisaugoti nuo Maskvos, bet ir išspręsti bažnytinės valstybės pa-
+    naikinimo klausimą, nes krašte labai sparčiai plito protestantiz-
+    mas. Tačiau, nesant vieno valdovo, buvo sunku dėl to susitarti
+    ir sunku apsiginti nuo Maskvos; tad būtinai reikėjo šauktis į
+    pagalbą kaimynę Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Maskvos kariuomenė]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas Augustas]]
+- [[objektai/zodynas/magistras]]

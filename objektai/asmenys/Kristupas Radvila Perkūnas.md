@@ -7,6 +7,16 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1558 m.'
+  - '1583 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1558'
+date_end: '1583'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -50,6 +60,18 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-006
+  teiginys: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu, kuris sudavė antrą smūgį K.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -138,7 +160,89 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau tai
+
+    buvo geriausi kariai, kuriuos tuo metu
+    buvo galima surinkti. Greta didžiojo
+    etmono M. Radvilos buvo jo šešio-
+    likmetis sūnus Kristupas Radvila,
+    vėliau tapęs didžiuoju etmonu ir
+    vadintas Perkūnu, lauko etmo-
+    nas Grigalius Chodkevičius,
+    būsimasis lauko etmonas
+    Romanas Sanguška, būsima-
+    sis Livonijos etmonas Jonas
+    Chodkevičius ir daugelis kitų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu, kuris sudavė antrą smūgį K.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Birželio 2-3 d. LDK di-
+    dysis etmonas Kristupas Radvila Perkūnas
+    pasiuntė rotmistrą Joną Sicinskį su dali-
+    niu, kuris sudavė antrą smūgį K. Carlsono
+    Gyllenhielmo kariams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jo ka-
+    rinis talentas išryškėjo Livonijos kare
+
+    su Rusija (1558-1583 m.), ypač užimant
+    Polocko tvirtovę. 1581 m. su nedidele lietu-
+    vių kariuomene jis pasiekė Volgos aukš-
+    tupį ir prie Šelonės upės, ties Mstislavliu,
+    Mogiliavu, Šklovu jis sumušė rusų kariuo-
+    mene.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Chodkevičius]]
+- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
+- [[objektai/grupes/Kalvinai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/grupes/Protestantai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/rotmistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]

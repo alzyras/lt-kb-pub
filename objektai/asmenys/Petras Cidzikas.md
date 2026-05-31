@@ -44,4 +44,6 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos laisvės lyga]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

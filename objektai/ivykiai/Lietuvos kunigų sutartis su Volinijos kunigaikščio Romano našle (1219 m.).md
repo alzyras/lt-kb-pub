@@ -135,3 +135,9 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]

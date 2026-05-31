@@ -71,3 +71,15 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/Soclageris]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]
+- [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]
+- [[objektai/grupes/Raudonoji armija]]

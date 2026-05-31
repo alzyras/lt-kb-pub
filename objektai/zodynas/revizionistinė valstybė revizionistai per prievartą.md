@@ -66,4 +66,5 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„revizionistais per prievartą“]]
 - [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire]]

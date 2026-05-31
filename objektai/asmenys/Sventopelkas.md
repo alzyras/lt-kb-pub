@@ -12,11 +12,14 @@ laikotarpis: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1245 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+date_start: '1245'
 date_end: ''
 patikimumas: 'aukštas'
 atnaujinta: '2026-05-29'
@@ -182,6 +185,11 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Poterbergo pilis ir pastatyta Mevės pilis Sventopelkas, kadaise Pomeranijos kunigaikštis, apie kurį jau esame anksčiau kalbėję, turėjo keturis sūnus: pirmagimį Mstivojų, kurį, kaip esame sakę, buvo davęs kaip įkaitą, Samborą.'
   pagrindžia:
     - c-032
+- t-032
+  teiginys: 'Dusburgietis teigia, kad —————————————————— Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo klastingomis vilionėmis, griebėsi kitų priemonių, svaresnių, vildamasis, jog atėjęs tinkamas ir seniai geidžiamas metas, kada jis, nesutikdamas jokio.'
+  pagrindžia:
+    - c-033
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -878,24 +886,91 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-031
+- c-033
+  santrauka: 'Dusburgietis teigia, kad —————————————————— Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo klastingomis vilionėmis, griebėsi kitų priemonių, svaresnių, vildamasis, jog atėjęs tinkamas ir seniai geidžiamas metas, kada jis, nesutikdamas jokio.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    44. ——————————————————
+
+      Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo
+    klastingomis vilionėmis, griebėsi  kitų priemonių, svaresnių, vildamasis, jog atėjęs
+    tinkamas  ir seniai geidžiamas metas, kada  jis, nesutikdamas jokio pasipriešinimo,
+    galėsiąs visai užpūsti ir sutrypti tą silpną krikščionybės kibirkštėlę, dar ten rusenusią po
+    paskutiniojo mūšio. Jis subūrė du tūkstančius puikiausių karių ir, perplukdinęs juos per
+    Vyslą, įsibrovė į Kulmo žemę, per dvi dienas bei dvi naktis paėmė visa, kas dar buvo likę, o
+    visa kita pavertė pelenais bei degėsiais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/asmenys/Brunonas]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/asmenys/Lokietka]]
+- [[objektai/asmenys/Mstivojus]]
+- [[objektai/asmenys/Odoničius]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Pomeranai]]
+- [[objektai/zodynas/Prūsijos žemė]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/grupes/Saracėnai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
+- [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/legatas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/stalininkas]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/daiktai/Žirgai]]
 - [[objektai/ivykiai/Antrosios laivų kautynės prie Svečės pilies|Antrosios laivų kautynės prie Svečės pilies (pilis)]]
 - [[objektai/ivykiai/Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.)]]
+- [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
 - [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/asmenys/Fridrichas iš Veidos]]
 - [[objektai/asmenys/Henrikas iš Veidos]]
+- [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
 - [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]
-- [[objektai/asmenys/Mstivojus]]
 - [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]
 - [[objektai/posakiai/Pasigailėk, viešpatie, pasigailėk savo tautos ir neduok savo tėvonijos paniekinti]]
-- [[objektai/grupes/Pomeranai]]
+- [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]
 - [[objektai/asmenys/Poponas iš Osternos]]
 - [[objektai/ivykiai/Poterbergo pilies pastatymas|Poterbergo pilies pastatymas (pilis)]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
 - [[objektai/asmenys/Rabė]]
 - [[objektai/asmenys/Samboras]]
+- [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]
+- [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
+- [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]
 - [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]
 - [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]
+- [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo]]
 - [[objektai/zodynas/šeimyna familia domus]]
+- [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]
+- [[objektai/ivykiai/Elbingo pilies ir miesto puolimas|Elbingo pilies ir miesto puolimas (miestas)]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/ivykiai/Kryžiaus karo paskelbimas prieš Sventopelką (1245 m.)]]
+- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
+- [[objektai/ivykiai/Naujas Sventopelko karas ir susidūrimas prie Renzeno]]
+- [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
+- [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]
+- [[objektai/ivykiai/Svečės pilies statyba ir nesėkmingas Ordino puolimas]]

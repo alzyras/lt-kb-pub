@@ -76,3 +76,5 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Vasaros valgymas ant žemės ir paprasti sriuobalai]]
+- [[objektai/daiktai/Duona]]
+- [[objektai/zodynas/Batviniai|batviniai]]

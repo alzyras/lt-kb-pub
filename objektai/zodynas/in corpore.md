@@ -44,6 +44,10 @@ Voldemaro gyvybę, 1929 m. rugsėjį visiems ministrams in corpore „atsistatyd
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vienvaldystė]]
+- [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/grupes/Geležinis vilkas]]
+- [[objektai/asmenys/Juozas Tūbelis]]
 - [[objektai/ivykiai/Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.)]]
 - [[objektai/asmenys/Augustinas]]

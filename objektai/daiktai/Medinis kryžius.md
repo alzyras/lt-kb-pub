@@ -71,6 +71,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]

@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1943 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1943'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -31,6 +40,10 @@ tags:
   teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,3 +82,19 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

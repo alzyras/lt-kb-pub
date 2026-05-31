@@ -158,3 +158,13 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bartai]]
+- [[objektai/asmenys/Divanas]]
+- [[objektai/autoriai/H. Lowmiański]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/asmenys/Linkas]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/zodynas/komtūras]]

@@ -156,3 +156,9 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Švedai]]

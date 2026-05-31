@@ -88,6 +88,26 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   teiginys: '1492 m. Trakuose Aleksandras privilegija Vilniui suteikė Magdeburgo teises ir laisvę laikyti vaško dirbtuvę.'
   pagrindžia:
     - c-010
+- t-016
+  teiginys: 'Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros.'
+  pagrindžia:
+    - c-011
+- t-017
+  teiginys: '12 Iš kryžiuočių laiškų, išsaugotų Slap­ tajame Karaliaučiaus archyve, aiškiai matyti, kad Švitrigaila, įžengęs į Lie­ tuvos sostą, niekam dovanojimų, pa­ remtų Magdeburgo teise, nepatvir­ tino.'
+  pagrindžia:
+    - c-012
+- t-018
+  teiginys: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
+  pagrindžia:
+    - c-013
+- t-019
+  teiginys: 'Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du didžiuosius prekymečius, o kas savaitę - įprastus turgus, garantavo miestui didesnes pajamas, dovanodamas jam ne­ mažą žemės plotą, nusidriekusį.'
+  pagrindžia:
+    - c-014
+- t-020
+  teiginys: 'O Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430 metais^4 ).'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -378,10 +398,167 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-011
+  santrauka: 'Tos pirmosios Lietuvoj teisės būtų ge­ rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­ ros.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Karalius šią privilegiją
+    suteikė savo apaštališkosios kelionės
+    po Lietuvą metu.
+    114
+
+    ## Puslapis 131
+
+    Il KNYGA
+    savo lėšomis turėjo ją vykdyti tol, kol visas miestas nebuvo
+    aptvertas mūro siena. Tos pirmosios Lietuvoj teisės būtų ge­
+    rokai pagerinusios miesto būklę, jeigu vidaus karas, apie kurį
+    netrukus papasakosime, nebūtų sukėlęs šalyje naujos aud­
+    ros.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-012
+  santrauka: '12 Iš kryžiuočių laiškų, išsaugotų Slap­ tajame Karaliaučiaus archyve, aiškiai matyti, kad Švitrigaila, įžengęs į Lie­ tuvos sostą, niekam dovanojimų, pa­ remtų Magdeburgo teise, nepatvir­ tino.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Aplink Polianų dvarą prie
+    Ašmenos buvo rasta daug kartų.
+    12
+    Iš kryžiuočių laiškų, išsaugotų Slap­
+    tajame Karaliaučiaus archyve, aiškiai
+    matyti, kad Švitrigaila, įžengęs į Lie­
+    tuvos sostą, niekam dovanojimų, pa­
+    remtų Magdeburgo teise, nepatvir­
+    tino. Kai rinkau žinias apie daugybę
+    dekretų, susijusių su Lietuvos isto­
+    rija, niekur, jokiame archyve, man
+    nepasisekė aptikti nė menkiausio
+    ženklo, kad Švitrigaila būtų suteikęs
+    ar patvirtinęs bent kokios rūšies vo­
+    kišką teisę Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-013
+  santrauka: 'Privilegijose Žygimantas pareiškė, kad atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­ čius, amžiams suteikia miestui vokišką Magdeburgo teisę, Krokuvos naudojamą nuo seno.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Privilegijose Žygimantas pareiškė, kad
+    atskirdamas visas lenkų, lietuvių ir rusų teises bei papro­
+    čius, amžiams suteikia miestui vokišką Magdeburgo teisę,
+    Krokuvos naudojamą nuo seno. Iš vaivadų ir visų karališ­
+    kųjų valdininkų buvo atimta galia kištis į miesto reikalus,
+    ir tik pačiam miesto vadovui, vadinamam vaitu, duota tei­
+    sė spręsti ir bausti už miestiečių padarytus kriminalinius
+    nusikaltimus. Taigi vaitui buvo suteikta tokia galia, kad
+    niekas negalėjo jo į teismą pakviesti, tiktai pats kunigaikš­
+    tis ir tik raštu, patvirtintu valdovo antspaudu, o ten atsi­
+    dūręs [vaitas] privalėjo ne kitaip, tik pagal miesto teisę at­
+    sakyti ir aiškintis dėl pateiktų priekaištų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-014
+  santrauka: 'Reikšminga jo privilegija, 1441 metais išleista Bras­ toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du didžiuosius prekymečius, o kas savaitę - įprastus turgus, garantavo miestui didesnes pajamas, dovanodamas jam ne­ mažą žemės plotą, nusidriekusį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau dėl gyvenančių pasiturin­
+    čiųjų ir taikos šalyje buvo atstatomi sunykę pastatai, gyvėjo
+    prekyba, o dėl suteiktų laisvių miestiečiams gausėjo žmonių
+    skaičius. Kadangi pilietinis karas po Vytauto Didžiojo mir­
+    ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
+    valdžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę
+    be gyventojų miestą, beveik galutinai sugriovę Magdebur­
+    go teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­
+    vo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą
+    tvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­
+    toje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du
+    didžiuosius prekymečius, o kas savaitę - įprastus turgus,
+    garantavo miestui didesnes pajamas, dovanodamas jam ne­
+    mažą žemės plotą, nusidriekusį išilgai miesto sienos palei
+    Viliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­
+    dien vadinamo Tauro, kalno30.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-015
+  santrauka: 'O Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430 metais^4 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    iš
+    Jogailos^3 ). O Vytautas Magdeburgo teises suteikė Brastai ir
+    Kaunui 1408, Tykocinui 1426, Drachočynui 1429, Bielskui 1430
+    metais^4 ).
+    Apskritai, Vytautas norėdamas pagreitinti ūkio gyvenimo
+    tempą, kaip kadaise Gediminas, ieškojo tinkamų žmonių svetur.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
 - [[objektai/grupes/Miestelėnų luomas]]
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Kiška]]
+- [[objektai/autoriai/Kotzebue]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/daiktai/Vaškas]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Zabójnica]]
+- [[objektai/zodynas/knechtas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/paprociai/Lietuvos seimo posėdžiavimas tik senatoriams, prelatams ir kunigaikščiams]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Šlėktų luomas]]
+- [[objektai/zodynas/šlėktų luomas Magdeburgo teisės]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/zodynas/Magdeburgo teisės vokiečių teisės normos]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, pavaldumas seniūnui ir pilies saugojimo prievolė]]
+- [[objektai/zodynas/prekymečiai ir turgūs]]

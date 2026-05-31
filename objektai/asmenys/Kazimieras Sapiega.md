@@ -81,3 +81,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Rusai]]

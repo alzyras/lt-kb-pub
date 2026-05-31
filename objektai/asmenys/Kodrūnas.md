@@ -60,3 +60,4 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

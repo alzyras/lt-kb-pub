@@ -30,7 +30,10 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'laureatą), kurio net pavardė šiek tiek primena giminės ištakas iš Butrimonių, nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berensonas (Bernhard Valvrojenski, g.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.'
@@ -51,10 +54,17 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Bernardas]]
+- [[objektai/asmenys/Christiaan Barnard]]
+- [[objektai/asmenys/David Baltimore]]
 - [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/grupes/Litvakai]]
+- [[objektai/asmenys/Louis Washkansky]]
+- [[objektai/asmenys/Marcinkevičius]]
 - [[objektai/asmenys/Sydney Brenner]]
 - [[objektai/zodynas/Adynos|adynos]]

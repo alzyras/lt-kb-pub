@@ -66,3 +66,7 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]

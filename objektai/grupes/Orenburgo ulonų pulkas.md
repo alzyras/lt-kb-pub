@@ -56,4 +56,5 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/ulonai]]
 - [[objektai/asmenys/D. Osten-Sakenas]]

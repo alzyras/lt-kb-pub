@@ -70,7 +70,11 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Justas Paleckis]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
 - [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba|Lietuvos SSR liaudies komisarų taryba (institucija)]]
 - [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]
+- [[objektai/ivykiai/Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.)]]
 - [[objektai/ivykiai/Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.)]]
+- [[objektai/zodynas/aneksija]]
 - [[objektai/zodynas/savanoriškumo kamufliažas]]

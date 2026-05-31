@@ -76,6 +76,15 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   teiginys: 'Dusburgietis teigia, kad apie Kulmo žemės nusiaubimą 1330 metais Tų pat metų rudenį Lokietka, Lenkijos karalius, užgriuvo Kulmo žemę604 su visais savo 604 D.'
   pagrindžia:
     - c-013
+- t-014
+  teiginys: 'Jo užuomazgos, mažumėlę kitoniškų formų, ruseno Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­ dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­ tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­ matus.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Dusburgietis teigia, kad apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­ vastį ar pakliuvo į nelaisvę šeši tūkstančiai krikščionių 1326 viešpaties metais Lokietka, Lenkijos karalius, paprašė Gediminą, lietuvių karalių, kurio dukterį neseniai buvo paėmęs į.'
+  pagrindžia:
+    - c-015
+
 ## Reikšmingi paminėjimai
 
 - c-004
@@ -243,6 +252,41 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-014
+  santrauka: 'Jo užuomazgos, mažumėlę kitoniškų formų, ruseno Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­ dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­ tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­ matus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
+    ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
+    dymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno
+    Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­
+    dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
+    tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
+    matus. Kitaip anuomet buvo valdoma Rusia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Dusburgietis teigia, kad apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­ vastį ar pakliuvo į nelaisvę šeši tūkstančiai krikščionių 1326 viešpaties metais Lokietka, Lenkijos karalius, paprašė Gediminą, lietuvių karalių, kurio dukterį neseniai buvo paėmęs į.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    361 (354). Apie Brandenburgo markgrafystės nusiaubimą ir apie tai, kaip prarado gy­
+                      vastį ar pakliuvo į nelaisvę šeši tūkstančiai krikščionių
+
+      1326  viešpaties metais  Lokietka, Lenkijos  karalius, paprašė Gediminą,  lietuvių
+    karalių, kurio dukterį neseniai buvo paėmęs  į žmonas jo sūnus592, atsiųsti jam iš savo
+    krašto karių. Patenkindamas jo prašymą, šis davė jam 1200 raitelių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
@@ -253,4 +297,23 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Lokietka]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/Šlėktų laisvė]]
+- [[objektai/autoriai/Johannes Voigt Foigtas]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/grupes/Varmės kapitula]]
 - [[objektai/posakiai/„Romos karaliaus garbei“]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
+- [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
+- [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]

@@ -74,6 +74,7 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/autoriai/Jan Fijałek]]
 - [[objektai/autoriai/K. Kantrimas]]
+- [[objektai/autoriai/P. Klimas]]
 - [[objektai/ivykiai/Vilniaus bajorijos suvažiavimas ir Oginskio memorialas dėl didžiosios Lietuvos kunigaikštijos (1811 m.)]]
 - [[objektai/autoriai/prof. kunigas Dr. J. Fijalek]]
 - [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]

@@ -93,4 +93,6 @@ Vartojamos formos: `ermyderių`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Rėda|rėda]]
+- [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Mozūrai (XV amžius)]]
+- [[objektai/grupes/Valakai]]

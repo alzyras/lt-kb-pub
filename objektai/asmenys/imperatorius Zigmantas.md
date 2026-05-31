@@ -84,5 +84,10 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/karūnacija karūnuotis]]

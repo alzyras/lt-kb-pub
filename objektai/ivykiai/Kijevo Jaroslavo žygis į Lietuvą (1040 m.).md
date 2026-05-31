@@ -125,4 +125,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jaroslavas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/posakiai/na Litvu]]
+- [[objektai/zodynas/žygis]]

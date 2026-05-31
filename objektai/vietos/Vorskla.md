@@ -78,6 +78,10 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   teiginys: 'Andrius žuvo prie Vorsklos 1399 metais.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -224,3 +228,36 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Buvo valakai, kryžiuo-
+    čių dalinys (100 riterių), vadovaujamas
+    Ragainės komtūro Markvardo. Rugpjūčio
+    pradžioje kariuomenė, persikėlusi per
+    Dnieprą, jo kairiuoju krantu patraukė į
+
+    Šarvinių
+    pirštinių
+    rekonstrukcija
+
+    stepes, kur laukė prie
+    kairiojo Dniepro intako
+    Vorsklos, prie Ordos valdų pari-
+    bių, susitiko su Aukso ordos chano
+    Timūr-Kutluko kariuomene.
+
+    Lietuvos jungtinės pajėgos
+
+    Lietuviai, žemaičiai, LDK rusų žemių ku-
+    nigaikščiai, Tochtamišo totoriai, talkinin-
+    kai iš Lenkijos, Kryžiuočių ordino kariai,
+    moldavai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

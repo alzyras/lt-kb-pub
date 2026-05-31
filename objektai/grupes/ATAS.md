@@ -119,4 +119,5 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/AKSU automatinis šautuvas]]
 - [[objektai/daiktai/TT pistoletas]]
+- [[objektai/asmenys/Vytautas Landsbergis]]
 - [[objektai/daiktai/Pistoletas]]

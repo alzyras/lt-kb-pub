@@ -47,6 +47,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad po kurio laiko magistras ir vėl sušaukė žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad pilies statyti magistras sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų kariuomenė ir visą šią žmonių minią išžudė.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -87,3 +91,31 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad pilies statyti magistras sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų kariuomenė ir visą šią žmonių minią išžudė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pilies statyti magistras
+    sušaukė daugybę žmonių; kai kiekvienas iš jų dirbo savo darbą, netikėtai užėjo prūsų
+    kariuomenė ir visą šią žmonių minią išžudė. Po kurio laiko magistras ir vėl sušaukė
+    žmones ir tada per dievo malonę užbaigė statydinti šią pilį, kurią pavadino Štarkenbergo
+    vardu, kuris lotyniškai reiškia tvirtą kalną, o jai ginti paskyrė daug brolių bei ginklanešių.
+
+
+
+      427  D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/pilėnas pilėnai]]

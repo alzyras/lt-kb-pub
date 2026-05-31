@@ -78,4 +78,7 @@ Dusburgietis teigia, kad endzelynas tapatina su šiuo prūsų žemės vardu (End
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/autoriai/J. Endzelynas]]
+- [[objektai/autoriai/F. Bopas]]
 - [[objektai/autoriai/G. H. F. Neselmanas]]
+- [[objektai/autoriai/V. Mažiulis]]
+- [[objektai/zodynas/vakariniai baltai]]

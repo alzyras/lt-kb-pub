@@ -87,3 +87,22 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Valstybės Taryba]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Vyšnioveckiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]

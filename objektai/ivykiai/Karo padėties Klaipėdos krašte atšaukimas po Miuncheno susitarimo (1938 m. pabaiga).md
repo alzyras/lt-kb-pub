@@ -60,6 +60,10 @@ Nenurodyta
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: ', ištekliai pasirodė esą riboti, Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lietuviškose įstaigose ir bendrovėse.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -114,6 +118,26 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: ', ištekliai pasirodė esą riboti, Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lietuviškose įstaigose ir bendrovėse.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    , ištekliai pasirodė esą riboti,
+    Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
+    lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
+    tuviškose įstaigose ir bendrovėse. Vokiškose įstaigose dominavo nacių ša-
+    lininkai, beveik visose mokyklose dėstyta vokiečių kalba, nors dauguma
+    mokinių buvo lietuviai. Įvesti mokymą lietuviškai pagal mokinių kilmę
+    nepavyko, o nurodymai tarnautojams darbe kalbėti lietuviškai, dalyvauti
+    lietuviškose šventėse davė atvirkščią rezultatą – oponentai efektyviai kliu-
+    dė integruoti Klaipėdos kraštą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

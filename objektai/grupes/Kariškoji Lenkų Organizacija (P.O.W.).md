@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -40,6 +46,10 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-004
+  teiginys: 'Iš okupuoto Vilniaus instruktuojama ir pinigais aprūpinama, ta organizacija varė labai platų darbą: šnipinėdama nuolat pranešinėjo lenkams apie Lietuvos kariuomenės jėgas, apie krašto politinę būklę ir nuotaiką; atvažiuojančioms santarvės komisijoms teikė.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,3 +112,34 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Iš okupuoto Vilniaus instruktuojama ir pinigais aprūpinama, ta organizacija varė labai platų darbą: šnipinėdama nuolat pranešinėjo lenkams apie Lietuvos kariuomenės jėgas, apie krašto politinę būklę ir nuotaiką; atvažiuojančioms santarvės komisijoms teikė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš okupuoto Vil-
+    niaus instruktuojama ir pinigais aprūpinama, ta organizacija varė
+    labai platų darbą: šnipinėdama nuolat pranešinėjo lenkams apie
+    Lietuvos kariuomenės jėgas, apie krašto politinę būklę ir nuo-
+    taiką; atvažiuojančioms santarvės komisijoms teikė vyriausybę
+    šmeižiančius memorandumus, iš Vilniaus gabeno proklamacijas
+    ir knygutes, skleidė nepasitikėjimą ir verbavo sau narius ne tik
+    sulenkėjusių dvarininkų, bet ir nenusimanančių lietuvių tarpe.
+    Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva
+    buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po
+    3—4 tos organizacijos komendantūras. Viskas, žinoma, buvo
+    daroma slaptai: kiekvienas narys turėjo slapyvardį, o visi svar-
+    besnieji raštai buvo rašomi šifruoti (slapta, sutartine abėcėle).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/paprociai/Konspiracinė P.O.W. organizacijos veikla]]

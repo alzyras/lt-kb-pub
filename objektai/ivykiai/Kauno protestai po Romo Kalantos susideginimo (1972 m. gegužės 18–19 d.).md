@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1972 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1972'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -42,6 +51,10 @@ Nenurodyta
   teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,7 +93,39 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
+    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
+
+    VI s k y r i u s
+    DAINUOJANTI
+    REVOLIUCIJA
+    SU SĄJŪDŽIU UŽ LIETUVĄ
+    S
+    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
+    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
+    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
+    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
+    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
+    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laidotuvės]]
+
+### Susiję objektai
+- [[objektai/asmenys/Rimgaudas Songaila]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/asmenys/Romas Kalanta]]

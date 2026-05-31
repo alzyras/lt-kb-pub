@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1947 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1947'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -38,7 +47,10 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – nepriklausomos Lietuvos žemės ūkio prieškarinį gamybos lygį pagal javų Raudonosios gurguolės.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kolektyvizacija sovietinėse respublikose reiškė privačios nuosavybės naikinimą žemės ūkyje ir kolektyvinių ūkių steigimą.'
@@ -86,7 +98,36 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-004
+  santrauka: 'Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – nepriklausomos Lietuvos žemės ūkio prieškarinį gamybos lygį pagal javų Raudonosios gurguolės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau kolektyvizacija staigiai nusmukdė Lietuvos žemės ūkį – ne-
+    priklausomos Lietuvos žemės ūkio prieškarinį gamybos lygį pagal javų
+    Raudonosios gurguolės. Prievartinis kolektyvinis
+    žemės ūkio produktų atidavimas valstybei. Vilnius, 1947 m.
+    L. Meinerto nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    216
+    derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po
+    20 metų. Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti,
+    mažai uždirbdami, nepaisydami didelių bausmių, pradėjo vogti iš kolū-
+    kių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vienkiemiai]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
 - [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą]]
+- [[objektai/zodynas/kolūkiai kolūkietis darbadieniai]]

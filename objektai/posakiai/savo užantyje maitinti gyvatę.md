@@ -93,5 +93,6 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/grupes/Vilniaus prastuomenė]]

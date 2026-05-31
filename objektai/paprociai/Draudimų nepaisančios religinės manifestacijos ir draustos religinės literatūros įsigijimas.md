@@ -85,6 +85,7 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 - [[temos/religinė-praktika]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
 - [[objektai/daiktai/Religinės relikvijos]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

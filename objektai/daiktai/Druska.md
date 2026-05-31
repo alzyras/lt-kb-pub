@@ -74,5 +74,11 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Burgundijos kalno nuslinkimas (1225 m.)]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/asmenys/Ulrikas Hozijus]]
 - [[objektai/daiktai/Vąšas]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]
 - [[objektai/posakiai/„Lietuvos žemės druska“]]
+- [[objektai/daiktai/Vilnonės medžiagos]]

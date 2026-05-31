@@ -99,6 +99,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Ditrichas iš Gruningeno]]

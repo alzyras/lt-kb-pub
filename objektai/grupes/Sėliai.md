@@ -80,3 +80,14 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Jotvingai]]
+- [[objektai/asmenys/Albertas]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lybiai]]
+- [[objektai/asmenys/Visvaldis]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/grupes/Kuršiai]]

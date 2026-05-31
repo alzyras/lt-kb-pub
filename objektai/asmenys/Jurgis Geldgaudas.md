@@ -65,3 +65,4 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]

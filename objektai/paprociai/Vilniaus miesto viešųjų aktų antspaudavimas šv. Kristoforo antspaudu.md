@@ -131,4 +131,7 @@ Nenurodyta
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Vilniaus magistratas]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
+- [[objektai/zodynas/miesto magistrato pareigybės]]

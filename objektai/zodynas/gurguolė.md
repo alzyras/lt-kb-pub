@@ -41,6 +41,10 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   teiginys: 'Vytauto paslėpti ginkluoti žmonės turėjo užimti Žemutinę pilį, kai iki jos atvyks menkai saugoma gurguolė.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,6 +105,28 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30 vyrų, skirtų grobiui saugoti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tuo metu, kai šitai dėjosi, Sventopelkas
+    sutelkė didelę kariuomenę  iš savo valdinių  ir Prūsijos atsivertėlių  ir nusekė paskui
+    atsitraukiančius brolius, kiekvieną naktį sustodamas toje pačioje vietoje, kur buvo
+    brolių palapinės, pririšdamas savo kovos žirgus ten, kur anksčiau stovėjo brolių žirgai,
+    šitaip skaičiuodamas palapines ir stebėdamas kelio kryptį; suvokęs, kad jo kariuomenė
+    dvigubai didesnė nei brolių, džiūgaute džiūgavo ir, drąsindamas saviškius, juos guodė
+    šiais žodžiais: „Rytoj padarysime taip, kad pomeranai ir prūsai amžiams bus nusikratę
+    teutonų jungo“. Išaušus, kai broliai traukėsi, kurie ne kurie Sventopelko kariai užpuolė
+    gabenamą grobį, kurio buvo tiek daug, kad gurguolė išdryko per dvi mylias, ir nukovė 30
+    vyrų, skirtų grobiui saugoti. Druzigeris, magistro siųstas jų gelbėti, pabėgo nelyginant
+    koks bailys pamatęs daugybę nukautųjų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -114,5 +140,25 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Druzigeris]]
 - [[objektai/grupes/Pomeranai]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]
+- [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
+- [[objektai/asmenys/Druzigeris]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
+- [[objektai/asmenys/Kopčius]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Mietas]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/asmenys/Sudimantas]]
+- [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]
+- [[objektai/zodynas/kolektyvizacija]]
+- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]

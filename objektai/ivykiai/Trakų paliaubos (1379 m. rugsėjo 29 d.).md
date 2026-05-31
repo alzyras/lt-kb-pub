@@ -73,6 +73,7 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]

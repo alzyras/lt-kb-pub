@@ -164,7 +164,13 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Arkadij Kruglov]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Marcinkevičius]]
-- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
+- [[objektai/grupes/NKVD]]
 - [[objektai/asmenys/Tigras]]
+- [[objektai/asmenys/Arkadij Kruglov]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
+- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]

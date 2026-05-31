@@ -89,5 +89,7 @@ Nenurodyta
 - [[objektai/asmenys/D. Osten-Sakenas]]
 - [[objektai/daiktai/Daugiavamzdė Gatlingo sistema]]
 - [[objektai/daiktai/Kablinis šautuvas]]
+- [[objektai/asmenys/Kopčius]]
+- [[objektai/daiktai/Mietas]]
 - [[objektai/autoriai/Mykolas Brenšteinas]]
 - [[objektai/zodynas/automatinių šautuvų veikimo principai]]

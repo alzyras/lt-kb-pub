@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1914 m.'
+  - '1922 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XX'
+date_start: '1914'
+date_end: '1922'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -41,6 +52,10 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   teiginys: 'Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,3 +118,38 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    .
+    Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant
+    1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei auto-
+    nomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad
+
+    L I E T U V O S  I S T O R I J A
+    168
+    nesusidarytų valstybė valstybėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/asmenys/Romanas Dmovskis]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/Tautinės mažumos]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Antanas Baranauskas]]
+- [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/zodynas/organinis nacionalizmas]]
+- [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]

@@ -8,13 +8,14 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1382 m.'
+  - '1384 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
 date_start: '1382'
-date_end: ''
+date_end: '1384'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -54,6 +55,10 @@ Nenurodyta
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Pirmi Vytauto žygiai tėviškei atgauti (1382—1384) Kęstučio mirtis ir Jogailos santykiai su Ordinu.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,10 +96,28 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Pirmi Vytauto žygiai tėviškei atgauti (1382—1384) Kęstučio mirtis ir Jogailos santykiai su Ordinu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pirmi
+    Vytauto žygiai tėviškei atgauti (1382—1384)
+    Kęstučio mirtis ir Jogailos santykiai su Ordinu. Vytauto bė­
+    gimas pas Vokiečių Ordiną. Jogailos santykiai su Ordinu po
+    Vytauto pabėgimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]

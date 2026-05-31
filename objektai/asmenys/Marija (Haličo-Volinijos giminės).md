@@ -35,7 +35,10 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Jas pripažino Liubar­ tui ne tik uošvis, bet ir šio brolis Levas (Leonas), drauge su An­ driumi žuvęs 1323 m. Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi santykių, beliko vienintelė atžala —.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala ir žuvusių brolių sesuo.'
@@ -54,9 +57,29 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jas pripažino Liubar­ tui ne tik uošvis, bet ir šio brolis Levas (Leonas), drauge su An­ driumi žuvęs 1323 m. Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi santykių, beliko vienintelė atžala —.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jas pripažino Liubar­
+    tui ne tik uošvis, bet ir šio brolis Levas (Leonas), drauge su An­
+    driumi žuvęs 1323 m. Iš garsiosios Haličo-Volinijos Riurikaičių
+    giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi
+    santykių, beliko vienintelė atžala — žuvusiųjų brolių sesuo Marija.
+    Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio
+    «Traidenio» I (1316-41).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Boleslovas-Jurgis II]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Traidenis I]]

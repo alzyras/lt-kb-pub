@@ -58,3 +58,4 @@ adjutantas Juozas Lapienis-Darius, pasidavė rinktinės vadas Stasys GimbutasTar
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]

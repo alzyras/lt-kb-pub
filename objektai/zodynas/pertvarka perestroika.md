@@ -75,7 +75,12 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
 - [[objektai/asmenys/Petras Griškevičius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/zodynas/baltosios dėmės]]
+- [[objektai/zodynas/suverenitetas suverenumas]]
+- [[objektai/zodynas/suverenumas suverenitetas]]

@@ -55,7 +55,11 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/grupes/Respublikonai]]
+- [[objektai/grupes/Valkininkų konfederacija]]
+- [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
+- [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/kontribucija]]
 - [[objektai/posakiai/„aksomine imperija“]]
 - [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]

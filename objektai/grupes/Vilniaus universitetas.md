@@ -11,6 +11,13 @@ variantai:
 aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: juodrastis
+laikotarpis: "1579-1832 m."
+vaidmenys:
+  - "švietimo institucija"
+  - "kultūros centras"
+dalyviai: []
+susije_irasai: []
 datos:
   - '1569 m.'
   - '1578 m.'
@@ -33,13 +40,6 @@ amziai:
   - 'XIX'
 date_start: '1569'
 date_end: '1864'
-bukle: juodrastis
-laikotarpis: "1579-1832 m."
-vaidmenys:
-  - "švietimo institucija"
-  - "kultūros centras"
-dalyviai: []
-susije_irasai: []
 patikimumas: "aukštas"
 atnaujinta: '2026-05-18'
 tags: []
@@ -155,6 +155,22 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   teiginys: '1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   pagrindžia:
     - c-016
+- t-028
+  teiginys: 'Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru už etnografinės Lenkijos ribų.'
+  pagrindžia:
+    - c-017
+- t-029
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  pagrindžia:
+    - c-018
+- t-030
+  teiginys: 'VIII ## Puslapis 9 Po 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir Rusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­ suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.'
+  pagrindžia:
+    - c-019
+- t-031
+  teiginys: 'Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV žemės ir 9 mln.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -459,9 +475,136 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-027
+- c-017
+  santrauka: 'Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru už etnografinės Lenkijos ribų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio,
+    tačiau Aleksandras I nesutiko.
+     Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo
+    centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru
+    už etnografinės Lenkijos ribų. Šis laikotarpis bene didžiausio universiteto
+    klestėjimo metai – studentų skaičius nuo 200 padidėjo iki 1 300.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-018
+  santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jau tuomet pripažinta, kad
+    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
+    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
+    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
+    vienas kitas), kurie susitarė kryp-
+    tingai plėtoti aukštosios kultūros
+    kūrimo lietuvių (žemaičių) kalba
+    darbą, o sykiu rūpintis lietuvių
+    ir žemaičių liaudies švietimu jų
+    gimtąja kalba (nors žemaičius
+    kai kas tuomet laikė atskiru,
+    etniniams lietuviams giminingu
+    etnosu, bet jie patys save laikė
+    vieno dvilypio lietuvių-žemaičių
+    etnoso dalimi).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-019
+  santrauka: 'VIII ## Puslapis 9 Po 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir Rusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­ suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    sukilime5.
+    VIII
+
+    ## Puslapis 9
+
+    Po 1830-1831 m. sukilimo, uždarius Vilniaus universitetą ir
+    Rusijos administracijai pradėjus griežčiau kontroliuoti krašto vi­
+    suomeninį gyvenimą, nemažai išsilavinusių žmonių išvyko į
+    Lenkijos ar Rusijos miestus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-020
+  santrauka: 'Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV žemės ir 9 mln.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda,
+    kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-
+    mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
+    1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
+    lį ir gavęs Imperatoriškojo universiteto statusą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/asmenys/Aleksandras I]]
+- [[objektai/asmenys/Andrius Sniadeckis]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Grigalius XIII]]
+- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
+- [[objektai/asmenys/Joachimas Lelevelis]]
+- [[objektai/asmenys/Johanas Pėteris Frankas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Sniadeckis]]
+- [[objektai/asmenys/Kristijonas]]
+- [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
+- [[objektai/autoriai/Lelevelis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/autoriai/Martynas Smigleckis]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/autoriai/Mykolas Balinskis]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/autoriai/Simonas Stanevičius]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/bursa]]
+- [[objektai/zodynas/istorinė Lietuva]]
+- [[objektai/zodynas/jurisdikcija]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/ivykiai/1830-1831 m. sukilimas]]
+- [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
+- [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
+- [[objektai/asmenys/Horacijus]]
+- [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
+- [[objektai/asmenys/Jozefas Frankas]]
+- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
+- [[objektai/ivykiai/Napoleono karo kampanija Rusijos imperijos gilumoje]]
+- [[objektai/ivykiai/Vilniaus universiteto uždarymas po 1830-1831 m. sukilimo]]
+- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

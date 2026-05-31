@@ -103,8 +103,9 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]

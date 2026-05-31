@@ -90,4 +90,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/posakiai/Eikime, broliai, už vierą šventą]]

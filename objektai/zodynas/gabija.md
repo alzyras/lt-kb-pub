@@ -45,4 +45,5 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]
 - [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]

@@ -169,3 +169,11 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/christianizacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/1930 — VYTAUTO DIDŽIOJO — METAI]]
+- [[objektai/grupes/Akcinė „Varpo“ bendrovės spaustuvė]]

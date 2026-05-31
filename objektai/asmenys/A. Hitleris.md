@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1933 m.'
+  - '1939 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1933'
+date_end: '1939'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -40,6 +50,10 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   teiginys: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 183 deleguotas.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,3 +116,37 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 183 deleguotas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
+    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
+    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    183
+    deleguotas ministras turėjo vykdyti jo užduotis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltijos valstybės]]
+- [[objektai/grupes/SA smogikai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/tautos atstovai]]
+- [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]
+- [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
+- [[objektai/ivykiai/Antano Merkio vyriausybės sudarymas (1939 m. lapkritis)]]
+- [[objektai/asmenys/Edvardas Rydzas-Smiglas]]
+- [[objektai/asmenys/Stasys Raštikis]]
+- [[objektai/posakiai/„pavojingą politinį pamišėlį“]]

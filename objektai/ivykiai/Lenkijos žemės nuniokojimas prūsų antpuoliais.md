@@ -114,3 +114,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/zodynas/klauzūra]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/autoriai/Powierski J]]

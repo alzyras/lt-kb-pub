@@ -68,7 +68,8 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/seimelis]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/klaipėdiečiai]]
 - [[objektai/zodynas/Klaipėdiškiai]]

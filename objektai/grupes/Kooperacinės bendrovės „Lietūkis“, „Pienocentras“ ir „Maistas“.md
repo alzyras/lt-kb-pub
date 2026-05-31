@@ -54,3 +54,10 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/J. Tūbelis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Juozas Tūbelis]]
+- [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]

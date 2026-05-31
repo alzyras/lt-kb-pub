@@ -57,4 +57,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/jakobinizmas]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

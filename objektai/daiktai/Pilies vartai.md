@@ -92,4 +92,5 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]
+- [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/šikšnogalis diržas]]

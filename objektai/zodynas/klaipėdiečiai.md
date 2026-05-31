@@ -45,4 +45,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
+- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/klaipėdiečiai klaipėdiškiai]]

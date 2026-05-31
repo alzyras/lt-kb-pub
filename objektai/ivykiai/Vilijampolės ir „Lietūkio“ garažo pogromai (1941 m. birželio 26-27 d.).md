@@ -60,4 +60,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]

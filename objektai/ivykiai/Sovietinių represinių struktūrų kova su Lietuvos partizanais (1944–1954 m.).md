@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1944 m.'
+  - '1945 m.'
+  - '1946 m.'
+  - '1954 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1944'
+date_end: '1954'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -44,6 +56,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,10 +98,37 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dislo-
+    kuoti visuose valsčiuo-
+    se jie saugojo sovietinį
+    aktyvą.
+    Represinės instituci-
+    jos, slopindamos parti-
+    zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
+    šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę
+    prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
+    miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
+    čia užkasdavo pelkėse ar šiukšlynuose. MGB-KGB agentai smogikai nau-
+    dojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti,
+    kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
+    vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/MGB-KGB agentai smogikai]]
 - [[objektai/grupes/NKGB]]
 - [[objektai/grupes/NKVD]]
+- [[objektai/zodynas/agentai smogikai]]
 - [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]

@@ -44,6 +44,10 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Tautų Sąjunga]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
 - [[objektai/zodynas/akcijos]]

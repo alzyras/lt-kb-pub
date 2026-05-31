@@ -60,4 +60,9 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bartai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/ivykiai/1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva]]
+- [[objektai/asmenys/Augustas II]]
+- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
 - [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
+- [[objektai/grupes/Pagudėnai]]

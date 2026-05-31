@@ -104,3 +104,12 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/daiktai/Noragai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Nomadžiai|nomadžiai]]
+- [[objektai/zodynas/storasta]]
+- [[objektai/zodynas/Šaldros|šaldros]]

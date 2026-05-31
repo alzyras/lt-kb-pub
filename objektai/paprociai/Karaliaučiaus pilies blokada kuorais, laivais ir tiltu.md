@@ -191,5 +191,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Kuorai]]
 - [[objektai/daiktai/Laivai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kuoras propugnaculum pilaitė]]

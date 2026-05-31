@@ -149,5 +149,18 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Unitai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
+- [[objektai/daiktai/Mūro sienos]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
 - [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]
+- [[objektai/grupes/Vilniaus Romos katalikai]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]

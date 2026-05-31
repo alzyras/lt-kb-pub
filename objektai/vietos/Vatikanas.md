@@ -8,13 +8,14 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1927 m.'
+  - '1925 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
 date_start: '1927'
-date_end: ''
+date_end: '1927'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -43,7 +44,14 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   teiginys: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos sudarymo ir konkordato su Vatikanu klausimus.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises nepabaigtame ginče su Lenkija.'
@@ -93,3 +101,37 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Todėl, užmezgus oficialinius santykius su Vatikanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lietuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuotasis Vilniaus kraštas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl, užmezgus oficialinius santykius su Vati-
+    kanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lie-
+    tuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuo-
+    tasis Vilniaus kraštas. Tačiau Vatikanas 1925 metais sudarė
+    konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises
+    nepabaigtame ginče su Lenkija. Vyriausybė protestavo prieš
+    tokį Vatikano elgesį, kurio negalima buvo laikyti bešališku, ir
+    dėl to santykiai su Vatikanu nutrūko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos sudarymo ir konkordato su Vatikanu klausimus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
+    darymo ir konkordato su Vatikanu klausimus. Vyriausybei derantis su
+    Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis de-
+    mokratus išsižadant Seinų ir Vilniaus vyskupijų. Tik A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -37,6 +43,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,8 +66,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Stiprėjo Lietuvos žaliųjų
+    judėjimas.
+    LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
+    lankymas Lietuvoje rugpjūčio 11–12 dienomis. LKP vadovybei Aleksan-
+    dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
+    partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-
+    aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
+    parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
+    leisti laikraštį ir nuolatinę televizijos laidą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos žaliųjų judėjimas]]
 - [[objektai/asmenys/Aleksandras Jakovlevas]]
+- [[objektai/daiktai/Lietuvos trispalvė]]
 - [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“]]

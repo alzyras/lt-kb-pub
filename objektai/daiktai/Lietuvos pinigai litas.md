@@ -58,10 +58,8 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/zodynas/litas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Valiutų valdybos modelio pradėjimas ir lito susiejimas su JAV doleriu (1994 m. kovo 1 d.)]]
 - [[objektai/zodynas/Valiutų valdybos modelis]]

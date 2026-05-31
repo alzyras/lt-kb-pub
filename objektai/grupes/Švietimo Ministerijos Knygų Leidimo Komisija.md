@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1936'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -31,6 +40,10 @@ tags:
   pagrindžia:
     - c-005
     - c-004
+- t-004
+  teiginys: 'Š A P О K А]] ŠVIETIMO MINISTERIJOS KNYGŲ LEIDIMO KOMISIJOS LEIDINYS KAUNAS 1936 M.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,3 +95,25 @@ tags:
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
+- c-006
+  santrauka: 'Š A P О K А]] ŠVIETIMO MINISTERIJOS KNYGŲ LEIDIMO KOMISIJOS LEIDINYS KAUNAS 1936 M.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Šapoka|A. Š A P О K А]]
+
+    **ŠVIETIMO MINISTERIJOS KNYGŲ**
+
+    **LEIDIMO KOMISIJOS LEIDINYS**
+
+    **KAUNAS 1936 M.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/J. Tonkūnas|J. Tonkūnas (švietimo ministeris)]]

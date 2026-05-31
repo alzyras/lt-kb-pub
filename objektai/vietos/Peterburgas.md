@@ -10,7 +10,9 @@ datos:
   - '1792 m.'
   - '1840 m.'
   - '1868 m.'
+  - '1905 m.'
   - '1910 m.'
+  - '1917 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -20,7 +22,7 @@ amziai:
   - 'XIX'
   - 'XX'
 date_start: '1792'
-date_end: '1910'
+date_end: '1917'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -92,7 +94,14 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginys: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
   pagrindžia:
     - c-010
-
+- t-011
+  teiginys: 'Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės autonomijos Lietuvai suteikimo.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsisklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susiformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į.'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus.'
@@ -233,3 +242,42 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės autonomijos Lietuvai suteikimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pavasarį ka-
+    zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
+    Žinoma, Peterburge niekas rimtai nesvarstė rezoliucijos dėl politinės au-
+    tonomijos Lietuvai suteikimo.
+    Lietuva po 1905-ųjų – kultūrinė kova
+    Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-
+    sa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Vals-
+    tybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi
+    įstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas
+    liko caro rankose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsisklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susiformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ateities klausimų svarstymas apėmė svarbiausius lietuvių telkinius.
+    Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
+    sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
+    formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos,
+    gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija,
+    caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
+    tiškai jie skilo: kai 1917 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012

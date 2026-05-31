@@ -65,6 +65,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Laikinoji Lenkijos vyriausybė Lietuvoje]]

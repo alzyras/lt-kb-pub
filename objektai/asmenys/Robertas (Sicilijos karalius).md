@@ -56,6 +56,8 @@ Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brol
 ### Susiję objektai
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Tauro apygarda]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
 - [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]
 - [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]

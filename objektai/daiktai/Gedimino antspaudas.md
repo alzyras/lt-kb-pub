@@ -10,19 +10,21 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 bukle: juodrastis
 laikotarpis: '1323 m. Gedimino laiškų kontekstas'
-datos:
-  - '1323 m. gegužės 26 d.'
-  - '1323 m.'
-periodas: viduramziai
-periodo_grupes:
-  - LDK
-amziai:
-  - XIV
-date_start: '1323'
-date_end: '1323'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1323 m.'
+  - '1966 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+  - 'XX a.'
+amziai:
+  - 'XIV'
+  - 'XX'
+date_start: '1323'
+date_end: '1966'
 patikimumas: vidutinis
 atnaujinta: '2026-05-27'
 tags:
@@ -67,6 +69,18 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'' ■^la ir toliau cit.'
+  pagrindžia:
+    - c-002
+- t-004
+  teiginys: 'Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­ vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­ mo vertus vyrus; mes, be savo parašo ir be šio savo laiško, sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­ mingai prižadame.'
+  pagrindžia:
+    - c-003
+- t-005
+  teiginys: 'To [rašto] paliudijimui laikėme reikalingu dalyku pridė­ ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­ tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -95,6 +109,109 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­ dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis, • - 55 C'' ■^la ir toliau cit.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
+    dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad
+    užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,
+    •  -
+    55
+    C' ■^la ir toliau cit. pagal Gedimino laiš­
+    kai, parengė V. Pašuta ir I. Štai, [vertė
+    M- Ročka], Vilnius, Mintis, 1966.
+
+    ## Puslapis 72
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Saxonie ultra mittatur quanto prius vt dei gratia (f) perficiat
+    quod incepit. Datum anno DniM.CCCXXIII ipso die corpo­
+    ris X-ti, va lete. 2
+    2) Gedeminne dei gratia Letpbanorum Rutbenorumque
+    rex princeps et dux Semigallie Honorabilibus viris prouidis et
+    bonestis advocatis consulibus civibusque Lubecens. Rostob-
+    cens. Sundens. Gripeswaldens. Stetynens. Gotlandieve mer­
+    catoribus et mecbanicis cuiuscunque conditionis. Sai. et re­
+    galem gratiam et fauorem. Cum omnia regna subiacent celesti
+    regi Jesu Cbristo de quibus unum tenemus tanquam forma in
+    materia vėl servus in domo, licet omnium regum minimus
+    apparemus, tamen dei prouidentia in populis maximis (a) in
+    quibus babemus precipere et imperare (b) perdere et saluare,
+    claudere et reseruare (c) iam dudum nostros terminos tran-
+    smistis (d) absque ulla recognitione visitando. Noygardiam,
+    Pleskowiamque (e) omnia permisimus futurum proprium (f)
+    bonum nunc vidistis et a me (g) percipitis de die in diem om­
+    nium vestrorum detrimentum miserunt progenitores nostri
+    56
+
+    ## Puslapis 73
+
+    I  KNYGA
+    tačiau prie šio rašto mes pridedame tą patį antspaudą, pa­
+    našiai kaip liepėme pridėti šį antspaudą prie laiško didžiai
+    mylimam viešpačiui apaštališkajam tėvui didesniam jo pa­
+    tikimumui ir sutvirtinimui, nes pirmiau geležis pasikeis į
+    vašką ir vanduo pavirs plienu, negu mes atšauksime mūsų
+    ištartą žodį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-003
+  santrauka: 'Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­ vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­ mo vertus vyrus; mes, be savo parašo ir be šio savo laiško, sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­ mingai prižadame.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jei jie [se­
+    noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­
+    gubai padarysime ir dar daugiau, nes mes pasiuntėme mū­
+    sų laišką mūsų tėvui, šventajam viešpačiui popiežiui dėl
+    susivienijimo su dievo bažnyčia ir su neapsakomu nekan­
+    trumu laukiame jo pasiuntinių atvykimo; jų saugiu buvimu
+    pas mus rūpintis esame mes raštu prižadėję.
+    Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
+    vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­
+    mo vertus vyrus; mes, be savo parašo ir be šio savo laiško,
+    sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­
+    mingai prižadame jums visiems, kad nustatysime tokią tar­
+    pusavio taiką, apie kokią krikščionys niekados nė negalvojo.
+    Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­
+    nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,
+    [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­
+    daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]
+    sielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­
+    do dvasininkus; patariame kiekvienam valdovui pasisaugoti
+    tokių vienuolių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-004
+  santrauka: 'To [rašto] paliudijimui laikėme reikalingu dalyku pridė­ ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­ tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šį raštą mes laikysime nekeičiamu, nes mūsų žodis liks
+    tvirtas kaip plienas.
+    To [rašto] paliudijimui laikėme reikalingu dalyku pridė­
+    ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­
+    tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį
+    kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.
+    Šio antspaudo niekintojus ir teksto klastotojus šiuo laiš­
+    ku skelbiame tikėjimo persekiotojais, piktais ir klastingais
+    eretikais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -102,7 +219,16 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/autoriai/V. Pašuta]]
+- [[objektai/daiktai/Vaškas]]
+- [[objektai/zodynas/Notariats instrument notarinis instrumentas]]
+- [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]
+- [[objektai/posakiai/Pirma geležis į vašką, o vanduo į plieną pavirs]]
+- [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]

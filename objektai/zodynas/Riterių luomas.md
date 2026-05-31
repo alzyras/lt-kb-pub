@@ -11,15 +11,15 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-27'
 tags: []
@@ -55,7 +55,10 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Visuotinai sutelkus dėmesį į Šven­ tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­ formuotas riterių luomas - pati garbingiausioji viduramžių institucija.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata susieja riterių luomą su Kryžiaus karų poveikiu ir feodalizmo piktnaudžiavimo sutramdymu.
@@ -78,9 +81,29 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Visuotinai sutelkus dėmesį į Šven­ tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­ formuotas riterių luomas - pati garbingiausioji viduramžių institucija.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jų įtaka
+    mūsuose ir Rytuose buvo neapsakoma, o pasekmės davė žmo­
+    nijai kuo didžiausios naudos. Visuotinai sutelkus dėmesį į Šven­
+    tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio
+    feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­
+    formuotas riterių luomas - pati garbingiausioji viduramžių
+    institucija. Tuo metu imtasi užmestos laivininkystės, iš Rytų plito
+    mokslai ir masino prekyba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/luomas]]
+- [[objektai/ivykiai/Kryžiaus karai]]

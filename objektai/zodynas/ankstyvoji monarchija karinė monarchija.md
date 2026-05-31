@@ -67,6 +67,8 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/posakiai/Rex Lethowye]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/karyba]]

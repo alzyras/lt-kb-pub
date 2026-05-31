@@ -46,3 +46,4 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
 ### Susiję objektai
 - [[objektai/zodynas/vadybos]]
 - [[objektai/grupes/Voldemarininkai]]
+- [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]

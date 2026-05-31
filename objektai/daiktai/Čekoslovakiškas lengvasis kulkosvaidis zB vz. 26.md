@@ -64,3 +64,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Pistoletas]]
+- [[objektai/daiktai/Vokiškas pistoletas Walther P38]]

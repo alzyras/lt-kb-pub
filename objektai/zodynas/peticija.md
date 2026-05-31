@@ -106,5 +106,9 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/ES pilietis]]
 - [[objektai/grupes/Europos Parlamentas]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
+- [[objektai/ivykiai/Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)]]

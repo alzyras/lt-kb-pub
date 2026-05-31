@@ -186,3 +186,18 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/daiktai/Balti vilnoniai marškiniai]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Nuometai]]
+- [[objektai/daiktai/Ragotinė]]
+- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
+- [[objektai/zodynas/Marčelga|marčelga]]
+- [[objektai/zodynas/Sūdas|sūdas]]
+- [[objektai/zodynas/Ūkės vilkėja|ūkės vilkėja]]
+- [[objektai/zodynas/Kilimas|kilimas]]
+- [[objektai/daiktai/Kilimas]]

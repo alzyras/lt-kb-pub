@@ -31,6 +31,10 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   teiginys: 'Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui, Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui, Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių pasiuntinių prašomas, jį paskyrė Prūsijos ir Livonijos brolių magistru 1279.'
@@ -47,10 +51,30 @@ Dusburgietis teigia, kad mirus broliui Konradui iš Tirbergo, Prūsijos žemės 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+
+       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Konradas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Eilardas iš Bergeno (Revelio žemės viršininkas)]]
 - [[objektai/grupes/Liaudies vyriausybė]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

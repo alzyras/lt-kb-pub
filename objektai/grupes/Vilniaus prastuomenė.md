@@ -9,19 +9,20 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "apie 1345 m.; 1341 m. pagal Grzybowskio pasakojimą"
-datos:
-  - "apie 1345 m."
-  - "1341 m."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIV"
-date_start: "1341"
-date_end: "1345"
 vaidmenys:
   - "miesto socialinis sluoksnis"
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1341 m.'
+  - '1345 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1341'
+date_end: '1345'
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-27'
 tags: []
@@ -54,7 +55,10 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Atsargiai formuluojamas prastuomenės vaidmuo apie 1345 m. smurto epizode.
@@ -107,16 +111,54 @@ Vilniaus miesto žemesnis socialinis sluoksnis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Grzybowski  s, pranciško­
+    nas, anksčiau nurodytoje knygoje
+    (8 p.) sako, kad Goštautas pranciš­
+    konu tapęs Krokuvoje, o paskui ap­
+    sigyvenęs Vilniuje, savo įkurtame
+    vienuolyne, Vilniaus miestiečius
+    vertęs į Kristaus tikėjimą. Tačiau
+    pastarieji 1341 metais, į Vilnių atvy­
+    kus totoriams, pažadėjusiems pagal­
+    bą Algirdui kažkokiame žygyje,
+    šiuos pagonis sukurstė pulti pran­
+    ciškonus ir kartu su jais užpuolę
+    naują vienuolyną, visus 36 vienuo­
+    lius ir su jais sykiu Goštautą nukan­
+    kino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/autoriai/Grzybowski]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
-- [[objektai/posakiai/savo užantyje maitinti gyvatę]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
+- [[objektai/posakiai/savo užantyje maitinti gyvatę]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/asmenys/Boucicaut]]
+- [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/autoriai/J. Dlugošas Długosz]]
+- [[objektai/posakiai/Menko grobio ir tuščios garbės pasigviešę]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/zodynas/Puslapis 67]]
+- [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]
+- [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
+- [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]
+- [[objektai/daiktai/Šalmas „Pappenheimer“]]
+- [[objektai/grupes/Žemaičiai]]

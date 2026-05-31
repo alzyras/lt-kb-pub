@@ -79,5 +79,15 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Butautas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
 - [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]
+- [[objektai/autoriai/J. Fijałek]]
+- [[objektai/asmenys/Vinrichas fon Kniprodė]]

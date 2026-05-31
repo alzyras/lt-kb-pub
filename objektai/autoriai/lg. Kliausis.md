@@ -52,5 +52,7 @@ Kliausis, lg.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/diecezija]]
 - [[objektai/autoriai/Kliausis, lg]]

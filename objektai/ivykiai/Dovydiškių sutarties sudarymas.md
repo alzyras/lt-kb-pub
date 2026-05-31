@@ -199,6 +199,15 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vaidotas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

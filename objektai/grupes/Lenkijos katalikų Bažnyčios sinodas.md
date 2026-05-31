@@ -49,9 +49,6 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Protestantai]]
 - [[objektai/zodynas/konfederacija]]

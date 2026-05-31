@@ -106,7 +106,6 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Bertoldas (pranciškonas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Zigfridas iš Foichtvangeno]]

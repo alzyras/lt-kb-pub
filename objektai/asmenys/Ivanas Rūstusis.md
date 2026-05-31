@@ -44,4 +44,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/pradai]]
+- [[objektai/zodynas/unija]]
+- [[objektai/posakiai/„Čia nebus Lenkijos“]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
+- [[objektai/zodynas/lenkų pradų naikinimo politika]]

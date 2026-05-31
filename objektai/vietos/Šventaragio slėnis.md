@@ -68,6 +68,34 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   teiginys: 'Šventaragio slėnyje tarp Vilijos ir Vilnelės degė lietuvių garbinta amžinoji ugnis Gabija.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, slėnyje, kur nuo senovės augo ąžuolai, kur dabar stovi katedra, iki krikščioniškojo tikėjimo įvedimo ir visą epochą gal iki Gedimino, degė amžinoji ugnis, vadinta Gabija, - die­ vaičio.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tas slėnis, vadintas Šventaragio, buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degin­ davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­ kimu tarnu, šunimis ir žirgu.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Many­ čiau, kad Šventaragiu buvo vadina­ ma nuo lietuviškų žodžių Šventas Ragas - altorius, ir kartu turėjo var­ dą Swiaty-roh - nuo rusiško pavadi­ nimo šventas ragas, mat tas slėnis baigėsi tarsi žemės pleištu tarp Vili­ jos ir Vilnios upių kyšulyje [rog.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo Trakų, kur Vilnios upė įteka į Viliją.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -248,3 +276,170 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, slėnyje, kur nuo senovės augo ąžuolai, kur dabar stovi katedra, iki krikščioniškojo tikėjimo įvedimo ir visą epochą gal iki Gedimino, degė amžinoji ugnis, vadinta Gabija, - die­ vaičio.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Čia buvo
+    pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
+    išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios
+    palei krantą pažemiais tęsėsi trobelės iki pat Vilijos. Ties ta
+    puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­
+    tų, slėnyje, kur nuo senovės augo ąžuolai, kur dabar stovi
+    katedra, iki krikščioniškojo tikėjimo įvedimo ir visą epochą
+    gal iki Gedimino, degė amžinoji ugnis, vadinta Gabija, - die­
+    vaičio Perkūno garbei. Ją saugojo ir kurstė žyniai, o jų vy­
+    riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
+    mosi metu gal buvo paprastų ir laisvų žmonių vienas vadų
+    ir patriarchų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Tas slėnis, vadintas Šventaragio, buvo skirtas aukurui, ant kurio pagal lietuvių pagonių papročius degin­ davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­ kimu tarnu, šunimis ir žirgu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ją saugojo ir kurstė žyniai, o jų vy­
+    riausiasis Krivių Krivaitis buvo pranašas, o Lietuvos kūri­
+    mosi metu gal buvo paprastų ir laisvų žmonių vienas vadų
+    ir patriarchų. Tas slėnis, vadintas Šventaragio, buvo skirtas
+    aukurui, ant kurio pagal lietuvių pagonių papročius degin­
+    davo mirusiųjų kūnus; ant jų ne kartą iškilmingai būdavo
+    atiduoti ugniai Lietuvos kunigaikščių palaikai kartu su išti­
+    kimu tarnu, šunimis ir žirgu, išbandytu mūšiuose7. Tad ga-
+    6
+    Sklido seniau tarp žmonių tokia le­
+    genda apie medinę pilį, kuri labai gi­
+    lioje senovėje stūksojusi prie Vilnios
+    upės, ant kalvos, kur dabar yra Kū­
+    dikėlio Jėzaus ligoninė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Many­ čiau, kad Šventaragiu buvo vadina­ ma nuo lietuviškų žodžių Šventas Ragas - altorius, ir kartu turėjo var­ dą Swiaty-roh - nuo rusiško pavadi­ nimo šventas ragas, mat tas slėnis baigėsi tarsi žemės pleištu tarp Vili­ jos ir Vilnios upių kyšulyje [rog.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Betgi lie­
+    tuviai nemokėjo lotyniškai. Many­
+    čiau, kad Šventaragiu buvo vadina­
+    ma nuo lietuviškų žodžių Šventas
+    Ragas - altorius, ir kartu turėjo var­
+    dą Swiaty-roh - nuo rusiško pavadi­
+    nimo šventas ragas, mat tas slėnis
+    baigėsi tarsi žemės pleištu tarp Vili­
+    jos ir Vilnios upių kyšulyje [rog ru­
+    sų tarmėse - kyšulys, vert.], kur kiek
+    tolėliau nuo Perkūno šventyklos se­
+    novėje, dar iki Gedimino, būdavo
+    laidojami mirusiųjų pelenai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­ dangino su visu guotu į Šventaragio slėnį, už keturių mylių nuo Trakų, kur Vilnios upė įteka į Viliją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją. „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taigi ta vietovė, žinia, jei ji buvo parinkta to­
+    kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
+    ta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne
+    nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,
+    į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti
+    prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus
+    lydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­
+    liau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­
+    je, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­
+    vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės,
+    krantus nusidriekusią ir medinės pilies saugomą. Pagaliau
+    visas tas aplinkinis kraštas, kuriame yra Vilnius, kaip nuo
+    Rusios sienų netoli esantis, jau labai seniai turėjo būti apgy­
+    vendintas, ką liudija tokios tankiai gyvenamos vietovės ir
+    pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
+    mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Reikš­ mingiausia jos dalis buvo šventasis Šventaragio slėnis,'' rėpian­ tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija, didžiai garbinama lietuvių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja. Reikš­
+    mingiausia jos dalis buvo šventasis Šventaragio slėnis,' rėpian­
+    tis pleištu įsiterpusią lanką tarp Vilijos ir Vilnelės, nuo senų
+    senovės apaugęs ąžuolais; ten degė amžinoji ugnis - Gabija,
+    didžiai garbinama lietuvių. Čia pat medinė šventykla, prie
+    kurios šliejosi pagonių vaidilų būstai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Mergelės šventė (IX.8) 374
+    Šventaragio slėnys 244
+    Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015

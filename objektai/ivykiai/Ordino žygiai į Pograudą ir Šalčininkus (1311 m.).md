@@ -102,3 +102,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/komtūras]]

@@ -59,4 +59,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę]]
+- [[objektai/paprociai/Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas]]
 - [[objektai/zodynas/Žuvusių karių kultas]]

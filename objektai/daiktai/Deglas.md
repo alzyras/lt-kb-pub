@@ -9,18 +9,19 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "1383 m. Vilniaus puolimo kontekstas"
-datos:
-  - "1383 m."
-periodas: viduramziai
-periodo_grupes:
-  - LDK
-amziai:
-  - XIV
-date_start: "1383"
-date_end: "1383"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1383 m.'
+  - '1384 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1383'
+date_end: '1384'
 patikimumas: aukštas
 atnaujinta: '2026-05-27'
 tags: []
@@ -53,6 +54,10 @@ Nenurodyta
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tačiau mūšio metu į me­ dinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį didelę Vilniaus dalį pasiglemžė ugnis.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,12 +77,43 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tačiau mūšio metu į me­ dinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį didelę Vilniaus dalį pasiglemžė ugnis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jurgio vėliava puolė į mūšį Ordino
+    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
+    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis. Tas pašėlęs
+    lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­
+    metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­
+    tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių
+    netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­
+    vo Kernavę, bet lemtinga Jogailos ir Skirgailos pergalė prieš
+    Ragainės komtūrą, laimėta tarp Vilniaus ir Ukmergės, ir vi­
+    siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
+    sostinę nuo puolimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karo-reikmuo]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/daiktai/Šv. Jurgio vėliava]]
+- [[objektai/asmenys/Albertas iš Meiseno]]
+- [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai Lietuvos kariuomenė]]
+- [[objektai/daiktai/Mediniai miesto namai]]
 - [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]
+- [[objektai/paprociai/Vakarų riterių stojimas po kryžiaus ženklu į Ordino žygius]]
+- [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]

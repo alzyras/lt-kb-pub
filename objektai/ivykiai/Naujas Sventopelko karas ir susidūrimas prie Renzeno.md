@@ -102,4 +102,6 @@ Nenurodyta
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Sventopelkas]]

@@ -96,3 +96,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dvasininkas]]
+
+### Susiję objektai
+- [[objektai/grupes/Totoriai]]

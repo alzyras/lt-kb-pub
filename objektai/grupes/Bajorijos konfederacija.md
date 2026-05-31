@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -25,7 +31,10 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Bet bajorija į laikinę vyriausybę žiūrėjo, kaip į valstybės užuomazgą, ir, entuziazmo pagauta, ėmė rūpintis atnaujinti unijos ryšius su Lenkija.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.'
@@ -45,6 +54,24 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Bet bajorija į laikinę vyriausybę žiūrėjo, kaip į valstybės užuomazgą, ir, entuziazmo pagauta, ėmė rūpintis atnaujinti unijos ryšius su Lenkija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet bajorija į laikinę vy-
+    riausybę žiūrėjo, kaip į valstybės užuomazgą, ir, entuziazmo pa-
+    gauta, ėmė rūpintis atnaujinti unijos ryšius su Lenkija. Kaip
+    tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri
+    skelbėsi norinti sujungti į vieną kūną visas buvusios Respubli-
+    kos žemes ir visus kvietė į bendrą darbą. Tą pakvietimą ypač
+    karštai sutiko Vilniaus universiteto jaunuomenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

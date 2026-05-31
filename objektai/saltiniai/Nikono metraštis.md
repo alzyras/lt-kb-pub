@@ -58,6 +58,10 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   teiginys: 'Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.'
   pagrindžia:
     - c-003
+- t-005
+  teiginys: 'Nors Voskresensko Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­ tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra apie Gedimino kilmę, mat rašė vos vienam amžiui.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -113,6 +117,30 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-004
+  santrauka: 'Nors Voskresensko Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­ tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra apie Gedimino kilmę, mat rašė vos vienam amžiui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ar ga­
+    lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką
+    vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
+    Vytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko
+    Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip
+    rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­
+    tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra
+    apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­
+    jus po Jogailos. Tačiau atsižvelgdami į tai, jog jis tikriausiai
+    buvo vienuolis, menkai nutuokęs apie jam svetimo krašto
+    praeitį, tik fragmentiškai aprašęs įvykius Rusioje, - neturė­
+    tume stebėtis, kad jis viską tempė ant savo kurpalio ir, ko
+    nebuvo matęs, tą pats prikūrė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Bibliografiniai įrodymai
 - c-001

@@ -130,3 +130,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Taurės]]
+- [[objektai/daiktai/Noragai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/storasta]]
+- [[objektai/zodynas/Šaldros|šaldros]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
+- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]

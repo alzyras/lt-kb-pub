@@ -8,6 +8,15 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1418 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1418'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -47,6 +56,22 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Kai Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­ džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­ lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­ dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono Algimantaičio.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva butų pakrikštyta lotynų apeigomis.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -125,10 +150,109 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Kai Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­ džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­ lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­ dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono Algimantaičio.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    149
+
+    ## Puslapis 166
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­
+    gailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­
+    sinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo
+    dovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai
+    Vilniuje (1418 m.) mirė Vytauto žmona Ona, kuri kadaise di­
+    džiausios pagarbos vertu pasišventimu jį iš Krėvos pilies ka­
+    lėjimo didvyriškai išvadavo73, didysis kunigaikštis nuspren­
+    dė vesti jos dukterėčią Julijoną, Alšėnų kunigaikščio Jono
+    Algimantaičio dukterį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ,
+    po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
+    lono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
+    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos. Ordi­
+    nas gi pasižadėjo duoti Jogailai per tuos 4 met.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Remiantis Torno analų žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva butų pakrikštyta lotynų apeigomis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    pavasarį bus žinojęs apie projektus kviesti jį
+    Lenkijos karaliumi ir sutuokti su Jadvyga. Remiantis Torno analų
+    žinia, dar gali būti samprotaujama, kad Jogaila atsisakė judintis
+    pas magistrą įtakoje Julijonos^21 , kuri galėjo nenorėti, kad Lietuva
+    butų pakrikštyta lotynų apeigomis.
+    Į karo stovį patekus kryžiuočių su Jogaila santykiams, ordinas
+    turėjo labiau susidomėti Vytautu ir jį palaikyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/asmenys/Kazimieras IV]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/posakiai/nei žemės, nei žmonių]]
+- [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
 - [[objektai/asmenys/Vyguntas]]
+- [[objektai/asmenys/Vladislovas Jogaila]]

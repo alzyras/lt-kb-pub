@@ -59,4 +59,5 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
 - [[objektai/grupes/Lietuvos žaliųjų judėjimas]]

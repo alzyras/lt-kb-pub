@@ -63,4 +63,5 @@ Skorupskio vadovaujamai kolonai (1-ojo pėst.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/brigada]]
 - [[objektai/zodynas/husarai]]

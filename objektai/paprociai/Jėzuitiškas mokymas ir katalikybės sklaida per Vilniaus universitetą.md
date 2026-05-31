@@ -108,3 +108,6 @@ Nenurodyta
 - [[objektai/asmenys/Martynas iš Golino]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/barokas]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

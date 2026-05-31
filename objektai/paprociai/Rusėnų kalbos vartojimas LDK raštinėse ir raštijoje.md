@@ -72,4 +72,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/grupes/Rusėnai]]
+- [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
+- [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]

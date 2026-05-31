@@ -10,6 +10,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -58,6 +64,10 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   teiginys: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Daumantas į Sinajaus kalną ir pakrikš­ tija vardan Tėvo ir Sūnaus ir Švento­ sios Dvasios ir mokosi iš šventųjų knygų ir nusikerpa pagal vienuoliš­ ką stotą Šventajame kalne ir, prabu­ vęs Šventajame kalne trejus metus, ir pareina į savo žemę ir grįžta iš Sina­ jaus kalno pas savo tėvą kunigaikštį Mindaugą ir įkuria sau vienuolyną.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -174,7 +184,65 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Daumantas į Sinajaus kalną ir pakrikš­ tija vardan Tėvo ir Sūnaus ir Švento­ sios Dvasios ir mokosi iš šventųjų knygų ir nusikerpa pagal vienuoliš­ ką stotą Šventajame kalne ir, prabu­ vęs Šventajame kalne trejus metus, ir pareina į savo žemę ir grįžta iš Sina­ jaus kalno pas savo tėvą kunigaikštį Mindaugą ir įkuria sau vienuolyną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir Vilnia
+    [Vilnius] buvo priverstas duoti
+    duoklę Ugrų karaliui (tikriausiai Ha­
+    ličo) už saugojimą nuo didžiojo ku­
+    nigaikščio Mstislavo Rogvoldovi-
+    čiaus. Ir vilniečiai paėmę sau iš
+    Cargrado [Konstantinopolio] Poloc­
+    ko kunigaikščio Rostislavo Rogvol-
+    dovičiaus vaikus - kunigaikštį Do-
+    vilą ir jo brolį kunigaikštį Maukoldą
+    ir tai pirmasis Vilniuje kunigaikštis
+    Dovilas, didysis Maukoldo brolis, o
+    jo vaikai: Vidas, kurį žmonės Vilku
+    vadino, ir Erdenas kunigaikštis, o Er-
+    denas sūnus pasikrikštijo, buvo val­
+    dovas Tvėrėje, kuris prieš Petrą, prieš
+    stebukladarį, neramumą sukėlė, va­
+    dino jį Andriejumi, rašė prieš stebuk­
+    ladarį melagingus žodžius, o Mau­
+    koldo sūnus Mindaugas, o Mindaugo
+    kunigaikščio vaikai: Višlegas (ar tik
+    ne vienuolis Vaišelga) ir Daumantas.
+    Tą patį Vaišelgą pasirenka viešpats
+    ir eina jis į Sinajaus kalną ir pakrikš­
+    tija vardan Tėvo ir Sūnaus ir Švento­
+    sios Dvasios ir mokosi iš šventųjų
+    knygų ir nusikerpa pagal vienuoliš­
+    ką stotą Šventajame kalne ir, prabu­
+    vęs Šventajame kalne trejus metus, ir
+    pareina į savo žemę ir grįžta iš Sina­
+    jaus kalno pas savo tėvą kunigaikštį
+    Mindaugą ir įkuria sau vienuolyną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lybiai]]
+- [[objektai/asmenys/Maukoldas]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Treniota]]
+- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
+- [[objektai/ivykiai/Durbės mūšis]]
+- [[objektai/ivykiai/Mindaugo nužudymas]]
+- [[objektai/grupes/Rogvoldovičiai]]

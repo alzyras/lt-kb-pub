@@ -3,13 +3,13 @@ tipas: zodyno_irasas
 pavadinimas: diarchija
 sukurta: '2026-05-05'
 variantai:
-  - dualizmu
-  - diarchija
-  - diarchiška sistema
-  - diarchinė sistema
+  - 'dualizmu'
+  - 'diarchija'
+  - 'diarchiška sistema'
+  - 'diarchinė sistema'
 aliases: []
 saltiniai:
-  - Vytautas Didysis 1350-1430 (1930 m.)
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
   - '1377 m.'
@@ -58,7 +58,14 @@ tags: []
   teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
   pagrindžia:
     - c-005
-
+- t-008
+  teiginys: 'Toks Lietu­ vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­ torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas (1377).'
+  pagrindžia:
+    - c-006
+- t-009
+  teiginys: 'Baigdami šį darbą norėtume dar išspręsti vieną klausimą, būtent, kas atsitiko su tuo Lietuvos valstybės valdymo dualiz­ mu^2 ), geriau diarchija^3 ), t.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Diarchija reiškė dviejų asmenų valdymo sistemą, susidariusią Algirdo ir Kęstučio valdymo laikais.'
@@ -143,12 +150,32 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-006
+  santrauka: 'Toks Lietu­ vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­ torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas (1377).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
+    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
+    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
+    (1377).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/posakiai/supremus dux]]
 - [[objektai/zodynas/Diarchijos sistema]]
+- [[objektai/autoriai/L. Kolankowski]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/supremus dux magnus dux]]
-- [[objektai/zodynas/feodalizmas]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]

@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1937 m.'
+  - '1940 m.'
+  - '1948 m.'
+  - '1951 m.'
+  - '1967 m.'
+  - '1977 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'XX a.'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1937'
+date_end: '1977'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -47,6 +62,10 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   teiginys: 'JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios organizacijos – Amerikos lietuvių taryba (ALT, įsteigta 1940 m.), Pasaulio lietuvių bendruomenė (PLB) (1951 m.) ir iš Europos persikėlęs Vyriausiasis Lietuvos išlaisvinimo komitetas.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 225 Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -133,3 +152,21 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 225 Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    225
+    Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti
+    savo požiūrį į dipukus. 1948 m. viduryje JAV Kongresas priėmė vadi-
+    namąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti
+    205 tūkst. dipukų (tarp jų – 40 proc. Baltijos valstybių ir Lenkijos pa-
+    bėgėlių bei tremtinių).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

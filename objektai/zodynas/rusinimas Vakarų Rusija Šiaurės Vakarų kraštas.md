@@ -68,3 +68,5 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/rusinimas]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]

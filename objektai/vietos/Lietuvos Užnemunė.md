@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1863 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1863'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -37,6 +46,10 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   teiginys: 'Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviškąją dalį, t.'
   pagrindžia:
     - c-004
+- t-006
+  teiginys: 'Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -89,3 +102,38 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '“ Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių tautinis sąjūdis prasidėjo iš naujo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių
+    tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
+    karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
+    nės krašto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Joje reikalauta suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu renkamą Seimą Vilniuje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Joje reikalauta
+    suteikti Lietuvai autonomiją, leisti turėti visuotinio balsavimo būdu ren-
+    kamą Seimą Vilniuje. Teritorija, kurioje ši autonomija veiktų, apibrėžta
+    kaip etnografinės lietuvių žemės, įskaitant Lenkijos karalystei priklausiu-
+    sią Užnemunę, arba Suvalkiją, ir tos žemės, kurios prie Vilniaus linksta.
+    Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
+    kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
+    kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

@@ -105,3 +105,4 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Kodrūnas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

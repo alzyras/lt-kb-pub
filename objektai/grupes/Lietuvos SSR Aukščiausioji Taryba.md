@@ -143,3 +143,35 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/J. Stalinas]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
+- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
+- [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
+- [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba|Lietuvos SSR liaudies komisarų taryba (institucija)]]
+- [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
+- [[objektai/daiktai/Lietuvos trispalvė]]
+- [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
+- [[objektai/autoriai/V. Kudirka]]
+- [[objektai/asmenys/Vincas Kudirka]]
+- [[objektai/zodynas/savanoriškumo kamufliažas]]
+- [[objektai/zodynas/suverenitetas suverenumas]]
+- [[objektai/zodynas/suverenumas suverenitetas]]

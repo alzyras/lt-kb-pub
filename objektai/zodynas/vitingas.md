@@ -50,4 +50,5 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]
 - [[objektai/zodynas/šeimyna familia domus]]

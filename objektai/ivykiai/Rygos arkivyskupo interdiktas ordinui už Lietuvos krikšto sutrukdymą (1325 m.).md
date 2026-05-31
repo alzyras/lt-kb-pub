@@ -71,6 +71,10 @@ Nenurodyta
   teiginys: 'Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­ darytoji taika.'
   pagrindžia:
     - c-004
+- t-007
+  teiginys: 'Avignone greičiausiai ne­ daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­ niškomis valstybėmis.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -129,7 +133,26 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-005
+  santrauka: 'Avignone greičiausiai ne­ daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­ niškomis valstybėmis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Avignone greičiausiai ne­
+    daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu
+    krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­
+    niškomis valstybėmis. Iš Avignono 1325 m. sugrįžęs Rygos arki­
+    vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]

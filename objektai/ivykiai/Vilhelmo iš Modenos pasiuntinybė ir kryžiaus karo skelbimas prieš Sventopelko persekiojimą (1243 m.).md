@@ -93,3 +93,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Vilhelmas]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Sventopelkas]]

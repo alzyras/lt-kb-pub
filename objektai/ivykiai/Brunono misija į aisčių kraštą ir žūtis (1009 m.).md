@@ -9,7 +9,7 @@ variantai:
   - 'Brunono Bonifaco misija į aisčių kraštą ir žūtis'
 aliases: []
 saltiniai:
-  - '[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1008 m. galas – 1009 m. vasario 14 d.'
 datos:
@@ -66,28 +66,28 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
     - c-005
     - c-004
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 - t-003
   teiginys: Brunonas žuvo jotvingų krašte ir buvo paskelbtas šventuoju kankiniu.
   pagrindžia:
     - c-003
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 - t-001
   teiginys: Boleslovas pažadėjo paramą Brunono misijai, o Brunonas 1008 m. gale išvyko iš Lenkijos į aisčių kraštą su 18 palydovų.
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
 - c-002
   santrauka: Tiesiogiai nurodo Brunono suėmimą ir nužudymą 1009 m. vasario 14 d.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet ir jo misijos
     nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
@@ -102,7 +102,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 
 - c-003
   santrauka: Nurodo žūties vietos kontekstą ir Brunono paskelbimą šventuoju kankiniu.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo
     jotvingų krašte. Jo ir palydovų lavonai taip pat buvo išpirkti
@@ -182,7 +182,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 
 - c-001
   santrauka: Nurodo Boleslovo paramą ir Brunono išvykimą iš Lenkijos su 18 palydovų.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau pas tą patį lenkų
     kunigaikštį Boleslovą atvyko naujas
@@ -205,3 +205,9 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Jotvingai]]
+- [[objektai/asmenys/Brunonas]]

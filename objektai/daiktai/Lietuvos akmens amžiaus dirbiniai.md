@@ -176,3 +176,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/daiktai/Ietys]]
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
+- [[objektai/zodynas/Adynos|adynos]]

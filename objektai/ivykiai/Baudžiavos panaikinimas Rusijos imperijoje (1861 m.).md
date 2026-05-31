@@ -134,3 +134,15 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras II]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/taikos suvažiavimai]]
+- [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
+- [[objektai/zodynas/ukazai]]

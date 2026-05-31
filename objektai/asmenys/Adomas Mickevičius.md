@@ -165,8 +165,22 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Herbas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Socialdemokratai]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/daiktai/Herbai]]
+- [[objektai/grupes/Jaunalietuviai]]
+- [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/grupes/Senalietuviai]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]
 - [[objektai/zodynas/senalietuviai jaunalietuviai]]
+- [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]

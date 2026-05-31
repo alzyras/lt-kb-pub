@@ -70,4 +70,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Ulrichas von Jungingenas]]

@@ -1,0 +1,67 @@
+---
+tipas: asmuo
+pavadinimas: 'S. Rozenbaumas'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1918'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - asmuo
+  - miestas
+---
+# S. Rozenbaumas
+
+## Santrauka
+
+Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.
+
+## Teiginiai
+- t-001
+  teiginys: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
+    Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Netu-
+    rinčią savo stiprios vadovaujančios vidurinės klasės, nedidelę lietuvių
+    inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
+    su sostine Vilniumi. Žydų miesto bendruomenės ir jų prekybos, finan-
+    sų pajėgų parama dar nelietuviškuose miestuose buvo svarbi ir vidaus,
+    ir užsienio politikos sumetimais. 1918 m. gruodį žydų sionistai Jokūbas
+    Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais atitin-
+    kamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų vi-
+    ceministras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/Antisemitizmas]]
+- [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]
+- [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]

@@ -60,4 +60,5 @@ Lietuva ir toliau buvo laikoma inkorporuota į Len­ kiją, bet faktiška padėt
 - [[temos/formulė]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

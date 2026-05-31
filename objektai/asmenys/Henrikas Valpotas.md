@@ -98,10 +98,10 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/asmenys/Saladinas]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/grupes/Teutonai]]

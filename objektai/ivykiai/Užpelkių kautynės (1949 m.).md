@@ -113,3 +113,18 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Juozas Paliūnas-Rytas]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/autoriai/Maironis]]
+- [[objektai/asmenys/Petras Bartkus-Žadgaila]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/asmenys/Laurynas Mingilas-Džiugas]]
+- [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
+- [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/ivykiai/Užpelkių kautynės]]

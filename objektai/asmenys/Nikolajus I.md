@@ -46,6 +46,10 @@ tags:
   teiginys: '1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: '1855 m., po caro Nikolajaus I mirties ir XII ## Puslapis 13 Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,3 +98,27 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '1855 m., po caro Nikolajaus I mirties ir XII ## Puslapis 13 Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ba­
+    linskis sutinka jaunystės draugus ir aktyviai įsitraukia į kultūri­
+    nį krašto gyvenimą. 1855 m., po caro Nikolajaus I mirties ir
+    XII
+
+    ## Puslapis 13
+
+    Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/kuratorius]]

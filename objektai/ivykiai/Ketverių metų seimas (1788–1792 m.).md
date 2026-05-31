@@ -7,6 +7,17 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1788 m.'
+  - '1791 m.'
+  - '1792 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1788'
+date_end: '1792'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -58,6 +69,10 @@ Nenurodyta
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-005
+  teiginys: '## Puslapis 145 LIETUVOS BRASTOS MŪŠIS 1792 Mūšio priešistorė Ketverių metų seimas (1788-1792) 1791 m. gegužės 3 d. priėmė ne tik konstituciją, bet ir daugelį kitų įstatymų, turėjusių reformuoti valstybę ir atsikratyti Rusijos protektorato.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -124,3 +139,37 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '## Puslapis 145 LIETUVOS BRASTOS MŪŠIS 1792 Mūšio priešistorė Ketverių metų seimas (1788-1792) 1791 m. gegužės 3 d. priėmė ne tik konstituciją, bet ir daugelį kitų įstatymų, turėjusių reformuoti valstybę ir atsikratyti Rusijos protektorato.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ## Puslapis 145
+
+    LIETUVOS BRASTOS MŪŠIS 1792
+
+    Mūšio priešistorė
+
+    Ketverių metų seimas (1788-1792) 1791 m.
+    gegužės 3 d. priėmė ne tik konstituciją, bet
+    ir daugelį kitų įstatymų, turėjusių refor-
+    muoti valstybę ir atsikratyti Rusijos protek-
+    torato. Tuo metu Rusija kariavo su Švedija
+    ir Turkija, todėl Abiejų Tautų Respublika
+    turėjo tam tikrą veiksmų laisvę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Ketverių metų seimas]]
+- [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/zodynas/elektorius]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

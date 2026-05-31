@@ -59,3 +59,4 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/tautinis atgimimas]]

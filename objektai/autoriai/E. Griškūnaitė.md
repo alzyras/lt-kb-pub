@@ -63,4 +63,5 @@ Griškūnaitė 121 , P.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Antspaudai]]
 - [[objektai/zodynas/gubernija]]

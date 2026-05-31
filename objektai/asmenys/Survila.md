@@ -37,6 +37,10 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
   teiginys: '1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,7 +80,32 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­ sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­ liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
+    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
+    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
+    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
+    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
+    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
+    tuvą21.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Butautas]]
+- [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]

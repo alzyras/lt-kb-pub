@@ -11,6 +11,12 @@ aliases:
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+laikotarpis: ''
+vaidmenys:
+  - 'kronikininkas'
+  - 'istorikas'
+dalyviai: []
+susije_irasai: []
 datos:
   - '1382 m.'
   - '1393 m.'
@@ -21,12 +27,6 @@ amziai:
   - 'XIV'
 date_start: '1382'
 date_end: '1393'
-laikotarpis: ''
-vaidmenys:
-  - 'kronikininkas'
-  - 'istorikas'
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
 sukurta: ''
 atnaujinta: ''
@@ -125,6 +125,30 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   teiginys: 'Dusburgietis teigia, kad stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa, 1846.'
   pagrindžia:
     - c-017
+- t-018
+  teiginys: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Nors Strijkovskis yra pasakęs, kad Gedimino pa­ laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi, žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­ mino kalne, manytume greičiau jį esant čia palaidotą.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: '6 „Buvo dar didžiulė menė, arba šventovė, Antakalnyje, visų dievų, kuriuos Lietuva, apgauta šėtoniš­ kų kerų, garbino; ten ketvirtadie­ nio vakarais dvasininkai visada statydavo ir degindavo vaško žva­ kes/'' Strijkovskis, Sk.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Martyno bažnyčia jau XVI am­ žiuje buvo apleista ir sugriauta: mi­ ni apie tai ir pats Strijkovskįs savo kronikoje, p. 479: „Dabar, kaip ma­ tome, sunyko ir sugriuvo, tiktai prie Plikojo kalno puikaus pastato ir su­ griuvusių skliautų žymės dunkso/'' 14 Ne tik.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: '22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Prie Kauno su jais susijungė, be Žemai- 23 Strijkovskis apsirinka nurody­ damas, esą Lankasteris, Anglijos ka­ raliaus Henriko sūnus, su didžiulė­ mis anglų, škotų bei prancūzų ir 1.1, pajėgomis įsibrovė į Lietuvą.'
+  pagrindžia:
+    - c-023
 
 ## Reikšmingi paminėjimai
 
@@ -510,3 +534,169 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-018
+  santrauka: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema. Istorinė tradicija (jai atstovauja
+    M. Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Nors Strijkovskis yra pasakęs, kad Gedimino pa­ laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi, žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­ mino kalne, manytume greičiau jį esant čia palaidotą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Gedimi­
+    nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno
+    Zunpacho, šaulių vado, ugninio šūvio, buvo sužeistas tarp
+    kaklo ir mentikaulio ir netrukus mirė, o jo kariauna buvo
+    išvaikyta*. Nors Strijkovskis yra pasakęs, kad Gedimino pa­
+    laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
+    žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­
+    mino kalne, manytume greičiau jį esant čia palaidotą. Rau­
+    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
+    Kai dėl rūšies ginklo, nuo kurio žuvo
+    Gediminas: Dlugošas Lib.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: '6 „Buvo dar didžiulė menė, arba šventovė, Antakalnyje, visų dievų, kuriuos Lietuva, apgauta šėtoniš­ kų kerų, garbino; ten ketvirtadie­ nio vakarais dvasininkai visada statydavo ir degindavo vaško žva­ kes/'' Strijkovskis, Sk.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    6
+    „Buvo dar didžiulė menė, arba
+    šventovė, Antakalnyje, visų dievų,
+    kuriuos Lietuva, apgauta šėtoniš­
+    kų kerų, garbino; ten ketvirtadie­
+    nio vakarais dvasininkai visada
+    statydavo ir degindavo vaško žva­
+    kes/' Strijkovskis, Sk. IV, p. 400.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Martyno bažnyčia jau XVI am­ žiuje buvo apleista ir sugriauta: mi­ ni apie tai ir pats Strijkovskįs savo kronikoje, p. 479: „Dabar, kaip ma­ tome, sunyko ir sugriuvo, tiktai prie Plikojo kalno puikaus pastato ir su­ griuvusių skliautų žymės dunkso/'' 14 Ne tik.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    13
+    Šv. Martyno bažnyčia jau XVI am­
+    žiuje buvo apleista ir sugriauta: mi­
+    ni apie tai ir pats Strijkovskįs savo
+    kronikoje, p. 479: „Dabar, kaip ma­
+    tome, sunyko ir sugriuvo, tiktai prie
+    Plikojo kalno puikaus pastato ir su­
+    griuvusių skliautų žymės dunkso/'
+    14
+    Ne tik Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: '22 Miechovita, Strijkovskis ir K o j e 1 a v i č i u s klysta sakyda­ mi, esą žygio vadovavimas buvo pa­ vestas Konradui Valenrodui, kurį jau tuo metu vadina didžiuoju ma­ gistru, kai Konradas Valenrodas 1382 metais, sekmadienį prieš Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    22
+    Miechovita, Strijkovskis
+    ir K o j e 1 a v i č i u s klysta sakyda­
+    mi, esą žygio vadovavimas buvo pa­
+    vestas Konradui Valenrodui, kurį
+    jau tuo metu vadina didžiuoju ma­
+    gistru, kai Konradas Valenrodas
+    1382 metais, sekmadienį prieš Šv.
+    Mykolą paskirtas Ordino didžiuoju
+    maršalu, 1387 metais per Apreiški­
+    mo Marijai šventę tapo didžiuoju
+    komtūru arba arkikomtūru, 1390
+    rugpjūčio 15 d., po didžiojo magistro
+    Konrado Ciolnerio fon Rotenšteino
+    mirties, - ir didžiojo magistro vieti­
+    ninku, iki pat kapitulos suvažiavi­
+    mo, ir tik 1391 m. kovo 12 d. išrink­
+    tas didž. magistru; mirė 1393 m.
+    liepos 25 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Prie Kauno su jais susijungė, be Žemai- 23 Strijkovskis apsirinka nurody­ damas, esą Lankasteris, Anglijos ka­ raliaus Henriko sūnus, su didžiulė­ mis anglų, škotų bei prancūzų ir 1.1, pajėgomis įsibrovė į Lietuvą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Prie Kauno su jais susijungė, be Žemai-
+    23
+    Strijkovskis apsirinka nurody­
+    damas, esą Lankasteris, Anglijos ka­
+    raliaus Henriko sūnus, su didžiulė­
+    mis anglų, škotų bei prancūzų ir 1.1,
+    pajėgomis įsibrovė į Lietuvą. Nebu­
+    vo apie 1390 metus jokio Henriko
+    Anglijos soste, o viešpatavo anuo
+    tarpu Ričardas II, ir prie Vilniaus bu­
+    vojo ne kas kitas, tik Henrikas Lan­
+    kasteris, pirm Derbio grafas, vėliau
+    žinomas kunigaikščio Herfordo var­
+    du, Jono de Gando, Lankasterio ku­
+    nigaikščio, Ričardo dėdės, sūnus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/asmenys/Ričardas (Kornvalijos grafas)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vaškas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/ulonai]]
+- [[objektai/grupes/Škotai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Motiejus]]
+- [[objektai/asmenys/Motiejus Strijkovskis]]
+- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/zodynas/Ordino maršalas didysis maršalas]]
+- [[objektai/zodynas/didysis komtūras arkikomtūras]]

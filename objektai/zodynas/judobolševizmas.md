@@ -45,5 +45,7 @@ Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido j
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/V. Krėvė-Mickevičius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„kovos su judobolševizmu“]]

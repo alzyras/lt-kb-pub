@@ -102,7 +102,6 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elžbieta]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vėliava]]
@@ -121,9 +120,11 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - [[objektai/asmenys/Henrikas (Jeruzalės karalius)]]
 - [[objektai/asmenys/Henrikas (Jeruzalės patriarchas)]]
 - [[objektai/asmenys/Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis)]]
+- [[objektai/asmenys/Henrikas VI]]
 - [[objektai/asmenys/Henrikas iš Kalendino]]
 - [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]
 - [[objektai/asmenys/Hugonas]]
+- [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/asmenys/Jonas iš Hibelino]]
 - [[objektai/asmenys/Konradas (Landsbergo markgrafas)]]
 - [[objektai/asmenys/Konradas (Mainco arkivyskupas)]]
@@ -132,4 +133,6 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - [[objektai/asmenys/Rudolfas (Tiberiados valdovas)]]
 - [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga]]
 - [[objektai/asmenys/Volfgeris]]
+- [[objektai/asmenys/Elžbieta]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

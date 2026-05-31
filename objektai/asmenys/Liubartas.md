@@ -10,6 +10,15 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1340 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1340'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -75,6 +84,14 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Taip pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­ ris vedė vienturtę Volynijos kunigaikščio įpėdinę.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­ mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­ nigaikščio.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -233,11 +250,57 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   pagrindžia:
     - t-009
     - t-010
+- c-011
+  santrauka: 'Taip pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­ ris vedė vienturtę Volynijos kunigaikščio įpėdinę.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Apskritai reikia pasakyti, kad gausingų savo
+    sūnų ir dukterų vedybomis Gediminas laimėjo gana daug. Jo
+    politikos sistemoje tai buvo vienas pagrindinis ramstis. Taip
+    pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
+    ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­ mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­ nigaikščio.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1340 met.
+    pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo
+    ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir
+    Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­
+    mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­
+    nigaikščio vienturtę dukterį^4 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Boleslovas-Jurgis II]]
+- [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/autoriai/J. Puzyna]]
 - [[objektai/grupes/Karijotaičiai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]

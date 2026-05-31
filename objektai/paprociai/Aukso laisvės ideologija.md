@@ -84,3 +84,9 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/posakiai/Respublika laikosi netvarka]]

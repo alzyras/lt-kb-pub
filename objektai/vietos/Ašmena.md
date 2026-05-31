@@ -11,6 +11,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+susije_irasai: []
 datos:
   - '1200 m.'
   - '1337 m.'
@@ -36,7 +37,6 @@ amziai:
   - 'XXI'
 date_start: '1200'
 date_end: '2026'
-susije_irasai: []
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -117,6 +117,38 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginys: 'Švitrigaila, remiamas Livonijos magistro ir totorių, vėl užėmė Ašmeną ir priartėjo prie Vilniaus.'
   pagrindžia:
     - c-016
+- t-021
+  teiginys: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų.'
+  pagrindžia:
+    - c-017
+- t-022
+  teiginys: '14 Dabartinė Ašmena, Vilniaus guber­ nijos apskrities miestas, nutolęs nuo Vilniaus per 7 mylias, anais laikais tebuvo kaimas, kitados išaugęs ša­ lia kunigaikščio dvaro, dabar Staroscino.-O pats miestas buvęs ten, kur dabar stovi pranciškonų vienuoly­ nas.'
+  pagrindžia:
+    - c-018
+- t-023
+  teiginys: '— • — 215 ## Puslapis 232 VILNIAUS MIESTO ISTORIJA// TOMAS priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvydo, lydimas kelių.'
+  pagrindžia:
+    - c-019
+- t-024
+  teiginys: 'Jis, remiamas Livoni­ jos magistro ir totorių, vėl užėmė Ašmeną ir vos per septy­ netą mylių priartėjo prie Vilniaus.'
+  pagrindžia:
+    - c-020
+- t-025
+  teiginys: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  pagrindžia:
+    - c-021
+- t-026
+  teiginys: 'Kaune ir Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus pranciškonams; Breste įsteigė vienuolyną augustinijonams; juos taip pat gausiai apdovanojo Medininkuose (Viln.'
+  pagrindžia:
+    - c-022
+- t-027
+  teiginys: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  pagrindžia:
+    - c-023
+- t-028
+  teiginys: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
+  pagrindžia:
+    - c-024
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -440,3 +472,166 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+- c-017
+  santrauka: 'Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­ rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­ gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­ garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada Goštautu ir daugeliu kitų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jogaila, kad greičiau
+    įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­
+    raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­
+    imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių
+    didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
+    į Vilnių13.
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-018
+  santrauka: '14 Dabartinė Ašmena, Vilniaus guber­ nijos apskrities miestas, nutolęs nuo Vilniaus per 7 mylias, anais laikais tebuvo kaimas, kitados išaugęs ša­ lia kunigaikščio dvaro, dabar Staroscino.-O pats miestas buvęs ten, kur dabar stovi pranciškonų vienuoly­ nas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    6 9 .
+    14
+    Dabartinė Ašmena, Vilniaus guber­
+    nijos apskrities miestas, nutolęs nuo
+    Vilniaus per 7 mylias, anais laikais
+    tebuvo kaimas, kitados išaugęs ša­
+    lia kunigaikščio dvaro, dabar Staros-
+    cino.-O pats miestas buvęs ten, kur
+    dabar stovi pranciškonų vienuoly­
+    nas bei mažas kaimelis, priklausan­
+    tis vienuolynui, čia pat, už dabarti­
+    nio miesto, vadinamas Senąja
+    Ašmena.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-019
+  santrauka: '— • — 215 ## Puslapis 232 VILNIAUS MIESTO ISTORIJA// TOMAS priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvydo, lydimas kelių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Švitrigailos dvaras stovėjo
+    kaip tik toje vietoje, kur ir dabarti­
+    nis dvaras.
+    —  • —
+    215
+
+    ## Puslapis 232
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
+    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
+    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
+    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­
+    gimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius
+    dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
+    do, bus vėl patyręs nesėkmių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-020
+  santrauka: 'Jis, remiamas Livoni­ jos magistro ir totorių, vėl užėmė Ašmeną ir vos per septy­ netą mylių priartėjo prie Vilniaus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pagaliau garantavo Vilniui pelną nuo vadinamosios šin-
+    korystės, arba vyno, midaus ir alaus smuklių, tačiau už šią
+    privilegiją pasilikdamas tam tikrą mokestį kunigaikščio iž­
+    dui, kadangi pagal seną paprotį miestas privalėjo kasmet
+    jį surinkti.
+    Šiuos pirmuosius Žygimanto potvarkius Vytauto soste
+    nutraukė ketinantis grįžti Švitrigaila. Jis, remiamas Livoni­
+    jos magistro ir totorių, vėl užėmė Ašmeną ir vos per septy­
+    netą mylių priartėjo prie Vilniaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-021
+  santrauka: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
+    rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-022
+  santrauka: 'Kaune ir Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus pranciškonams; Breste įsteigė vienuolyną augustinijonams; juos taip pat gausiai apdovanojo Medininkuose (Viln.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Savo tėviškėn į Trakus parkvietė benediktinus, kuriems pa­
+    statė vienuolyną ir bažnyčią, kad jie užsiimtų mokslu. Kaune ir
+    Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus
+    pranciškonams; Breste įsteigė vienuolyną augustinijonams;
+    juos taip pat gausiai apdovanojo Medininkuose (Viln.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-023
+  santrauka: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    vyres­
+    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
+    valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-024
+  santrauka: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Nors
+    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
+    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
+    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
+    priartėjo prie Vilniaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028

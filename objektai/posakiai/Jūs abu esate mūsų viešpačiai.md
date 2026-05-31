@@ -55,3 +55,5 @@ ir Jog.) esate mūsų viešpačiai: kų toje byloje nuspręsite, bus ir įvykdyt
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]

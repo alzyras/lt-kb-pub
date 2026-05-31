@@ -11,18 +11,24 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 laikotarpis: ''
-datos:
-  - '1323 m.'
-  - '1323 m. gegužės 26 d.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
-date_start: '1323'
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1323 m.'
+  - '1324 m.'
+  - '1325 m.'
+  - '1966 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'XX a.'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XX'
+date_start: '1323'
+date_end: '1966'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-27'
 tags: []
@@ -90,6 +96,50 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
     - c-010
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-014
+  teiginys: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
+  pagrindžia:
+    - c-011
+- t-015
+  teiginys: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
+  pagrindžia:
+    - c-012
+- t-016
+  teiginys: 'L I E T U V O S I S T O R I J A 36 Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
+  pagrindžia:
+    - c-013
+- t-017
+  teiginys: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L...] Gediminui, lietuvių ir daugelio rusų garsiam karaliui, garbinti dievą ir bijoti jo [linki] vyskupas Jonas, dievo tarnų tarnas...“ [„[...JGedeminne, letwinorum et multorum ruthenorum.'
+  pagrindžia:
+    - c-014
+- t-018
+  teiginys: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L.'
+  pagrindžia:
+    - c-015
+- t-019
+  teiginys: 'Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar tik norinčiam tapti krikščioniu ir tik vėliau privalėsiančiam perprasti krikščionišką mokymą ir išsilavinimą; tai veikiau žodžiai asmens.'
+  pagrindžia:
+    - c-016
+- t-020
+  teiginys: 'Laiške žada: 96 ## Puslapis 113 I KNYGA et Jūra ecclesiastica protegere, clerum honorare et cultum Dei am­ pliare [ir bažnytines teises proteguoti, dvasininkiją gerbti ir Dievo šlovinimą gausinti], vėliau liepia atsakyti: quod ipse per Deorum potentiam.'
+  pagrindžia:
+    - c-017
+- t-021
+  teiginys: 'Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie Mazoviją, kaip apie kraštą, per kurį kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­ nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal.'
+  pagrindžia:
+    - c-018
+- t-022
+  teiginys: 'Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­ kus rašė, klydo įsivaizduodamas Gedimino mąstyseną Ma­ zovijos kunigaikščio atžvilgiu ir, matyt, net gerai nežinojo, kas tuo metu buvo Mazovijos kunigaikštis.'
+  pagrindžia:
+    - c-019
+- t-023
+  teiginys: 'Nebūtų sunku surinkti daugiau laiškų netikrumo įrody­ mų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš tiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­ apykantos kryžiuočiams.'
+  pagrindžia:
+    - c-020
+- t-024
+  teiginys: 'Dusburgietis teigia, kad gedimino laiškai / Parengė V.'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -353,3 +403,241 @@ Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-011
+  santrauka: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
+    Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šal-
+    tiniuose, kartu rodo, kad Gediminas kūrė nuoseklią Lietuvos europėjimo
+    programą. Iš jų matyti labai platus (turint galvoje tarptautinę Lietuvos
+    izoliaciją) Gedimino politinis akiratis. Gediminas kūrė stačiatikių metro-
+    poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
+    politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
+    kėlė bažnytinės unijos idėją. Jam Gediminas ir siuntė laiškus, kuriuose
+    pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų
+    tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas,
+    o valstybės užkariavimas. Gediminas taip pat išsiuntė laiškus Vokietijos
+    miestams bei vienuolijoms, pranešdamas, kad laukia popiežiaus pasiun-
+    tinių tartis dėl krikšto. Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
+    riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
+    klos sąlygas kaip Europoje. Tačiau 1323–1324 m. Gedimino krikšto akcija
+    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-012
+  santrauka: 'Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams rex; Algirdas laiškuose Bizantijos imperijai – bazileus).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LIETUVOS KRIKŠTAS
+    P
+    o Mindaugo nebuvo nė vieno Lietuvos valdovo, kuris
+    nebūtų vedęs derybų dėl krikšto, o kartu dėl karūnaci-
+    jos – tai lėmė karas su Vokiečių ordinais (XIII a. pabaigoje jau ir Vokiečių
+    ordinas, nukariavęs prūsus, pradėjo agresiją prieš Lietuvą). Suvokę, kad
+    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
+    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
+    krikštas nebūtų išsprendęs ordinų agresijos problemos). Antra vertus, visi
+    Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams
+    rex; Algirdas laiškuose Bizantijos imperijai – bazileus). Taip juos vadino
+    Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
+    vadus ar net rusų žemių kunigaikščius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-013
+  santrauka: 'L I E T U V O S I S T O R I J A 36 Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    36
+    Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs inten-
+    syvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia
+    krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus. Lietuvos antiizo-
+    liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver-
+    tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka
+    XIV a. apibūdinama kaip karinė monarchija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-014
+  santrauka: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L...] Gediminui, lietuvių ir daugelio rusų garsiam karaliui, garbinti dievą ir bijoti jo [linki] vyskupas Jonas, dievo tarnų tarnas...“ [„[...JGedeminne, letwinorum et multorum ruthenorum.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “]
+
+    (1324 m. (birželio 1 d.) popiežiaus Jono XXII
+    laiškas Gediminui):
+
+    »L...] Gediminui, lietuvių ir daugelio rusų
+    garsiam karaliui, garbinti dievą ir bijoti
+    jo [linki] vyskupas Jonas, dievo tarnų tar-
+    nas...“ [„[...JGedeminne, letwinorum et
+    multorum ruthenorum regi illustri deum
+
+    colere et timere Joannes episcopus, servus
+    servorum dei.]“
+
+    Raitininkas dėvi savo metui būdingus žieduočio
+    šarvus ilgomis rankovėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-015
+  santrauka: '“] (1324 m. (birželio 1 d.) popiežiaus Jono XXII laiškas Gediminui): »L.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “]
+
+    (1324 m. (birželio 1 d.) popiežiaus Jono XXII
+    laiškas Gediminui):
+
+    »L.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-016
+  santrauka: 'Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar tik norinčiam tapti krikščioniu ir tik vėliau privalėsiančiam perprasti krikščionišką mokymą ir išsilavinimą; tai veikiau žodžiai asmens.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    To­
+    dėl pagaliau visų įtarinėjančių prakeiksmas žodžiais, kurie
+    galėjo sklisti tik iš lūpų žmogaus, gebančio imtis niekšybės,
+    apgaulės, melo ir turėjusio griebtis panašių būdų tam nu­
+    slėpti.
+    Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek
+    posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar
+    tik norinčiam tapti krikščioniu ir tik vėliau privalėsiančiam
+    perprasti krikščionišką mokymą ir išsilavinimą; tai veikiau
+    žodžiai asmens, persiėmusio krikščioniškąja Bažnyčia, grei­
+    tesnio ir kuo platesnio krikščionybės skleidimo troškimu ir
+    popiežiaus garbinimu.
+    Ir kai čia jį patrem nostrum gloriosissimum, sanctissimum,
+    excellentissimum etc.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-017
+  santrauka: 'Laiške žada: 96 ## Puslapis 113 I KNYGA et Jūra ecclesiastica protegere, clerum honorare et cultum Dei am­ pliare [ir bažnytines teises proteguoti, dvasininkiją gerbti ir Dievo šlovinimą gausinti], vėliau liepia atsakyti: quod ipse per Deorum potentiam.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir kai čia jį patrem nostrum gloriosissimum, sanctissimum,
+    excellentissimum etc. [mūsų tėvu garbingiausiu, švenčiausiu,
+    aukščiausiu ir kt.] pavadina, kitais metais liepia popiežiaus
+    pasiuntiniams pasakyti: Papam vestrum nec novi, nec nosse cu­
+    pio [jūsų tėvo nei pažinojau, nei trokštu pažinti]. Laiške žada:
+    96
+
+    ## Puslapis 113
+
+    I  KNYGA
+    et Jūra ecclesiastica protegere, clerum honorare et cultum Dei am­
+    pliare [ir bažnytines teises proteguoti, dvasininkiją gerbti ir
+    Dievo šlovinimą gausinti], vėliau liepia atsakyti: quod ipse
+    per Deorum potentiam iuraverit, quod nunquam aliam legem vel­
+    let assumere, praeter eam, in qua progenitores sui decesserunt [kad
+    pats Dievų galia vykdo teisingumą ir kad jokio kito įstaty­
+    mo nenori priimti, išskyrus tą, kurį jo protėviai paliko].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-018
+  santrauka: 'Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie Mazoviją, kaip apie kraštą, per kurį kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­ nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pagaliau kodėl Ge­
+    diminas būtų slėpęs tą priežastį nuo legatų, ypač jei ji būtų
+    susijusi su Ordino riteriais?
+    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
+    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
+    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
+    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
+    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
+    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
+    timšalių atvykimo reikalus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-019
+  santrauka: 'Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­ kus rašė, klydo įsivaizduodamas Gedimino mąstyseną Ma­ zovijos kunigaikščio atžvilgiu ir, matyt, net gerai nežinojo, kas tuo metu buvo Mazovijos kunigaikštis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    398 ir 399.
+    Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­
+    kus rašė, klydo įsivaizduodamas Gedimino mąstyseną Ma­
+    zovijos kunigaikščio atžvilgiu ir, matyt, net gerai nežinojo,
+    kas tuo metu buvo Mazovijos kunigaikštis. Savo dviejuose
+    laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla-
+    vas, Mazovijos kunigaikštis]0.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-020
+  santrauka: 'Nebūtų sunku surinkti daugiau laiškų netikrumo įrody­ mų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš tiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­ apykantos kryžiuočiams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    aptinkame, o kitose to kraš­
+    to žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­
+    tas ir Traidenis.
+    Nebūtų sunku surinkti daugiau laiškų netikrumo įrody­
+    mų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš
+    tiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­
+    apykantos kryžiuočiams.
+    Baigiant šiuos svarstymus, mums dar viena pastaba ding­
+    teli.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-021
+  santrauka: 'Dusburgietis teigia, kad gedimino laiškai / Parengė V.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Gedimino laiškai / Parengė V. Pašuta ir J. Stal.—V., 1966.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024

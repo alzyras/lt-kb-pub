@@ -75,4 +75,6 @@ tags:
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lotynai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/kunigaikščiai]]

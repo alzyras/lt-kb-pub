@@ -184,3 +184,6 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
+- [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
+- [[objektai/grupes/Žalioji rinktinė]]

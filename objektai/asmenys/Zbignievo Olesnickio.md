@@ -53,3 +53,4 @@ Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
 ### Susiję objektai
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/asmenys/Olesnickio]]
+- [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]

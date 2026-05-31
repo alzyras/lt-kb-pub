@@ -144,6 +144,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/posakiai/Antemurale Christianitatis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvėnai]]
@@ -151,5 +152,9 @@ Nenurodyta
 - [[objektai/daiktai/Pilys]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/autoriai/Auksė Ūsienė]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/autoriai/Vytautas Lesčius]]
 - [[objektai/zodynas/artilerijos pasala]]
 - [[objektai/asmenys/Vasilijus III]]
+- [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]

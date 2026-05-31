@@ -85,4 +85,5 @@ tags:
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Dainavos apygarda]]
 - [[objektai/grupes/LLKS gynybos pajėgos]]

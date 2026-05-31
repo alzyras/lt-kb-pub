@@ -78,3 +78,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/1905 m. revoliucija Lietuvoje]]

@@ -39,9 +39,3 @@ Butrimas ir kiti.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
-- [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]
-- [[objektai/asmenys/Vengrijos Zigmantas]]

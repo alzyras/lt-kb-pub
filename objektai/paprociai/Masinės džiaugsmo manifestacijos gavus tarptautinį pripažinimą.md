@@ -87,3 +87,9 @@ tags: []
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
+
+### Susiję objektai
+- [[objektai/grupes/Antantė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/brigada]]
+- [[objektai/zodynas/de facto]]

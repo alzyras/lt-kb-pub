@@ -131,3 +131,14 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Virgoličiaus rinktinė]]
+- [[objektai/asmenys/Virgoličius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Vokiečiai]]

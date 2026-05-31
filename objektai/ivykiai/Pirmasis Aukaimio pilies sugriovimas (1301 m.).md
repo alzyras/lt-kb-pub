@@ -94,3 +94,17 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Draika]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Pinas]]
+- [[objektai/asmenys/Sudargas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Folradas]]
+- [[objektai/zodynas/pilėnas]]
+- [[objektai/zodynas/pilėnas pilėnai]]
+- [[objektai/zodynas/stabų garbinimas stabmeldystė]]

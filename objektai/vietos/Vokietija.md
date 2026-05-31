@@ -179,6 +179,86 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   teiginys: 'Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje.'
   pagrindžia:
     - c-032
+- t-033
+  teiginys: 'Neišnyko nė senas papratimas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specialūs kryžiaus žygiai.'
+  pagrindžia:
+    - c-033
+- t-034
+  teiginys: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla), 1579 m.'
+  pagrindžia:
+    - c-034
+- t-035
+  teiginys: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
+  pagrindžia:
+    - c-035
+- t-036
+  teiginys: 'Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konferenciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne tiek į rytus /Rusiją/ ir ne tiek į.'
+  pagrindžia:
+    - c-036
+- t-037
+  teiginys: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  pagrindžia:
+    - c-037
+- t-038
+  teiginys: 'Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aštuonios sutartys ir pasiekta daugiausia.'
+  pagrindžia:
+    - c-038
+- t-039
+  teiginys: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  pagrindžia:
+    - c-039
+- t-040
+  teiginys: 'Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gaudavo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems davė nacių vadai Valteris R.'
+  pagrindžia:
+    - c-040
+- t-041
+  teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
+  pagrindžia:
+    - c-041
+- t-042
+  teiginys: 'Mičiūno reprodukcija) L I E T U V O S I S T O R I J A 196 Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos.'
+  pagrindžia:
+    - c-042
+- t-043
+  teiginys: 'Atvykę taip pat Rygos miesto pasiun­ tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­ terių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų, rašytų į Vokietiją, tikrumas ir pagaliau.'
+  pagrindžia:
+    - c-043
+- t-044
+  teiginys: 'IV, p. 1034-1035; kad Karolis Tryrietis, dar 1323 m. rugpjūčiui įpusėjus, buvo Vokietijo­ je.'
+  pagrindžia:
+    - c-044
+- t-045
+  teiginys: 'Dusburgietis teigia, kad jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.'
+  pagrindžia:
+    - c-045
+- t-046
+  teiginys: 'Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.'
+  pagrindžia:
+    - c-046
+- t-047
+  teiginys: 'Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­ čiai ir Hanzos atstovai.'
+  pagrindžia:
+    - c-047
+- t-048
+  teiginys: 'Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo Vokietijon.'
+  pagrindžia:
+    - c-048
+- t-049
+  teiginys: '214 Voinas, Vytenio brolis 224 Vokietija 27, 90, 91, 101, 153, 164, 165, 167, 168, 171, 184, 186-193, 226-228, 235, 237, 249, 250, 260, 306, 337, 343, 351, 355, 356, 374 Volchovas, upė 22, 114 410 VARDYNAS Voldemaras Aug.'
+  pagrindžia:
+    - c-049
+- t-050
+  teiginys: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
+  pagrindžia:
+    - c-050
+- t-051
+  teiginys: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
+  pagrindžia:
+    - c-051
+- t-052
+  teiginys: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  pagrindžia:
+    - c-052
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -701,3 +781,372 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-032
+- c-033
+  santrauka: 'Neišnyko nė senas papratimas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specialūs kryžiaus žygiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
+    ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
+    mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
+    lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
+    nas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-034
+  santrauka: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla), 1579 m.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    000 karių. Tuo būdu surinkus pinigų, prisi-
+    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
+    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
+
+    1579 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-035
+  santrauka: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu jau buvo pakankamai
+    kandidatų aukštajai mokyklai, kuri buvo labai reikalinga, nes
+    daugelis jaunimo turėjo vykti toliau mokytis į užsienio univer-
+    sitetus. Daugelis vyko į Vokietiją; bet kadangi ten universitetai
+    buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.
+    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
+    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
+    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
+    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
+    likybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-036
+  santrauka: 'Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konferenciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne tiek į rytus /Rusiją/ ir ne tiek į.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos
+    valstybės modelio kontūrus – „nepriklausoma demokratiškai sutvarkyta
+    valstybė etnografinėmis ribomis su būtinai reikalingomis ekonominiam
+    gyvenimui korektyvomis“, kurios galutinę struktūrą turės nustatyti „su-
+    šauktas Steigiamasis Lietuvos Seimas Vilniuje, demokratiškai visų jos
+    gyventojų išrinktas“, užtikrintos kultūrinės teisės tautinėms mažumoms.
+    Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-
+    renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu
+    tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne
+    tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
+    ją/“. Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti
+    rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-
+    ninku – teisininkas, lietuviškų laikraščių redaktorius A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-037
+  santrauka: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
+    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
+    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
+    kur Taryba veda Lietuvą. Kovo 23 dieną Berlyne A. Smetonos vadovau-
+    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
+    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
+    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
+    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
+    gruodžio 11-osios rezoliucijos pagrindu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-038
+  santrauka: 'Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aštuonios sutartys ir pasiekta daugiausia.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    )
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    159
+    Lenkiją. Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
+    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
+    tuonios sutartys ir pasiekta daugiausia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+- c-039
+  santrauka: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Smetonai slaptą memorandumą, kuria-
+    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
+    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Nega-
+    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
+    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
+    S.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-040
+  santrauka: 'Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gaudavo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems davė nacių vadai Valteris R.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Surinkta 34 tomai kaltinamosios medžiagos, teismo salės pasienyje išri-
+    kiuota 300 dėžių su įrodymais: svastikomis, vėliavomis, smogikų unifor-
+    momis, instrukcijomis, lapeliais, ginklais. Dauguma kaltinamųjų sakė,
+    kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
+    vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems
+    davė nacių vadai Valteris R.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-041
+  santrauka: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
+    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
+    Užtat sukruto sujudo Maskva – V.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-042
+  santrauka: 'Mičiūno reprodukcija) L I E T U V O S I S T O R I J A 196 Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis dėmesys buvo kreipiamas į galimybes atkurti Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    (R. Mičiūno reprodukcija)
+
+    L I E T U V O S  I S T O R I J A
+    196
+    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
+    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
+    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
+    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
+    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
+    gus, oro uostus, fabrikus ir kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-043
+  santrauka: 'Atvykę taip pat Rygos miesto pasiun­ tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­ terių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų, rašytų į Vokietiją, tikrumas ir pagaliau.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mat
+    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
+    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
+    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
+    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
+    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
+- c-044
+  santrauka: 'IV, p. 1034-1035; kad Karolis Tryrietis, dar 1323 m. rugpjūčiui įpusėjus, buvo Vokietijo­ je.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    IV, p. 1034-1035;
+    kad Karolis Tryrietis, dar 1323 m.
+    rugpjūčiui įpusėjus, buvo Vokietijo­
+    je.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+- c-045
+  santrauka: 'Dusburgietis teigia, kad jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos šeimose.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Anaiptol, tu gausiai davei jiems visa, ko troško jo širdis.
+    Jo vadovavimo metais Ordinas taip sustiprėjo, kad neilgai trukus po jo mirties šiame
+    Ordine jau buvo priskaičiuojama du tūkstančiai brolių, gimusių kilmingose Vokietijos
+    šeimose. Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
+    pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
+    šio Ordino vienuoli© apsiaustą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
+- c-046
+  santrauka: 'Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje, Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Jo šviesybė valdovas Konradas, Tiuringijos landgrafas, kurio giminaitis buvo ir
+    pats magistras, būdamas pasauliečiu, užsivilko drauge su dideliu būriu savo kilmingųjų
+    šio Ordino vienuoli© apsiaustą.
+      Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
+    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
+    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-046
+- c-047
+  santrauka: 'Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­ čiai ir Hanzos atstovai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Atvyko
+    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
+    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
+    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
+    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-047
+- c-048
+  santrauka: 'Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo Vokietijon.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lenkai dar labiau su­
+    stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
+    Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
+    Vokietijon. Vainikavimas susitrukdė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-048
+- c-049
+  santrauka: '214 Voinas, Vytenio brolis 224 Vokietija 27, 90, 91, 101, 153, 164, 165, 167, 168, 171, 184, 186-193, 226-228, 235, 237, 249, 250, 260, 306, 337, 343, 351, 355, 356, 374 Volchovas, upė 22, 114 410 VARDYNAS Voldemaras Aug.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    53, 89, 151, 180, 227, 306,
+    327, 328, 331-333, 348
+    Voina, Gedimino sūnus 245
+    Voina, Polocko kng. 214
+    Voinas, Vytenio brolis 224
+    Vokietija 27, 90, 91, 101, 153, 164,
+    165, 167, 168, 171, 184, 186-193,
+    226-228, 235, 237, 249, 250, 260,
+    306, 337, 343, 351, 355, 356, 374
+    Volchovas, upė 22, 114
+    ```
+
+    ```
+    410 VARDYNAS
+    ```
+    **Voldemaras Aug.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-049
+- c-050
+  santrauka: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
+    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
+    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
+    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-050
+- c-051
+  santrauka: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
+    sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
+    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
+    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-051
+- c-052
+  santrauka: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos sovietizacija
+    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
+    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
+    okupuotos ir dvi gretimos Baltijos valstybės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-052

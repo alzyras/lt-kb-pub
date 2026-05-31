@@ -10,18 +10,18 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 bukle: juodrastis
 laikotarpis: '1547 m. Paleckio stiklo liejyklos privilegijos kontekstas'
-datos:
-  - '1547 m. gegužės 22 d.'
-periodas: ankstyvieji_naujieji_laikai
-periodo_grupes:
-  - LDK
-amziai:
-  - XVI
-date_start: '1547'
-date_end: '1547'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1547 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1547'
+date_end: ''
 patikimumas: aukštas
 atnaujinta: '2026-05-27'
 tags: []
@@ -75,6 +75,10 @@ Nenurodyta
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­ lo fabrikas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -135,12 +139,40 @@ Nenurodyta
     - t-002
     - t-003
     - t-004
+- c-003
+  santrauka: 'Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­ lo fabrikas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
+    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
+    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
+    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
+    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
+    32 33
+    Žr. III priedą. Žr. VIII šios knygos priedą.
+    V I  L  N 7  I  A U S MIESTO ISTORIJA II TOM A S
+    274
+
+    ## Puslapis 291
+
+    IV KNYGA
+    ti stiklo liejyklą, o kartu privilegiją, leidžiančią Vilniuje par­
+    davinėti lenkišką stiklą34.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/buities-daiktas]]
-
 ### Susiję objektai
-- [[objektai/grupes/Slavai]]
 - [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Skyrai]]
+- [[objektai/ivykiai/Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)]]

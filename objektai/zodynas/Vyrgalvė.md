@@ -57,7 +57,3 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 ## Pastabos
 
 - Etimologija tekste pateikiama autoriaus, bet pati reikšmė iš konteksto aiški.
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]

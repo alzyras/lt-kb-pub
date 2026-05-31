@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1581 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1581'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -31,7 +34,10 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, o įgulą „išmušė“.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Starajos Rusos miestas buvo sudegintas, o jo įgula sunaikinta.'
@@ -54,3 +60,22 @@ liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis vos atkariautos teritorijos Starajos Rusos miesto ir jį sudegino, o įgulą „išmušė“.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
+
+    vos atkariautos teritorijos
+
+    Starajos Rusos miesto
+    ir jį sudegino, o įgulą
+    „išmušė“. Galiausiai buvo
+    nusiaubtos Opokos apylinkės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

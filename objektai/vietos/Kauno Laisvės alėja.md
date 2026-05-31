@@ -37,7 +37,10 @@ Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeri
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.'
@@ -64,3 +67,4 @@ Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+    - t-002

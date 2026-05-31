@@ -45,7 +45,10 @@ tags:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Žuvo Antanas Slučka-Šarūnas Vabalninkas co i i m e ini e — m Il L lainė Panemunėlis p. “O ~~ Kriaunos“ 2 Aleksandravėlė“ = Salos WO 7 d L \ avis, + (Algimanto apygardos vadas, Rytų Lietuvos (Mindaugo) srities vadas), jo žmona ir dar vienas partizanas.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji.'
@@ -100,12 +103,51 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Žuvo Antanas Slučka-Šarūnas Vabalninkas co i i m e ini e — m Il L lainė Panemunėlis p. “O ~~ Kriaunos“ 2 Aleksandravėlė“ = Salos WO 7 d L \ avis, + (Algimanto apygardos vadas, Rytų Lietuvos (Mindaugo) srities vadas), jo žmona ir dar vienas partizanas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Žuvo Antanas Slučka-Šarūnas
+
+    Vabalninkas co
+
+    i i m e
+    ini e — m
+    Il L lainė
+
+    Panemunėlis p. “O ~~
+
+    Kriaunos“
+    2 Aleksandravėlė“
+    = Salos WO 7 d L \ avis,
+
+    +
+
+    (Algimanto apygardos vadas, Rytų Lietuvos (Mindaugo)
+    srities vadas), jo žmona ir dar vienas partizanas.
+
+    p
+    JGPILIS
+    LGIMANTO"™ sd VEB AYA
+    es mal 2 TS apygarda Južintai | / | 5 Silenėo SKILVONIŲ MUSIS
+    = ox Subačius ied : a X ; A 1945 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Agentai-smogikai]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Slučka-Šarūnas]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
+- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
+- [[objektai/asmenys/Vaižgantas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]
 - [[objektai/grupes/Kunigaikščio Margio rinktinė]]

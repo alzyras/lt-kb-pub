@@ -92,3 +92,11 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

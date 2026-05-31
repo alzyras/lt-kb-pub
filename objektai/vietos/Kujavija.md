@@ -89,6 +89,10 @@ tags:
   teiginys: 'Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­ klausančias jo suverenitetui ir būdamas valdovas savo vasalo Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.'
   pagrindžia:
     - c-003
+- t-009
+  teiginys: 'Dusburgietis teigia, kad apie laikos nutraukimą ir Kujavijos žemės nuniokojimą Praslinkus tam tikram laikui, Sventopelkas, užmiršęs būti dėkingas už palankumą ir visokiausias malones, kurių broliai ne kartą jam, patekusiam į bėdą, yra teikę, plėšė slaptomis brolių valdinius, vienus.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -235,3 +239,28 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-009
+  santrauka: 'Dusburgietis teigia, kad apie laikos nutraukimą ir Kujavijos žemės nuniokojimą Praslinkus tam tikram laikui, Sventopelkas, užmiršęs būti dėkingas už palankumą ir visokiausias malones, kurių broliai ne kartą jam, patekusiam į bėdą, yra teikę, plėšė slaptomis brolių valdinius, vienus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie laikos nutraukimą ir Kujavijos žemės nuniokojimą
+
+      Praslinkus tam tikram laikui, Sventopelkas, užmiršęs būti dėkingas už palankumą ir
+    visokiausias malones, kurių broliai ne kartą jam, patekusiam  į bėdą, yra teikę, plėšė
+    slaptomis brolių valdinius, vienus žudė, kitus varėsi į nelaisvę ir kitokiais būdais kamavo.
+    Galop, viešai išsižadėjęs taikos, įniko kaip ir seniau persekioti krikščionis  ir, sutelkęs
+    didelę kariuomenę, netikėtai įsiveržė  į kunigaikščiui Kazimierui priklausomą Kujavijos
+    žemę, ją nuniokojo, degindamas bei grobdamas, o išžudęs daugybę krikščionių, drauge
+    su milžinišku grobiu išsivarė moteris bei vaikus.
+
+
+
+      300 Greičiausiai pravardė
+      301 Dab.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

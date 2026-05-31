@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -58,6 +64,18 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-007
+  teiginys: 'Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė vienkiemiais XIX amž.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -151,3 +169,58 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo tarpu ordino
+    vadovybę paėmęs komtūras Henrikas von Plauenas
+    suskubo surinkti jėgų, ir sąjungininkams nebepasisekė paimti
+    Marijenburgo; ypač nepasisekė dėl to, kad Vytautas, dėl gerai
+    nežinomų priežasčių, netrukus su savo kariuomene grįžo namo.
+    Jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
+    nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko
+    daugiau nesitikėjo gauti. Jam pasitraukus, turėjo atsitraukti ir
+    Jogaila.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė vienkiemiais XIX amž.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pati
+    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
+    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
+    srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien
+    savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
+    vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
+    mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
+    vienkiemiais XIX amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuvos kunigaikščio būstinės. Suvalkų kraštas
+    tada buvo beveik negyvenamas, apaugęs tankiais miškais
+    (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai
+    priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto
+    dvarų juose buvo mažiau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

@@ -35,6 +35,10 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   pagrindžia:
     - c-001
     - c-002
+- t-002
+  teiginys: '" Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui ir platino melagingą žinią, jog Gedimi­ nas norėjęs krikštytis.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė) Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė.'
@@ -79,13 +83,45 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-003
+  santrauka: '" Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­ tams bei popiežiui ir platino melagingą žinią, jog Gedimi­ nas norėjęs krikštytis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    "
+    Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas
+    ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­
+    tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
+    nas norėjęs krikštytis.
+    Epitomatorius  nurodo tiesiai: Cives Rigenses et
+    Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo-
+    nia dissidiantur et in omnibus civitatibus et locis maritimis notifi-
+    cant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum
+    91
+
+    ## Puslapis 108
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    baptisma et fidem libenter cum suis susciperent, sed fratres nollet
+    eos suscipere, et idem intimant litteris apostołko [Rygos mies­
+    tiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje
+    prieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir
+    vietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius
+    noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
+    nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
+    Sostui].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Eberhardas iš Manheimo]]
+- [[objektai/autoriai/Epitomatorius]]
+- [[objektai/autoriai/Jerošinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]
+- [[objektai/autoriai/Jerošinas Jeroschin]]

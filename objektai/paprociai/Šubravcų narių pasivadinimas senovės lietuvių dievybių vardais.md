@@ -8,16 +8,16 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "antrasis XIX a. dešimtmetis"
-datos: []
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XIX"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: 'naujieji_laikai'
+periodo_grupes: []
+amziai:
+  - 'XIX'
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-27'
 tags: []
@@ -54,6 +54,10 @@ Nenurodyta
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Ypač pagarsėjo Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­ ventojai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,15 +83,40 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Ypač pagarsėjo Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­ ventojai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ypač pagarsėjo
+    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
+    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
+    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
+    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
+    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
+    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
+    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
+    viu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/socialinė-praktika]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mykolas Balinskis]]
+- [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
 - [[objektai/grupes/Šubravcų draugija]]
+- [[objektai/asmenys/Janas Chodzka]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/asmenys/Jokūbas Šimkevičius]]
+- [[objektai/asmenys/Juozapas Zavadskis]]
+- [[objektai/asmenys/Kazimieras Kontrimas]]
+- [[objektai/asmenys/Matas (Pipino sūnus)]]
+- [[objektai/asmenys/Janas Lasickis]]
+- [[objektai/autoriai/Janas Lasickis Joh. Lasicius]]

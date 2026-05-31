@@ -36,9 +36,27 @@ Originali yra nebaigta studija : « Jogaila, didysis Lietuvos kunigaikštis ir L
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: ') Lietuviškoje Enciklopedijoje (Kaune) rodė jo gilią erudiciją.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
-
+- c-002
+  santrauka: ') Lietuviškoje Enciklopedijoje (Kaune) rodė jo gilią erudiciją.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ) Lietuviškoje Enciklopedijoje (Kaune) rodė
+    jo gilią erudiciją. Originali yra nebaigta studija : « Jogaila, didysis
+    Lietuvos kunigaikštis ir Lenkijos karalius » (Židinys, 1935-1936).
+    Lietuvos istorijos srityje nepalyginamai savo raštais buvo vai­
+    singesnis Aug.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ liko nebaigta ir buvo skelbta „Židinyje“ 1935–1936 m.'

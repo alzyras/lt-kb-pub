@@ -21,8 +21,13 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1231 m.'
+  - '1278 m.'
+  - '1304 m.'
   - '1322 m.'
   - '1325 m.'
+  - '1326 m.'
+  - '1329 m.'
+  - '1330 m.'
   - '1346 m.'
   - '1375 m.'
   - '1380 m.'
@@ -33,16 +38,12 @@ datos:
   - '1595 m.'
   - '1701 m.'
   - '1717 m.'
+  - '1750 m.'
   - '1764 m.'
   - '1792 m.'
   - '1793 m.'
   - '1795 m.'
   - '1806 m.'
-  - '1815 m.'
-  - '1936 m.'
-  - '1960 m.'
-  - '1961 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -58,7 +59,7 @@ amziai:
   - 'XX'
   - 'XXI'
 date_start: '1231'
-date_end: '2026'
+date_end: '1806'
 patikimumas: "vidutinis"
 atnaujinta: '2026-04-25'
 tags: []
@@ -249,6 +250,179 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginys: 'Nuo tada liovėsi vyravusi Prūsijos ordino įtaka krašto likimui, ir sve­ timšalių riterių brolija jau nežvangino savo ginklais prie Vilniaus sienų.'
   pagrindžia:
     - c-047
+- t-056
+  teiginys: 'Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva (visa kita Lietuva vėliau – atrodo, XIX a.'
+  pagrindžia:
+    - c-048
+- t-057
+  teiginys: 'Prūsijoje buvo net oficialiai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo pasaulinio karo.'
+  pagrindžia:
+    - c-049
+- t-058
+  teiginys: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
+  pagrindžia:
+    - c-050
+- t-059
+  teiginys: 'Nemuno gynybinė sistema 1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stipresnis ir geriau organizuotas nei kalavijuočiai.'
+  pagrindžia:
+    - c-051
+- t-060
+  teiginys: 'Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.'
+  pagrindžia:
+    - c-052
+- t-061
+  teiginys: 'Prūsijos dokumen­ tuose dar XIII amžiuje ji vadinta Ne­ ria.'
+  pagrindžia:
+    - c-053
+- t-062
+  teiginys: 'Tas Romuvas sunaikino kryžiuočiai, už­ ėmę Prūsiją; tačiau nežinia, ar kitos, ar tos pačios iš anos žemės perkel­ tos, buvo pačioje Lietuvoje, prie Kauno, ant Nevėžio kranto, .'
+  pagrindžia:
+    - c-054
+- t-063
+  teiginys: 'Dar didesnis garsas apie Vilnių pasklido 1325 me­ tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­ ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­ nu, išvaduota 20 000.'
+  pagrindžia:
+    - c-055
+- t-064
+  teiginys: 'Kita ekspe­ dicija iš Prūsijos 1375 metais irgi buvo sukėlusi Vilniui pa­ našią grėsmę.'
+  pagrindžia:
+    - c-056
+- t-065
+  teiginys: 'Kaip pasiuntinys nuvykęs į Prūsiją, Vai­ dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­ dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­ žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.'
+  pagrindžia:
+    - c-057
+- t-066
+  teiginys: 'Gavęs pa­ vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu galia, ėmė rengti naujus Kęstučio ir Lietuvos antpuolius.'
+  pagrindžia:
+    - c-058
+- t-067
+  teiginys: 'Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­ kos sėkmingos, didysis magistras Konradas Ciolneris Rotenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų rugpjūtį ties Kaunu.'
+  pagrindžia:
+    - c-059
+- t-068
+  teiginys: 'Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o jūra 15 my­ lių pasidengė tokio storio ledu, kad juo iš Danijos iki Liube­ ko buvo galima keliauti0; tad ir kryžiuočiai nieko negalėjo imtis.'
+  pagrindžia:
+    - c-060
+- t-069
+  teiginys: 'Ir kaip tik 70 ## Puslapis 87 I KNYGA Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­ ralius Gediminas į visas šalis išsiuntinėjo.'
+  pagrindžia:
+    - c-061
+- t-070
+  teiginys: 'Nors popiežiaus buvo primygtinai prašoma, kad savo ga­ nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­ gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo, gal to priežastis buvo naujesnės žinios iš Prūsijos.'
+  pagrindžia:
+    - c-062
+- t-071
+  teiginys: 'Apie tai sužinoję, Prūsijos iš teutonų namo broliai pasiuntė aplinkiniais keliais savo kariuomenę ir minėtą bažnyčią sudegino.'
+  pagrindžia:
+    - c-063
+- t-072
+  teiginys: 'Be abejonės, anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­ dino piktadarystę" atsidūrė kryžiuočių archyve.'
+  pagrindžia:
+    - c-064
+- t-073
+  teiginys: '- • — 103 ## Puslapis 120 VILNIAUS MIESTO ISTORIJA / TOMAS vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių paimtos Prūsijoje.'
+  pagrindžia:
+    - c-065
+- t-074
+  teiginys: '1390 metų sausio pradžioje visą savo šei­ mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­ tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų savo pilių gynybą.'
+  pagrindžia:
+    - c-066
+- t-075
+  teiginys: 'Kai rug­ pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­ ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­ pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę jų esant.'
+  pagrindžia:
+    - c-067
+- t-076
+  teiginys: '- • — 126 ## Puslapis 143 Il KNYGA po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­ žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.'
+  pagrindžia:
+    - c-068
+- t-077
+  teiginys: 'Juk tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­ bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­ va, o naudodamasi galingo monarcho parama, jau pasiekė ir tolimus.'
+  pagrindžia:
+    - c-069
+- t-078
+  teiginys: 'Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­ koti tuos pavojingus jam kaimynus (1394 m.); kitais metais Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­ gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę.'
+  pagrindžia:
+    - c-070
+- t-079
+  teiginys: 'To pasiuntinio pranešta dar man, jog mūsų didysis magistras pasiuntė du Or­ dino vyresniuosius iš Prūsijos pas Lenkijos karalių, ir kad apie tai Vytautas rašė Manvydui, iš jo pačių lūpų mūsų žinianešys šitą girdėjęs.'
+  pagrindžia:
+    - c-071
+- t-080
+  teiginys: 'Amžinai šio dalyko atminčiai mes, Žygimantas Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­ lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt.'
+  pagrindžia:
+    - c-072
+- t-081
+  teiginys: 'Taigi mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­ nigaikštis.'
+  pagrindžia:
+    - c-073
+- t-082
+  teiginys: 'Dusburgietis teigia, kad siekdamas pagrįsti kryžiuočių užkariavimus Prūsijoje ir jau kuris metas vedamą karą prieš Lietuvą, parodyti Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.).'
+  pagrindžia:
+    - c-074
+- t-083
+  teiginys: 'Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, atskirų žemių.'
+  pagrindžia:
+    - c-075
+- t-084
+  teiginys: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
+  pagrindžia:
+    - c-076
+- t-085
+  teiginys: 'Dusburgietis teigia, kad petro iš Dusburgo kronikos IV dalies paaiškinimai, gretinantys Prūsijos įvykius su to meto visuotinės istorijos faktais, iš esmės paremti dviejų autorių dominikonų veikalais.'
+  pagrindžia:
+    - c-077
+- t-086
+  teiginys: 'Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į.'
+  pagrindžia:
+    - c-078
+- t-087
+  teiginys: 'Dusburgietis teigia, kad dusburgiečio kronika pabrėžia, kad ne kas kitas, o „broliai apšvarino [...] šventąją Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui“ (Pratarmė).'
+  pagrindžia:
+    - c-079
+- t-088
+  teiginys: 'Dusburgietis teigia, kad ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).'
+  pagrindžia:
+    - c-080
+- t-089
+  teiginys: 'Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
+  pagrindžia:
+    - c-081
+- t-090
+  teiginys: 'Dusburgietis teigia, kad prūsais, Prūsija visas kraštas tarp Vyslos ir Nemuno galutinai pradėta vadinti tada, kai buvo pavergtas Kryžiuočių ordino (Būga K.'
+  pagrindžia:
+    - c-082
+- t-091
+  teiginys: 'Dusburgietis teigia, kad apie žemės drebėjimą Prūsijos žemėje Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.'
+  pagrindžia:
+    - c-083
+- t-092
+  teiginys: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'
+  pagrindžia:
+    - c-084
+- t-093
+  teiginys: 'Dusburgietis teigia, kad apie mažesnį silkių sugavimą Prūsijoje Tais metais Prūsijos žemėje kur kas mažiau buvo pagaunama silkių, kurių ten buvę gausu nuo neatmenamų laikų.'
+  pagrindžia:
+    - c-085
+- t-094
+  teiginys: 'Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo.'
+  pagrindžia:
+    - c-086
+- t-095
+  teiginys: 'Iš savo pusės, sutikdami apsi­ krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­ tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­ lius bei Kuršius Livonijoje.'
+  pagrindžia:
+    - c-087
+- t-096
+  teiginys: 'Nuo «nebylių seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos, kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.'
+  pagrindžia:
+    - c-088
+- t-097
+  teiginys: 'Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­ viams valstiečiams » (1960) ir ten parašė pratarmę.'
+  pagrindžia:
+    - c-089
+- t-098
+  teiginys: 'Siekiant dar labiau susilpninti Abiejų Tautų Respubliką, 1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl jos II padalijimo, po kurio Abiejų Tautų Respublika neteko apie 300 tūkst.'
+  pagrindžia:
+    - c-090
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.'
@@ -1081,6 +1255,932 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-055
+- c-048
+  santrauka: 'Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva (visa kita Lietuva vėliau – atrodo, XIX a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    tarp Lietuvos ir Vokiečių
+    ordino nustačius sieną, Lietuvai atiteko tik dalis senųjų jotvingių terito-
+    rijos – Užnemunė). Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
+    pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
+    ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
+    va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
+    Lietuvos vardu).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-056
+- c-049
+  santrauka: 'Prūsijoje buvo net oficialiai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo pasaulinio karo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mažojoje Lietuvoje iškilo ir pirmasis
+    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
+    laičio poema „Metai“ (apie 1750). Nors XVIII a. Prūsijoje buvo net oficia-
+    liai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio
+    centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių
+    vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo
+    pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
+    kai kalbančiųjų nebeliko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-057
+- c-050
+  santrauka: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tautos, kalbos, raštijos
+    Pradėkime nuo lietuviakalbės raštijos. Visų pirma – tai
+    Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi
+    pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
+    ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.
+    1595 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-058
+- c-051
+  santrauka: 'Nemuno gynybinė sistema 1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stipresnis ir geriau organizuotas nei kalavijuočiai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Karas su kryžiuočiais. Nemuno gynybinė sistema
+    1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stip-
+    resnis ir geriau organizuotas nei kalavijuočiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-059
+- c-052
+  santrauka: 'Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkto vado, persikėlė per jū­ rą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje, tarp vietinių gyventojų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Juk šis kroniki­
+    ninkas pasakoja, kad apie 880 me­
+    tus, viešpataujant Danijoje karaliui
+    Kanutui (Cnud), kai dėl pragaištingo
+    nederliaus visiems gyventojams trū­
+    ko grūdų, buvo įsakyta kas trečią
+    žmogų išvaryti iš valsčiaus visiems
+    laikams. Likimo lemties tremtiniai,
+    sutelkę į draugę valtis, vadovauja­
+    mi išsirinkto vado, persikėlė per jū­
+    rą ir įsikūrė Prūsijoje, Žemaitijoje bei
+    Karelijoje, tarp vietinių gyventojų.
+    Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-060
+- c-053
+  santrauka: 'Prūsijos dokumen­ tuose dar XIII amžiuje ji vadinta Ne­ ria.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš kur kilo Nehrung arba Ne-
+    hring - vokiečių kalboje didžiulių
+    smėlio kaupų jūrų įlankose pavadi­
+    nimas [neringa]. Prūsijos dokumen­
+    tuose dar XIII amžiuje ji vadinta Ne­
+    ria. Tad, manau, jog lietuviai seniau
+    vadino Vilija, Neris arba Neria to­
+    dėl, kad ši upė išrausė sau gilią va­
+    gą, suformuodama aukštas smėlin­
+    gas pakrantes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-061
+- c-054
+  santrauka: 'Tas Romuvas sunaikino kryžiuočiai, už­ ėmę Prūsiją; tačiau nežinia, ar kitos, ar tos pačios iš anos žemės perkel­ tos, buvo pačioje Lietuvoje, prie Kauno, ant Nevėžio kranto, .'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    8
+    Lietuvos istorijoje yra žinomos šven­
+    tos vietovės, senovės lietuvių vadin­
+    tos Romuvomis [ramovėmis], kur
+    vidur šventų girių būdavo garbina­
+    mas Perkūnas ir kur gyveno vyriau­
+    siasis jų vaidila Krivių Krivaitis. Tas
+    Romuvas sunaikino kryžiuočiai, už­
+    ėmę Prūsiją; tačiau nežinia, ar kitos,
+    ar tos pačios iš anos žemės perkel­
+    tos, buvo pačioje Lietuvoje, prie
+    Kauno, ant Nevėžio kranto, .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-062
+- c-055
+  santrauka: 'Dar didesnis garsas apie Vilnių pasklido 1325 me­ tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­ ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­ nu, išvaduota 20 000.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
+    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
+    tų vėlesnio susijungimo ir galios pirmosios gijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-063
+- c-056
+  santrauka: 'Kita ekspe­ dicija iš Prūsijos 1375 metais irgi buvo sukėlusi Vilniui pa­ našią grėsmę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    30
+
+    ## Puslapis 47
+
+    I  KNYGA
+    degindamas ir siaubdamas miesto apylinkės22. Kita ekspe­
+    dicija iš Prūsijos 1375 metais irgi buvo sukėlusi Vilniui pa­
+    našią grėsmę. Tąkart Vinrichas, vasario pradžioje kirtęs Lie­
+    tuvos sieną su didele govėda baronų ir riterių iš Prancūzijos
+    bei Vokietijos, sutelktų stoti po kryžiaus ženklu, turėjo sku­
+    binai trauktis atgal į Prūsiją dėl staigaus atodrėkio ir upių
+    polaidžio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-064
+- c-057
+  santrauka: 'Kaip pasiuntinys nuvykęs į Prūsiją, Vai­ dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­ dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­ žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O
+    Jogaila, labai jį pamilęs, ne tik Lydos vietininku padarė, bet,
+    nepaisydamas Kęstučio prieštaravimų, dargi atidavė jam į
+    žmonas savo seserį. Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
+    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
+    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
+    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-065
+- c-058
+  santrauka: 'Gavęs pa­ vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu galia, ėmė rengti naujus Kęstučio ir Lietuvos antpuolius.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau, tapęs savo paties intrigų auka, krito Vaidila, kurį Kęs­
+    tutis, kaip to karo kurstytoją, įsakė pakarti. Tuo tarpu Skir­
+    gaila antrąkart grįžo iš Polocko nieko nepešęs, bet sugebėjo
+    pasikalbėti su Jogaila, dar tebesėdėjusiu kalėjime. Gavęs pa­
+    vedimą, nuvyko į Prūsiją ir, remdamasis sandėrio su Ordinu
+    galia, ėmė rengti naujus Kęstučio ir Lietuvos antpuolius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-066
+- c-059
+  santrauka: 'Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­ kos sėkmingos, didysis magistras Konradas Ciolneris Rotenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų rugpjūtį ties Kaunu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    40
+
+    ## Puslapis 57
+
+    I  KNYGA
+    vokiečių nagų į Lietuvą, suduodamas jiems didelį smūgį41.
+    Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
+    jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­
+    kos sėkmingos, didysis magistras Konradas Ciolneris Ro-
+    tenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų
+    rugpjūtį ties Kaunu persikėlė per Nemuną ir ėmė siautėti
+    visame krašte. Vilnius, tiesa, turėdamas tvirtovėse labai stip­
+    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
+    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
+    kotos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-067
+- c-060
+  santrauka: 'Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o jūra 15 my­ lių pasidengė tokio storio ledu, kad juo iš Danijos iki Liube­ ko buvo galima keliauti0; tad ir kryžiuočiai nieko negalėjo imtis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kai didysis magistras prie jų prijungė
+    vietinius savo pulkus, visa kariauna patraukė į kovą su lie­
+    tuviais. Tačiau greitai užėjo tokie baisūs šalčiai, kad ne tik
+    Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o jūra 15 my­
+    lių pasidengė tokio storio ledu, kad juo iš Danijos iki Liube­
+    ko buvo galima keliauti0; tad ir kryžiuočiai nieko negalėjo
+    imtis, baimindamiesi, kad iš pietų atvykę ir prie smarkių
+    šalčių nepripratę kariai visi nežūtų.
+    Taigi tas žygis nuėjo perniek; vis dėlto antpuoliai senu
+    papročiu nesiliovė ir tais metais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-068
+- c-061
+  santrauka: 'Ir kaip tik 70 ## Puslapis 87 I KNYGA Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­ ralius Gediminas į visas šalis išsiuntinėjo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Et nihilominus opi-
+    do quodam munito Dobryn vulgariter
+    dicto expugnato et in favillam prorsus
+    redacto multis inibi christifidelibus fer­
+    ro peremptis decem millia et utra homi­
+    num utriusque sexus secum abegit si­
+    militer et deduxit [Kai bedievis vadas
+    Dovydas prieš pat anksčiau minėtas
+    paliaubas įžengęs su stipria lietuvių
+    kariuomene į Dobrynės žemę, esan­
+    čią minėtoje Plocko diecezijoje, visą
+    pragaištingai nusiaubė. Ir kaip tik
+    70
+
+    ## Puslapis 87
+
+    I  KNYGA
+    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
+    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
+    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
+    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
+    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
+    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-069
+- c-062
+  santrauka: 'Nors popiežiaus buvo primygtinai prašoma, kad savo ga­ nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­ gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo, gal to priežastis buvo naujesnės žinios iš Prūsijos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
+    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
+    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
+    gal to priežastis buvo naujesnės žinios iš Prūsijos.
+    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
+    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
+    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
+    miręs), kartu su savo diecezijos klebonais Elblionge bemat
+    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
+    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
+    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
+    visiems Livonijos bei Estijos didikams ir vasalams, daly­
+    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
+    esant velnio žabangomis, visam krikščioniškajam pasau­
+    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
+    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
+    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-070
+- c-063
+  santrauka: 'Apie tai sužinoję, Prūsijos iš teutonų namo broliai pasiuntė aplinkiniais keliais savo kariuomenę ir minėtą bažnyčią sudegino.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
+    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
+    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
+    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
+    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
+    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
+    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
+    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
+    arba privertė, kad jie patys pasiskandintų.
+    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
+    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
+    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
+    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
+    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
+    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
+    ir minėtą bažnyčią sudegino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-071
+- c-064
+  santrauka: 'Be abejonės, anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­ dino piktadarystę" atsidūrė kryžiuočių archyve.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
+    biniame pranešime (Notariats instrument), į kurį taip pat buvo
+    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
+    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
+    ve, ir tik iš jo su tais laiškais galima susipažinti. Be abejonės,
+    anie riteriai grįždami paėmė juos į Prūsiją, taip jie ne „per Or­
+    dino piktadarystę" atsidūrė kryžiuočių archyve. Šitai vėlei liu­
+    dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės,
+    klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-072
+- c-065
+  santrauka: '- • — 103 ## Puslapis 120 VILNIAUS MIESTO ISTORIJA / TOMAS vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių paimtos Prūsijoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Rau­
+    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
+    Kai dėl rūšies ginklo, nuo kurio žuvo
+    Gediminas: Dlugošas Lib. IX,
+    p. 923, nurodo, kad buvo ugninės
+    strėlės pervertas. Bet Olivos metraš­
+    čiai (Annales Oliv., p. 48) rašo, kad
+    tuo tarpu, kai Gediminas pats ar jo
+    karys pilies aptvaro link stūmė ka­
+    rinę mašiną, į jį pataikė kario Mari­
+    jano paleistas šūvis iš bombardos,
+    kurios buvo neseniai išrastos Vokie­
+    tijoje, Lietuvoje dar nežinomos. Ži­
+    nome iš metraštininkų pasakojimų,
+    kad anglai pirmieji panaudojo šau­
+    namuosius ginklus 1346 metais rug­
+    pjūčio 26 dieną mūšyje prie Kreši,
+    vadinamosiomis bombardomis plie­
+    kę prancūzų karius. Buvo tai tam
+    tikra rūšis pabūklų arba patrankų,
+    įtaisytų ant vežimų, kurios, svaidy-
+    damosios ugnies išmetamomis ma­
+    žomis geležies kulkomis, baisaus
+    trenksmo lydimomis, daugiau buvo
+    tinkamos žirgams gąsdinti. Žr. G i o-
+    vanni V i 11 a n i, Storia Fiorent.
+    Lib. XII, c. 65, p. 947, ir c. 66, p. 948.
+    Anglų riteriai, ne kartą draugėj su
+    kryžiuočiais ėję į kryžiaus žygius
+    kautis su pagonimis lietuviais, ga­
+    lėjo kryžiuočius prieš kelerius me­
+    tus su tuo bombardų išradimu su­
+    pažindinti, galėjo ir Gediminas nuo
+    jų žūti.
+    - • —
+    103
+
+    ## Puslapis 120
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių
+    paimtos Prūsijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-073
+- c-066
+  santrauka: '1390 metų sausio pradžioje visą savo šei­ mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­ tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų savo pilių gynybą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Acta, tai yra*
+    117
+
+    ## Puslapis 134
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Ordino pagalbos. 1390 metų sausio pradžioje visą savo šei­
+    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
+    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
+    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
+    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-074
+- c-067
+  santrauka: 'Kai rug­ pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­ ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­ pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę jų esant.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vytauto rūpesčiu žemaičiai Karaliaučiuje
+    sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,
+    ir didysis magistras, įsitikinęs, jog lietuvių pajėgos susi­
+    skaldžiusios, ėmė ruoštis į pakartotiną, bet daug reikšmin­
+    gesnį žygį, kurio tikslas jau buvo ne tik apiplėšti Lietuvą,
+    tačiau užimti jos sostinę ir įkurdinti ten Vytautą21. Kai rug­
+    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
+    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
+    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
+    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
+    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
+    esanti pagonių šalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-075
+- c-068
+  santrauka: '- • — 126 ## Puslapis 143 Il KNYGA po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­ žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vygan­
+    das  tačiau byloja: Steterunt V septi­
+    manis in continuo agone nocte dieque
+    et pugna et ex utraque parte multi sunt
+    occisi [stovėjo 5 savaites nuolatinėse
+    kautynėse dieną naktį ir kovoje iš
+    abiejų pusių daug buvo užmuštų].
+    - • —
+    126
+
+    ## Puslapis 143
+
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
+    toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
+    Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
+    čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
+    fas Algardas34.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-076
+- c-069
+  santrauka: 'Juk tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­ bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­ va, o naudodamasi galingo monarcho parama, jau pasiekė ir tolimus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vis dėlto nereikėtų manyti, kad Vilnius
+    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
+    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-077
+- c-070
+  santrauka: 'Prūsijos ordi­ nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­ koti tuos pavojingus jam kaimynus (1394 m.); kitais metais Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­ gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dar neįsitvirtinus savo soste Vytautui, kitas karaliaus Jo­
+    gailos brolis, Švitrigaila, dėl ano iškėlimo nuoskaudą paju­
+    tęs, išvyko pas kryžiuočius - visų rezgamų pinklių ir pasikė­
+    sinimų prieš Lenkiją ir Lietuvą židinį, ieškodamas pagalbos
+    -- • --
+    135
+
+    ## Puslapis 152
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bandant nuversti naująjį Lietuvos valdovą. Prūsijos ordi­
+    nas iš sykio griebėsi tos patogios progos pradėti karą ir nio­
+    koti tuos pavojingus jam kaimynus (1394 m.); kitais metais
+    Švitrigaila, kryžiuočių pulku vedinas, kartu su didžiuoju ma­
+    gistru Konradu Jungingenu įsibrovė į Lietuvą ir, nusiaubę
+    prie Gardino panemunės pavietus, sudegino Drohičiną, Nau­
+    garduką, Mirą ir Lydą, paėmė 2 200 belaisvių, 1 400 žirgų ir
+    prisiplėšė daugybę grobio, niekur nesutikę pasipriešinimo,
+    net iki Šalčininkų nusigavo51.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-078
+- c-071
+  santrauka: 'To pasiuntinio pranešta dar man, jog mūsų didysis magistras pasiuntė du Or­ dino vyresniuosius iš Prūsijos pas Lenkijos karalių, ir kad apie tai Vytautas rašė Manvydui, iš jo pačių lūpų mūsų žinianešys šitą girdėjęs.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    todėl, kad Vilnius sudegęs. To pasiuntinio
+    pranešta dar man, jog mūsų didysis magistras pasiuntė du Or­
+    dino vyresniuosius iš Prūsijos pas Lenkijos karalių, ir kad apie
+    tai Vytautas rašė Manvydui, iš jo pačių lūpų mūsų žinianešys
+    šitą girdėjęs. Dar duodame žinoti, Jūsų Prakilnybe Malonusis
+    Pone Magistrė, ir apie tai, kad (de Vörste) Vytautas vokiečių pir­
+    kliams įsakė apie Sekmines kraštą jo apleisti .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-079
+- c-072
+  santrauka: 'Amžinai šio dalyko atminčiai mes, Žygimantas Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­ lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kad [įsivėlusi] klaida per nerū­
+    pestingumą dėl vykstančių reikalų kartais neatneštų kokios
+    nors skriaudos, atsirado protingas poreikis, kad tai būtų iš­
+    dėstyta raštu ir sutvirtinta ir patikimų liudytojų liudijimu
+    patvirtinta. Amžinai šio dalyko atminčiai mes, Žygimantas
+    Senasis, Dievo malone išrinktas Lenkijos Karalystės kara­
+    lius, Lietuvos, Rusios, Prūsijos, Žemaitijos ir kt. didysis ku­
+    nigaikštis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-080
+- c-073
+  santrauka: 'Taigi mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­ nigaikštis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kadangi manome, kad iš vi­
+    sų krikščioniškojo monarcho darbų ir pastangų joks netei­
+    kia tiek daug nemirtingos šlovės, kaip rūpinimasis DIEVO
+    garbinimu, kuriuo žmonės ir įrodo, kad prisimena iš visa­
+    galio DIEVO gaunamas geradarybes ir yra dėkingi. Taigi
+    mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis
+    Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­
+    nigaikštis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-081
+- c-074
+  santrauka: 'Dusburgietis teigia, kad siekdamas pagrįsti kryžiuočių užkariavimus Prūsijoje ir jau kuris metas vedamą karą prieš Lietuvą, parodyti Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Siekdamas pagrįsti kryžiuočių
+    užkariavimus Prūsijoje  ir jau kuris metas vedamą karą prieš Lietuvą, parodyti
+    Ordino „nuopelnus“, 1326 m. Ordino brolis kunigas Petras iš Dusburgo užbaigė savo
+    kroniką ir įteikė magistrui (ji pratęsta iki 1330 m.). Tai oficialus Kryžiuočių ordino
+    valstybės kūrinys.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-082
+- c-075
+  santrauka: 'Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių, atskirų žemių.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Prūsai ir Lietuva
+
+       Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos
+    artimai  sieja  kalbos,  kultūros,  tradicijų,  senosios  religijos bendrumas,  teritorijos
+    vientisumas.
+      Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-083
+- c-076
+  santrauka: 'Dusburgietis teigia, kad tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+      Tyrimai parodė, kad jos autorius (visų pirma politine prasme) Prūsijos, prūsų vardu
+    vadino visą Kryžiuočių ordino jau užkariautą, į Ordino valstybę patekusį plotą nuo Vyslos
+    iki Nemuno. Pavyslyje, ypač Kulmo bei Lubavo srityse, gyventojai buvo mišrūs (lenkai ir
+    prūsai), nors Ordino agresijos pradžioje anksčiau kurį laiką lenkams priklausiusią Kulmo
+    sritį valdė prūsai, turėję ten savo pilių (III,7).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-084
+- c-077
+  santrauka: 'Dusburgietis teigia, kad petro iš Dusburgo kronikos IV dalies paaiškinimai, gretinantys Prūsijos įvykius su to meto visuotinės istorijos faktais, iš esmės paremti dviejų autorių dominikonų veikalais.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    56, 72, 78, 80, 87, 142—144, 147, 152 160—162, 213, 487; B.
+
+    Petro iš Dusburgo kronikos IV dalies paaiškinimai, gretinantys Prūsijos įvykius su to
+    meto visuotinės istorijos faktais, iš esmės paremti dviejų autorių dominikonų veikalais.
+      Čekijos vienuolis Martynas iš Opavos (Martinus Polonus), gyvenęs ir veikęs Prahoje,
+    po to Romoje, popiežiaus kurijoje, 1278 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-085
+- c-078
+  santrauka: 'Dusburgietis teigia, kad čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“ (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas į.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kronikos idėjinė reikšmė ir mokslinė svarba
+
+      Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
+    organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
+    platinimu. Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
+    (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
+    dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas  į
+    Ordiną — tai „šventas sumanymas“ (III,284).
+      Čia verta priminti, kad Vakarų Europos pasaulietiniai ir bažnytiniai feodalai, norėdami
+    praturtėti, užvaldyti nekrikščioniškas šalis, skelbė kryžiaus žygių idėjas: žemė su visais
+    turtais esanti dievo dovana, ja neteisėtai naudojasi krikščionybės priešai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-086
+- c-079
+  santrauka: 'Dusburgietis teigia, kad dusburgiečio kronika pabrėžia, kad ne kas kitas, o „broliai apšvarino [...] šventąją Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste, ir dabar čia kas dieną aukojama dievui“ (Pratarmė).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dusburgiečio kronika pabrėžia, kad ne kas kitas, o „broliai apšvarino [...] šventąją
+    Prūsijos žemę, kurią tenykštės gentys teršė stabmeldyste,  ir dabar čia kas dieną
+    aukojama dievui“ (Pratarmė).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-087
+- c-080
+  santrauka: 'Dusburgietis teigia, kad ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    8).
+      Ordinas kariavęs „pagal dievo valią“, todėl, kaip pabrėžia kronikininkas, broliai „nuo
+    tos dienos, kai atkilo į Prūsijos žemę, iki dabar neišleidžia iš rankų kalavijų“ (II, 9).
+      Kronikos tekstas akivaizdžiai rodo, kokiomis žiauriomis priemonėmis, dangstantis
+    krikščionybės platinimo skraiste, buvo plėtojama vokiečių feodalų ir katalikų bažnyčios
+    ekspansija  į baltų žemes.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-088
+- c-081
+  santrauka: 'Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja iš visų pusių Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    2. Prūsijos žemės aprašymas
+
+       Prūsijos žemę riboja  iš visų pusių Vysla,  Sūrioji  jūra, Nemunas, Rusios žemė,
+    Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė. Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-089
+- c-082
+  santrauka: 'Dusburgietis teigia, kad prūsais, Prūsija visas kraštas tarp Vyslos ir Nemuno galutinai pradėta vadinti tada, kai buvo pavergtas Kryžiuočių ordino (Būga K.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    XIII a. šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т. 2 (1908), стб.
+    813, 877) bei kt. vakarinių baltų žemės. Prūsais, Prūsija visas kraštas tarp Vyslos ir
+    Nemuno galutinai pradėta vadinti tada, kai buvo pavergtas Kryžiuočių ordino (Būga K. 3,
+    p. 120—121; Кушнер П. И. Этнические..., с. 154—155; Jasas R. Didysis..., p. 11; Salys
+    A. Prūsai (kalba), p. 147; MPKP, 1, p. 14—15; Powierski J. Stosunki..., p. 139; to paties,
+    Prusowie..., p. 368—371; to paties, Uwagi..., p. 128; HP, 1, 1, p. 280—281; Bednarczuk
+    L. Onomastyka..., p. 59—61).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-090
+- c-083
+  santrauka: 'Dusburgietis teigia, kad apie žemės drebėjimą Prūsijos žemėje Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    287 (280). Apie žemės drebėjimą Prūsijos žemėje
+
+      Tų pačių metų rugpjūčio 8 dieną, apie trečią valandą, visoje Prūsijoje drebėjo žemė.
+    Tris kartus suvirpėjo žemė drauge su pastatais, kurių retas išliko nesugriuvęs.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-091
+- c-084
+  santrauka: 'Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti į Prūsijos žemę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    288 (281). Apie maldininkų atvykimą
+
+      1304 viešpaties metais viešpaties įkvėpti Vokietijos maldininkai vėl suskato keliauti
+    į Prūsijos žemę. Atvyko šie kilmingieji: jo kilnybė Verneris, Hoinbergo grafas, riteriai
+    Adolfas iš Vintimelio su savo broliu ir Ditrichas iš Elnerio su savo broliu Arnoldu bei daug
+    kitų kilmingųjų iš Reino.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-092
+- c-085
+  santrauka: 'Dusburgietis teigia, kad apie mažesnį silkių sugavimą Prūsijoje Tais metais Prūsijos žemėje kur kas mažiau buvo pagaunama silkių, kurių ten buvę gausu nuo neatmenamų laikų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    114. Apie mažesnį silkių sugavimą Prūsijoje
+
+       Tais metais Prūsijos žemėje kur kas mažiau buvo pagaunama silkių, kurių ten buvę
+    gausu nuo neatmenamų laikų.
+
+
+
+                   115.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-093
+- c-086
+  santrauka: 'Dusburgietis teigia, kad apie Medvėgalio pilėnus 1329 viešpaties metais į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    9. Apie Medvėgalio pilėnus
+
+    1329 viešpaties metais  į Prūsijos žemę atžygiavo Jonas iš Liuksemburgo, Čekijos
+    karalius, su savo karalystės kilmingaisiais, su Silezijos kunigaikščiu iš Falkenbergo, su
+    Leiningeno, Etingeno, Nojenaro, Vilnau, Hanau, Virtenbergo, Saumburgo, Falkenšteino
+    grafais  ir Kerpeno, Geros, Bergo, Rotenšteino, Damiso, Kotbuso, Meiseno valdovais
+    bei Donos burggrafu  ir su daugybe Vokietijos bei Anglijos karalysčių kilmingųjų. Su
+    šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių  ir 18 tūkstančių karių,
+    neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų
+    pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo viešpaties vardu
+    pakrikštyti, tačiau neilgai trukus jie atkrito nuo krikščionybės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-094
+- c-087
+  santrauka: 'Iš savo pusės, sutikdami apsi­ krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­ tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­ lius bei Kuršius Livonijoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    — 5 —
+    ```
+    bergan pas ciesorių Karolių IV vieną savo giminaitį tartis dėl
+    priėmimo krikščionių tikėjimo. Iš savo pusės, sutikdami apsi­
+    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
+    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
+    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
+    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
+    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
+    nuo totorių užpuldinėjimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-095
+- c-088
+  santrauka: 'Nuo «nebylių seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos, kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Abu rusų valdovai stengėsi savo
+    valstybę stiprinti vakarinio kaimyno sąskaiton. Nuo «nebylių
+    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
+    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
+    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
+    visai naują epochą Lietuvos istorijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-096
+- c-089
+  santrauka: 'Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­ viams valstiečiams » (1960) ir ten parašė pratarmę.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    » (1962). Suredagavo jis taip pat
+    «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­
+    viams valstiečiams » (1960) ir ten parašė pratarmę. Jablonskis
+    buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-097
+- c-090
+  santrauka: 'Siekiant dar labiau susilpninti Abiejų Tautų Respubliką, 1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl jos II padalijimo, po kurio Abiejų Tautų Respublika neteko apie 300 tūkst.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Siekiant dar
+    labiau susilpninti Abiejų Tautų Respubliką,
+    1793 m. sausio 23 d. Prūsija su Rusija pa-
+    sirašė susitarimą dėl jos II padalijimo, po
+    kurio Abiejų Tautų Respublika neteko apie
+    300 tūkst. kv. km teritorijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-098
+
 ## Pavadinimai šaltiniuose
 
 - Prūsija

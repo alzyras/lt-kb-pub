@@ -76,4 +76,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]

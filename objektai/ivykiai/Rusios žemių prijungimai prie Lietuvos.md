@@ -58,3 +58,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

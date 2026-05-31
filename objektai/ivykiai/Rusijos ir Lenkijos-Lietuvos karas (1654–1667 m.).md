@@ -128,13 +128,17 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
+- [[objektai/asmenys/Jonušas Radvila]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/ivykiai/Tvanas]]
+- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]

@@ -45,6 +45,18 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   teiginys: 'Batoro globojami Vilniaus pirkliai prekiavo kailiais ir pasiekdavo Gniezną bei kitus Didžiosios Lenkijos miestus.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Lap. 245, tų pačių Didžiojoje Lenkijoje metinių įvykių aprašyme, Baško byloja, kad 1254 metų ge­ gužės 8 dieną, Krokuvos bažnyčioje, skelbiant Šv.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Galingą są­ jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos vaivada.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Išliko nemaža įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­ vystė nemažą prekybą, ypač kailiais, nukakdami iki pat Gniezno ir kitų Didžiosios Lenkijos miestų.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,3 +123,61 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Lap. 245, tų pačių Didžiojoje Lenkijoje metinių įvykių aprašyme, Baško byloja, kad 1254 metų ge­ gužės 8 dieną, Krokuvos bažnyčioje, skelbiant Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , Varšuva), nuro­
+    dydama, kad „1253 metais Petras, išrinktas Poznanės
+    vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
+    tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
+    kupais. (Žr. 1. 244). Lap. 245, tų pačių Didžiojoje Lenkijoje
+    metinių įvykių aprašyme, Baško byloja, kad 1254 metų ge­
+    gužės 8 dieną, Krokuvos bažnyčioje, skelbiant Šv. Stanislo­
+    vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­
+    lyvavusių buvęs Lietuvos vyskupas Vitas, dominikonas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Galingą są­ jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos vaivada.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Galingą są­
+    jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos
+    vaivada. Netrukus Voluinėje bei Podolėje įsiplieskė karas su
+    Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­
+    žiuočių ordinu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Išliko nemaža įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­ vystė nemažą prekybą, ypač kailiais, nukakdami iki pat Gniezno ir kitų Didžiosios Lenkijos miestų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jis norėjo, kad visi
+    gyventų saugiai, gynė nuo piktnaudžiavimų, prižiūrėdamas
+    nuo jo priklausančias teises, ir kartą įgytą savo valdžios au­
+    toritetą sugebėjo tvirtai išsaugoti iki pabaigos. Išliko nemaža
+    įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­
+    vystė nemažą prekybą, ypač kailiais, nukakdami iki pat
+    Gniezno ir kitų Didžiosios Lenkijos miestų. Karališkųjų
+    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
+    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
+    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
+    dė54.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

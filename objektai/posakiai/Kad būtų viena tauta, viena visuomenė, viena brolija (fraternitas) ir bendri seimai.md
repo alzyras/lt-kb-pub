@@ -73,3 +73,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]
+- [[objektai/zodynas/fraternitas]]
+- [[objektai/zodynas/statuto dėsniai]]

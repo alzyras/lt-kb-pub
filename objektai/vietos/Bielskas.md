@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1495 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1495'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -30,7 +33,10 @@ O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėm
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Bielskas - paskutinėmis lapkričio dienomis....................................1495 m.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bielskas buvo tarp krikščioniškų Trakų kunigaikštijos žemių, su kuriomis Vokiečiai įsipareigojo laikytis taikos.'
@@ -54,3 +60,15 @@ O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėm
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Bielskas - paskutinėmis lapkričio dienomis....................................1495 m.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Bielskas - paskutinėmis lapkričio dienomis....................................1495 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

@@ -59,4 +59,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/zodynas/suverenitetas suverenumas]]
+- [[objektai/zodynas/suverenumas suverenitetas]]

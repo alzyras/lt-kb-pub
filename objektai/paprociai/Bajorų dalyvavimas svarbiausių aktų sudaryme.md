@@ -249,3 +249,22 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/zodynas/Kilmingieji]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Čupurna]]
+- [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
+- [[objektai/zodynas/perdėtinis]]
+- [[objektai/zodynas/sankcija]]

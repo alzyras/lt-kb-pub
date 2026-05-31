@@ -59,9 +59,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Vilhelmas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

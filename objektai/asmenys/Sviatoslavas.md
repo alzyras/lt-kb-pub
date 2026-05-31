@@ -45,6 +45,10 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginys: 'Smolensko kunigaikščio Sviatoslavo dukra Ona mirė Trakuose ir buvo palaidota Vilniuje.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'savo Polocko karalystę», jis padarė sąjungą su Smolensko kunigaikščiu Sviatoslavu, kuris užvaldė Mstislavlį.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 
@@ -116,6 +120,21 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-005
+  santrauka: 'savo Polocko karalystę», jis padarė sąjungą su Smolensko kunigaikščiu Sviatoslavu, kuris užvaldė Mstislavlį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    savo Polocko karalystę», jis padarė sąjungą su Smolensko kunigaikščiu
+    Sviatoslavu, kuris užvaldė Mstislavlį. Maištininkai tačiau greitai buvo
+    įveikti. Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto,
+    jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -124,3 +143,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 - [[objektai/ivykiai/Smolensko sukilimas po Vorsklos mūšio|Smolensko sukilimas po Vorsklos mūšio (mūšis)]]
 - [[objektai/ivykiai/Smolensko užėmimas (1405 m.)]]
 - [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
+- [[objektai/grupes/Lietuviškoji partija]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/grupes/Rusiškoji bajorų partija]]

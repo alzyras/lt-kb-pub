@@ -70,3 +70,19 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Jidiš]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/grupes/MOPR]]
+- [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]
+- [[objektai/zodynas/judobolševizmas]]
+- [[objektai/zodynas/valymo operacijos]]
+- [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]
+- [[objektai/posakiai/„kovos su judobolševizmu“]]
+- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
+- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

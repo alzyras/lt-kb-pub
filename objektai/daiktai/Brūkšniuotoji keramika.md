@@ -97,6 +97,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/E. Danilaitė]]
+- [[objektai/asmenys/Matas (Pipino sūnus)]]
+- [[objektai/daiktai/Sidabro dirbiniai]]
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/daiktai/Geležiniai įrankiai]]
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
+- [[objektai/daiktai/Skydai]]

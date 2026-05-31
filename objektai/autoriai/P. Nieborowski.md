@@ -59,6 +59,7 @@ Nieborowski, P.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/diecezija]]
 - [[objektai/autoriai/Nieborowski, P]]
 - [[objektai/autoriai/Krasauskas, R]]
 - [[objektai/autoriai/R. Krasauskas]]

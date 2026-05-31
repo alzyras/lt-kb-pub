@@ -16,6 +16,7 @@ datos:
   - '1242 m.'
   - '1246 m.'
   - '1256 m.'
+  - '1260 m.'
   - '1265 m.'
   - '1274 m.'
   - '1313 m.'
@@ -209,6 +210,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginys: '„Kai mūšis pasibaigė, kas krikščionių gyvas liko, brolių ir ginklanešių, piligrimų ir sembų, nebegalėdami kovoti, iš baimės...'
   pagrindžia:
     - c-004
+- t-031
+  teiginys: 'Ordino pajėgos 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat.'
+  pagrindžia:
+    - c-043
+- t-032
+  teiginys: 'Dusburgietis teigia, kad apie karo su sembais rezultatų atspėjimą Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau jį ištirti, nusiuntė į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą, maloniai jį priėmė, aprodydami visą jų.'
+  pagrindžia:
+    - c-044
 
 ## Reikšmingi paminėjimai
 
@@ -1010,10 +1019,95 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-043
+  santrauka: 'Ordino pajėgos 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-044
+  santrauka: 'Dusburgietis teigia, kad apie karo su sembais rezultatų atspėjimą Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau jį ištirti, nusiuntė į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą, maloniai jį priėmė, aprodydami visą jų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie karo su sembais rezultatų atspėjimą
+
+      Pastačius Baigos pilį, sembai labai susidomėjo brolių gyvenimu ir, norėdami dar geriau
+    jį ištirti, nusiuntė  į Baigą vieną savo vyresniųjų; broliai, sužinoję šios kelionės tikslą,
+    maloniai  jį priėmė, aprodydami visą jų valgomojo, miegamojo ir bažnyčios įrengimą.
+    Šis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad
+    broliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes
+    turime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie  į mus labai panašūs,
+    bet štai kuo nuo mūsų skiriasi: jie įpratę prie vieno dalyko, kuris tikriausiai mums atneš
+    pragaištį. Mat kiekvieną naktį jie keliasi iš savo guolių ir renkasi į koplyčią, dažnai šitai
+    daro ir dienos metu, uoliai garbindami savo dievą, o mes to nedarome. Todėl jie mus
+    kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai
+    nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai
+    ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose be vargo gali susirasti
+    maisto?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Arbaletas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/zodynas/Kilmingieji]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kuorai]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Maudelis]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/daiktai/Pilies vartai|Pilies vartai (pilis, XIV a.)]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/daiktai/Rūbai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]
+- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
 - [[objektai/asmenys/Auktumas]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/ivykiai/Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje]]
@@ -1021,19 +1115,24 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - [[objektai/asmenys/Divanas]]
 - [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]
+- [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]
 - [[objektai/asmenys/Engelbertas I]]
 - [[objektai/asmenys/Glanda]]
 - [[objektai/asmenys/Glapas]]
 - [[objektai/ivykiai/Grafo iš Barbio žygis į Sembą ir pralaimėjimas]]
 - [[objektai/asmenys/Henrikas Stange]]
 - [[objektai/asmenys/Henrikas iš Plockės]]
+- [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
+- [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje]]
 - [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
 - [[objektai/paprociai/Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis|Kilmingų sembų perėjimas į Karaliaučiaus pilį su šeimynomis (pilis)]]
 - [[objektai/ivykiai/Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
 - [[objektai/asmenys/Laukstetas]]
 - [[objektai/asmenys/Noliubas]]
+- [[objektai/paprociai/Ordino brolių naktinės ir dieninės maldos koplyčioje]]
 - [[objektai/asmenys/Otokaras II]]
+- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
 - [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata]]
 - [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]
 - [[objektai/autoriai/Saxo Grammaticus]]
@@ -1041,12 +1140,29 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/ivykiai/Sembų susitaikymas ir pakartotinis pasidavimas krikščionių tikėjimui]]
 - [[objektai/asmenys/Sklodas iš Kvedenavos]]
 - [[objektai/asmenys/Stantekas]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Tirskas]]
+- [[objektai/asmenys/Treniota]]
 - [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]
 - [[objektai/grupes/Unzatrapio žemės gyventojai]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/zodynas/balista balistininkas arbaletas]]
 - [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]
 - [[objektai/zodynas/fogtas]]
+- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
+- [[objektai/autoriai/Гуревич Ф. Д]]
+- [[objektai/autoriai/Дельбрюк Г]]
 - [[objektai/asmenys/Henrikas Ulenbušas]]
 - [[objektai/posakiai/homines humanissimi]]
+- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- [[objektai/ivykiai/Bisenės papilių sudeginimas (1313 m.)]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
+- [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]
+- [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
+- [[objektai/ivykiai/Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)]]
+- [[objektai/zodynas/bažnyčios visuotinybė]]
+- [[objektai/zodynas/papilys]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
+- [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]

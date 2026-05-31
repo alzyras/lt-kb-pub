@@ -8,16 +8,18 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: paskelbta
 laikotarpis: "1926 m. birželio 17 d."
-datos: ["1926 m. birželio 17 d."]
-periodas: siuolaikine_istorija
-periodo_grupes: [tarpukaris]
-amziai:
-  - 'XX'
-date_start: '1926'
-date_end: '1926'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1926 m.'
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - '[tarpukaris]'
+amziai:
+  - 'XX'
+date_start: '1926'
+date_end: ''
 patikimumas: vidutinis
 atnaujinta: '2026-05-14'
 tags:
@@ -64,6 +66,10 @@ Nenurodyta
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
   pagrindžia:
     - c-002
+- t-004
+  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 155 III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,7 +97,31 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-003
+  santrauka: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 155 III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    155
+    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
+    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
+    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
+    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
+    rengti susirinkimus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/politinis-sprendimas]]
+
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/grupes/III Seimas]]
+- [[objektai/zodynas/civilinė metrikacija]]

@@ -61,7 +61,13 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Donatas Malinauskas]]
+- [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/autoriai/Stasys Šilingas]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Basanavičius]]
+- [[objektai/asmenys/Pranciškus Ferdinandas]]

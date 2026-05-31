@@ -40,7 +40,10 @@ NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pra
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Mūsiškius paliko miške.“ Mūšis 1945 m. kovo pradžioje NKVD divizija puolė Pušaloto, Pasvalio, Žaliosios girios partizanus Panevėžio apskrityje.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas veikė kartu su vadinamuoju specialiuoju daliniu.'
@@ -79,8 +82,27 @@ NKVD pajėgos NKVD vidaus kariuomenės 4-osios gen. “ Mūšis 1945 m. kovo pra
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Mūsiškius paliko miške.“ Mūšis 1945 m. kovo pradžioje NKVD divizija puolė Pušaloto, Pasvalio, Žaliosios girios partizanus Panevėžio apskrityje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūsiškius paliko miške.“
+
+    Mūšis
+    1945 m. kovo pradžioje NKVD divizija puolė
+    Pušaloto, Pasvalio, Žaliosios girios parti-
+    zanus Panevėžio apskrityje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/NKVD]]
+- [[objektai/grupes/Raudonieji]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]

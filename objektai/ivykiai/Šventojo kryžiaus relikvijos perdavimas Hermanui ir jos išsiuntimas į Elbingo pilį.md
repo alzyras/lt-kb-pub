@@ -93,7 +93,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas II]]
 - [[objektai/asmenys/Popiežius Honorijus III]]
+- [[objektai/grupes/Venedai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/daiktai/Šventojo kryžiaus relikvija]]

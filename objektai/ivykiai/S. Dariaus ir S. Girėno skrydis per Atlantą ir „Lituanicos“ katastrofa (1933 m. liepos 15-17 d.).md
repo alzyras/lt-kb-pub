@@ -66,5 +66,10 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
+### Susiję objektai
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Darius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
+- [[objektai/asmenys/Stasys Girėnas]]
+- [[objektai/posakiai/„paskirti save Tėvynės garbei“]]

@@ -58,4 +58,5 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/unija]]

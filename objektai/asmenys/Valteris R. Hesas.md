@@ -43,3 +43,9 @@ Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos da
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]
+- [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
+- [[objektai/grupes/Vokiečių nacionalsocialistų partija]]

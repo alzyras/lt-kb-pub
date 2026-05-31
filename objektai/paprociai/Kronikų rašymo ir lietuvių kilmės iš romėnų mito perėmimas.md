@@ -10,6 +10,12 @@ aliases:
   - 'Kandidatas Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -64,6 +70,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Knygų spausdinimas Lietuvoje virto nenutrūkstamu procesu.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -106,11 +116,35 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Knygų spausdinimas Lietuvoje virto nenutrūkstamu procesu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Knygų spausdini-
+    mas Lietuvoje virto nenutrūkstamu procesu.
+    Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kroni-
+    kų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir
+    Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito
+    krašto. Sąlygos susidarė labai palankios: senesnės istorijos nežinota, lie-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    59
+    tuvių ir lotynų kalbos panašios, taigi sukurta lietuvių kilmės iš romėnų
+    teorija, patekusi ir į Lietuvos metraščius (Bychovco kroniką).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lotynai]]
 - [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/autoriai/Mykolas Lietuvis]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Romėnai]]
 - [[objektai/asmenys/Mykolas]]

@@ -7,6 +7,8 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1534 m.'
+  - '1535 m.'
   - '1538 m.'
   - '1936 m.'
   - '2026 m.'
@@ -19,7 +21,7 @@ amziai:
   - 'XVII'
   - 'XX'
   - 'XXI'
-date_start: '1538'
+date_start: '1534'
 date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
@@ -47,6 +49,18 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   teiginys: '1538 m. Žygimanto Augusto laiške minima Drujos upė Paplaujoje, iš kurios vanduo vamzdžiais buvo nuvestas į miestą.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka­ raliaus Žygimanto Augusto laiškas, rašytas rusų kalba iš Liublino, datuo­ tas 1538 metų rugsėjo 1 dieną, su Lietuvos antspaudu ir raštininko Ostafiejaus [Eustachijaus] parašu, įspė­.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -147,3 +161,87 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Rusija pripažino Lietuvos atsiskyrimą
+    ir visišką jos nepriklausomybę lietuvių gyvenamoje teritorijoje
+    su Vilniaus sostine ir Gardinu.
+    Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant
+    Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per
+    Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo
+    ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,
+    toliau Ušos ir Buchovkos upėmis, per Modolečną, pro Voložino
+    miestą, Voložinkos, Isločės ir Beržūnės upėmis, paskum Nemunu,
+    Svisločės intaku, Lašos upe, pro Induros miestelį, Induros upe, toliau
+    pro Sidros miestelį, Kamenos upe ir pagaliau Gorodniankos upe ligi
+    Bobro upės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šios Sapiegų kariuomenės
+    dalies gynyba neleido respubliko-
+    nams organizuoti besitraukiančių
+    Sapiegų giminės senjorų persekio-
+    jimą. Etmonas, iždininkas ir marša-
+    las vakare pasiekė Vilnių, iš visų savo
+    rūmų suvežė svarbiausias vertybes į
+    dominikonų vienuolyną, kuriame ir
+    pernakvojo, o ryte, paskleidę gandą,
+    kad vyksta į Drują bei Bychovo tvir-
+    tovę, iš tikrųjų suskubo trauktis į
+    Kuršą - į Bauskę ir Mintaują. Juos
+    persekiojęs respublikonų kariuome-
+    nės dalinys įžengė į Vilnių Sapiegoms
+    jau išvykus iš miesto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka­ raliaus Žygimanto Augusto laiškas, rašytas rusų kalba iš Liublino, datuo­ tas 1538 metų rugsėjo 1 dieną, su Lietuvos antspaudu ir raštininko Ostafiejaus [Eustachijaus] parašu, įspė­.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Miesto archyve: Žygimanto Seno­
+    jo privilegija, datuota Rūdninkuose,
+    1534 metų liepos 4 dieną, ir kita, iš­
+    samesnė, išleista Vilniuje, 1535 metų
+    liepos 17 dieną, su karaliaus parašu.
+    Iš tos versmės ištekantis upelis vadi­
+    nosi Druja, nes yra miesto archyve ka­
+    raliaus Žygimanto Augusto laiškas,
+    rašytas rusų kalba iš Liublino, datuo­
+    tas 1538 metų rugsėjo 1 dieną, su
+    Lietuvos antspaudu ir raštininko Os-
+    tafiejaus [Eustachijaus] parašu, įspė­
+    jantis ponią Kiščiną, Vitebsko vaiva-
+    dienę, kad nestabdytų vandens,
+    vamzdžiais nuvesto į miestą, iš Dru­
+    jos upės Paplaujoje, tekančios netoli
+    Ziupronių kelio, nes tam yra kara­
+    liaus leidimas, kurį ji privalanti gerb­
+    ti. Toji Kiščina valdė Markučius ir ant
+    kalno prie Vilnelės turėjo didelius
+    kaimo stiliaus namus, - prie kelio, iš­
+    einančio iš daubos ir vedančio iš da­
+    bartinio Markučių dvaro į namelį, va­
+    dintą Jeruzalimu, Paplaujoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

@@ -57,4 +57,8 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
 ### Susiję objektai
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]
+- [[objektai/zodynas/monopolis privati prekyba]]
 - [[objektai/grupes/Švento Benedikto ordinas]]

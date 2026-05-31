@@ -8,7 +8,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1911 m.'
+  - '1922 m.'
   - '1923 m.'
+  - '1930 m.'
   - '1936 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
@@ -43,9 +45,28 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Alekna buvo pirmasis (1922-1930) Lie­ tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­ tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­ rijos katedros vedėjas.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
-
+- c-003
+  santrauka: 'Alekna buvo pirmasis (1922-1930) Lie­ tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­ tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­ rijos katedros vedėjas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Alekna buvo pirmasis (1922-1930) Lie­
+    tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­
+    tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­
+    rijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,
+    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
+    daugiau šaltinių ir mokslinių tyrinėjimų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų.'

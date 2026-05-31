@@ -10,14 +10,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1945 m. kovo 27 d.; kovo pradžia kaip priešistorė'
-datos:
-  - '1945 m. kovo 27 d.; kovo pradžia kaip priešistorė'
-periodas: 'siuolaikine_istorija'
-periodo_grupes: []
-amziai:
-  - 'XX'
-date_start: '1945'
-date_end: '1945'
 vaidmenys: []
 dalyviai:
   - 'Pušaloto'
@@ -27,6 +19,15 @@ dalyviai:
   - 'NKVD divizija'
   - 'J. Juška'
 susije_irasai: []
+datos:
+  - '1945 m.'
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1945'
+date_end: ''
 patikimumas: 'aukstas'
 atnaujinta: '2026-05-02'
 tags:
@@ -75,6 +76,14 @@ Nenurodyta
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
+  pagrindžia:
+    - c-005
+- t-010
+  teiginys: 'Mūšyje žuvo daugelis 222 Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas ūkininkus.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -152,6 +161,49 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “
+
+    Mūšis
+    1945 m. kovo pradžioje NKVD divizija puolė
+    Pušaloto, Pasvalio, Žaliosios girios parti-
+    zanus Panevėžio apskrityje. Persekiojami
+    partizanai pasitraukė į Ažagų-Eimuliškio
+    miškus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-006
+  santrauka: 'Mūšyje žuvo daugelis 222 Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas ūkininkus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Dienos pabaigoje,
+    pasinaudoję tamsa dalis partizanų Jokubavo
+    mišku sugebėjo prasiveržti Pakruojo link.
+    Mūšio padariniai
+    Žuvo apie 76-80 partizanų (pagal okupan-
+    tus 120-121, paimta į nelaisvę 18-19, iš kurių
+    5 sužeisti; tačiau tokio skaičiaus nepatvir-
+    tina paimti ginklai). Mūšyje žuvo daugelis
+
+    222
+
+    Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas
+    ūkininkus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -159,4 +211,6 @@ Nenurodyta
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/grupes/NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas]]

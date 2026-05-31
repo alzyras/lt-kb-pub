@@ -55,8 +55,16 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
 - [[objektai/zodynas/kulto laisvė]]
+- [[objektai/asmenys/Alfonsas Svarinskas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Lietuvos Helsinkio grupė]]
+- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
 - [[objektai/autoriai/Sigitas Tamkevičius]]
 - [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
 - [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]
+- [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

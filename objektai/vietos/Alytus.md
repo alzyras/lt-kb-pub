@@ -11,7 +11,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+susije_irasai: []
 datos:
+  - '1881 m.'
   - '1936 m.'
   - '1949 m.'
   - '1978 m.'
@@ -21,12 +23,13 @@ periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'XX a.'
   - 'modernioji Lietuva'
+  - 'naujieji laikai'
 amziai:
+  - 'XIX'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1881'
 date_end: '2026'
-susije_irasai: []
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -87,6 +90,18 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
   pagrindžia:
     - c-010
+- t-017
+  teiginys: '173 r ‘wv 2 m = o vi = = x rą a 7 sa kovos ## Puslapis 176 LIETUVOS, RESPUBLIKA Prieš mūšį Įgyvendindamos Kauno užėmimo planą bolševikų pajėgos ketino veržtis iki Nemuno, persikelti per jį Prienuose ir Alytuje ir pulti Kauną iš pietų.'
+  pagrindžia:
+    - c-011
+- t-018
+  teiginys: '“ pulko kario kepurė Rusiška 1881 modelio dragūnų šaškė prieš tai nieko nepranešę atsitraukė ir paliko juos vienus Alytuje).'
+  pagrindžia:
+    - c-012
+- t-019
+  teiginys: '28 Tas sandėris buvo sudarytas slapta girioje, prie dabartinių Daugų, Tra­ kų paviete, netoli nuo Alytaus, kaip manau (auf dem Felde Daudisken); tarp atvykusiųjų į tariamą medžiok­ lę buvo: Jogaila, lydimas Lietuvos kunigaikščių Vytauto ir Jono, bei Vaidilos.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -338,3 +353,104 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-011
+  santrauka: '173 r ‘wv 2 m = o vi = = x rą a 7 sa kovos ## Puslapis 176 LIETUVOS, RESPUBLIKA Prieš mūšį Įgyvendindamos Kauno užėmimo planą bolševikų pajėgos ketino veržtis iki Nemuno, persikelti per jį Prienuose ir Alytuje ir pulti Kauną iš pietų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Atgarsis apie šią
+    pergalę plačiai pasklido po visą Lietuvą,
+    įkvėpdamas lietuvius tolesnei kovai.
+
+    173
+
+    r
+    ‘wv
+    2
+
+    m
+
+    =
+
+    o
+
+    vi
+
+    =
+    =
+    x
+    rą
+
+    a
+
+    7
+    sa
+
+    kovos
+
+    ## Puslapis 176
+
+    LIETUVOS,
+    RESPUBLIKA
+
+    Prieš mūšį
+    Įgyvendindamos Kauno užėmimo planą
+    bolševikų pajėgos ketino veržtis iki
+    Nemuno, persikelti per jį Prienuose ir
+    Alytuje ir pulti Kauną iš pietų. Tai buvo
+    svarbi kompleksinių Raudonosios armi-
+    jos veiksmų plano, nukreipto prieš at-
+    gimusį Lietuvos valstybingumą, dalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-012
+  santrauka: '“ pulko kario kepurė Rusiška 1881 modelio dragūnų šaškė prieš tai nieko nepranešę atsitraukė ir paliko juos vienus Alytuje).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “
+
+    pulko kario
+    kepurė
+
+    Rusiška 1881 modelio dragūnų šaškė
+
+    prieš tai nieko nepranešę atsitraukė ir
+    paliko juos vienus Alytuje). Tačiau va-
+    sario 14-15 d. naktį lietuviai ir vokie-
+    čiai išstūmė bolševikus iš Alytaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-013
+  santrauka: '28 Tas sandėris buvo sudarytas slapta girioje, prie dabartinių Daugų, Tra­ kų paviete, netoli nuo Alytaus, kaip manau (auf dem Felde Daudisken); tarp atvykusiųjų į tariamą medžiok­ lę buvo: Jogaila, lydimas Lietuvos kunigaikščių Vytauto ir Jono, bei Vaidilos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+    28
+    Tas sandėris buvo sudarytas slapta
+    girioje, prie dabartinių Daugų, Tra­
+    kų paviete, netoli nuo Alytaus, kaip
+    manau (auf dem Felde Daudisken);
+    tarp atvykusiųjų į tariamą medžiok­
+    lę buvo: Jogaila, lydimas Lietuvos
+    kunigaikščių Vytauto ir Jono, bei
+    Vaidilos, ir didysis komtūras, ku­
+    ris jiems iškėlė puikias vaišes. Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019

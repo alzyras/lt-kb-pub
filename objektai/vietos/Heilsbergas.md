@@ -43,6 +43,10 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   teiginys: 'Dusburgietis teigia, kad be to, užkariavo Heilsbergo pilį, kuri tuo metu buvo pagudėnų rankose, vienus žmones išsivarydami į nelaisvę, o kitus išžudydami, ir nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Nuo Marienburgo mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos maršalu B.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo pastatytos Brunsbergo259 ir Heilsbergo pilys260, o Galindos žemėje — vienas miestas261, o jų apsaugai ten palikta daug brolių ir ginklanešių.'
@@ -92,3 +96,18 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Nuo Marienburgo mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos maršalu B.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    )
+    Livonijos kariuomenė laivais atvyko Sembon. Nuo Marienburgo
+    mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
+    maršalu B. Hevelmannu ir pradėjo taikos derybas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

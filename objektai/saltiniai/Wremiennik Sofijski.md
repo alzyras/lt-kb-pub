@@ -9,19 +9,22 @@ aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 laikotarpis: ''
-datos:
-  - '1347 m.'
-  - '1430 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
-  - 'XV'
-date_start: '1347'
-date_end: '1430'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1347 m.'
+  - '1430 m.'
+  - '1827 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XIX'
+date_start: '1347'
+date_end: '1827'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-27'
 tags: []
@@ -66,7 +69,10 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
     - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-006
+  teiginys: 'Tas galingas didikas, paėmęs už žmoną Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir 18 Wremiennik Sofijski, p. 334.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Wremiennik Sofijski nurodomas dėl Šv. Mikalojaus bažnyčios Vilniuje egzistavimo 1347 m.'
@@ -181,3 +187,22 @@ Wremiennik Sofijski Balińskio tekste naudojamas kaip Rusios metraštinės tradi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Tas galingas didikas, paėmęs už žmoną Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir 18 Wremiennik Sofijski, p. 334.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tas galingas didikas, paėmęs už žmoną
+    Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
+    18
+    Wremiennik Sofijski, p. 334. Žr.
+    Danilovičių: Latopisiec Litwy i
+    Kronika Ruška, Vilniuje, 1827 m. 1.170;
+    užsimena apie tos bažnyčios Vilniu­
+    je egzistavimą jau 1347 metais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

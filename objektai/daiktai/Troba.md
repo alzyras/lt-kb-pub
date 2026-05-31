@@ -126,4 +126,4 @@ Nenurodyta
 - [[objektai/daiktai/Juostos]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/daiktai/Žibintojas]]
+- [[objektai/paprociai/Kovų vietų neliečiamumas]]

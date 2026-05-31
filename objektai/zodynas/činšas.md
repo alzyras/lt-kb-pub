@@ -13,12 +13,17 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+laikotarpis: '1398-1404 m. kontekstas; 1401 m. sukilimų kontekstas'
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos:
   - '1398 m.'
   - '1541 m.'
   - '1573 m.'
   - '1632 m.'
   - '1670 m.'
+  - '1763 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -26,12 +31,9 @@ amziai:
   - 'XIV'
   - 'XVI'
   - 'XVII'
+  - 'XVIII'
 date_start: '1398'
-date_end: '1670'
-laikotarpis: '1398-1404 m. kontekstas; 1401 m. sukilimų kontekstas'
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
+date_end: '1763'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -74,6 +76,10 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   teiginys: 'Šis činšas buvo mokamas vienuolika metų, bet paskui liautasi mokėti, ir kapitula su kunigaikščiu Kristupu pradėjo teismo procesą dėl Filipovo namo.'
   pagrindžia:
     - c-007
+- t-011
+  teiginys: '1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­ dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų, pusę to činšo, 400.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -215,9 +221,58 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-008
+  santrauka: '1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­ dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų, pusę to činšo, 400.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O nuo 1763 metų, Komisijos sprendimu, moka tik 3 nuo­
+    šimčius, kas metinių pajamų tesudaro 165 auksinus.
+    1632 metais sausio 2-ą Akademijos Rektorius Frizijus iš
+    Žemaičių vyskupo Merkelio Geišos Eljaševičiaus, jo mūrinį
+    quondam [kitados] Eljaševičiaus, ad praesens [dabar] Vaito va­
+    dinamą, nupirkęs, iš metinio činšo, siekiančio 800 auksinų,
+    pusę to činšo, 400 auksinų, Valerijono bursai moka, kas iki
+    šiol būdavo punktualiai atiduodama Valerijono konvikto gy­
+    ventojams.
+    Bet Vilniaus mūriniai namai, Valerijono bursai užrašyti
+    vyskupo Valerijono Protasevičiaus, prieš 1670 metus, prie­
+    šo puolimo metu, kaip ir visas miestas, buvo apiplėšti ir su­
+    deginti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
 - [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/bursa]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/činšininkas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/asmenys/Vilčiopolskis]]
+- [[objektai/zodynas/Činšas činšininkas]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
+- [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai]]
+- [[objektai/asmenys/Merkelis Geiša Eljaševičius]]
+- [[objektai/asmenys/Pilypas Frizijus]]

@@ -6,15 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
+datos:
+  - '1490 m.'
+  - '1517 m.'
+  - '1519 m.'
+  - '1522 m.'
+  - '1541 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XIV'
+  - 'XV'
   - 'XVI'
   - 'XVII'
-date_start: ''
-date_end: ''
+date_start: '1490'
+date_end: '1541'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -78,7 +85,10 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir Lenkijos valstybėse gyvenusius rytų slavus.'
   pagrindžia:
     - c-009
-
+- t-010
+  teiginys: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
+  pagrindžia:
+    - c-010
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rusėnų ir žemaičių gyvenamose valstybės pakraščių teritorijose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
@@ -230,39 +240,79 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
+    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
+    Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Pranciškus]]
+- [[objektai/autoriai/Pranciškus Skorina]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metrika]]
+- [[objektai/posakiai/„nuo jūros iki jūros“]]
+- [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/asmenys/Bazilijus Ciapinskis]]
+- [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/asmenys/Jagurčinas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/paprociai/Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
 - [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/asmenys/Mamšėjus]]
 - [[objektai/asmenys/Mengu Timūras]]
+- [[objektai/grupes/Mongolai]]
+- [[objektai/grupes/Mongolų imperija]]
+- [[objektai/autoriai/Mykolas Lietuvis]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/asmenys/Olegas (Romano sūnus)]]
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]
+- [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/zodynas/lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje]]
+- [[objektai/zodynas/oficialusis kultūros modelis]]
+- [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]
 - [[objektai/zodynas/polonizacija integracinė kalba]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
+- [[objektai/posakiai/„Nors lietuviu esu gimęs ir lietuviu teks man mirti...“]]
 - [[objektai/autoriai/B. Włodarski]]
 - [[objektai/grupes/Oginskiai]]
 - [[objektai/grupes/Tiškevičiai]]

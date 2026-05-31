@@ -69,5 +69,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/S. Grunau]]
+- [[objektai/autoriai/J. Poverskis]]
 - [[objektai/autoriai/Powierski J]]
 - [[objektai/autoriai/Иванов В. В]]

@@ -57,3 +57,6 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
 ### Susiję objektai
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]
+- [[objektai/grupes/Vilniaus universiteto Tarptautinių santykių ir politikos mokslų institutas]]

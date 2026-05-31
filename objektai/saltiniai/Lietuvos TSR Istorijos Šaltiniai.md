@@ -45,6 +45,10 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -73,4 +77,19 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95. Kai kurios
+    kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas
+    kronikos vertimas čia publikuojamas pirmą kartą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
 ## Bibliografiniai įrodymai

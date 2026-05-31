@@ -84,4 +84,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos laisvės armija]]
 - [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]
+- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]

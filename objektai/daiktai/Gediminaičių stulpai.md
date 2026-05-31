@@ -75,6 +75,10 @@ Nenurodyta
   teiginys: 'Sąjūdžio ženklas buvo sukurtas su Gediminaičių stulpais.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 235 Sąjūdžio ženklas su Gedimino stulpais (dail.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -147,11 +151,48 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 235 Sąjūdžio ženklas su Gedimino stulpais (dail.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Čekoslo-
+    vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
+    ir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    235
+    Sąjūdžio ženklas su Gedimino stulpais
+    (dail. Giedrius Reimeris, Algimantas
+    Nasvytis)
+    Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
+    1939–1940 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
+- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/daiktai/Lietuvos trispalvė]]
+- [[objektai/autoriai/V. Kudirka]]
+- [[objektai/asmenys/Vincas Kudirka]]

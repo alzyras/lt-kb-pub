@@ -73,5 +73,6 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 ### Susiję objektai
 - [[objektai/grupes/Liuterionys]]
 - [[objektai/grupes/Protestantai]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
 - [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]

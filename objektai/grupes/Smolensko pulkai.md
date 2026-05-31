@@ -34,6 +34,10 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   teiginys: 'Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Mūsų nuomonę apie šio laiško senumą patvirtina ne tik jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą 162 ## Puslapis 179 Il KNYGA neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,3 +79,40 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Mūsų nuomonę apie šio laiško senumą patvirtina ne tik jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą 162 ## Puslapis 179 Il KNYGA neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    " (Didžiai gerbiamam Livonijos magistrui
+    šis laiškas turi būti tikrai ir nedelsiant atiduotas).
+    Mūsų nuomonę apie šio laiško senumą patvirtina ne tik
+    jo pobūdis, bet ir ta užuomina apie Švitrigailos paėmimą
+    162
+
+    ## Puslapis 179
+
+    Il KNYGA
+    neleidžia manyti buvus kitus metus, juk kaip tik tuo laiku
+    Vytautas su Smolensko pulkais Švitrigailos ir Livonijos už­
+    imtą Vitebską po keturių savaičių apgulties atgavo ir patį
+    Švitrigailą paėmė į nelaisvę. Kaip buvo išvaduotas Švitrigai­
+    la ir kitos žinios iš šio laiško iki šiol istorijoje nebuvo mini­
+    mos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Lengvenis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
+- [[objektai/grupes/Livonijos ordinas]]

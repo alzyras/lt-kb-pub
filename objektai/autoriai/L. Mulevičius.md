@@ -61,4 +61,5 @@ Mulevičius 120.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Antspaudai]]
 - [[objektai/zodynas/gubernija]]

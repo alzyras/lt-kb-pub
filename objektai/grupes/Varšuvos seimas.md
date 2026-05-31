@@ -49,9 +49,6 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

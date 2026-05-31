@@ -6,12 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
+datos:
+  - '1422 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XV'
-date_start: ''
+date_start: '1422'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -88,7 +90,34 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-011
+  teiginys: 'Zbignievas Olesnickis — didelis nepriklauso­ mos Vytauto politikos priešas.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą, sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui nepasitenkinimą^3 ).'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­ bėje ir jo politikai.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Olesnickis, kuris, patekęs į kanclerius be Vytauto žinios ir pritarimo, pastojo jo įtakai kelią į Lenkiją.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Olesnickis1 2), Krokuvos vysku­ pas, griežtai stojo prieš karūnacijos sumanymą, pastebėdamas, kad tai esąs naujas dalykas, reikalaująs didelio apgalvojimo.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­ nę, atsakė Zigmanto pavedamas Dr.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Olesnickio ir lenkų ponų užsispyrimą, kaip didžiausią kliū­ tį^2 ).'
+  pagrindžia:
+    - c-017
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai.'
@@ -261,12 +290,142 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Zbignievas Olesnickis — didelis nepriklauso­ mos Vytauto politikos priešas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas, tur būt, niekada
+    nuoširdžiai nemanė būti čekų karalium, nes tam reikėjo ilgų
+    kovų su vokiečiais ir popiežium, o Vytautui buvo reikalinga tai­
+    ka Vakaruose ir geri santykiai su Bažnyčia. Jis ilgai jau ne­
+    lankė rusų kraštų, kur mielai kreipdavo savo žirgą; pasibaigė
+    ir lenkų draugingumas, nes karaliaus dvare įgijo daug įtakos
+    Krokuvos vysk. Zbignievas Olesnickis — didelis nepriklauso­
+    mos Vytauto politikos priešas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą, sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui nepasitenkinimą^3 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Toks įžeidžiantis ir neteisingas klausimo išsprendimas
+    suglaudė abi valstybes į bendrą kovą. Vytautas kartu su karū­
+    nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo atstovą,
+    sekretorių Mikalojų Cebulką, kuris jo vardu pareiškė Zigmantui
+    nepasitenkinimą^3 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­ bėje ir jo politikai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lenkų užsispyrimas,
+    trukęs net ketverius metus, suerzino Vytautą dar labiau, kai
+    1422-23 m. skirstant į karūnos dignitorių vietas, nežiūrint tos
+    įtakos, kurią jis turėjo tame dalyke, aukščiausios vietos atiteko
+    žmonėms, kurie, kaip kad ir naujasis Krokuvos vyskupas Zb.
+    Olesnickis, buvo priešingi jo turimai persvarai bendroje valsty­
+    bėje ir jo politikai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Olesnickis, kuris, patekęs į kanclerius be Vytauto žinios ir pritarimo, pastojo jo įtakai kelią į Lenkiją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet Vy-
+
+
+    ```
+    — 201
+    ```
+    tauto šitoji įtaka ėmė galop silpnėti. Mat, tuo metu Lenki­
+    joj iškilo naujas, gabus ir energingas politikas, didelis Vy­
+    tauto užsimojimų priešas, Zb. Olesnickis, kuris, patekęs į
+    kanclerius be Vytauto žinios ir pritarimo, pastojo jo įtakai
+    kelią į Lenkiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Olesnickis1 2), Krokuvos vysku­ pas, griežtai stojo prieš karūnacijos sumanymą, pastebėdamas, kad tai esąs naujas dalykas, reikalaująs didelio apgalvojimo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    210
+    ```
+    ```
+    arkivyskupas savo ilgoj kalboj nei teigė nei atmetė projekto^1 );
+    tačiau karingas ir be takto Zb. Olesnickis1 2), Krokuvos vysku­
+    pas, griežtai stojo prieš karūnacijos sumanymą, pastebėdamas,
+    kad tai esąs naujas dalykas, reikalaująs didelio apgalvojimo.
+    Žinoma, nepraėjo lietuviams nepriminęs Jogailos padarytos
+    unijos, kuria jis amžinai prijungęs Lietuvą prie Lenkijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­ nę, atsakė Zigmanto pavedamas Dr.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    į tą Krokuvos profesorių, be abejo
+    Zb. Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
+    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Olesnickio ir lenkų ponų užsispyrimą, kaip didžiausią kliū­ tį^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    231
+    ```
+    pasitiko Vytautas^1 ) su savo svečiais, kurie buvo atvykę į jo ka­
+    rūnacijos iškilmes. Ant rytojaus įvyko didelis pasitarimas, ku­
+    riame Jogaila griežtai stojo už Vytauto karūnaciją ir nurodė
+    Zb. Olesnickio ir lenkų ponų užsispyrimą, kaip didžiausią kliū­
+    tį^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
@@ -274,8 +433,10 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/dignitoriai]]
 - [[objektai/zodynas/pakancleris]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
 - [[objektai/grupes/Krokuvos profesoriai]]
 - [[objektai/zodynas/Romos karalius]]

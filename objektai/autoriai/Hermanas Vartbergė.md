@@ -8,13 +8,15 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1236 m.'
+  - '1329 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
   - 'viduramžiai'
 amziai:
   - 'XIII'
+  - 'XIV'
 date_start: '1236'
-date_end: ''
+date_end: '1329'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -36,7 +38,10 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '.“ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.'
@@ -68,6 +73,25 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '.“ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    .“
+
+    LIETUVIAI PRIE RYGOS
+
+    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
+    šinomis sunaikina Piltenės pilį.
+
+    „1329 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

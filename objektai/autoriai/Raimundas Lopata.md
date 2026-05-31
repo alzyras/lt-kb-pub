@@ -108,3 +108,8 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]

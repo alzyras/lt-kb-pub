@@ -132,6 +132,8 @@ Nenurodyta
 - [[temos/įrankis]]
 
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Anthony Kiedis]]
 - [[objektai/asmenys/Bob Dylan]]
 - [[objektai/asmenys/David Gilmour]]
 - [[objektai/asmenys/Eric Clapton]]
@@ -139,6 +141,8 @@ Nenurodyta
 - [[objektai/asmenys/George Harrison]]
 - [[objektai/asmenys/Keith Richards]]
 - [[objektai/asmenys/Leonard Cohen]]
+- [[objektai/asmenys/Nadine Gordimer]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Bruce Springsteen]]
 - [[objektai/asmenys/Jimi Hendrix]]
 - [[objektai/asmenys/Paul McCartney]]

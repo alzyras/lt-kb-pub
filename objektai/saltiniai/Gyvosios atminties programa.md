@@ -31,9 +31,24 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '241, „MŪŠIO DALYVIO ATSIMINIMAI“, LGGRT centras, „Gyvosios atminties programa“.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
-
+- c-002
+  santrauka: '241, „MŪŠIO DALYVIO ATSIMINIMAI“, LGGRT centras, „Gyvosios atminties programa“.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    241, „MŪŠIO DALYVIO ATSIMINIMAI“, LGGRT centras, „Gyvosios atminties programa“.
+    p. 242, „NKVD SMOGIKAI“, LGGRT centras, „Gyvosios atminties programa“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'LGGRT centro „Gyvosios atminties programa“ pateikė mūšio liudininkės atsiminimus.'

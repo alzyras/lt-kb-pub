@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1000 m.'
   - '1398 m.'
   - '1407 m.'
   - '1409 m.'
@@ -18,12 +19,14 @@ periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
   - 'modernioji Lietuva'
+  - 'viduramžiai'
 amziai:
+  - 'X'
   - 'XIV'
   - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1398'
+date_start: '1000'
 date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
@@ -117,6 +120,34 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginys: 'Į Vilnių pasiųsti Didžiojo Naugardo bojarinai sudarė su Švitrigaila sutartį dėl saugumo ir prekybos laisvės.'
   pagrindžia:
     - c-018
+- t-019
+  teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Be to, Rusios miestai, būtent Pskovas ir Didysis Naugardas, atsidūrė kitokiose aplinkybėse.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Naugardo ir Por­ chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10.000 rublių kontribucijos (1428).'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Naugarde)^183 , drauge su Treniota, Mindaugas išžygiavo Livonijon ir nesėkmingai puolė Cesio (Wendeno) pilį.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Naugardu, o Lietuvos įtakoje — Tverė.'
+  pagrindžia:
+    - c-025
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -393,3 +424,132 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-019
+  santrauka: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Gegužės 15 d.
+
+    Skirsnemunėje Švitrigaila ir Ordinas
+    patvirtino prieš metus pasirašytą sutartį,
+    taip pat Švitrigaila sustiprino ryšius su
+    Naugardu, Pskovu, Mozūrija, Odojevo ir
+    Tverės kunigaikščiais. Tuo tarpu Jogailos
+    Lenkijos santykiai su Ordinu aštrėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Be to, Rusios miestai, būtent Pskovas ir Didysis Naugardas, atsidūrė kitokiose aplinkybėse.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Didžiulė politinė permaina, atėjusi per Jogailą
+    su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos
+    vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­
+    tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau
+    laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
+    das, atsidūrė kitokiose aplinkybėse. Anksčiau už Vilnių įkurti,
+    tinkami prekybai, jie greičiau virto tankiai gyvenamomis ir tur­
+    tingesnėmis gyvenvietėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­ momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­ rantuojama abipusis saugumas ir prekybos laisvė6.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Volumes gyventojai, jausdami karaliui anti­
+    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
+    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
+    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
+    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
+    tarti, sudarė su juo ilgalaikes paliaubas. Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Naugardo ir Por­ chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10.000 rublių kontribucijos (1428).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Yra žinoma, kad jis, kariaudamas su Pskovu, pa­
+    sitraukė nuo jo tik sutikus sumokėti 1000 rublių kontribucijos,
+    o už belaisvius — pridėjus dar 450 rublių. Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Todėl suprantama,
+
+
+    (^122) I SKYRIUS: LIETUVOS PROISTORĖ
+    kodėl lietuvių kunigaikščiai nuvesdavo savo karinius būrius gana
+    toli, kur buvo daugiau ko grobti. Jie pasiekdavo plotus turtingųjų
+    Didžiojo Naugardo ir Pskovo respublikų. Rytuose jie atsitrenkdavo
+    į tolimus Dniepro plotus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Naugarde)^183 , drauge su Treniota, Mindaugas išžygiavo Livonijon ir nesėkmingai puolė Cesio (Wendeno) pilį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jis sugebėjo pagaliau priversti Mindaugą,
+    kurio su Livonijos magistru dovanomis keitimosi laikotarpis jau buvo
+    pasibaigęs^182 , viešai nutraukti santykius su kryžiuočiais ir įsijungti
+    prieš juos į kovą. Padaręs sąjungą su Aleksandru Nevskiu (Didž.
+    Naugarde)^183 , drauge su Treniota, Mindaugas išžygiavo Livonijon
+    ir nesėkmingai puolė Cesio (Wendeno) pilį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Naugardu, o Lietuvos įtakoje — Tverė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
+    Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
+    tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
+    pasirinkti sau globą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025

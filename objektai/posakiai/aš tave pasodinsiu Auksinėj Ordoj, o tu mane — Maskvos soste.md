@@ -36,7 +36,10 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Jis, kaip ir Algirdas, gerai suprato, kad turėti savo rankose Maskvą, reiškė turėti visą Rusiją ir jos jėgas.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas priėmė Tochtamyšą, tikėdamasis jį panaudoti totorių galybei sulaužyti ir vėliau atsisėsti Maskvos soste.'
@@ -79,6 +82,26 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Jis, kaip ir Algirdas, gerai suprato, kad turėti savo rankose Maskvą, reiškė turėti visą Rusiją ir jos jėgas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis, kaip ir
+    Algirdas, gerai suprato, kad turėti savo rankose Maskvą, reiškė
+    turėti visą Rusiją ir jos jėgas. Todėl ir nenuostabu, kad jis
+    nuoširdžiai priėmė atbėgusį pas save Tochtamyšą, tikėdamas jį
+    panaudoti pačių totorių galybei sulaužyti, ir paskui, pasirėmus
+    tais pačiais totoriais, atsisėsti Maskvos soste. Tokį Vytauto
+    užsimojimą nurodo ir rusų metraščiai: esą Vytautas atbėgu­
+    siam Tochtamyšui pareiškęs: aš tave pasodinsiu Auksinėj Ordoj,
+    o tu mane — Maskvos soste^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -89,3 +112,5 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/saar]]
 - [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]

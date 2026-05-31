@@ -8,6 +8,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1325 m.'
+  - '1558 m.'
+  - '1560 m.'
+  - '1561 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -16,6 +19,7 @@ periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XIV'
+  - 'XVI'
   - 'XX'
   - 'XXI'
 date_start: '1325'
@@ -55,6 +59,10 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   teiginys: '113 Tamopolis 267 Tamovas 269, 283 Tarpumiškiai 135 Tartu 227 ; Tartu archyvas 89 ; žr.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos salą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -119,3 +127,21 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Suomijos įlanka, „ 5 1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos salą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Suomijos įlanka, „ 5
+
+    1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos
+    teritorijos su Narvos ir Tartu miestais, Danija užvaldė Saremos
+    salą. 1560 m. rusai užėmė Alūksnę, Vilijandį. Švedai užėmė šiau-
+
+    1561 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

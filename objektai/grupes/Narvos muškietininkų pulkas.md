@@ -36,7 +36,10 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Mėginta šautuvus gaminti Gardine, tačiau vadovybė savais gamintojais nepasitikėjo Rusijos pajėgos Lietuviams puolant balandžio 23 d. Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo muškietininkų pulko du batalionai, Dono kazokų pulkas, keturios lauko artilerijos kompanijos (kuopos) ir keletas kitų smulkesnių dalinių.'
@@ -80,6 +83,34 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Mėginta šautuvus gaminti Gardine, tačiau vadovybė savais gamintojais nepasitikėjo Rusijos pajėgos Lietuviams puolant balandžio 23 d. Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mėginta šautuvus gaminti Gardine,
+
+    tačiau vadovybė savais gamintojais nepasitikėjo
+
+    Rusijos pajėgos
+
+    Lietuviams puolant balandžio 23 d.
+    Vilniuje buvusią rusų įgulą sudarė:
+    Narvos muškietininkų pulko vienas
+    batalionas ir trys kompanijos (kuo-
+    pos), Pskovo muškietininkų pul-
+    ko du batalionai, Dono kazokų
+    pulkas, keturios lauko artileri-
+    jos kompanijos (kuopos) ir ke-
+    letas kitų smulkesnių dalinių. Iš
+    viso 2500 pėstininkų, 300 rai-
+    telių ir 19 artilerijos pabūklų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

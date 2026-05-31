@@ -87,5 +87,7 @@ tags:
 - [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
 - [[objektai/zodynas/kulto laisvė]]
 - [[objektai/asmenys/Alfonsas Svarinskas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/autoriai/Sigitas Tamkevičius]]
 - [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]
 - [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

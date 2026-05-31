@@ -1,0 +1,125 @@
+---
+tipas: paprotys
+pavadinimas: 'Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1179 m.'
+  - '1697 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XII'
+  - 'XVII'
+date_start: '1179'
+date_end: '1697'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - kraštas
+  - kunigaikštis
+  - paprotys
+  - tauta
+---
+# Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje
+
+## Santrauka
+
+50 ## Puslapis 67 I KNYGA las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­ mus rengęs.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: '50 ## Puslapis 67 I KNYGA las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­ mus rengęs.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '50 ## Puslapis 67 I KNYGA las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­ mus rengęs.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tad
+    kad ir kurią iš visų tų legendų pripažintume esant tikro-
+    viškiausia, vis vien neabejotinas dalykas, jog Vilniaus įkū­
+    rimą ne Gediminui, bet jo pirmtakams dera priskirti. Jau,
+    pasak mūsų kronikų, Lietuvos kunigaikštis Germantas
+    XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidi-
+    k
+    Č a c k i s, gavęs išrašą iš tos Snorro
+    kelionės aprašymo rankraščio, esan­
+    čio Kopenhagos bibliotekoje, pirma­
+    sis apie tai užsiminė. Žr. O Liteiv. i
+    Polsk. Prawach, T. 1,1. 8. Linkėdamas
+    tiems, kurie imsis Lietuvos istorijos,
+    gerai susipažinti su tradicijomis, ku­
+    rių Islandijos sagose yra ganėtinai.
+    Įdedame čia trumpą žinutę apie tą
+    Snorro ir jo darbus. Snorro S t u r-
+    1 e s o n, tai yra, Snorro, Sturlės sū­
+    nus, vadinamas Šiaurės tautų isto­
+    rijos tėvu, kilęs iš pirmųjų tos salos
+    naujakurių garsiausios giminės, gi­
+    mė 1179 metais Islandijoje. Užsimo­
+    jęs parašyti Norvegijos istoriją, sa­
+    vo ilgų kelionių metu apsilankė ne
+    tik visame Skandinavijos pusiasaly­
+    je, bet netgi Europos žemyno šiauri­
+    nės dalies daugelyje kraštų ir, nepai­
+    sant ypatingų sunkumų ir pavojų,
+    kuriuos keliautojas patyrė tais bar­
+    bariškais laikais, gausiai surinko
+    svarbių žinių Šiaurės istorijai. Jo kū­
+    rinys, pavadintas Heimskringla, tai
+    yra Pasaulis, arba tiksliau - Žemės ru­
+    tulys, pirmiausia atspausdintas iš
+    rankraščio, pasirodė 1697 metais
+    Stokholme, in folio, Peringskioel-
+    d o išleistas trimis kalbomis: islan­
+    dų, švedų ir lotynų. Tai pati svar­
+    biausia, seniausia šiauriečių kroni­
+    ka, pradedama Ynglinga Saga, arba
+    legenda apie karališką Ynglingų gi­
+    minę, ir baigiama kitomis sagomis,
+    senesnėmis, arba sukurtomis pagal
+    anuomet žinotas kai kurių skaldų
+    giesmes.
+    50
+
+    ## Puslapis 67
+
+    I  KNYGA
+    las, kunigaikščių kapavietes padaręs ir savo Dievų šlovini­
+    mus rengęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Germantas]]
+- [[objektai/zodynas/Puslapis 67]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Švedai]]

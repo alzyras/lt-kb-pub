@@ -82,3 +82,4 @@ Nenurodyta
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]

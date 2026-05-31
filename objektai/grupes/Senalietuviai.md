@@ -67,8 +67,16 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Adomas (auksakalys)]]
+- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Mickevičius]]
+- [[objektai/zodynas/istorinė Lietuva]]
+- [[objektai/asmenys/Česlovas Milošas]]
 - [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/zodynas/senalietuviai jaunalietuviai]]
+- [[objektai/asmenys/Czesław Miłosz]]
 - [[objektai/grupes/Lietuvos Respublika]]

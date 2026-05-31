@@ -51,7 +51,9 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]

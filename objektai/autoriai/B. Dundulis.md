@@ -224,3 +224,8 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Istorikų kolektyvas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/ivykiai/Lietuvos kova prieš kryžiuočius Konstanco bažnytiniame susirinkime (1414-1418 m.)]]

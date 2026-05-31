@@ -1,0 +1,733 @@
+---
+tipas: grupe
+pavadinimas: 'Vilniaus magistratas'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1330 m.'
+  - '1432 m.'
+  - '1522 m.'
+  - '1524 m.'
+  - '1536 m.'
+  - '1539 m.'
+  - '1545 m.'
+  - '1560 m.'
+  - '1568 m.'
+  - '1577 m.'
+  - '1601 m.'
+  - '1632 m.'
+  - '1646 m.'
+  - '1651 m.'
+  - '1654 m.'
+  - '1667 m.'
+  - '1668 m.'
+  - '1786 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XVII'
+  - 'XVIII'
+date_start: '1330'
+date_end: '1786'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - grupe
+  - karalius
+  - kunigaikštis
+  - valdovas
+---
+# Vilniaus magistratas
+
+## Santrauka
+
+O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar­ kiams, įvairius savo reikalavimus ir sumetimus išsakydamas, užtat 1667 metų balandžio 4 dieną Vilniaus magistratas stojo į teismą su Šv. Jus Patronatus [teises], garbiosios Vilniaus kapitulos perleistas Rektoriams, apaštališkasis nun­ cijus Bretanės vyskupas Jonas Andrius Apaštališkojo Sosto valia patvirtino, o 1651 metais gruodžio 21 dieną Vilniaus vys­ kupas Jurgis Tiškevičius tą. 1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino.
+
+## Teiginiai
+- t-001
+  teiginys: 'O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar­ kiams, įvairius savo reikalavimus ir sumetimus išsakydamas, užtat 1667 metų balandžio 4 dieną Vilniaus magistratas stojo į teismą su Šv.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Jus Patronatus [teises], garbiosios Vilniaus kapitulos perleistas Rektoriams, apaštališkasis nun­ cijus Bretanės vyskupas Jonas Andrius Apaštališkojo Sosto valia patvirtino, o 1651 metais gruodžio 21 dieną Vilniaus vys­ kupas Jurgis Tiškevičius tą.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: '1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė Vilniaus magistratui už tam tikrą sumą, įpareigodamas, kad magistratas procentus, nuo sumos už tą mūrinį namą gaunamus, mokėtų Švč.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: '217 ## Puslapis 234 VILNIAUS MIESTO ISTORIJA// TOMAS teisių atnaujinimą ir patvirtinimą dviem privilegijomis lo­ tynų ir rusų kalbomis - katalikų ir stačiatikių tikėjimo gy­ ventojams.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Miesto sargyba ir policija, laikinai pri­ klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­ tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta magistratui - karaliaus Žygimanto 1522 metų įsakymu.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: '1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Tas pats Gardino seimas Vilniaus miesto gyventojams buvo labai įsimintinas dėl suteiktos privilegi­ jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­ rate, su palikuonimis buvo visiems.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tai privilegijos žodžiai, verčiantys 279 ## Puslapis 296 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto Augusto palankumas savo gimtajai sostinei, taip dosniai pasireiškęs šia privilegija, tuo dar nesibaigė.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Ir magistratas, keleliais metais vėliau, gavo teisę pasiųsti du arba tris pata­ rėjus į visus didžiuosius seimus, vykstančius Karalystėje ar­ ba Lietuvoje.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: '72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Vilniaus vaitui............Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi esą labai varginami dėl to, kad nesilaikai jų atžvilgiu Mag­ deburgo teisės ir labai juos vargini, ir esą daugelyje tų teisių punktų.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Raštininkas Mikola Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­ rika, XVI, 80, karalius priekaištavo Vilniaus magistratui: Kad nesutaria su bendruomene.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Karalius ŽYGIMANTAS Prikabintas LDK antspaudas Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­ niaus miesto knygos, vykstant ribų komisijos teismams tarp jo did. pono Goreckio, Lydos pav. iždininko, ir garb.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: '410 ## Puslapis 427 IV KNYGA turgumi naudotis, visiškai negaliojant vaito ar advokato, ar tarėjų bei kitų Vilniaus gyventojų draudimams.'
+  pagrindžia:
+    - c-020
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar­ kiams, įvairius savo reikalavimus ir sumetimus išsakydamas, užtat 1667 metų balandžio 4 dieną Vilniaus magistratas stojo į teismą su Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O kadangi Vilniaus
+    miesto magistratas priešinosi aukščiau nurodytiems potvar­
+    kiams, įvairius savo reikalavimus ir sumetimus išsakydamas,
+    užtat 1667 metų balandžio 4 dieną Vilniaus magistratas stojo
+    į teismą su Šv. Jono bažnyčia, ir 1667 metų lapkričio 19 dieną
+    Vilniaus magistrato neteisingos pretenzijos Šv. Jono bažny­
+    čios atžvilgiu buvo išnagrinėtos, o 1668 metų gegužės 17 die­
+    ną karaliaus raštu galutinai patvarkyta ir Šv. Jono bažnyčios
+    užtikrinta priklausomybė pripažinta vienuoliams jėzuitams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Jus Patronatus [teises], garbiosios Vilniaus kapitulos perleistas Rektoriams, apaštališkasis nun­ cijus Bretanės vyskupas Jonas Andrius Apaštališkojo Sosto valia patvirtino, o 1651 metais gruodžio 21 dieną Vilniaus vys­ kupas Jurgis Tiškevičius tą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jus Patronatus [teises], garbiosios
+    Vilniaus kapitulos perleistas Rektoriams, apaštališkasis nun­
+    cijus Bretanės vyskupas Jonas Andrius Apaštališkojo Sosto
+    valia patvirtino, o 1651 metais gruodžio 21 dieną Vilniaus vys­
+    kupas Jurgis Tiškevičius tą patvirtinimą priėmė ir atnaujino.
+    1654 metų kovo 2 dieną. Asesorių sprendimas byloje su Vil­
+    niaus magistratu, tas aprobacijas ginčijančiu, paskelbtas; ka­
+    raliaus raštas, ta pačia data pažymėtas, duotas dvarioniui
+    sprendimo vykdymo reikalu, ir 1654 metų liepos 4 dieną
+    įvykdytas sprendimas patenkino magistrato ieškinį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '1577 metų gruodžio 19 dienos, o pirmesne 1539 metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­ fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­ piežius Inocentas X irgi patvirtino.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1577 metų gruodžio 19 dienos, o pirmesne 1539
+    metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
+    fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
+    piežius Inocentas X irgi patvirtino.
+    Tos Dievo koplyčios pajamas sudarė jai skirtas mokestis
+    nuo įvairių mūrinių namų, renkamas iš vietos didikų, 'bet
+    dėl pradangintų dokumentų pajamų dydis nėra žinomas;
+    tačiau kai kurie mūriniai namai ir dabar prie tos koplyčios
+    priklauso; jais disponuoja Vilniaus magistratas per savo val­
+    dytojus, o iš gautų pajamų tenkinami koplyčios poreikiai.
+    Mūrinius namus, kurie buvo skirti tos koplyčios paja­
+    moms, privilegijomis nuo mokesčių atleido Lenkijos kara­
+    liai: Žygimantas III - 1601 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė Vilniaus magistratui už tam tikrą sumą, įpareigodamas, kad magistratas procentus, nuo sumos už tą mūrinį namą gaunamus, mokėtų Švč.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1632. Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo
+    mūrinį namą įkeitė Vilniaus magistratui už tam tikrą sumą,
+    įpareigodamas, kad magistratas procentus, nuo sumos už
+    tą mūrinį namą gaunamus, mokėtų Švč. Trejybės špitolei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: '217 ## Puslapis 234 VILNIAUS MIESTO ISTORIJA// TOMAS teisių atnaujinimą ir patvirtinimą dviem privilegijomis lo­ tynų ir rusų kalbomis - katalikų ir stačiatikių tikėjimo gy­ ventojams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d. Ind. Cod. Hist. Dipl. Livon.,
+    I, Nr. 1330.
+    18
+    Kryžiuočių knechtas Hansas Baigas
+    1432 metų rugsėjo 8 dieną iš Trakų
+    rašo didžiajam magistrui, kad: „Žy­
+    gimantas, naujas Lietuvos didysis
+    kunigaikštis, visiems, turintiems iš
+    tėvų paveldėto turto, suteikia garan­
+    tijų pagal Magdeburgo teises, kaip
+    ir tiems, kuriems seniau jo brolis Vy­
+    tautas paskyrė dovanojimus, ir taip
+    pelno miestiečių palankumą. Visi
+    kalba: „O, koks mums maloningas
+    yra mūsų valdovas, Švitrigaila to ne­
+    darė. Už mūsų Žygimantą esame
+    pasirengę numirti/' Kotzebue
+    Switrig., p . 8 6 .
+    217
+
+    ## Puslapis 234
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    teisių atnaujinimą ir patvirtinimą dviem privilegijomis lo­
+    tynų ir rusų kalbomis - katalikų ir stačiatikių tikėjimo gy­
+    ventojams. Jas magistratas priėmė viešai iš didžiojo kuni­
+    gaikščio rankų19.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1536
+    metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
+    tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
+    Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.
+    Jį turi sudaryti du burmistrai (Proconsul) su metiniu atlygi­
+    nimu po 20 kapų grašių ir keturi miesto tarybos nariai (con­
+    sul) su 10 kapų atlyginimu, po lygiai katalikų ir stačiatikių
+    tikėjimo. Be to, keturi valdytojai: du skiriami tarybos, o du -
+    bendruomenės, jų pareiga - sumuoti miesto pajamas bei iš­
+    laidas ir kasmet pateikti ataskaitą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Miesto sargyba ir policija, laikinai pri­ klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­ tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta magistratui - karaliaus Žygimanto 1522 metų įsakymu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
+    rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti,
+    kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­
+    tų gerai prižiūrimos. Miesto sargyba ir policija, laikinai pri­
+    klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­
+    tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta
+    magistratui - karaliaus Žygimanto 1522 metų įsakymu. Ma­
+    gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­
+    tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
+    ma dieną ir naktį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: '1545 metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­ mų valdymas buvo patikėtas Vilniaus magistratui; Jonui Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo titulą nuo vyskupo karalius perkėlė sau.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
+    glauda (špitolė), mieste garsi savo labdaringa veikla. 1545
+    metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­
+    mų valdymas buvo patikėtas Vilniaus magistratui; Jonui
+    Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo
+    titulą nuo vyskupo karalius perkėlė sau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Tas pats Gardino seimas Vilniaus miesto gyventojams buvo labai įsimintinas dėl suteiktos privilegi­ jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­ rate, su palikuonimis buvo visiems.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O 1568 metų
+    birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu
+    sprendimu apsaugojo miestiečius nuo engiančio užrašinėji-
+    mo jų namuose apsigyventi dvariškiams, karaliaus valdi­
+    ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos
+    žinios ir leidimo. Tas pats Gardino seimas Vilniaus miesto
+    gyventojams buvo labai įsimintinas dėl suteiktos privilegi­
+    jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs
+    vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­
+    rate, su palikuonimis buvo visiems laikams pakeltas į bajo­
+    rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
+    gus. Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
+    bet tik sutikus nors vienai pastariesiems priklausančiai šei­
+    mai, o viešiesiems reikalams magistratas negalėjo naudoti
+    kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su
+    šventojo Kristoforo atvaizdu, ant raudono lako, kaip buvo
+    įprasta pirmuosiuose Karalystės miestuose39.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Tai privilegijos žodžiai, verčiantys 279 ## Puslapis 296 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto Augusto palankumas savo gimtajai sostinei, taip dosniai pasireiškęs šia privilegija, tuo dar nesibaigė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik­
+    tai viešosioms pareigoms, miesto
+    reikalams ir aktams tegu naudojasi
+    miesto naudojamu antspaudu su
+    šventojo Kristoforo atvaizdu, iš
+    tikrųjų, raudono lako, pirmųjų Len­
+    kijos Karalystės miestų papročiu].
+    Tai privilegijos žodžiai, verčiantys
+    279
+
+    ## Puslapis 296
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto Augusto palankumas savo gimtajai sostinei, taip
+    dosniai pasireiškęs šia privilegija, tuo dar nesibaigė. Vaito,
+    burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­
+    gistrato raštininkų namai ir butai kartą ir visiems laikams bu­
+    vo atleisti nuo bet kokios nakvynės ir apsistojimo prievolės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Ir magistratas, keleliais metais vėliau, gavo teisę pasiųsti du arba tris pata­ rėjus į visus didžiuosius seimus, vykstančius Karalystėje ar­ ba Lietuvoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O svarbiausia, jog 1560 metais Lietuvos Didžiosios Kuni­
+    gaikštystės Ponų Tarybos seime, vykusiame Vilniuje, kara­
+    lius leido bajorams rinkti delegatus, kurie vėliau sudarė ant­
+    ruosius lietuvių tautos reprezentavimo rūmus. Ir magistratas,
+    keleliais metais vėliau, gavo teisę pasiųsti du arba tris pata­
+    rėjus į visus didžiuosius seimus, vykstančius Karalystėje ar­
+    ba Lietuvoje. Jie, kaip ir krašto pasiuntiniai, turėjo tartis dėl
+    Vilniaus miesto gerovės ir reikmių40.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: '72 299 ## Puslapis 316 VILNIAUS MIESTO ISTORIJA II TOMAS PRIEDAI PRIE VILNIAUS MIESTO ISTORIJOS KETVIRTOSIOS KNYGOS I VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ a) Iki Unijos 1.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    IX priedą.
+    72
+    299
+
+    ## Puslapis 316
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    PRIEDAI
+    PRIE
+    VILNIAUS MIESTO ISTORIJOS
+    KETVIRTOSIOS KNYGOS
+    I
+    VILNIAUS VAITŲ IR KELIŲ ŽYMESNIŲ BURMISTRŲ
+    SĄRAŠAS, PAIMTAS IŠ MIESTO AKTŲ
+    a) Iki Unijos
+    1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Vilniaus vaitui............Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi esą labai varginami dėl to, kad nesilaikai jų atžvilgiu Mag­ deburgo teisės ir labai juos vargini, ir esą daugelyje tų teisių punktų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vilniaus vaitui............Kreipėsi į mus Vilniaus miesto
+    burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi
+    esą labai varginami dėl to, kad nesilaikai jų atžvilgiu Mag­
+    deburgo teisės ir labai juos vargini, ir esą daugelyje tų teisių
+    punktų pažeidi jų privilegijas ir kad esą labiausiai dėl to
+    viso griežtumo remiesi mūsų raštu, kurį mes anuo metu su
+    mūsų rankos parašu tau į rankas įdavėme, kad jie tau visa­
+    me kame paklustų, o esą dėl to, kad susitaręs su kokiais nors
+    vyresniaisiais kunigaikščiais ir ponais bajorais ir jiems da­
+    rai didelį spaudimą ir kad esą taip kalbi: kad noriu būti jūsų
+    didžiausias priešas, kurio priešiškumą greitai iš manęs pa­
+    tirsite.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Raštininkas Mikola Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­ rika, XVI, 80, karalius priekaištavo Vilniaus magistratui: Kad nesutaria su bendruomene.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Raštininkas Mikola
+    Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­
+    rika, XVI, 80, karalius priekaištavo Vilniaus magistratui:
+    Kad nesutaria su bendruomene.
+    Kad neišperka iš Vilniaus vaivados privilegijos už ben­
+    drus pinigus.
+    Kad neturi gaisrui gesinti odinių kibirų, kirvių ir kablių.
+    Kad trukdo skųstis karaliui.
+    Už visa tai karalius baudžia šimto kapų grašių bauda.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­ gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­ nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip savo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , Civitatis
+    famulos et Officiales, ob receptum a subditis Capituli vinum
+    sublimatum, et panes contra constitutionem minores factos,
+    —  • -
+    378
+
+    ## Puslapis 395
+
+    IV KNYGA
+    Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­
+    tuvos, Rusios ir visos Prūsijos bei Mazovijos ir 1.1, kunigaikš­
+    tis. Ponas ir tėvonis. Šiuo raštu skelbiame visiems, kam da­
+    bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
+    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
+    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
+    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
+    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
+    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
+    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
+    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
+    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai
+    anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono
+    Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­
+    reigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks-
+    komunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­
+    mą, kadangi privalo paklusti gausybei teisėjų ir būti jų
+    baudžiami pagal tos [kapitulos] tvarką, ypač esant grynai
+    pasaulietiniams reikalams, iškilusiems ir vykstantiems tarp
+    pasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­
+    ka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o
+    civilinei įstaigai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'O prelatai ir kanauninkai savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė, kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­ nigaikščių, mūsų pirmtakų ir mūsų pačių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O prelatai ir kanauninkai
+    savo ir visos minėtos Vilniaus kapitulos vardu į tai atsakė,
+    kad jie niekam skriaudos nepadarė, teise, nuo seno Vilniaus
+    vyskupų suteikta ir tiek Apaštalų Sosto, tiek ir Lietuvos ku­
+    nigaikščių, mūsų pirmtakų ir mūsų pačių patvirtinta, vado­
+    vavosi, kuria nuo neatmenamų laikų iki pat šios dienos, kiek
+    tik buvo būtina, naudojosi; ir paremdami šitokį teiginį, pa­
+    teikė kitados buvusio didžiai gerbiamo Vilniaus vyskupo
+    Motiejaus raštą, kuriuo pačiai kapitulai ir jos valdiniams bu­
+    vo suteikta jurisdikcija su leidimu taikyti bažnytines cenzū­
+    ras, ir taip pat kitus minėto Motiejaus įpėdinių, Vilniaus vys­
+    kupų raštus, išrūpintus tiek iš Apaštalų Sosto, tiek iš jo
+    legatų, patvirtinančius ir minėtą jurisdikciją, ir kitas teises,
+    ir kapitulos bei Vilniaus bažnyčios statutą, pridurdami, kad
+    prasižengta ne tik dėl pasaulietinių dalykų, bet ir dėl plėši­
+    mo ir smurto, miesto pareigūnų ar tarnų įvykdyto Vilniaus
+    kapitulai, jos turtui bei valdiniams. O [vaitas ir tarėjai] nesi­
+    laikydami įstatymų pasisavina iš bažnyčios valdinių sau pa­
+    togią jurisdikciją, [teigdami] esą šitai nei teise, nei papro­
+    čiais nėra leista, kad jiems Vilniaus kapitula skirtų bažnytines
+    cenzūras, nes ką nors spręsti bažnyčios valdinių atžvilgiu
+    ar juos bausti už nusikaltimus priklauso ne tarėjams ar Vil­
+    niaus miestui, o Vilniaus kapitulai ir pagal teisę, ir pagal
+    paprotį, iki šiol tvirtai saugotą. Taigi tokius paprotinės tei­
+    sės ir bažnyčios valdinių niekintojus teisingai ir teisėtai ka­
+    pitulos buvo nuspręsta ekskomunikuoti; ir yra pripažinta,
+    kad tai nėra nauja, kadangi tokios yra ir kitos katedrų baž­
+    nyčios, konkrečiai Krokuvos, kurios pavyzdžiu yra ši Vil­
+    niaus pastatyta, gavusi panašius įstatymus ir privilegijas bei
+    381
+
+    ## Puslapis 398
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    privilegiis, ac moribus decorata cernatur, simili iurisdictione
+    utatur, petieruntque se et Capitulum suum, circa buiusmodi
+    iura, privilegia, et consvetudinem in iurisdictione praefata con­
+    servari, et sententiam excommunicationis, in praefatos Civi­
+    tatis famulos latam, iuste et legitime emanasse decerni.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Tačiau, kad dėl Vilniaus miesto gyventojų, priklausančių visokiems ponams, įvairumo, ne­ kiltų per didelė suirutė ir netvarka pačiame mieste, norime, kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­ rinčiais Vilniaus mieste ir už jo ribų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir todėl patiems ar jų
+    tarnams smurtu bet ką iš kapitulos valdinių namų imti ne­
+    buvo leista ir neleidžiama. Tačiau, kad dėl Vilniaus miesto
+    gyventojų, priklausančių visokiems ponams, įvairumo, ne­
+    kiltų per didelė suirutė ir netvarka pačiame mieste, norime,
+    kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­
+    rinčiais Vilniaus mieste ir už jo ribų valdinių, kartu susi­
+    rinktų ir tiek dėl duonos dydžio bei svorio, tiek dėl kitų da­
+    lykų, nuo kurių priklauso gera tvarka, bendrai susitartų ir
+    visi kartu, ir kiekvienas atskirai pasirūpintų, kad to, kas ben­
+    dru sutarimu buvo nutarta, jų valdiniai laikytųsi. Taip ant­
+    radieniais ir penktadieniais, be jokio kito rašto ir nepriešta­
+    raujant regulai, yra leidžiama kapitulos valdiniams, taip pat
+    383
+
+    ## Puslapis 400
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    feriis, absque praescripto, et regula liceat, permissumque sit
+    subditis Capituli, etiam de Villis eorum, panes in Civitatem
+    Vilnensem ducere, et vendere, alijs diebus pro Civibus dunta-
+    xat liberis manentibus, juribus et privilegijs Civitati Vilnen.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Karalius ŽYGIMANTAS Prikabintas LDK antspaudas Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­ niaus miesto knygos, vykstant ribų komisijos teismams tarp jo did. pono Goreckio, Lydos pav. iždininko, ir garb.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Karalius ŽYGIMANTAS
+    Prikabintas LDK antspaudas
+    Šios privilegijos ištrauka iš garbingojo magistrato ir Vil­
+    niaus miesto knygos, vykstant ribų komisijos teismams tarp
+    jo did. pono Goreckio, Lydos pav. iždininko, ir garb. Vil­
+    niaus miesto iš LDK asesorių, paskirtų gerb. Vilniaus ma­
+    gistrato, išrašyta teisme reikalaujančiai pusei 1786 metų rug­
+    pjūčio 19 dieną, išduota su Kauno pav. pakamario tarnybiniu
+    antspaudu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Alšėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­ siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš kitos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , nec permittentes ei
+    secum in eodem loco novo, alia macella pro suo, et ministro­
+    rum Ecclesiae suae usu construere, nullum aequivalens nul-
+    lamque recompensam suae P-ti dando: Qua ex re non leve
+    406
+
+    ## Puslapis 423
+
+    IV  KNYGA
+    Žygimantas, Dievo malone Lenkijos karalius, didysis Lie­
+    tuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir t. t. kuni­
+    gaikštis. Ponas ir tėvonis. Šiuo raštu skelbiame visiems ir
+    kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
+    yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai
+    gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Al-
+    šėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­
+    siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš
+    kitos pusės, dėl turguje ir Vilniaus aikštėje esančių pačio po­
+    no vyskupo, jo Vilniaus bažnyčios ir miestiečių mėsinių. Mat
+    vaitas ir patys Vilniaus tarėjai matydami, jog miesto aikštė
+    ar turgavietė yra perpildyta mėsos prekyvietėmis, užiman­
+    čiomis nemažą turgaus plotą, ir norėdami pačią turgavietę
+    ir aikštę praplėsti bei padidinti, visas toje turgavietėje seno­
+    je vietoje įrengtas mėsos prekyvietes, tiek savas, miestiečių,
+    tiek ir bažnyčios, be pačio pono vyskupo sutikimo nugriovė
+    ir kitas, naujas mėsines iš degintų plytų įtaisė kitoje miesto
+    vietoje vien tik minėto miesto reikmėms, tuo atsiskirdami
+    nuo minėto pono Vilniaus vyskupo. Ir neleido jam toje pa­
+    čioje naujojoje vietoje savo ir bažnyčios tarnų reikmėms ki­
+    tų mėsinių steigti, nesuteikdami jo Šviesybei jokios kompen­
+    sacijos ir jokio atlygio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: '410 ## Puslapis 427 IV KNYGA turgumi naudotis, visiškai negaliojant vaito ar advokato, ar tarėjų bei kitų Vilniaus gyventojų draudimams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    SIGISMUNDUS Rex.
+    410
+
+    ## Puslapis 427
+
+    IV  KNYGA
+    turgumi naudotis, visiškai negaliojant vaito ar advokato, ar
+    tarėjų bei kitų Vilniaus gyventojų draudimams. Visiems ir
+    kiekvienam nurodome ir griežtai įsakome, kad saviems pi­
+    liečiams ir visiems Vilniaus miesto gyventojams ateiti į bet
+    kurias minėtojo pono vyskupo įrengtas mėsines turguje ir
+    čia pirkti mėsą yra neuždrausta ir leidžiama, kitu atveju [jei
+    draustų], pas mus bus pašaukti ir tam pačiam didžiai ger­
+    biamam ponui dabartiniam ar vėliau būsiančiam vyskupui
+    turės pasiaiškinti ir pasiteisinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Duona]]
+- [[objektai/grupes/Gardino seimas]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/zodynas/Jus Patronatus]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/autoriai/Kotzebue]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/daiktai/Patrankos]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Tiškevičiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas IV]]
+- [[objektai/zodynas/jurisdikcija]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/knechtas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/oficijolas]]
+- [[objektai/zodynas/prelatai ir kanauninkai]]
+- [[objektai/zodynas/regula]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
+- [[objektai/asmenys/Parulis]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/zodynas/ekskomunikacija ekskomunika]]
+- [[objektai/zodynas/miesto magistrato pareigybės]]
+- [[objektai/zodynas/miesto sargyba ir policija]]
+- [[objektai/zodynas/vaitas ir tarėjai]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/ivykiai/Žygimanto privilegijos mėsinėms Vilniaus mieste suteikimas (1543 m.)]]

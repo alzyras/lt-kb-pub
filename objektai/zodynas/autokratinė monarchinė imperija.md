@@ -102,5 +102,12 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Immanuel Kant]]
+- [[objektai/asmenys/Kristijonas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
+- [[objektai/zodynas/gubernija apskritis (ujezd)]]
+- [[objektai/zodynas/interliudas]]
+- [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“]]

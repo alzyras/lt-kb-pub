@@ -109,6 +109,8 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rytas]]
+- [[objektai/grupes/brigada]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/1-asis pėstininkų pulkas]]
+- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]
 - [[objektai/grupes/Vyriausioji Lietuvos karinė vadovybė]]

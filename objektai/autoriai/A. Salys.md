@@ -188,4 +188,10 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Skandinavai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/zodynas/prokalbė]]
+- [[objektai/ivykiai/Salyno taika]]
 - [[objektai/zodynas/prūsas Prūsa Prūsija]]

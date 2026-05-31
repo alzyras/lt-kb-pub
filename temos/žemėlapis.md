@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 22.
+Objektų skaičius: 24.
 
 ## Kaip naudoti
 
@@ -17,6 +17,9 @@ Objektų skaičius: 22.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Mikalojus Daukša]]
 
 ### Autoriai
 - [[objektai/autoriai/Aldona Bieliūnienė]]
@@ -46,6 +49,7 @@ Objektų skaičius: 22.
 - [[objektai/posakiai/„Lithuania Propria“]]
 
 ### Įvykiai
+- [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]
 - [[objektai/ivykiai/Sarajevo atentatas ir Pirmojo pasaulinio karo pradžia]]
 
 ### Žodynas

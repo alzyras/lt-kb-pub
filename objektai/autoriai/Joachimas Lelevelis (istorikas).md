@@ -93,11 +93,15 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Andrius Sniadeckis]]
+- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
+- [[objektai/asmenys/Joachimas Lelevelis]]
 - [[objektai/asmenys/Johanas Pėteris Frankas]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Sniadeckis]]
 - [[objektai/autoriai/Lelevelis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
 - [[objektai/asmenys/Jozefas Frankas]]
+- [[objektai/grupes/Vilniaus universitetas]]

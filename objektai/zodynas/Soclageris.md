@@ -47,3 +47,5 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/V. Leninas]]
+- [[objektai/asmenys/Vladimiras Leninas]]

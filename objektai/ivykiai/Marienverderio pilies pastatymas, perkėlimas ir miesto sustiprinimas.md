@@ -157,3 +157,19 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Brunonas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Odoničius]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Hermanas (Ordino magistras)]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/asmenys/Samboras]]
+- [[objektai/asmenys/Sventopelkas]]

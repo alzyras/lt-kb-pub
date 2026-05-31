@@ -19,6 +19,7 @@ datos:
   - '1298 m.'
   - '1302 m.'
   - '1309 m.'
+  - '1466 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
   - 'LDK'
@@ -26,8 +27,9 @@ periodo_grupes:
 amziai:
   - 'XIII'
   - 'XIV'
+  - 'XV'
 date_start: '1237'
-date_end: '1309'
+date_end: '1466'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -129,6 +131,23 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   teiginys: 'Dusburgietis teigia, kad apie brolio Gotfrido, didžiojo magistro, atvykimą, apie tai, kaip jis atsisa­ kė savo pareigų, o buvo išrinktas brolis Zigfridas iš Foichtvangeno 1302 viešpaties metais brolis Gotfridas, didysis magistras, su 50 brolių per Prūsiją atvyko į Livoniją, palikęs.'
   pagrindžia:
     - c-021
+- t-022
+  teiginys: 'Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Dusburgietis teigia, kad šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
+  pagrindžia:
+    - c-025
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Citata lokalizuoja pirmąją Elbingo pilį prie Gėlo vandens marių.'
@@ -460,3 +479,68 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-021
+- c-022
+  santrauka: 'Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nesugriautos liko tik Karaliau-
+    čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1466 m. Torne buvo pasirašyta taika, kuria ordinas
+    pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
+    atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
+    Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Dusburgietis teigia, kad šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė vienas pasirodyti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    678).
+
+    Prūsijos žemės tikintiesiems. Šie laivai padėjo pastatyti dvi pilis: Elbingo ir Baigos ir
+    apsaugoti Gėlo vandens marias241 nuo netikėlių, kurie nuo to laiko nebedrįso čia nė
+    vienas pasirodyti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Dusburgietis teigia, kad apie karą su pagudėnais ir Elbingo pilies pastatymą Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra pagudėnus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie karą su pagudėnais ir Elbingo pilies pastatymą
+
+       Iš dievo malonės pavergę pamedėnus, magistras bei broliai ryžosi užgriūti karo audra
+    pagudėnus. Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno
+    markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237
+    viešpaties įsikūnijimo metais  į Pagudės žemę,  į tą salą, kuri, pasak kai kurių, esanti
+    Elbingo upės viduryje, toje vietoje, kur Elbingas įteka  į Gėlo vandens marias, ir ten
+    pastatė pilį, kurią pavadino nuo upės vardo Elbingu. Kiti pasakoja, kad ši pilis neilgai
+    trukus buvusi netikėlių sunaikinta, tada ją perkėlė į tą vietą, kur ir dabar yra, o aplinkui
+    išaugo miestas242.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025

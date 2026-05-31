@@ -60,3 +60,4 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 ### Susiję objektai
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

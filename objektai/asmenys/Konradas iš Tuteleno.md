@@ -48,7 +48,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/ginklanešiai]]

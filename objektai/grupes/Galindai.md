@@ -81,9 +81,15 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/autoriai/Jaskanis J]]
+- [[objektai/grupes/Kuršiai]]
 - [[objektai/autoriai/Mepжинский А. Ф]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
 - [[objektai/asmenys/Ptolemajas]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/autoriai/Vanagas A]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/autoriai/Вилинбахов В. Б]]
 - [[objektai/autoriai/Топоров B. H]]
 - [[objektai/autoriai/Энговатов H. В]]

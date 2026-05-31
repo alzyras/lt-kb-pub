@@ -7,6 +7,9 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1772 m.'
+  - '1773 m.'
+  - '1775 m.'
   - '1885 m.'
   - '1907 m.'
   - '1913 m.'
@@ -14,13 +17,15 @@ datos:
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
+  - 'LDK'
   - 'naujieji laikai'
   - 'šiuolaikinė Lietuva'
 amziai:
+  - 'XVIII'
   - 'XIX'
   - 'XX'
   - 'XXI'
-date_start: '1885'
+date_start: '1772'
 date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
@@ -52,6 +57,10 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginys: 'S.-Peterburg, 1913.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,3 +120,17 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Padalinimo sutartys buvo pasirašytos 1772 m.
+    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
+    seimas Varšuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

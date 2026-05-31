@@ -55,11 +55,9 @@ Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lie
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/zodynas/inkorporacija]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]
+- [[objektai/zodynas/aneksija]]

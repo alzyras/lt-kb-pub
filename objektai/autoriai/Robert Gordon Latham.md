@@ -31,6 +31,10 @@ tags:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Robert Gordon Latham veikale „Descriptive Ethnology“ teigė, kad sanskrito giminingumas su lietuvių kalba yra ypač didelis.'
@@ -61,6 +65,31 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sauliui Kaubriui ir daugeliui
+    kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
+    atrinkimo.
+       Alfonsas Eidintas,
+       redaktorius
+
+    Į v a d a s
+    LIETUVA –
+    VIDURIO EUROPOS DALIS
+    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
+    didesnis, negu su bet kuria kita kalba šioje žemėje“
+    Iš britų mokslininko Robert Gordon Latham
+    „Descriptive Ethnology“ („Aprašomoji etnologija“)
+    Geografinis Europos centras?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

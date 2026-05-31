@@ -58,6 +58,10 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   teiginys: 'Kauno pilies apgula Ordino ir talkininkų kariuomenė šį kartą Nemunu laivais, pučiant vakarų vėjui, tyliai aplenkdama Veliuonos ir Pieštvės pilis, pasiekė Kauną.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Kryžiuočių pajėgos Kauno pilį puolė - Ordino magistro Vinricho iš Kniprodės, didžiojo komtūro, didžiojo maršalo, Elbingo, Christburgo, Balgos komtūrų ir kitų vadovaujamos kryžiuočių pajėgos, Livonijos ordino daliniai, talkininkai-kryžininkai iš Anglijos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -118,3 +122,33 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Kryžiuočių pajėgos Kauno pilį puolė - Ordino magistro Vinricho iš Kniprodės, didžiojo komtūro, didžiojo maršalo, Elbingo, Christburgo, Balgos komtūrų ir kitų vadovaujamos kryžiuočių pajėgos, Livonijos ordino daliniai, talkininkai-kryžininkai iš Anglijos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kryžiuočių pajėgos
+
+    Kauno pilį puolė - Ordino magistro
+    Vinricho iš Kniprodės, didžiojo komtūro,
+    didžiojo maršalo, Elbingo, Christburgo,
+    Balgos komtūrų ir kitų vadovaujamos kry-
+    žiuočių pajėgos, Livonijos ordino daliniai,
+    talkininkai-kryžininkai iš Anglijos, Italijos,
+    Vokietijos.
+
+    Kauno pilies apgula
+
+    Ordino ir talkininkų kariuomenė šį kartą
+    Nemunu laivais, pučiant vakarų vėjui,
+    tyliai aplenkdama Veliuonos ir Piešt-
+
+    vės pilis, pasiekė Kauną. Išsilaipino že-
+    miau Kauno, keletą dienų statė tiltus ir
+    trečiąją dieną atžygiavo prie pilies.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

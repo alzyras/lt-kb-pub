@@ -8,17 +8,17 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "XIV a. pradžia"
-datos: []
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIV"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-27'
 tags: []
@@ -68,6 +68,10 @@ Nenurodyta
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Vilnius, Gedimino dėka nuo mažos gyvenvie­ tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos karalystės sostine.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -122,6 +126,32 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-003
+- c-003
+  santrauka: 'Vilnius, Gedimino dėka nuo mažos gyvenvie­ tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos karalystės sostine.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vilnius, Gedimino dėka nuo mažos gyvenvie­
+    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
+    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
+    principams, Gedimino veiklumo ir didžių jo politinių sie­
+    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
+    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
+    tvarkos, kokia buvo ir kitur. Kaip Lenkijoje kaštelionai, taip
+    Lietuvoje anuomet pilininkai valdė miestą, vykdydami teis­
+    -- • -
+    24
+
+    ## Puslapis 41
+
+    I  KNYGA
+    minę priežiūrą kartu su bendruomenės parinktu seniūnu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -129,3 +159,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/Pilininkas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/Feodalinis ir leninis valdymas]]
+- [[objektai/zodynas/Pilininkai kaštelionai seniūnas]]
+- [[objektai/zodynas/Puslapis 67]]

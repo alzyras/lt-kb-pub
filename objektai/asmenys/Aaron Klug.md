@@ -48,4 +48,12 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Bernard Lown]]
+- [[objektai/asmenys/Bernardas]]
+- [[objektai/asmenys/David Baltimore]]
+- [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/asmenys/Sydney Brenner]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Czesław Miłosz]]
+- [[objektai/asmenys/Nadine Gordimer]]

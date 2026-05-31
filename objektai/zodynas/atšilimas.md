@@ -50,9 +50,11 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/specfondai]]
 - [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Balys Sruoga]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
 - [[objektai/asmenys/Vincas Krėvė-Mickevičius]]
 - [[objektai/asmenys/Vincas Mykolaitis-Putinas]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]

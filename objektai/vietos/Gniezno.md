@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -24,6 +30,10 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
     - c-003
     - c-002
     - c-001
+- t-002
+  teiginys: 'Jono, Gniezno arkivysk.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,3 +78,18 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Jono, Gniezno arkivysk.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    į Konstanciją buvo išsiųsta Lietuvos
+    ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
+    po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
+    ir Breslavo vysk. Jono.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

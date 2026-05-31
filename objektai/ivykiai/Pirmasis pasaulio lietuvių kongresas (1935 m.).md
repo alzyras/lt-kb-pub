@@ -57,3 +57,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Pasaulio Lietuvių Sąjunga]]
+- [[objektai/grupes/Pirmojo pasaulio lietuvių kongreso prezidiumas]]

@@ -59,8 +59,5 @@ Dusburgietis teigia, kad privilegijos dokumente prie Torunės minima prūsiška 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/zodynas/liscis lizkis]]

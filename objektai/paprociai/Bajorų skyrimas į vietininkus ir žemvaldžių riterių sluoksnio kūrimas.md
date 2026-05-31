@@ -73,3 +73,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]

@@ -77,3 +77,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/autoriai/Simono Grunau]]
+- [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]]

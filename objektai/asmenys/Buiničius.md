@@ -83,3 +83,5 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
 - [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/ulonai]]
+- [[objektai/grupes/NKVD 220-ojo Kutuzovo ordino pasienio pulkas]]

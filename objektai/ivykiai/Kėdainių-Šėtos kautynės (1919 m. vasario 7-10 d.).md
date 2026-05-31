@@ -267,3 +267,4 @@ Nenurodyta
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
 - [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]
 - [[objektai/grupes/Kėdainių įgula]]
+- [[objektai/asmenys/Povilas Lukšys]]

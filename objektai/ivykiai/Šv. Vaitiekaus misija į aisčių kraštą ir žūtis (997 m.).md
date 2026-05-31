@@ -8,7 +8,7 @@ variantai:
   - Adalberto mirtis
 aliases: []
 saltiniai:
-  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 laikotarpis: 997 m. balandžio 23 d.
 datos:
   - 997 m. balandžio 23 d.
@@ -148,4 +148,5 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/asmenys/Boleslovas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]

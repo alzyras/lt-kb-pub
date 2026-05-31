@@ -130,3 +130,28 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Grigalius XIII]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/autoriai/Martynas Smigleckis]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/grupes/Protestantai]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/grupes/Valakai]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
+- [[objektai/grupes/Katalikų bažnyčia katalikai]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/zodynas/barokinė santvarka]]
+- [[objektai/zodynas/barokinė santvarka barokinis ūkis]]
+- [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]

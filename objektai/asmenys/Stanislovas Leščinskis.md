@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -46,6 +52,14 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-005
+  teiginys: 'Gais metais ATR valdovu buvo išrinktas Švedijos remiamas Stanislovas Lesčinskis, įsiplieskė karas tarp jo ir Augusto 11 šalininkų.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,3 +119,50 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Gais metais ATR valdovu buvo išrinktas Švedijos remiamas Stanislovas Lesčinskis, įsiplieskė karas tarp jo ir Augusto 11 šalininkų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    — Augustas II, pasiryžęs nepasiduoti, ATR vardu sudarė
+    ŠE prieš Švediją nukreiptą sąjungą su Rusija, tokiu
+    būdu ATR į karą įtraukdamas formaliai. Tais pa-
+    . Gais metais ATR valdovu buvo išrinktas Švedijos
+    remiamas Stanislovas Lesčinskis, įsiplieskė karas
+    tarp jo ir Augusto 11 šalininkų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rusijos agentai grasinimais ir papirkinėjimais kontroliavo
+    Lenkijos-Lietuvos seimus, kurie priimdavo jai palankius sprendi-
+    mus. Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar
+    jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos
+    ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepa-
+    geidaujamos Prancūzijos konkurencijos šiame regione. Karaliumi
+    tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas III]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]
+- [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
+- [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]

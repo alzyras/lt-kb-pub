@@ -49,9 +49,6 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Konradas]]
 - [[objektai/asmenys/Mstivojus]]

@@ -70,6 +70,10 @@ Nenurodyta
   teiginys: 'Pa­ kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo žmonos vežime.'
   pagrindžia:
     - c-005
+- t-009
+  teiginys: 'Lenkijos riteriams įsakė pasiimti po vieną tarną ir po vieną vežimą maisto šešioms savaitėms.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -121,15 +125,51 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-006
+  santrauka: 'Lenkijos riteriams įsakė pasiimti po vieną tarną ir po vieną vežimą maisto šešioms savaitėms.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dabar jie abu dar labiau suskato imtis konkrečių žygių ir rink­
+    ti kariuomenę. Jogaila nuvyko Krokuvon ir įsakė šaukti ka­
+    riuomenę. Lenkijos riteriams įsakė pasiimti po vieną tarną ir
+    po vieną vežimą maisto šešioms savaitėms.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Iždo ir pilių raktai]]
 - [[objektai/daiktai/Palapinės]]
+- [[objektai/autoriai/J. Puzinas]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]]
 - [[objektai/grupes/Brunsbergo miestiečiai]]
 - [[objektai/ivykiai/Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas|Brunsbergo pilies ir miesto apsiaustis, 40 vyrų žūtis ir pasitraukimas (miestas)]]
+- [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]
 - [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]
+- [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]
+- [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]
+- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]
+- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
 - [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai]]
+- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
+- [[objektai/daiktai/Vežimai su kailiais ir šienu]]
+- [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]
 - [[objektai/zodynas/pilėnas pilėnai]]
+- [[objektai/zodynas/sidabrinė duoklė]]

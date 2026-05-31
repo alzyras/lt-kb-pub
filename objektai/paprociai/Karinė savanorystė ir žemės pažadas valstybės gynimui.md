@@ -112,7 +112,12 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/asmenys/M. Sleževičius]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Mykolas Sleževičius]]

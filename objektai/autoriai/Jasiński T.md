@@ -51,7 +51,3 @@ Dusburgietis teigia, kad liz- ‘pailsėti’ — MPKP, 2, p. 31), kurios ieško
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]

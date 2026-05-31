@@ -72,5 +72,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Romai]]

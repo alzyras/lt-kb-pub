@@ -51,23 +51,3 @@ Jono, Gniezno arkivysk.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
-- [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
-- [[objektai/asmenys/Henrikas Valpotas]]
-- [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
-- [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
-- [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
-- [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]
-- [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
-- [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
-- [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]
-- [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]
-- [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.)]]
-- [[objektai/paprociai/Viešoji krikščionių atgaila ir saviplaka]]
-- [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
-- [[objektai/zodynas/balista balistininkas arbaletas]]
-- [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
-- [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]

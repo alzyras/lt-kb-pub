@@ -65,6 +65,14 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   teiginys: 'Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d. Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Tad paskubomis susirinko 10 000 bajorų, kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­ dė narsus, bet pasipūtęs, Glinskis.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -227,6 +235,47 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Paskutiniai totoriai buvo išgaudyti rugpjūčio 8 d. Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Paskutiniai
+
+    totoriai buvo išgaudyti
+
+    rugpjūčio 8 d. Mūšio
+    nugalėtojas Mykolas
+    Glinskis triumfuo-
+    damas grįžo į Vilnių
+
+    YD rugpjūčio 12 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Tad paskubomis susirinko 10 000 bajorų, kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­ dė narsus, bet pasipūtęs, Glinskis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tas būrys, įveikęs Ne­
+    muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
+    mylią nuo Lydos. Tad paskubomis susirinko 10 000 bajorų,
+    kareivių ir ginkluotų žmonių, kuriuos į kovą su priešais ve­
+    dė narsus, bet pasipūtęs, Glinskis. Gausūs Krymo ordos ka­
+    rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga
+    Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje
+    užkirto šiems azijiečiams kelią į artimiausias šios valsty­
+    bės vaivadijų sostines47.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -236,3 +285,13 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Trimitai]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/flangas]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/karyba]]
+- [[objektai/grupes/Krymo orda]]

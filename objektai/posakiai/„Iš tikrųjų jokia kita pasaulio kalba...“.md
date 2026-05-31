@@ -49,4 +49,9 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Immanuel Kant]]
+- [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
+- [[objektai/zodynas/autokratinė monarchinė imperija]]
+- [[objektai/zodynas/interliudas]]

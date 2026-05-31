@@ -53,6 +53,10 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   teiginys: '“ MŪŠIO DALYVIO ATSIMINIMAI Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimo ištrauka: »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD kariuomenė.'
   pagrindžia:
     - c-002
+- t-005
+  teiginys: 'Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką.“ MŪŠIO DALYVIO ATSIMINIMAI Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -75,6 +79,29 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-003
+  santrauka: 'Tauta ir kiekvienas pilietis turi teisę priešintis bet kam, kas prievarta kėsinasi į Lietuvos valstybės nepriklausomybę, teritorijos vientisumą, konstitucinę santvarką.“ MŪŠIO DALYVIO ATSIMINIMAI Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tauta ir kiekvienas pilietis turi teisę
+    priešintis bet kam, kas prievarta kėsinasi į
+    Lietuvos valstybės nepriklausomybę, terito-
+    rijos vientisumą, konstitucinę santvarką.“
+
+    MŪŠIO DALYVIO ATSIMINIMAI
+
+    Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio da-
+    lyvio Petro Seredos-Stumbro pasakojimo ištrauka:
+
+    »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD
+    kariuomenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Bibliografiniai įrodymai
 - c-001

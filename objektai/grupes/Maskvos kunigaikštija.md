@@ -55,7 +55,14 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: 'Taip pat Tveriaus kunigaikštis, turėjęs savo že­ mes Maskvos kairėje, su Vytautu buvo užmezgęs taikius santy­ kius (1427).'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pskovo ir Naugardo respublikos labiau šliejosi prie Livonijos ordino ir Maskvos, priešingų Vytauto įsigalėjimui Rytuose.'
@@ -136,15 +143,56 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Taip pat Tveriaus kunigaikštis, turėjęs savo že­ mes Maskvos kairėje, su Vytautu buvo užmezgęs taikius santy­ kius (1427).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip pat Tveriaus kunigaikštis, turėjęs savo že­
+    mes Maskvos kairėje, su Vytautu buvo užmezgęs taikius santy­
+    kius (1427). Taigi Maskvos kunigaikštija buvo apsupta žemių,
+    tuo ar kitu būdu pripažinusių Vytauto autoritetą. Ji pati vadina
+    Vytautą savo globėju ir turėjo krašte ramybę, o kai Vytautas mi­
+    rė, Maskvos kunigaikštijoje kilo ilgi sumaiščiai dėl sosto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas
+    padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­
+    vo protežė, laimės nepaprastai daug ne tik santykiuose su pa­
+    čiais totoriais, bet ir su visa Rusija. Rusų kronikos aiškina, kad
+    su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
+    Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
+    tijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio
+    samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
+    yra teisingas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/saar]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Pskovo respublika]]
+- [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]

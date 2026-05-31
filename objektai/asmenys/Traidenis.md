@@ -13,6 +13,16 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1269 m.'
+  - '1292 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+date_start: '1269'
+date_end: '1292'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -102,6 +112,30 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   teiginys: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
   pagrindžia:
     - c-009
+- t-018
+  teiginys: 'Pats Traidenis, pietuose atrėmęs priešo atakas, 1272 m. prie Vakarų Bugo, pasiuntęs ten gardiniečius, užėmė Drohičiną (dab.'
+  pagrindžia:
+    - c-010
+- t-019
+  teiginys: 'I1L Kunigaikštis Traidenis, kunigaikščio Dovydo Dovydavičiaus sūnus.'
+  pagrindžia:
+    - c-011
+- t-020
+  teiginys: 'Ar ga­ lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad Vytenis, lietuvis pagonis, - jo vaikaitis?'
+  pagrindžia:
+    - c-012
+- t-021
+  teiginys: 'Viename dokumen­ te, apie kurį vėliau smulkiau kalbė­ sime, pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
+  pagrindžia:
+    - c-013
+- t-022
+  teiginys: 'Dusburgietis teigia, kad traidenis (1269—1282 m.), remdamas žiemgalius, telkė jėgas ir kovai Prūsijoje.'
+  pagrindžia:
+    - c-014
+- t-023
+  teiginys: 'Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 
@@ -261,20 +295,150 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-010
+  santrauka: 'Pats Traidenis, pietuose atrėmęs priešo atakas, 1272 m. prie Vakarų Bugo, pasiuntęs ten gardiniečius, užėmė Drohičiną (dab.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pats Traidenis, pietuose atrėmęs priešo
+    atakas, 1272 m. prie Vakarų Bugo, pasiuntęs
+    ten gardiniečius, užėmė Drohičiną (dab.
+    Rytų Lenkijoje), strateginį punktą, svarbų
+    santykiams su Lenkija, Pietvakarių Rusia ir
+    jotvingių žemės gynybai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-011
+  santrauka: 'I1L Kunigaikštis Traidenis, kunigaikščio Dovydo Dovydavičiaus sūnus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    I1L Kunigaikštis Traidenis, kunigaikščio
+    Dovydo Dovydavičiaus sūnus. IV. Kunigaikštis Vytenis,
+    kunigaikščio Traidenio Dovydavičiausb sūnus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-012
+  santrauka: 'Ar ga­ lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad Vytenis, lietuvis pagonis, - jo vaikaitis?'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    45
+
+    ## Puslapis 62
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Karamzinas0, laikydamas tai labai abejotinu dalyku, o Min­
+    daugo kilmės įrodymus - visiškais paistalais, nebent būtų
+    priimtinos už tiesą didžiausios chronologinės klaidos ir su­
+    tikta su prielaida, kad Rusios kunigaikščių sūnūs, krikščio­
+    nys, galėjo turėti lietuviškus vardus ir būti pagonys. Ar ga­
+    lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką
+    vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
+    Vytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko
+    Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip
+    rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­
+    tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra
+    apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­
+    jus po Jogailos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-013
+  santrauka: 'Viename dokumen­ te, apie kurį vėliau smulkiau kalbė­ sime, pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    3 yra paminėję. Viename dokumen­
+    te, apie kurį vėliau smulkiau kalbė­
+    sime, pasakojama apie kunigaikščių
+    Ziemovito ir Traidenio įsiveržimą į
+    Dobrynės žemę. Qui prophanus dux
+    David paulo ante indictas treugas pre-
+    dictas Ingrediens cum valido exercitu
+    Litwanorum terram Dobrinens.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-014
+  santrauka: 'Dusburgietis teigia, kad traidenis (1269—1282 m.), remdamas žiemgalius, telkė jėgas ir kovai Prūsijoje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vis dėlto Lietuva ir toliau liko pagrindinė,
+    vadovaujanti jėga kovoje prieš Ordiną. Traidenis (1269—1282 m.), remdamas žiemgalius,
+    telkė jėgas ir kovai Prūsijoje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-015
+  santrauka: 'Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    ) Ordino valdas pavyslyje iki Kristburgo
+    (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
+    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
+    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
+    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Nameisis]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
-- [[objektai/asmenys/Mamšėjus]]
+- [[objektai/grupes/Gudai]]
+- [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
-- [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/asmenys/Sirputis (Traidenio brolis)]]
 - [[objektai/ivykiai/Skomanto vadovaujamas sūduvių ir lietuvių žygis į Ordino valdas pavyslyje (1277 m.)]]
-- [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]
 - [[objektai/posakiai/Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu]]
-- [[objektai/zodynas/kunic]]
+- [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/lietopisis]]
 - [[objektai/zodynas/lietopisis lietopisiai]]
+- [[objektai/zodynas/tautiška politika]]
 - [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]
+- [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]
 - [[objektai/asmenys/Traidenis I]]

@@ -173,3 +173,12 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių Katalikų Mokslo Akademija]]
+- [[objektai/daiktai/Spaustuvės]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Zenonas]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]

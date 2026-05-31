@@ -74,6 +74,7 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/maršalas]]

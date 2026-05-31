@@ -102,3 +102,9 @@ Nenurodyta
 ## Pastabos
 
 - terminas šiame gabale turi ir aiškinamąją, žodyninę vertę, bet pati ištrauka labai tiesiogiai aprašo konkretų vilnonį apsiaustą.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Balti vilnoniai marškiniai]]
+- [[objektai/zodynas/Kilimas|kilimas]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

@@ -88,6 +88,9 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
+- [[objektai/daiktai/Ragotinė]]
+- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/zodynas/Nomadžiai|nomadžiai]]
 - [[objektai/daiktai/Ūkės lazda]]
+- [[objektai/grupes/Žemaičių medininkai]]
 - [[objektai/zodynas/Žiuponai|žiuponai]]

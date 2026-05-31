@@ -113,4 +113,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Endzelins J]]
+- [[objektai/autoriai/F. Bopas]]
 - [[objektai/autoriai/J. Endzelynas]]
+- [[objektai/autoriai/V. Mažiulis]]
+- [[objektai/zodynas/vakariniai baltai]]

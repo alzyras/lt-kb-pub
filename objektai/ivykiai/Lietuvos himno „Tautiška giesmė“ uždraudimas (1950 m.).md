@@ -59,4 +59,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/J. Stalinas]]
+- [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/asmenys/V. Leninas]]
+- [[objektai/asmenys/Vladimiras Leninas]]

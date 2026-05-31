@@ -30,7 +30,10 @@ tags:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Priėmus tą nuomonę, kad konsekracija yra būti­ na, iškyla vėl neaiškumas, kas turi teisę suteikti konsekraciją?'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Konsekracija po karūnacijos buvo laikoma bažnytiniu aktu, kuris ne suteikia daugiau valdžios, o pašventina karūnaciją.'
@@ -54,11 +57,25 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Priėmus tą nuomonę, kad konsekracija yra būti­ na, iškyla vėl neaiškumas, kas turi teisę suteikti konsekraciją?'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Priėmus tą nuomonę, kad konsekracija yra būti­
+    na, iškyla vėl neaiškumas, kas turi teisę suteikti konsekraciją?
+    Vienos profesoriai aiškino, kad į tai mokslininkai įvairiai atsa­
+    kinėja; vieni, kad popiežius, kiti, kad arcivyskupas arba vys­
+    kupas. Apskritai, saugodami popiežiaus teises, galį konse­
+    kruoti vyskupai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]

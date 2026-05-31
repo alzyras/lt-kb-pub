@@ -51,9 +51,11 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto atgavimą 1259 viešpaties
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Jonas Paleologas]]
 - [[objektai/asmenys/Manuelis]]
 - [[objektai/asmenys/Muradas II]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Konstantinopolio miesto atgavimas (1259 m.)]]

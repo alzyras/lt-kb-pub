@@ -66,3 +66,12 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/grupes/Liaudies vyriausybė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Lietuvos auksas]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/zodynas/sovietizacija sovietizavimas]]

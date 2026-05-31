@@ -37,9 +37,28 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: ', 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
-
+- c-002
+  santrauka: ', 57-74 p. (^105) Parašė, be kitko : Lietuvių kova prieš kalavijuočius (1945), Kry­ žiuočių valstybės santvarkos bruožai (1948) ; vienašališkai poleminė yra jo knyga Popiežiai lietuvių tautos priešai (1948).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    , 57-74 p.**
+    (^105) **Parašė, be kitko :** **_Lietuvių kova prieš kalavijuočius_** **(1945),** **_Kry­
+    žiuočių valstybės santvarkos bruožai_** **(1948) ; vienašališkai poleminė yra jo
+    knyga** **_Popiežiai lietuvių tautos priešai_** **(1948).**
+    (^106) **Jis dar parašė :** **_Lietuvos Didžiųjų Kunigaikščių metraštis_** **(AkMD,
+    t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Knyga „Popiežiai lietuvių tautos priešai“ išleista 1948 m. ir Ivinskio apibūdinta kaip vienašališkai poleminė.'

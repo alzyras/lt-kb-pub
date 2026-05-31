@@ -74,3 +74,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/litas]]
+- [[objektai/grupes/Nepriklausomų Valstybių Sandrauga]]

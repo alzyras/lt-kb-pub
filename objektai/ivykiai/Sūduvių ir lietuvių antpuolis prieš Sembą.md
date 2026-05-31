@@ -88,3 +88,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

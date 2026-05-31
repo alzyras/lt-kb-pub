@@ -76,5 +76,8 @@ Nenurodyta
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Brunonas]]
+- [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
 - [[objektai/zodynas/Kristaus kariai]]
+- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

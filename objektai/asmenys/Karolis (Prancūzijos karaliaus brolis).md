@@ -52,9 +52,6 @@ Dusburgietis teigia, kad karolis, Prancūzijos karaliaus brolis, buvo smarkiai s
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Popiežiaus vainikas]]

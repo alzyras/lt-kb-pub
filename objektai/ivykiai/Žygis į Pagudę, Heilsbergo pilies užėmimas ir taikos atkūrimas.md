@@ -129,4 +129,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Pagudėnų pavergimas bei didžiosios skerdynės ir krikščionims sugrąžinta taika]]

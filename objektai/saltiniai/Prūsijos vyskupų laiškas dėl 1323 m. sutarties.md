@@ -9,6 +9,9 @@ aliases: []
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 laikotarpis: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos:
   - '1323 m.'
 periodas: ''
@@ -17,9 +20,6 @@ amziai:
   - 'XIV'
 date_start: '1323'
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-27'
 tags: []
@@ -59,7 +59,10 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
     - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'Nors popiežiaus buvo primygtinai prašoma, kad savo ga­ nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­ gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo, gal to priežastis buvo naujesnės žinios iš Prūsijos.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prūsijos vyskupai Elbinge parengė laišką Livonijos ir Estijos adresatams, kuriame Vilniaus sutartį vadino pavojinga.'
@@ -159,3 +162,31 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Nors popiežiaus buvo primygtinai prašoma, kad savo ga­ nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­ gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo, gal to priežastis buvo naujesnės žinios iš Prūsijos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
+    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
+    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
+    gal to priežastis buvo naujesnės žinios iš Prūsijos.
+    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
+    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
+    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
+    miręs), kartu su savo diecezijos klebonais Elblionge bemat
+    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
+    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
+    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
+    visiems Livonijos bei Estijos didikams ir vasalams, daly­
+    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
+    esant velnio žabangomis, visam krikščioniškajam pasau­
+    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
+    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
+    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

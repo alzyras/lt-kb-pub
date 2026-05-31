@@ -92,3 +92,5 @@ Dusburgietis teigia, kad 1247 Brolis Henrikas iš Veidos, trečias Prūsijos že
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

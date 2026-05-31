@@ -44,5 +44,13 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Adomas (auksakalys)]]
+- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/autoriai/Mickevičius]]
+- [[objektai/zodynas/istorinė Lietuva]]
+- [[objektai/asmenys/Česlovas Milošas]]
 - [[objektai/grupes/Senalietuviai]]
+- [[objektai/asmenys/Czesław Miłosz]]
 - [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/zodynas/senalietuviai jaunalietuviai]]

@@ -58,3 +58,4 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]

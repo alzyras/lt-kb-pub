@@ -61,3 +61,4 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 - [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/paprociai/Kovų vietų neliečiamumas]]

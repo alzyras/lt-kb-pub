@@ -59,6 +59,14 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   teiginys: 'Gediminas rašė laiškus dominikonų ordino vyresniesiems į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Žinodami gausią globą ir ypatingas privilegijas, o krikščio­ nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­ kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­ zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie pasidarė.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė dominikonų ordino vyresniesiems, būtent į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams - Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Gotlandui, pranešdamas juose, kad.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -151,3 +159,54 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Žinodami gausią globą ir ypatingas privilegijas, o krikščio­ nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­ kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­ zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie pasidarė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Lietu­
+    vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
+    įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
+    tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
+    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
+    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
+    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
+    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
+    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
+    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
+    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
+    o aplink kurdino savo valdinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė dominikonų ordino vyresniesiems, būtent į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams - Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Gotlandui, pranešdamas juose, kad.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    " Labai meldžia pagaliau Gediminas popiežių, kad at­
+    sižvelgtų į jo liūdną padėtį ir aiškiai pareiškia: „Esame
+    pasirengę, kaip ir kiti kunigaikščiai krikščionys, visame ka­
+    me klausyti jūsų valios ir priimti krikščioniškąjį tikėjimą,
+    kad tik neturėtume būti budeliams, tai yra Ordino Magist­
+    rui ir riteriams, už ką nors dėkingi"**.
+    Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­
+    diminas rašė dominikonų ordino vyresniesiems, būtent į
+    Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams -
+    Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Got-
+    landui, pranešdamas juose, kad kreipėsi į popiežių,
+    prašydamas išsiųsti pas jį pasiuntinius, kad jų nekantrau­
+    damas laukiąs, kad pasiryžęs sutikti su visais popiežiaus
+    įsakymais. „Pageidautume, - rašo toliau, - savo krašte tu­
+    rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios
+    teises, dvasininkus gerbsime, Dievo garbinimą maldomis
+    plėtosime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

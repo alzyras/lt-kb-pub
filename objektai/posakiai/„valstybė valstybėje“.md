@@ -56,5 +56,5 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

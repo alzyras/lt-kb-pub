@@ -93,5 +93,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/marksistinė periodizacija]]
-- [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
+- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/ivykiai/Nepriklausomybės pradžia]]

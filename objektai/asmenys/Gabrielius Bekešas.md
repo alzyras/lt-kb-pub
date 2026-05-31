@@ -14,6 +14,11 @@ saltiniai:
   - Michał Baliński, Vilniaus miesto istorija (2007 m.)
 bukle: juodrastis
 laikotarpis: 1581 m. Stepono Batoro privilegijos ir karo su Maskvos kunigaikščiu kontekstas
+vaidmenys:
+  - vengrų pulkų vadas
+  - karvedys
+dalyviai: []
+susije_irasai: []
 datos:
   - '1581 m.'
 periodas: 'LDK laikotarpis'
@@ -23,11 +28,6 @@ amziai:
   - 'XVI'
 date_start: '1581'
 date_end: ''
-vaidmenys:
-  - vengrų pulkų vadas
-  - karvedys
-dalyviai: []
-susije_irasai: []
 patikimumas: aukštas
 atnaujinta: '2026-05-27'
 tags:
@@ -92,7 +92,18 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-006
+  teiginys: 'Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­ vo atiduotas Alantos dvaras63.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Šiuo mūsų laiš­ ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­ mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir nuolat.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Tai, kas tuose rejestruose išvardinta: bajorų, kelio miestiečių bei tiaglinių ir tėvoniškių žmonių, jie visi su savo vaikais ir palikuonimis yra tikri pono Gabrielio Bekešo tėvoniškiai ir su visais kitais priklausiniais ir dali­ mis, kurios tik nuo senų.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Gabrielius Bekešas įvardijamas kaip vengrų pulkų vadas ir apdovanotas už nuopelnus.
@@ -123,7 +134,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: Privilegijoje aprašomi Bekešo kariniai veiksmai prie Polocko ir Velikije Lūki.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -156,7 +166,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: Gabrieliui Bekešui už nuopelnus suteiktas Alantos dvaras su priklausiniais.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -200,7 +209,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: Bekešo palikuonims ir paveldėtojams leidžiama paveldimai naudotis dovanotomis valdomis.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -246,7 +254,6 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
 - c-005
   santrauka: Bekešui ir jo palikuonims leidžiama plėtoti valdas, o už jas privaloma karinė tarnyba.
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -280,6 +287,94 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­ vo atiduotas Alantos dvaras63.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    61
+    Yra padavimas, kad karalius Stepo­
+    nas, nepermaldautas Astiko prašy­
+    mų, už didelius jo nusikaltimus įsa­
+    kęs jam įvykdyti karo teismo
+    292
+
+    ## Puslapis 309
+
+    IV KNYGA
+    pat mūsų dienų62. Taip pat narsiam jo broliui Gabrieliui Be­
+    kešui po Astiko Varšuvos seime pagal paveldėjimo teisę bu­
+    vo atiduotas Alantos dvaras63. Jėzuitų apsigyvenimas Vil­
+    niuje jau Stepono Batoro laikais pakirto protestantų įtaką
+    Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Šiuo mūsų laiš­ ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­ mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir nuolat.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    (Kopija iš originalo, esančio Radvilų archyve)
+    Steponas, Dievo Malone Lenkijos karalius, Didysis Lie­
+    tuvos, Rusios, Prūsijos, Žemaitijos, Mazovijos, Livonijos ku­
+    nigaikštis, Siedmigrodo* ir kitų kunigaikštis. Šiuo mūsų laiš­
+    ku pareiškiame visiems bendrai ir kiekvienam atskirai, kam
+    tai reikia žinoti dabar ir ateityje, jog atsižvelgiame į ištiki­
+    mus, drąsius ir pasiaukojamus mūsų vengrų pulkų vado
+    pono Gabrielio Bekešo Skornato nuopelnus; jis, narsiai ir
+    nuolat likdamas prie mūsų karališkosios didenybės, sau­
+    godamas mūsų sveikatą, šlovę ir autoritetą, taip pat ir visa­
+    me kame, kiekviename reikale ir tarnyboje mums ir Kara­
+    lystei bei Lietuvos Didžiajai Kunigaikštystei, Respublikai
+    su nemažomis savo lėšomis ir pajamomis, negailėdamas sa­
+    vo sveikatos prie mūsų, savo valdovo, būdamas, su noru,
+    ištikimai ir narsiai visada rėmė ir nesiliauja rėmęs. Kaip ir
+    tame neseniai vykusiame kare prieš Maskvos kunigaikštį
+    prie Polocko rizikavo savo gyvybe ir sveikata, savo noru ir
+    būdamas taurios riteriškos širdies, nusėdęs nuo žirgo, ne­
+    bodamas jokio pavojaus, stojo prie pat priešininko pilies
+    sienų, kad ją užimtų ir šturmuotų, ir kitiems, kurie su juo
+    420
+    Transiivanijos (vert.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Tai, kas tuose rejestruose išvardinta: bajorų, kelio miestiečių bei tiaglinių ir tėvoniškių žmonių, jie visi su savo vaikais ir palikuonimis yra tikri pono Gabrielio Bekešo tėvoniškiai ir su visais kitais priklausiniais ir dali­ mis, kurios tik nuo senų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai, kas tuose rejestruose išvardinta: bajorų,
+    kelio miestiečių bei tiaglinių ir tėvoniškių žmonių, jie visi
+    su savo vaikais ir palikuonimis yra tikri pono Gabrielio
+    Bekešo tėvoniškiai ir su visais kitais priklausiniais ir dali­
+    mis, kurios tik nuo senų senovės priklausė šioms valdoms,
+    nors kartais Vaitiekaus Slavenckio į šiuos rejestrus kas nors
+    ir nebūtų įtraukta ar aprašyta. Ir bus leista minėtam po­
+    nui Gabrieliui Bekešui ir po jo abiejų lyčių vaikams ir vi­
+    siems jo palikuonims, kaip aukščiau pasakyta, tose visose
+    išvardintose ir jam mūsų duotose valdose visą derlių, ku­
+    ris dabar ten yra ir po to būtų gautas ir galėtų būti suras­
+    tas, sau naudoti ir dauginti bei plėsti, bažnyčias ir mokyk­
+    las mokslų platinimui ir Dievo šventoves, kur tik manytų
+    esant reikalinga, statyti. Miestus, turgus juose funduoti ir
+    kaimus vėl apgyvendinti, smukles miestuose ir prie nak­
+    vynės namų deramose vietose, minėtų valdų žemėse sta­
+    tyti, daryti tvenkinius, malūnus statyti, visokeriopą nau­
+    dą tose valdose sau didinti ir plėsti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -290,6 +385,10 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Antspaudas]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Tame (Baigos brolis)]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/tėvonija]]
+- [[objektai/grupes/Protestantai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
+- [[objektai/grupes/Stepono Batoro vengrų kariuomenė]]
+- [[objektai/grupes/Lietuvos bajorija]]

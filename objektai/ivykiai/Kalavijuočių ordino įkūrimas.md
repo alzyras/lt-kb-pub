@@ -124,3 +124,13 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/akcijos]]
+- [[objektai/grupes/Kalavijuočių ordinas]]

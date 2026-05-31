@@ -53,6 +53,14 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   teiginys: 'Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos pilim jis jau nebeturėjo ryšio.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Dabar sienos ir trys kiti bokštai gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į Jurbarką krosnims ir dūmtraukiams mūryti.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,3 +125,39 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos pilim jis jau nebeturėjo ryšio.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet
+    dabar, po Durbės pralaimėjimo, jis buvo išvytas iš visos Žemai-
+    tijos. Jo pastatyta Jurbarko pilis buvo sugriauta; su Klaipėdos
+    pilim jis jau nebeturėjo ryšio. Nustojęs vilties veikiai nuka-
+    riauti Žemaičius, jis vėliau Klaipėdą perleido Prūsų kryžiuo-
+    čiams (1328 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Dabar sienos ir trys kiti bokštai gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į Jurbarką krosnims ir dūmtraukiams mūryti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Seniau jos sudarė ketvirtainį, kampuose su­
+    tvirtintą bokštais, vienas jų, aukštesnis už kitus, stovi išlai­
+    kęs pirmapradį pavidalą. Dabar sienos ir trys kiti bokštai
+    gerokai apgriauti, ypač per pastaruosius dvidešimt metų, o
+    šiuo metu netgi nedraudžiama plytas rinkti ir pardavinėti į
+    Jurbarką krosnims ir dūmtraukiams mūryti. Viena siena iš
+    vakarų pusės jau seniai buvo nugriauta, kad atsivertų vaiz­
+    das į Nemuną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

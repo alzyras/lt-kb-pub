@@ -92,3 +92,11 @@ tags: []
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
+
+### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]

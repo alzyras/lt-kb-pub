@@ -1,0 +1,145 @@
+---
+tipas: paprotys
+pavadinimas: 'Įtartinų žmonių šalinimas iš tvirtovės apgulties metu'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - karas
+  - kunigaikštis
+  - paprotys
+  - pilis
+---
+# Įtartinų žmonių šalinimas iš tvirtovės apgulties metu
+
+## Santrauka
+
+Tas šaunus karys, išvaręs iš tvir­ tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­ čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­ liams. O bijodami iš­ davystės, iš savųjų tarpo galinčios rastis, rusus ir įtartinus žmones iš­ vijo iš pilies, patys narsiai gynėsi, o vokiečius, dieną ir naktį atakuojan­ čius, atremdami, tas vietas, kur mū­ rai nuo nuolatinio šaudymo griuvo, žeme ir mėšlu.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Tas šaunus karys, išvaręs iš tvir­ tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­ čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­ liams.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'O bijodami iš­ davystės, iš savųjų tarpo galinčios rastis, rusus ir įtartinus žmones iš­ vijo iš pilies, patys narsiai gynėsi, o vokiečius, dieną ir naktį atakuojan­ čius, atremdami, tas vietas, kur mū­ rai nuo nuolatinio šaudymo griuvo, žeme ir mėšlu.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Tas šaunus karys, išvaręs iš tvir­ tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­ čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­ liams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ši Karigailos žūtis buvo dauge-
+    —  •  —
+    124
+
+    ## Puslapis 141
+
+    Il KNYGA
+    Išdidūs, pasiekę kruviną pergalę, pasitikintys savo siekių
+    sėkme ir riteriškojo karo meno išmanymu, kryžiuočiai jau
+    neabejojo, kad užimti Aukštutinę pilį jiems nebus sunku, tad
+    visas pajėgas nukreipė prieš ten apgultus lenkus. Nuolati­
+    nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet
+    niekas neįstengė palaužti lenkų narsos ir ištvermės Mos-
+    koževskio gynybos linijose. Tas šaunus karys, išvaręs iš tvir­
+    tovės visus įtartinus žmones, juolab tuos, kurie galėjo slap­
+    čia linkti į Vytauto pusę, įstengė duoti smarkų atkirtį penkias
+    savaites nesiliaujantiems įnirtingiems apsupusiųjų antpuo­
+    liams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'O bijodami iš­ davystės, iš savųjų tarpo galinčios rastis, rusus ir įtartinus žmones iš­ vijo iš pilies, patys narsiai gynėsi, o vokiečius, dieną ir naktį atakuojan­ čius, atremdami, tas vietas, kur mū­ rai nuo nuolatinio šaudymo griuvo, žeme ir mėšlu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    35
+    Stryjkowski loco cit., plačiai
+    aprašinėdamas Vilniaus apgultį,
+    taip svarsto apie Moskoževskio gy­
+    nybą Aukštutinėje pilyje: „Aukštu­
+    tinę pilį lenkai su Vilniaus seniūnu
+    Mikalojumi Moskorovskiu narsiai
+    gynė, tad nei padegdami Žemutinę
+    pilį, nei grasinimais kiršindami, nei
+    rodydami kunigaikščio Karigailos
+    galvą, nei nuožmiai ir staigiai pul­
+    dami į ataką, nei be paliovos šaudy­
+    dami iš patrankų, kurios didesnę da­
+    lį mūro sienų pramušė ir sugriovė,
+    neprivertė pasiduoti. O bijodami iš­
+    davystės, iš savųjų tarpo galinčios
+    rastis, rusus ir įtartinus žmones iš­
+    vijo iš pilies, patys narsiai gynėsi, o
+    vokiečius, dieną ir naktį atakuojan­
+    čius, atremdami, tas vietas, kur mū­
+    rai nuo nuolatinio šaudymo griuvo,
+    žeme ir mėšlu užtaisydavo ir galvi­
+    jų oda, taip pat maišais, prikimštais
+    vilnų, dangstė, ir taip vokiečių pa­
+    trankų šūvių išvengdavo, pagaliau
+    kūnais savo dengdami pramuštas
+    angas, stojo prieš pašėlusiai puolan­
+    čius ir atkakliai į pilį besibraunan­
+    čius priešus ir stūmė rąstais, basliais,
+    ginė akmenimis ir aliojimais nuo ap­
+    griauto mūro viršaus, o vokiečiai
+    kūlversčiais lėkė žemyn, talžyte su-
+    talžyti, tarsi sviediniai, o kiti žiau­
+    riai sulaužytomis rankomis, kojo­
+    mis, suknežintais sprandais, pirm
+    nei nuriedėjo į apačią, mirė."
+    36
+    Długosz Histor.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karigaila]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/asmenys/Mikalojus Moskoževskis]]
+- [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]

@@ -63,4 +63,5 @@ Nenurodyta
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Ignotas Masalskis]]
 - [[objektai/asmenys/Simonas Kosakovskis]]

@@ -1,0 +1,115 @@
+---
+tipas: daiktas
+pavadinimas: 'Aleksandro laikų Vilniaus monetos ir kalyklos metalai'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1505 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1505'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - daiktas
+  - karalius
+---
+# Aleksandro laikų Vilniaus monetos ir kalyklos metalai
+
+## Santrauka
+
+Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51. A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.
+
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
+    matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­
+    dėjus Vilniaus vaivadai Mikalojui Radvilai51. Vilniaus mo­
+    netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis
+    energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­
+    tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52. Pa-
+    49
+    Daug sutarčių su tuo Onka yra Lie­
+    tuvos Metrikoje, V knygoje, prie
+    1505 metų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'A liteho 236 ## Puslapis 253 III KNYGA galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­ toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­ me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pan Litawor Chrebtowicz, Marszałok
+    Namiestnik Nowhorodski i Słonimski,
+    wydał Hospodaru Jeho Młsti W ieliko-
+    mu Kniaziu liczbu z mincy prybytku za
+    czotyry body szestdiesiat tysiaczej
+    zołotych i tysiacza zołotych i diewetsot
+    zołotych i dwadcat zołotych, a zołotyi
+    po dwadcat hroszej i po dwa broszy. A
+    za srebro i za robotu i za mied' i za wsi
+    rzeczy, szto k mincy prisłuchaiut,
+    wyszło 50 tysiacz kop i szest tysiacz kop.
+    a 40 kop. i kopa i 26 hroszej. A liteho
+    236
+
+    ## Puslapis 253
+
+    III KNYGA
+    galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
+    toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
+    me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Liutauras Chreptavičius]]
+- [[objektai/asmenys/Ulrikas Hozijus]]

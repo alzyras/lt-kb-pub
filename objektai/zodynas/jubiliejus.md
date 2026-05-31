@@ -53,4 +53,7 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/indulgencija]]
+- [[objektai/autoriai/A. Alekna]]
 - [[objektai/grupes/Sakalo bendrovė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]

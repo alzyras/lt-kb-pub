@@ -83,5 +83,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/spiritus movens]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Lietuviškoji socialdemokratų partija]]
+- [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia]]
+- [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]

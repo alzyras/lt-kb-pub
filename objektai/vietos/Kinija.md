@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1626 m.'
+  - '1634 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+date_start: '1626'
+date_end: '1634'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -26,6 +36,10 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   teiginys: 'Šios ambicijos nebeatrodo geografiškai tokios naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Rudaminą, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Be to, reikia neužmiršti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Rudaminą, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo 1626–1634 m. ir rašė.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,3 +66,19 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Be to, reikia neužmiršti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Rudaminą, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo 1626–1634 m. ir rašė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Be to, reikia neužmirš-
+    ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
+    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
+    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
+    1626–1634 m. ir rašė asketikos veikalus kinų kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

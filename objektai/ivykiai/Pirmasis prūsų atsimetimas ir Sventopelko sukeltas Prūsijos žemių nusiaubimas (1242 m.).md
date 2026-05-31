@@ -150,3 +150,13 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Prūsijos žemė]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/autoriai/J. Poverskis]]
+- [[objektai/autoriai/Powierski J]]

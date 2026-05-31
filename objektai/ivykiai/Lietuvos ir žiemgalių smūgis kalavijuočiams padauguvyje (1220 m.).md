@@ -44,6 +44,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams padauguvyje27.'
   pagrindžia:
     - c-002
+- t-002
+  teiginys: 'Dusburgietis teigia, kad taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų bendradarbiavimas26.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 
@@ -79,3 +83,28 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Dusburgietis teigia, kad taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų bendradarbiavimas26.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
+    puolimus dar iki kryžiuočių atsikraustymo į pavyslį, pasireiškė Lietuvos, jotvingių, prūsų
+    bendradarbiavimas26. Tuo pačiu metu (1220 m.) Lietuvos ir žiemgalių kariuomenė smogė
+    kalavijuočiams padauguvyje27.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Žiemgaliai]]

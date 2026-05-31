@@ -61,5 +61,7 @@ Nenurodyta
 - [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/S. Rozenbaumas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/kultūrinė autonomija]]

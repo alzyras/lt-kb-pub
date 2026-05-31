@@ -93,6 +93,7 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
 - [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/grupes/Algimanto apygarda]]
 - [[objektai/asmenys/Danielius]]
+- [[objektai/asmenys/Vaižgantas]]
 - [[objektai/grupes/Kunigaikščio Margio rinktinė]]
 - [[objektai/grupes/Tumo Vaižganto rinktinė]]
 - [[objektai/grupes/Vytauto apygarda]]

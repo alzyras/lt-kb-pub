@@ -184,6 +184,15 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   teiginys: 'Dusburgietis teigia, kad otrębski J. Namen von zwei Jatwingerstämmen.— Slawische Namenforschung, Berlin, 1963, S. 204—209. Otrębski J. Udział Jaćwingów w ukształtowaniu języka polskiego.— ABS, Białystok, 1964, 1, s. 207—216.'
   pagrindžia:
     - c-034
+- t-035
+  teiginys: 'Dusburgietis teigia, kad devinta — Sūduva199, kurioje [gyveno] sūduviai.'
+  pagrindžia:
+    - c-042
+- t-036
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės.'
+  pagrindžia:
+    - c-043
+
 ## Reikšmingi paminėjimai
 
 - c-002
@@ -923,9 +932,98 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-026
+- c-042
+  santrauka: 'Dusburgietis teigia, kad devinta — Sūduva199, kurioje [gyveno] sūduviai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    skalviai. Devinta — Sūduva199, kurioje [gyveno] sūduviai. Dešimta — Galinda200, kurioje
+
+      199 D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-043
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
+
+       Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais
+    raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488;
+    neskaitant galybės užmuštųjų, jie išsivarė su savimi tūkstantį belaisvių ir išsigabeno
+    galybę kitokio grobio. Kitą dieną, kai brolių kariuomenė atsitraukdama priėjo mišką,
+    vardu Vinsas489, juos pasivijo trys tūkstančiai rinktinių sūduvių vyrų, kuriuos broliai su
+    saviškiais drąsiai užpuolė, daugybę nukovė ir mirtinai sužeidė, o kitus nuvijo iki įeigos į
+    jų žemę. Šiose kautynėse brolių kariuomenė neteko šešių vyrų, kritusių kovoje, visi kiti
+    sveiki sugrįžo atgal.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/autoriai/H. Lowmiański]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/autoriai/K. Būga]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Liudvikas]]
+- [[objektai/asmenys/Liudvikas iš Libencelės]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/asmenys/Nameisis]]
+- [[objektai/asmenys/Popiežius Honorijus II]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/priešmindauginė Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas|Antrasis Bartenšteino pilies sugriovimas (pilis)]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]
+- [[objektai/posakiai/Gailiuosi jus pagimdžiusi]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/ivykiai/Jotvingių ir lietuvių prisidėjimas prie pamarėnų-prūsų sąjungos (1245 m.)]]
+- [[objektai/asmenys/Kantigirdas]]
+- [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]
+- [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
+- [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]
+- [[objektai/asmenys/Mantas]]
+- [[objektai/grupes/Mantiminų giminė]]
+- [[objektai/asmenys/Nameda]]
+- [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
+- [[objektai/grupes/Pamarėnai]]
+- [[objektai/asmenys/Pasdrauputis]]
+- [[objektai/paprociai/Sekmadieninis kaimo žmonių linksminimasis ir šokiai]]
+- [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]
+- [[objektai/asmenys/Skomantas]]
+- [[objektai/ivykiai/Sūduvių ir lietuvių antpuolis prieš Sembą]]
+- [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]
+- [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas]]
+- [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]
+- [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą]]
+- [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]
+- [[objektai/zodynas/ginklanešys]]

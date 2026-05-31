@@ -60,6 +60,10 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   teiginys: 'Dusburgietis teigia, kad mortensen H., Mortensen G.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Dusburgietis teigia, kad ji tapatinta su Vilniumi, jos ieškota Minijos pakrantėje prie Dovilų (Klaipėdos rj.), prie Kaltinėnų (Šilalės rj.), Girkalnio apylinkėse (Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 203—205).'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 97; plg.'
@@ -157,3 +161,19 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Dusburgietis teigia, kad ji tapatinta su Vilniumi, jos ieškota Minijos pakrantėje prie Dovilų (Klaipėdos rj.), prie Kaltinėnų (Šilalės rj.), Girkalnio apylinkėse (Mortensen H., Mortensen G., Die Besiedlung..., 2, p. 203—205).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ji tapatinta su Vilniumi, jos ieškota Minijos pakrantėje
+    prie Dovilų (Klaipėdos rj.), prie Kaltinėnų (Šilalės rj.), Girkalnio apylinkėse (Mortensen
+    H., Mortensen G., Die Besiedlung..., 2, p. 203—205). Patikimesni atrodo bandymai ją
+    lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
+    (Zajączkowski S.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

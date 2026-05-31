@@ -66,4 +66,5 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/zodynas/monografija]]
+- [[objektai/autoriai/A. Janulaitis]]
 - [[objektai/autoriai/Aug. Janulaitis]]

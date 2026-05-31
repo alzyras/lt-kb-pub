@@ -59,11 +59,9 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Romai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas]]
+- [[objektai/posakiai/sobiratel’ russkich žemeli]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -129,4 +129,5 @@ Nenurodyta
 - [[objektai/asmenys/Kudaras iš Sūduvos]]
 - [[objektai/asmenys/Nakaimas iš Pagudės]]
 - [[objektai/daiktai/Skobnis]]
+- [[objektai/daiktai/Skydas]]
 - [[objektai/asmenys/Štaubemelis]]

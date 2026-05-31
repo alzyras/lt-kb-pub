@@ -20,6 +20,7 @@ datos:
   - '1822 m.'
   - '1925 m.'
   - '1930 m.'
+  - '1933 m.'
   - '1935 m.'
   - '2013 m.'
   - '2026 m.'
@@ -86,6 +87,30 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   teiginys: 'Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 gin­ kluotų skydais, Gnieznas - 1 500 šarvuotųjų ir 5 000 pėstininkų; Vladislavovo pilis - 800 šarvuotų­ jų, 2 000 su skydais, Gdečas - 300 pirmųjų ir 2 000 antrųjų.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: '60 Laurynas Goslickis, pirmiausia ka­ raliaus Stepono sekretorius, galiau­ siai Poznanės vyskupas, išgarsėjo ypatingais sugebėjimais spręsti vie­ šuosius reikalus bei įvairiose pasiun­ tinybėse, bet labiausiai lotynų kalba parašęs puikią knygą „De optimo.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'PamZH = Pamiętnik (IV, V, VI) Powszechnego Zjazdu Historyków Polskich, 1925 (Poznanė), 1930 (Varšuva), 1935 (Vilnius).'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - lavo Baško (vert.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 metų, 1538 m.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -233,3 +258,109 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 gin­ kluotų skydais, Gnieznas - 1 500 šarvuotųjų ir 5 000 pėstininkų; Vladislavovo pilis - 800 šarvuotų­ jų, 2 000 su skydais, Gdečas - 300 pirmųjų ir 2 000 antrųjų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    51. Martinas
+    Galias pasakoja, kad Poznanė duo­
+    davo 1 300 šarvuotųjų ir 4 000 gin­
+    kluotų skydais, Gnieznas - 1 500
+    šarvuotųjų ir 5 000 pėstininkų;
+    Vladislavovo pilis - 800 šarvuotų­
+    jų, 2 000 su skydais, Gdečas - 300
+    pirmųjų ir 2 000 antrųjų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: '60 Laurynas Goslickis, pirmiausia ka­ raliaus Stepono sekretorius, galiau­ siai Poznanės vyskupas, išgarsėjo ypatingais sugebėjimais spręsti vie­ šuosius reikalus bei įvairiose pasiun­ tinybėse, bet labiausiai lotynų kalba parašęs puikią knygą „De optimo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    tarp dekretų.
+    60
+    Laurynas Goslickis, pirmiausia ka­
+    raliaus Stepono sekretorius, galiau­
+    siai Poznanės vyskupas, išgarsėjo
+    ypatingais sugebėjimais spręsti vie­
+    šuosius reikalus bei įvairiose pasiun­
+    tinybėse, bet labiausiai lotynų kalba
+    parašęs puikią knygą „De optimo
+    Senatore", kuri buvo išversta net į
+    anglų kalbą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'PamZH = Pamiętnik (IV, V, VI) Powszechnego Zjazdu Historyków Polskich, 1925 (Poznanė), 1930 (Varšuva), 1935 (Vilnius).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Varšuva 1933.
+    PamZH = Pamiętnik (IV, V, VI) Powszechnego Zjazdu Historyków
+    Polskich, 1925 (Poznanė), 1930 (Varšuva), 1935 (Vilnius).
+    PAN = Polska Akademia Nauk, Varšuvoje naujai perorganizuotos
+    (Krokuvos) PAU tąsa.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    RAU = Rozprawy Akademji Umiejętności, Wydział filozoficzno-
+    historyczny, leidžiamas PAU Krokuvoje.
+    RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė.
+    RegJH = Regesta historico — diplomatica Ordinis Mariae Theutoni-
+    corum (1198-1525), išl.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s - lavo Baško (vert.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Apie tai mini Kroni­
+    ka Lechitów i Polaków, parašyta Poznanės kustodo G o d z i s -
+    lavo Baško (vert. į lenkų kalbą 1822 m., Varšuva), nuro­
+    dydama, kad „1253 metais Petras, išrinktas Poznanės
+    vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­
+    tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­
+    kupais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40 metų, 1538 m.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
+    I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o
+    1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
+    metų, 1538 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015

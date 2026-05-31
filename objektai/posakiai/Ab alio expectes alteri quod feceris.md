@@ -99,3 +99,8 @@ Tai, ką žmogus padaro kitam, vėliau gali pats patirti iš kito.
     - t-001
     - t-002
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Žygimantas]]

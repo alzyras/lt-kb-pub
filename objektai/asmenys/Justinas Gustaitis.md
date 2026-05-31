@@ -60,8 +60,5 @@ Tad, pasirodykime laisvės verti ir tą dieną, kada kovos pradžia atrodys SAVA
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Savanoris]]

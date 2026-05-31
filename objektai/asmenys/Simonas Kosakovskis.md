@@ -50,4 +50,5 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Ignotas Masalskis]]
 - [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]

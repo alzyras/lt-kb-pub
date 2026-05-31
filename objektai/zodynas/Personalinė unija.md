@@ -6,11 +6,10 @@ variantai:
   - 'personalinė unija'
   - 'personalinėje unijoje'
   - 'personalinės unijos'
-  - 'Personalinė unija'
 aliases:
   - 'Personalinė unija'
 saltiniai:
-  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: Lietuvos ir Lenkijos santykių istorija
 vaidmenys: []
 dalyviai: []
@@ -93,7 +92,10 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
   pagrindžia:
     - c-009
-
+- t-013
+  teiginys: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
+  pagrindžia:
+    - c-010
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Melniko susitarimu buvo norima įkurti vieną jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
@@ -247,7 +249,25 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-010
+  santrauka: 'Kad būtų galima to išvengti, darant uniją daugiausia dėmesio ir buvo kreipiama į susitarimą dėl bendro valdovo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kad būtų galima to išvengti, darant uniją daugiausia dėmesio
 
+
+    ir buvo kreipiama į susitarimą dėl bendro valdovo. Abidvi
+    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
+    lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
+    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
+    tuviai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
@@ -257,8 +277,15 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
-- [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
+- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
+- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/zodynas/aneksija]]
+- [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
+- [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]

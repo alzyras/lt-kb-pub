@@ -87,3 +87,5 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Įšleitė|įšleitė]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]

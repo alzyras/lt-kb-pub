@@ -10,6 +10,7 @@ saltiniai:
 datos:
   - '1044 m.'
   - '1131 m.'
+  - '1314 m.'
   - '1330 m.'
   - '1337 m.'
   - '1415 m.'
@@ -137,6 +138,47 @@ tags:
   teiginys: 'O totoriai, ties Kłecku įsirengę košą, arba stovyklą, nemažą būrį pasiuntė į Naugarduką.'
   pagrindžia:
     - c-022
+- t-023
+  teiginys: 'Kad nelaikytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Taip pradėtas lietuvių kunigaikščių kūrimasis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie Lietuvos valstybės.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Tuo tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­ konų bažnyčias: vieną mūsų karališkajame mieste, vardu Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­ vienas pagal savo.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Dėl to mes norime sukviesti vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­ siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­ rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie jų priskirkite mums šiais metais keturis brolius.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: 'Jau yra pastatytos dvi bažnyčios minoritams, viena valdovo mūsų mieste - Vilniuje, kita - Naugarduke, trečiąją paskyrėme dominikonų brolijos vie­ nuoliams, kad kiekvienas galėtų pagal savo apeigas Die­ vui melstis.'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  pagrindžia:
+    - c-029
+- t-030
+  teiginys: '[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­ me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­.'
+  pagrindžia:
+    - c-030
+- t-031
+  teiginys: 'Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su visa savo kariuomene į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų 569 D.'
+  pagrindžia:
+    - c-031
+- t-032
+  teiginys: 'Jos pri­ klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.'
+  pagrindžia:
+    - c-032
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką.'
@@ -528,3 +570,234 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-022
+- c-023
+  santrauka: 'Kad nelaikytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Per rygiečius jis kreipėsi į Hanzos mies-
+    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
+    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
+    tuvą; visiems žadėjo savo globos ir paramos įsikurti. Kad nelai-
+    kytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje
+    jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats
+    pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke. O tuo
+    pat laiku rašytuose laiškuose pranciškonų ir domininkonų vie-
+    **Imperatorius Liudvikas IV Bavarietis 1337 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Taip pradėtas lietuvių kunigaikščių kūrimasis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie Lietuvos valstybės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo
+    Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje sta-
+    čiatikybę priėmęs kunigaikštis. Taip pradėtas lietuvių kunigaikščių kūrima-
+    sis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės
+    (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
+    Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
+    kunigaikštijos ir tapęs vienuoliu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Tuo tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­ konų bažnyčias: vieną mūsų karališkajame mieste, vardu Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­ vienas pagal savo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
+    pasilikti, duodame [žemę] bei suteikiame [privilegiją] de­
+    šimt metų [ją] dirbti laisvai ir be mokesčių, o pusę to laiko
+    tebūna jie atleisti nuo bet kokios karališkos prievolės; mi­
+    nėtam terminui praėjus, priklausomai nuo žemės derlin­
+    gumo, jie duos dešimtinę, kaip ir kitose karalystėse bei tau­
+    tose paprastai jie duodavo, tačiau su tokiu [skirtumu], kad
+    mūsuose grūdas bus gausesnis, negu paprastai yra kitose
+    karalystėse.
+    Tie visi žmonės tesinaudoja Rygos miesto civiline teise,
+    jei paskui nebus geriau sumanyta išmintingųjų tarybos. Tuo
+    tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau
+    pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­
+    konų bažnyčias: vieną mūsų karališkajame mieste, vardu
+    Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­
+    vienas pagal savo apeigas galėtų garbinti dievą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Dėl to mes norime sukviesti vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­ siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­ rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie jų priskirkite mums šiais metais keturis brolius.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mes pageidaujame per jus ir jūsų brolius paskelbti savo
+    nutarimą visuose miestuose, vietovėse ir kaimuose ir pa­
+    skatinti žmones išganingais pamokymais, kad tai, ką Die­
+    vas palaistė, jis ir išaugintų, ir nupiautų, o taip pat patalpin­
+    tų danguose su palaimintaisiais. Dėl to mes norime sukviesti
+    vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­
+    siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­
+    rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie
+    jų priskirkite mums šiais metais keturis brolius, mokančius
+    lenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir
+    63
+
+    ## Puslapis 80
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    amore nostri.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Jau yra pastatytos dvi bažnyčios minoritams, viena valdovo mūsų mieste - Vilniuje, kita - Naugarduke, trečiąją paskyrėme dominikonų brolijos vie­ nuoliams, kad kiekvienas galėtų pagal savo apeigas Die­ vui melstis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    72
+
+    ## Puslapis 89
+
+    I  KNYGA
+    bo prievolių, tam laikui praėjus, turės, priklausomai nuo
+    žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti
+    kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­
+    sė, nebent teisės žinovų potvarkiu kita nustatyta jiems ge­
+    resnė atrodytų. Jau yra pastatytos dvi bažnyčios minori-
+    tams, viena valdovo mūsų mieste - Vilniuje, kita -
+    Naugarduke, trečiąją paskyrėme dominikonų brolijos vie­
+    nuoliams, kad kiekvienas galėtų pagal savo apeigas Die­
+    vui melstis. Toms bažnyčioms prašytume dar šiais metais
+    ketverto vienuolių, mokančių lenkų, prūsų ir žemgalių kal­
+    bas; tik darome išimtį visiems dvasininkams, kurie savo
+    vienuolynus verčia plėšikų prieglaudom, žudo Dievo tar­
+    nus ir sielas žaloja.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-030
+  santrauka: '[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­ me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    [Rūstusai Žygimante, kaip senasis karalius mėtau
+    žaibus,
+    Nejaugi manai, kad tik karaliams paklūsta žaibai?]
+    Vietovių pavadinimai yra tokie:
+    Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­
+    me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­
+    kas, Vitebskas, Orša, Mogiliovas, Propoiskiai, Čečerskiai,
+    Mstislavlis, Radomie, Liubičius, Gomelis, Rečica, Kšičovai,
+    Ovručas, Ostras, Vladimiras, Luckas, Mozyrius, Kijevas,
+    Čerkasai, Medilas, Kaniuvas, Podolės Brasta, Bialocerkievas,
+    Minskas, Radoškovičiai, Lietuvos Brasta, Chastiča, Rožekas,
+    Novy Zamekas, Svisločėje vadinamas Kasperu, Kremene-
+    cas, Černobilis, Suražas, Cieriščiai, Borisovas, Drisa, Trakai,
+    Upytė, Druja, Lepelis, Kopečius arba Ušcas, Tikocinas. Li­
+    vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas,
+    Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel-
+    314
+
+    ## Puslapis 331
+
+    IV  KNYGA
+    menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas,
+    Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
+    mundė, Ryga, Šmetenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-031
+  santrauka: 'Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su visa savo kariuomene į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų 569 D.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
+
+      Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
+    visa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
+      569 D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-032
+  santrauka: 'Jos pri­ klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su
+    valsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),
+    Slanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­
+    klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
+    įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032

@@ -43,10 +43,9 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Jutrzenka]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Pochodnia]]
+- [[objektai/paprociai/Lenkų mokyklų ribojimas pagal tėvų tautybę ir nelegalios lenkiškos mokyklos]]

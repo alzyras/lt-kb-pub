@@ -44,7 +44,11 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Alšėnų kunigaikščiai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/grupes/Sanguškos]]
 - [[objektai/grupes/Vyšnioveckiai]]
-- [[objektai/grupes/Čartoriskiai]]

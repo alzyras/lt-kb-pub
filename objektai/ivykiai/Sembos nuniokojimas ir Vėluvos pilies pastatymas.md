@@ -120,4 +120,5 @@ Nenurodyta
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Tirskas]]

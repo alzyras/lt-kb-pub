@@ -7,6 +7,13 @@ aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XIII'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -40,6 +47,10 @@ tags:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,7 +94,31 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai-
+    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
+    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
+    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
+    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/amfiktionija]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Krivis]]
+- [[objektai/zodynas/Romuva krivis]]
+- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

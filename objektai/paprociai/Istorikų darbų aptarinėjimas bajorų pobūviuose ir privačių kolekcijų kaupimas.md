@@ -105,3 +105,4 @@ Nenurodyta
 - [[objektai/autoriai/S. Daukantas]]
 - [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/asmenys/Teodoras]]
+- [[objektai/asmenys/Teodoras Narbutas]]

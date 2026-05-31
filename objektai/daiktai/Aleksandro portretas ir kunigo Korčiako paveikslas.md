@@ -10,15 +10,18 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "Šv. Dvasios dominikonų bažnyčios atvaizdų kontekstas"
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1505 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1505'
+date_end: ''
 patikimumas: aukštas
 atnaujinta: '2026-05-27'
 tags: []
@@ -52,6 +55,10 @@ Nenurodyta
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,7 +79,32 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dvasios dominikonų baž­ nyčioje galima pamatyti karaliaus Aleksandro portretą visu ūgiu ant pirmosios kolonos nuo įėjimo deši­ nėje pusėje, o ant priešais stovinčios - tokio pat didumo kunigo Korčiako paveikslą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pa-
+    49
+    Daug sutarčių su tuo Onka yra Lie­
+    tuvos Metrikoje, V knygoje, prie
+    1505 metų.
+    50
+    Iki šiol Šv. Dvasios dominikonų baž­
+    nyčioje galima pamatyti karaliaus
+    Aleksandro portretą visu ūgiu ant
+    pirmosios kolonos nuo įėjimo deši­
+    nėje pusėje, o ant priešais stovinčios -
+    tokio pat didumo kunigo Korčiako
+    paveikslą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Korčiakas]]

@@ -86,3 +86,9 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/autoriai/Prochaska]]
+- [[objektai/zodynas/Miera|miera]]

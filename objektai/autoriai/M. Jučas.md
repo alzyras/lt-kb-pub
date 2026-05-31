@@ -39,6 +39,10 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   teiginys: 'Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva 1009–2009.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro 149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование..., с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24— 30 (M. Jučas).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -85,3 +89,26 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro 149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование..., с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24— 30 (M. Jučas).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tokias koncepcijas akivaizdžiai paneigia čia aptariamos ir pateikiamos Petro
+
+      149 Пашуто В. T. Борьба прусского народа..., с. 54—58; to paties, Образование...,
+    с. 228.—237; to paties, Реваншисты..., с. 62—68. 100, 109; Lietuvių karas..., p. 24—
+    30 (M. Jučas); Labuda G. Rec.: M. Hellman. Über die Grundlagen..., s. 68— 70; Jasiński
+    J. Zachodnioniemieckie monografie..., s. 105—125; Тихвинский C: Л., Тишков В. А. XV
+
+    iš Dusburgo kronikos faktai.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

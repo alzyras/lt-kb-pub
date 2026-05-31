@@ -47,4 +47,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lietuvos, Latvijos ir Estijos Baltijos Valstybių Tarybos įkūrimas (1990 m. gegužės 12 d.)]]

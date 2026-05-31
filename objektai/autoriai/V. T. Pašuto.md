@@ -84,9 +84,6 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
-- [[objektai/daiktai/Skydas]]
+- [[objektai/daiktai/Skydai]]
 - [[objektai/zodynas/metrika]]

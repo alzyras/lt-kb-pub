@@ -48,3 +48,4 @@ Tačiau tai sukėlė naują – konfesinio dualizmo (pagonybė į tai negalėjo 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/pagonybė]]

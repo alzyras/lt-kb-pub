@@ -73,7 +73,14 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   teiginys: 'Jam mirus, Vytautas susitaikino su Maskvos „visos Rusijos“ metropolitu Focijumi^3 ) ir Kijevo me­ tropolija nebebuvo atnaujinta.'
   pagrindžia:
     - c-008
-
+- t-009
+  teiginys: 'Teodozijų, kaipo kan­ didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­ čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­ tuva, kas sudarė pavojų pačiai stačiatikybei.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tad Vytautas pastatė Focijui sąlygą, kad apsigy­ ventų Kijeve, bet šis savo rezidencija pasirinko Maskvą, į Lietu­ vos valstybę retai kada teužsukdamas.'
+  pagrindžia:
+    - c-010
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1408 m. Konstantinopolio patriarchas metropolitu paskyrė Maskvos kandidatą graiką Focijų.'
@@ -223,12 +230,57 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Teodozijų, kaipo kan­ didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­ čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­ tuva, kas sudarė pavojų pačiai stačiatikybei.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Teodozijų, kaipo kan­
+    didatą į Kijevo metropolitus, bet Konstantinopolyje rusai buvo
+    painformavę apie Vytauto sumanymus atitraukti Lietuvos sta­
+    čiatikius nuo Rusijos ir tampriai surišti juos su katalikiška Lie­
+    tuva, kas sudarė pavojų pačiai stačiatikybei Vytauto valdomuo­
+    se kraštuose. Todėl Vytauto kandidatas liko nepatvirtintas. Jo
+    vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs
+    rusus, metropolitu paskyrė Maskvos kandidatą graiką Focijų
+    (1408), kuriam, kaip Maskvos metropolitui, pavesti buvo visos
+    Rusijos ir Lietuvos stačiatikių reikalai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Tad Vytautas pastatė Focijui sąlygą, kad apsigy­ ventų Kijeve, bet šis savo rezidencija pasirinko Maskvą, į Lietu­ vos valstybę retai kada teužsukdamas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tad Vytautas pastatė Focijui sąlygą, kad apsigy­
+    ventų Kijeve, bet šis savo rezidencija pasirinko Maskvą, į Lietu­
+    vos valstybę retai kada teužsukdamas. Lietuvos stačiatikiai vys­
+    kupai apskundė jį Vytautui, kad smunka bažnyčios gyvenimas,
+    kad Focijus išveža į Maskvą bažnytinius turtus. Remdamasis
+    skundu, Vytautas užgynė Focijui lankyti Lietuvos stačiatikių
+    bažnyčias, rinkti mokesčius, gabenti Maskvon bažnytinius daik­
+    tus, išvijo iš Lietuvos Focijaus paskirtus rusų šventikus; Foci­
+    jus nelaukė taip griežtų Vytauto sprendimų ir norėjo susitaikyti,
+    bet, atvykus jam 1414 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos stačiatikiai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Gregorijus Cemblakas]]
 - [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]
+- [[objektai/zodynas/uzurpatorius]]
 - [[objektai/zodynas/kunigaikštija]]

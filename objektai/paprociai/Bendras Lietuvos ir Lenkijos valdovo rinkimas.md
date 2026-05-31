@@ -61,6 +61,10 @@ Nenurodyta
   teiginys: 'Lie­ tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna teisę dalyvauti naujo kun. elekcijoj.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Bet užtat jų akte yra ir naujas punktas, kurio nėra Vytauto doku­ mente, pav.: jei Jogaila numirtų nepalikęs įpėdinių, Lenkija nega­ li rinktis sau karaliaus be Vytauto ir jo bajorų žinios^2 ).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,10 +119,33 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Bet užtat jų akte yra ir naujas punktas, kurio nėra Vytauto doku­ mente, pav.: jei Jogaila numirtų nepalikęs įpėdinių, Lenkija nega­ li rinktis sau karaliaus be Vytauto ir jo bajorų žinios^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet
+    užtat jų akte yra ir naujas punktas, kurio nėra Vytauto doku­
+    mente, pav.: jei Jogaila numirtų nepalikęs įpėdinių, Lenkija nega­
+    li rinktis sau karaliaus be Vytauto ir jo bajorų žinios^2 ). Šis punk­
+    tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad
+    Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­
+    tekti Vytautui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
+- [[objektai/grupes/Lietuvių bajorija]]

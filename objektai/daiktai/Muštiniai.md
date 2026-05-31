@@ -6,7 +6,7 @@ variantai:
   - muštiniais
 aliases: []
 saltiniai:
-  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 laikotarpis: senovės aisčių laikai
 datos: []
 periodas: senove
@@ -78,8 +78,5 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]

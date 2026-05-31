@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1929 m.'
+  - '1938 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1929'
+date_end: '1938'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -53,6 +63,18 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   teiginys: 'Tūbelio ministrų kabinetas, premjerą pakeitė kitas A.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepakeliamas skolas.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tūbelis kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę veiklą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį L I E T U V O S I S T O R I J A 164 reguliavimą laikė naudingu ir reikalingu, taigi jo politiką kartais vadinama.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Kariuomenės lojalumui užtikrinti išeitis rasta paprasta – 1 750 karininkų 25 000 dydžio kariuomenėje mokėti nepaprastai dideli atlyginimai, suteikta nemokama Juozas Tūbelis – ministras pirmininkas (1929 rugsėjis–1938 kovas) 4 skyrius • L I E T U V O S VA L S.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -152,3 +174,85 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepakeliamas skolas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tūbelis puikiai išmanė Lietuvos ekonomiką ir finansus, kietai
+    priešinosi lito nuvertinimui, o atsargi ekonominė politika leido atlaikyti
+    krizę, valstybės finansai nepakriko, valstybė nebrido ir neįbrido į nepa-
+    keliamas skolas. Jo teorija ūkiškai konservatyvi – vengti išleisti daugiau
+    negu uždirbi, finansinę padėtį gerinti plėtojant gamybą. Nesiskolino už-
+    sienyje, sprendimus darė atsargiai, pritarė ekonominės veiklos autarki-
+    jai – išsiversti su kuo mažiau importo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Tūbelis kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę veiklą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį L I E T U V O S I S T O R I J A 164 reguliavimą laikė naudingu ir reikalingu, taigi jo politiką kartais vadinama.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kooperatyvams ir
+    pavieniams ūkininkams įsivežus iš Danijos, Švedijos ir Vokietijos tūks-
+    tančius žalųjų bei juodmargių karvių, pieno išmilžiai pakilo nuo 700 iki
+    2 000 litrų ir lenkė daugelį šalių. Kai privati ekonominė iniciatyva dau-
+    geliu atžvilgių nepajėgė veikti tautos ūkiui reikiamu mastu, J. Tūbelis
+    kūrė ir stiprino kooperacinių ar masinių akcinių bendrovių ūkinę vei-
+    klą, samdomojo darbo, švietimo, kultūros srityse nuosaikų valstybinį
+
+    L I E T U V O S  I S T O R I J A
+    164
+    reguliavimą laikė naudingu ir rei-
+    kalingu, taigi jo politiką kartais
+    vadinama santūria valstybinio so-
+    cializmo atmaina.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Kariuomenės lojalumui užtikrinti išeitis rasta paprasta – 1 750 karininkų 25 000 dydžio kariuomenėje mokėti nepaprastai dideli atlyginimai, suteikta nemokama Juozas Tūbelis – ministras pirmininkas (1929 rugsėjis–1938 kovas) 4 skyrius • L I E T U V O S VA L S.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    . Kariuomenės
+    lojalumui užtikrinti išeitis rasta paprasta – 1 750 karininkų 25 000 dydžio
+    kariuomenėje mokėti nepaprastai dideli atlyginimai, suteikta nemokama
+    Juozas Tūbelis – ministras pirmininkas
+    (1929 rugsėjis–1938 kovas)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    165
+    sveikatos priežiūra, butai ir kiti priedai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/asmenys/J. Tūbelis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/MINTIS]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/grupes/Valstybės gynimo taryba|Valstybės gynimo taryba (institucija)]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/in corpore]]
+- [[objektai/zodynas/litas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vienvaldystė]]
+- [[objektai/grupes/Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“]]
+- [[objektai/grupes/Lietuvių tautininkų sąjunga]]
+- [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]
+- [[objektai/asmenys/Stasys Raštikis]]

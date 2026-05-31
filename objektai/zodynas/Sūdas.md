@@ -75,3 +75,5 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/tėvūnas]]
 - [[objektai/zodynas/vergai]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
+- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]

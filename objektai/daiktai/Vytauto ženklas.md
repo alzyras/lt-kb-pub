@@ -156,3 +156,4 @@ Nenurodyta
 - [[objektai/asmenys/Timuras]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
+- [[objektai/asmenys/Timur-Kutlugas]]

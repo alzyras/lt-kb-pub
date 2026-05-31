@@ -107,6 +107,7 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Vokiečiai]]

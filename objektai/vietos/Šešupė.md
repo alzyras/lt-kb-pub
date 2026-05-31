@@ -59,6 +59,10 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginys: '89 Šešuoliai 233 Šešupė 326, 333, 359 Šiauliai 68, 108, 168, 180 ; Šiaulių ekonomija 79 ; žr.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -163,3 +167,21 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nuo pasirašymo vie-
+    tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
+    leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
+    likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
+    Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai
+    ordinas sutiko ne tik nepulti Lietuvos, bet net padėti Vytautui
+    rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

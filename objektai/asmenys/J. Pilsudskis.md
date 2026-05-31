@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1919 m.'
+  - '1926 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1919'
+date_end: '1926'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -53,6 +63,10 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginys: 'Pilsudskis uždavė A.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -151,10 +165,53 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviakalbės Lietuvos
+    kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik
+    teisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva-
+    rininkų privilegijoms. Nors kai kurie dvarininkai „senlietuviai“ parėmė
+    lietuvių aspiracijas, dauguma dėjo viltis į Lenkiją – J. Pilsudskis, pokario
+
+    L I E T U V O S  I S T O R I J A
+    132
+    Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietu-
+    viu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Len-
+    kijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu iš Lietuvos
+    nepriklausomybės kūrėjų, Lietuvos Tarybos nariu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/asmenys/Juzefas Pilsudskis]]
-- [[objektai/posakiai/„Karas ar taika “]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Gabrielis Narutovičius]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas Narutavičius]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/asmenys/Dovas Zaunius]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/asmenys/Petras Klimas]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/posakiai/„Karas ar taika “]]
+- [[objektai/zodynas/fait accompli]]
+- [[objektai/asmenys/Romanas Dmovskis]]
+- [[objektai/posakiai/„seimokratija“]]

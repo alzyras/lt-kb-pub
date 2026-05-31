@@ -49,3 +49,4 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

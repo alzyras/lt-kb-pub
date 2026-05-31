@@ -8,15 +8,15 @@ aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-13'
 tags: []
@@ -50,6 +50,10 @@ tags: []
   teiginys: 'VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“ („Aprašomoji etnologija“).'
   pagrindžia:
     - c-002
+- t-004
+  teiginys: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
+  pagrindžia:
+    - c-003
 
 ## Bibliografiniai įrodymai
 - c-001
@@ -79,3 +83,28 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-003
+  santrauka: 'Alfonsas Eidintas, redaktorius Į v a d a s LIETUVA – VIDURIO EUROPOS DALIS „Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“ Iš britų mokslininko Robert Gordon Latham „Descriptive Ethnology“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sauliui Kaubriui ir daugeliui
+    kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
+    atrinkimo.
+       Alfonsas Eidintas,
+       redaktorius
+
+    Į v a d a s
+    LIETUVA –
+    VIDURIO EUROPOS DALIS
+    „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
+    didesnis, negu su bet kuria kita kalba šioje žemėje“
+    Iš britų mokslininko Robert Gordon Latham
+    „Descriptive Ethnology“ („Aprašomoji etnologija“)
+    Geografinis Europos centras?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

@@ -8,14 +8,14 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1955 m.'
-  - '1958 m.'
+  - '1972 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
   - 'XX'
 date_start: '1955'
-date_end: '1958'
+date_end: '1972'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -34,7 +34,10 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '2, 1972, 143-160 p. — Kulikauskienė (Volkaitė), R.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Volkaitė-Kulikauskienė parašė „Lietuviai IX-XII amžiais“ ir darbą apie klasinės visuomenės susidarymą Lietuvoje.'
@@ -56,3 +59,17 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '2, 1972, 143-160 p. — Kulikauskienė (Volkaitė), R.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    2, 1972, 143-160 p. — Kulikauskienė
+        (Volkaitė), R. : _Lietuvos archeologiniai paminklai ir jų tyrinėjimai,_
+    Vilnius 1958 (straipsnių rinkinys).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

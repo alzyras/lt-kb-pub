@@ -77,3 +77,4 @@ Nenurodyta
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/metropolija]]
+- [[objektai/asmenys/Gregorijus Cemblakas]]

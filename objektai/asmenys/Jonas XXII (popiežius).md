@@ -38,6 +38,10 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Galimas daly­ kas, jog Rygos arkivyskupo pritarimą turėjo ir aniedu vienuoliai pranciškonai, kuriedu popiežiui apie Gedimino krikštą buvo įrašę daugiau, negu šis buvo ketinęs.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1317 m. popiežius Jonas XXII paragino Gediminą krikštytis.'
@@ -53,3 +57,20 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Galimas daly­ kas, jog Rygos arkivyskupo pritarimą turėjo ir aniedu vienuoliai pranciškonai, kuriedu popiežiui apie Gedimino krikštą buvo įrašę daugiau, negu šis buvo ketinęs.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Galimas daly­
+    kas, jog Rygos arkivyskupo pritarimą turėjo ir aniedu vienuoliai
+    pranciškonai, kuriedu popiežiui apie Gedimino krikštą buvo įrašę
+    daugiau, negu šis buvo ketinęs.
+    Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs
+    raginimą krikštytis10 11.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

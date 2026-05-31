@@ -57,6 +57,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Socialdemokratai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/spiritus movens]]
 - [[objektai/grupes/Lietuviškoji socialdemokratų partija]]
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]

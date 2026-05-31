@@ -51,4 +51,5 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/karo grobis]]
+- [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/asmenys/Pavelas Bermontas-Avalovas]]

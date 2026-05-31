@@ -76,3 +76,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Herbas]]
+- [[objektai/daiktai/Vytis]]

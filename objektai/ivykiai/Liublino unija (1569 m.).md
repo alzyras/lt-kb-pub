@@ -11,6 +11,8 @@ datos:
   - '1562 m.'
   - '1563 m.'
   - '1569 m.'
+  - '1576 m.'
+  - '1586 m.'
   - '1795 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -100,6 +102,14 @@ Nenurodyta
   teiginys: 'Derybų procese žaisdamas dviprasmybėmis, Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Liublino unijos nauda pasireiškė jau netrukus.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -276,3 +286,61 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino unijos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per ašaras, LDK atstovai priėmė, tačiau šio.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Chodkevičius surado išeities
+    kelius ten, kur, atrodė, jų nėra.
+    Žinoma, lenkai ir Žygimantas Augustas darė spaudimą Liublino uni-
+    jos metu – siekė panaikinti valstybingumą, atplėšti teritorijų, tačiau net
+    ir toks Liublino unijos rezultatas buvo kompromisas, kurį, nors ir per
+    ašaras, LDK atstovai priėmė, tačiau šio kompromiso pagrįstumu rimčiau
+    nesuabejota dar du šimtmečius. Liublino unijos nauda pasireiškė jau ne-
+    trukus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Liublino unijos nauda pasireiškė jau netrukus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Liublino unijos nauda pasireiškė jau ne-
+    trukus. Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
+
+    L I E T U V O S  I S T O R I J A
+    66
+    Steponui Batorui (valdė 1576–1586  m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/asmenys/Mantas]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/kompromisas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/posakiai/„Šventos santuokos“]]
+- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]

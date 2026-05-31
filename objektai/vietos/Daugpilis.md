@@ -10,6 +10,7 @@ datos:
   - '1920 m.'
   - '1936 m.'
   - '2026 m.'
+  - '1919 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
@@ -58,7 +59,10 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   teiginys: 'Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­ te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Užėmę Padauguvio Sėlą, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.'
@@ -165,3 +169,23 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
+    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
+    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
+    pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
+    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
+    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
+    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
+    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
+    klo broliais buvusius lenkus prie Širvintų ir Giedraičių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

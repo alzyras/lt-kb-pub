@@ -88,3 +88,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/posakiai/sąmyšio metai]]
+- [[objektai/grupes/Riurikaičių dinastija]]
+- [[objektai/grupes/Romanovų dinastija]]

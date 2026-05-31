@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1923 m.'
+  - '1989 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1923'
+date_end: '1989'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -41,6 +52,10 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Maskva patvirtino, kad sutar- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 147 tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys savo suverenumo Lenkijos naudai.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,3 +118,44 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Maskva patvirtino, kad sutar- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 147 tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys savo suverenumo Lenkijos naudai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pagal abiejų tų sutarčių punktus dėl
+    Vilniaus turėjo susitarti Lietuva ir Lenkija. Maskva patvirtino, kad sutar-
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    147
+    tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
+    kol neatsisakys savo suverenumo Lenkijos naudai.
+    Ambasadorių konferencijos 1923 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Eduardas Vilkas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„Viešumas, demokratija, suverenumas“]]
+- [[objektai/asmenys/Adolfas Jofė]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
+- [[objektai/zodynas/pertvarka perestroika]]
+- [[objektai/zodynas/suverenumas suverenitetas]]

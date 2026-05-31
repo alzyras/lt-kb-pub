@@ -170,3 +170,12 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Diarchijos sistema]]
+- [[objektai/zodynas/diarchija]]
+- [[objektai/zodynas/inkorporacija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Žemaičiai]]

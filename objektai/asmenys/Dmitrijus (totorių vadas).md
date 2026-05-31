@@ -33,7 +33,10 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene.'
@@ -57,10 +60,35 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
+
+    Lietuvos kariuomenė buvo sudaryta
+    iš Lietuvos valdovo Algirdo ir jo brolio
+    Karijoto trijų sūnų - Karijotaičių vado-
+    vaujamų karių. Jie susirėmė su Juodosios
+    jūros pajūrio ir Krymo totorių teritori-
+    jos trijų vadų-kunigaikščių Chadžibėjaus,
+    Kutlugbugo, Dmitrijaus kariuomene.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Karijotaičiai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Adynos|adynos]]

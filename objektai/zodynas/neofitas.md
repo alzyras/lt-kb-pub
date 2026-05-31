@@ -126,4 +126,11 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/asmenys/Inocentas VII]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/Vakarų Bažnyčios schizma]]
+- [[objektai/zodynas/neofitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/krikščionys turi raudoti dėl jo mirties]]
 - [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“]]

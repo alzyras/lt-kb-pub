@@ -63,7 +63,10 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   teiginys: 'SALASPILIO (KIRKCHOLMO) MUSIS riuomenės karališkosios gvardijos pėstininkų batalionas, už jo ant žirgo Švedijos karalius Karolis Ix.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: 'Beje, Švedijos karalius Karolis 1x vos nepakliuvo į nelaisvę.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
@@ -188,8 +191,29 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Beje, Švedijos karalius Karolis 1x vos nepakliuvo į nelaisvę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Švedų kariuomenė neatlaikė ir pra-
+    dėjo trauktis iš viso mūšio lauko, vietomis
+    nesėkmingai bandydami sustabdyti lietu-
+    vių persekiojimą. Beje, Švedijos karalius
+    Karolis 1x vos nepakliuvo į nelaisvę. Švedų
+    reitaras Henrikas Vrede atidavė karaliui
+    savo žirgą, pats žuvo, tačiau jo dėka Karolis
+    Ix išsigelbėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
+- [[objektai/asmenys/Karina Nilsdotter]]

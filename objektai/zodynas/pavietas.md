@@ -47,6 +47,10 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   teiginys: 'Vilniaus katedrai buvo dovanota Tauragnų pilis su visu pavietu ir keli kaimai prie Vilniaus.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -138,6 +142,26 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vėliau karalienė
+    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
+    klebonija tapo išties reikšmingiausia Žemaitijoje. Senoji pi­
+    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
+    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
+    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
+    pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
+    ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
+    das.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -147,3 +171,17 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Bona]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Vaidila]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas IV]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/klebonija]]
+- [[objektai/zodynas/urėdas]]
+- [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

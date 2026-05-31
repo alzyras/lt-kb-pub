@@ -87,6 +87,34 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   teiginys: 'Apie 1345 m. Goštautas šalies reikalais išvyko į Tikociną Palenkėje.'
   pagrindžia:
     - c-013
+- t-014
+  teiginys: '165 psl.), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Jis paveldėjo Trakus ir Gardiną su Palenke (Liet.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Tad Vytautas tegalėjo gauti Gardiną su Palenkė.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Vakarinė valstybės dalis, būtent, Trakų kunigaikštija, Gar­ dino ir Palenkės sritys buvo Kęstučio dalis.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -286,3 +314,126 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-014
+  santrauka: '165 psl.), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    165 psl.), taip ir Kazimiero laikais tankiau buvo
+    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
+    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
+    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
+    linkes, buvo beveik negyvenamos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pradžios.
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
+    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
+    Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
+    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    - medinės bažnyčios ir bazilijo­
+    nų vienuolyno įkūrimą Vilniuje pri­
+    skiria Vitebsko kunigaikštytei Juli-
+    27
+
+    ## Puslapis 44
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
+    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
+    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
+    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
+    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
+    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
+    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
+    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
+    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
+    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Jis paveldėjo Trakus ir Gardiną su Palenke (Liet.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dar sunkesni uždaviniai atiteko Kęstučiui vakarinėje valstybės
+    dalyje. Jis paveldėjo Trakus ir Gardiną su Palenke (Liet. Brasta).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Tad Vytautas tegalėjo gauti Gardiną su Palenkė.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kryžiuočių stovykloje veikiąs Vytautas, kurį palaikė dalis
+    Lietuvos, Jogailai buvo gana pavojingas. Kęstutaitis iš pusbrolio
+    reikalavo tėviškės, bet Trakai jau buvo atiduoti Skirgailai. Tad
+    Vytautas tegalėjo gauti Gardiną su Palenkė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Vakarinė valstybės dalis, būtent, Trakų kunigaikštija, Gar­ dino ir Palenkės sritys buvo Kęstučio dalis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kiekvienas valdančiosios giminės kunigaikštis turėjo savo
+    dalį. Vakarinė valstybės dalis, būtent, Trakų kunigaikštija, Gar­
+    dino ir Palenkės sritys buvo Kęstučio dalis. Jon tačiau betarpiškai
+    nepriklausė Žemaičiai, kurie, kaip ir kai kurios kitos sritys, įgijo
+    savo žemės privilegijas ir klausė didžiojo kunigaikščio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020

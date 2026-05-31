@@ -82,3 +82,4 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
 - [[objektai/zodynas/dykra]]
 - [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]
 - [[objektai/zodynas/Klaipėdiškiai]]
+- [[objektai/grupes/Prūsijos valstybė]]

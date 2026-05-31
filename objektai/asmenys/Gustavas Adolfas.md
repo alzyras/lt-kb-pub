@@ -7,6 +7,16 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1618 m.'
+  - '1648 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+date_start: '1618'
+date_end: '1648'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -39,6 +49,10 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-004
+  teiginys: 'Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo vadovaujama švedų kariuomenė ėmė skinti pergales prieš katalikų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618- 1648 m.), Vokietijoje.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,3 +95,23 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo vadovaujama švedų kariuomenė ėmė skinti pergales prieš katalikų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618- 1648 m.), Vokietijoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo
+    vadovaujama švedų kariuomenė ėmė skinti pergales prieš kata-
+    likų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618-
+    1648 m.), Vokietijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jaunutis]]
+- [[objektai/grupes/Švedai]]

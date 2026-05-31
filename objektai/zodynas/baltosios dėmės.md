@@ -49,3 +49,7 @@ Valdžios nedraudžiamų klubų veikla kultūros, gamtos apsaugos, ekologijos ir
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/asmenys/Rimgaudas Songaila]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/asmenys/Petras Griškevičius]]
+- [[objektai/zodynas/pertvarka perestroika]]

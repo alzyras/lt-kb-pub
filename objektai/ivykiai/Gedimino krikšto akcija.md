@@ -64,4 +64,6 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
+- [[objektai/ivykiai/Pranciškonų nužudymas Vilniuje Gedimino valdymo pabaigoje]]
 - [[objektai/zodynas/Arkivyskupija]]

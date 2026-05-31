@@ -50,7 +50,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Elžbieta]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

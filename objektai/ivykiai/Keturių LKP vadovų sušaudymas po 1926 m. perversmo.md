@@ -54,3 +54,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/grupes/Lietuvos komunistų partija]]

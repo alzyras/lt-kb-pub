@@ -9,6 +9,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1246 m.'
+  - '1260 m.'
   - '1263 m.'
   - '1274 m.'
   - '1277 m.'
@@ -135,6 +136,10 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-019
+  teiginys: 'Ordino pajėgos 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat.'
+  pagrindžia:
+    - c-024
 
 ## Reikšmingi paminėjimai
 
@@ -593,26 +598,103 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-024
+  santrauka: 'Ordino pajėgos 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Glapas]]
+- [[objektai/asmenys/Helvigas iš Goldbacho]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas Botelis]]
+- [[objektai/asmenys/Henrikas iš Svarcburgo]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/daiktai/Kalavijai]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mantas]]
+- [[objektai/asmenys/Maudelis]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
 - [[objektai/asmenys/Auktumas]]
 - [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - [[objektai/asmenys/Divanas]]
 - [[objektai/asmenys/Gerhardas iš Reino]]
 - [[objektai/asmenys/Glanda]]
-- [[objektai/asmenys/Glapas]]
+- [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]
 - [[objektai/asmenys/Helmerichas]]
-- [[objektai/asmenys/Henrikas iš Svarcburgo]]
 - [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas]]
 - [[objektai/paprociai/Herkaus Manto vokiški taikos pažadai besislapstantiems išvilioti]]
 - [[objektai/posakiai/Jei kas čia slapstosi, tegu išeina be baimės, nes netikėlių kariuomenė jau atsitraukė]]
 - [[objektai/ivykiai/Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)]]
+- [[objektai/grupes/Pamedėnai]]
 - [[objektai/asmenys/Pobravas]]
 - [[objektai/ivykiai/Pobravo žygis į Balgos lauką ir jo žūtis]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
 - [[objektai/asmenys/Steinavas]]
+- [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]
 - [[objektai/posakiai/atsiteisė blogu už gera ir neapykanta už meilę]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/zodynas/fogtas]]
+- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
+- [[objektai/ivykiai/Bisenės papilių sudeginimas (1313 m.)]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/asmenys/Henrikas iš Plockės]]
+- [[objektai/asmenys/Henrikas iš Šenenbergo]]
+- [[objektai/asmenys/Hirtshalsas]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
+- [[objektai/ivykiai/Kroicburgo pilies sugriovimas (1263 m.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]
+- [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
+- [[objektai/ivykiai/Pirmasis Medininkų valsčiaus apiplėšimas (1314 m. sausio pradžia)]]
+- [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.)]]
+- [[objektai/asmenys/Tirskas]]
+- [[objektai/zodynas/bažnyčios visuotinybė]]
+- [[objektai/zodynas/papilys]]
+- [[objektai/asmenys/Štenkelis iš Bentheimo]]
+- [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]

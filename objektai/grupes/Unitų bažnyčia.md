@@ -45,4 +45,6 @@ tags:
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Unitai]]
+- [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
+- [[objektai/grupes/Rusų stačiatikių bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]

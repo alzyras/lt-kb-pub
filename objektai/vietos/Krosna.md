@@ -9,13 +9,14 @@ saltiniai:
 datos:
   - '1945 m.'
   - '1946 m.'
+  - '1951 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
   - 'XX'
 date_start: '1945'
-date_end: '1946'
+date_end: '1951'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -35,7 +36,10 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Taip pat naudotas ir Lietuvos partizanų 223 ## Puslapis 226 1945-1951 m. Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje, tęsiasi 3-4 km pločio ir apie 8 km ilgio kalvotas, mišrus Kalniškės miškas.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje driekėsi kalvotas mišrus Kalniškės miškas.'
@@ -65,3 +69,31 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Taip pat naudotas ir Lietuvos partizanų 223 ## Puslapis 226 1945-1951 m. Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje, tęsiasi 3-4 km pločio ir apie 8 km ilgio kalvotas, mišrus Kalniškės miškas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Taip pat naudotas ir
+    Lietuvos partizanų
+
+    223
+
+    ## Puslapis 226
+
+    1945-1951 m.
+
+    Prieš mūšį
+
+    Apie kilometrą už Krosnos, Lazdijų link,
+    kairėje plento pusėje, tęsiasi 3-4 km pločio
+    ir apie 8 km ilgio kalvotas, mišrus Kalniškės
+    miškas. 5-6 km už Krosnos ir apie 1,5 km
+    nuo plento šiame miške 1945 metais įvyko
+    Kalniškės mūšis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

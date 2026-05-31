@@ -10,12 +10,16 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1648 m.'
+  - '1651 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+date_start: '1648'
+date_end: '1651'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -60,6 +64,18 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   teiginys: 'Kojelavičius klaidingai teigė, kad Švitrigaila pabėgo į Smolenską, o ne į Polocką.'
   pagrindžia:
     - c-007
+- t-011
+  teiginys: 'Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ apie Lojevo mūšį.'
+  pagrindžia:
+    - c-008
+- t-012
+  teiginys: 'A. Vijūkas Kojelavičius buvo nuveikta 3 Stryjkowski, Ks.'
+  pagrindžia:
+    - c-009
+- t-013
+  teiginys: 'f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 Samogitia agri.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -192,7 +208,67 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-008
+  santrauka: 'Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ apie Lojevo mūšį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Svetimšalių autoramento „vokiškojo“ tipo pėstinin-
+    kas-ietininkas (pikinierius). Svetimšalių autoramento
+    pėstininkai būdavo ginkluoti ietimis arba muškietomis =
+
+    LOJEVO MUSIS
+
+    Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
+    prieš Zaporožės kazokus“ apie Lojevo mūšį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-009
+  santrauka: 'A. Vijūkas Kojelavičius buvo nuveikta 3 Stryjkowski, Ks.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Buvo nuveikta
+    3
+    Stryjkowski, Ks. XVI, Roz. I, k.
+    538, ed. warsz. K o j a ł o w i c z, Pars
+    II, lib. 3, p. 141.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-010
+  santrauka: 'f Kojelavičius Pagraudenę vadina apylinkę Žemaitijoje: pograudienb C S 7/7 Samogitia agri.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    f
+    Kojelavičius Pagraudenę vadi-
+    na apylinkę Žemaitijoje: pograudien-
+    b C S 7/7 Samogitia agri. Hist. Lithu. p. 436.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/pikinierius pikinieriai]]
+- [[objektai/grupes/Kazokai]]
+- [[objektai/autoriai/Kotzebue]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/autoriai/Puslapis 206]]

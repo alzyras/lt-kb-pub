@@ -7,6 +7,16 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1772 m.'
+  - '1793 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1772'
+date_end: '1793'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -40,6 +50,14 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-004
+  teiginys: 'Tuomet, kaip ir 1772 m., iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,8 +99,51 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tuomet, kaip ir 1772 m., iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuomet, kaip ir 1772 m., iš
+    karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą;
+    su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
+    Tam tikslui Gardine buvo sušauktas seimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai padaryti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl
+    Rusija norėjo sugrąžinti tokią tvarką, kokia buvo po I padali-
+    nimo. Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
+    padaryti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Karo ir iždo komisijos]]
+- [[objektai/grupes/Nuolatinė Taryba]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
+- [[objektai/asmenys/Tadas Kosciuška]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
+- [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
+- [[objektai/zodynas/miesto magistrato pareigybės]]
+- [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.)]]

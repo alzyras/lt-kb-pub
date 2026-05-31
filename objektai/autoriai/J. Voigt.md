@@ -92,3 +92,8 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Vokiečiai]]

@@ -42,7 +42,10 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Geležinio vilko legenda, be abejo, primena Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę iš romėnų.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vilniaus įkūrimo legendoje Gediminas po medžioklės Šventaragio slėnyje susapnavo geležinį vilką, o sapną išaiškino Lizdeika.'
@@ -85,9 +88,28 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Geležinio vilko legenda, be abejo, primena Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę iš romėnų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Geležinio vilko legenda, be abejo, primena
+    Romos vilkę, kai jau lietuviai buvo įsisąmoninę apie savo kilmę
+    iš romėnų. Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
+    į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
+    «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
+    vilko » sapno yra nebeįsivaizduojama.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Lizdeika]]
+- [[objektai/asmenys/Šventaragis]]
+- [[objektai/grupes/Romėnai]]

@@ -181,10 +181,22 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Kristupas Radvila]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Švedijos kariuomenė]]
+- [[objektai/autoriai/Arvydas Pociūnas]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
+- [[objektai/autoriai/Gintautas Sliesoriūnas]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]
+- [[objektai/autoriai/Vytautas Lesčius]]
 - [[objektai/zodynas/hetmonas]]
+- [[objektai/asmenys/Jonas Sicinskis]]

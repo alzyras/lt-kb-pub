@@ -57,4 +57,5 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 ### Susiję objektai
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Unitai]]

@@ -56,3 +56,4 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/daiktai/Vėliavos]]

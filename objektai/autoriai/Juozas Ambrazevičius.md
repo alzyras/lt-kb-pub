@@ -57,5 +57,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„laiko savo veikimą sustabdytu prieš savo valią“]]
 - [[objektai/grupes/Laikinoji vyriausybė]]
 - [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]

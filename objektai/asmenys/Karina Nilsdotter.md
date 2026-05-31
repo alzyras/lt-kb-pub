@@ -68,3 +68,4 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Karolis IX]]

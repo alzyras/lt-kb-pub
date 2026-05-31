@@ -9,7 +9,7 @@ variantai:
   - 'alkos romuvos'
 aliases: []
 saltiniai:
-  - '[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: ""
 datos: []
@@ -110,3 +110,6 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.)]]
+- [[objektai/paprociai/Romuvų šventos girios ir Perkūno garbinimas]]
+- [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]
+- [[objektai/zodynas/alkos romuvos]]

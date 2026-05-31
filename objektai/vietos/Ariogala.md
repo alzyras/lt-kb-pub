@@ -81,6 +81,18 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   teiginys: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė ir Ariogalos apylinkes.'
   pagrindžia:
     - c-009
+- t-014
+  teiginys: 'Baigusi kruvinus darbus, ginkluota palyda kitą die­ ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
+  pagrindžia:
+    - c-010
+- t-015
+  teiginys: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  pagrindžia:
+    - c-011
+- t-016
+  teiginys: 'Jis vaizdingai eilėmis aprašė, kaip ištisą savaitę buvo švaistomasi Ariogalos — Dubysos rajone, kokie vynai buvo geriami, kaip nuotykių ieškotojai, nudeginę lietuvių sodybas, dešimtimis buvo keliami į riterius, o jų tarpe ir pats Albrechtas^25.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -233,3 +245,56 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-010
+  santrauka: 'Baigusi kruvinus darbus, ginkluota palyda kitą die­ ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vaikių krašte buvo šventoji giria, ku­
+    ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
+    tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai
+    išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­
+    ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
+    Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
+    vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
+    vių Krivaičio pagrindinė buveinė).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-011
+  santrauka: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Už pagalbą bėdoje ir karališkos karūnos išrūpinimą Mindaugas
+    turėjo ordinui atsilyginti. Karūnavimo metais jis užrašė Žemaičiuose
+    po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos. Kita
+    tų žemių pusė buvo užrašyta vyskupui Kristijonui (1254.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-012
+  santrauka: 'Jis vaizdingai eilėmis aprašė, kaip ištisą savaitę buvo švaistomasi Ariogalos — Dubysos rajone, kokie vynai buvo geriami, kaip nuotykių ieškotojai, nudeginę lietuvių sodybas, dešimtimis buvo keliami į riterius, o jų tarpe ir pats Albrechtas^25.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Drauge atvykęs poetas Petras Suchenwirt davė
+    to iškilmingo žygio, kuriam vadovavo pats magistras, daug įdomių
+    smulkmenų. Jis vaizdingai eilėmis aprašė, kaip ištisą savaitę buvo
+    švaistomasi Ariogalos — Dubysos rajone, kokie vynai buvo geriami,
+    kaip nuotykių ieškotojai, nudeginę lietuvių sodybas, dešimtimis
+    buvo keliami į riterius, o jų tarpe ir pats Albrechtas^25.
+    Ordino maršalo vadovaujama kariuomenė, pasidalinusi į tris
+    grupes, (1377.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016

@@ -10,6 +10,11 @@ aliases:
   - Kijevo Rusia
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+bukle: juodrastis
+laikotarpis: "XII-XIV a. kontekstas"
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos:
   - '1183 m.'
   - '1323 m.'
@@ -24,11 +29,6 @@ amziai:
   - 'XIV'
 date_start: '1183'
 date_end: '1387'
-bukle: juodrastis
-laikotarpis: "XII-XIV a. kontekstas"
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-18'
 tags: []
@@ -93,6 +93,26 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   teiginys: 'Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.'
   pagrindžia:
     - c-009
+- t-014
+  teiginys: 'Vis dėlto tai liko istorinis epizodas, nors pagoniška valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia didžiules stačiatikiškų žemių (buvusios Kijevo Rusios) erdves.'
+  pagrindžia:
+    - c-010
+- t-015
+  teiginys: 'Sagos, kitaip sakant, senovinės tos tautos legendos, eilėmis ir proza 15 ## Puslapis 32 VILNIAUS MIESTO ISTORIJA I TOMAS Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių ir, atrėmusi azijiečius.'
+  pagrindžia:
+    - c-011
+- t-016
+  teiginys: 'Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, Marija - už Boleslovo - Ru­ sios kunigaikščio; o ketvirtoji, bevaikė, - už Rusios didžiojo kuni­ gaikščio Dmitrijaus Michailovičiaus, 1326 metų spalio 15 dieną totorių chano Uzbeko.'
+  pagrindžia:
+    - c-012
+- t-017
+  teiginys: 'Iš Rusios, Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę 23 Mažesnieji broliai (pranciškonų atšaka).'
+  pagrindžia:
+    - c-013
+- t-018
+  teiginys: 'Tie politiniai pokyčiai Vilniu­ je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­ dymą, kaip ir patį miestą, perleido į Algirdo rankas.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -244,3 +264,145 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-010
+  santrauka: 'Vis dėlto tai liko istorinis epizodas, nors pagoniška valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia didžiules stačiatikiškų žemių (buvusios Kijevo Rusios) erdves.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    – karūnuotis
+    karaliumi. Vis dėlto tai liko istorinis epi-
+    zodas, nors pagoniška valstybė pamažu
+    tapo regionine didvalstybe arba imperija,
+    užvaldžiusia didžiules stačiatikiškų žemių
+    (buvusios Kijevo Rusios) erdves. 1387 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-011
+  santrauka: 'Sagos, kitaip sakant, senovinės tos tautos legendos, eilėmis ir proza 15 ## Puslapis 32 VILNIAUS MIESTO ISTORIJA I TOMAS Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių ir, atrėmusi azijiečius.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Būtent toje epochoje narsių piratų
+    valdomi prasti, bet mitrūs ir lengvi
+    laivai pasklido iš Skandinavijos pu­
+    siasalio po visą Baltijos pakrantę.
+    Sagos, kitaip sakant, senovinės tos
+    tautos legendos, eilėmis ir proza
+    15
+
+    ## Puslapis 32
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
+    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
+    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
+    bei Lenkiją. Tuo metu poreikis turėti savą gynybą ir per ne­
+    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
+    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
+    Lietuvos žemėje medinėms pilims ir tvirtovėms.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-012
+  santrauka: 'Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, Marija - už Boleslovo - Ru­ sios kunigaikščio; o ketvirtoji, bevaikė, - už Rusios didžiojo kuni­ gaikščio Dmitrijaus Michailovičiaus, 1326 metų spalio 15 dieną totorių chano Uzbeko.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Gediminas, užsitikrinęs sau-
+    dybomis, buvo labai tvirti ir svarbūs.
+    Iš jų Aldona, arba Aldoina, per
+    krikštą pavadinta Ona, buvo ištekin­
+    ta už Lenkijos karaliaus Kazimiero
+    Didžiojo. Danmilė, pakrikštyta Elž­
+    bieta, už Vaclovo - Mazovijos kuni­
+    gaikščio, Marija - už Boleslovo - Ru­
+    sios kunigaikščio; o ketvirtoji,
+    bevaikė, - už Rusios didžiojo kuni­
+    gaikščio Dmitrijaus Michailovičiaus,
+    1326 metų spalio 15 dieną totorių
+    chano Uzbeko įsakymu nužudyto.
+    (Žr. K a r a m z y n T. IV, 251 edyc.
+    fran.). Strijkovskis, 1. 406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+    Il
+    Gedimino laiškuose, rašytuose do­
+    minikonų ir Mažesniųjų brolių, ar­
+    ba pranciškonų, ordinams bei Han­
+    zos miestams, kurių autentiškas
+    1323 metais notaro parengtas doku­
+    mentas yra Karaliaučiaus Slaptaja-
+    -  •  -
+    20
+
+    ## Puslapis 37
+
+    I  KNYGA
+    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
+    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
+    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
+    me archyve ir kuriuos Kotzebue
+    išspausdino savo Prūsijos istorijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-013
+  santrauka: 'Iš Rusios, Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę 23 Mažesnieji broliai (pranciškonų atšaka).'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­
+    nėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli­
+    kusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be
+    Rygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko­
+    vas bei Naugardas ne mažesnę globą patyrė. Iš Rusios,
+    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
+    23
+    Mažesnieji broliai (pranciškonų
+    atšaka).
+
+    ## Puslapis 40
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
+    minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-014
+  santrauka: 'Tie politiniai pokyčiai Vilniu­ je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­ dymą, kaip ir patį miestą, perleido į Algirdo rankas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­
+    rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu
+    nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
+    Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
+    galingiausiu valdovu Šiaurės Europoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018

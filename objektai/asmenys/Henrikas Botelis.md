@@ -39,6 +39,10 @@ Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Botel
   teiginys: 'Dusburgietis teigia, kad henriko Botelio.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Boteliu307, maršalą, bei tris kitus brolius, kurių reikalavo prūsai, kad kiti, paimti į nelaisvę, išliktų gyvi.'
@@ -91,13 +95,38 @@ Dusburgietis teigia, kad jie davė įkaitus — brolį Henriką, vadinamą Botel
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhauzenas, Prūsijos maršalas Henrikas Botelis, su jais 150 Ordino brolių, kai kurie kryžininkai, o paprastų karių „dievo žmonių tokia daugybė, kad nesu nė girdėjęs jų skaičiaus“, pažymi.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ordino pajėgos buvo iškirstos „gintis ne-
+    suspėję“, dėl, matyt, naujos staigios atakos.
+
+    Taip „lauke prie Durbės upės“ žuvo
+    Livonijos magistras Burchardas Horn-
+    hauzenas, Prūsijos maršalas Henrikas Bo-
+    telis, su jais 150 Ordino brolių, kai kurie
+    kryžininkai, o paprastų karių „dievo žmo-
+    nių tokia daugybė, kad nesu nė girdėjęs
+    jų skaičiaus“, pažymi kronikininkas.
+    „Kai mūšis pasibaigė, kas krikščio-
+    nių gyvas liko, brolių ir ginklanešių,
+    piligrimų ir sembų, nebegalėdami
+    kovoti, iš baimės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Estai]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/įkaitai]]
-- [[objektai/asmenys/Burchardas iš Hornhauzeno]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Varmiai]]

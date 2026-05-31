@@ -67,3 +67,4 @@ Voldemarui klausimą „Karas ar taika?“ A.
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Petras Klimas]]
 - [[objektai/asmenys/Pilsudskis]]
+- [[objektai/asmenys/Dovas Zaunius]]

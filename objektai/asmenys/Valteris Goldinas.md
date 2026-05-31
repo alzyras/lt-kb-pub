@@ -55,5 +55,6 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vyskupystė]]

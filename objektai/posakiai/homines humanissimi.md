@@ -59,6 +59,7 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Adalbertas]]
+- [[objektai/asmenys/Adomas (auksakalys)]]
 - [[objektai/autoriai/Adomas Bremenietis]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Sembai]]

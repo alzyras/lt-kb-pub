@@ -139,6 +139,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 ### Susiję objektai
 - [[objektai/asmenys/Albrechtas]]
 - [[objektai/asmenys/Albrechtas iš Hageno]]
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas Kvicas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Hartmanas]]

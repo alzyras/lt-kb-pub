@@ -12,11 +12,14 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1358 m.'
-patikimumas: 'vidutinis'
-amziai:
-  - 'XIV'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1358'
+date_end: ''
+patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
   - asmuo
@@ -63,6 +66,10 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   teiginys: 'Romos imperatoriumi Karoliu IV išdidžiai reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais ir sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos ir Priegliaus bei Dauguvos.'
   pagrindžia:
     - c-005
+- t-007
+  teiginys: 'Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -156,9 +163,29 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-006
+  santrauka: 'Dusburgietis teigia, kad 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo
+    grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros39, t. y.
+    Sembą, Nadruvą, Bartą ir kt., Baltijos pajūrį tarp Priegliaus ir Dauguvos.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Mongolai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
 - [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
 - [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]
+- [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]

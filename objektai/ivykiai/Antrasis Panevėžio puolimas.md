@@ -187,6 +187,7 @@ Nenurodyta
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/daiktai/Lėktuvai]]
 - [[objektai/asmenys/M. Katche]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Adynos|adynos]]

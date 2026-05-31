@@ -63,4 +63,5 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
 - [[objektai/grupes/Pamarėnai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Živinbudas]]

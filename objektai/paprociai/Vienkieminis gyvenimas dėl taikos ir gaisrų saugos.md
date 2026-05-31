@@ -91,5 +91,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/vienkiemiai]]
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Žemaičiai]]

@@ -1,0 +1,117 @@
+---
+tipas: vieta
+pavadinimas: 'Paleckio stiklo liejykla prie Vilijos'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1547 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1547'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - karalius
+  - miestas
+  - sutartis
+  - upė
+---
+# Paleckio stiklo liejykla prie Vilijos
+
+## Santrauka
+
+Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr. Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilijos upės, tarp karaliaus šunidės ir Vilniaus vaiva­ dos ir karaliaus kanclerio Hlebavičiaus plytinės", perduotas Paleckio žiniai, karaliaus valia, per Vilniaus gorodničių Povilą. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­ raliaus paskirtų senatorių pastangomis, išlaisvino miestą nuo ateityje labai nemalonaus monopolio, kuris būtų smar­ kiai pakėlęs stiklo kainą miesto gyventojams55.
+
+## Teiginiai
+- t-001
+  teiginys: 'Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilijos upės, tarp karaliaus šunidės ir Vilniaus vaiva­ dos ir karaliaus kanclerio Hlebavičiaus plytinės", perduotas Paleckio žiniai, karaliaus valia, per Vilniaus gorodničių Povilą.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­ raliaus paskirtų senatorių pastangomis, išlaisvino miestą nuo ateityje labai nemalonaus monopolio, kuris būtų smar­ kiai pakėlęs stiklo kainą miesto gyventojams55.'
+  pagrindžia:
+    - c-003
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­ šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­ tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig- 32 33 Žr.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
+    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
+    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
+    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
+    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
+    32 33
+    Žr. III priedą. Žr. VIII šios knygos priedą.
+    V I  L  N 7  I  A U S MIESTO ISTORIJA II TOM A S
+    274
+
+    ## Puslapis 291
+
+    IV KNYGA
+    ti stiklo liejyklą, o kartu privilegiją, leidžiančią Vilniuje par­
+    davinėti lenkišką stiklą34.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Sklypas, skir­ tas fabrikui statyti, buvo „prie Vil­ niaus miesto, už Vilijos upės, tarp karaliaus šunidės ir Vilniaus vaiva­ dos ir karaliaus kanclerio Hlebavičiaus plytinės", perduotas Paleckio žiniai, karaliaus valia, per Vilniaus gorodničių Povilą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Duota 1547 metų gegu­
+    žės 22 dieną, 5 indikte. Sklypas, skir­
+    tas fabrikui statyti, buvo „prie Vil­
+    niaus miesto, už Vilijos upės, tarp
+    karaliaus šunidės ir Vilniaus vaiva­
+    dos ir karaliaus kanclerio Hlebavi-
+    čiaus plytinės", perduotas Paleckio
+    žiniai, karaliaus valia, per Vilniaus
+    gorodničių Povilą Giedraitį. Atrodo,
+    kad anoji liejykla buvusi toje vieto­
+    je, kur dabar stovi Medicinos Chi­
+    rurgijos Akademijos adjunkto pono
+    Juzefo Mianovskio užmiesčio na­
+    mas, pramintas Belvederiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­ raliaus paskirtų senatorių pastangomis, išlaisvino miestą nuo ateityje labai nemalonaus monopolio, kuris būtų smar­ kiai pakėlęs stiklo kainą miesto gyventojams55.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Karališkųjų
+    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
+    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
+    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
+    dė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­
+    raliaus paskirtų senatorių pastangomis, išlaisvino miestą
+    nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
+    kiai pakėlęs stiklo kainą miesto gyventojams55. Paleckiui ir
+    54
+    Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

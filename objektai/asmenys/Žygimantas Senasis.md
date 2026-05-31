@@ -6,12 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1514 m.'
+  - '1544 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1514'
+date_end: '1544'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -119,6 +123,58 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   teiginys: '1543 m. Žygimantas Senasis leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes.'
   pagrindžia:
     - c-025
+- t-026
+  teiginys: 'Tačiau netrukus į Vilnių at­ vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai grėsusio pilietinio karo.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Taigi mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­ nigaikštis.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: 'Bet Lietuvos valdymą perėmė karalius — • — 257 ## Puslapis 274 258 ## Puslapis 275 IV KNYGA Žygimantas Senasis, apdovanotas proto ir charakterio pri­ valumais ir tvirtai siekiantis įvesti tvarką.'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: 'Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką.'
+  pagrindžia:
+    - c-029
+- t-030
+  teiginys: 'Miesto sargyba ir policija, laikinai pri­ klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­ tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta magistratui - karaliaus Žygimanto 1522 metų įsakymu.'
+  pagrindžia:
+    - c-030
+- t-031
+  teiginys: 'Tei­ singasis Žygimantas, nedarydamas savo pavaldiniams jo­ kių išimčių, rūsčiai baudė miesto valdininkus, jeigu šie peržengdavo jiems suteiktos valdžios ribas3, taip pat kuo atkakliausiai tramdė bajorus, kad nebandytų pik­ tnaudžiauti mieste.'
+  pagrindžia:
+    - c-031
+- t-032
+  teiginys: '40), matyti, 266 ## Puslapis 283 IV KNYGA Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­ gai ir sumaniai valdant kraštą.'
+  pagrindžia:
+    - c-032
+- t-033
+  teiginys: 'Kai po trejų metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­ liai kerotis, išgąsdintas vyskupas kreipėsi į Žygimantą Se­ nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­ tu paremtų gynybai besirengiančią dvasininkiją.'
+  pagrindžia:
+    - c-033
+- t-034
+  teiginys: 'm. ## Puslapis 318 VILNIAUS MIESTO ISTORIJA I I TOMAS II RAŠTAS VILNIAUS VAITUI, ĮSPĖJANTIS JI, KAD VILNIAUS MIESTIEČIAMS NETAIKYTŲ JOKIOS PRIEVARTOS (Iš Lietuvos Metrikos) 1532 m. Žygimantas, Dievo malone karalius.'
+  pagrindžia:
+    - c-034
+- t-035
+  teiginys: '## Puslapis 332 VILNIAUS MIESTO ISTORIJA// TOMAS V KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI 1542 METAIS (Iš Vilniaus kapitulos rankraščių) Sigismundus Dei gratia Rex Poloniae Magnus Dux Lituaniae, Russiae, Prussiae.'
+  pagrindžia:
+    - c-035
+- t-036
+  teiginys: '## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.'
+  pagrindžia:
+    - c-036
+- t-037
+  teiginys: 'Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU 1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES 1533.'
+  pagrindžia:
+    - c-037
+- t-038
+  teiginys: 'Tame pačiame seime Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­ raliumi po tėvo mirties.'
+  pagrindžia:
+    - c-038
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -683,8 +739,365 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-025
+- c-026
+  santrauka: 'Tačiau netrukus į Vilnių at­ vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai grėsusio pilietinio karo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pastarosios pergalės iš­
+    garsintas, jiems nesant, kad kokios būtų užgrobęs Didžio­
+    sios Kunigaikštystės valdžią48. Tačiau netrukus į Vilnių at­
+    vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
+    karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai
+    grėsusio pilietinio karo.
+    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
+    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
+    jos sostinei tam tikru atžvilgiu buvo naudingas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Taigi mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­ nigaikštis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taigi
+    mes, Žygimantas, DIEVO malone Lenkijos karalius, didysis
+    Lietuvos, Rusios, Prūsijos, Mazovijos, Žemaitijos ir 1.1, ku­
+    nigaikštis. Ponas ir tėvonis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Bet Lietuvos valdymą perėmė karalius — • — 257 ## Puslapis 274 258 ## Puslapis 275 IV KNYGA Žygimantas Senasis, apdovanotas proto ir charakterio pri­ valumais ir tvirtai siekiantis įvesti tvarką.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Žodžiu, Vilnius, nors tuomet jau gausiai gyvenamas, dide­
+    lis ir turtingas miestas, dar nebuvo galutinai atsikratęs bar­
+    bariškumo apnašų. Bet Lietuvos valdymą perėmė karalius
+    —  • —
+    257
+
+    ## Puslapis 274
+
+    258
+
+    ## Puslapis 275
+
+    IV KNYGA
+    Žygimantas Senasis, apdovanotas proto ir charakterio pri­
+    valumais ir tvirtai siekiantis įvesti tvarką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: 'Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šio išmintingo karaliaus nuopel­
+    nas - vietinio Lietuvos ūkio pradmenys bei tvarka jos sosti­
+    nėje.
+    Netvarka ir apsileidimas, įsitvirtinę miesto administra­
+    cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat
+    kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų
+    privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. 1536
+    metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
+    tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-030
+  santrauka: 'Miesto sargyba ir policija, laikinai pri­ klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­ tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta magistratui - karaliaus Žygimanto 1522 metų įsakymu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Atrodo, kad kiekvienas jų miestui ginti privalėjo tu­
+    rėti šarvus, muškietą ir ragotinę, o miesto taryba - stebėti,
+    kad bendromis lėšomis išlaikomos patrankos ir arkebuzos bū­
+    tų gerai prižiūrimos. Miesto sargyba ir policija, laikinai pri­
+    klausiusi pilies tarnybai, dar pagal Vladislovo Jogailos po­
+    tvarkį, po to, kai miestą apjuosė mūrine siena, buvo sugrąžinta
+    magistratui - karaliaus Žygimanto 1522 metų įsakymu. Ma­
+    gistratas, Krokuvos miesto pavyzdžiu, turėjo išlaikyti 24 įpras­
+    tinės ginkluotės sargybinius, kad tvarkos mieste būtų žiūri­
+    ma dieną ir naktį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-031
+  santrauka: 'Tei­ singasis Žygimantas, nedarydamas savo pavaldiniams jo­ kių išimčių, rūsčiai baudė miesto valdininkus, jeigu šie peržengdavo jiems suteiktos valdžios ribas3, taip pat kuo atkakliausiai tramdė bajorus, kad nebandytų pik­ tnaudžiauti mieste.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Buvo laikomasi deramų abipusių tarpu­
+    savio santykių tarp miesto tarnautojų ir miestiečių. Tei­
+    singasis Žygimantas, nedarydamas savo pavaldiniams jo­
+    kių išimčių, rūsčiai baudė miesto valdininkus, jeigu šie
+    peržengdavo jiems suteiktos valdžios ribas3, taip pat kuo
+    atkakliausiai tramdė bajorus, kad nebandytų pik­
+    tnaudžiauti mieste. Kad Vilniaus gyventojai būtų saugesni
+    ir jų daugėtų, jis griežtai uždraudė bajorams iškelti iš
+    miesto tuos pavaldinius, kurie buvo ten ramiai pragyve­
+    nę šešerius metus4.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-032
+  santrauka: '40), matyti, 266 ## Puslapis 283 IV KNYGA Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­ gai ir sumaniai valdant kraštą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Grzybowski, 1. 40), matyti,
+    266
+
+    ## Puslapis 283
+
+    IV KNYGA
+    Visi reikšmingiausi statiniai, skirti Vilniaus miesto gerovei
+    ir ištekliams pagausinti, atsirado Žygimantui Senajam sėkmin­
+    gai ir sumaniai valdant kraštą. Malūnas, iki mūsų laikų vadin­
+    tas Karališkuoju, irgi buvo pastatytas anuomet, nes karalius
+    1515 metais leido Ulrikui Hošui (Hozijui), Vilniaus pilininkui
+    ir LDK monetų kalyklos valdytojui, statytis savo paties lėšo­
+    mis, leisdamas imti trečią grūdą iki gyvos galvos15.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+- c-033
+  santrauka: 'Kai po trejų metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­ liai kerotis, išgąsdintas vyskupas kreipėsi į Žygimantą Se­ nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­ tu paremtų gynybai besirengiančią dvasininkiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dar 1539
+    metais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­
+    niaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­
+    gijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­
+    tijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo
+    naujas Martyno Liuterio religijos opinijas42 ir savo įsteigtoje
+    mokykloje išlavino net šešiasdešimt mokinių. Kai po trejų
+    metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­
+    liai kerotis, išgąsdintas vyskupas kreipėsi į Žygimantą Se­
+    nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­
+    tu paremtų gynybai besirengiančią dvasininkiją. Visuomet
+    apsvarstantis savo veiksmus monarchas negalėjo likti ne­
+    dėmesingas karštligiškiems ir iš visų pusių atkakliai sklin­
+    dantiems dvariškių luomo prašymams: tad buvo paskelb­
+    tas karaliaus sprendimas, pagal kurį minėtasis Kulvietis
+    privalėjo stoti prieš dvasiškąjį teismą, prisipažinti nusikaltęs
+    ir paklusti kanoninei bausmei, o jeigu to daryti nepanorėtų,
+    būsiąs priverstas stoti prieš civilinio teismo pareigūnus, va­
+    dinamus Dzieckje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-034
+  santrauka: 'm. ## Puslapis 318 VILNIAUS MIESTO ISTORIJA I I TOMAS II RAŠTAS VILNIAUS VAITUI, ĮSPĖJANTIS JI, KAD VILNIAUS MIESTIEČIAMS NETAIKYTŲ JOKIOS PRIEVARTOS (Iš Lietuvos Metrikos) 1532 m. Žygimantas, Dievo malone karalius.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    m.
+
+    ## Puslapis 318
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    II
+    RAŠTAS VILNIAUS VAITUI, ĮSPĖJANTIS JI,
+    KAD VILNIAUS MIESTIEČIAMS NETAIKYTŲ
+    JOKIOS PRIEVARTOS
+    (Iš Lietuvos Metrikos)
+    1532 m.
+    Žygimantas, Dievo malone karalius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-035
+  santrauka: '## Puslapis 332 VILNIAUS MIESTO ISTORIJA// TOMAS V KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI 1542 METAIS (Iš Vilniaus kapitulos rankraščių) Sigismundus Dei gratia Rex Poloniae Magnus Dux Lituaniae, Russiae, Prussiae.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dauge­
+    liui pilių, siųsdami patrankas, ginklus ir kulkas, pridėdavę
+    ir jų liejimo formas bei daugybę įrangos, reikalingos apka­
+    sams daryti.
+
+    ## Puslapis 332
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    V
+    KARALIAUS ŽYGIMANTO SENOJO PRIVILEGIJA
+    PRIEŠ ERETIKUS, DUOTA VILNIAUS VYSKUPUI
+    1542 METAIS
+    (Iš Vilniaus kapitulos rankraščių)
+    Sigismundus Dei gratia Rex Poloniae Magnus Dux Litua-
+    niae, Russiae, Prussiae, Masoviaeq.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-036
+  santrauka: '## Puslapis 390 VILNIAUS MIESTO ISTORIJA// TOMAS LENKIJOS KARALIUS ŽYGIMANTAS VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI 1514 METAI (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio kodekso buv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ten pat dalyvaujant Vilniaus vyskupui di­
+    džiai gerbiamam Kristuje tėvui ponui Albertui ir didingie­
+    siems, garbingiesiems, prakilniesiems ir kilmingiesiems -
+    Trakų vaivadai Mikalojui Mikolajevičiui, Trakų kaštelionui
+    ir Žemaičių seniūnui Stanislovui Janavičiui, Gniezno baž­
+    nyčios ir mūsų karalystės kancleriui Jonui iš Lasko (Laszko),
+    didžiajam maršalkai Jonui Jurgevičiui iš Zabrežjės, mūsų Di­
+    džiosios Kunigaikštystės lauko etmonui Stanislovui Kiškai,
+    mūsų Lietuvos rūmų maršalkai kunigaikščiui Mykolui Lvo-
+    vičiui Glinskiui, Vilniaus vaivada Jonui Mikolajevičiui, Sta­
+    nislovui Janavičiui iš Zabrežjės, mūsų gydytojui, Gniezno
+    kanauninkui Motiejui iš Blonių, karalystės rūmų iždininkui
+    Stanislovui Milanovskiui, mūsų Didžiosios Kunigaikštystės
+    rūmų pakamariui ir Petrui Narbutavičiui, mūsų dvariškiui
+    Martynui Volskiui ir daugeliui kitų mūsų tarėjų ir rūminin­
+    kų, specialiai pakviestų liudininkų, nuoširdžiai ištikimų ir
+    mums mielų.
+
+    ## Puslapis 390
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    LENKIJOS KARALIUS ŽYGIMANTAS
+    VARMĖS KANAUNINKUI ANDRIUI KOPERNIKUI
+    1514 METAI
+    (Iš Dogelio rankraščių prie Lenkijos karalystės ir LDK diplomatinio
+    kodekso buv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-037
+  santrauka: 'Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI, RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU 1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES 1533.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Valerijonas
+
+    ## Puslapis 394
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŽYGIMANTO SENOJO RAŠTAS VILNIAUS MAGISTRATUI,
+    RAŠYTAS ANT POPIERIAUS SU PRISPAUSTU ANTSPAUDU
+    1538 METŲ BALANDŽIO 6-Ą, DĖL VYSKUPO NESIKIŠIMO
+    J TARNAUJANČIŲJŲ MIESTO JURISDIKCIJOJE TEISES
+    1533 METAIS
+    (Iš Vilniaus kapitulos archyvo rankraščių)
+    Sigismundus DEI gratia Rex Pol oniae Magnus Dux Litu-
+    aniae, Russiae, totiusq. Prussiae ac Masoviae etc. Dominus et
+    Haeres.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-038
+  santrauka: 'Tame pačiame seime Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­ raliumi po tėvo mirties.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tame pačiame seime
+    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
+    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
+    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
+    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
+    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
+    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
+    tėjimo viršūnės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Druska]]
+- [[objektai/asmenys/Elena]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/daiktai/Patrankos]]
+- [[objektai/zodynas/Pilininkas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/daiktai/Vamzdžiai]]
+- [[objektai/posakiai/Viešpaties vardu Amen]]
+- [[objektai/grupes/Vilniaus gyventojai]]
+- [[objektai/zodynas/bursa]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/instigatorius]]
+- [[objektai/zodynas/jurisdikcija]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/palivarkas]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Mahometas Aminas]]
+- [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
+- [[objektai/posakiai/Iki gyvos galvos]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/grupes/Varmės kapitula]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/daiktai/Vilniaus vandentiekio vamzdžiai ir kanalai]]
+- [[objektai/zodynas/miesto sargyba ir policija]]
+- [[objektai/zodynas/trečias grūdas]]

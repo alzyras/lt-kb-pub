@@ -90,7 +90,16 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Grigalius Chodkevičius]]
-- [[objektai/asmenys/Romanas Sanguška]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Grigalius Chodkevičius]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- [[objektai/asmenys/Kunzas Lochneris]]
+- [[objektai/asmenys/Romanas Sanguška]]

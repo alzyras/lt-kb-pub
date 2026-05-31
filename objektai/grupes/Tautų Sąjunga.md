@@ -86,7 +86,18 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   teiginys: 'Lenkai apskundė Lietuvą Tautų Sąjungai, kaltindami ją neutraliteto Rusijos ir Lenkijos kare sulaužymu.'
   pagrindžia:
     - c-014
-
+- t-013
+  teiginys: 'Bet derybos Kalvarijoje (rugsėjo mėn.) nedavė jokių vaisių, ir lenkai toliau veržėsi į mūsų teritoriją; be to, jie apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų karo atžvilgiu.'
+  pagrindžia:
+    - c-015
+- t-014
+  teiginys: 'Memorandumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos delegacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame tarptautiniame forume, kurdama.'
+  pagrindžia:
+    - c-016
+- t-015
+  teiginys: 'Jos visos rodė, jog Tautininkų sąjungos neštoji konsolidacijos mintis lietuvių visuomenėje nebuvo užtenkamai realizuota.'
+  pagrindžia:
+    - c-017
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: Tautų Sąjunga papildomas patvirtintas šaltinio paminėjimas.
@@ -103,7 +114,6 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-001
     - t-001
 - c-004
   santrauka: 'Vos tik rytinio Pabaltijo erdvėje pasikeitė politinių jėgų santykiai, galutinai žlugo Versalio taikos (1919) ir tada pagimdytos Tautų Sąjungos sistema.'
@@ -284,10 +294,74 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-015
+  santrauka: 'Bet derybos Kalvarijoje (rugsėjo mėn.) nedavė jokių vaisių, ir lenkai toliau veržėsi į mūsų teritoriją; be to, jie apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų karo atžvilgiu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet
+    derybos Kalvarijoje (rugsėjo mėn.) nedavė jokių vaisių, ir len-
+    kai toliau veržėsi į mūsų teritoriją; be to, jie apskundė Lie-
+    tuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų
+    ir lenkų karo atžvilgiu.
+    **Suvalkų derybos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-016
+  santrauka: 'Memorandumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos delegacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame tarptautiniame forume, kurdama.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Memoran-
+    dumais, straipsniais, pasisakymais komisijose delegacija kreipė dėmesį
+    į Lietuvos valstybės pripažinimo problemą – pirmą kartą Lietuvos dele-
+    gacija tarėsi ne su kitais lietuviais, o Lietuvos vardu veikė svarbiausiame
+    tarptautiniame forume, kurdama sąlygas nepriklausomybei. Delegacija
+    buvo instruktuota diskusijose dėl sienų remtis etnografiniu principu da-
+    rant būtiniausias ekonomines korektyvas, gauti išėjimą į jūrą per Klaipė-
+    dą arba Liepoją, pabrėžti, kad Lietuvos sostinė yra Vilnius ir pasiekti, kad
+    Lietuva būtų priimta į Tautų Sąjungos bendriją.
+    Delegacija įrodinėjo, kad Lietuva nenori priklausyti nei Lenkijai, nei
+    Rusijai, kad yra istorinė valstybė, ieškojo draugų ir sąjungininkų, tarėsi su
+    estais ir latviais, lenkais, bandė brėžti savo sienas įtraukdama ir Suvalkų
+    trikampį, dirbo informacinį propagandinį darbą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-017
+  santrauka: 'Jos visos rodė, jog Tautininkų sąjungos neštoji konsolidacijos mintis lietuvių visuomenėje nebuvo užtenkamai realizuota.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jos visos rodė, jog Tautininkų sąjungos neštoji konsolidacijos mintis
+    lietuvių visuomenėje nebuvo užtenkamai realizuota.
+    Metai pirmosios komunistų, lygiai kaip ir beveik vėl pilni
+    treji metai antros vokiečių okupacijos, žinoma, buvo tiesioginė
+    išdava II-jo pasaulinio karo. Vos tik rytinio Pabaltijo erdvėje
+    pasikeitė politinių jėgų santykiai, galutinai žlugo Versalio taikos
+    (1919) ir tada pagimdytos Tautų Sąjungos sistema.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/MINTIS]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/neutralitetas]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]
 - [[objektai/grupes/Želigovskininkai]]

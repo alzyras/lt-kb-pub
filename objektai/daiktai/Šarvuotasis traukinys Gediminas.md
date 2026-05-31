@@ -69,6 +69,10 @@ Nenurodyta
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Traukinys savo patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -143,6 +147,21 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Traukinys savo patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Traukinys savo patrankomis ir kul-
+    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus. Rugsėjo 24 d. „Gediminas“
+    grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
+    nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

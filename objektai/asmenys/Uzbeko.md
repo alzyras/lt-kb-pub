@@ -56,13 +56,12 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/ekspansija]]
+- [[objektai/paprociai/Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas]]
+- [[objektai/asmenys/Marija (Gedimino duktė)]]
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]

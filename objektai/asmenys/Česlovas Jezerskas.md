@@ -34,7 +34,10 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'sausio įvykių ir rugpjūčio pučo metu 254 AUKŠČIAUSIOS TARYBOS GYNYBA 1991 m. Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas TELEVIZIJOS LAIDA oa AT Profsąjungų tarybų rūmų (dabar.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1991 m. Česlovas Jezerskas buvo įvardytas Aukščiausiosios Tarybos gynybos štabe.'
@@ -50,7 +53,36 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'sausio įvykių ir rugpjūčio pučo metu 254 AUKŠČIAUSIOS TARYBOS GYNYBA 1991 m. Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas TELEVIZIJOS LAIDA oa AT Profsąjungų tarybų rūmų (dabar.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    sausio įvykių ir rugpjūčio pučo metu
+
+    254  AUKŠČIAUSIOS TARYBOS GYNYBA 1991 m.
+
+    Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas
+
+    TELEVIZIJOS LAIDA
+
+    oa
+
+    AT Profsąjungų tarybų rūmų (dabar - 111 Seimo rūmai) apsaugos grupės vadas, vėliau
+    SKAT štabo operatyvinio-žvalgybos būrio vadas Kazys Domeikis:
+    „E.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas (institucija)]]
+- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Gečas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Virginijus Česnulevičius]]

@@ -35,9 +35,25 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'KolLJ, 92 p. (^15) DlugO, XIII, 19 p. (^16) Kuczyński, Laskowski, Kolankowski ir kt.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
-
+- c-002
+  santrauka: 'KolLJ, 92 p. (^15) DlugO, XIII, 19 p. (^16) Kuczyński, Laskowski, Kolankowski ir kt.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    — KolLJ, 92 p.**
+    (^15) **DlugO, XIII, 19 p.**
+    (^16) **Kuczyński, Laskowski, Kolankowski ir kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Dlugošas laikomas pagrindiniu 1409–1411 m. karo šaltiniu ir buvo labai kritiškas Jogailos bei Vytauto atžvilgiu.'

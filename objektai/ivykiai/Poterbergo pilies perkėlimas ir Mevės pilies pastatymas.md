@@ -94,8 +94,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

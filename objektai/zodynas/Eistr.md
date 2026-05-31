@@ -56,5 +56,6 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
 ### Susiję objektai
 - [[objektai/autoriai/K. Būga]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Normanai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vikingai]]

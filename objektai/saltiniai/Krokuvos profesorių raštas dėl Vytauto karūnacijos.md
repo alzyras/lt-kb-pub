@@ -32,9 +32,30 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Tuo tarpu ir susipažinsim nors trumpai su ta raštų kova, kuri buvo pavartota minėtam klausimui išspręsti.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Tuo tarpu ir susipažinsim nors trumpai su ta raštų kova, kuri buvo pavartota minėtam klausimui išspręsti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo tarpu ir susipažinsim nors trumpai su ta raštų kova,
+    kuri buvo pavartota minėtam klausimui išspręsti.
 
+    Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­
+    leisdami raštą, kuriame jie įrodinėjo, kad Zigmantas, Romos
+    karalius, neturįs teisės niekam suteikt karūnos, nes jis pats nė­
+    ra gavęs iš popiežiaus ciesoriaus titulo. Teisę karūnuot tetu­
+    rįs tiktai pats popiežius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Krokuvos profesoriai rašte teigė, kad Romos karalius Zigmantas neturėjo teisės suteikti karūnos, nes nebuvo gavęs popiežiaus suteikto ciesoriaus titulo.'

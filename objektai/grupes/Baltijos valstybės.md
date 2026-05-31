@@ -57,6 +57,11 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Lietuvos neutralumo įstatymo ratifikavimas (1939 m. sausio 10 d.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/asmenys/A. Hitleris]]
+- [[objektai/asmenys/Edvardas Rydzas-Smiglas]]
 - [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]
+- [[objektai/ivykiai/Lietuvos neutralumo įstatymo ratifikavimas (1939 m. sausio 10 d.)]]
+- [[objektai/asmenys/Stasys Raštikis]]
 - [[objektai/posakiai/geopolitine katastrofa]]

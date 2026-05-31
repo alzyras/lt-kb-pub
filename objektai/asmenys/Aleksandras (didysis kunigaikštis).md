@@ -7,6 +7,15 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1519 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1519'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -70,6 +79,10 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
     - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-009
+  teiginys: 'sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -174,3 +187,40 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Renesansas ir reformacija
+    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
+    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
+    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
+    (Bona Sforza).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/daiktai/Aleksandro pinigai]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Vytauto laikų pinigėliai]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]

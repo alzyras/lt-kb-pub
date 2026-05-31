@@ -131,6 +131,12 @@ tags:
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/Laisvę Lietuvai!]]
+- [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
 - [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]
+- [[objektai/ivykiai/Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)]]
+- [[objektai/daiktai/Tautinės vėliavos]]
+- [[objektai/posakiai/„Laisvę Lietuvai!“]]

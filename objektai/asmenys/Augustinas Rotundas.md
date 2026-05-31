@@ -69,3 +69,5 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/asmenys/Stanislovas Sabina]]

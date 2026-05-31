@@ -55,6 +55,22 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis bylinėjosi su kapitula dėl Filipovo namo, kai nustota mokėti činšą.'
   pagrindžia:
     - c-004
+- t-009
+  teiginys: 'su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
+  pagrindžia:
+    - c-005
+- t-010
+  teiginys: 'Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­ vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas, vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­ muotą bažnyčią, buvusią savo namuose, uždarė, o savo spaustuvę, seniau skelbusią.'
+  pagrindžia:
+    - c-006
+- t-011
+  teiginys: 'O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios Kunigaikštystės rūmų maršalka, tapo savininku namų, vadintų Filipovo namais, susidedančių iš keleto medinių, moliu aplipdytų, pastatų, užimančių dabartinį Kardinalijos sparną nuo.'
+  pagrindžia:
+    - c-007
+- t-012
+  teiginys: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -144,3 +160,114 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-006
+  santrauka: 'Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­ vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas, vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­ muotą bažnyčią, buvusią savo namuose, uždarė, o savo spaustuvę, seniau skelbusią.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Disidentų pusėje beveik tik vienas pats Volanas, nepaprasto
+    uolumo ir darbštumo žmogus, turėjo atremti priešininkus.
+    Iš pradžių jį galingai palaikė kunigaikštis Mikalojus Rad­
+    vila Juodasis, bet po to, kai jo sūnus Mikalojus Kristupas,
+    vadinamas Našlaitėliu, sugrįžęs į katalikų tikėjimą, refor­
+    muotą bažnyčią, buvusią savo namuose, uždarė, o savo
+    spaustuvę, seniau skelbusią vien disidentų raštus64, 1576
+    metais atidavė jėzuitams, svarstyklių lėkštė persisvėrė į jė­
+    zuitų pusę. Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
+    vo disputais ir raštais spaudęs savo priešininkus, nekan­
+    traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
+    bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
+    jo atvesti į užsibrėžtą tikslą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-007
+  santrauka: 'O Jurgio brolis, kunigaikštis Mi­ kalojus Kristupas, Lietuvos Didžio­ sios Kunigaikštystės rūmų maršalka, tapo savininku namų, vadintų Filipovo namais, susidedančių iš keleto medinių, moliu aplipdytų, pastatų, užimančių dabartinį Kardinalijos sparną nuo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jono bažnyčią, visą mū­
+    rinį. O Jurgio brolis, kunigaikštis Mi­
+    kalojus Kristupas, Lietuvos Didžio­
+    sios Kunigaikštystės rūmų maršalka,
+    tapo savininku namų, vadintų Filipo-
+    vo namais, susidedančių iš keleto
+    medinių, moliu aplipdytų, pastatų,
+    užimančių dabartinį Kardinalijos
+    sparną nuo Didžiosios gatvės. Tą Fi-
+    lipovo namą kunigaikščio Kristupo
+    tėvas Mikalojus Radvila Juodasis,
+    Vilniaus vaivada, Lietuvos kancleris,
+    nuomojo iš kapitulos pagal sutartį
+    nuo 1541 metų ir kasmet mokėjo po
+    20 kapų lietuviškų grašių dėl to, kad
+    sujungęs su savo namu, turėtų erd­
+    vesnį būstą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-008
+  santrauka: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tą Fi-
+    lipovo namą kunigaikščio Kristupo
+    tėvas Mikalojus Radvila Juodasis,
+    Vilniaus vaivada, Lietuvos kancleris,
+    nuomojo iš kapitulos pagal sutartį
+    nuo 1541 metų ir kasmet mokėjo po
+    20 kapų lietuviškų grašių dėl to, kad
+    sujungęs su savo namu, turėtų erd­
+    vesnį būstą. Šis činšas buvo mokamas
+    vienuolika metų, bet paskui liautasi
+    mokėti, ir kapitula su kunigaikščiu
+    Kristupu pradėjo teismo procesą dėl
+    Filipovo namo. Tačiau 1573 metais
+    kovo 26 dieną su kapitula įsigaliojo
+    sutartis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/činšas]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/grupes/Radvilų giminė]]
+- [[objektai/grupes/Vilniaus reformatai ir disidentai]]

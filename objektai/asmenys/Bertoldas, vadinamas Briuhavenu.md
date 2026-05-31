@@ -169,19 +169,22 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Bertoldas (pranciškonas)]]
+- [[objektai/asmenys/Bertoldas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/asmenys/Gotfridas Hohenlohė]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
 - [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]
 - [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
 - [[objektai/ivykiai/Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)]]
+- [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/ginklanešys]]

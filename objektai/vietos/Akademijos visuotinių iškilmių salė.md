@@ -10,6 +10,9 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 bukle: juodrastis
 laikotarpis: 'ankstyvieji naujieji laikai'
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos: []
 periodas: 'ankstyvieji_naujieji_laikai'
 periodo_grupes:
@@ -17,9 +20,6 @@ periodo_grupes:
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
 atnaujinta: '2026-05-27'
 tags: []
@@ -62,7 +62,10 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
     - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Salės vieta ir forma nurodytos tiesiogiai.
@@ -128,3 +131,31 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą
+    Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais
+    Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­
+    nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, -
+    kolegijos sienų, iš trečio ir ketvirto šono - mokymosi patal­
+    pų kolonadomis apsiausta, ištisai visa išgrįsta smulkiais ak­
+    menimis.
+    Įėjus pro didžiuosius bažnyčios vartus, kairėje pusėje, prie
+    bokšto alias varpinės, Akademijos visuotinių iškilmių salė,
+    pailgos formos. Puošyba tos salės viduje: palei apačią maža
+    atbraila, padengta pokostu blizginta skarda, ant atbrailos
+    piliastrai su kapiteliais, iš nugarinės pusės patamsintais vin-
+    guriais marginti, virš jų komišas su didesniais ir mažesniais
+    karnizais, o tarpe jų rangosi vingriai juodai dažyti, vokiečių
+    maniera, po to žemutinis ir aukštutinis stogai, su cokoliu,
+    ant gegnių, iš čerpių; langai stoge ir skliautuose vienodai
+    skarda, pokostu padengta, apkalti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

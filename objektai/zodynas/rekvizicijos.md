@@ -70,5 +70,6 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Valstybės Taryba]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

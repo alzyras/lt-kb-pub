@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1940 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1940'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -30,9 +33,25 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '(”) Didžiųjų Lietuvos kunigaikščių ekonominė politika savo dvaruose, LP, I, 1, 1940, 6-28 p. — (”) Dusburg Peter, LE, t.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
-
+- c-002
+  santrauka: '(”) Didžiųjų Lietuvos kunigaikščių ekonominė politika savo dvaruose, LP, I, 1, 1940, 6-28 p. — (”) Dusburg Peter, LE, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    — (”) _Didžiųjų Lietuvos kunigaikščių ekonominė politika savo
+    dvaruose,_ LP, I, 1, 1940, 6-28 p. — (”) _Dusburg Peter,_ LE, t. 5, 266-267-
+    p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: '„Dusburg Peter“ nurodytas Lietuvių enciklopedijos 5 tome, 266-267 puslapiuose.'

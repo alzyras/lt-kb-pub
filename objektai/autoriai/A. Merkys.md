@@ -58,5 +58,11 @@ Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius �
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Augustinas Povilaitis]]
+- [[objektai/asmenys/Kazys Skučas]]
 - [[objektai/ivykiai/Liaudies vyriausybės sudarymas (1940 m. birželio 17 d.)]]
+- [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]
+- [[objektai/grupes/SSRS kariuomenė]]
+- [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
 - [[objektai/posakiai/„gal neokupuos“ „o gal nesovietizuos “]]
+- [[objektai/asmenys/Antanas Merkys]]

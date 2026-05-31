@@ -48,3 +48,4 @@ tags:
 ### Susiję objektai
 - [[objektai/ivykiai/Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.)]]
 - [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę]]
+- [[objektai/paprociai/Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas]]

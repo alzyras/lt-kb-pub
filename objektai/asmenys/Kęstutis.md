@@ -26,7 +26,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
-  - '1361 m.'
+  - '1345 m.'
   - '1430 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -34,7 +34,7 @@ periodo_grupes:
 amziai:
   - 'XIV'
   - 'XV'
-date_start: '1361'
+date_start: '1345'
 date_end: '1430'
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
@@ -167,6 +167,43 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-028
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-028
+  teiginys: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  pagrindžia:
+    - c-029
+- t-029
+  teiginys: 'Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Mazovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas.'
+  pagrindžia:
+    - c-030
+- t-030
+  teiginys: 'Siekiant didelės valdžios jam labiausiai trukdė se­ nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­ ve, o juolab griežtu ir nepalenkiamu būdu, todėl Jogaila visas jėgas sutelkė pirmiausia nusikratyti dėde, kaip artimiausiu, nes Trakuose.'
+  pagrindžia:
+    - c-031
+- t-031
+  teiginys: 'Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia.'
+  pagrindžia:
+    - c-032
+- t-032
+  teiginys: 'Kęstutis buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios sostinės padėtį.'
+  pagrindžia:
+    - c-033
+- t-033
+  teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
+  pagrindžia:
+    - c-034
+- t-034
+  teiginys: 'Dusburgietis teigia, kad .] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs (SRP, 2, 596).'
+  pagrindžia:
+    - c-035
+- t-035
+  teiginys: 'Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
+  pagrindžia:
+    - c-036
+- t-036
+  teiginys: 'Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.'
+  pagrindžia:
+    - c-037
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Kęstutis valdė vakarų pasienį ir Žemaičius.
@@ -636,6 +673,201 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-029
+  santrauka: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-030
+  santrauka: 'Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Mazovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik neilgai Lietuvos
+    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­
+    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
+    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
+    riteriai, gviešęsi grobio ir valdžios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-031
+  santrauka: 'Siekiant didelės valdžios jam labiausiai trukdė se­ nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­ ve, o juolab griežtu ir nepalenkiamu būdu, todėl Jogaila visas jėgas sutelkė pirmiausia nusikratyti dėde, kaip artimiausiu, nes Trakuose.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Galingesni vasalai grasino suvaržyti didžiojo ku­
+    nigaikščio valdžią, tad Jogailai kilo mintis visus tiesio­
+    giai valdomus lenus sujungti į vieną valstybę ir, tuo vėlei
+    susilpninus feodalizmą, ateičiai pakloti vienvaldystės pa­
+    grindus. Siekiant didelės valdžios jam labiausiai trukdė se­
+    nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­
+    ve, o juolab griežtu ir nepalenkiamu būdu, todėl Jogaila visas
+    jėgas sutelkė pirmiausia nusikratyti dėde, kaip artimiausiu,
+    nes Trakuose gyvenusiu, kaimynu. Nuo tos akimirkos užvi­
+    rė dvejus metus trukusi kova, ir Vilniui šio vidaus karo
+    27
+    Jogaila (Jagiełło) lietuviškai iš tiesų
+    buvo vadinamas Jagajłło, ir doku­
+    mentuose lotyniškai būdavo rašoma:
+    Jagail, arba Jagal, Dei gratia rex in Let-
+    tovia [Jogaila, arba Jagėla, Dievo ma­
+    lone lietuvių karalius].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-032
+  santrauka: 'Gediminas trumpam buvo ją padaręs savo sos­ tinės pilimi, ir tik Kęstutis bei jo sū­ nus Vytautas išplėtė ir pritaikė nuo­ latinei buveinei, paversdami galingų kunigaikščių garbei derančia.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Lietuvių kalboje
+    iki šiol girdime žmonių vartojamą
+    ^°dį „trakas", kuris reiškia lydimus,
+    ikusius iškirtus beržus - išnaikintas
+    beržynėlis! Trakų pilis, reikia many­
+    ti, taip pat yra buvusi sena, galbūt
+    dar prieš Gediminą, gynybinė ir me­
+    džiotojų gyvenvietė. Gediminas
+    trumpam buvo ją padaręs savo sos­
+    tinės pilimi, ir tik Kęstutis bei jo sū­
+    nus Vytautas išplėtė ir pritaikė nuo­
+    latinei buveinei, paversdami galingų
+    kunigaikščių garbei derančia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-033
+  santrauka: 'Kęstutis buvo juk to­ kia visuotinė pirmykščių krikščionių bažnyčios taisyklė - pagonis atver­ čiant į tikrąjį tikėjimą bažnyčias 113 ## Puslapis 130 VILNIAUS MIESTO ISTORIJA / TOMAS Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­ mesį į savo senosios sostinės padėtį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Buvo juk to­
+    kia visuotinė pirmykščių krikščionių
+    bažnyčios taisyklė - pagonis atver­
+    čiant į tikrąjį tikėjimą bažnyčias
+    113
+
+    ## Puslapis 130
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
+    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
+    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
+    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
+    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
+    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
+    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
+    tės, valdovas Vilniui suteikė Magdeburgo teises15.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+- c-034
+  santrauka: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-035
+  santrauka: 'Dusburgietis teigia, kad .] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs (SRP, 2, 596).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    .] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
+    paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
+    (SRP, 2, 596).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-036
+  santrauka: 'Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jiedu davė vėl valstybei vi­
+    są eilę kunigaikščių, kurie Lietuvą valdė daugiau kaip pustrečio
+    šimto metų, iki pat Liublino unijos.
+    ```
+
+    ```
+    — 2 —
+    ```
+    Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
+    šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,
+    išaugęs kitų miško medžių tarpe. Jo tėvas Kęstutis, nuolatinis
+    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
+    Žemaičių bajoro Vydimanto dukterį Birutę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-037
+  santrauka: 'Kęstutis iš Trakų, savo valdos sostinės, turėjęs geriausių galimybių stebėti visus brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­ riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­ nigaikščio buveinę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kivirčai tarp brolių da­
+    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
+    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
+    valdos sostinės, turėjęs geriausių galimybių stebėti visus
+    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
 
 ## Ryšiai
 ### Susiję objektai
@@ -706,16 +938,101 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - [[objektai/posakiai/vardan tos Lietuvos]]
 - [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
 - [[objektai/grupes/Žemaičiai]]
-- [[objektai/asmenys/Andrius Algirdaitis]]
-- [[objektai/asmenys/Danuta]]
-- [[objektai/autoriai/Józef Wolff]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Hanulaitis]]
 - [[objektai/asmenys/Karijotas]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/MINTIS]]
+- [[objektai/asmenys/Narimantas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Vydimantas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas Didysis]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/vienvaldystė]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/zodynas/Arkikomtūras]]
+- [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]
+- [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]
+- [[objektai/asmenys/Danuta]]
+- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
+- [[objektai/asmenys/Dmitrijus Doniškis]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
+- [[objektai/ivykiai/Dubysos paliaubų sudarymas (1382 m. lapkričio pradžia)]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
+- [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/autoriai/J. Fijałek]]
+- [[objektai/asmenys/Jaunutis]]
+- [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]
+- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
+- [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
+- [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/autoriai/Józef Wolff]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/ivykiai/Krėvos akto patvirtinimas (1385 m. rugpjūčio 14 d.)]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
+- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]
+- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
+- [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai]]
+- [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
+- [[objektai/asmenys/Miklausa]]
 - [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
+- [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/asmenys/Narimantas Gediminaitis]]
 - [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]
+- [[objektai/zodynas/Paliaubos induciae]]
+- [[objektai/asmenys/Patirgas]]
+- [[objektai/zodynas/Pilininkas]]
+- [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
+- [[objektai/zodynas/Puslapis 67]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]
+- [[objektai/autoriai/Stryjkowski Strijkovskis]]
+- [[objektai/asmenys/Survila]]
+- [[objektai/grupes/Tauro apygarda]]
+- [[objektai/daiktai/Trakų kunigaikščio žvėrynas]]
+- [[objektai/ivykiai/Trakų pilies apgultis ir pasidavimas (1382 m. liepos 20 d.)]]
+- [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės]]
+- [[objektai/asmenys/Vaidila]]
+- [[objektai/asmenys/Vaidotas]]
+- [[objektai/grupes/Valimantaičiai]]
+- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
+- [[objektai/grupes/Venedai]]
 - [[objektai/ivykiai/Vilniaus apgultis ir miesto padegimas (1377 m.)]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/grupes/Vilniaus miesto vokiečiai]]
+- [[objektai/asmenys/Vinrichas fon Kniprodė]]
 - [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/autoriai/Vygandas Marburgietis]]
 - [[objektai/asmenys/Vygandas von Baldersheimas]]
 - [[objektai/asmenys/Vyguntas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Vydimantas]]
+- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
+- [[objektai/ivykiai/Vytauto pralaimėjimas netoli Vilniaus (1382 m.)]]
+- [[objektai/ivykiai/Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)]]
+- [[objektai/zodynas/diarchija]]
+- [[objektai/posakiai/oculi post dominicam]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Tautvilas]]
+- [[objektai/grupes/Vilniaus gyventojai]]

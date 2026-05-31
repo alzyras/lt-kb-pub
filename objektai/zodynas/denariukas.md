@@ -61,3 +61,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Lietuvos pinigai]]

@@ -140,6 +140,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Celestino V kanonizavimas (1313 m. gegužės 5 d.)]]
 - [[objektai/grupes/Cistersų ordinas]]
+- [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
 - [[objektai/paprociai/Kristaus kūno šventės šventimas]]
 - [[objektai/grupes/Tamplierių ordinas]]

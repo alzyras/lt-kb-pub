@@ -47,3 +47,7 @@ Dusburgietis teigia, kad l., Die Eroberung..., 3, p. 3; Wojtecki D., Studien...,
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]

@@ -62,6 +62,10 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   teiginys: 'Juozas Miliauskas prisiminimuose aprašė, kaip Švėkšnos apylinkių miškuose rusų pajėgos užpuolė užvartomis sutvirtintą sukilėlių stovyklą.'
   pagrindžia:
     - c-004
+- t-008
+  teiginys: 'Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYNĖS TANKUMYNE Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko prisiminimų.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -84,6 +88,24 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYNĖS TANKUMYNE Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko prisiminimų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    antroji pusė. Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius
+
+    KAUTYNĖS TANKUMYNE
+
+    Ištrauka iš netoli sienos su Prūsija kovojusio sukilimo dalyvio Juozo Miliausko pri-
+    siminimų. Jis aprašo epizodą kai Švėkšnos apylinkių miškuose medžių uzvartom su-
+    tvirtintą sukilėlių stovyklą užpuola rusų pajėgos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Bibliografiniai įrodymai
 - c-001

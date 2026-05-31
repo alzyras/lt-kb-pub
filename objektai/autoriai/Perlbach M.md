@@ -92,3 +92,14 @@ Dusburgietis teigia, kad 597; Perlbach M. Dusburgietis teigia, kad 1.23 popieži
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/M. Perlbachas]]

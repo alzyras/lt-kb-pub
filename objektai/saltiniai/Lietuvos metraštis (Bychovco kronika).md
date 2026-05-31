@@ -70,6 +70,14 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   teiginys: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
   pagrindžia:
     - c-006
+- t-011
+  teiginys: '1368 m. žygis Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
+  pagrindžia:
+    - c-007
+- t-012
+  teiginys: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -153,6 +161,40 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-007
+  santrauka: '1368 m. žygis Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1368 m. žygis
+
+    Lietuvos metraštis (Bychovco kronika)
+    teigia, kad Maskvos didysis kunigaikš-
+    tis Dmitrijus pats sulaužė taiką, atsiųsda-
+    mas pas Algirdą „savo pasiuntinį su karo
+    paskelbimu“.
+
+    Algirdas atsitraukia nuo Maskvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-008
+  santrauka: 'Dusburgietis teigia, kad lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė, kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Lietuvos metraščiuose užfiksuotas pasakojimas apie Palangos mergelę, vardu Birutė,
+    kuri žmonių buvo garbinama kaip dievaitė (Lietuvos metraštis. Bychovco kronika, p.
+    72).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Bibliografiniai įrodymai
 - c-001

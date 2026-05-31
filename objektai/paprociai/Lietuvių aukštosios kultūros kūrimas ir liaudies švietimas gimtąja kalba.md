@@ -129,3 +129,16 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kristijonas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/S. Daukantas]]
+- [[objektai/asmenys/Simonas Daukantas]]
+- [[objektai/autoriai/Simonas Stanevičius]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/posakiai/„Šlovė žemaičių“]]
+- [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

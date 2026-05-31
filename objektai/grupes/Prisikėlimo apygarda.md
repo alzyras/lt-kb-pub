@@ -138,7 +138,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]]
 - [[objektai/asmenys/Juozas Paliūnas-Rytas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Kęstučio apygarda]]
@@ -146,6 +145,7 @@ tags:
 - [[objektai/autoriai/Maironis]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Maironio rinktinė]]
@@ -153,3 +153,4 @@ tags:
 - [[objektai/asmenys/Aleksandra Atgailainytė]]
 - [[objektai/grupes/Savanorio rinktinė]]
 - [[objektai/ivykiai/Užpelkių kautynės]]
+- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

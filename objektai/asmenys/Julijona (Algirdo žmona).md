@@ -13,6 +13,15 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1380 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1380'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -62,6 +71,22 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
     - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: '26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: '30 Tasai Andrius, Jogailai pavaldaus Polocko kunigaikštis, Algirdo sū­ nus, gimęs iš antros jo santuokos su Julijona, Vitebsko kunigaikštyte, ta­ čiau nebuvo palankus Jogailai, vei­ kiau linkęs į Kęstučio pusę; tad Jo­ gaila nusprendė jį išvyti iš jo dalinės.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Lietuvos kunigaikš­ čiui Jogailai, Algirdo sūnui, kuris nebuvo priėmęs dar jokio krikšto, tiesesnis kelias buvo į Rytus, į savo motinos, daugelio brolių, dėdžių ir giminaičių tikėjimą.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -154,7 +179,115 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: '26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas. Jau Algirdo viešpatavimo pradžioje Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: '30 Tasai Andrius, Jogailai pavaldaus Polocko kunigaikštis, Algirdo sū­ nus, gimęs iš antros jo santuokos su Julijona, Vitebsko kunigaikštyte, ta­ čiau nebuvo palankus Jogailai, vei­ kiau linkęs į Kęstučio pusę; tad Jo­ gaila nusprendė jį išvyti iš jo dalinės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Duota Viešpaties
+    metais 1380 artimiausią šiokiadienį,
+    kurį giedama „oculi post domini­
+    cam"], tai yra kovo 26-ą.
+    30
+    Tasai Andrius, Jogailai pavaldaus
+    Polocko kunigaikštis, Algirdo sū­
+    nus, gimęs iš antros jo santuokos su
+    Julijona, Vitebsko kunigaikštyte, ta­
+    čiau nebuvo palankus Jogailai, vei­
+    kiau linkęs į Kęstučio pusę; tad Jo­
+    gaila nusprendė jį išvyti iš jo dalinės
+    valdos. Dėl to sudarė slaptą, be
+    Kęstučio žinios, sutartį su Livoni­
+    jos magistru, kad anas padėtų jam
+    vykdyti tuos kėslus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Lietuvos kunigaikš­ čiui Jogailai, Algirdo sūnui, kuris nebuvo priėmęs dar jokio krikšto, tiesesnis kelias buvo į Rytus, į savo motinos, daugelio brolių, dėdžių ir giminaičių tikėjimą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tad ir esančiam dabar didž. Lietuvos kunigaikš­
+    čiui Jogailai, Algirdo sūnui, kuris nebuvo priėmęs dar jokio
+    krikšto, tiesesnis kelias buvo į Rytus, į savo motinos, daugelio
+    brolių, dėdžių ir giminaičių tikėjimą. Jo motiną Julijoną rišo
+    prie Rytų Bažnyčios praeitis, tradicijos, tautybė ir net tai, kad
+    iš jos giminės buvo stačiatikių Bažnyčios šventųjų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ,
+    po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
+    lono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
+    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos. Ordi­
+    nas gi pasižadėjo duoti Jogailai per tuos 4 met.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Vyguntas]]
+- [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/asmenys/Andrius Algirdaitis]]

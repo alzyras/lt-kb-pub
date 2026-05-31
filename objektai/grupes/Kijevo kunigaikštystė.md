@@ -61,3 +61,4 @@ Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, k
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit]]

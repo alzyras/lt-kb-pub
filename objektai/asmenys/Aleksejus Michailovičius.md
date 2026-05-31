@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1655 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+date_start: '1655'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -31,7 +34,10 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Smolenske caras Aleksejus Michailovičius paskelbė vyriausiąjį vadą.'
@@ -50,3 +56,22 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1655 m.
+
+    Smolenske caras Alekse-
+    jus Michailovičius jį pa-
+    skelbė vyriausiuoju vadu.
+    Šklovo mūšyje taip pat dalyvavo ir kuni-
+    gaikščio Jurijaus Boratinskio vadovaujamos
+    pajėgos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

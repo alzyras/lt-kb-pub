@@ -147,4 +147,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuvių Mokslo Draugija]]
 - [[objektai/grupes/Mokslo bičiulių draugija]]
 - [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]
+- [[objektai/grupes/Lietuvių Dailės Draugija]]
 - [[objektai/ivykiai/Lietuvių dailės draugijos ir Vilniaus dailės draugijos įkūrimas]]
+- [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
+- [[objektai/grupes/Vilniaus dailės draugija]]

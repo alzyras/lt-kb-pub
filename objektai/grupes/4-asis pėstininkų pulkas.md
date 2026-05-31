@@ -52,3 +52,4 @@ tags:
 - [[objektai/grupes/A. Mokšeckio brigada]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/brigada]]

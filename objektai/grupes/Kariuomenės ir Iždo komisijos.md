@@ -69,8 +69,10 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
 - [[objektai/grupes/Teisių sargyba]]

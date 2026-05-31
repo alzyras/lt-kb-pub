@@ -46,6 +46,11 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   teiginys: '1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą Karolį.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: '" To to y Iš tiesų niekur kronikose neaptinka­ ma tiksliai nurodyto didžiojo ma­ gistro kelionės į Avinjoną laiko; tik žinome iš įvairių dokumentų: Gu­ deli.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1349 m. Lenkijos Kazimieras siekė Avinjono palankumo, pranešdamas Klemensui VI apie Kęstučio norą krikštytis.'
@@ -96,3 +101,24 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: '" To to y Iš tiesų niekur kronikose neaptinka­ ma tiksliai nurodyto didžiojo ma­ gistro kelionės į Avinjoną laiko; tik žinome iš įvairių dokumentų: Gu­ deli.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    " To to
+    y
+    Iš tiesų niekur kronikose neaptinka­
+    ma tiksliai nurodyto didžiojo ma­
+    gistro kelionės į Avinjoną laiko; tik
+    žinome iš įvairių dokumentų: Gu­
+    deli. C od. Diplom. T. IV, p. 1034-1035;
+    kad Karolis Tryrietis, dar 1323 m.
+    rugpjūčiui įpusėjus, buvo Vokietijo­
+    je.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

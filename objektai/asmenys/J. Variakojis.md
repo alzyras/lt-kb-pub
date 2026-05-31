@@ -135,3 +135,4 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Panevėžio batalionas]]

@@ -86,3 +86,9 @@ Dusburgietis teigia, kad pradzieje..., p. 342—343; Łowmiański H. Dusburgieti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Gotai]]
+- [[objektai/grupes/Romėnai]]

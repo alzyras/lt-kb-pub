@@ -37,7 +37,10 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu su visa likusia kariuomene respublikonams.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene.'
@@ -87,12 +90,39 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu su visa likusia kariuomene respublikonams.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Sapiega, gavęs iš Višnioveckių
+    saugumo garantijas, pasidavė kartu
+    su visa likusia kariuomene respubli-
+    konams. Šios Sapiegų kariuomenės
+    dalies gynyba neleido respubliko-
+    nams organizuoti besitraukiančių
+    Sapiegų giminės senjorų persekio-
+    jimą. Etmonas, iždininkas ir marša-
+    las vakare pasiekė Vilnių, iš visų savo
+    rūmų suvežė svarbiausias vertybes į
+    dominikonų vienuolyną, kuriame ir
+    pernakvojo, o ryte, paskleidę gandą,
+    kad vyksta į Drują bei Bychovo tvir-
+    tovę, iš tikrųjų suskubo trauktis į
+    Kuršą - į Bauskę ir Mintaują.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/B. P. Sapiega]]
 - [[objektai/asmenys/J. P. Sapiega]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/zodynas/dvarų milicija]]
 - [[objektai/asmenys/M. P. Sapiega]]
 - [[objektai/grupes/Respublikonai]]

@@ -85,6 +85,8 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/išvaduotų iš velnio vergovės]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/asmenys/Nodamas]]

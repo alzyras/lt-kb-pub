@@ -78,4 +78,5 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 - [[objektai/asmenys/Madykas]]
 - [[objektai/grupes/Maskvos kariuomenė]]
 - [[objektai/asmenys/Sivindukas]]
+- [[objektai/zodynas/ulonai]]
 - [[objektai/zodynas/ulonas]]

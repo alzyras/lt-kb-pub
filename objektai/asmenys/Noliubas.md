@@ -34,6 +34,10 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   teiginys: 'Dusburgietis teigia, kad ilgainiui tas pats Noliubas, dažnų antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl savo įsitikinimų, ir dėl darbų.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano, nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie čia atvyksta“.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios atskalūnybės metais, o pirmiausia — prieš Kvedenavos valsčių Noliubas, Sklodo iš Kvedenavos sūnus, žmogus žiaurios sielos, nenumaldomos širdies, be to, pernelyg pasikliaujantis savo jėgomis, manė, jog.'
@@ -75,10 +79,29 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano, nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie čia atvyksta“.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
+    nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie
+    čia atvyksta“. Šis pabėgo  į kaimyninį Ziokos valsčių, paspruko vienui vienas, o visa jo
+    namų šeimyna bei visi turtai buvo brolių išsklaidyti. Ilgainiui tas pats Noliubas, dažnų
+    antpuolių nukamuotas, nulenkė prieš tikėjimą galvą, tapdamas pagirtinu žmogumi ir dėl
+    savo įsitikinimų, ir dėl darbų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sembai]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Sklodas iš Kvedenavos]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]

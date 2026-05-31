@@ -7,14 +7,15 @@ aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1230 m.'
   - '1237 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
   - 'viduramžiai'
 amziai:
   - 'XIII'
-date_start: '1237'
-date_end: ''
+date_start: '1230'
+date_end: '1237'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-30'
 tags:
@@ -42,6 +43,10 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   teiginys: 'Dusburgietis teigia, kad po to brolis Hermanas, didysis magistras, pasiuntė brolį Hermaną, vadinamą Balku, Prūsijos žemės magistrą, su keturiasdešimt brolių ir daugybe ginklanešių į Livonijos žemę, kur, kaip jau aukščiau esame sakę, brolis Hermanas Balkas beveik šešerius metus.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­ ta Nesavos pilis Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą vyrą ir pamaldų brolį Hermaną iš Zalcos, Teutonų namų ordino didįjį magistrą.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1, 6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra.'
@@ -97,11 +102,32 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­ ta Nesavos pilis Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą vyrą ir pamaldų brolį Hermaną iš Zalcos, Teutonų namų ordino didįjį magistrą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie tai, kaip atvyko daugiau Teutonų namų ordino brolių ir kaip buvo pastaty­
+                                        ta Nesavos pilis
+
+      Kai ši pilis buvo pastatyta, minėtasis brolis Konradas nusiuntė žygūnus pas gerbiamą
+    vyrą  ir pamaldų  brolį Hermaną  iš  Zalcos, Teutonų namų ordino  didįjį magistrą,
+    pranešdamas, kaip  čia tvarkomas jam  patikėtas  reikalas,  nuolankiai prašydamas
+    ir maldaudamas, kad jam atsiųstų daugiau brolių bei ginklanešių (1230). Magistras,
+    patenkindamas jo prašymą, atsiuntė jam brolį Hermaną, vadinamą Balku, magistro
+    pareigoms eiti, jam sakydamas tuos pačius žodžius, kaip kitados viešpats Jozuei (Joz 1,
+    6 ir toliau): „Būk stiprus ir drąsus“, nes juk tu įvesi Izraelio sūnus, tai yra savo brolius,
+    į žemę, kurią viešpats yra jiems pažadėjęs, ir „su tavimi bus dievas“.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/asmenys/Konradas]]
@@ -111,6 +137,7 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 - [[objektai/zodynas/maršalas]]
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/zodynas/žygūnai]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
 - [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/asmenys/Henrikas iš Berkos]]

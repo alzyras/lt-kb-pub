@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1783 m.'
+  - '1788 m.'
+  - '1789 m.'
+  - '1791 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1783'
+date_end: '1791'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -53,6 +65,10 @@ Nenurodyta
   teiginys: 'Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 91 Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -131,3 +147,40 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 91 Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    91
+    Gegužės trečiosios konstitucija ir
+    Abiejų Tautų tarpusavio įžadas
+    Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų
+    seimas priėmė Gegužės trečiosios konstituciją. Prieš tai Seimas ėmėsi la-
+    bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
+    suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą. Mies-
+    tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
+    užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
+    su dvarininkais. Taigi konstitucijoje vartojamas terminas „tauta“ jau ne-
+    reiškė tik „bajorų tautos“, o apėmė lygiai bajorus, miestiečius ir valstie-
+    čius. Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
+    Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Ketverių metų seimas]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
+- [[objektai/grupes/Miestiečiai ir valstiečiai]]
+- [[objektai/grupes/Teisių sargyba]]
+- [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]

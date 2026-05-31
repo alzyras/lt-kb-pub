@@ -110,3 +110,5 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]

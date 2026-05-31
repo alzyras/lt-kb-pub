@@ -96,6 +96,26 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   teiginys: '1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -272,3 +292,106 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Daugelis brangeny-
+    bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į
+    Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi
+    į Stokholmą net akademijos biblioteką ir daugybę kitų kultū-
+    ros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet
+    vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
+    šiandien.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Antra vertus,
+    tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
+    visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
+    joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
+    Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
+
+    L I E T U V O S  I S T O R I J A
+    64
+    tiems karaimams, totoriams ir žydams.
+    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
+    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
+    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
+    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
+    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
+    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
+    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
+    panaikinimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi, santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­ gusto seserimi.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    La­
+    biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
+    mas Akademiją. Jis taip pat palaimino Vilniuje Suomijos
+    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
+    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
+    gusto seserimi.
+    —  •  .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Būdamas arčiausiai karo židinio, Stepono Batoro laikais
+    Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
+    bai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579
+    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
+    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
+    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
+    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
+    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
+    su kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,
+    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
+    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
+    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
+    sipelniusius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Zigmanto
+    Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija
+    buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
+    304, 328 psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015

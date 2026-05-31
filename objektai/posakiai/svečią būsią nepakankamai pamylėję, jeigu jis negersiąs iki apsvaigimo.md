@@ -49,7 +49,6 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/pinigai]]
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai

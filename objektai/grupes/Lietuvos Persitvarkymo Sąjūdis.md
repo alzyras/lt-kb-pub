@@ -13,23 +13,29 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1988-1990 m."
-datos:
-  - "1988-06-03"
-  - "1988-10-22"
-  - "1988-10-23"
-  - "1988-11-25"
-  - "1990"
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "Atgimimas"
-amziai:
-  - "XX"
-date_start: "1988"
-date_end: "1990"
 vaidmenys:
   - "tautinis politinis judėjimas"
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1909 m.'
+  - '1972 m.'
+  - '1976 m.'
+  - '1987 m.'
+  - '1988 m.'
+  - '1989 m.'
+  - '1990 m.'
+  - '1991 m.'
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - 'Atgimimas'
+  - 'XX a.'
+  - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+date_start: '1909'
+date_end: '1991'
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-14'
 tags: []
@@ -164,6 +170,42 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   teiginys: 'LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti laikraštis „Atgimimas“ (red. Romualdas Ozolas).'
   pagrindžia:
     - c-017
+- t-018
+  teiginys: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietuvos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija, kėlusi tautą visuotiniais, universaliais, pavergtai.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Gorbačiovas, rungdamasis su senąja SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis, o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti Lietuvoje.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS iniciatyvinės grupės nariai.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Sąjūdžio grupės pripažino Sąjūdžio iniciatyvinės grupės lyderystę, nors ją rinko tik vilniečiai.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Lietuva atsidūrė visuotinio dėmesio centre.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Tų metų lapkritį visoje Lietuvoje vykusiuose susirinkimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaciją, prieš tai surinkta 1,8 mln.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: '1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: '1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjūdis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos Lietuvos valstybės atkūrimo idėją, ir.'
+  pagrindžia:
+    - c-026
 
 ## Reikšmingi paminėjimai
 
@@ -421,11 +463,213 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-018
+  santrauka: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kol kas jų buvo mažuma.
+    Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu
+    susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga,
+    atkūrusia Lietuvos nepriklausomybę. Atrodo, kad abiejų judėjimų takos-
+    kyra galima laikyti ne vien jų taktikos nuostatas, bet ir skirtingas veiklos
+    tradicijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietuvos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija, kėlusi tautą visuotiniais, universaliais, pavergtai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    So-
+    vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,
+    ji sulaukė Atgimimo epochos ir tapo pirmąja nacionalinio išsivadavimo
+    organizacija. O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoks-
+    nius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietu-
+    vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
+    kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
+    vės, demokratijos, nepriklausomybės idealais.
+    Protesto eisena Kauno Laisvės alėjoje Kaune  1972 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Gorbačiovas, rungdamasis su senąja SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis, o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti Lietuvoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gorbačiovas, rungdamasis su senąja
+    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
+    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
+    Lietuvoje. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
+    Svarbiausias dėmesys skiriamas kultūros ir ekologijos problemoms, šalies
+    ekonomikai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS iniciatyvinės grupės nariai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Romualdas Ozolas).
+    LPS įtaka visuomenėje didėjo, liepą–rugsėjį visoje Lietuvoje steigėsi
+    iniciatyvinės grupės, vyko didžiuliai mitingai, kuriuose dalyvavo LPS ini-
+    ciatyvinės grupės nariai. Sąjūdžio grupės pripažino Sąjūdžio iniciatyvi-
+    nės grupės lyderystę, nors ją rinko tik vilniečiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Sąjūdžio grupės pripažino Sąjūdžio iniciatyvinės grupės lyderystę, nors ją rinko tik vilniečiai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sąjūdžio grupės pripažino Sąjūdžio iniciatyvi-
+    nės grupės lyderystę, nors ją rinko tik vilniečiai. 1988 m. spalio pabaigoje
+    1 200 Lietuvoje įregistruotų LPS grupių vienijo 300 000 narių, nes Sąjūdis
+    buvo atviras visiems Lietuvos žmonėms, o jo akcijose galėjo dalyvauti visi
+    Lietuvos gyventojai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Lietuva atsidūrė visuotinio dėmesio centre.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva atsidūrė visuotinio dėmesio centre. Suvažiavimas
+    priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
+    nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais. LPS
+    Bendrojoje programoje įvardytas pagrindinis siekis – remti socia­listinės
+    visuomenės persitvarkymą demokratijos ir humanizmo pagrindais, o tiks-
+    las – viešumas, demokratija, respublikos valstybinis, ekonominis, kultūri-
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    237
+    nis suverenitetas, teisinė socialistinė valstybė, tačiau siekta sudaryti įspūdį,
+    kad LPS remia SSRS vadovybės pradėtas reformas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Tų metų lapkritį visoje Lietuvoje vykusiuose susirinkimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaciją, prieš tai surinkta 1,8 mln.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo šiol organi-
+    zuotas liaudies judėjimas atrodė pasirengęs mesti iššūkį komunistų par-
+    tijai. LPS tapo visuomenine jėga, galinčia pateisinti visuomenės viltis ir
+    lūkesčius, veikė kaip tarpininkas tarp vadovybės ir tautos, pradėtos kurti
+    politinės partijos. Tų metų lapkritį visoje Lietuvoje vykusiuose susirin-
+    kimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms,
+    kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaci-
+    ją, prieš tai surinkta 1,8 mln.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: '1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį. Jau tų
+    metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai
+    laimėjo LPS kandidatai, o gruodžio 7 dienos konstitucijos pataisomis pa-
+    naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
+    sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
+    šalies politiniame gyvenime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: '1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjūdis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos Lietuvos valstybės atkūrimo idėją, ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą
+    kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-
+    dis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos
+    Lietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-
+    liarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-
+    va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
+    nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
+    būdu, o savarankiška LKP šiam planui nesipriešino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/asmenys/Romualdas Ozolas]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/tautinis atgimimas]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Dailininkų sąjunga]]
 - [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
+- [[objektai/asmenys/Petras Griškevičius]]
+- [[objektai/asmenys/Rimgaudas Songaila]]
 - [[objektai/zodynas/baltosios dėmės]]
+- [[objektai/zodynas/pertvarka perestroika]]
+- [[objektai/asmenys/Vytautas Landsbergis]]
+- [[objektai/posakiai/„Viešumas, demokratija, suverenumas“]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
+- [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas]]
+- [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
+- [[objektai/ivykiai/LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.)]]
+- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio iniciatyvinės grupės įsteigimas (1988 m. birželio 3 d.)]]
+- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)]]
+- [[objektai/grupes/Lietuvos laisvės lyga]]
+- [[objektai/daiktai/Lietuvos trispalvė]]
+- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
+- [[objektai/paprociai/Sąjūdžio masiniai mitingai ir reikalavimų viešinimas]]
+- [[objektai/zodynas/suverenitetas suverenumas]]
+- [[objektai/zodynas/suverenumas suverenitetas]]
+- [[objektai/zodynas/tautos frontas]]
+- [[objektai/posakiai/„Lietuva be suvereniteto – Lietuva be ateities.“]]

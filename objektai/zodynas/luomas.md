@@ -12,19 +12,21 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '1387 m.'
   - '1413 m.'
+  - '1576 m.'
   - '2013 m.'
   - '2026 m.'
-  - '1387 m.'
-  - '1576 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'LDK'
   - 'šiuolaikinė Lietuva'
 amziai:
+  - 'XIV'
   - 'XV'
+  - 'XVI'
   - 'XXI'
-date_start: '1413'
+date_start: '1387'
 date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
@@ -74,6 +76,18 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginys: 'Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­ syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.'
   pagrindžia:
     - c-003
+- t-014
+  teiginys: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
+  pagrindžia:
+    - c-005
+- t-015
+  teiginys: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
+  pagrindžia:
+    - c-006
+- t-016
+  teiginys: 'Paskui kai kas nors, Dievo Apvaizda, po mūsų į mūsų sostą įžengs ir taps įpėdiniu, taip pat ir visų abiejų valstybių luomų tarybų prašome, kad netrukdytų ir, priešingai, padėtų padalinti mūsų turtus že­ miau aprašytu papročiu, be gaišaties, delsimo, pokštų.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -258,6 +272,95 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-005
+  santrauka: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jam pavaldi
+    buvo ir šiose gubernijose dislokuota kariuomenė.
+
+    L I E T U V O S  I S T O R I J A
+    100
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-006
+  santrauka: 'Tačiau Torunės seime, kilus ginčams su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­ tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo teises bei privilegijas, bet iškilus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Radvila užsistojo juos,
+    prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­
+    mo, ir karalius sutiko. Tačiau Torunės seime, kilus ginčams
+    su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­
+    tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam
+    pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo
+    teises bei privilegijas, bet iškilus netikėtiems krašto reika­
+    lams, visų pirma dėl Livonijos ir Lietuvos sienų gynybos,
+    norėdamas, kad pirkliai iš nemažų savo prekybos pajamų
+    ką nors kraštui paskirtų, kas jiems su kaupu sugrįš iš užsie­
+    nio prekybos, bet nebūtų rizikuojama sienų saugumu, įsakė
+    tuojau pat rinkti muitus. Dėl Vilniaus Batoras pareikalavo
+    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
+    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
+    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
+    čius*.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-007
+  santrauka: 'Paskui kai kas nors, Dievo Apvaizda, po mūsų į mūsų sostą įžengs ir taps įpėdiniu, taip pat ir visų abiejų valstybių luomų tarybų prašome, kad netrukdytų ir, priešingai, padėtų padalinti mūsų turtus že­ miau aprašytu papročiu, be gaišaties, delsimo, pokštų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dėl tokio prakeikimo ir Dievo pyk­
+    čio nieko kito nebijok, tik laikinos čia, o paskui amžinos pra­
+    žūties, nuo kurios malonėk, Viešpatie Dieve, apsaugoti ir
+    malonėk abiejose šiose valstybėse įtvirtinti tai, ką jose per
+    mus padarei, malonėk abi šias tautas, vienybėje amžinai su­
+    jungtas tikros meilės, saugoti. Paskui kai kas nors, Dievo
+    Apvaizda, po mūsų į mūsų sostą įžengs ir taps įpėdiniu,
+    taip pat ir visų abiejų valstybių luomų tarybų prašome, kad
+    netrukdytų ir, priešingai, padėtų padalinti mūsų turtus že­
+    miau aprašytu papročiu, be gaišaties, delsimo, pokštų, išsi­
+    sukinėjimų, vengimo, prasimanymų, nuoširdžiai, ištikimai,
+    rimtai šiai mūsų valiai pritardami ir ją pildydami, jos pildy­
+    mui padėdami, kaip įpareigojame ir įgaliojome, tegu atme­
+    na tikėjimą, garbę, sąžinę, kad kiekvienam geram žmogui,
+    o ypač krikščioniui, privalu įvykdyti valią to, kieno keitėjas
+    arba sprendimo vykdytojas būtų; dėl to, jeigu kiti luomai
+    gali tai uždėti savo palikuonims ir vykdytojams, kad jų va­
+    lią pildytų, tuo labiau mums, kaip valdovui, kuriam Vieš­
+    pats Dievas malonėjo patikėti žmonių valdymo teises ir ku­
+    ris esame laisvas nuo teisių, o vis tiek ir išlaisvinti veikiame
+    pagal teises, o mūsų valstybės bendros teisės ir papročiai
+    skelbia tai, kad kiekvienas gali kam tik nori savo turtus tęs-
+    ---- • -•
+    336
+
+    ## Puslapis 353
+
+    IV KNYGA
+    tamentu ar kokiu kitu užrašymu duoti, dovanoti, suteikti,
+    pripažinti, tą taip pat leidžia krikščioniškoji teisė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
@@ -274,13 +377,80 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]
 - [[objektai/zodynas/privilegija lex privata]]
 - [[objektai/zodynas/rūmininkas vyno pilstytojas]]
+- [[objektai/zodynas/Czopowe]]
+- [[objektai/daiktai/Herbai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/zodynas/Szosowe]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/ivykiai/1449 m. amžinoji taika su Maskva]]
 - [[objektai/asmenys/Abraomas Kulvietis]]
+- [[objektai/daiktai/Antspaudai]]
+- [[objektai/zodynas/Bajorų respublika liberum veto]]
 - [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
+- [[objektai/zodynas/Dvarų bernai]]
+- [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
 - [[objektai/asmenys/Glapas]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/autoriai/Jacobas Schrenckas]]
+- [[objektai/asmenys/Jeronimas Opachovskis]]
+- [[objektai/asmenys/Jonas Jurgeravičius]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/autoriai/Kosman М]]
+- [[objektai/ivykiai/Kryžiaus karai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Kučinskas A]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/zodynas/Magdeburgo teisė]]
+- [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
+- [[objektai/asmenys/Merkelis Savickis]]
+- [[objektai/grupes/Miestiečiai ir valstiečiai]]
+- [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas]]
+- [[objektai/asmenys/Mikalojus Sachovskis]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus]]
+- [[objektai/paprociai/Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka]]
+- [[objektai/asmenys/Paulius Rusdorfas]]
+- [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris]]
+- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/zodynas/Riterių luomas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Sofija Šimonova]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo laisvės ir municipalinių reikalų tvarkymas]]
+- [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
+- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose]]
+- [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
+- [[objektai/zodynas/bajorų tauta politinė lietuvių tauta]]
+- [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]
+- [[objektai/zodynas/feodalizmas]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/karčema smuklininkas gėrimų pilstymas]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
+- [[objektai/zodynas/leno teisė]]
+- [[objektai/zodynas/leno teisė feodas luominė monarchija]]
+- [[objektai/zodynas/miestiečių luomas]]
+- [[objektai/zodynas/miesto magistrato pareigybės]]
+- [[objektai/zodynas/muitas thelonea]]
+- [[objektai/zodynas/municipalinės laisvės miestiečių luomas]]
+- [[objektai/zodynas/naujakrikštis]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/asmenys/Jekaterina II]]
+- [[objektai/paprociai/Testamento vykdytojų pareiga padalyti turtą pagal testatoriaus valią]]
+- [[objektai/zodynas/luomas subluomas]]

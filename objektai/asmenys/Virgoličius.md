@@ -86,5 +86,7 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Virgoličiaus rinktinė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
 - [[objektai/asmenys/P. Bermontas-Avalovas]]
+- [[objektai/asmenys/P. Virgoličius]]
 - [[objektai/grupes/Bermontininkai]]

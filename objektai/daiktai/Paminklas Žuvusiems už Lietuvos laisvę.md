@@ -62,4 +62,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.)]]
+- [[objektai/paprociai/Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas]]
 - [[objektai/zodynas/Žuvusių karių kultas]]

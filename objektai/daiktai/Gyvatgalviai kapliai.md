@@ -6,8 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+periodas: 'priesistore'
+periodo_grupes: []
+amziai:
+  - 'XIII'
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
-periodas: priesistore
 atnaujinta: '2026-04-28'
 tags:
   - daiktas
@@ -43,6 +49,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Dusburgietis teigia, kad iki Persantės vakaruose žalvario amžiuje buvo paplitę gyvatgalviai kapliai, būdingi baltų kultūrinei sričiai (Lietuvos archeologijos bruožai, p. 105—106; MLTE, t.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -139,7 +149,30 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Dusburgietis teigia, kad iki Persantės vakaruose žalvario amžiuje buvo paplitę gyvatgalviai kapliai, būdingi baltų kultūrinei sričiai (Lietuvos archeologijos bruožai, p. 105—106; MLTE, t.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    11 Kalbant apie IX—XIII a. prūsus  ir vakarinius lietuvius tarp Vyslos  ir Nemuno,
+    kartais — tiesa, neaiškiai — minima, kad juos skyrusi Persantės upė (Lietuvos TSR
+    istorija. T. 1, p. 55; Jurginis J. Baudžiavos..., p. 34; Lietuvių karas su kryžiuočiais, p.
+    78). Šioje teritorijoje teka Pasarė (Pasargė), o Persantės upė yra į vakarus nuo Vyslos.
+    Iki Persantės vakaruose žalvario amžiuje buvo paplitę gyvatgalviai kapliai, būdingi baltų
+    kultūrinei sričiai (Lietuvos archeologijos bruožai, p. 105—106; MLTE, t. 1, p. 158; Okulicz
+    J. Pradzieje ziem pruskich..., s. 171— 173).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/įrankis]]
+
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Adynos|adynos]]

@@ -81,3 +81,4 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/S. Nastopka]]
 - [[objektai/grupes/L. Želigovskio pajėgos]]
+- [[objektai/grupes/oji pėstininkų divizija]]

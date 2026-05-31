@@ -76,6 +76,14 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Tačiau šis karaliaus nurodymas gal taip greitai ne­ būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­ bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į Vilnių.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -224,3 +232,43 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Prieš metus įvykęs jų žygis leido jiems „smagintis“ Vilniaus ir Polocko, Vitebsko ir Drucko, Naugarduko ir Slucko apylinkėse - tikrajame LDK branduolyje, tankiausiai apgyventame ir turtingiausiame krašte.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Tačiau šis karaliaus nurodymas gal taip greitai ne­ būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­ bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į Vilnių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Miestiečiai prie jų
+    dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė
+    imti po vieną pinigą kas dveji metai, arba po vieną akmenį
+    nuo kiekvieno vežimo, gabenančio javus ar kokius kitus pro­
+    duktus. Tačiau šis karaliaus nurodymas gal taip greitai ne­
+    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
+    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
+    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
+    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
+    limu, išmetę medinius statinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

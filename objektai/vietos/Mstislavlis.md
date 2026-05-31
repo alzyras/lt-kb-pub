@@ -11,6 +11,7 @@ datos:
   - '1907 m.'
   - '2013 m.'
   - '2026 m.'
+  - '1358 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -55,7 +56,10 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   teiginys: 'Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
   pagrindžia:
     - c-005
-
+- t-006
+  teiginys: ': | kunigaikštystė ae r fo} | O Čeboksarai | | ''Karamyšas Būlgaras Tuo metu, kai Algirdas kovojo ja BoE Oveliz Vi rata G prieš Aukso ordą, prie Mėlynųjų 1358 m. Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mstislavlyje esanti Basųjų karmelitų bažnyčia laikoma ryčiausiu Vilniaus baroko mokyklos ir J. K. Glaubitzo kūriniu.'
@@ -131,3 +135,25 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: ': | kunigaikštystė ae r fo} | O Čeboksarai | | ''Karamyšas Būlgaras Tuo metu, kai Algirdas kovojo ja BoE Oveliz Vi rata G prieš Aukso ordą, prie Mėlynųjų 1358 m. Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    :
+    | kunigaikštystė ae r fo} | O Čeboksarai |
+    | 'Karamyšas
+    Būlgaras
+
+    Tuo metu, kai Algirdas kovojo
+
+    ja BoE Oveliz Vi rata G prieš Aukso ordą, prie Mėlynųjų
+    1358 m. Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko
+
+    atiteko Mstislavlis. 2 Kalugą 2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

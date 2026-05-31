@@ -1,0 +1,148 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'miesto magistrato pareigybės'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1536 m.'
+  - '1560 m.'
+  - '1568 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1536'
+date_end: '1568'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - bajorija
+  - karalius
+  - sąvoka
+  - tauta
+---
+# miesto magistrato pareigybės
+
+## Santrauka
+
+Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. O 1568 metų birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu sprendimu apsaugojo miestiečius nuo engiančio užrašinėjimo jų namuose apsigyventi dvariškiams, karaliaus valdi­ ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos žinios ir leidimo. Tai privilegijos žodžiai, verčiantys 279 ## Puslapis 296 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto Augusto palankumas savo gimtajai sostinei, taip dosniai pasireiškęs šia privilegija, tuo dar nesibaigė.
+
+## Teiginiai
+- t-001
+  teiginys: 'Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'O 1568 metų birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu sprendimu apsaugojo miestiečius nuo engiančio užrašinėjimo jų namuose apsigyventi dvariškiams, karaliaus valdi­ ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos žinios ir leidimo.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Tai privilegijos žodžiai, verčiantys 279 ## Puslapis 296 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto Augusto palankumas savo gimtajai sostinei, taip dosniai pasireiškęs šia privilegija, tuo dar nesibaigė.'
+  pagrindžia:
+    - c-003
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Netvarka ir apsileidimas, įsitvirtinę miesto administra­
+    cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat
+    kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų
+    privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. 1536
+    metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
+    tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
+    Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.
+    Jį turi sudaryti du burmistrai (Proconsul) su metiniu atlygi­
+    nimu po 20 kapų grašių ir keturi miesto tarybos nariai (con­
+    sul) su 10 kapų atlyginimu, po lygiai katalikų ir stačiatikių
+    tikėjimo. Be to, keturi valdytojai: du skiriami tarybos, o du -
+    bendruomenės, jų pareiga - sumuoti miesto pajamas bei iš­
+    laidas ir kasmet pateikti ataskaitą. Miesto teismas, sudary­
+    tas iš šuolininkų (Scabini), vadovaujamas vaito (.Advocatus),
+    buvo naujai pertvarkytas, ir konkrečiau apibrėžti jo santykiai
+    su magistratu1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'O 1568 metų birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu sprendimu apsaugojo miestiečius nuo engiančio užrašinėjimo jų namuose apsigyventi dvariškiams, karaliaus valdi­ ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos žinios ir leidimo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O 1568 metų
+    birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu
+    sprendimu apsaugojo miestiečius nuo engiančio užrašinėji-
+    mo jų namuose apsigyventi dvariškiams, karaliaus valdi­
+    ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos
+    žinios ir leidimo. Tas pats Gardino seimas Vilniaus miesto
+    gyventojams buvo labai įsimintinas dėl suteiktos privilegi­
+    jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs
+    vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­
+    rate, su palikuonimis buvo visiems laikams pakeltas į bajo­
+    rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
+    gus. Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
+    bet tik sutikus nors vienai pastariesiems priklausančiai šei­
+    mai, o viešiesiems reikalams magistratas negalėjo naudoti
+    kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su
+    šventojo Kristoforo atvaizdu, ant raudono lako, kaip buvo
+    įprasta pirmuosiuose Karalystės miestuose39.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Tai privilegijos žodžiai, verčiantys 279 ## Puslapis 296 VILNIAUS MIESTO ISTORIJA// TOMAS Žygimanto Augusto palankumas savo gimtajai sostinei, taip dosniai pasireiškęs šia privilegija, tuo dar nesibaigė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai privilegijos žodžiai, verčiantys
+    279
+
+    ## Puslapis 296
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto Augusto palankumas savo gimtajai sostinei, taip
+    dosniai pasireiškęs šia privilegija, tuo dar nesibaigė. Vaito,
+    burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­
+    gistrato raštininkų namai ir butai kartą ir visiems laikams bu­
+    vo atleisti nuo bet kokios nakvynės ir apsistojimo prievolės.
+    O svarbiausia, jog 1560 metais Lietuvos Didžiosios Kuni­
+    gaikštystės Ponų Tarybos seime, vykusiame Vilniuje, kara­
+    lius leido bajorams rinkti delegatus, kurie vėliau sudarė ant­
+    ruosius lietuvių tautos reprezentavimo rūmus. Ir magistratas,
+    keleliais metais vėliau, gavo teisę pasiųsti du arba tris pata­
+    rėjus į visus didžiuosius seimus, vykstančius Karalystėje ar­
+    ba Lietuvoje. Jie, kaip ir krašto pasiuntiniai, turėjo tartis dėl
+    Vilniaus miesto gerovės ir reikmių40.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Gardino seimas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę]]
+- [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]

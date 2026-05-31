@@ -8,16 +8,16 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "pagoniško Vilniaus laikai"
-datos: []
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-27'
 tags: []
@@ -60,6 +60,10 @@ Nenurodyta
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: '6 „Buvo dar didžiulė menė, arba šventovė, Antakalnyje, visų dievų, kuriuos Lietuva, apgauta šėtoniš­ kų kerų, garbino; ten ketvirtadie­ nio vakarais dvasininkai visada statydavo ir degindavo vaško žva­ kes/'' Strijkovskis, Sk.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -106,11 +110,37 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: '6 „Buvo dar didžiulė menė, arba šventovė, Antakalnyje, visų dievų, kuriuos Lietuva, apgauta šėtoniš­ kų kerų, garbino; ten ketvirtadie­ nio vakarais dvasininkai visada statydavo ir degindavo vaško žva­ kes/'' Strijkovskis, Sk.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Gausu buvo pagonių šventyklų, nes, be tų, ku­
+    rias pilies teritorijoje buvus patyrėme, viena šventa vietovė
+    buvo ant tos kalvos, kur dabar stovi Šv. Jono bažnyčia, o Ant­
+    akalnyje, kaip tik ten, kur dabar Šv. Petro bažnyčia, buvo iš­
+    kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
+    tovė Laukai-kišas-upys, vėliau išvir­
+    to į Lukiškes. Strijkovskis klysta tvir­
+    tindamas, esą miškas lietuviškai va­
+    dinamas laukas ir nuo to žodžio
+    paėjęs Lukiškių pavadinimas.
+    6
+    „Buvo dar didžiulė menė, arba
+    šventovė, Antakalnyje, visų dievų,
+    kuriuos Lietuva, apgauta šėtoniš­
+    kų kerų, garbino; ten ketvirtadie­
+    nio vakarais dvasininkai visada
+    statydavo ir degindavo vaško žva­
+    kes/' Strijkovskis, Sk. IV, p. 400.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinė-praktika]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Vaškas]]

@@ -54,5 +54,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
 - [[objektai/daiktai/Duona]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/asmenys/Abraomas Kulvietis]]
-- [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
+- [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]

@@ -110,3 +110,13 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Parusėnai]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Valakai]]

@@ -79,6 +79,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Adomas (auksakalys)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mickevičius]]
 - [[objektai/asmenys/Tropas]]

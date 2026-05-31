@@ -95,6 +95,9 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/MGB-KGB agentai smogikai]]
+- [[objektai/zodynas/agentai smogikai]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
 - [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]

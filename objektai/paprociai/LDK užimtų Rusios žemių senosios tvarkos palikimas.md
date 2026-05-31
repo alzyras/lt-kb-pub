@@ -82,3 +82,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
+- [[objektai/posakiai/senovės negriauname, naujovių neįvedame]]

@@ -67,3 +67,16 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/ivykiai/Mindaugo karūnacija]]
+- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Morta]]
+- [[objektai/asmenys/Andrius Štirlandas]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]

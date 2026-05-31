@@ -107,7 +107,14 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginys: 'Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.'
   pagrindžia:
     - c-016
-
+- t-017
+  teiginys: 'Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžiavos, tik be žemės.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Suvalkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos.'
+  pagrindžia:
+    - c-018
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos Užnemunėje buvo žinomi vakarų baltų sūduviai.'
@@ -386,3 +393,40 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: 'Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžiavos, tik be žemės.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kaip
+    visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na-
+    poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
+    vos, tik be žemės.
+    Žuvus Napoleono galybei, Užnemunė taip pat pasiliko
+    Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko
+    ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek-
+    sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 101 klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Suvalkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo ketvirtojo dešimtmečio rusiška administracinio teritorinio val-
+    dymo sistema įvesta ir Kongresinėje Lenkijoje. Lietuvos Užnemunė pri-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    101
+    klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su-
+    valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018

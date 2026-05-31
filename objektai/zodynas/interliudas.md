@@ -50,5 +50,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Immanuel Kant]]
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
+- [[objektai/zodynas/autokratinė monarchinė imperija]]
+- [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“]]

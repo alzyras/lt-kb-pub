@@ -75,7 +75,12 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Lietuvos auksas]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]
 - [[objektai/zodynas/sovietizacija sovietizavimas]]
 - [[objektai/autoriai/Justas Paleckis]]

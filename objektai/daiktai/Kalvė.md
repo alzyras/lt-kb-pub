@@ -68,3 +68,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė]]
+- [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės]]
+- [[objektai/autoriai/Stryjkowski Strijkovskis]]

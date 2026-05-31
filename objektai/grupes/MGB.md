@@ -96,3 +96,8 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/zodynas/Miera|miera]]

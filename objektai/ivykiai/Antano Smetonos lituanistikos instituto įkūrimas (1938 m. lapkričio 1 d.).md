@@ -60,6 +60,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Lituanistika]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

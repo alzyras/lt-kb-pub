@@ -55,3 +55,8 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas Didysis]]
+- [[objektai/asmenys/Zbignevas iš Bžezės]]
+- [[objektai/asmenys/Zindramas iš Maškovičių]]

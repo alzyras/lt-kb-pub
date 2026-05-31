@@ -143,6 +143,10 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-019
+  teiginys: 'Dusburgietis teigia, kad gerai įsidėmėk, kad ir tas pats Herkus, ir daugybė kitų vėliau, priesaika patvirtindami savo žodžius, tikino, jog tuo metu, kai tas ant arklio sudegintas miestietis išleido paskutinį atodūsį, jie išvydo jam iš burnos išskrendant baltų balčiausią balandį.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 
@@ -436,6 +440,28 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-016
+  santrauka: 'Dusburgietis teigia, kad gerai įsidėmėk, kad ir tas pats Herkus, ir daugybė kitų vėliau, priesaika patvirtindami savo žodžius, tikino, jog tuo metu, kai tas ant arklio sudegintas miestietis išleido paskutinį atodūsį, jie išvydo jam iš burnos išskrendant baltų balčiausią balandį.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tačiau kai ir trečią kartą
+    burtai jam krito, pats atsižadėjo noro išsigelbėti  ir iš pagarbos tikėjimui laisva valia
+    pasiaukojo dievui: pririštas ant savo žirgo, jis buvo sudegintas367. Gerai įsidėmėk, kad ir
+    tas pats Herkus, ir daugybė kitų vėliau, priesaika patvirtindami savo žodžius, tikino, jog
+    tuo metu, kai tas ant arklio sudegintas miestietis išleido paskutinį atodūsį, jie išvydo jam
+    iš burnos išskrendant baltų balčiausią balandį.
+
+
+
+
+      362  Vestfalijos (?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai
@@ -443,11 +469,24 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]
-- [[objektai/asmenys/Helmerichas]]
+- [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Helvigas iš Goldbacho]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
+- [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas)]]
+- [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]
+- [[objektai/asmenys/Helmerichas]]
 - [[objektai/asmenys/Henrikas iš Šenenbergo]]
 - [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas]]
 - [[objektai/paprociai/Herkaus Manto vokiški taikos pažadai besislapstantiems išvilioti]]
@@ -456,3 +495,9 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 - [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.)]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/posakiai/Šiandien pat pasiųsiu tave į dangų]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/asmenys/Hirtshalsas]]
+- [[objektai/asmenys/Mantas]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/ivykiai/Treniotos vadovaujamas Mindaugo kariuomenės žygis į Ordino užnugarį (1262 m.)]]

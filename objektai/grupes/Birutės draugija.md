@@ -71,7 +71,7 @@ Birutės draugija: pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „
 
 - c-003
   santrauka: Birutės draugija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jos sumanytojai buvo Basanavi-
     čius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir
@@ -83,3 +83,11 @@ Birutės draugija: pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Mikšas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Vokiečių literatų draugija]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]

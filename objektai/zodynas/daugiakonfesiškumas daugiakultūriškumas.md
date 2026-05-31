@@ -65,11 +65,13 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
+- [[objektai/grupes/Karaimai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Katalikų bažnyčia katalikai]]
+- [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]

@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -59,6 +65,18 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Dalis ATR aristokratijos reikanetgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis).'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Todėl Augustas 11 nusprendė išvyti iš Livonijos švedus ir ją užvaldyti.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -186,7 +204,77 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Dalis ATR aristokratijos reikanetgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    buvo išrinktas am- Lietuvos, bet ir Lenkijos teritorijos. Dalis ATR aristokratijos reika-
+
+    netgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos
+
+    bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis). Jis
+    siekė ATR paversti absoliutine monarchija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Todėl Augustas 11 nusprendė išvyti iš Livonijos švedus ir ją užvaldyti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Todėl Augustas 11 nusprendė
+    išvyti iš Livonijos švedus ir ją užvaldyti.
+    Augustas II susitarė su Rusijos valdovu
+    Petru I dél jo paramos prieš Švediją. Augus-
+    tas II pripažino Prūsijos kunigaikštystės
+    “(kartu su Brandenburgu) statuso pakélima
+    _, į karalystės lygmenį, mainais į Prūsijos-
+    „ Brandenburgo įsipareigojimą per savo te-
+    ritoriją nepraleisti švedų kariuomenės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Augusto II siekius rėmė ir dalis Švedijos kara-
+    liaus Karolio x11 valdymu nepatenkintos
+    Livonijos aristokratijos. Augusto II
+    “planams nepritarė seimas, pareika-
+    lavęs iš Lietuvos teritorijos išvesti jo
+    „ Saksonijos kariuomenę. Augustas
+    11 buvo pasirengęs padėti iškilti di-
+    dikų giminėms už paramą kovojant
+    prieš švedus, bet jo laviravimas tarp
+    priešiškų stovyklų nebuvo sėkmin-
+    gas, ir paramos nesulaukusi Sapiegų
+    giminė linko ieškoti globos pas švedus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jaunutis]]
+- [[objektai/asmenys/Linkas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Petras I Didysis]]
+- [[objektai/posakiai/saksų laikų]]
+- [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]

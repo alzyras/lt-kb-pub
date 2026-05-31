@@ -88,3 +88,13 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/asmenys/Konradas Štangė]]
+- [[objektai/zodynas/papilys]]

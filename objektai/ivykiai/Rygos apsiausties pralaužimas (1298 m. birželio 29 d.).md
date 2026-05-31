@@ -100,7 +100,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Bertoldas (pranciškonas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

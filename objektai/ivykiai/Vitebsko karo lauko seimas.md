@@ -61,6 +61,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
+- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]

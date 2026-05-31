@@ -42,6 +42,10 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   teiginys: 'Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Tuo lai­ ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių už tūkstantį grivinų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -93,3 +97,23 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tuo lai­ ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių už tūkstantį grivinų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ištisi kaimai visoje kunigaikš­
+    tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­
+    imtų į nelaisvę priskaičiuota iki devynių tūkstančių. Tuo lai­
+    ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos
+    (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių
+    ir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per
+    pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
+    iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
+    kardo, kiti į nelaisvę papuolę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

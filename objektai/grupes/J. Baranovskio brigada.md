@@ -59,3 +59,4 @@ Baranovskio brigada atakuoja 2-ojo pėst.
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/M. Butkievičiaus kavalerijos brigada]]
+- [[objektai/grupes/brigada]]

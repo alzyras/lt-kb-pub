@@ -82,4 +82,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba|Lietuvos SSR liaudies komisarų taryba (institucija)]]
 - [[objektai/zodynas/savanoriškumo kamufliažas]]

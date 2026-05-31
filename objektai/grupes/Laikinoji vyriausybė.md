@@ -113,9 +113,17 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Voldemarininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/autoriai/Juozas Ambrazevičius]]
+- [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
+- [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
 - [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]
 - [[objektai/posakiai/„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“]]

@@ -101,3 +101,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/referentūra]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/emigracijos bendrovės]]

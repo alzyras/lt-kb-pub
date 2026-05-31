@@ -10,16 +10,16 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "Lietuvos Metrikos išrašų ir Vilniaus istorijos medžiagos rinkimo kontekstas"
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys:
   - autorius
   - mokslininkas
 susije_irasai: []
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags:
@@ -45,7 +45,10 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Malevskio pareigos ir pagalba Balinskio medžiagai apie Vilnių.
@@ -74,6 +77,31 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­ sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Įgudęs lietuvių istorijos žinovas Ig­
+    nacas Onacevičius su retai sutinkamu palankumu atidavė man
+    savo pastabas ir įdomias žinias, tam darbui pritinkančias. Moks­
+    lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas
+    už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos
+    turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi­
+    sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus Malevskis,
+    senosios Lietuvos Metrikos padalinio, priskirto Senato Trečiajam
+    departamentui, viršininkas, mano medžiagos rinkiniams iš mi­
+    nėtos Metrikos parūpino gausių išrašų apie Vilnių. Negaliu taip
+    pat nutylėti, kad gerbiamas grafas Adomas Chreptavičius, pri­
+    gimties apdovanotas paslaugumu ir palankumu visiems, kurie
+    mokslo imasi, iš savo turtingos bibliotekos Ščiorsuose man nešė
+    viską, ko tik reikėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

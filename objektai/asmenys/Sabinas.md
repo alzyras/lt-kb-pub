@@ -54,3 +54,6 @@ Dusburgietis teigia, kad sabinas subūrė brolių kariuomenę ir ją išdėstė 
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje]]
+- [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
+- [[objektai/zodynas/miesto sargybos viršininkas]]

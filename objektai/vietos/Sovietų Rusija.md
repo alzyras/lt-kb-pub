@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1919 m.'
   - '1920 m.'
   - '2013 m.'
   - '2026 m.'
@@ -17,7 +18,7 @@ periodo_grupes:
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1920'
+date_start: '1919'
 date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
@@ -54,6 +55,10 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   teiginys: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pretendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,3 +126,20 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pretendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovoti teko keliais frontais, nes dar viena šalis, Rusija, visuomet pre-
+    tendavo į LDK palikimą ir Lietuvą, kaip jos sudedamąją dalį. Tačiau pi-
+    lietinio karo metais, spaudžiama baltųjų kariuomenių, Sovietų Rusija
+    1919 m. rugsėjį ėmėsi iniciatyvos, – pasiūlė Lietuvai, Latvijai ir Estijai
+    pradėti taikos derybas, taip de facto pripažindama tas valstybes ir susti-
+    prindama jų pozicijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

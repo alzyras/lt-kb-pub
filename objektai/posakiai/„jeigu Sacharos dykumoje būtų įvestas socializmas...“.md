@@ -61,3 +61,10 @@ tags:
   pagrindžia:
     - t-001
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Duona]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/deficitas talonai]]

@@ -66,6 +66,10 @@ Nenurodyta
   teiginys: '1383 m. kryžiuočiams puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -154,6 +158,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau
+    lietuviai sunaikino pilies priešakinius įtvir-
+    tinimus ir užpylė griovius, kryžiuočiai iš
+    papilio buvo priversti trauktis į pačią pilį.
+
+    Po keturių savaičių apgulties, po dauge-
+    lio susidūrimų meistras Hermanas vienoje
+    pilies angoje pastatė bombardą prieš lie-
+    tuvius, tačiau lietuviai, priešpriešiais įtaisę
+    tokį pat pabūklą, užmušė minėtą meistrą.
+    Po sunkių kovų buvo „pilyje daug brolių
+    sužeistų, netinkamų gynybai , tačiau juos
+    keitė sveikieji.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
@@ -162,3 +190,13 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/bombarda]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila]]

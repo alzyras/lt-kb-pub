@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -44,6 +50,10 @@ Nenurodyta
   teiginys: 'Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies seimą dalyvavo 95 proc.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Prieš pat rinkimus, liepos 11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,3 +92,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Prieš pat rinkimus, liepos 11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prieš pat rinkimus, liepos
+    11–12 dieną, valdžia suėmė kelis šimtus žinomų šalies veikėjų.
+    Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
+    seimą dalyvavo 95 proc. (per rinkimus į pasus buvo dedami antspaudai),
+
+    L I E T U V O S  I S T O R I J A
+    192
+    iš jų 99,19 proc.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/zodynas/aneksija]]
+- [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/zodynas/liaudies priešai]]

@@ -9,14 +9,6 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "1830-1831 m. sukilimo kontekstas"
-datos:
-  - "1830 m. ruduo"
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XIX"
-date_start: "1830"
-date_end: "1831"
 vaidmenys:
   - "sukilimo organizacinis komitetas"
 dalyviai:
@@ -28,6 +20,16 @@ dalyviai:
   - "Mykolas Balinskis"
   - "Liudvikas Zambrzyckis"
 susije_irasai: []
+datos:
+  - '1830 m.'
+  - '1831 m.'
+periodas: 'naujieji_laikai'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1830'
+date_end: '1831'
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags: []
@@ -82,7 +84,10 @@ Sukilimo organizacinis komitetas.
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Komiteto susikūrimas, sudėtis ir paskirtis.
@@ -105,10 +110,36 @@ Sukilimo organizacinis komitetas.
     - t-001
     - t-002
     - t-003
+- c-002
+  santrauka: 'Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­ onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­ kas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­
+    niuje susikūrė sukilimo centrinis komitetas, kuriam priklausė
+    Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Le­
+    onas Rogalskis, Edvardas Riomeris, Mykolas Balinskis, Liudvi­
+    kas Zambrzyckis. Šis komitetas turėjo organizuoti sukilimą va­
+    karinėse Rusijos imperijos gubernijose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Aleksandras Balinskis]]
 - [[objektai/asmenys/Liudvikas]]
+- [[objektai/asmenys/Mykolas]]
 - [[objektai/autoriai/Mykolas Balinskis]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
+- [[objektai/asmenys/Antanas Goreckis]]
+- [[objektai/asmenys/Edvardas Riomeris]]
+- [[objektai/asmenys/Justinas Hrebnickis]]
+- [[objektai/asmenys/Leonas Rogalskis]]
+- [[objektai/asmenys/Stanislovas Šumskis]]
+- [[objektai/ivykiai/Vilniaus sukilimo centrinio komiteto susikūrimas]]

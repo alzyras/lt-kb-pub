@@ -68,6 +68,13 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/David Gilmour]]
+- [[objektai/asmenys/Eric Clapton]]
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/asmenys/George Harrison]]
+- [[objektai/asmenys/Keith Richards]]
+- [[objektai/asmenys/Nadine Gordimer]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/daiktai/Gitara „Zemaitis“]]
 - [[objektai/asmenys/Leonard Cohen]]
-- [[objektai/zodynas/Bendrinė sąvoka]]

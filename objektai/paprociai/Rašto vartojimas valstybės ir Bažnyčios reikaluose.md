@@ -112,5 +112,10 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Gudai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/zodynas/gudų rašto kalba]]

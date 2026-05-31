@@ -1,0 +1,102 @@
+---
+tipas: ivykis
+pavadinimas: 'Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1398 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1398'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - didikas
+  - ivykis
+  - kunigaikštis
+  - ordinas
+---
+# Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)
+
+## Santrauka
+
+1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1. Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune).
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: '1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune).'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1398 m. Gardine padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas: 1.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tų visų faktų akivaiz­
+    doje, Vytautas visų pirma pasistengė susitaikinti su Ordinu, kad
+    turėtų laisvas rankas Rytuose ir su lenkais. 1398 m. Gardine
+    padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas:
+
+    1. Atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo jam pa­
+    dėti pastatyti dvi ar tris pilis. 2. Abi pusės prižadėjo paleisti
+    belaisvius, jų skaičiuj ir Vytauto brolį Zigmantą. 3. Vytautas
+    padės užkariauti Ordinui Pskovą, o šis Vytautui — Naugardą
+    D. 4. Nepraleis jokios kariuomenės per savo žemes, einančios
+    prieš kryžiuočius. 5. Jei Ordinas pageidautų, Vytautas turi,
+    jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­
+    tinta Jogailos^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iškilmingas tos sutarties ratifikavimas (patvir­
+    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
+    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
+    mijos ir Sambijos vyskupai ir daug komtūrų. Iš lietuvių pusės
+    dalyvavo Vytautas su žmona Ona, daugybė kunigaikščių, bajo­
+    rų ir palydovų. Sutartį ratifikavus, Ordinas pakvietė Vytautą
+    ir jo visus didikus į puotą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

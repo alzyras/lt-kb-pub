@@ -221,3 +221,16 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
+
+### Susiję objektai
+- [[objektai/zodynas/Kilmingieji]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Otokaras II]]
+- [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]

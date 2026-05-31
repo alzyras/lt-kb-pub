@@ -86,3 +86,8 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
   patikimumo_pagrindimas: "Citata tiesiogiai mini Cornerio kroniką tarp vėlesnių kronikininkų."
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]
+- [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]

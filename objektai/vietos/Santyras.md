@@ -57,6 +57,10 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   teiginys: 'Dusburgietis teigia, kad apie Marienburgo pilies pastatymą 1280 viešpaties metais Santyro pilis, pakeitus jos vardą bei vietą, buvo perkelta ten, kur dabar tebestovi, ir pavadinta Marienburgu, tai yra šventos Marijos pilimi, kurios šlovei bei garbei ji čia ir buvo perkelta500.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid B.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro II 1210 m. žygis prieš Prūsiją ir Sembą, turėjusias kuriam laikui pripažinti Danijos feodalų valdžią, Kristijono būstine tapo Santyras (vieni mano, kad tai buvusi vietinio prūso dovana, kiti — kad Santyrą.'
@@ -171,3 +175,17 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo pilį 1280 m. (Schmid B.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    miestas gavo lokacinę
+    privilegiją. Ordino konventas perkeltas iš Santyro  į Marienburgo pilį 1280 m. (Schmid
+    B.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

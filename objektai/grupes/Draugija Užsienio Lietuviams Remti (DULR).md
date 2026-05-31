@@ -243,4 +243,7 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Draugija užsienio lietuviams remti]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]

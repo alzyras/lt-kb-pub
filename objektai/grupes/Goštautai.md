@@ -43,6 +43,12 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Oginskiai]]
+- [[objektai/asmenys/Albrechtas Radvila]]
+- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas]]
+- [[objektai/daiktai/Kardinalijos namų kompleksas]]
 - [[objektai/grupes/Tiškevičiai]]
 - [[objektai/grupes/Valavičiai]]
+- [[objektai/grupes/Radvilos]]

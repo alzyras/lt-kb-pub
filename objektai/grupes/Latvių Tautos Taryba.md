@@ -8,6 +8,12 @@ aliases:
   - 'Latvių Tautos Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -33,7 +39,10 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Kai Rusijoje kilo revoliucija, beveik visa Latvija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią visą Pabaltijį.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.'
@@ -70,6 +79,24 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kai Rusijoje kilo revoliucija, beveik visa Latvija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią visą Pabaltijį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kai Rusijoje kilo revoliucija, beveik visa Lat-
+    vija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią
+    visą Pabaltijį. Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
+    sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
+    komitetu ėmė rūpintis sukurti nepriklausomą Latviją. Bolševi-
+    kai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko
+    vokiečių valdžioje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -77,4 +104,5 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/ivykiai/Nepriklausomosios Latvių valstybės įkūrimas (1918 m. lapkričio 18 d.)]]
 - [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]

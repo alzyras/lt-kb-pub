@@ -12,11 +12,14 @@ aliases:
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1966 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1966'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -50,6 +53,11 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   teiginys: 'Dusburgietis teigia, kad 191—192; Batūra R., Karinė..., р.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Batūra rašė : XIII a.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis teigia, kad rOMAS BATŪRA международный конгресс.'
@@ -145,6 +153,20 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Batūra rašė : XIII a.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    R. Batūra rašė : _XIII a. Lietuvos sostinės
+    klausimu_ (AkMD, t. 20, 1966, 141-163 p.) ir apie lietuvių kovas su
+    totoriais^109.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -152,3 +174,9 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Treniota]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Batūra R]]
+- [[objektai/autoriai/Paszkiewicz H]]

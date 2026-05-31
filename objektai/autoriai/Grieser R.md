@@ -46,7 +46,3 @@ Dusburgietis teigia, kad žodis dažnai apibūdina gyvenvietę iki miesto privil
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]

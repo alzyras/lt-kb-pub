@@ -56,10 +56,11 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/posakiai/šio šventojo žygio atminimas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/asmenys/Jėzus Kristus]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

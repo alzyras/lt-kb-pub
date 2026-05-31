@@ -7,15 +7,16 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XI a.'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XI'
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 atnaujinta: '2026-05-02'
 tags: []
@@ -48,6 +49,10 @@ Nenurodyta
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,9 +72,25 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-002
+  santrauka: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Vikingų epo-
+    choje prie jūros gyvenusiems prūsams ir kuršiams teko atremti
+    plėšikaujančius skandinavus. Tiesa, kuršiai XI a. jau ir patys reng-
+    davo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Vikingai]]
+- [[objektai/grupes/Skandinavai]]

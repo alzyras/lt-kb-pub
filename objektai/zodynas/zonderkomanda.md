@@ -58,5 +58,13 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Heinricho Hamano skrajojantis būrys]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]
+- [[objektai/zodynas/komendantūra]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Andrejaus Vlasovo armija]]
+- [[objektai/grupes/Heinricho Hamano skrajojantis būrys]]
+- [[objektai/zodynas/akcijos]]
+- [[objektai/ivykiai/Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)]]
+- [[objektai/grupes/Tautinės darbo apsaugos batalionas]]

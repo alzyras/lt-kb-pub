@@ -75,3 +75,7 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Planinė ekonomika]]

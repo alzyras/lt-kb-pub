@@ -7,6 +7,8 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1503 m.'
+  - '1507 m.'
   - '1519 m.'
   - '1562 m.'
   - '1569 m.'
@@ -20,7 +22,7 @@ periodo_grupes:
 amziai:
   - 'XVI'
   - 'XVIII'
-date_start: '1519'
+date_start: '1503'
 date_end: '1787'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
@@ -76,6 +78,22 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Europos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvoje, tai yra europinės reikšmės riba.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino 1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -221,3 +239,79 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Europos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvoje, tai yra europinės reikšmės riba.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba. Maskva XV–XVI a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Po dešimtmečio čia pa-
+    sirodė įspūdingas leidybos kūrinys – „Brastos Biblija“. Vėliau Radvila Juo-
+    dasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
+
+    Lietuvos kariuomenės mobilizacija, vadai
+    ir pirmieji susidūrimai
+
+    Staigus totorių įsiveržimas sutrukdė jų
+    veiksmus patyrusių paliestų pavietų ba-
+    jorijai mobilizuotis, o jų mažesnių būrių
+
+    Vilnius Aleksandro valdymo laikais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino 1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mirė 1507 metais.
+    11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
+    ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
+    1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013

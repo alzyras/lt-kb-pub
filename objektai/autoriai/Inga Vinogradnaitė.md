@@ -82,4 +82,9 @@ Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerij
 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/ivykiai/Mindaugo karūnacija]]
 - [[objektai/grupes/Vilniaus universiteto leidykla]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]

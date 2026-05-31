@@ -79,3 +79,10 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Pacai]]
+- [[objektai/zodynas/bajorija]]

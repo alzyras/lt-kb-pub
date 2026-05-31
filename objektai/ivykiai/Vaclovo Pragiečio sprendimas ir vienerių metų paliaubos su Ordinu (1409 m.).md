@@ -77,6 +77,7 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Čekai]]

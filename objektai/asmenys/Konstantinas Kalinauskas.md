@@ -113,5 +113,10 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/zodynas/generalgubernatorius]]
+- [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/ivykiai/1863 m. sukilimo pradžia|1863 m. sukilimo pradžia (sukilimas)]]
 - [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje]]
+- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]

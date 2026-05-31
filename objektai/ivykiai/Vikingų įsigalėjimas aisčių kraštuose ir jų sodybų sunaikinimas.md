@@ -75,3 +75,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Skandinavai]]
+- [[objektai/grupes/Vikingai]]

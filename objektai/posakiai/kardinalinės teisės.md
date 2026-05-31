@@ -115,4 +115,14 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Varpai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kitatikiai]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]
+- [[objektai/zodynas/pacta conventa]]
+- [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]

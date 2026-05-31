@@ -62,9 +62,11 @@ Nenurodyta
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
 - [[objektai/ivykiai/Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas)]]
 - [[objektai/grupes/Saksų dinastija]]
+- [[objektai/grupes/Vazų dinastija]]

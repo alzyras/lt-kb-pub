@@ -76,3 +76,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
+- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
+- [[objektai/grupes/Vokiečiai]]

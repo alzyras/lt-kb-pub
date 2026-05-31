@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -36,9 +42,33 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'Sovietai dar pavasarį slapta permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias diversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
-
+- c-004
+  santrauka: 'Sovietai dar pavasarį slapta permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias diversines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sovietai dar pavasarį slapta
+    permetė į Lietuvos miestus lietuviškai kalbėti apmokytas specialias di-
+    versines karo žvalgybos grupes valdžiai paimti, prieš pat invaziją pradėjo
+    Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo
+    kelis Lietuvos pasienio postus, nukovė pasienio policininką, kitą pagrobė,
+    kelis postus nuginklavo.
+    Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
+    ar priešintis okupacijai, ar priimti ultimatumą. Ginkluoto pasipriešinimo
+    idėją stabdė tai, kad tokiu atveju būtų įstota į ateities Anglijos ir Pran-
+    cūzijos (ir JAV, gal ir SSRS) priešų bloką, o tokia Lietuva po karo būtų
+    skaudžiai nubausta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: '1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.'

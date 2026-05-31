@@ -99,3 +99,17 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas]]
+- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio iniciatyvinės grupės įsteigimas (1988 m. birželio 3 d.)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
+- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]

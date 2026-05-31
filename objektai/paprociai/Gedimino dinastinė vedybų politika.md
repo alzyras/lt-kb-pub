@@ -139,3 +139,19 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Sluckiai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]

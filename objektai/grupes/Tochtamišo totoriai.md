@@ -45,7 +45,10 @@ tags:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: '.“ Atrodo, kad kai ## Puslapis 57 Tochtamišo daliniai vietoje to, kad kovotų su Timūru, pirmi pasitraukė iš mūšio ir metėsi plėšti krikščionių stovyklas, tada pasikeitė mūšio eiga, nes jungtinei Vytauto kariuomenei tai buvo smūgis į užnugarį.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių.'
@@ -122,6 +125,30 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '.“ Atrodo, kad kai ## Puslapis 57 Tochtamišo daliniai vietoje to, kad kovotų su Timūru, pirmi pasitraukė iš mūšio ir metėsi plėšti krikščionių stovyklas, tada pasikeitė mūšio eiga, nes jungtinei Vytauto kariuomenei tai buvo smūgis į užnugarį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    .“ Atrodo, kad kai
+
+    ## Puslapis 57
+
+    Tochtamišo daliniai vietoje to, kad kovotų
+    su Timūru, pirmi pasitraukė iš mūšio ir
+    metėsi plėšti krikščionių stovyklas, tada
+    pasikeitė mūšio eiga, nes jungtinei Vytauto
+    kariuomenei tai buvo smūgis į užnugarį.
+    Tochtamišo karių dalis, jau prieš mūšį su-
+    sisiekusi su priešais, galėjo pereiti į chano
+    Timūr-Kutluko šalininkų pusę (greta sto-
+    vėta keletą dienų).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -139,6 +166,7 @@ tags:
 - [[objektai/ivykiai/Vorsklos katastrofa]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]

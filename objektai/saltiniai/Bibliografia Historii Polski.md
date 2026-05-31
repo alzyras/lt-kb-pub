@@ -39,9 +39,27 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Kolektyvinė PAN Istorijos Instituto 1965-67 m. Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
-
+- c-003
+  santrauka: 'Kolektyvinė PAN Istorijos Instituto 1965-67 m. Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kolektyvinė PAN Istorijos Instituto 1965-67 m. Varšuvoje išleistoji**
+    **_Bibliografia Historii Polski_** **kiek mažiau dėmesio beparodo Lietuvos istorijai.
+    Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos
+    bendrų Lietuvos ir Lenkijos istorijos klausimų, šitas bibliografinis veikalas
+    pasidaro gana svarbus Lietuvos istorijos tyrinėtojui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparodo Lietuvos istorijai.'

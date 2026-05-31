@@ -110,3 +110,11 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laidotuvės]]
+
+### Susiję objektai
+- [[objektai/asmenys/Krivis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/zodynas/vergai]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/zodynas/prastuomenė communis populus ignobiles|prastuomenė / communis populus / ignobiles]]

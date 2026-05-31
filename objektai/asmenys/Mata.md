@@ -105,3 +105,4 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
 - [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/krikščioniškieji plėšikautojai]]
 - [[objektai/zodynas/latrunkuliai]]
+- [[objektai/grupes/Pamedėnai]]

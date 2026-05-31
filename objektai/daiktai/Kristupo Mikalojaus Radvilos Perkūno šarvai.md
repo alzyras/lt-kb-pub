@@ -69,6 +69,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Maskvėnai]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/grupes/Radvilos]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/daiktai/Šarvai]]

@@ -42,7 +42,10 @@ tags:
   teiginys: 'Benjaminas W. Dwightas teigė, kad lietuvių kalba turi daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'IV s k y r i u s LIETUVOS VALSTYBĖS ATKŪRIMAS „Iš visų Europos kalbų lietuvių kalba turi didžiausią skaičių maloninių ir mažybinių žodžių, daugiau, negu ispanų ar italų kalbos, netgi rusų, ir jie gali būti dauginami be galo, pridedant juos prie veiksmažodžių.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Posakyje teigiama, kad lietuvių kalba iš Europos kalbų turi daugiausia maloninių ir mažybinių žodžių.'
@@ -109,7 +112,10 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Benjamin W. Dwight]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

@@ -48,6 +48,14 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   teiginys: 'Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio iš miesto į Užupį, už Vilnelės.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą palei tavo malūną prie kelio, vedan­ čio iš miesto į Užupį, už Vilnelės.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -125,3 +133,47 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '356 ## Puslapis 373 IV KNYGA ALEKSANDRO JOGAILAIČIO DOVANOJIMAS VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE 1493 METAIS (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje) Šis aktas, surašytas gryna.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiame laiške po parašais yra penki antspaudai.
+    356
+
+    ## Puslapis 373
+
+    IV KNYGA
+    ALEKSANDRO JOGAILAIČIO DOVANOJIMAS
+    VILNIAUS MIESTIEČIUI MAKSIMUI VASILJEVIČIUI
+    PIEVOS TIES VAIVADOS MALŪNU, UŽUPYJE, VILNIUJE
+    1493 METAIS
+    (Iš originalo, esančio Vilniuje, Radvilų archyve, Kardinali joje)
+    Šis aktas, surašytas gryna slavų kalba, ant popieriaus in
+    4to, puikiausiai išsilaikęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Dovanojame Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą palei tavo malūną prie kelio, vedan­ čio iš miesto į Užupį, už Vilnelės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    PATS ALEKSANDRAS,
+    DIEVO MALONE DIDYSIS LIETUVOS,
+    RUSIOS, ŽEMAIČIŲ IR KITŲ
+    KUNIGAIKŠTIS
+    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
+    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
+    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
+    čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
+    vaikams visiems laikams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

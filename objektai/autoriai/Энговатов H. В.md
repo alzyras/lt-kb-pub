@@ -50,4 +50,6 @@ Dusburgietis teigia, kad б., Энговатов H.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Galindai]]
+- [[objektai/autoriai/Vanagas A]]
+- [[objektai/autoriai/Вилинбахов В. Б]]
 - [[objektai/autoriai/Топоров B. H]]

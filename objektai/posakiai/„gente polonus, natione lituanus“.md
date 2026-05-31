@@ -45,3 +45,6 @@ Pavyzdžiui, „gente polonus, natione lituanus“, ir „Лiцвiны грэц�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/formulė]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]

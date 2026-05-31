@@ -150,6 +150,15 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/unija]]
+- [[objektai/posakiai/„prišlieti“]]
+- [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
+- [[objektai/zodynas/applicare prišlieti]]

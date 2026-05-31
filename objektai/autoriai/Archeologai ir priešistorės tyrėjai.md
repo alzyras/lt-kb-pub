@@ -126,5 +126,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Kovos kirviai]]
 - [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/zodynas/feodalizmas]]
+- [[objektai/grupes/Lietuviai]]

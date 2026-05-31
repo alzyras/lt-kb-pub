@@ -55,6 +55,10 @@ Nenurodyta
   teiginys: 'Ekonomikos susovietinimas Unifikuodami visų sovietinių respublikų gyvenimą, sovietai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Pagal naują tvarką į valstybinį žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat perduota konfiskuota partizanų ir tremtinių žemė.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -97,3 +101,27 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Pagal naują tvarką į valstybinį žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat perduota konfiskuota partizanų ir tremtinių žemė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pagal naują tvarką į valstybinį
+    žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų
+    į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat per-
+    duota konfiskuota partizanų ir tremtinių žemė. 1948 m. pavasarį kolek-
+    tyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą,
+    todėl pirmiausia imtasi priemonių prieš pasiturinčius valstiečius – jiems
+    palikta iki 30 ha žemės, jie vadinami „buožėmis“, taip pat tuos, kurie nau-
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    215
+    dojo samdomąjį darbą, turėjo žemės ūkio mašinų (kuliamųjų, traktorių,
+    variklių), malūnų, lentpjūvių, nuomojo kitiems valstiečiams gyvulius ar
+    skolino grūdus, darbo įrankius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

@@ -7,7 +7,7 @@ variantai:
   - rašliava
 aliases: []
 saltiniai:
-  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 laikotarpis: ""
 vaidmenys: []
 dalyviai: []
@@ -65,6 +65,14 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
   teiginys: '479 Spaudė „Šviesos" spaustuvė Kaune Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai paūgėjo.'
   pagrindžia:
     - c-004
+- t-008
+  teiginys: 'Knygų Leidimo Komisijos leidinys Nr. 479 Spaudė „Šviesos" spaustuvė Kaune Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai paūgėjo.'
+  pagrindžia:
+    - c-005
+- t-009
+  teiginys: 'Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo publicistišką charakterį.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -125,6 +133,43 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Knygų Leidimo Komisijos leidinys Nr. 479 Spaudė „Šviesos" spaustuvė Kaune Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai paūgėjo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Knygų Leidimo Komisijos leidinys Nr. 479
+    Spaudė „Šviesos" spaustuvė Kaune
+
+    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
+    ūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę
+    mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
+    ir naujųjų laikų įvykius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-006
+  santrauka: 'Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo publicistišką charakterį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jie nuro-
+    dinėja, kad Lietuvos vargai prasidėję tik susidėjus su Lenkija,
+    ir visos blogybės — valstybinis pakrikimas, tarpusavio nesantaika
+    — ateinančios tik iš Lenkijos; anksčiau Lietuvoje to nebuvę, to-
+    dėl dėtis į uniją su tokia valstybe Lietuvai nesą jokio reikalo.
+    Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
+    publicistišką charakterį.
+    **Kalbų vartojimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Šaltiniai ir įrodymai
 
@@ -132,6 +177,8 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/unija]]
 - [[objektai/autoriai/K. Duonelaitis]]
 - [[objektai/autoriai/Rėza (leidėjas, 1818 m.)]]
 - [[objektai/zodynas/germanizacija]]

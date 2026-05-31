@@ -222,3 +222,15 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/daiktai/Papuošalai]]
+- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
+- [[objektai/autoriai/Wulfstanas]]
+- [[objektai/zodynas/Vėlė|vėlė]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/zodynas/žirgų kapai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuviai]]

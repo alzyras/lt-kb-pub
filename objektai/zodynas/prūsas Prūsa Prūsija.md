@@ -178,4 +178,5 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/MINTIS]]
 - [[objektai/autoriai/Vydūnas]]

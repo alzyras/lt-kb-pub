@@ -32,7 +32,10 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Gavusi erdvės įsibėgėjimui, dar kartą smogė dešinioji lietuvių kolona.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bychoveco kronikoje rašyta, kad LDK daliniai taip suspaudė totorius, jog šie negalėjo „nei akių, nei rankos pakelti prieš lietuvių kariuomenę“.'
@@ -59,6 +62,26 @@ Anot Bychoveco kronikos, LDK daliniai taip suspaudė totorius, kad jie nebegalė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Gavusi erdvės įsibėgėjimui, dar kartą smogė dešinioji lietuvių kolona.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Gavusi erdvės įsibėgėjimui, dar kartą smogė
+    dešinioji lietuvių kolona. Anot Bychoveco
+    kronikos, LDK daliniai taip suspaudė toto-
+    rius, kad jie nebegalėjo aktyviai priešintis
+    („totoriai ne tik negalėjo kautis, bet nei akių,
+    nei rankos pakelti prieš lietuvių kariuo-
+    menę“). Neatlaikiusi tokio spaudimo,
+    totorių rikiuotė suiro ir pradėjo
+    masiškai bėgti iš mūšio lauko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -38,6 +38,11 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   teiginys: 'Dusburgietis teigia, kad toliau Dusburgietis pabrėžia, jog artėja pavojų metas, o žmonės ieško „vien to, kas jų, o ne Jėzaus Kristaus“, todėl šaukiasi į Kristų, prašydamas suteikti jiems dvasios įžvalgumo, kad būtų „suniekinti visi, kurie tavo tarnams daro bloga“.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.'
@@ -90,3 +95,27 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie, atsisakę kilmingų titulų, prabangių drabužių ir kt., nuolankiai dirbo paprasčiausius darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Jau kronikos pratarmėje autorius idealizuoja pirmuosius Ordino brolius, kurie,
+    atsisakę kilmingų  titulų, prabangių drabužių  ir  kt., nuolankiai dirbo paprasčiausius
+    darbus; pasirinko neturtą, pavojus, rūpesčius ir vienatvę, vilkėjo ašutines arba šarvus,
+    kiekvienu momentu pasiryžę  ginti tikėjimą kare su netikėliais. Štai tokių didžiulių
+    „stebuklų padarė aukščiausias dievas per minėtuosius brolius Prūsijos žemėje“.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Šarvai]]
+- [[objektai/paprociai/Ankstyvųjų Ordino brolių asketinio gyvenimo idealas]]
+- [[objektai/zodynas/netikėliai]]

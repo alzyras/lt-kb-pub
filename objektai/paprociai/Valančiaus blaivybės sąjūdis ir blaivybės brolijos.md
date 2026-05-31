@@ -104,3 +104,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Motiejus]]
 - [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/grupes/Blaivybės brolijos]]

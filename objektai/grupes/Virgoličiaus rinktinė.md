@@ -60,3 +60,4 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Virgoličius]]
+- [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]

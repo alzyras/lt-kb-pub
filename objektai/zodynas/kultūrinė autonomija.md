@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1794 m.'
+  - '1805 m.'
+  - '1806 m.'
+  - '1922 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XVIII'
+  - 'XIX'
+  - 'XX'
+date_start: '1794'
+date_end: '1922'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -37,6 +52,10 @@ tags:
   teiginys: 'Vokiečių ir lenkų mažumos darė žygių gauti tautinę autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -87,10 +106,44 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    .
+    Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant
+    1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei auto-
+    nomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad
+
+    L I E T U V O S  I S T O R I J A
+    168
+    nesusidarytų valstybė valstybėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
+- [[objektai/zodynas/Antisemitizmas]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/S. Rozenbaumas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/zodynas/autokratinė monarchinė imperija]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/gubernija apskritis (ujezd)]]
+- [[objektai/zodynas/Tautinės mažumos]]
+- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]
+- [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]
+- [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]

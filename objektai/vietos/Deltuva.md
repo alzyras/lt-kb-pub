@@ -32,7 +32,10 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.'
@@ -51,3 +54,20 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taip pat turėtų duoti dešimtinę ir
+    rusas Martynas, dvaro, vadinamo Pečiuškių ar Čisvičių, o
+    dar anksčiau Peškonių, savininkas. Taip ir Jonas Jurevičius
+    iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek
+    iš pirktų žemių ir privažiuojamų
+    .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

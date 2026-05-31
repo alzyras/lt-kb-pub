@@ -14,6 +14,15 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1375 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1375'
+date_end: ''
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-28'
 tags:
@@ -58,6 +67,19 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
+  pagrindžia:
+    - c-008
+- t-007
+  teiginys: 'Nuo XII amž. antros pusės yra žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų prekybos respublikų (Pskovo, Novgorodo) šiaurėje.'
+  pagrindžia:
+    - c-009
+- t-008
+  teiginys: 'Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją priversti paklusti.'
+  pagrindžia:
+    - c-010
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Didžiojo Naugardo plotai rodomi kaip lietuvių žygių pasiekiama erdvė.
@@ -170,9 +192,84 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-004
+- c-008
+  santrauka: 'Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Todėl suprantama,
+
+
+    (^122) I SKYRIUS: LIETUVOS PROISTORĖ
+    kodėl lietuvių kunigaikščiai nuvesdavo savo karinius būrius gana
+    toli, kur buvo daugiau ko grobti. Jie pasiekdavo plotus turtingųjų
+    Didžiojo Naugardo ir Pskovo respublikų. Rytuose jie atsitrenkdavo
+    į tolimus Dniepro plotus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-009
+  santrauka: 'Nuo XII amž. antros pusės yra žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų prekybos respublikų (Pskovo, Novgorodo) šiaurėje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuvių žygiuose kartais dalyvaudavo
+    net keliolika atskiras plačias gimines atstovaujančių kunigų, kurie
+    iš savo tarpo išsirinkdavo vadą. Nuo XII amž. antros pusės yra
+    žinomi tokių burių ginkluoti plėšiamieji puolimai iki pat turtingųjų
+    prekybos respublikų (Pskovo, Novgorodo) šiaurėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-010
+  santrauka: 'Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją priversti paklusti.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ilgą laiką panašiai buvo ir su Naugardo
+    respublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo
+    mirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375
+    D. Naugardas su Dimitru padarė sutartį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/proistorė]]
+- [[objektai/asmenys/Chariničius]]
+- [[objektai/grupes/Didžiojo Naugardo bojarinai]]
+- [[objektai/asmenys/Ivanas Jermoliničius]]
+- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Pamario kunigaikščių sąjunga]]
+- [[objektai/asmenys/Patrikas, arba Patricijus]]
+- [[objektai/asmenys/Paulius Rusdorfas]]
+- [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
+- [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris]]
+- [[objektai/grupes/Pskovo respublika]]
+- [[objektai/asmenys/Simonas Lengvenis]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
+- [[objektai/zodynas/bojarinai]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Lengvenis]]
 - [[objektai/grupes/Naugardo respublika]]
 - [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]

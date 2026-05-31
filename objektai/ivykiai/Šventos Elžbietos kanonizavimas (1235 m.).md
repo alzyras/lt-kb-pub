@@ -83,5 +83,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Altorius]]
-- [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/asmenys/Elžbieta]]

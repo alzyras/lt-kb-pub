@@ -76,6 +76,10 @@ Nenurodyta
   teiginys: 'Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje ir Latvijoje buvusius konclagerius, apie 3,5 tūkst.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -158,7 +162,37 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas
+    leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina
+    mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių
+    antisovietinėmis nuotaikomis. Pirmą nacių okupacijos savaitę daug gy-
+    ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir
+    keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, ku-
+    rias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai. Tačiau
+    naciai, kitaip negu Vakarų Europoje, masines žydų žudynes pradėjo be
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    199
+    pereinamojo laikotarpio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/posakiai/„kovos su judobolševizmu“]]
+- [[objektai/grupes/Lietuvos partizanai]]
+- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
+- [[objektai/grupes/Sovietų Sąjunga]]
+- [[objektai/zodynas/akcijos]]
+- [[objektai/zodynas/getas]]

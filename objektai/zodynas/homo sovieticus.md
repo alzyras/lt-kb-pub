@@ -56,4 +56,11 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/grupes/Raudonoji armija]]
 - [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/etnocidas]]

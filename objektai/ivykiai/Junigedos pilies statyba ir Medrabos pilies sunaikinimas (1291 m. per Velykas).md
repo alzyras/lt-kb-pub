@@ -97,3 +97,10 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/netikėliai]]

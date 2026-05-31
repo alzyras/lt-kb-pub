@@ -121,4 +121,22 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
+- [[objektai/zodynas/inkorporacija]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Europos Sąjunga]]
+- [[objektai/asmenys/Jurgis Šaulys]]
+- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
+- [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
+- [[objektai/ivykiai/Lietuvos ir Rusijos sutarties dėl valstybinės sienos ir Baltijos jūros zonų pasirašymas (1997 m. spalis)]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/grupes/NATO]]
+- [[objektai/asmenys/Steponas Kairys]]
+- [[objektai/zodynas/etnografinės ribos etnografinis principas]]
+- [[objektai/posakiai/„Lithuania Propria“]]
+- [[objektai/ivykiai/Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.)]]
+- [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]

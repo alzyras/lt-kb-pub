@@ -27,6 +27,7 @@ datos:
   - '1410 m.'
   - '1936 m.'
   - '2026 m.'
+  - '1387 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -116,6 +117,46 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   teiginys: 'Dusburgietis teigia, kad apie Sembos žemės nusiaubimą Tų pačių metų rudenį lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembos žemę, sudegino visus pastatus bei pasėlius, tačiau nužudė tik kelis krikščionis, o grobio išsigabeno palyginti nedaug, nes broliai iš.'
   pagrindžia:
     - c-029
+- t-030
+  teiginys: 'Rugpjūtį lietuviai niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėn.'
+  pagrindžia:
+    - c-030
+- t-031
+  teiginys: 'Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę kariuomenės, su kuria norįs nusiaubti Sembos žemę.'
+  pagrindžia:
+    - c-031
+- t-032
+  teiginys: 'Tai sužinoję lietuviai persekiojo priešą, įsiveržė į Sembą, niokojo priešo teritoriją.'
+  pagrindžia:
+    - c-032
+- t-033
+  teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
+  pagrindžia:
+    - c-033
+- t-034
+  teiginys: 'Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis.'
+  pagrindžia:
+    - c-034
+- t-035
+  teiginys: 'Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­ kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo miręs), kartu su savo diecezijos klebonais Elblionge bemat surengė pasitarimą ir.'
+  pagrindžia:
+    - c-035
+- t-036
+  teiginys: 'Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kitas importuotas dirbinys.'
+  pagrindžia:
+    - c-036
+- t-037
+  teiginys: 'Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­ tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus atramos taškas.'
+  pagrindžia:
+    - c-037
+- t-038
+  teiginys: 'Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus).'
+  pagrindžia:
+    - c-038
+- t-039
+  teiginys: 'Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon.'
+  pagrindžia:
+    - c-039
 ## Reikšmingi paminėjimai
 - c-015
   santrauka: 'Citata rodo Sembą kaip Henriko Stangės žiemos žygio karo erdvę.'
@@ -387,3 +428,203 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-029
+- c-030
+  santrauka: 'Rugpjūtį lietuviai niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėn.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kovo viduryje „lietuviai iš Žemaitijos
+    užkariavo Klaipėdos miestą“ ir jį sudegino kartu su trimis gre-
+    timomis kryžiuočiams pavaldžiomis pilimis. Rugpjūtį lietuviai
+    niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėn. - Dob-
+    rynės kunigaikštystę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-031
+  santrauka: 'Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę kariuomenės, su kuria norįs nusiaubti Sembos žemę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    , siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
+    pats užpulti priešo teritoriją, jį dezinformuoja
+    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
+    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
+    riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
+    kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-032
+  santrauka: 'Tai sužinoję lietuviai persekiojo priešą, įsiveržė į Sembą, niokojo priešo teritoriją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Prailgus budėti,
+    tikėdami, kad lietuviai bus pasitraukę, jie
+    grįžo į savo kraštą. Tai sužinoję lietuviai
+    persekiojo priešą, įsiveržė į Sembą, niokojo
+    priešo teritoriją. Akivaizdu, kad Lietuvos
+    karinė vadovybė iš savo žvalgybos laiku
+    gaudavo vertingos informacijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+- c-033
+  santrauka: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    12
+
+    ## Puslapis 29
+
+    VILNIAUS
+    MIESTO
+    ISTORIJA
+    I
+    KNYGA
+    LAIKAI IKI KRIKŠČIONYBĖS ĮVEDIMO -
+    NUO MIESTO ĮKŪRIMO IKI PAT KRIKŠTO PRIĖMIMO
+    VILNIUJE 1387 METAIS
+    Lietuvių tautos kilmė —  Normanai —  Senoji gyvenvietė prie
+    Vilnios upės —  Šventaragis —  Vilnius tampa Gedimino miestu ir
+    sostine —  Įsikūrimas, pradinė padėtis ir miesto valdymas —
+    Jaunučio žlugimas —  Algirdas - Pranciškonų nukankinimas —
+    Kryžiuočių puldinėjimai Algirdo laikais —  Jogailos užmačios —
+    Kova su Kęstučiu —  Vilniaus miestiečių įtaka toje kovoje —
+    Kęstučio mirtis —  Vilniaus padėtis Jogailos laikais —  Mūšis su
+    kryžiuočiais prie miesto ir jo sudeginimas —  Nuniokojamos
+    Vilniaus apylinkės —  Išvejami kryžiuočiai—  Jogaila tampa Lenkijos
+    karaliumi —  Išvykimas į Krokuvą.
+    Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
+    venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos
+    žiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie
+    jų šliejosi estų, gausios suomių padermės atšakos, gyven­
+    vietės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-034
+  santrauka: 'Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­ želio Il dieną, švintant, Ragainės komtūras Tomas Aldenburgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos netikėtai užpuolė Gedimino pilies papilį ir plėnimis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
+    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
+    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
+    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
+    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
+    do8. Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad
+    ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar
+    Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama;
+    antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­
+    rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
+    metais pastatyta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-035
+  santrauka: 'Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­ kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo miręs), kartu su savo diecezijos klebonais Elblionge bemat surengė pasitarimą ir.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nors popiežiaus buvo primygtinai prašoma, kad savo ga­
+    nytojišku žodžiu tą sutartį pripažintų ir patvirtintų0, jis bet­
+    gi nenorėjo to prašymo patenkinti be tolesnio nagrinėjimo,
+    gal to priežastis buvo naujesnės žinios iš Prūsijos.
+    Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­
+    pas Eberhardas, Sembos vyskupas Jonas, Pomezanijos vys­
+    kupas Rudolfas (kadangi Mikolajus Kulmietis neseniai buvo
+    miręs), kartu su savo diecezijos klebonais Elblionge bemat
+    surengė pasitarimą ir pasiuntė laišką vyskupui į Eželį, Ry­
+    gos, Eželio, Dorpato ir Revelio kapituloms, Livonijos ma­
+    gistrui ir visam Ordinui, Danijos karaliaus vietininkui ir
+    visiems Livonijos bei Estijos didikams ir vasalams, daly­
+    vavusiems taikos sutartį sudarant, ir paskelbė tą sutartį
+    esant velnio žabangomis, visam krikščioniškajam pasau­
+    liui gėda, neabejotinai užtrauksiančia pražūtį Prūsijai ir kai­
+    myniniams kraštams. Jie rašo: „Tie velnio sūnūs savo suk­
+    tybėmis klastingai sandėriais taikosi jus ir mus pražudytip.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-036
+  santrauka: 'Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kitas importuotas dirbinys.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuvoje žalvario buvo tiek maža, kad visi įrankiai buvo dar akmeniniai.
+    Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas
+    kitas importuotas dirbinys. Veliuonoje surastas kotinis durklas iš žalvario
+    skirtinas apie 1400 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-037
+  santrauka: 'Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­ tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus atramos taškas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Daugiau ir tikslesniu žinių yra apie Mindaugo santykius su vo­
+    kiečių ordinu. Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai
+    iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­
+    tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus
+    atramos taškas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-038
+  santrauka: 'Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Drauge buvo ir Algirdas su savo būriais. Nuterioję
+    Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­
+    kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). Čia juos pasitiko
+    kryžiuočių kariuomenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+- c-039
+  santrauka: 'Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet (1410.VIII.)
+    Livonijos kariuomenė laivais atvyko Sembon.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039

@@ -46,7 +46,3 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]

@@ -60,3 +60,4 @@ Dabar toji visuomenė davė unijai savo sankciją^2 ).
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]

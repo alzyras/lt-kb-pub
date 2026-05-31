@@ -39,7 +39,10 @@ tags:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Lietuvos kariuomenės pėstininko žieminė kepurė Lietuvos kariuomenės dalinius į rytus, palaipsniui užiminėjo svarbias gelezinkelio stotis ir strategiškai svarbius kelius.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Baltijos valstybių priešas – bermontininkai.'
@@ -88,3 +91,28 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Lietuvos kariuomenės pėstininko žieminė kepurė Lietuvos kariuomenės dalinius į rytus, palaipsniui užiminėjo svarbias gelezinkelio stotis ir strategiškai svarbius kelius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos
+    kariuomenės
+    pėstininko
+    žieminė kepurė
+
+    Lietuvos kariuomenės dalinius į rytus,
+    palaipsniui užiminėjo svarbias gele-
+    zinkelio stotis ir strategiškai svarbius
+    kelius. Bermontininkų rankose atsi-
+    dūrė Šiaurės Lietuva, palaipsniui judė-
+    dami į pietus bermontininkai pasiekė
+    net Raseinius. Lietuvos vyriausybė fak-
+    tiškai nustojo kontroliuoti didžiąją
+    dalį Šiaurės ir Vakarų Lietuvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

@@ -77,5 +77,6 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/ulonai]]
 - [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
 - [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]]

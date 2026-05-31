@@ -55,4 +55,5 @@ Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brol
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]

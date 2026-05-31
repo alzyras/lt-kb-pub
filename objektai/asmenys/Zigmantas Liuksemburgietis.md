@@ -6,16 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos:
-  - '1420 m.'
-  - '1430 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-date_start: '1420'
-date_end: '1430'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -83,7 +79,14 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   teiginys: 'Opuść i ty, błagamy cię, jak najrychlej to 211 Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­ tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot per Lenkiją.'
   pagrindžia:
     - c-010
-
+- t-011
+  teiginys: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Tuo pačiu laiku Zigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat ir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie kiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos.'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją.'
@@ -278,13 +281,65 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
+    po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­
+    mene nusiuntė Zigmantą Kaributą padėti husitams kovose su
+    ciesorium Zigmantu. Vytautas tai darė ne iš simpatijos pačiam
+    husitizmui, bet iš pykčio ant ciesoriaus (in odium Sigismundi),
+    kuris Breslavo sprendimu (142Ü) pripažino Ordinui Žemaičius ir
+    rėmė agresingus jo žygius prieš Vytautą; pats gi kovojo su če­
+    kais, kaip kandidatas į Čekijos sostą. Vytautas jį dabar ir pa­
+    baidė, pasiųsdamas čekams husitams pagalbą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Tuo pačiu laiku Zigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat ir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie kiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis tą reikalą gerai apsvarstęs, pasiūlė su­
+    šaukt kur nors Prūsų pasieny suvažiavimą, žadėdamas dėl jo
+    vietos ir laiko pasitarti kartu su Vytautu^1 ). Tuo pačiu laiku
+    Zigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat
+    ir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie
+    kiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su
+    kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos, Vengrijos ir
+    Čekijos sąjungą prieš Lenkiją. Ne dėl ko kita, kaip sako Pro­
+    chaska, rūpintasi ir Vytauto karūnacija^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Hanza]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vasalas]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/posakiai/in odium Sigismundi]]

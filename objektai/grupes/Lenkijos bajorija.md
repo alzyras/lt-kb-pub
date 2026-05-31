@@ -56,10 +56,8 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/unija]]
+- [[objektai/zodynas/luomas „tauta“]]
 - [[objektai/grupes/Lenkų bajorija]]

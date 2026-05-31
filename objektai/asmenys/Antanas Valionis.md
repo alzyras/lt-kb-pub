@@ -61,3 +61,6 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/grupes/Europos Parlamentas]]
+- [[objektai/grupes/Europos Sąjunga]]

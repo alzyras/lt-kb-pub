@@ -47,6 +47,10 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   teiginys: 'Tas žinias jis sako gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose lankęsis.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII amž. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -116,9 +120,28 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII amž. Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII
+    amž.
+    Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai
+    didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug
+    kariaują.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
 - [[objektai/posakiai/at litus australe Slavi et Aisti et aliae diversae incolunt nationes]]
 - [[objektai/zodynas/kastuvo mokslas]]
 - [[objektai/zodynas/kunigas]]

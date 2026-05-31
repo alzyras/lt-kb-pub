@@ -78,7 +78,6 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/netikėliai]]

@@ -45,3 +45,4 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/posakiai/atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok]]

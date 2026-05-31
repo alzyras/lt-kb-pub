@@ -11,6 +11,12 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1720–1797 m."
+vaidmenys:
+  - "religinis mokslininkas"
+  - "redaktorius"
+  - "komentatorius"
+dalyviai: []
+susije_irasai: []
 datos:
   - '1720 m.'
   - '1797 m.'
@@ -21,12 +27,6 @@ amziai:
   - 'XVIII'
 date_start: '1720'
 date_end: '1797'
-vaidmenys:
-  - "religinis mokslininkas"
-  - "redaktorius"
-  - "komentatorius"
-dalyviai: []
-susije_irasai: []
 patikimumas: "aukštas"
 atnaujinta: '2026-05-14'
 tags:
@@ -81,6 +81,14 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-022
+  teiginys: 'Gaonas ir „Šiaurės Jeruzalė“ Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmenybių pasaulio žydų istorijoje.'
+  pagrindžia:
+    - c-006
+- t-023
+  teiginys: 'Tai kartu paaiškina ir Vilniaus Gaono autoritetą.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
@@ -165,6 +173,45 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-017
+- c-006
+  santrauka: 'Gaonas ir „Šiaurės Jeruzalė“ Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmenybių pasaulio žydų istorijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Glaubicą į pačių reikšmingiausių Lietuvos istorijos
+    asmenų rangą, nes prieš jo nuopelnus nublanksta epochos valdovų darbai.
+    Gaonas ir „Šiaurės Jeruzalė“
+    Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas
+    Elijas (ben Šlomo Zalman Elijahu, 1720–1797) – viena iškiliausių asmeny-
+    bių pasaulio žydų istorijoje. Jo istorinis vaidmuo neatsiejamas nuo didžiulį
+    poveikį visiems žydams turėjusios akcijos – reformistinio sąjūdžio – cha-
+    sidizmo sustabdymo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-007
+  santrauka: 'Tai kartu paaiškina ir Vilniaus Gaono autoritetą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
+    Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
+    ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
+    jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
+    nuo Šventojo Rašto komentarų iki hebrajų kalbos gramatikos ir biblinės
+
+    L I E T U V O S  I S T O R I J A
+    84
+    geografijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Susiję objektai
@@ -173,9 +220,19 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/ješiva]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
+- [[objektai/daiktai/Herbai]]
+- [[objektai/grupes/LCVA]]
+- [[objektai/grupes/LGGRTC Genocido aukų muziejus]]
+- [[objektai/grupes/Litvakai]]
 - [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
+- [[objektai/grupes/Mokslo ir enciklopedijų leidybos centras]]
+- [[objektai/grupes/Vilniaus Gaono valstybinis žydų muziejus]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
+- [[objektai/grupes/Vilniaus romantizmo mokykla]]
+- [[objektai/zodynas/bajoriškoji demokratija]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
 - [[objektai/zodynas/chasidizmas rabinizmas]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

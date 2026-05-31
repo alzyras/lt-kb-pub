@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1432 m.'
   - '1435 m.'
   - '1656 m.'
   - '1657 m.'
@@ -17,7 +18,7 @@ periodo_grupes:
 amziai:
   - 'XV'
   - 'XVII'
-date_start: '1435'
+date_start: '1432'
 date_end: '1696'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -68,7 +69,10 @@ tags:
   teiginys: 'Lietuvos kariuomenė, remiantis S.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: '1432 m. pradžioje derybos tarp lenkų ir lietuvių strigo (tuo metu Jogaila stovėjo Liubline, Švitrigaila su kryžiuočių atstovais - Brastoje).'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1435 m. gruodžio 31 d. sudaryta Bresto taika tarp Lenkijos, Lietuvos Didžiosios Kunigaikštystės ir Vokiečių ordino atstovų.'
@@ -185,3 +189,18 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: '1432 m. pradžioje derybos tarp lenkų ir lietuvių strigo (tuo metu Jogaila stovėjo Liubline, Švitrigaila su kryžiuočių atstovais - Brastoje).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1432 m. pradžioje derybos tarp lenkų
+    ir lietuvių strigo (tuo metu Jogaila sto-
+    vėjo Liubline, Švitrigaila su kryžiuo-
+    čių atstovais - Brastoje). Gegužės 15 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

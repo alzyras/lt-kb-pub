@@ -7,19 +7,21 @@ variantai:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1936 m. (veikalo sudarymo kontekstas); 1919 m.; 1918 m.; 1919–1920 m.'
-datos:
-  - '1918 m.'
-  - '1919 m.'
-  - '1920 m.'
 vaidmenys:
   - 'autorius'
   - 'Vykdomojo Komiteto biuro narys'
   - 'Lietuvos Tarybos narys'
-patikimumas: 'aukštas'
-amziai:
-  - 'XX'
+datos:
+  - '1918 m.'
+  - '1928 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1918'
+date_end: '1928'
+patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
 tags:
   - autorius
@@ -47,42 +49,42 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   teiginys: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 - t-002
   teiginys: 'P. Klimas parašė _Liet. senobės bruožai_.'
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 - t-003
   teiginys: 'P. Klimas parašė _Lietuvos valstybės kūrimas, 1915—1918_.'
   pagrindžia:
     - c-003
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 - t-004
   teiginys: 'P. Klimas parašė _Lietuvos žemės valdymo istorija_.'
   pagrindžia:
     - c-004
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 - t-005
   teiginys: 'P. Klimas buvo Vykdomojo Komiteto biuro narys.'
   pagrindžia:
     - c-005
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 - t-006
   teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
   pagrindžia:
     - c-006
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 - t-008
@@ -101,12 +103,16 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   teiginys: 'Klimas, P.'
   pagrindžia:
     - c-004
+- t-011
+  teiginys: 'Klimo, LIETUVIŲ KALBOS SINTAKSĖ.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 
 - c-001
   santrauka: P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
     tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
@@ -126,7 +132,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 
 - c-002
   santrauka: P. Klimas parašė _Liet. senobės bruožai_
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _P. Klimas,_
     Liet. senobės bruožai (1919); _H. Lowmiański,_ Studja nad początkami społe-
@@ -141,7 +147,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 
 - c-003
   santrauka: P. Klimas parašė _Lietuvos valstybės kūrimas, 1915—1918_
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     P. _Klimas,_ Lietuvos valstybės kūrimas, 1915—1918 (1918);
   citata_rodoma: |
@@ -155,7 +161,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 
 - c-004
   santrauka: P. Klimas parašė _Lietuvos žemės valdymo istorija_
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _P. Klimas,_ Lietuvos žemės valdymo istorija (1919, 1920) ;
   citata_rodoma: |
@@ -169,7 +175,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 
 - c-005
   santrauka: P. Klimas buvo Vykdomojo Komiteto biuro narys
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vykdomasis Komiteto biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
     P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
@@ -186,7 +192,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 
 - c-006
   santrauka: P. Klimas buvo Lietuvos Tarybos narys
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
     naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
@@ -206,7 +212,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 
 - c-007
   santrauka: Pilnesnė bibliografinė eilutė tvirtai susieja P. Klimą su veikalu _Liet. senobės bruožai_.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _P. Klimas,_
     Liet. senobės bruožai (1919);
@@ -269,3 +275,22 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
+- c-011
+  santrauka: 'Klimo, LIETUVIŲ KALBOS SINTAKSĖ.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    15. P. Klimo, LIETUVIŲ KALBOS SINTAKSĖ. Septintasis leidimas.
+    1928 m. Kaina Lt. 1,50.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/memorialas]]

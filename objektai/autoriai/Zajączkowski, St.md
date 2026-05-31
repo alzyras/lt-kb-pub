@@ -49,7 +49,3 @@ Zajączkowski, St.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi]]

@@ -80,5 +80,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Voldemarininkai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/grupes/Lietuvių nacionalistų partija]]

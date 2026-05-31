@@ -73,6 +73,9 @@ Vartojamos formos: `liuosais`, `liuosybę`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
 - [[objektai/paprociai/Karo grobio dalijimas į keturias dalis]]
+- [[objektai/paprociai/Kovų vietų neliečiamumas]]
+- [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]
 - [[objektai/daiktai/Vyženos]]
 - [[objektai/zodynas/Karmūšų|karmūšų]]

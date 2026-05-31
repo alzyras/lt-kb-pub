@@ -45,6 +45,7 @@ Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos va
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lotynai]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/asmenys/Martynas iš Golino]]

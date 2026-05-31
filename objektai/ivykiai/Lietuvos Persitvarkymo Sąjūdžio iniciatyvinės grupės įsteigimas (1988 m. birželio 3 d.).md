@@ -1,0 +1,96 @@
+---
+tipas: ivykis
+pavadinimas: 'Lietuvos Persitvarkymo Sąjūdžio iniciatyvinės grupės įsteigimas (1988 m. birželio 3 d.)'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1968 m.'
+  - '1988 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1968'
+date_end: '1988'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - ivykis
+  - mokslininkas
+  - reforma
+---
+# Lietuvos Persitvarkymo Sąjūdžio iniciatyvinės grupės įsteigimas (1988 m. birželio 3 d.)
+
+## Santrauka
+
+Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M. Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kritiškai mąstantys ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kritiškai mąstantys
+    ir prieš valdžią nusiteikę Lietuvos inteligentai atidžiai sekė M. Gorbačiovo
+    vykdomą pertvarką, pokyčius sovietinėse respublikose. 1988 m. balandžio
+    13 d. Estijoje įsteigus Estijos liaudies frontą, neformalų judėjimą reformoms
+    vykdyti, pasirodė, kad sovietų valdžia vengia imtis represijų prieš veikliau-
+    sius pertvarkos šalininkus. Lietuvių inteligentų būrys 1988 m. birželio 3 d.
+    Vilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo
+    Sąjūdžio (LPS) iniciatyvinę grupę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ją sudarė 35 visoje Lietuvoje žinomi inte-
+    ligentai. Tarp jų nebuvo nei disidentų, nei valdžios atstovų, nei darbininkų,
+    studentų – savo sudėtimi LPS užuomazgos skiriasi nuo 1968 m. Čekoslo-
+    vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
+    ir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]

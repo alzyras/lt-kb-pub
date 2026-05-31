@@ -60,3 +60,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Kazokai]]
+- [[objektai/posakiai/„Kražių skerdynėmis“]]

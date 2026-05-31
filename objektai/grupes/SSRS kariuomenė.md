@@ -47,13 +47,15 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
+- [[objektai/autoriai/A. Merkys]]
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
 - [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
 - [[objektai/zodynas/polpredas]]
 - [[objektai/asmenys/Juozas Urbšys]]
 - [[objektai/asmenys/Michailas Kalininas]]
+- [[objektai/asmenys/Viačeslavas Molotovas]]

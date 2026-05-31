@@ -48,7 +48,10 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   teiginys: 'Šiauriausias katalikiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų universiteto reikšmė.'
   pagrindžia:
     - c-004
-
+- t-005
+  teiginys: 'Baroko epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus universitetą.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
@@ -109,3 +112,21 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Baroko epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus universitetą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Baroko
+    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
+    universitetą. Manoma, kad studijų lygis senajame universitete nebuvo
+    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
+    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+    teorijos  kūrėjo K.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

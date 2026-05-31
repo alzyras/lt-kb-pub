@@ -80,3 +80,17 @@ Lietuvos visuomenė dar nebuvo politiškai susipratusi.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Krikščionių demokratų blokas]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
+- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
+- [[objektai/grupes/Steigiamasis seimas]]
+- [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
+- [[objektai/grupes/Socialdemokratai]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/grupes/Lietuvių valstiečių sąjunga]]

@@ -149,9 +149,21 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Antantė]]
 - [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/M. Sleževičius]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/karo grobis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/asmenys/Aleksandras Kolčiakas]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/Mykolas Sleževičius]]
+- [[objektai/asmenys/Pavelas Bermontas-Avalovas]]
+- [[objektai/posakiai/„lenkai atakuoja...“]]

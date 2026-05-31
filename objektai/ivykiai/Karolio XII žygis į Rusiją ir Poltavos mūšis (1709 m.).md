@@ -76,3 +76,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis XII]]
+- [[objektai/grupes/Kazokai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/grupes/Švedai]]

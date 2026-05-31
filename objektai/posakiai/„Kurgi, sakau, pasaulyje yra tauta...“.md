@@ -74,3 +74,9 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
     - t-001
     - t-002
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus Daukša]]
+- [[objektai/zodynas/oficialusis kultūros modelis lietuviakalbė programa]]

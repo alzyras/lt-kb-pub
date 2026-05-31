@@ -39,7 +39,10 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: ', labiausiai Šapoka tyrinėjo valsty­ binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­ damas studiją apie Jogailos aktus (JoŠ).'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Ieškodamas lietuvių“ poliublininiuose laikuose, tyrėjas skelbė straipsnius periodikoje nuo 1931 ir 1933 m.'
@@ -60,6 +63,24 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: ', labiausiai Šapoka tyrinėjo valsty­ binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­ damas studiją apie Jogailos aktus (JoŠ).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    , labiausiai Šapoka tyrinėjo valsty­
+    binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­
+    damas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į
+    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
+    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
+    niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
+    po 1569 metų Liublino unijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -7,11 +7,14 @@ variantai:
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1263 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+date_start: '1263'
 date_end: ''
 laikotarpis: ''
 vaidmenys:
@@ -82,6 +85,18 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   teiginys: '238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas, Karolis Zikaras, Loreta Uzdraitė.'
   pagrindžia:
     - c-011
+- t-013
+  teiginys: ', Romas Batūra, Karolis Zikaras, Loreta Uzdraitė.'
+  pagrindžia:
+    - c-012
+- t-014
+  teiginys: '22, Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę, Romas Batūra, Karolis Zikaras, Loreta Uzdraitė.'
+  pagrindžia:
+    - c-013
+- t-015
+  teiginys: '236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras, Dalius Žygelis, Loreta Uzdraitė.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -230,3 +245,58 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-012
+  santrauka: ', Romas Batūra, Karolis Zikaras, Loreta Uzdraitė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    , Romas Batūra, Karolis Zikaras,
+    Loreta Uzdraitė.
+
+    p. 22, Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę, Romas Batūra,
+    Karolis Zikaras, Loreta Uzdraitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-013
+  santrauka: '22, Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę, Romas Batūra, Karolis Zikaras, Loreta Uzdraitė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    22, Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę, Romas Batūra,
+    Karolis Zikaras, Loreta Uzdraitė.
+
+    p. 25, Mindaugo valdoma Lietuva iki 1263 m, Karolis Zikaras, Loreta Uzdraitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-014
+  santrauka: '236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras, Dalius Žygelis, Loreta Uzdraitė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+
+    Dalius Žygelis, Loreta Uzdraitė.
+
+    P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
+    Karolis Zikaras, Loreta Uzdraitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aukso orda]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/zodynas/Lietuvos atsikūrimas]]
+- [[objektai/zodynas/kryžininkai]]

@@ -71,6 +71,10 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   teiginys: 'Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.'
   pagrindžia:
     - c-005
+- t-008
+  teiginys: '- • — 126 ## Puslapis 143 Il KNYGA po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­ žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -152,6 +156,35 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-006
+  santrauka: '- • — 126 ## Puslapis 143 Il KNYGA po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­ žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Augustiną, tai
+    yra, rugpjūčio 28-ą, o priartėta prie
+    Vilniaus buvo rugsėjo 4-ą. Vygan­
+    das  tačiau byloja: Steterunt V septi­
+    manis in continuo agone nocte dieque
+    et pugna et ex utraque parte multi sunt
+    occisi [stovėjo 5 savaites nuolatinėse
+    kautynėse dieną naktį ir kovoje iš
+    abiejų pusių daug buvo užmuštų].
+    - • —
+    126
+
+    ## Puslapis 143
+
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Bibliografiniai įrodymai
 - c-001

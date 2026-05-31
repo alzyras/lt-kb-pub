@@ -46,7 +46,10 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   teiginys: 'Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
   pagrindžia:
     - c-003
-
+- t-005
+  teiginys: 'Užimant Grupė Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 211 miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos sąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Partizanams užėmus miestelius, buvo naikinami valsčiaus dokumentai, mobilizacijos sąrašai ir pyliavų žiniaraščiai.'
@@ -104,7 +107,9 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/NKVD]]
 - [[objektai/grupes/Lietuvos partizanai]]

@@ -67,3 +67,17 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
+- [[objektai/zodynas/Baroko epocha]]
+- [[objektai/grupes/Edukacinė Komisija]]
+- [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]

@@ -118,5 +118,5 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
     - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
+### Susiję objektai
+- [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]

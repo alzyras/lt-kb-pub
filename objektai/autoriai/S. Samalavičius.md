@@ -55,7 +55,3 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Cechas]]

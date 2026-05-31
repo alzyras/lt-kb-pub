@@ -10,6 +10,15 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1411 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1411'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -52,6 +61,10 @@ Nenurodyta
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Žalgirio kova, kaip žinom, pasibaigė Torno taika (1411), ir žinom, kad tas laimėjimas nugalėtojų nebuvo vi­ siškai išnaudotas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,9 +124,31 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Žalgirio kova, kaip žinom, pasibaigė Torno taika (1411), ir žinom, kad tas laimėjimas nugalėtojų nebuvo vi­ siškai išnaudotas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Žalgirio kova, kaip žinom, pasibaigė Torno
+    taika (1411), ir žinom, kad tas laimėjimas nugalėtojų nebuvo vi­
+    siškai išnaudotas. Į Torno taikos sutartį^1 ) įsiskaitęs, gauni įspū­
+    džio, kad ne kryžiuočiai pralaimėjo ...
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/posakiai/Grünwaldo pergalės atsisakymas]]
-- [[objektai/grupes/Vokietijos kunigaikščiai]]
-- [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Torno taika]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/Žalgirio kautynės ir Tomo taika (1410-11)]]
+- [[objektai/zodynas/magistras]]

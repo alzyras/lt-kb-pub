@@ -51,4 +51,5 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje|1917 m. lietuvių seimas Petrapilyje (seimas, XX a.)]]
 - [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba|Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba (institucija)]]

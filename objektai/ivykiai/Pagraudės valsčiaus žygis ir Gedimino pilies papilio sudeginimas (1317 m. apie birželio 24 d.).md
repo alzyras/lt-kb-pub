@@ -130,6 +130,7 @@ Gedimino pilis liko nepaimta, bet jos papilys sudegintas; Sudargo kiemas ir apli
 ### Susiję objektai
 - [[objektai/asmenys/Albrechtas]]
 - [[objektai/asmenys/Albrechtas iš Hageno]]
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas Kvicas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Hartmanas]]

@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1991 m.'
+  - '1997 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+date_start: '1940'
+date_end: '1997'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -45,6 +57,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Sovietų Sąjungos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripažino Rusiją nepriklausoma valstybe.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,7 +89,28 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Sovietų Sąjungos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripažino Rusiją nepriklausoma valstybe.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sovietų Sąjun-
+    gos įvykdytos Lietuvos aneksijos pasekmių pašalinimą, o Lietuva pripaži-
+    no Rusiją nepriklausoma valstybe. Spalio pradžioje tarp abiejų valstybių
+    buvo užmegzti diplomatiniai santykiai.
+    1997 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- [[objektai/asmenys/Borisas Jelcinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/aneksija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Rusijos Federacija]]

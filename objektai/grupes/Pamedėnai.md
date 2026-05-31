@@ -9,13 +9,15 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1246 m.'
+  - '1260 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
+  - 'LDK'
   - 'viduramžiai'
 amziai:
   - 'XIII'
 date_start: '1246'
-date_end: ''
+date_end: '1260'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -91,6 +93,10 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-012
+  teiginys: 'Ordino pajėgos 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 
@@ -396,12 +402,72 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-016
+  santrauka: 'Ordino pajėgos 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas Botelis]]
+- [[objektai/asmenys/Henrikas iš Svarcburgo]]
+- [[objektai/autoriai/K. Būga]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Konradas Švabas iš Elbingo]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/asmenys/Pipinas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
+- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]
 - [[objektai/asmenys/Henrikas iš Veidos]]
+- [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]
 - [[objektai/asmenys/Hermanas (Ordino magistras)]]
+- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
 - [[objektai/autoriai/Matusas J]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]
 - [[objektai/zodynas/papilys]]
+- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
+- [[objektai/ivykiai/Antrasis Marienverderio miesto sugriovimas|Antrasis Marienverderio miesto sugriovimas (miestas)]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/asmenys/Jonas (Sarginio sūnus)]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/ivykiai/Kristburgo bado krizės ir Samilio nukankinimo bandymas]]
+- [[objektai/paprociai/Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu|Kristburgo pilies aprūpinimas Zirgūnos upe ir ištikimų pamedėnų pasitraukimas bado metu (pilis)]]
+- [[objektai/grupes/Marienverderio miestiečiai]]
+- [[objektai/asmenys/Mata]]
+- [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]
+- [[objektai/grupes/Varmiai]]

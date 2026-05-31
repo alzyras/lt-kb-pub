@@ -57,6 +57,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/daiktai/Lėktuvai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„Antanas nori būti ore“]]
 - [[objektai/asmenys/Antanas Gustaitis]]
+- [[objektai/daiktai/ANBO lėktuvai]]
 - [[objektai/grupes/Lietuvos karo aviacija]]

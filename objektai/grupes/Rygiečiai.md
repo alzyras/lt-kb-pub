@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1253 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+date_start: '1253'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -41,6 +50,18 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Toks kaltinimų ordinui kartojimas yra davęs progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos ordino priešai — rygiečiai.'
+  pagrindžia:
+    - c-012
+- t-004
+  teiginys: 'Savo «atgailos rašte», vad. «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo, kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių persekiojimų»^2.'
+  pagrindžia:
+    - c-013
+- t-005
+  teiginys: 'Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -259,11 +280,78 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-012
+  santrauka: 'Toks kaltinimų ordinui kartojimas yra davęs progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos ordino priešai — rygiečiai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kiekviename tų laiškų smarkiai buvo
+    puolamas ordinas. Toks kaltinimų ordinui kartojimas yra davęs
+    progos išvadai, jog laiškus Gedimino vardu sufabrikavę Livonijos
+    ordino priešai — rygiečiai. Tą prielaidą palaikė ir faktas, jog patys
+    kryžiuočiai, norėdami rygiečius suniekinti Vakarų krikščionių akyse,
+    skelbė, jog Gedimino laiškai esą rygiečių darbas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-013
+  santrauka: 'Savo «atgailos rašte», vad. «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo, kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių persekiojimų»^2.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    20). Savo «atgailos rašte», vad.
+    «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
+    kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti
+    « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
+    persekiojimų»^2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-014
+  santrauka: 'Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Rygai
+    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
+    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
+    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/daiktai/Vaškas]]
+- [[objektai/posakiai/des landės site stêt also]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/A. Prochaska]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/autoriai/Jakštas, J]]
 - [[objektai/autoriai/K. Chodynicki]]
+- [[objektai/autoriai/K. Forstreuter]]
+- [[objektai/autoriai/Kurt Forstreuter]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/ivykiai/Neuermühleno, Karkhauso ir Toreidos kampanija (1298 m.)]]
 - [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]
 - [[objektai/ivykiai/Rygos sąjungininkų įsiveržimas į Livoniją ir pralaimėjimas prie Dobės (1305 m.)]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
+- [[objektai/posakiai/mano priešo priešas yra mano draugas]]
 - [[objektai/posakiai/„mano priešo priešas yra mano draugas“]]
+- [[objektai/zodynas/laisvasis Rygos miestas]]

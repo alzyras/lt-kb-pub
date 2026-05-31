@@ -51,4 +51,5 @@ Mokšeckio brigada priverčia iš Širvintų pasitraukti 7-ajj pest.
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/brigada]]
 - [[objektai/grupes/4-asis pėstininkų pulkas]]

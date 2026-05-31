@@ -86,5 +86,9 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/ivykiai/LLV padalijimų aktų panaikinimas Sovietų Rusijoje]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

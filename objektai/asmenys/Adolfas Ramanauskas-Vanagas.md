@@ -85,4 +85,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/maršalas]]
+- [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
 - [[objektai/ivykiai/Paskutinių partizanų vadų suėmimai ir sušaudymai (1953–1957 m.)]]
+- [[objektai/grupes/Marcinkonių batalionas]]

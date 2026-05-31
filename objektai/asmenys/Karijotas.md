@@ -3,8 +3,8 @@ tipas: asmuo
 pavadinimas: 'Karijotas'
 sukurta: '2026-04-25'
 variantai:
-  - Karijoto
-  - Karijotai
+  - 'Karijoto'
+  - 'Karijotai'
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -57,7 +57,10 @@ Karijotas čia minimas kaip Gedimino sūnus, gavęs Naugarduką; jo vardu siejam
   teiginys: 'Algirdas buvo gavęs Krėvę (be to, kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­ das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus sritį valdė jis pats.'
   pagrindžia:
     - c-006
-
+- t-011
+  teiginys: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karijotas buvo Gedimino sūnus, kuriam Gediminas paskyrė Naugarduką.'
@@ -176,15 +179,42 @@ Karijotas čia minimas kaip Gedimino sūnus, gavęs Naugarduką; jo vardu siejam
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-007
+  santrauka: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
+
+    Lietuvos kariuomenė buvo sudaryta
+    iš Lietuvos valdovo Algirdo ir jo brolio
+    Karijoto trijų sūnų - Karijotaičių vado-
+    vaujamų karių. Jie susirėmė su Juodosios
+    jūros pajūrio ir Krymo totorių teritori-
+    jos trijų vadų-kunigaikščių Chadžibėjaus,
+    Kutlugbugo, Dmitrijaus kariuomene.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas]]
-- [[objektai/asmenys/Jaunutis]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/tėviškė]]
 - [[objektai/asmenys/Borisas Karijotaitis]]
+- [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]

@@ -61,6 +61,7 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
 ### Susiję objektai
 - [[objektai/grupes/Poznanės raitininkų eskadronai]]
 - [[objektai/grupes/Trakų sukilėlių daliniai]]
+- [[objektai/zodynas/ulonai]]
 - [[objektai/grupes/12-asis ulonų pulkas]]
 - [[objektai/grupes/2-asis pėstininkų pulkas]]
 - [[objektai/grupes/Kališo raitelių dalinys]]

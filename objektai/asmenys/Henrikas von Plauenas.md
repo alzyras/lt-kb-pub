@@ -164,4 +164,14 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/elektorius]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaitas]]
 - [[objektai/asmenys/Vaclovas Čekietis]]

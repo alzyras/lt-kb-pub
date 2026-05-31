@@ -62,3 +62,8 @@ Bumblauskas A.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/zodynas/kunigaikštija]]

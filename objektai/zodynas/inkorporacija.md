@@ -111,8 +111,11 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/lenas]]
+- [[objektai/autoriai/L. Kolankowski]]
+- [[objektai/zodynas/aneksija]]
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
 - [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
 - [[objektai/daiktai/Karūna]]

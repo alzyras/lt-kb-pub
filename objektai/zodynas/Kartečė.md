@@ -70,7 +70,10 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginys: 'Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose, aprišamuose virvėmis, vėliau atsirado kartečė cilindro formos metalinėse dėžutėse.'
   pagrindžia:
     - c-007
-
+- t-008
+  teiginys: 'Kartečėmis šaudė visi pabūklų tipai, netgi mortyros, nepaisant jų aukštos šaudymo trajektorijos.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudojama muškietų kulkų kartečė.'
@@ -211,7 +214,26 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Kartečėmis šaudė visi pabūklų tipai, netgi mortyros, nepaisant jų aukštos šaudymo trajektorijos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kartečėmis šaudė visi pabūklų
+    tipai, netgi mortyros, nepaisant jų aukštos šaudymo trajektorijos.
+
+    Iš pradžių kartečė buvo naudojama ginant arba šturmuojant tvir-
+    toves, nuo Trisdešimtmečio karo (1618-1648 m.) jį pradėta plačiai
+    naudoti ir lauko kautynėse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Patrankos]]
 - [[objektai/zodynas/Brandskugeliai karkasai]]
+- [[objektai/asmenys/F. Rolandas]]

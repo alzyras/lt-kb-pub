@@ -80,4 +80,10 @@ Dusburgietis teigia, kad tuo metu, kai šitai dėjosi, pamaldusis Lešekas, Krok
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
+- [[objektai/daiktai/Mūro sienos]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/zodynas/Teutonų teisė vokiečių miestų teisės]]
 - [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka]]
+- [[objektai/grupes/Lietuviai]]

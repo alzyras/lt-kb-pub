@@ -40,6 +40,10 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
   teiginys: 'Taip galvojo ponai tos Lenkijos dalies, kuri susiėjo su ginčijamomis žemėmis.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dabar jiems atrodė, kad geriausia būtų Lenkijos karalium padaryti Jogailą — Lietuvą sulieti su Lenkija; tuo būdu ir visos tos žemės tuomet turėtų pasidaryti savos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,3 +80,20 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dabar jiems atrodė, kad geriausia būtų Lenkijos karalium padaryti Jogailą — Lietuvą sulieti su Lenkija; tuo būdu ir visos tos žemės tuomet turėtų pasidaryti savos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Dabar jiems
+    atrodė, kad geriausia būtų Lenkijos karalium padaryti Jogailą
+    — Lietuvą sulieti su Lenkija; tuo būdu ir visos tos žemės tuomet
+    turėtų pasidaryti savos. Taip galvojo ponai tos Lenkijos dalies,
+    kuri susiėjo su ginčijamomis žemėmis. Tai buvo ponai iš pieti-
+    nės Lenkijos, arba iš vadinamosios Mažosios Lenkijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

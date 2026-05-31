@@ -53,3 +53,9 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/„valdomos demokratijos“]]
+- [[objektai/zodynas/Valdoma demokratija]]
+- [[objektai/asmenys/Vladimiras Putinas]]

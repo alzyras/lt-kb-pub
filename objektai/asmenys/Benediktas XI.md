@@ -56,3 +56,4 @@ Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Romos karalius]]
+- [[objektai/grupes/Domininkonų ordinas]]

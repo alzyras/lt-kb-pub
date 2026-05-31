@@ -133,3 +133,20 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
+- [[objektai/grupes/Hohenzollernai]]
+- [[objektai/grupes/Riurikaičių dinastija]]
+- [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
+- [[objektai/posakiai/sąmyšio metai]]

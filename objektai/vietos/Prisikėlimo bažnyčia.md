@@ -42,7 +42,10 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
   teiginys: 'Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietuvišku stiliumi atspindinčią religinę ir tautinę dvasią.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 173 bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuotą, atspindinčią lietuvių tautos religinę ir tautinę dvasią.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prisikėlimo bažnyčia buvo laikoma tautos šventykla, turėjusia atspindėti lietuvių tautos religinę ir tautinę dvasią.'
@@ -94,3 +97,4 @@ tyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+    - t-004

@@ -62,4 +62,6 @@ Nenurodyta
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/autoriai/Adolfas Šapoka]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Kazimieras Masiliūnas]]
 - [[objektai/grupes/Lietuvos Respublikos švietimo ministerija|Lietuvos Respublikos švietimo ministerija (institucija)]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]

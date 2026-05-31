@@ -48,6 +48,9 @@ Dėl to atgaivinta Seimo institucija.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara)]]
 - [[objektai/asmenys/Vladas Mironas]]
+- [[objektai/grupes/Lietuvių tautininkų sąjunga]]

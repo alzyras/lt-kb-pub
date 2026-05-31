@@ -58,6 +58,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/posakiai/„teritoriniai patriotai“]]

@@ -82,5 +82,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
+- [[objektai/grupes/Draugija užsienio lietuviams remti]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]

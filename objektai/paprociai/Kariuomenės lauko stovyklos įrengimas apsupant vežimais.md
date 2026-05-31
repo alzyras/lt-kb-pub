@@ -63,6 +63,10 @@ Nenurodyta
   teiginys: 'Susibūrusi į vieną vietą, visa kariuomenė apsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai daug, tik nelabai didelių; išorėje.'
   pagrindžia:
     - c-003
+- t-006
+  teiginys: ') Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,3 +119,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-004
+  santrauka: ') Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ) Lenkijos ir Lietuvos
+    kariuomenių stovyklos aprašymo.
+
+    „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
+    labai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-
+    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
+    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
+    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/autoriai/Girolamo Lippomano]]
+- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

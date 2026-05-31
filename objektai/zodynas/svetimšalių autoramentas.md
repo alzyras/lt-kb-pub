@@ -39,7 +39,10 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Svetimšalių pėstinin- | kija daugiausia vadinta „vokiškąja“, jų pagrindą sudarė samdiniai iš vokiškų kraštų.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Svetimšalių samdymas sistema tapo Vladislavo Vazos laikais.'
@@ -79,3 +82,18 @@ Tai ir paskatino įvesti „Vokiškų“ pėstininkų taktika buvo pagrįsta vad
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Svetimšalių pėstinin- | kija daugiausia vadinta „vokiškąja“, jų pagrindą sudarė samdiniai iš vokiškų kraštų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Svetimšalių pėstinin- |
+    kija daugiausia vadinta „vokiškąja“, jų pagrindą sudarė samdiniai
+    iš vokiškų kraštų. Svetimšalių regimentai, organizuoti Lietuvoje,
+    pasirodė 1633 m. Regimentui vadovavo oberšteris (pulkininkas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

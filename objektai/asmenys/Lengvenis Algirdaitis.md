@@ -69,3 +69,11 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Lengvenis]]
+- [[objektai/zodynas/žygis]]

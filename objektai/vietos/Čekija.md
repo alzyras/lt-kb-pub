@@ -54,7 +54,10 @@ tags:
   teiginys: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
   pagrindžia:
     - c-005
-
+- t-006
+  teiginys: '(^12) CEV, 814-815, 823-824, 836-838 p. LENKAI TRUKDO VYTAUTUI VAINIKUOTIS 373 Romos kurija buvo įsitikinusi, kad tik abiejų pusbrolių sutarimas tegalės sutramdyti husitų plitimą Čekijoje^13.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Čekijai atkritus nuo Jogailaičių dinastinės sistemos, joje liko tik Lenkija ir Lietuva.'
@@ -142,3 +145,25 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '(^12) CEV, 814-815, 823-824, 836-838 p. LENKAI TRUKDO VYTAUTUI VAINIKUOTIS 373 Romos kurija buvo įsitikinusi, kad tik abiejų pusbrolių sutarimas tegalės sutramdyti husitų plitimą Čekijoje^13.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^12) **CEV, 814-815, 823-824, 836-838 p.**
+
+
+    ```
+    LENKAI TRUKDO VYTAUTUI VAINIKUOTIS 373
+    ```
+    Romos kurija buvo įsitikinusi, kad tik abiejų pusbrolių sutarimas
+    tegalės sutramdyti husitų plitimą Čekijoje^13. Kai lenkai, vesdami
+    savo griežtą akciją, rėmėsi teisiniais motyvais, išplaukiančiais iš
+    vad.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

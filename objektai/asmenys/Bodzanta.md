@@ -38,6 +38,10 @@ Bodzanta Vladislovo vardu.
   teiginys: 'Gniezno arkivyskupas Bodzanta iškilmingai pašventino bažnyčią, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,7 +83,41 @@ Bodzanta Vladislovo vardu.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Iškilmingai, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams, ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais rykais ir visokia manta.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Stanislovo katedra8. Iškilmingai,
+    dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
+    ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
+    Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
+    rykais ir visokia manta. Lenkų didžponiams patarus, pir­
+    muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­
+    rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš
+    Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­
+    nuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­
+    tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
+    ką9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Rykai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Lietuvos kunigaikščiai ir didikai]]

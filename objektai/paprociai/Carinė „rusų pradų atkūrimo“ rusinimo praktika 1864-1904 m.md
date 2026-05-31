@@ -157,3 +157,7 @@ Nenurodyta
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/separatizmas]]
+- [[objektai/zodynas/rusinimas rusinimo politika]]
+- [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

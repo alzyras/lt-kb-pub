@@ -54,3 +54,4 @@ Dusburgietis teigia, kad po to ji kiekvieną naktį girdėjo siaubingą bildesį
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

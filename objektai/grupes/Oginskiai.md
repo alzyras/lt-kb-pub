@@ -44,7 +44,10 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Goštautai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Akademijos observatorijos prietaisai]]
+- [[objektai/zodynas/Olia Charitatis]]
+- [[objektai/asmenys/Puzinienė iš Oginskių]]
 - [[objektai/grupes/Tiškevičiai]]
 - [[objektai/grupes/Valavičiai]]
 - [[objektai/grupes/Rusėnai]]

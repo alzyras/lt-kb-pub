@@ -44,6 +44,7 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Chodkevičiai]]

@@ -108,6 +108,10 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   teiginys: 'Dusburgietis teigia, kad sitai padaręs, magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava, ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog jiems bus leista netrukdomiems iš čia išeiti su visa manta.'
   pagrindžia:
     - c-018
+- t-019
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės.'
+  pagrindžia:
+    - c-019
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi prieš kryžiuočius Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje (III, 122), Manto vadovaujami prūsai nusiaubė Kulmo žemę, o po to (1263 m.) visiškai sutriuškino kryžiuočius mūšio lauke.'
@@ -459,6 +463,27 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-019
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488; neskaitant galybės.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie tai, kaip buvo nusiaubtas Kimenavos valsčius Sūduvos žemėje
+
+       Brolis Konradas iš Tirbergo, magistras, ir daug brolių su tūkstančiu penkiais šimtais
+    raitelių įsiveržė į Sūduvos žemę ir nusiaubė tą jos valsčių, kuris vadinamas Kimenava488;
+    neskaitant galybės užmuštųjų, jie išsivarė su savimi tūkstantį belaisvių ir išsigabeno
+    galybę kitokio grobio. Kitą dieną, kai brolių kariuomenė atsitraukdama priėjo mišką,
+    vardu Vinsas489, juos pasivijo trys tūkstančiai rinktinių sūduvių vyrų, kuriuos broliai su
+    saviškiais drąsiai užpuolė, daugybę nukovė ir mirtinai sužeidė, o kitus nuvijo iki įeigos į
+    jų žemę. Šiose kautynėse brolių kariuomenė neteko šešių vyrų, kritusių kovoje, visi kiti
+    sveiki sugrįžo atgal.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai
@@ -483,6 +508,7 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - [[objektai/zodynas/žygis]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/asmenys/Bertoldas iš Nordhauzeno]]
+- [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]
 - [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]]
 - [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]
 - [[objektai/asmenys/Kantigirdas]]
@@ -493,6 +519,9 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - [[objektai/daiktai/Skobnis]]
 - [[objektai/asmenys/Skomantas]]
 - [[objektai/asmenys/Skomantas (lietuvių vadas)]]
+- [[objektai/ivykiai/Skomanto naktinis puolimas prie Birgelavos]]
+- [[objektai/daiktai/Skydas]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/ivykiai/Sūduvių ir lietuvių žygis į Ordino valdas Semboje (1280 m.)]]
 - [[objektai/asmenys/Ulrichas Bajeris]]
 - [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą]]
@@ -500,8 +529,11 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 - [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]
 - [[objektai/daiktai/Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas]]
 - [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas|Antrasis Bartenšteino pilies sugriovimas (pilis)]]
+- [[objektai/grupes/Bartai]]
 - [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]
 - [[objektai/posakiai/Gailiuosi jus pagimdžiusi]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]
 - [[objektai/asmenys/Mantas]]
 - [[objektai/grupes/Mantiminų giminė]]
 - [[objektai/asmenys/Nameda]]

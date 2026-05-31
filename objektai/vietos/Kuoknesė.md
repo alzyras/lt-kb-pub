@@ -80,7 +80,10 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   teiginys: '1608 m. Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.'
   pagrindžia:
     - c-005
-
+- t-006
+  teiginys: 'Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuoknesę (Kokenhausen) ir Viljandį (Fellin).'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
@@ -180,3 +183,24 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuoknesę (Kokenhausen) ir Viljandį (Fellin).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Maža to,
+
+    ms
+
+    laivams iplaukti j Rygos uosta. Per trumpa
+    “| laiką Švedijos kariuomenė užėmė Paidę
+    (Weisenstein), Kuoknesę (Kokenhausen) ir
+    Viljandį (Fellin).
+
+    1608 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

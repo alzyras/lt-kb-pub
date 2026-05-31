@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1920 m.'
+  - '1921 m.'
+  - '1923 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1920'
+date_end: '1923'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -53,6 +64,18 @@ tags:
   teiginys: 'Maskva patvirtino, kad sutar- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 147 tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys savo suverenumo Lenkijos naudai.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 143 Maskvos sutartis turėjo ir alternatyvą.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Pagal abiejų tų sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -151,3 +174,58 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 143 Maskvos sutartis turėjo ir alternatyvą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    143
+    Maskvos sutartis turėjo ir alternatyvą. Kai lenkų daliniai, spaudžiami
+    bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-
+    sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
+    Atsirado unikali galimybė atgauti sostinę Antantės padedamiems ir dar
+    pritariant Lenkijai. Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus
+    lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o
+    Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi
+    Maskvoje... Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
+    Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
+    kija nebūtų sumušusi Rusijos bolševikų, nes šie intensyviai ruošė sukilimą
+    Lietuvoje 1920 m. rugpjūtį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Pagal abiejų tų sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pagal abiejų tų sutarčių punktus dėl
+    Vilniaus turėjo susitarti Lietuva ir Lenkija. Maskva patvirtino, kad sutar-
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    147
+    tis su Lietuva tebelieka galioti, kad Lietuva turi suverenias teises į Vilnių,
+    kol neatsisakys savo suverenumo Lenkijos naudai.
+    Ambasadorių konferencijos 1923 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

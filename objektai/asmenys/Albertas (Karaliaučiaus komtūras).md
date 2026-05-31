@@ -48,4 +48,5 @@ Dusburgietis teigia, kad žygio prieš Lietuvą metu Karaliaučiaus komtūrui br
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Paplotėlis]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/žygis]]

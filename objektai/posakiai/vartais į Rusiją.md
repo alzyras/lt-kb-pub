@@ -93,5 +93,4 @@ CHOTINO MŪŠIS 117 ## Puslapis 120 E -KURSO KUNIGAIKŠTYSTĖ S res Livontios KU
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
 - [[objektai/asmenys/Fiodoras]]

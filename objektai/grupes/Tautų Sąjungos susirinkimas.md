@@ -89,3 +89,7 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Latviai]]

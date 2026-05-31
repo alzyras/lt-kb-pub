@@ -56,4 +56,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Valstybės gynimo taryba|Valstybės gynimo taryba (institucija)]]

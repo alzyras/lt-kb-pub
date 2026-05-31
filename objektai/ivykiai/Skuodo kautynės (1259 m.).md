@@ -69,4 +69,5 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/zodynas/komtūras]]
 - [[objektai/grupes/Žemaičiai]]

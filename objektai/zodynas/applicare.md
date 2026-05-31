@@ -60,3 +60,5 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/lenas]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/grupes/Lenkai]]

@@ -132,5 +132,11 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/autoriai/S. Daukantas]]
 - [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/tautinis atgimimas]]
+- [[objektai/zodynas/vyskupystė]]
 - [[objektai/posakiai/vardan tos Lietuvos]]

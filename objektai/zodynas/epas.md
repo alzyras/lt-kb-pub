@@ -40,3 +40,9 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]

@@ -19,6 +19,8 @@ susije_irasai: []
 datos:
   - '1248 m.'
   - '1260 m.'
+  - '1292 m.'
+  - '1311 m.'
   - '1350 m.'
   - '1430 m.'
   - '1930 m.'
@@ -80,6 +82,22 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   teiginys: 'Dusburgas mini tik Dobrynės kunigaikštystę, nors kitame dokumente nurodyta, kad per antpuolį kentėjo ir kaimyninės Kulmo žemės.'
   pagrindžia:
     - c-005
+- t-011
+  teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  pagrindžia:
+    - c-006
+- t-012
+  teiginys: 'NUSIAUBTA LENKIJA Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Lietuvos karaliaus Pukuvero sūnaus Vytenio įsiveržimą į Lenkiją 1292 m. „Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį su didele kariuomene į.'
+  pagrindžia:
+    - c-007
+- t-013
+  teiginys: 'Valdant Gediminui Lietuva ėmė sparčiai plėstis į rytus LIETUVIAI SEMBOJE IR NOTANGOJE Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į Ordino žemes: „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su.'
+  pagrindžia:
+    - c-008
+- t-014
+  teiginys: 'Dusburgo amžininko, Mikalojaus iš Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­ tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­ nimų nuo savęs^1 ).'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -143,6 +161,102 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-006
+  santrauka: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    XIII a. Šilainiai,
+    Raudonė,
+    Kejėnai
+
+    RŪSTUS DIEVO ŽMONIŲ LIKIMAS
+
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.
+
+    „1260 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-007
+  santrauka: 'NUSIAUBTA LENKIJA Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Lietuvos karaliaus Pukuvero sūnaus Vytenio įsiveržimą į Lenkiją 1292 m. „Pukuveras, Lietuvos karalius, tais pačiais metais pasiuntė savo sūnų Vytenį su didele kariuomene į.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    NUSIAUBTA LENKIJA
+
+    Ištrauka iš Petro Dusburgiečio „Prūsijos
+    žemės kronikos“ apie Lietuvos karaliaus
+    Pukuvero sūnaus Vytenio įsiveržimą į
+    Lenkiją 1292 m.
+
+    „Pukuveras, Lietuvos karalius, tais pačiais
+    metais pasiuntė savo sūnų Vytenį su didele
+    kariuomene į Lenkiją, į Bresto žemę; kai
+    jie ten pridarė daug žalos, galybę žmonių
+    nukovę bei paėmę į nelaisvę...“
+
+    buvo atremti Aukso ordos, rusų kunigaikš
+    čių bei Livonijos ordino antpuoliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-008
+  santrauka: 'Valdant Gediminui Lietuva ėmė sparčiai plėstis į rytus LIETUVIAI SEMBOJE IR NOTANGOJE Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į Ordino žemes: „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Valdant Gediminui
+    Lietuva ėmė sparčiai plėstis į rytus
+
+    LIETUVIAI SEMBOJE IR NOTANGOJE
+
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
+    Ordino žemes:
+
+    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
+    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
+    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“
+
+    LIETUVIAI PRIE RYGOS
+
+    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
+    šinomis sunaikina Piltenės pilį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-009
+  santrauka: 'Dusburgo amžininko, Mikalojaus iš Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­ tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­ nimų nuo savęs^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    91
+
+
+    ```
+    — XXIV —
+    ```
+    Kaip Wulfstano pasakojimai, taip ir visi kiti šaltiniai liudija,
+    kad mirusiųjų lavonus lietuviai sudegindavo. Tuo klausimu įdo­
+    mus yra pastebėjimas P. Dusburgo amžininko, Mikalojaus iš
+    Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­
+    tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­
+    nimų nuo savęs^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Bibliografiniai įrodymai
 - c-001

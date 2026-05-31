@@ -81,3 +81,4 @@ Nenurodyta
 - [[objektai/daiktai/Herbas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Ona Jogailaitė]]
+- [[objektai/paprociai/Svetimų laiškų neskaitymas ir sudeginimas pagal testatoriaus valią]]

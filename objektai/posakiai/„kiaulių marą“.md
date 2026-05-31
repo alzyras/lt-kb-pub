@@ -50,4 +50,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/atšilimas]]

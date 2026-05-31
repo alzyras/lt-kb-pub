@@ -96,7 +96,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Konradas, vardu Divelis]]
 - [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]
+- [[objektai/asmenys/Pelužis]]
 - [[objektai/asmenys/Stavimėlas]]

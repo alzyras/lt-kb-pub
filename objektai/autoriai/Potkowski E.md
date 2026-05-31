@@ -50,4 +50,5 @@ Dusburgietis teigia, kad po derybų Fridrichas II pripažino popiežiaus valdži
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas II]]

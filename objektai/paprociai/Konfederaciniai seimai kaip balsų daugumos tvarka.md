@@ -81,5 +81,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
+### Susiję objektai
+- [[objektai/grupes/Konfederaciniai seimai]]
+- [[objektai/zodynas/Liberum veto]]

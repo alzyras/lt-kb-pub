@@ -96,3 +96,8 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 ## Pastabos
 
 - Forma archajiška; šiame gabale vartojama ir dievo, ir žemiškų valdovų atžvilgiu. iš teksto matyti bendras politinės valdžios pavadinimas, bet tikslus socialinis laipsnis gali skirtis.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
+- [[objektai/zodynas/Lažas|lažas]]

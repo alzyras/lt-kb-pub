@@ -43,7 +43,10 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Carlsonas Gyllenhielmas buvo paskirtas vadovauti operacijai.'
@@ -91,6 +94,22 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Karolis Sudermanas pasiuntė 2400 karių, kurie turėjo pristatyti apsiautusiai švedų kariuomenei maistą ir šaudmenis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Karolis Sudermanas
+    pasiuntė 2400 karių, kurie turėjo prista-
+    tyti apsiautusiai švedų kariuomenei maistą
+    ir šaudmenis. Operacijai vadovauti buvo
+    paskirtas K. Carlsonas Gyllienhelmas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -43,5 +43,9 @@ Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltijos valstybės]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/asmenys/A. Hitleris]]
+- [[objektai/asmenys/Stasys Raštikis]]

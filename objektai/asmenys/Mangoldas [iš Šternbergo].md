@@ -78,5 +78,6 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/grabnyčių diena]]

@@ -88,5 +88,6 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 - [[temos/vilnius]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Adomas (auksakalys)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Adomas Honorijus Kirkoras]]

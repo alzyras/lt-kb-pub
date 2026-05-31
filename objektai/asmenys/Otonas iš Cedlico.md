@@ -57,3 +57,6 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - [[objektai/asmenys/Otonas]]
 - [[objektai/asmenys/Otonas iš Bergo]]
 - [[objektai/asmenys/Ditrichas iš Ezbeko]]
+- [[objektai/ivykiai/Pieštvės pilėnų apiplėšimas (1294 m.)]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/ginklanešys]]

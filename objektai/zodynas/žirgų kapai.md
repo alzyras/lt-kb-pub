@@ -53,3 +53,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Žirgai]]
+- [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]

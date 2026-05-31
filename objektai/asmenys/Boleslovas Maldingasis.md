@@ -57,9 +57,6 @@ ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Čekai]]

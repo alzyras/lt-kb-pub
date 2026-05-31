@@ -81,4 +81,6 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/zodynas/polpredas]]

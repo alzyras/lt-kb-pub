@@ -171,4 +171,11 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]
-- [[objektai/asmenys/Karijotas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Augustas II]]
+- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
+- [[objektai/asmenys/Gustavas Adolfas]]
+- [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Petras I Didysis]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

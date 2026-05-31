@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 9.
+Objektų skaičius: 4.
 
 ## Kaip naudoti
 
@@ -20,11 +20,6 @@ Objektų skaičius: 9.
 
 ### Daiktai
 - [[objektai/daiktai/Akademijos aikštės medinis šulinys]]
-- [[objektai/daiktai/Akademijos teatro įranga]]
 - [[objektai/daiktai/Deficitinės vartojimo prekės]]
 - [[objektai/daiktai/Lagaminai rūkytų dešrų ir kumpių]]
-- [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje]]
-- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
-- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
-- [[objektai/daiktai/Vaišių stalai]]
 - [[objektai/daiktai/Šakutė]]

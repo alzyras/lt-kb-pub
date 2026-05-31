@@ -121,6 +121,7 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Narimantas]]
 - [[objektai/daiktai/Pilys]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Rusai]]

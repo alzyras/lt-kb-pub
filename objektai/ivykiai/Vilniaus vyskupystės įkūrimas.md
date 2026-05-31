@@ -175,3 +175,19 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Urbonas VI]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vosylius]]
+- [[objektai/zodynas/brevė]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/kunigas]]

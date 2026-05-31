@@ -74,3 +74,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]
+- [[objektai/ivykiai/Zelvos mūšis (1792 m. liepos 4 d.)]]

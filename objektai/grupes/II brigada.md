@@ -96,3 +96,4 @@ tags:
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/brigada]]

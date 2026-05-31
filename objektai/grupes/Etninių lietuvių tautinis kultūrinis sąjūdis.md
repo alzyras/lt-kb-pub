@@ -55,3 +55,15 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Kristijonas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Simonas Stanevičius]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

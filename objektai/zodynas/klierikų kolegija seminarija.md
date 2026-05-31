@@ -1,0 +1,98 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'klierikų kolegija seminarija'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - karalius
+  - kunigaikštis
+  - popiežius
+  - sąvoka
+---
+# klierikų kolegija seminarija
+
+## Santrauka
+
+O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą! Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.
+
+## Teiginiai
+- t-001
+  teiginys: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.'
+  pagrindžia:
+    - c-002
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'O kadangi no­ rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­ laširdingą!'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O kadangi no­
+    rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų
+    ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir
+    katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­
+    laširdingą! prašome, kad laikytų verta prisiimti į savo globą
+    ir gynybą pačią Vilniaus seminariją. Ir mūsų įpėdinius ragi­
+    name ir prašome, kad, iškilus seminarijoje įvairiems sunku­
+    mams, kreiptųsi į pačią karališkąją Didenybę ar į kitus ka­
+    raliaus įpėdinius ir nieko, kas susiję su seminarijos ir jos turtų
+    valdymu, be jų pritarimo nedarytų. Tai jų sąžinei griežtai
+    pavedame. Klierikų mokymo reikalus ir vadovavimą kole­
+    gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­
+    niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai* ger­
+    biamam tėvui generaliniam Prepozitui (kuriam dėl šio
+    reikalo nusiuntėme laišką ir neabejojame, kad mums bus pa­
+    lankus), tuos pačius karštai raginame, kad imtų rūpintis šia
+    mūsų seminarija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Klierikų mokymo reikalus ir vadovavimą kole­ gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­ niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai ger­ biamam tėvui generaliniam Prepozitui (kuriam dėl šio reikalo nusiuntėme laišką ir.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Klierikų mokymo reikalus ir vadovavimą kole­
+    gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­
+    niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai* ger­
+    biamam tėvui generaliniam Prepozitui (kuriam dėl šio
+    reikalo nusiuntėme laišką ir neabejojame, kad mums bus pa­
+    lankus), tuos pačius karštai raginame, kad imtų rūpintis šia
+    mūsų seminarija. Be to, jiems suteikiame visišką valdžią, tiek
+    ekonominę, tiek visą administracinę, ir juos darome ir skel­
+    biame amžinais mūsų seminarijos valdytojais, administra­
+    toriais ir rektoriais, jų rūpesčiui, veiklumui ir meilei patiki­
+    me visą seminariją ir kiekvieną joje esantį klieriką. Duota ir
+    atlikta Vilniuje, įprastos mūsų rezidencijos rūmuose, sausio
+    vienuoliktą dieną, tūkstantis penki šimtai aštuoniasdešimt
+    antraisiais Viešpaties metais, popiežiaujant dešimtajam
+    popiežiui šviesiausiajam mūsų Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

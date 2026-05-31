@@ -57,4 +57,5 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sembai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]

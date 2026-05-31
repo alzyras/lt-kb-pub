@@ -52,3 +52,4 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
 ### Susiję objektai
 - [[objektai/grupes/J. Baranovskio brigada]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/brigada]]

@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1200 m.'
+  - '1324 m.'
   - '1337 m.'
   - '1338 m.'
   - '1360 m.'
@@ -120,6 +121,42 @@ saugoti Dubysos upyną.
   teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
   pagrindžia:
     - c-020
+- t-021
+  teiginys: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­ nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis dėlto atsiuntė savo brolį Kaributą pagalbon.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Jis griežtai pareiškė, ne tiktai niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­ ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­ statyti Žemaitijos sienas.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Yra tikra tiek, jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Šitas vengriškos kilmės teisių žinovas, nuvykęs į Žemaitijos pasienius, vietoje turėjo išspręsti, ar Veliuonos ir Klaipėdos pilys yra Žemaičių žemės ribose, kadangi jau Budoje pasiuntiniai Lietuvos vardu pareiškė, jog kryžiuočiai Klaipėdos pilį valdą.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: 'Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.'
+  pagrindžia:
+    - c-029
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -475,3 +512,178 @@ saugoti Dubysos upyną.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+- c-021
+  santrauka: 'Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­ nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis, 13 Rygos miestas buvo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O vis dėlto Vilniuje, galingos valstybės sostinėje,
+    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
+    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
+    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
+    giję feodalinio valdymo principai.
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Senoji pi­ liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­ tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­ jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos pavieto centras.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vėliau karalienė
+    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
+    klebonija tapo išties reikšmingiausia Žemaitijoje. Senoji pi­
+    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
+    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
+    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
+    pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
+    ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
+    das.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­ nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis dėlto atsiuntė savo brolį Kaributą pagalbon.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tačiau viešai jis dar palaikė
+    Kęstutį. Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
+    nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
+    susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
+    dėlto atsiuntė savo brolį Kaributą pagalbon.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Jis griežtai pareiškė, ne tiktai niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­ ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    O Torno taika že­
+    maičių kraštas atiduotas Vytautui ir Jogailai tik iki jų gyvos
+    galvos, todėl ten jokie sutvirtinimai neturi būti daroma. Bet
+    Vytautas mąstė apie visišką Žemaitijos krašto priskyrimą Lie­
+    tuvai, nepaisant jokių terminų, ir todėl nebesutiko su reikalavi­
+    mais, aprėkiančiais jo valdžią. Jis griežtai pareiškė, ne tiktai
+    niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­
+    ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­ statyti Žemaitijos sienas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    O kai Vokiečių Ordino ma­
+    gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­
+    kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­
+    dinti^3 ). Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­
+    statyti Žemaitijos sienas. Šiose derybose dalyvavo ir Hanzos
+    miestų atstovai (Liubeko ir Stralsundo), kaipo suinteresuoti
+    Vytauto ir Ordino nesantaika, trukdžiusia Hanzai susisiekti su
+    Lietuva Vokiečių Ordino žemėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Yra tikra tiek, jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gedimino mirties aplinkybės nėra žinomos. Yra tikra tiek,
+    jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
+    Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Šitas vengriškos kilmės teisių žinovas, nuvykęs į Žemaitijos pasienius, vietoje turėjo išspręsti, ar Veliuonos ir Klaipėdos pilys yra Žemaičių žemės ribose, kadangi jau Budoje pasiuntiniai Lietuvos vardu pareiškė, jog kryžiuočiai Klaipėdos pilį valdą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O nustatyti
+    ginčijamas Žemaitijos sienas turėjo imperatoriaus arbitras Bene­
+    diktas Makra^7. Šitas vengriškos kilmės teisių žinovas, nuvykęs
+    į Žemaitijos pasienius, vietoje turėjo išspręsti, ar Veliuonos ir
+    Klaipėdos pilys yra Žemaičių žemės ribose, kadangi jau Budoje
+    pasiuntiniai Lietuvos vardu pareiškė, jog kryžiuočiai Klaipėdos pilį
+    valdą neteisėtai, nes ji esanti Žemaičių žemėje^8.
+    Su nepasitikėjimu priimtas Marienburge (1412.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    257
+    Vėbra R. 81
+    Vechra, upė 287, 312
+    Vedrošos kautynės 39
+    Veiviržo upė 180
+    Vėjukų pilis 227, 235
+    Velikaja, upė 158
+    Veliuona 77, 100, 105, 216, 236, 237,
+    244, 251, 256, 345-347, 352, 353,
+    357, 358, 360
+    Vėluva, Prūsuose 250, 252
+    Vencelis, Čekijos karalius 62, 373,
+    žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: 'Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Rudaičių ir Veliuonos
+    kapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,
+    1963, 55-70 p. ; t. 24, 1967, 47-58 p.), taip pat rašė apie Romos
+    monetų radinius Lietuvoje I-V a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029

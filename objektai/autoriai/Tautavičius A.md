@@ -53,3 +53,4 @@ Dusburgietis teigia, kad archeologijos duomenys rodo, jog skalvių gentinė kult
 
 ### Susiję objektai
 - [[objektai/grupes/Skalviai]]
+- [[objektai/ivykiai/Tauragės pučas]]

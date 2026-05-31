@@ -60,3 +60,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Gotai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Paulius iš Olivos]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/zodynas/kustodas ir gvardijonas]]

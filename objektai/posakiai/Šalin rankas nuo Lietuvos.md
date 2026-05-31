@@ -66,4 +66,7 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jelena Boner]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Michailas Gorbačiovas]]

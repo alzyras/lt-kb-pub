@@ -69,3 +69,18 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
+- [[objektai/autoriai/Alfonsas Eidintas]]
+- [[objektai/autoriai/Alfredas Bumblauskas]]
+- [[objektai/autoriai/Alvydas Jokubaitis]]
+- [[objektai/autoriai/Antanas Kulakauskas]]
+- [[objektai/autoriai/Inga Vinogradnaitė]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/autoriai/Mindaugas Tamošaitis]]
+- [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“]]

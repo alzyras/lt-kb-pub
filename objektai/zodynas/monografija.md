@@ -53,8 +53,12 @@ Monografijoje yra 320 puslapiu.
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
+- [[objektai/posakiai/1930 — VYTAUTO DIDŽIOJO — METAI]]
+- [[objektai/autoriai/A. Alekna]]
 - [[objektai/autoriai/A. Lewickis]]
+- [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/grupes/Sakalo bendrovė]]
+- [[objektai/autoriai/W. Hubatsch]]
 - [[objektai/autoriai/Kryczyński, St]]
 - [[objektai/grupes/Lietuvos Karininkų Ramovė]]
 - [[objektai/autoriai/St. Kryczyński]]

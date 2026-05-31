@@ -56,5 +56,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/litas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Lietuvos pinigai litas]]
 - [[objektai/zodynas/Valiutų valdybos modelis]]

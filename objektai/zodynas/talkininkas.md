@@ -50,4 +50,8 @@ Dusburgietis teigia, kad šventas komt.— komtūras talk.— talkininkas Liv. D
 - [[objektai/asmenys/Almimolinas]]
 - [[objektai/asmenys/Anonas (didysis magistras)]]
 - [[objektai/asmenys/Antiochas Epifanas]]
+- [[objektai/asmenys/Aldona Gediminaitė]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

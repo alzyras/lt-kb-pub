@@ -62,3 +62,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
+- [[objektai/ivykiai/T. Kosciuškos sukilimas]]
+- [[objektai/ivykiai/Vilniaus katedros ir Vilniaus rotušės rekonstrukcijos]]

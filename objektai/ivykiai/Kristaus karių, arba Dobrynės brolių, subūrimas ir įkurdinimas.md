@@ -123,3 +123,17 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Kristijonas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
+- [[objektai/asmenys/Brunonas]]
+- [[objektai/grupes/Dobrynės broliai]]
+- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
+- [[objektai/zodynas/Kristaus kariai]]

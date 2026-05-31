@@ -73,3 +73,7 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/de jure]]

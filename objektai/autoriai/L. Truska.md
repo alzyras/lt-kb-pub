@@ -62,5 +62,4 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Cechas]]
 - [[objektai/grupes/Lietuviai]]

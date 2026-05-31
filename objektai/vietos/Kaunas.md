@@ -19,19 +19,23 @@ susije_irasai:
   - '[[Lietuva]]'
   - '[[Nemunas]]'
 datos:
+  - '1272 m.'
   - '1350 m.'
   - '1361 m.'
   - '1362 m.'
   - '1368 m.'
   - '1382 m.'
   - '1384 m.'
+  - '1385 m.'
   - '1399 m.'
   - '1401 m.'
   - '1408 m.'
   - '1412 m.'
   - '1413 m.'
   - '1430 m.'
+  - '1432 m.'
   - '1831 m.'
+  - '1871 m.'
   - '1873 m.'
   - '1876 m.'
   - '1907 m.'
@@ -39,24 +43,22 @@ datos:
   - '1913 m.'
   - '1915 m.'
   - '1916 m.'
-  - '1918 m.'
-  - '1919 m.'
-  - '1922 m.'
-  - '1923 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
   - 'XX a.'
   - 'modernioji Lietuva'
   - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
 amziai:
+  - 'XIII'
   - 'XIV'
   - 'XV'
   - 'XIX'
   - 'XX'
   - 'XXI'
-date_start: '1350'
-date_end: '1923'
+date_start: '1272'
+date_end: '1916'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -489,6 +491,78 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-080
+  teiginys: 'Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos.'
+  pagrindžia:
+    - c-081
+- t-081
+  teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, L I E T U V O S I S T O R I J A 138 greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, padedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją.'
+  pagrindžia:
+    - c-082
+- t-082
+  teiginys: 'Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 173 bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuotą, atspindinčią lietuvių tautos religinę ir tautinę dvasią.'
+  pagrindžia:
+    - c-083
+- t-083
+  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
+  pagrindžia:
+    - c-084
+- t-084
+  teiginys: 'Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai industrializacijai ir urbanizacijai, septintąjį–aštuntąjį dešimtmetį pastatyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos perdirbimo įmonė, Jonavos azotinių trąšų.'
+  pagrindžia:
+    - c-085
+- t-085
+  teiginys: 'Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne – M.'
+  pagrindžia:
+    - c-086
+- t-086
+  teiginys: 'Valdžia atvirai kišosi į aukštųjų mokyklų reikalus, savo nuožiūra pakeitė Alma Mater pavadinimus (1950 m. Vytauto Didžiojo universitetas, tuomet jau pavadintas Kauno universitetu, reorganizuotas į Kauno politechnikos institutą ir Kauno medicinos institutą).'
+  pagrindžia:
+    - c-087
+- t-087
+  teiginys: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
+  pagrindžia:
+    - c-088
+- t-088
+  teiginys: 'Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.'
+  pagrindžia:
+    - c-089
+- t-089
+  teiginys: 'Birželio 10 dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje.'
+  pagrindžia:
+    - c-090
+- t-090
+  teiginys: 'O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją.'
+  pagrindžia:
+    - c-091
+- t-091
+  teiginys: 'Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­ kos sėkmingos, didysis magistras Konradas Ciolneris Rotenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų rugpjūtį ties Kaunu.'
+  pagrindžia:
+    - c-092
+- t-092
+  teiginys: 'Prie Kauno su jais susijungė, be Žemai- 23 Strijkovskis apsirinka nurody­ damas, esą Lankasteris, Anglijos ka­ raliaus Henriko sūnus, su didžiulė­ mis anglų, škotų bei prancūzų ir 1.'
+  pagrindžia:
+    - c-093
+- t-093
+  teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  pagrindžia:
+    - c-094
+- t-094
+  teiginys: 'Jo įsa­ kymu, buvo kuo rūpestingiausiai garantuojama laisva laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­ niaus miestiečių laivams su prekėmis, o keliantis perkėla visur atleidžiama nuo bet kokių mokesčių41.'
+  pagrindžia:
+    - c-095
+- t-095
+  teiginys: 'Kad įtiktų apgailėtinai politikai ir kad būtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis Šach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­ lėjime.'
+  pagrindžia:
+    - c-096
+- t-096
+  teiginys: 'Dusburgietis teigia, kad požėlos spaustuvė, Kaunas Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS Į ELEKTRONINĘ ERDVĘ“, 2013 TURINYS Pratarmė 5 Petro Dusburgiečio kronika 7 PRŪSIJOS ŽEMĖS KRONIKA 32 Pirma.'
+  pagrindžia:
+    - c-097
+- t-097
+  teiginys: 'Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai atgimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir.'
+  pagrindžia:
+    - c-098
 
 ## Reikšmingi paminėjimai
 
@@ -1860,3 +1934,411 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
+- c-081
+  santrauka: 'Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga
+    aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikė-
+    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors
+    Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
+    ji dažnai laikoma Rytų Europos dalimi. Tokiais atvejais turima galvoje ne
+    tiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-080
+- c-082
+  santrauka: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, L I E T U V O S I S T O R I J A 138 greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, padedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokietija pateikė
+    ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
+    reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą. Nau-
+    joji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,
+
+    L I E T U V O S  I S T O R I J A
+    138
+    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
+    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
+    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
+    Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
+    orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripa-
+    žinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba suge-
+    bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti
+    iš Vokietijos politikos diktato ir paskubomis kūrė valdžios ir savivaldybių
+    įstaigas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-081
+- c-083
+  santrauka: 'Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 173 bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuotą, atspindinčią lietuvių tautos religinę ir tautinę dvasią.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau tai dar ne viskas – rūpintasi tautinių ir valstybinių tradicijų kūrimu,
+    tautos atminimo vietų steigimu, tradicijų puoselėjimu – nacija turėjo įgy-
+    ti atmintinų vietų ir savo didvyrių. Sumanyta pastatyti Kaune Prisikėlimo
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    173
+    bažnyčią – tautos šventyklą, lietuvišku stiliumi ir lietuviškai ornamentuo-
+    tą, atspindinčią lietuvių tautos religinę ir tautinę dvasią. Į bažnyčią žiūrėta
+    kaip į tautos vieningumo aktą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-082
+- c-084
+  santrauka: 'Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė 46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovyklą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt., suėmė daug pogrindinės spaudos leidėjų ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-083
+- c-085
+  santrauka: 'Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai industrializacijai ir urbanizacijai, septintąjį–aštuntąjį dešimtmetį pastatyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos perdirbimo įmonė, Jonavos azotinių trąšų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    visų gyventojų.
+    Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai
+    industrializacijai ir urbanizacijai, septintąjį–aštuntąjį dešimtmetį pasta-
+    tyta daug didelių naujų pramonės įmonių (Kauno HES, Mažeikių naftos
+    perdirbimo įmonė, Jonavos azotinių trąšų gamykla, Ignalinos atominė
+    elektrinė (AE)). Dėl industrializacijos šalyje smarkiai padaugėjo darbi-
+    ninkų (1960 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-084
+- c-086
+  santrauka: 'Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne – M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Už-
+    darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-
+    taikytos uždarytos bažnyčios: Šv. Kazimiero bažnyčioje atidarytas Ateiz-
+    mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
+    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
+    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-085
+- c-087
+  santrauka: 'Valdžia atvirai kišosi į aukštųjų mokyklų reikalus, savo nuožiūra pakeitė Alma Mater pavadinimus (1950 m. Vytauto Didžiojo universitetas, tuomet jau pavadintas Kauno universitetu, reorganizuotas į Kauno politechnikos institutą ir Kauno medicinos institutą).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos aukštosiose mokyklose mokslas politizuotas (dėstytas priva-
+    lomas marksizmo-leninizmo kursas), aukštosios mokyklos pertvarky-
+    tos pagal SSRS aukštųjų mokyklų sistemą. Valdžia atvirai kišosi į aukš-
+    tųjų mokyklų reikalus, savo nuožiūra pakeitė Alma Mater pavadinimus
+    (1950 m. Vytauto Didžiojo universitetas, tuomet jau pavadintas Kauno
+    universitetu, reorganizuotas į Kauno politechnikos institutą ir Kauno
+    medicinos institutą).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-086
+- c-088
+  santrauka: '1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1972 m. gegužės 14 d. devyniolikme-
+    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
+    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
+    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-087
+- c-089
+  santrauka: 'Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    233
+    Užsienyje gyvenantys lietuviai rengė minėjimus, leido knygas, statė pa-
+    minklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
+    R. Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino ne-
+    formalių jaunimo grupių judėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-088
+- c-090
+  santrauka: 'Birželio 10 dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kadangi iniciatyvinę
+    grupę sudarė visoje šalyje žinomi in-
+    teligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių
+    visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia
+    apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą. Birželio 10
+    dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje. Pirmieji
+    tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-089
+- c-091
+  santrauka: 'O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas, Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry (Romanas Gari) ar Kaune gimęs ir gimnaziją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    gimęs ir
+    mokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro
+    ne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs
+    Chaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar
+
+    265
+    PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
+    „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-
+    torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
+    ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis. O beveik
+    kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar
+    Vladislas de Lubicz-Milosz), taip pat semiotikas Algirdas Julius Greimas,
+    Vilniuje užaugęs dukartinis Gonkūrų premijos laureatas Romain Garry
+    (Romanas Gari) ar Kaune gimęs ir gimnaziją baigęs filosofas Emmanuel
+    Levinas (Emanuelis Levinas).
+    Toliau įsivaizduokime: Lietuvai atstovauja ne tik Lietuvos ir NBA
+    žvaigždė krepšininkas Arvydas Sabonis, bet ir Amerikos krepšinio mo-
+    tina Senda Berenson-Abbot (Senda Berenson-Abot, g.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-090
+- c-092
+  santrauka: 'Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­ kos sėkmingos, didysis magistras Konradas Ciolneris Rotenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų rugpjūtį ties Kaunu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    40
+
+    ## Puslapis 57
+
+    I  KNYGA
+    vokiečių nagų į Lietuvą, suduodamas jiems didelį smūgį41.
+    Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
+    jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­
+    kos sėkmingos, didysis magistras Konradas Ciolneris Ro-
+    tenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų
+    rugpjūtį ties Kaunu persikėlė per Nemuną ir ėmė siautėti
+    visame krašte. Vilnius, tiesa, turėdamas tvirtovėse labai stip­
+    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
+    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
+    kotos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-091
+- c-093
+  santrauka: 'Prie Kauno su jais susijungė, be Žemai- 23 Strijkovskis apsirinka nurody­ damas, esą Lankasteris, Anglijos ka­ raliaus Henriko sūnus, su didžiulė­ mis anglų, škotų bei prancūzų ir 1.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    119
+
+    ## Puslapis 136
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    lankininkų, kurie išsilaipino Gdansko uostė, vadovavo Der­
+    bio grafas Henrikas, vyresnysis Lankasterio kunigaikščio Jo­
+    no sūnus, kuris vėliau kaip Henrikas IV paveldėjo Anglijos
+    sostą23. Prancūzams ir kitiems kariams vadovavo narsusis
+    riteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-
+    23
+    Strijkovskis apsirinka nurody­
+    damas, esą Lankasteris, Anglijos ka­
+    raliaus Henriko sūnus, su didžiulė­
+    mis anglų, škotų bei prancūzų ir 1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-092
+- c-094
+  santrauka: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-093
+- c-095
+  santrauka: 'Jo įsa­ kymu, buvo kuo rūpestingiausiai garantuojama laisva laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­ niaus miestiečių laivams su prekėmis, o keliantis perkėla visur atleidžiama nuo bet kokių mokesčių41.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
+    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
+    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
+    siljevičiaus užmačių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-094
+- c-096
+  santrauka: 'Kad įtiktų apgailėtinai politikai ir kad būtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis Šach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­ lėjime.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Aplink
+    miestą su savo palyda palapinėse klajojo Šach Achmedas, o
+    Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­
+    kuriavo karaliaus45. Kad įtiktų apgailėtinai politikai ir kad
+    būtų suimtas bei įbaugintas Mendli Girėjus, nelaimingasis
+    Šach Achmedas buvo iki gyvos galvos įkalintas Kauno ka­
+    lėjime. Tačiau Aleksandro planai pasirodė esą klaidingi, nes
+    totoriai, nepaisydami grasinimų, jog Šach Achmedas bet ka­
+    da gali būti išlaisvintas ir kenkti jiems, netrukus su didžiu­
+    lėmis pajėgomis įsiveržė į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-095
+- c-097
+  santrauka: 'Dusburgietis teigia, kad požėlos spaustuvė, Kaunas Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS Į ELEKTRONINĘ ERDVĘ“, 2013 TURINYS Pratarmė 5 Petro Dusburgiečio kronika 7 PRŪSIJOS ŽEMĖS KRONIKA 32 Pirma.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    PETRAS DUSBURGIETIS
+
+     PRŪSIJOS ŽEMĖS
+        KRONIKA
+
+
+
+                Vaga VILNIUS,
+                  1985 M.
+
+
+                          K. Požėlos spaustuvė, Kaunas
+
+
+    Kūrinys suskaitmenintas vykdant ES struktūrinių fondų remiamą projektą
+            „LIETUVIŲ LITERATŪROS KLASIKOS KŪRINIŲ PERKĖLIMAS
+                               Į ELEKTRONINĘ ERDVĘ“, 2013
+
+    TURINYS
+
+    Pratarmė                                           5
+    Petro Dusburgiečio kronika                            7
+    PRŪSIJOS ŽEMĖS KRONIKA                           32
+      Pirma knygos dalis                                                36
+      Antra knygos dalis                                                42
+       Trečia knygos dalis                                                52
+       Ketvirta knygos dalis (Apie įvykius)                                  225
+      Papildymas                                                     252
+    Bibliografija                                      259
+    Asmenvardžių rodyklė                              279
+    Vietovardžių, etnonimų ir kai kurių istorijos dalykų rodyklė 298
+
+    PETRI DE DUSBURG
+
+
+    CHRONICA TERRAE
+        PRUSSIAE
+
+    Lituanistinė biblioteka
+
+    Pratarmė
+
+
+
+      XIV a.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-096
+- c-098
+  santrauka: 'Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai atgimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sukilėliai užimtame Kaune pastatė
+    vokiečius prieš įvykusį faktą – užėmus radiją 1941 m. birželio 23 d. LAF
+    atstovas Leo­nas Prapuolenis pranešė: „Susidariusi laikinoji vėl naujai at-
+    gimstančios Lietuvos Vyriausybė šiuo skelbia atstatanti laisvą ir nepri-
+    klausomą Lietuvos valstybę“, kad „jaunoji Lietuvos valstybė entuzias-
+    tingai pasižada prisidėti prie Europos organizavimo naujais pagrindais“,
+    negailėta šiltų žodžių nacių Vokietijai, kuri „išgelbėjo Europos kultūrą ir
+    civilizaciją“ nuo raudonojo teroro, lietuviai pakviesti imtis ginklo ir padė-
+    ti vokiečių kariuomenei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-097

@@ -162,3 +162,10 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/Tėvūnija|tėvūnija]]
+- [[objektai/zodynas/urėdas]]

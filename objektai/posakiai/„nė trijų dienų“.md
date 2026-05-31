@@ -37,7 +37,10 @@ Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos L I E T U V O S I S T O R I J A 182 kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į tą teritoriją ir nežinia kur sustos, 5 valandas trukusiame Ministrų kabineto.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1939 m. kovo 20 d. Vokietija ultimatyviai pareikalavo perduoti Klaipėdos kraštą ir pagrasino kariuomenės įžygiavimu.'
@@ -62,9 +65,11 @@ Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

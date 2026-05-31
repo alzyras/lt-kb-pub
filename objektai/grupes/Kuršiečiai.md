@@ -81,6 +81,7 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/zodynas/arkebuzieriai]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]

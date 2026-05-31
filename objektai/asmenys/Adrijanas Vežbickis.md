@@ -1,0 +1,62 @@
+---
+tipas: asmuo
+pavadinimas: 'Adrijanas Vežbickis'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1623 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+date_start: '1623'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - asmuo
+---
+# Adrijanas Vežbickis
+
+## Santrauka
+
+Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­ reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po 100 auksinų kolegija duotų knygoms įsigyti; tad šie.
+
+## Teiginiai
+- t-001
+  teiginys: 'Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­ reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po 100 auksinų kolegija duotų knygoms įsigyti; tad šie.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­ reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po 100 auksinų kolegija duotų knygoms įsigyti; tad šie.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , yra įpa­
+    reigota du padėjėjus ir penkis iš tarnų maitinti.
+    F) Žinios apie Bibliotekai funduotus
+    pradinius turtus ir pajamas
+    Savo gyvavimo pradžioje biblioteka neturėjo jokių lėšų,
+    tik laikui bėgant iš įvairių Societatis JESU asmenų įgijo; taigi:
+    1623 metų rugpjūčio 13 diena. Jo Karališkosios Didenybės
+    sekretorius Adrijanas Vežbickis, užrašydamas Blonių valdą
+    Minsko vaivadijoje Akademijos kolegijai, be kitų uždėtų pa­
+    reigų šiai valdai, įpareigojo, kad iš jos pajamų kasmet po
+    100 auksinų kolegija duotų knygoms įsigyti; tad šie visada
+    jai atitekdavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Bibliotekos knygos]]
+- [[objektai/paprociai/Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis]]

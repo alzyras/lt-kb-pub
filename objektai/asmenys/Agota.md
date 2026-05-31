@@ -128,6 +128,7 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas)]]
 - [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas)]]
+- [[objektai/asmenys/Boleslovas]]
 - [[objektai/asmenys/Gernuldas]]
 - [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]]
 - [[objektai/asmenys/Grigalius (vicekancleris)]]

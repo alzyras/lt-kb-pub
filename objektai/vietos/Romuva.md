@@ -40,6 +40,10 @@ tags:
   teiginys: 'Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­ vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­ vių Krivaičio pagrindinė buveinė).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,3 +90,22 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­ vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­ vių Krivaičio pagrindinė buveinė).'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vaikių krašte buvo šventoji giria, ku­
+    ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
+    tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai
+    išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­
+    ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
+    Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
+    vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
+    vių Krivaičio pagrindinė buveinė).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

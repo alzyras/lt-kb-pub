@@ -57,6 +57,10 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   teiginys: 'Dusburgietis teigia, kad 491 Greičiausiai kalbama apie lietuvių kariuomenės įsiveržimą 1282 m. rudenį į Sandomežo žemę ir mūšį Ruvne (Równe), Sandomežo žemės šiaurės rytuose, į pietus nuo Drohičino (Długosz J., Roczniki..., kn. 7 (1974), p. 282—285; Krakowski S., Obrona..., p..'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad iš šio vertimo Dusburgiečio kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.'
@@ -117,3 +121,18 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad iš šio vertimo Dusburgiečio kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Iš šio vertimo Dusburgiečio
+    kronika, jos mintys plačiau paplito tiek tarp Ordino brolių, tiek vėlesnėje istoriografijoje.
+      Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
+    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

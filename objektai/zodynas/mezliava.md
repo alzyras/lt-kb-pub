@@ -95,3 +95,12 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 
 ## Pastabos
 - Konkretus mokėjimo turinys kinta pagal vietą ir laiką, bet prievolinės duoklės reikšmė aiški.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Duona]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/zodynas/Dabą|dabą]]
+- [[objektai/zodynas/tėvūnas]]
+- [[objektai/zodynas/Lažas|lažas]]
+- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]

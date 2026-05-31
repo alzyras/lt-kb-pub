@@ -34,9 +34,27 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Kitokios institucijos minėtais dokumentais nebuvo įsteigtos.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kitokios institucijos minėtais dokumentais nebuvo įsteigtos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kitokios
+    institucijos minėtais dokumentais nebuvo įsteigtos. Vilniaus -
 
+    (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, iš­
+    duotą 1386 m. gegužės 10 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Vytauto vasalystės dokumentas buvo išduotas 1386 m. gegužės 10 d.'

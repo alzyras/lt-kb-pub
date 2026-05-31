@@ -39,7 +39,10 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vladislovas iš Opolės sutiko, kad Dobrynė ir Kujavija būtų parduotos Ordinui, ir įkeitė Dobrynės žemę.'
@@ -72,9 +75,27 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tą žemę Kazimieras III buvo atidavęs
+    Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
+    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją. Kadangi
+    Liudvikas norėjo tą žemę prijungti prie Vengrijos, tai Vladis­
+    lovą iš čia pavarė: jam už tai davė Valdyti Kujaviją, esančią
+    kitame Vislos krante priešais Dobrynę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vladislovas]]

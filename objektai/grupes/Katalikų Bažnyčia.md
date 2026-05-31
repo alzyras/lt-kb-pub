@@ -133,6 +133,26 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginys: 'Dusburgietis teigia, kad šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija.'
   pagrindžia:
     - c-017
+- t-018
+  teiginys: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Nesitaikstanti visuomenė Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Šiuo raštu skelbiame visiems, kam dera žinoti, kad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus vyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­ vos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­ tąja Romos katalikų Bažnyčia, bet.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Jo Prakilnybė nenorėjo priesaika įsipa­ reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja katalikų tikėjimui.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Visų pirma pripažinome ir pri­ pažįstame, kad mes mirsime, laikydamiesi tvarkos ir vieny­ bės su šventąja motina Bažnyčia ir Romos tikėjimu, todėl su priklausančiu nuolankumu ir pasišventimu išpažinties, Eu­ charistijos ir švento patepimo sakramentus priėmėme.'
+  pagrindžia:
+    - c-022
 
 ## Reikšmingi paminėjimai
 
@@ -458,10 +478,189 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-018
+  santrauka: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Visa tai – Mindaugo politikos rezulta-
+    tas. Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
+    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
+    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
+    toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
+    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Nesitaikstanti visuomenė Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Savo ruožtu pagrindinis tikslas – Lietu-
+    vos nepriklausomybės atkūrimas – skatino vienytis lietuvių diplomatus ir
+    išeiviją, siekti tėvynės laisvinimo pajėgų vienybės.
+    Nesitaikstanti visuomenė
+    Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta ka-
+    talikiška šalis. Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų,
+    juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė
+    siejosi su komunistinei vadovybei nepageidautinu „vakarietiškumu“ –
+    katalikybės centru Vatikane, nepavaldžiu Maskvai, todėl su katalikybe
+
+    L I E T U V O S  I S T O R I J A
+    228
+    elgtasi brutaliau nei su kitomis religijomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Šiuo raštu skelbiame visiems, kam dera žinoti, kad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus vyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­ vos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­ tąja Romos katalikų Bažnyčia, bet.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ponas
+    ir tėvonis. Šiuo raštu skelbiame visiems, kam dera žinoti,
+    kad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus
+    vyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­
+    vos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­
+    tąja Romos katalikų Bažnyčia, bet ir daugelį kitų naujais
+    mokslais suklaidina. Suvokdamas, kad jo ganytojiškoms
+    pareigoms priklauso rūpintis, kad jam patikėta kaimenė
+    dogmomis apnuodytu pašaru nebūtų pavojingai nuodija­
+    ma, nutarė kuo rūpestingiausiai ir kruopščiausiai išsiaiš­
+    kinti viską apie Abraomo gyvenimą, papročius, mokslą ir
+    išsiaiškino bei iš patikimų ir pasitikėjimo vertų, priesaiką
+    davusių žmonių liudijimų patyrė, kad anas tiek žodžiais,
+    tiek darbais sąmoningai išpažįsta svetimą, Romos katalikų
+    Bažnyčios pasmerktą mokslą, taip pat stengiasi, kad kartu
+    su juo ir visi kiti Didžiosios Kunigaikštystės žmonės tiems
+    bedieviškiems jo įtikinėjimams paklustų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Jo Prakilnybė nenorėjo priesaika įsipa­ reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja katalikų tikėjimui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taigi mes nusprendėme taip ir padaryti,
+    juolab kad šios apskritys mums turi būti perduotos tiktai
+    užstato, o ne dominijos teise. Bet negalime karštai negirti to
+    paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­
+    žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai
+    šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo,
+    kad su ja nesutiktume, ir šio dalyko paliudijimą jam norėjo­
+    me suteikti ir suteikiame šiuo mūsų raštu, visiems išaiški­
+    nančiu, kad jo Prakilnybė nieko, kas išmintingam senato­
+    riui ir pamaldžiam bei mūsų išganymu besirūpinančiam
+    ganytojui ir vyskupui pagal tikėjimą galėjo priklausyti, šiuo
+    reikalu nepraleido. Jo Prakilnybė nenorėjo priesaika įsipa­
+    reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja
+    katalikų tikėjimui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Visų pirma pripažinome ir pri­ pažįstame, kad mes mirsime, laikydamiesi tvarkos ir vieny­ bės su šventąja motina Bažnyčia ir Romos tikėjimu, todėl su priklausančiu nuolankumu ir pasišventimu išpažinties, Eu­ charistijos ir švento patepimo sakramentus priėmėme.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Paskutinį testamentą ir paskutinę mūsų žemiau
+    išreikštą valią pateikėme, išdėstėme, išreiškėme ir aprašė­
+    me bei šiuo raštu aprašome. Visų pirma pripažinome ir pri­
+    pažįstame, kad mes mirsime, laikydamiesi tvarkos ir vieny­
+    bės su šventąja motina Bažnyčia ir Romos tikėjimu, todėl su
+    priklausančiu nuolankumu ir pasišventimu išpažinties, Eu­
+    charistijos ir švento patepimo sakramentus priėmėme ir pri­
+    imame. Ir geidėme, kad mums būtų dvasiškai duoti ir su­
+    teikti [sakramentai], kaip visada, juolab dabar, kai Dievas iš
+    —  • —
+    369
+
+    ## Puslapis 386
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    et animam nostram DEO et Salvatori nostro, corpus vero
+    terrae commendamus, cui sepulturam inter olim Lustą divo­
+    rum avi Genitoris et germani nostrorum Regum Polonie in
+    Regno nostro designamus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gregorijus Cemblakas]]
 - [[objektai/zodynas/metropolija bažnytinė provincija]]
 - [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]
+- [[objektai/asmenys/Abraomas]]
 - [[objektai/asmenys/Abraomas Kulvietis]]
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Kauneckas]]
+- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Protestantai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
+- [[objektai/zodynas/dominija]]
+- [[objektai/zodynas/kulto laisvė]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/pradai]]
+- [[objektai/zodynas/protestantizmas]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/autoriai/A. Alekna]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kristijonas]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/zodynas/akcijos]]
+- [[objektai/asmenys/Alfonsas Svarinskas]]
+- [[objektai/asmenys/Andrius Štirlandas]]
+- [[objektai/autoriai/Henrikas Latvis]]
+- [[objektai/autoriai/Hermanas iš Vartbergės]]
+- [[objektai/asmenys/Jonas Kristupas Glaubicas]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/autoriai/Sigitas Tamkevičius]]
+- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
+- [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]
+- [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]
+- [[objektai/autoriai/Vygandas iš Marburgo]]
+- [[objektai/zodynas/barokas]]

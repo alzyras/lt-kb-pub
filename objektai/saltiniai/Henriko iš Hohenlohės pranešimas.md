@@ -64,6 +64,10 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   teiginys: 'Dusburgietis teigia, kad dusburgiečio šaltinis — Henriko iš Hohenlohės pranešimas — pateikia kiek kitokią kryžiuočių pilių statybos seką: po Marienverderio buvęs statytas Cristhborgk, o tik po to — Elbingas, Honeda — Baiga (SRP, 5, p. 160; PKD, p. 37).'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Dusburgietis teigia, kad henriko iš Hohenlohės pranešime nurodoma, kad mūšis įvykęs an eyn wasser, das heyst Ozze (SRP, 5, 162).'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
@@ -169,3 +173,18 @@ Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Dusburgietis teigia, kad henriko iš Hohenlohės pranešime nurodoma, kad mūšis įvykęs an eyn wasser, das heyst Ozze (SRP, 5, 162).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    112). Henriko iš
+    Hohenlohės pranešime nurodoma, kad mūšis įvykęs an eyn wasser, das heyst Ozze
+    (SRP, 5, 162).
+      280 Kautynės įvyko 1243 (1242?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

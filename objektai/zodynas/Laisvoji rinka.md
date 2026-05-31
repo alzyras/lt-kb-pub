@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -30,7 +36,10 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Griuvus sovietinei sistemai ir atsivėrus sienoms į kapitalistinį Vakarų pasaulį, paaiškėjo reali Lietuvos ūkio galia – dauguma pramonės įmonių dėl aprūpinimo žaliavomis (pagrindinė jų tiekėja buvo SSRS) ir rinkos tapo niekam nereikalingos, išplėtota staklių.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį nei dešimties procentų nuosmukį, nes 22 proc. produkcijos eksportavo į SSRS.'
@@ -61,3 +70,23 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Griuvus sovietinei sistemai ir atsivėrus sienoms į kapitalistinį Vakarų pasaulį, paaiškėjo reali Lietuvos ūkio galia – dauguma pramonės įmonių dėl aprūpinimo žaliavomis (pagrindinė jų tiekėja buvo SSRS) ir rinkos tapo niekam nereikalingos, išplėtota staklių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Griuvus
+    sovietinei sistemai ir atsivėrus sienoms į kapitalistinį Vakarų pasaulį, pa-
+    aiškėjo reali Lietuvos ūkio galia – dauguma pramonės įmonių dėl aprūpi-
+    nimo žaliavomis (pagrindinė jų tiekėja buvo SSRS) ir rinkos tapo niekam
+    nereikalingos, išplėtota staklių pramonė ir kitų šakų įmonės paprasčiau-
+    siai neteko užsakymų, panaši situacija susiklostė Latvijoje, Estijoje ir ki-
+    tose buvusiose komunistinio bloko valstybėse. Netgi Suomijos, laisvosios
+    rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuos-
+    mukį, nes 22 proc. savo produkcijos Suomija eksportavo į SSRS.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

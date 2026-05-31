@@ -80,5 +80,15 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkų bajorai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)]]
+- [[objektai/ivykiai/Vienos išvadavimas (1683 m.)]]
+- [[objektai/ivykiai/Vilhelmo iš Modenos pasiuntinybė ir kryžiaus karo skelbimas prieš Sventopelko persekiojimą (1243 m.)]]
+- [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]
 - [[objektai/zodynas/bažnytinė valstybė]]

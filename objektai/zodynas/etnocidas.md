@@ -51,4 +51,6 @@ Pakvipo planingu, lėtiniu etnocidu.
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/homo sovieticus]]

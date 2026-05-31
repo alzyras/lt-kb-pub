@@ -138,3 +138,4 @@ Nenurodyta
 - [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Vytenis]]

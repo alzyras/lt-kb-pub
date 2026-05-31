@@ -214,3 +214,27 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Lietuvos krikštas]]
+- [[objektai/asmenys/Lizdeika]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Netimeras]]
+- [[objektai/posakiai/Rex Lethowye]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas Didysis]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]

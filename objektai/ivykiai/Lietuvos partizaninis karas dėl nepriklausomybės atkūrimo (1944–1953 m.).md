@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1944 m.'
+  - '1946 m.'
+  - '1947 m.'
+  - '1948 m.'
+  - '1953 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1940'
+date_end: '1953'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -53,6 +67,10 @@ Nenurodyta
   teiginys: 'Nors partizaninis karas, kovojant vienų vieniems, ir pralaimėtas, jo reikšmė didelė.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -128,3 +146,36 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Karas po karo – ginkluota rezistencija
+    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
+    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
+    dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
+
+    L I E T U V O S  I S T O R I J A
+    210
+    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
+    kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
+    įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
+    netekusioms šalims, kad Vakarai pakils į žygį prieš J.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/posakiai/karas po karo]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuvos partizanai]]
+- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
+- [[objektai/posakiai/„karas po karo“]]

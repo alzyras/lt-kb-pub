@@ -52,3 +52,7 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Stambiųjų Lietuvos bankų griūtis ir moratoriumas dviem komerciniams bankams (1995 m. pabaiga)]]

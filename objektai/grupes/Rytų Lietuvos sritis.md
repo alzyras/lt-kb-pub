@@ -88,4 +88,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Slučka-Šarūnas]]
+- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]

@@ -54,8 +54,5 @@ Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­ prastieji žmonės, kuni
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/zodynas/sidabrinė duoklė]]

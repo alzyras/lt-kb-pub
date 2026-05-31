@@ -85,9 +85,8 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Kaributas]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
 - [[objektai/daiktai/Aleksandro pinigai]]

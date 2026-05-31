@@ -105,3 +105,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/dykra]]

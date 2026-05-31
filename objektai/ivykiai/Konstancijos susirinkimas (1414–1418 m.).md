@@ -139,9 +139,17 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jurgis Geldgaudas]]
+- [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/Savanoris]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Jonas Paleologas]]
 - [[objektai/asmenys/Manuelis]]
+- [[objektai/asmenys/Vytautas Didysis]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/zodynas/Vakarų Bažnyčios schizma]]

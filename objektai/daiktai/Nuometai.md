@@ -75,3 +75,4 @@ Nenurodyta
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

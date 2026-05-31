@@ -163,4 +163,18 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Aldona Gediminaitė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/talkininkas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
+- [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]]

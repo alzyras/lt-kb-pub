@@ -116,5 +116,9 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
+- [[objektai/ivykiai/Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)]]
 - [[objektai/grupes/Lietuvos seimas (1924 m.)]]
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

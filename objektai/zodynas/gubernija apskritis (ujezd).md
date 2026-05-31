@@ -66,5 +66,8 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/zodynas/autokratinė monarchinė imperija]]

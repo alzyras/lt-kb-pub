@@ -65,3 +65,4 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
 - [[objektai/grupes/Jono Mejeno divizija]]
+- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]

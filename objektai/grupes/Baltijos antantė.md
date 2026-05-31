@@ -46,5 +46,5 @@ Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.)]]
 - [[objektai/grupes/Antantė]]
+- [[objektai/ivykiai/Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.)]]

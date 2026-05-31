@@ -170,6 +170,12 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Vilniaus baroko mokykla]]
+- [[objektai/grupes/Katalikų Bažnyčia]]

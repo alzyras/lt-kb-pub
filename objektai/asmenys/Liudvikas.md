@@ -107,11 +107,17 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]
 - [[objektai/asmenys/Fridrichas iš Holdenštetės]]
 - [[objektai/asmenys/Kantigirdas]]
+- [[objektai/daiktai/Karūna]]
 - [[objektai/ivykiai/Kimelio pilies sunaikinimas (1296 m.)]]
 - [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]
 - [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]
+- [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]
 - [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]
 - [[objektai/asmenys/Liudvikas Bavaras]]
 - [[objektai/asmenys/Liudvikas iš Baldensheimo]]
@@ -123,7 +129,9 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]
 - [[objektai/asmenys/Skomantas]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Ulrichas Bajeris]]
+- [[objektai/asmenys/Vadolis]]
 - [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/ginklanešys]]

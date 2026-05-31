@@ -10,15 +10,19 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: juodrastis
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1410 m.'
+  - '1429 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1410'
+date_end: '1429'
 patikimumas: aukštas
 atnaujinta: '2026-05-02'
 tags:
@@ -58,7 +62,10 @@ tags:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-007
+  teiginys: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Antemurale Christianitatis“ siejama su gilia Lietuvos kovos Vakarų civilizacijos vertybių pusėje tradicija.'
@@ -117,6 +124,27 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-004
+  santrauka: 'Jau pirmieji krikščioniški Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes christiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius, formuodami „antemurale Christianitatis“ ideologiją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
+    žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą
+
+    Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
+    zaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik
+    barjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški
+    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
+    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
+    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
+    Lucko suvažiavime 1429 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -124,5 +152,8 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]

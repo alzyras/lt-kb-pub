@@ -68,6 +68,14 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginys: 'Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Jeigu kredenso pritrūktų, prašo­ me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam būtų sumokėta, kad būtų dievobaimingai už ištikimą savo tarnystę atlyginti, o jeigu šis mūsų kredensas būtų.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -246,3 +254,50 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jogaila taip pat
+    nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
+    tuvoje, juolab kad žinojo, jog šį kartą aplenkdamas Švitri­
+    gailą, uoliai prisirišusį prie graikų tikėjimo ir todėl turintį
+    daug bičiulių, krašte sukeltų pilietinį karą1 . Taigi Švitrigaila
+    Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­
+    je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­
+    tinės Šv. Stanislovo katedroje jį iškilmingai paskelbė didžiuo­
+    ju kunigaikščiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Jeigu kredenso pritrūktų, prašo­ me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam būtų sumokėta, kad būtų dievobaimingai už ištikimą savo tarnystę atlyginti, o jeigu šis mūsų kredensas būtų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jeigu kredenso pritrūktų, prašo­
+    me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš
+    valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam
+    būtų sumokėta, kad būtų dievobaimingai už ištikimą savo
+    tarnystę atlyginti, o jeigu šis mūsų kredensas būtų didesnis,
+    negu reikalinga tarnų atlyginimams, tegu bus leista jų dide­
+    nybėms mūsų seserims paimti ir tarpusavyje pasidalinti su­
+    sidėjus mūsų tarnų algoms po tiek, po kiek kiekvieno daliai
+    teks, apskaičiavus sumas, kokio dydžio jų mūsų dvaro atly­
+    ginimui prireiks. Visus bet kokio pavadinimo pabūklus, ar-
+    kebuzas, muškietas, pėstininkų ginklus ir kitą karo amunici­
+    ją bei įrangą, kokie yra Lenkijos Karalystėje - atiduodame
+    Karalystei. Taip pat Lietuvoje esančius ir kur kitur paveda­
+    me Lietuvos Kunigaikštystei, bet tie, kurie yra Tikocine ir
+    visi ginklai bei karinė amunicija privalo ten likti kaip mūsų
+    nuosavoje pilyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

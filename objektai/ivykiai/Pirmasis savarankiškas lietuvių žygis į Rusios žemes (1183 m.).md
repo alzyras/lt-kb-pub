@@ -58,3 +58,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje]]
+- [[objektai/paprociai/Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes]]

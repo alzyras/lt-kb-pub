@@ -97,9 +97,21 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/grupes/Protestantai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
+- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/grupes/Unitai]]
+- [[objektai/grupes/Unitų bažnyčia unitai]]

@@ -8,18 +8,20 @@ aliases:
   - 'Medininkų pilis'
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-datos: []
-periodas: 'viduramziai'
-periodo_grupes: []
-amziai:
-  - 'XV'
-date_start: ''
-date_end: ''
 bukle: juodrastis
 laikotarpis: "Vytauto laikai"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1492 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1492'
+date_end: ''
 patikimumas: "aukstas"
 atnaujinta: '2026-04-28'
 tags: []
@@ -66,6 +68,10 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   teiginys: 'Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Kazimiero koplyčioje sienos nuo įėjimo, dažnai viešėdavęs per keturias mylias nuo Vilniaus nutolusioje Medininkų pi­ lyje, esančioje prie Ašmenos kelio.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -143,6 +149,31 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Kazimiero koplyčioje sienos nuo įėjimo, dažnai viešėdavęs per keturias mylias nuo Vilniaus nutolusioje Medininkų pi­ lyje, esančioje prie Ašmenos kelio.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Prabėgus
+    aštuoneriems metams, pats karalius Kazimieras, būdamas
+    Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­
+    nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­
+    niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia
+    šį pasaulį.
+    39
+    Šventasis Kazimieras, kurio mirtis,
+    tapytojo Dankerso pavaizduota
+    al fresco ant kairės Šv. Kazimiero
+    koplyčioje sienos nuo įėjimo, dažnai
+    viešėdavęs per keturias mylias nuo
+    Vilniaus nutolusioje Medininkų pi­
+    lyje, esančioje prie Ašmenos kelio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

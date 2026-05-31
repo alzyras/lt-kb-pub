@@ -69,7 +69,14 @@ tags:
   teiginys: '237 įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­ ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­ nijos ir Podolijos.'
   pagrindžia:
     - c-007
-
+- t-008
+  teiginys: 'Jo žemes pasili­ ko sau, o jam pavedė valdyti Sieversko - Naugardą.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: '— 237 įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­ ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­ nijos ir Podolijos.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Naugardas Sieverskas buvo viena iš užimtų Dniepro ir Desnos upyno kunigaikštysčių.'
@@ -183,3 +190,41 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Jo žemes pasili­ ko sau, o jam pavedė valdyti Sieversko - Naugardą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Sekančiais metais sukilo ir Volynijos kun. Feodoras, Liu­
+    barto sūnus. Vytautas greit ir jį numalšino. Jo žemes pasili­
+    ko sau, o jam pavedė valdyti Sieversko - Naugardą. Bet jis čia
+    neilgai pabuvęs irgi pabėgo į Vengriją, iš kur abu su Švitrigaila
+    susižinodavo su Ordinu, ruošdami Vytautui pinkles.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: '— 237 įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­ ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­ nijos ir Podolijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    , II, 662-711 (Wegeberichte).
+
+
+    ```
+    — 237
+    ```
+    įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­
+    ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­
+    nijos ir Podolijos. Visi šių kunigaikščių, daugiausia jau minėtų
+    tėvynainių, dvarai su visa dirbama ir nedirbama žeme, žmonė­
+    mis, gyvuliais ir padargais pateko į tiesioginę Vytauto valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

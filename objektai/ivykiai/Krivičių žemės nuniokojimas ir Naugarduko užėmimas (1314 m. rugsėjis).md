@@ -100,3 +100,4 @@ Nenurodyta
 - [[objektai/daiktai/Duona]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

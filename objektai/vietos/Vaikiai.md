@@ -45,6 +45,10 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
   teiginys: 'Dusburgietis teigia, kad 1330 viešpaties metais Markos bei Manderšeido grafai ir Julicho grafo brolis atžygiavo su daugybe karių bei kilmingųjų iš Vokietijos į Prūsijos žemę, o žiemą atvyko čia magistras ir išsiuntė su jais į žygį 100 brolių bei tris tūkstančius raitelių, kurie.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Vaikių krašte buvo šventoji giria, ku­ ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­ tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai išžudyti.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, kur — irgi iš pasalų — nukovė daug kilmingųjų.'
@@ -126,3 +130,21 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Vaikių krašte buvo šventoji giria, ku­ ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­ tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai išžudyti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Belaisvių ėmimas, krašto niokojimas bei
+    plėšikavimas, kaip ir per ankstesnius puolimus, buvo vie­
+    ninteliai žygio tikslai. Vaikių krašte buvo šventoji giria, ku­
+    ri kartu su netoliese stovėjusia pilimi ir aplinkiniais pasta­
+    tais vieną naktį buvo sudeginta iki pamatų, visi gyventojai
+    išžudyti. Baigusi kruvinus darbus, ginkluota palyda kitą die­
+    ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

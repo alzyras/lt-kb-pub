@@ -73,6 +73,18 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   teiginys: 'Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: '6 dešimtmetyje ## Puslapis 89 Viršutinė Lietuvos didžiojo kanclerio ir maršalkos Mikalojaus Radvilos Juodojo šarvų dalis, pagaminta Niurnberge, meistro Kunzo Lochnerio, apie 1555 m. Žygimanto Augusto pistoletas su ratukine spyna (Puffer) su Lenkijos ereliu ir.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Taigi, išreikšdami jam didžiau­ sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­ likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo labiausiai pasišventusi Respublikai ir vadovams, mes nu­ sprendėme jį - kurio pastovia ištikimybe jau nuo jo.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -345,7 +357,124 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: '6 dešimtmetyje ## Puslapis 89 Viršutinė Lietuvos didžiojo kanclerio ir maršalkos Mikalojaus Radvilos Juodojo šarvų dalis, pagaminta Niurnberge, meistro Kunzo Lochnerio, apie 1555 m. Žygimanto Augusto pistoletas su ratukine spyna (Puffer) su Lenkijos ereliu ir.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Žygimanto Augusto
+    paradiniai šarvai, pa-
+
+    gaminti Niunberge meistro
+    Kunzo Lochnerio, XVI a.
+    6 dešimtmetyje
+
+    ## Puslapis 89
+
+    Viršutinė Lietuvos didžiojo kanclerio ir
+    maršalkos Mikalojaus Radvilos Juodojo
+    šarvų dalis, pagaminta Niurnberge, meis-
+    tro Kunzo Lochnerio, apie 1555 m.
+
+    Žygimanto Augusto pistoletas su
+    ratukine spyna (Puffer) su Lenkijos
+    ereliu ir raide S (Sigismundus)
+    Vokietija, XVI a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Tą Filipovo namą kunigaikščio Kristupo tėvas Mikalojus Radvila Juodasis, Vilniaus vaivada, Lietuvos kancleris, nuomojo iš kapitulos pagal sutartį nuo 1541 metų ir kasmet mokėjo po 20 kapų lietuviškų grašių dėl to, kad sujungęs su savo namu, turėtų erd­ vesnį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O Jurgio brolis, kunigaikštis Mi­
+    kalojus Kristupas, Lietuvos Didžio­
+    sios Kunigaikštystės rūmų maršalka,
+    tapo savininku namų, vadintų Filipo-
+    vo namais, susidedančių iš keleto
+    medinių, moliu aplipdytų, pastatų,
+    užimančių dabartinį Kardinalijos
+    sparną nuo Didžiosios gatvės. Tą Fi-
+    lipovo namą kunigaikščio Kristupo
+    tėvas Mikalojus Radvila Juodasis,
+    Vilniaus vaivada, Lietuvos kancleris,
+    nuomojo iš kapitulos pagal sutartį
+    nuo 1541 metų ir kasmet mokėjo po
+    20 kapų lietuviškų grašių dėl to, kad
+    sujungęs su savo namu, turėtų erd­
+    vesnį būstą. Šis činšas buvo mokamas
+    vienuolika metų, bet paskui liautasi
+    mokėti, ir kapitula su kunigaikščiu
+    Kristupu pradėjo teismo procesą dėl
+    Filipovo namo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Taigi, išreikšdami jam didžiau­ sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­ likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo labiausiai pasišventusi Respublikai ir vadovams, mes nu­ sprendėme jį - kurio pastovia ištikimybe jau nuo jo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taigi, išreikšdami jam didžiau­
+    sią mūsų palankumą, už akivaizdžius jo nuopelnus Respub­
+    likai ir jos valdovams, už tai, kad Radvilų šeima visada buvo
+    labiausiai pasišventusi Respublikai ir vadovams, mes nu­
+    sprendėme jį - kurio pastovia ištikimybe jau nuo jo jaunys­
+    tės laikų rėmėmės ir vėliau bet kokiu atveju tikimės remtis -
+    ir jo įpėdinius apdovanoti ypatingos malonės ženklu. Todėl
+    savo valia, karališkąja valdžia, kunigaikščio pastovia ir am­
+    žina galia duodame ir suteikiame tam pačiam anksčiau pa­
+    minėtam šviesiajam ir didingajam ponui Mikalojui Radvi­
+    lai, Olykos ir Nesvyžiaus kunigaikščiui, Vilniaus vaivadai,
+    mūsų didžiajam maršalkai ir kancleriui, ir visiems po jo bū­
+    siantiems Nesvyžiaus kunigaikščiams, teisėtiems jo įpėdi­
+    niams, pilną teisę, visišką ir tvirtą valdžią ir galią, visas ir
+    pavienes mūsų Lietuvos Kunigaikštystės privilegijas, lais­
+    ves ir imunitetus bei bet kokias malones ir prerogatyvas,
+    egzistuojančias toje pačioje Lietuvos Kunigaikštystėje, turė­
+    ti, naudotis, visiems laikams išsaugoti ir išlaikyti; tas [privi­
+    legijas], kurios bet kokiu būdu ir bet kada anksčiau švie­
+    siausiųjų ir prakilniausiųjų karalių ir didžiųjų kunigaikščių,
+    mūsų pirmtakų ponų Vladislovo, Žygimanto, Kazimiero,
+    Aleksandro ir vėl Žygimanto kadaise buvo duotos, pripa­
+    žintos ir mūsų ratifikuotos, patvirtintos ir taip pat mūsų ka­
+    raliaus ir kunigaikščio pasižadėjimu ir autoritetu atnaujin­
+    tos ir atgaivintos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/daiktai/Pistoletas]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/imunitetai]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/činšas]]
+- [[objektai/daiktai/Šarvai]]
+- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Lietuvos evangelikai reformatai]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
+- [[objektai/grupes/Vilniaus reformatai ir disidentai]]

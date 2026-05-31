@@ -69,4 +69,5 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
+- [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/grupes/Švedai]]

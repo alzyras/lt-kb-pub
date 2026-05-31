@@ -52,9 +52,10 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/Puslapis 67]]
+- [[objektai/grupes/Valimantaičiai]]
+- [[objektai/ivykiai/Vedrošos kautynės]]
+- [[objektai/zodynas/vietininkas]]

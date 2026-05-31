@@ -45,6 +45,10 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   teiginys: 'Gediminas laiškus siuntė pajūrio miestams, tarp jų Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Gotlandui.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė dominikonų ordino vyresniesiems, būtent į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams - Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Gotlandui, pranešdamas juose, kad.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,3 +106,31 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­ diminas rašė dominikonų ordino vyresniesiems, būtent į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams - Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Gotlandui, pranešdamas juose, kad.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    " Labai meldžia pagaliau Gediminas popiežių, kad at­
+    sižvelgtų į jo liūdną padėtį ir aiškiai pareiškia: „Esame
+    pasirengę, kaip ir kiti kunigaikščiai krikščionys, visame ka­
+    me klausyti jūsų valios ir priimti krikščioniškąjį tikėjimą,
+    kad tik neturėtume būti budeliams, tai yra Ordino Magist­
+    rui ir riteriams, už ką nors dėkingi"**.
+    Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­
+    diminas rašė dominikonų ordino vyresniesiems, būtent į
+    Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams -
+    Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Got-
+    landui, pranešdamas juose, kad kreipėsi į popiežių,
+    prašydamas išsiųsti pas jį pasiuntinius, kad jų nekantrau­
+    damas laukiąs, kad pasiryžęs sutikti su visais popiežiaus
+    įsakymais. „Pageidautume, - rašo toliau, - savo krašte tu­
+    rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios
+    teises, dvasininkus gerbsime, Dievo garbinimą maldomis
+    plėtosime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

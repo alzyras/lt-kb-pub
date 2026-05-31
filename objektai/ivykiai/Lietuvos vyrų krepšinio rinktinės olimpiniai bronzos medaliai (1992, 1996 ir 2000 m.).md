@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1992 m.'
+  - '1996 m.'
+  - '2000 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+date_start: '1992'
+date_end: '2000'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -36,6 +47,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,7 +67,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Barselonos olimpinėse žaidynėse iškovojo pirmą aukso medalį nepriklausomai Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Barselonos olimpinėse žaidynėse iško-
+    vojo pirmą aukso medalį nepriklausomai Lietuvai. Žygdarbį padarė krep-
+    šininkai vyrai – Lietuvos rinktinė 1992, 1996, 2000 m. olimpinėse žaidy-
+    nėse iškovojo bronzos medalius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Romas Ubartas]]
 - [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]
+- [[objektai/daiktai/Olimpiniai medaliai]]

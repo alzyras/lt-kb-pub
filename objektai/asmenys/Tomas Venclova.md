@@ -68,3 +68,9 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 ### Susiję objektai
 - [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvos Helsinkio grupė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos Helsinkio grupė]]
+- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
+- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]
+- [[objektai/grupes/Lietuvos disidentai]]

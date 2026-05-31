@@ -51,4 +51,5 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/flangas]]
+- [[objektai/zodynas/ulonai]]
 - [[objektai/grupes/Lietuviai]]

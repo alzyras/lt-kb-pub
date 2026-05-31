@@ -48,4 +48,14 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Herulai]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Lietuvos krikšto apeigos]]
+- [[objektai/grupes/Mongolų imperija]]
+- [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]
+- [[objektai/grupes/Skyrai]]
+- [[objektai/autoriai/Stasys Šalkauskis]]
 - [[objektai/zodynas/Vidivarijai]]
+- [[objektai/grupes/Slavai]]

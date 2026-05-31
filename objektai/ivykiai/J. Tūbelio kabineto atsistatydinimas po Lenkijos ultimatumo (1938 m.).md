@@ -56,4 +56,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Vladas Mironas]]
+- [[objektai/asmenys/Stasys Lozoraitis]]
+- [[objektai/asmenys/V. Mironas]]

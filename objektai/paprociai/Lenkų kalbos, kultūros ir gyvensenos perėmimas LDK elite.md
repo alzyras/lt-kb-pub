@@ -97,3 +97,4 @@ Nenurodyta
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/barokas]]
+- [[objektai/posakiai/„Nors lietuviu esu gimęs ir lietuviu teks man mirti...“]]

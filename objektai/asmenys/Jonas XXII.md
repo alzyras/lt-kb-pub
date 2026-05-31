@@ -49,6 +49,14 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   teiginys: 'Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą 1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino, ir liepė švęsti jo gimimą penktą dieną po žolinės (Mart..'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Jonas XXII sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kėlė bažnytinės unijos idėją.'
+  pagrindžia:
+    - c-005
+- t-007
+  teiginys: 'Kadangi Dusburgas, p. 349, trumpai teužsimena, kad Joannes Papa XXII, ad suggestionem fratris Priderki Or­ dinis fratrum Minorum Archiepiscopi de Riga et civium ibidem misit ad partes Livoniae duos Legatos [Popiežius Jonas XXII Ma­ žesniųjų brolių ordino.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti Ordiną68.'
@@ -125,18 +133,49 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Jonas XXII sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kėlė bažnytinės unijos idėją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gediminas kūrė stačiatikių metro-
+    poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
+    politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
+    kėlė bažnytinės unijos idėją. Jam Gediminas ir siuntė laiškus, kuriuose
+    pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų
+    tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas,
+    o valstybės užkariavimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-007
+  santrauka: 'Kadangi Dusburgas, p. 349, trumpai teužsimena, kad Joannes Papa XXII, ad suggestionem fratris Priderki Or­ dinis fratrum Minorum Archiepiscopi de Riga et civium ibidem misit ad partes Livoniae duos Legatos [Popiežius Jonas XXII Ma­ žesniųjų brolių ordino.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kadangi Dusburgas,  p. 349, trumpai teužsime-
+    na, kad Joannes Papa XXII, ad suggestionem fratris Priderki Or­
+    dinis fratrum Minorum Archiepiscopi de Riga et civium ibidem
+    misit ad partes Livoniae duos Legatos [Popiežius Jonas XXII Ma­
+    žesniųjų brolių ordino brolio Fridricho, Rygos arkivyskupo
+    ir miestiečių prašymu tuo pat metu pasiuntė į Livonijos sri­
+    tis du legatus]. Tai paakino Jerošiną visą įvykį išdėstyti kaip
+    buvo tikrovėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/ekskomunikuoti]]
-- [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]
 - [[objektai/zodynas/apostazija]]
-- [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]
-- [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]
+- [[objektai/zodynas/ekskomunikuoti]]

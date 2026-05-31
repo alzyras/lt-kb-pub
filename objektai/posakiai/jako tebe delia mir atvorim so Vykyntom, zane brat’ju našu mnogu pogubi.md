@@ -60,5 +60,5 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
 ### Susiję objektai
 - [[objektai/asmenys/Danielius]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/autoriai/St. Zajączkowski]]
 - [[objektai/asmenys/Vykintas]]
-- [[objektai/autoriai/Zajączkowski, St]]

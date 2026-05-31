@@ -7,15 +7,17 @@ aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1294 m.'
   - '1316 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XIII'
   - 'XIV'
   - 'XV'
-date_start: '1316'
-date_end: ''
+date_start: '1294'
+date_end: '1316'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-30'
 tags:
@@ -45,6 +47,10 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   teiginys: 'Dusburgietis teigia, kad apie Paštuvos valsčiaus nusiaubimą 1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus žmonių paėmė į nelaisvę ar nukovė.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių nuniokojimą 1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo metu brolis Meinhardas, magistras, nesitenkindamas lietuviams pridarytais nuostoliais, su šimtu brolių ir galybe raitelių įsiveržė į Gaižuvos535 ir Paštuvos536 valsčius, viską čia didžiausiais gaisrais.'
@@ -121,3 +127,26 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių nuniokojimą 1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Paštuvos ir Gaižuvos valsčių nuniokojimą
+
+      1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
+    savo kariuomene įsiveržti  į Ariogalos valsčių, bet leidosi atkalbamas. Tada jis padalijo
+    savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
+    kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
+    paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
+
+
+
+
+                    256 (249).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

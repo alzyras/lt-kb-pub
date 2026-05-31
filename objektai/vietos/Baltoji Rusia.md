@@ -42,6 +42,10 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   teiginys: 'Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais kunigaikščiais.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Nuolatine savo buveine pasirinkęs Trakų pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­ čiais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,3 +105,22 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Nuolatine savo buveine pasirinkęs Trakų pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­ čiais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Po
+    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
+    Lenkiją, Vilnių palikęs.
+    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
+    gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
+    pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su
+    Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
+    čiais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

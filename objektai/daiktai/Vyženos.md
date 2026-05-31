@@ -103,3 +103,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/zodynas/Liuosybė|liuosybė]]
+- [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]

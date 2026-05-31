@@ -58,4 +58,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Pilys]]
+- [[objektai/asmenys/Šventaragis]]

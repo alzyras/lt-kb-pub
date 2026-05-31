@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -31,7 +37,10 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Pirmiausia Lietuvoje ir Lenkijoje buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė visų kitų krašto mokyklų priežiūra.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
@@ -66,8 +75,26 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Pirmiausia Lietuvoje ir Lenkijoje buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė visų kitų krašto mokyklų priežiūra.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmiausia Lietuvoje ir Lenkijoje
+    buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė
+    visų kitų krašto mokyklų priežiūra. Tokia Vyriausiąja
+    Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vil-
+    niaus akademija. Toliau visas kraštas buvo padalintas apygar-
+    domis, o šios apygardėlėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Edukacinė Komisija]]
 - [[objektai/grupes/Vilniaus Akademija]]
+- [[objektai/paprociai/Mokymas lotyniškai, iš dalies lenkiškai, Vyriausiojoje Lietuvos Mokykloje]]

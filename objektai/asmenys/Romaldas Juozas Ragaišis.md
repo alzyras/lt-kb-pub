@@ -41,3 +41,9 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos laisvės lyga]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

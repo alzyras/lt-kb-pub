@@ -60,5 +60,6 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/didysis maršalas]]
 - [[objektai/zodynas/maršalas]]

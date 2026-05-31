@@ -69,7 +69,13 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/zodynas/lietuvininkai]]

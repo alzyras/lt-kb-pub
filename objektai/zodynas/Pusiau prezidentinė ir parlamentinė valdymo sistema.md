@@ -42,3 +42,9 @@ Lietuvoje pasirinkta visos tautos renkamo prezidento institucija, tad Lietuva yr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/konstitucijos]]

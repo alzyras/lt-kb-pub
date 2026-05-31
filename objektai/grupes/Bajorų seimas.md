@@ -50,5 +50,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Valstybės Taryba]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
+- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]

@@ -7,16 +7,12 @@ aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos:
-  - '1207 m.'
-  - '1235 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-date_start: '1207'
-date_end: '1235'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -74,6 +70,10 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   teiginys: 'Aleksandro motina karalienė Elžbieta su dukterimis ir sūnumi Fridrichu po Velykų atvyko į Vilnių.'
   pagrindžia:
     - c-003
+- t-009
+  teiginys: '230 ## Puslapis 247 III KNYGA pavasario, kai Aleksandro motina karalienė Elžbieta su duk­ terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­ vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 
@@ -235,17 +235,49 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-009
+  santrauka: '230 ## Puslapis 247 III KNYGA pavasario, kai Aleksandro motina karalienė Elžbieta su duk­ terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­ vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    _  .
+    230
+
+    ## Puslapis 247
+
+    III KNYGA
+    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
+    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
+    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ditrichas iš Bernheimo]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vosylius]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Elena]]
-- [[objektai/asmenys/Henrikas iš Berkos]]
-- [[objektai/asmenys/Henrikas iš Ceico]]
-- [[objektai/asmenys/Hermanas Balkas]]
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas]]
-- [[objektai/asmenys/Konradas iš Tuteleno]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
 - [[objektai/grupes/Mokinių slėnio brolių ordinas]]
+- [[objektai/daiktai/Altorius]]
 - [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.)]]

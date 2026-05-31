@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -31,7 +37,10 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Autoriai dėl tokių troškimų Lietuvą matyti kaip savo nuosavybę, taip pat dėl atkaklių lietuvių kovų už savarankiškumą, savo nepriklausomą valstybę, kurie jos tikrai nusipelnė, ją sukūrė ir kelis kartus atkūrė, jokios kaltės nejaučia, o ta kova didžiuojasi.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis daug aštrių prieštaravimų ir pernelyg kritiškas kaimynams.'
@@ -62,3 +71,29 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Autoriai dėl tokių troškimų Lietuvą matyti kaip savo nuosavybę, taip pat dėl atkaklių lietuvių kovų už savarankiškumą, savo nepriklausomą valstybę, kurie jos tikrai nusipelnė, ją sukūrė ir kelis kartus atkūrė, jokios kaltės nejaučia, o ta kova didžiuojasi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Au-
+    toriai dėl tokių troškimų Lietuvą matyti kaip savo nuosavybę, taip pat dėl
+    atkaklių lietuvių kovų už savarankiškumą, savo nepriklausomą valstybę,
+    kurie jos tikrai nusipelnė, ją sukūrė ir kelis kartus atkūrė, jokios kaltės
+    nejaučia, o ta kova didžiuojasi, juolab kad senų istorijos reiškinių neiš-
+    kraipo, nekuria, jų nepolitizuoja, o tik pabandė išdėstyti ir paaiškinti, kaip
+    tik sugebėdami aiškiau, naudodami visus naujausius mūsų istoriografijos
+    pasiekimus.
+    Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos
+    istorikai.
+    Kalta istorija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

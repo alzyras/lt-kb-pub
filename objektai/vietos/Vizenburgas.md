@@ -42,6 +42,10 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   teiginys: 'Dusburgietis teigia, kad neilgai trukus broliai, pristigę maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi juos su daugybe karių, bet nestengė.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vizenburgo pilis Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio vieną paimti ir nusigabenti į pilį, o su ja.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems pavojams ir atimti prūsams bet kokį norą ieškotis progų atkristi, Notangos žemėje prie upės, vardu Kaustra, pastatė Kroicburgo pilį255, o Bartos žemėje tris pilis: Bartenšteino256, Vizenburgo257 ir Rezlio258.'
@@ -91,3 +95,25 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip buvo palikta Vizenburgo pilis Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio vieną paimti ir nusigabenti į pilį, o su ja.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie tai, kaip buvo palikta Vizenburgo pilis
+
+      Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
+    mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio
+    vieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę
+    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
+    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
+    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
+    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
+    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
+    susidūrime tris nukovė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

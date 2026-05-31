@@ -79,3 +79,5 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Mongolų imperija]]
+- [[objektai/zodynas/kondominiumas]]

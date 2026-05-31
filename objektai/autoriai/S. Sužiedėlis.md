@@ -11,11 +11,14 @@ saltiniai:
 laikotarpis: '1930 m. (veikalo sudarymo kontekstas)'
 vaidmenys:
   - 'autorius'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1970 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1970'
 date_end: ''
 patikimumas: 'aukštas'
 atnaujinta: '2026-05-04'
@@ -58,6 +61,10 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   teiginys: 'Sužiedėlis, S.'
   pagrindžia:
     - c-005
+- t-008
+  teiginys: '34, 1970, 57-74 p. — Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -140,3 +147,21 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-006
+  santrauka: '34, 1970, 57-74 p. — Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    34, 1970, 57-74 p. — Sužiedėlis, S.: _Apuolė_ , EnL, I, 112-113 p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/christianizacija]]
+- [[objektai/zodynas/konjunktūrinis istorikas]]

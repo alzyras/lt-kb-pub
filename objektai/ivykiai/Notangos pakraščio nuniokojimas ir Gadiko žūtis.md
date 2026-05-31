@@ -88,4 +88,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/komtūras]]
 - [[objektai/grupes/Unzatrapio žemės gyventojai]]

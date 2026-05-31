@@ -55,6 +55,10 @@ Nenurodyta
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Vokiečiai jau nebegalėjo atplėšti paskirų teritorijų, kaip tai darė anksčiau, palaipsniui nukariaudami kitas baltų teritorijas, nes visos lietuvių žemės vakaruose sudarė vieningą valstybinę sistemą ir buvo | valdomos ne savarankiškų kunigaikštukų, bet valdovo.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,6 +116,26 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
+- c-004
+  santrauka: 'Vokiečiai jau nebegalėjo atplėšti paskirų teritorijų, kaip tai darė anksčiau, palaipsniui nukariaudami kitas baltų teritorijas, nes visos lietuvių žemės vakaruose sudarė vieningą valstybinę sistemą ir buvo | valdomos ne savarankiškų kunigaikštukų, bet valdovo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šios
+    pilys tapo ne tik sienos gynybos fortais, bet ir administraciniais
+    centrais, tiesiogiai kontroliuojamais centrinės valdžios. Vokiečiai
+    jau nebegalėjo atplėšti paskirų teritorijų, kaip tai darė anksčiau,
+    palaipsniui nukariaudami kitas baltų teritorijas, nes visos lietu-
+    vių žemės vakaruose sudarė vieningą valstybinę sistemą ir buvo |
+    valdomos ne savarankiškų kunigaikštukų, bet valdovo paskirtų
+    pareigūnų, kurie buvo ir valdovo civiliai vietininkai, ir pilių įgulų }
+    viršininkai. Ordino veržimasis sustojo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai

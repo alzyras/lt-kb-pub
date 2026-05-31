@@ -64,9 +64,15 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Maskvos kariuomenė]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/asmenys/Sofija Vytautaitė]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
+- [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
 - [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]

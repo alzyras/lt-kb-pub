@@ -79,3 +79,13 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Skomantas]]
+- [[objektai/asmenys/Treniota]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Batūra R]]
+- [[objektai/autoriai/R. Batūra|Romas Batūra]]

@@ -62,7 +62,10 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   teiginys: 'Vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 153 Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ambasadorių Konferencija Klaipėdos konvencijos nuostatais siekė patenkinti Lenkijos reikalavimą turėti laisvą tranzitą.'
@@ -165,11 +168,41 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 153 Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
+    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    153
+    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
+    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
+    tine ir karine pergale, kokia ji iš tiesų ir buvo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/zodynas/fait accompli]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
+- [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]
+- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]
 - [[objektai/zodynas/demarkacijos linija]]
+- [[objektai/zodynas/tranzitas]]
+- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]

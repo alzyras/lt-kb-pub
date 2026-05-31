@@ -47,3 +47,4 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

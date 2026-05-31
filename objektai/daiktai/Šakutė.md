@@ -91,3 +91,9 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/buities-daiktas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Bona]]
+- [[objektai/asmenys/Bona Sforca]]

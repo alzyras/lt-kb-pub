@@ -79,4 +79,6 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Kulmo žemės nusiaubimas prūsų antpuoliu]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/amžina vergovė]]

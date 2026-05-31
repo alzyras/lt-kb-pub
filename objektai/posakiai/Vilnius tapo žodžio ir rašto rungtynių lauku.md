@@ -92,3 +92,5 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 ### Susiję objektai
 - [[objektai/grupes/Protestantai]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Tšecieskis]]
+- [[objektai/grupes/Vilniaus reformatai ir disidentai]]

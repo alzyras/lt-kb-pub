@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -70,6 +76,10 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-009
+  teiginys: 'Kai kas mano, kad naujose žemėse žmonės buvo įkurdinami sodžiais, tiksliai suskirsčius jų žemes, kas padėjo su­ sidaryti vėlesnei Zigmanto Augusto valakų sistemai^3 ).'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -196,3 +206,35 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Kai kas mano, kad naujose žemėse žmonės buvo įkurdinami sodžiais, tiksliai suskirsčius jų žemes, kas padėjo su­ sidaryti vėlesnei Zigmanto Augusto valakų sistemai^3 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip buvo kolonizuojama ir Žemaitija ir ki­
+    ti kraštai. Kai kas mano, kad naujose žemėse žmonės buvo
+    įkurdinami sodžiais, tiksliai suskirsčius jų žemes, kas padėjo su­
+    sidaryti vėlesnei Zigmanto Augusto valakų sistemai^3 ).
+    Kita reali nauda, kuri tekdavo Vytautui — tai mokesčiai,
+    renkami iš žmonių už valdomas žemes, miškus, vandenis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Bona]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Valakai]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/zodynas/protestantizmas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/grupes/Livonijos valstybė]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Zigmanto Augusto pinigai]]

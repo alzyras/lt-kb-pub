@@ -69,12 +69,17 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Abiejų Tautų konfederacija]]
+- [[objektai/asmenys/Ignotas Masalskis]]
 - [[objektai/asmenys/Simonas Kosakovskis]]
+- [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
 - [[objektai/grupes/Vilniaus konfederacija]]
 - [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]
+- [[objektai/zodynas/jakobinizmas]]
+- [[objektai/zodynas/jakobinizmas jakobinų klubas]]

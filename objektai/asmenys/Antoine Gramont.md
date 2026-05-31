@@ -97,3 +97,4 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/lengvoji kavalerija]]
+- [[objektai/zodynas/lietuvos lengvoji kavalerija]]

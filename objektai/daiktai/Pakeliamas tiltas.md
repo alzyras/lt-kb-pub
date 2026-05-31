@@ -70,3 +70,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/autoriai/Vygandas Marburgietis]]

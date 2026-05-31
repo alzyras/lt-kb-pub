@@ -8,16 +8,16 @@ variantai:
 aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "1009 m. Lietuvos paminėjimo ir Netimero valdžios kontekstas"
 datos:
-  - "1009 m."
-periodas: "viduramziai"
+  - '1009 m.'
+periodas: 'viduramziai'
 periodo_grupes: []
 amziai:
-  - "XI"
-date_start: ""
-date_end: ""
+  - 'XI'
+date_start: '1009'
+date_end: ''
+bukle: juodrastis
+laikotarpis: "1009 m. Lietuvos paminėjimo ir Netimero valdžios kontekstas"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -61,6 +61,10 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Netimero valdžios paveldimumo principo buvimas rodytų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,7 +81,31 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Netimero valdžios paveldimumo principo buvimas rodytų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Čia
+    apkrikštijo lietuvių vadą Netimerą, tačiau šiek tiek vėliau žuvo nuo šio
+    brolio rankos. Netimero valdžios paveldimumo principo buvimas rody-
+    tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją. Šis
+    faktas rodytų, kad tuo metu nebuvo ypač didelio atotrūkio tarp Lietuvos
+    ir kitų Vidurio Europos ir Šiaurės Europos šalių (į kurias tuo pačiu metu
+    taip pat buvo organizuojamos krikščioniškos misijos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
+
+### Susiję objektai
+- [[objektai/asmenys/Brunonas]]
+- [[objektai/asmenys/Brunonas Bonifacijus]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Netimeras]]

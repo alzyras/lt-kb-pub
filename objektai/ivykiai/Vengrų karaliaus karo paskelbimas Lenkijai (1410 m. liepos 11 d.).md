@@ -89,9 +89,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/magistras]]

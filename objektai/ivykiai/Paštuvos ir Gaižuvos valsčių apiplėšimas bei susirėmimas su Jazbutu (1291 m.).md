@@ -104,3 +104,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/papilys]]

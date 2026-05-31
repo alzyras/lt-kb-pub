@@ -50,7 +50,10 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   teiginys: '1819 m. nuo Vilniaus gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'Simpsonui, išvedė sieną, nedaug tenutoldamos nuo buvusios gubernijos sienos.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kitas svarbus sukilėlių uždavinys - paimti į savo rankas Kuršo gubernijos vakarinės dalies kontrolę, kad būtų užtikrintas laivo su ginklais priėmimas iš Vakarų Europos.'
@@ -113,3 +116,20 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Simpsonui, išvedė sieną, nedaug tenutoldamos nuo buvusios gubernijos sienos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
+    buvusios gubernijos sienos. Tik Palangos pajūris (nuo Šven-
+    tosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios
+    Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos
+    pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno
+    gubernijos kaimai. Iš viso iš buv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

@@ -76,3 +76,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/ivykiai/Voluinės ir Lietuvos kunigaikščių sutartis (1219 m.)]]

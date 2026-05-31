@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -45,6 +51,10 @@ Nenurodyta
   teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 261 Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,3 +102,31 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 261 Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    261
+    Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių
+    gamybos apimtys. Tai padidino Lietuvos eksportą į kitas šalis, skatino už-
+    sienio kapitalo investicijas į Lietuvos ekonomiką, paaštrino konkurenciją,
+    leido racionaliau naudoti ir paskirstyti ekonominius veiksnius (darbo ir
+    kapitalo). Narystė ES apribojo Lietuvos vyriausybės galimybes tiesiogiai
+    ir netiesiogiai kištis į ūkio funkcionavimą ir suteikė daugiau laisvių ir ga-
+    limybių Lietuvos įmonėms bei vartotojams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/zodynas/ES pilietis]]
+- [[objektai/zodynas/peticija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

@@ -68,4 +68,6 @@ Vartojamos formos: `ūkės vilkėjomis`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
+- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
 - [[objektai/zodynas/Gaspadinė|gaspadinė]]

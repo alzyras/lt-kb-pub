@@ -99,6 +99,27 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   teiginys: 'Dusburgietis teigia, kad kaip ši knyga sutvarkyta Ši knyga šitaip bus sudėta. Pirma, aprašysiu, kuriuo laiku buvo įkurtas Teutonų namų ordinas, kas ir kaip jį įkūrė, antra, kada ir kaip minėtieji broliai atsikėlė į Prūsijos žemę, trečia, apsakysiu karus, vykusius šioje žemėje, bei.'
   pagrindžia:
     - c-017
+- t-019
+  teiginys: 'Dusburgietis pažymi, kad „keturi tūkstančiai lietuvių“ niokojo Kuršo žemę, 0 po to stojo į mūšį.'
+  pagrindžia:
+    - c-018
+- t-020
+  teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  pagrindžia:
+    - c-019
+- t-021
+  teiginys: 'Valdant Gediminui Lietuva ėmė sparčiai plėstis į rytus LIETUVIAI SEMBOJE IR NOTANGOJE Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į Ordino žemes: „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su.'
+  pagrindžia:
+    - c-020
+- t-022
+  teiginys: 'p. 27, „RŪSTUS DIEVO ŽMONIŲ LIKIMAS“, Dusburgietis P.'
+  pagrindžia:
+    - c-021
+- t-023
+  teiginys: 'Dusburgietis teigia, kad petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.'
+  pagrindžia:
+    - c-022
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: Įvadas Petrą iš Dusburgo apibūdina kaip Ordino brolį kunigą ir nusako kronikos sukūrimo aplinkybes.
@@ -357,6 +378,104 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-018
+  santrauka: 'Dusburgietis pažymi, kad „keturi tūkstančiai lietuvių“ niokojo Kuršo žemę, 0 po to stojo į mūšį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ), mini žemaičius,
+    bet vėliau, Durbės mūšio išvakarėse, prie
+    Vartajų, Georgenburgo ir pačiame mū-
+    šyje — tik lietuvius arba „pagonis“.
+
+    P. Dusburgietis pažymi, kad „keturi
+    tūkstančiai lietuvių“ niokojo Kuršo žemę,
+    0 po to stojo į mūšį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-019
+  santrauka: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    XIII a. Šilainiai,
+    Raudonė,
+    Kejėnai
+
+    RŪSTUS DIEVO ŽMONIŲ LIKIMAS
+
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.
+
+    „1260 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-020
+  santrauka: 'Valdant Gediminui Lietuva ėmė sparčiai plėstis į rytus LIETUVIAI SEMBOJE IR NOTANGOJE Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į Ordino žemes: „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    užimtos Kijevo že žemės pilys. Valdant Gediminui
+    Lietuva ėmė sparčiai plėstis į rytus
+
+    LIETUVIAI SEMBOJE IR NOTANGOJE
+
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
+    Ordino žemes:
+
+    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
+    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
+    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-021
+  santrauka: 'p. 27, „RŪSTUS DIEVO ŽMONIŲ LIKIMAS“, Dusburgietis P.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    p. 27, „RŪSTUS DIEVO ŽMONIŲ LIKIMAS“, Dusburgietis P. Prūsijos žemės kronika,
+    Vilnius, 2005, p. 166-168.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-022
+  santrauka: 'Dusburgietis teigia, kad petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šitaip bylojo Babilonijos karalius Nabuchodonosaras, matydamas, jog liepsna nė
+    nepalietė Danieliaus bei jo bičiulių ir jiems nieko bloga nepadarė, kai šie buvo surišti bei
+    įmesti į septynis kartus daugiau nei paprastai pakūrentą krosnį, nes atidavė savo kūnus,
+    nenorėdami tarnauti nė vienam dievui nei jo garbinti, išskyrus tą, kurį patys tikėjo, nors
+    ugnies liežuviai kilo per 49 uolektis virš krosnies ir sudegino kūrikus, o Danieliaus ir jo
+    bičiulių nė neužgavo ir nieko blogo jiems nepadarė, štai tada jis ir tarė: „Aukščiausias
+    dievas padarė manyje ženklų ir stebuklų“. Tačiau tinka tie žodžiai ir šios knygos autoriui,
+    kuris,  šventosios  Marijos  Teutonų namų  ligoninės  Jeruzalėje  brolių  šventosios
+    kongregacijos veikloje pamatęs ir išgirdęs tokių reikšmingų ženklų ir tokių didžių stebuklų,
+    nepaprastų ir nuo amžių negirdėtų, kokių aukštybių viešpats per minėtuosius brolius
+    mielaširdingai yra teikęsis padaryti Prūsijos žemėje per juos, tuos, kurie, be baimės
+    guldydami galvas už tikėjimą, galėjo sakyti: „Aukščiausias dievas padarė manyje ženklų
+    ir stebuklų“ ir t. t.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Susiję objektai
@@ -366,3 +485,23 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/zodynas/Ordino brolis]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/posakiai/apreikšti dievo darbus yra šlovinga]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/uolektis]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų]]
+- [[objektai/autoriai/Henrikas Latvis]]
+- [[objektai/autoriai/Hermanas iš Vartbergės]]
+- [[objektai/asmenys/Jėzus Kristus]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]
+- [[objektai/autoriai/Vygandas iš Marburgo]]
+- [[objektai/posakiai/šio šventojo žygio atminimas]]
+- [[objektai/zodynas/šventasis žygis]]

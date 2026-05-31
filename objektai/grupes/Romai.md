@@ -51,7 +51,11 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/daiktai/Bizantijos imperatorių herbas]]
+- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/autoriai/Filotiejus]]
 - [[objektai/paprociai/Gamtos reiškinių sudievinimas ir šventviečių telkimasis]]
 - [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/posakiai/sobiratel’ russkich žemeli]]

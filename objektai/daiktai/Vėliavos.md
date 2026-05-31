@@ -11,15 +11,18 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: ''
-datos: []
-periodas: viduramziai
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1399 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1399'
+date_end: ''
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-28'
 tags:
@@ -134,6 +137,42 @@ Nenurodyta
     - c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-015
+  teiginys: 'Kai ryte po pamaldų „Maskvos kunigaikštis su bajorais ir su kunigaikščiais išeina iš cerkvės, Algirdas su visomis savo pajėgomis, išskleidęs savo vėliavas, pasirodė ant Pasveikinimo kalno (Paklonaja gara)“ prie Maskvos.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Šis karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Pridengę jų kraštines pozicijas trimis Smolensko vėliavomis, lietuviai pradėjo manevrą atsitraukdami.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Lenkai patyrė didelį spaudimą tiek centre, tiek dešinėje, neatlaikiusi spaudimo net krito didžioji Krokuvos vėliava.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Kiekvienas rite­ ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Se­ nesnieji istorijos šaltiniai paduoda tokį vėliavų skaičių: Vy­ tauto 40 vėliavų^2 ) (neskaitant totorių), Jogailos 51 vėliava (jų (^1) ) Taip Kotzebue, Voigt priskaito sąj.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Jį saugojo kunigaikščio Kaributo vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  pagrindžia:
+    - c-023
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -374,6 +413,201 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-014
+- c-015
+  santrauka: 'Kai ryte po pamaldų „Maskvos kunigaikštis su bajorais ir su kunigaikščiais išeina iš cerkvės, Algirdas su visomis savo pajėgomis, išskleidęs savo vėliavas, pasirodė ant Pasveikinimo kalno (Paklonaja gara)“ prie Maskvos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    pavasarį).
+
+    Kai ryte po pamaldų „Maskvos kuni-
+    gaikštis su bajorais ir su kunigaikščiais
+    išeina iš cerkvės, Algirdas su visomis savo
+    pajėgomis, išskleidęs savo vėliavas, pasi-
+    rodė ant Pasveikinimo kalno (Paklonaja
+    gara)“ prie Maskvos. Maskvos didysis
+
+    kunigaikštis, įsakęs aplink sudeginti visą
+    priemiestį („posadą“), kad būtų atviras
+    plotas gynybai, užsidarė Kremliuje, o kartu
+    su juo ir metropolitas, kunigaikščiai bei
+    bajorai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Šis karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pagal istorinę tradiciją Vytautas
+
+    XIV a. antrosios pusės lietuvių kario rekonstrukcija. Šis
+    karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.
+    Jo tunika puošia valdovo heraldinė simbolika -
+    Gediminaičių stulpai
+
+    ~
+
+    52 VORSKLOS MUSIS 1399 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Pridengę jų kraštines pozicijas trimis Smolensko vėliavomis, lietuviai pradėjo manevrą atsitraukdami.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pradėti
+    iš anksto numatyto apgaulingo atsitrau-
+    kimo manevro nebuvo galima, kol į mūšį
+    neįsitraukė pagrindinės lenkų pajėgos, nes
+    priešingu atveju būtų pavojingai atideng-
+    tas lietuvių sąjungininkų dešinysis flan-
+    gas. Po valandos pagaliau į mūšį įsitraukė
+    lenkų kavalerija. Pridengę jų kraštines
+
+    pozicijas trimis Smolensko vėliavomis,
+    lietuviai pradėjo manevrą atsitraukdami.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Lenkai patyrė didelį spaudimą tiek centre, tiek dešinėje, neatlaikiusi spaudimo net krito didžioji Krokuvos vėliava.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    kariuomenę iš lenkų dešinės ir juos ap-
+    supti. Lenkai patyrė didelį spaudimą tiek
+    centre, tiek dešinėje, neatlaikiusi spau-
+    dimo net krito didžioji Krokuvos vėliava.
+    Kryžiuočiai, pamanę, jog mūšis laimė-
+    tas, užtraukė pergalės giesmę „Kristus
+    prisikėlė“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Kiekvienas rite­ ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Riteriai kovose, bendrai, būdavo mažai varžomi,
+    kiekvienas rūpindavosi savimi ir savo garbe. Kiekvienas rite­
+    ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs
+    bėgti. Jei vėliava patekdavo į priešo rankas, tai riteriui valia
+    būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
+    dėjus prie kitos vėliavos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tada karalius lenkų kariuomenės ve­
+    dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.
+    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
+    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
+    vadovybė atiteko Vytautui.
+    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
+    niku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Se­ nesnieji istorijos šaltiniai paduoda tokį vėliavų skaičių: Vy­ tauto 40 vėliavų^2 ) (neskaitant totorių), Jogailos 51 vėliava (jų (^1) ) Taip Kotzebue, Voigt priskaito sąj.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Se­
+    nesnieji istorijos šaltiniai paduoda tokį vėliavų skaičių: Vy­
+    tauto 40 vėliavų^2 ) (neskaitant totorių), Jogailos 51 vėliava (jų
+
+    (^1) ) Taip Kotzebue, Voigt priskaito sąj. 163.000,
+    Szainocha
+    Górski
+    Prochaska
+    kiti
+    80-90.000
+    23.600
+    23.900
+    27.000
+    Ordino 83.000.
+    „ 80.000
+    „ 16.000
+    „ 16.320
+    „ 15.000
+    (^2) ) Iš tų Lietuvos kariuomneės vėliavų, kovojančių po Vyties ženklu,
+    Dlugošas (IV, 41 p.) išvardina šias: Trakų, Vilniaus, Gardino, Kauno, Ly­
+    dos, Medininkų, Smolensko, Polocko, Vitebsko, Kijevo, Pinsko, Naugardu­
+    ko, Bresto, Volkovisko, Drohicko, Mielniko, Kremenieco, Starodubo.
+
+
+    ```
+    — 82 —
+    ```
+    tarpe 5 vėl. samdytos už Vytauto pinigus, 7 vėl. Raudonosios
+    Rusijos, 1 vėl. Podolijos ir 1 vėl. kunig. Kaributo) ir Ordino 52
+    vėl. Vėliavų skaičius ginčų nesukelia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Jį saugojo kunigaikščio Kaributo vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Karaliui buvo parinkta saugi vieta,
+    iš kur jis galėjo matyti visą kovos lauką, o jo niekas nematė, ir
+    jį apstatė geriausia sargyba. Jį saugojo kunigaikščio Kaributo
+    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
+    Nuo karaliaus stovyklos Lenkijos pusėn buvo sustatyta visa ei­
+    lė greičiausių ir visiškai paruoštų arklių, kuriais Jogaila galė­
+    tų pabėgti, jei kiltų pavojus iš kryžiuočių pusės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet tas įspūdis nepasitvirtino. Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
+    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -384,19 +618,57 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/daiktai/Skydas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/daiktai/Druska]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/autoriai/Prochaska]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/asmenys/Ulrichas von Jungingenas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/Perveiza|perveiza]]
+- [[objektai/zodynas/rezervas]]
+- [[objektai/zodynas/Tėvūnija|tėvūnija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/daiktai/Šv. Jurgio vėliava]]
+- [[objektai/grupes/Žemlionys]]
+- [[objektai/posakiai/„Kristus prisikėlė“]]
+- [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
 - [[objektai/grupes/7-ojo fuzilierių regimento]]
 - [[objektai/asmenys/B. P. Sapiega]]
 - [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]
 - [[objektai/asmenys/H. Brantas]]
+- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/asmenys/J. P. Sapiega]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
 - [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
 - [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]]
+- [[objektai/daiktai/Lietuvos herbas Vytis]]
 - [[objektai/grupes/Lietuvos totoriai]]
+- [[objektai/daiktai/Lietuvos valstybės vėliava]]
+- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
 - [[objektai/asmenys/Mykolas Kiełbasa]]
+- [[objektai/grupes/Panevėžio batalionas]]
+- [[objektai/daiktai/Panevėžio bataliono vėliava]]
+- [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/asmenys/T. Dambrava]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/grupes/ojo fuzilierių regimento]]
+- [[objektai/zodynas/petihorai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Jonas Lonei]]
+- [[objektai/daiktai/Riterių vėliava]]
 - [[objektai/grupes/Smolenskiečiai]]
+- [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]
 - [[objektai/daiktai/Valstybiniai ženklai ir vėliava]]
 - [[objektai/zodynas/vyskupo teisėjas]]
+- [[objektai/asmenys/Zyndramas iš Moškovicų]]

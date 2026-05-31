@@ -58,3 +58,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Merkys]]
+- [[objektai/asmenys/A. Smetona]]

@@ -59,4 +59,5 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/fogtas]]
+- [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]

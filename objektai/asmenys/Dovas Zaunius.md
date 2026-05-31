@@ -62,4 +62,7 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
 ### Susiję objektai
 - [[objektai/asmenys/Augustinas]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Petras Klimas]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/posakiai/„Karas ar taika “]]

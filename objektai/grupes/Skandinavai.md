@@ -74,6 +74,18 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Vikingai]]
+- [[objektai/autoriai/A. Salys]]
 - [[objektai/zodynas/Austurweg]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Normanai]]
+- [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]
 - [[objektai/grupes/Bizantijos imperija]]
+- [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
 - [[objektai/grupes/Voluiniečiai]]

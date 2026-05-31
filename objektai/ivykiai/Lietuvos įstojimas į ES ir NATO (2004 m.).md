@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1990 m.'
+  - '1991 m.'
+  - '1994 m.'
+  - '1999 m.'
+  - '2002 m.'
+  - '2004 m.'
+  - '2013 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1990'
+date_end: '2013'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -64,6 +80,14 @@ Nenurodyta
   teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 259 Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 261 Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -183,3 +207,63 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 259 Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    259
+    Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie
+    Šiaurės Atlanto bendradarbiavimo tarybos. 1994 m. sausį Lietuvos Res-
+    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
+    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
+    dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
+    prie Partnerystės taikos labui iniciatyvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 261 Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių gamybos apimtys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    261
+    Po įstojimo į ES padidėjo Lietuvos prekybos ir eksportuojamų prekių
+    gamybos apimtys. Tai padidino Lietuvos eksportą į kitas šalis, skatino už-
+    sienio kapitalo investicijas į Lietuvos ekonomiką, paaštrino konkurenciją,
+    leido racionaliau naudoti ir paskirstyti ekonominius veiksnius (darbo ir
+    kapitalo). Narystė ES apribojo Lietuvos vyriausybės galimybes tiesiogiai
+    ir netiesiogiai kištis į ūkio funkcionavimą ir suteikė daugiau laisvių ir ga-
+    limybių Lietuvos įmonėms bei vartotojams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/zodynas/ES pilietis]]
+- [[objektai/asmenys/Manfredas]]
+- [[objektai/grupes/NATO]]
+- [[objektai/zodynas/peticija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
+- [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/grupes/Europos Sąjunga]]
+- [[objektai/grupes/Lietuvos Respublikos Seimas|Lietuvos Respublikos Seimas (seimas)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
+- [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
+- [[objektai/ivykiai/Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)]]
+- [[objektai/asmenys/Manfredas Verneris]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
+- [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

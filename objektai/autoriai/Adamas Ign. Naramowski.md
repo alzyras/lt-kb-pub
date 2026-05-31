@@ -86,3 +86,7 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
   patikimumo_pagrindimas: "Citata tiesiogiai mini Naramovskio veikalą, bet be viso bibliografinio pavadinimo tame pačiame sakinyje."
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/diecezija]]

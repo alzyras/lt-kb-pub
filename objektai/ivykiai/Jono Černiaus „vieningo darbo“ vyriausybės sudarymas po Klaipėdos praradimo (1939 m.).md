@@ -57,5 +57,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/asmenys/Jonas Černius]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
+- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
+- [[objektai/asmenys/V. Mironas]]
 - [[objektai/zodynas/Vieningo darbo vyriausybė]]
+- [[objektai/asmenys/Vladas Mironas]]

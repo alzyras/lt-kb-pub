@@ -84,5 +84,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 - [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas]]
 - [[objektai/ivykiai/Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)]]
 - [[objektai/asmenys/Vygantas Jocius]]
+- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
 - [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]
+- [[objektai/asmenys/Povilas Lukšys]]
 - [[objektai/grupes/Savanorio rinktinė]]

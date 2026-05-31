@@ -7,6 +7,15 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1401 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1401'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -40,6 +49,14 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-004
+  teiginys: 'Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais dokumentais: atskirais dokumentais jį patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -88,7 +105,53 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais dokumentais: atskirais dokumentais jį patvirtino Vytautas, Jogaila, Lietuvos ir Lenkų bajorai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Po ilgų derybų, 1401 m. buvo pa-
+    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
+    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
+    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
+    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
+    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
+    rašė Radome.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu buvo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jogailai ir jo įpėdiniams, Lenkų karaliams.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Juo buvo patvirtintas Vytauto sava-
+    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
+    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
+    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
+    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
+    lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
+    mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/asmenys/Vilhelmas]]
+- [[objektai/asmenys/Vilhelmas Habsburgas]]
+- [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]

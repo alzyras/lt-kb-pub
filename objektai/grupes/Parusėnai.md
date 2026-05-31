@@ -106,6 +106,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/Meldžionys|meldžionys]]
+- [[objektai/grupes/Žuvėdai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

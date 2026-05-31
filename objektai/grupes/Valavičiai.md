@@ -44,6 +44,10 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Goštautai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Oginskiai]]
+- [[objektai/asmenys/Mikalojus Albrechtas Radvila]]
+- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
+- [[objektai/zodynas/urėdas]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Tiškevičiai]]

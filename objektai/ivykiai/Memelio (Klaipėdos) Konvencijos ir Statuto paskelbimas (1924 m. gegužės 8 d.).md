@@ -83,3 +83,13 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
+- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]

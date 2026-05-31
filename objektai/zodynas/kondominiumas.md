@@ -44,8 +44,12 @@ Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Mongolai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
+- [[objektai/grupes/Mongolų imperija]]

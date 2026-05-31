@@ -68,7 +68,17 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Estai]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Lenkų tautiniai demokratai]]
+- [[objektai/zodynas/organinis nacionalizmas]]
+- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]

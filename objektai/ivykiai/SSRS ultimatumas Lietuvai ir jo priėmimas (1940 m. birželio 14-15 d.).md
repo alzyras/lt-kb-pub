@@ -169,5 +169,14 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
+### Susiję objektai
+- [[objektai/autoriai/A. Merkys]]
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/grupes/SSRS kariuomenė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/V. Vitkauskas]]
+- [[objektai/asmenys/Juozas Urbšys]]
+- [[objektai/asmenys/Michailas Kalininas]]
+- [[objektai/asmenys/Stasys Raštikis]]
+- [[objektai/asmenys/Viačeslavas Molotovas]]

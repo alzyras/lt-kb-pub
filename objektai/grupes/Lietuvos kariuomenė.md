@@ -173,10 +173,6 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   teiginys: 'S. Raštikis Lietuvos vyriausybės posėdyje pareiškė, kad kariuomenė, gavusi įsakymą, kovos.'
   pagrindžia:
     - c-024
-- t-035
-  teiginys: '1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų.'
-  pagrindžia:
-    - c-025
 - t-036
   teiginys: '1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių.'
   pagrindžia:
@@ -221,7 +217,42 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   teiginys: 'Mūšis Po susidūrimo ties Iškolde LDK kariuomenė tą pačią dieną sukorė dar 23 km ir iki Klecko priartėjo 20 km atstumu.'
   pagrindžia:
     - c-036
-
+- t-047
+  teiginys: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
+  pagrindžia:
+    - c-037
+- t-048
+  teiginys: 'Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.'
+  pagrindžia:
+    - c-038
+- t-049
+  teiginys: 'Smetona išrinktas Lietuvos valstybės prezidentu, nes jis galėjo suvienyti tarpusavyje gerokai nebesutariančius kairiuosius, liberalus ir krikščionis demokratus, garantuoti politinį stabilumą.'
+  pagrindžia:
+    - c-039
+- t-050
+  teiginys: 'Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.'
+  pagrindžia:
+    - c-040
+- t-051
+  teiginys: 'L I E T U V O S I S T O R I J A 184 Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
+  pagrindžia:
+    - c-041
+- t-052
+  teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
+  pagrindžia:
+    - c-042
+- t-053
+  teiginys: 'Nauja priešiška jėga regione paspartino Lietuvos valstybės konsolidavimo procesą, tačiau lietuviams teko apsiriboti siauresne baltiška teritorija.'
+  pagrindžia:
+    - c-043
+- t-054
+  teiginys: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.'
+  pagrindžia:
+    - c-044
+- t-055
+  teiginys: 'KLECKO MŪŠIS Vakarų krikščionybės tovė Rytuose tvi ## Puslapis 80 <= Lietuvių puolimo kryptys <== Krymo totorių puolimo kryptys «44 Krymo totorių atsijo traukimo kryptys Krymo totorių stovykla C-—— Keliai Gyvenvietės ——~.'
+  pagrindžia:
+    - c-045
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1236 m. Saulės mūšyje sustiprėjusios Lietuvos valstybės kariuomenė sutriuškino Kalavijuočių ordiną.'
@@ -667,28 +698,6 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-034
-- c-025
-  santrauka: '1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    184
-    Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
-    ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaci-
-    ją. Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
-    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
-    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
-    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
-    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
-    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
-    spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-035
 - c-026
   santrauka: '1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -924,6 +933,212 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-046
+- c-037
+  santrauka: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą. 1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus
+    Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė
+    Rygą ir užvaldė Baltijos pakrantes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-047
+- c-038
+  santrauka: 'Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokietija pateikė
+    ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
+    reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą. Nau-
+    joji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,
+
+    L I E T U V O S  I S T O R I J A
+    138
+    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
+    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
+    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
+    Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
+    orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripa-
+    žinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba suge-
+    bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti
+    iš Vokietijos politikos diktato ir paskubomis kūrė valdžios ir savivaldybių
+    įstaigas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-048
+- c-039
+  santrauka: 'Smetona išrinktas Lietuvos valstybės prezidentu, nes jis galėjo suvienyti tarpusavyje gerokai nebesutariančius kairiuosius, liberalus ir krikščionis demokratus, garantuoti politinį stabilumą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Smetona išrinktas Lietuvos valstybės pre-
+    zidentu, nes jis galėjo suvienyti tarpusavyje gerokai nebesutariančius kai-
+    riuosius, liberalus ir krikščionis demokratus, garantuoti politinį stabilu-
+    mą. Lietuvos kariuomenė balandžio pabaigoje jau turėjo apie 6 000 vyrų
+    ir nuosekliai didėjo, trūkstant karininkų, jie pradėti rengti Kaune. Sa-
+    vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
+    apie 12 000, jiems žadėti žemės sklypai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-049
+- c-040
+  santrauka: 'Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šilutėje sudarytas Vyriausias Mažosios Lietuvos
+    gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į
+    pagalbą. Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių
+    kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
+    ar cigarečių pakelio, peržengė sieną. Tarp jų į Klaipėdą žygiavo 40 regu-
+    liariosios kariuomenės karininkų ir 584 kariai, kiti – šauliai, studentai ir
+    apie 300 vietinių gyventojų, tarp jų keli vokiečiai, kaip įrodymas sąjun-
+    gininkams, kad sukilo vietiniai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-050
+- c-041
+  santrauka: 'L I E T U V O S I S T O R I J A 184 Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaciją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nepatarė imti Vilniaus ir sovietai.
+
+    L I E T U V O S  I S T O R I J A
+    184
+    Rugsėjo 17 dieną, SSRS įsiveržus į Lenkiją, demonstruojant pasiryžimą
+    ginti nepriklausomybę, Lietuvos prezidentas paskelbė dalinę mobilizaci-
+    ją. Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
+    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-051
+- c-042
+  santrauka: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
+    va prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus,
+    Lietuvos kariuomenė įžengia į Vilnių
+    (1939 m. spalio pabaiga)
+
+    L I E T U V O S  I S T O R I J A
+    186
+    istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
+    o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
+    sakis „Vilnius mūsų, o mes rusų“).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-052
+- c-043
+  santrauka: 'Nauja priešiška jėga regione paspartino Lietuvos valstybės konsolidavimo procesą, tačiau lietuviams teko apsiriboti siauresne baltiška teritorija.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Nauja priešiška jėga regione paspartino Lietuvos valstybės kon-
+    solidavimo procesą, tačiau lietuviams teko apsiriboti siauresne
+
+    baltiška teritorija. Sustiprėjusios Lietuvos valstybės kariuomenė
+
+    buvo pajėgi kautis su Kalavijuočių ordinu ir pastarasis buvo lietu-
+
+    vių sutriuškintas lemiamame Saulės mūšyje 1236 m. Nors lietu- i
+    viams nepavyko perimti vokiečių užgrobtų šiaurinių baltų žemių, .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-053
+- c-044
+  santrauka: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuolatinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji žmonės - kariai, galintys bet kada stoti į tarnybą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Gedimino laikais Lie-
+    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
+    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
+    žmonės - kariai, galintys bet kada stoti į tarnybą.
+
+    ## Puslapis 21
+
+    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
+    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
+    mongolus prie Mėlynųjų vandenų.
+
+    1328 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-054
+- c-045
+  santrauka: 'KLECKO MŪŠIS Vakarų krikščionybės tovė Rytuose tvi ## Puslapis 80 <= Lietuvių puolimo kryptys <== Krymo totorių puolimo kryptys «44 Krymo totorių atsijo traukimo kryptys Krymo totorių stovykla C-—— Keliai Gyvenvietės ——~.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    KLECKO MŪŠIS
+
+    Vakarų krikščionybės
+    tovė Rytuose
+
+    tvi
+
+    ## Puslapis 80
+
+    <= Lietuvių puolimo
+    kryptys
+
+    <== Krymo totorių
+
+    puolimo kryptys
+    «44 Krymo totorių atsi-
+    jo traukimo kryptys
+
+    Krymo totorių
+    stovykla
+    C-—— Keliai
+    Gyvenvietės
+    ——~. Upės
+    Pelkės
+
+    @ Lietuvos kariuomenė priartėjo nuo Pinsko
+    pusės ir išėjo ant aukštumos, nuo kurios
+    galėjo stebėti totorių pajėgas.
+
+    © Apie pusiaudienį husarai, ieškodami tin-
+    kamų brastų, susidūrė su kitą krantą sau-
+    gančiais totoriais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-055
 
 ## Ryšiai
 ### Susiję objektai
@@ -935,51 +1150,107 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Ietys]]
+- [[objektai/asmenys/Kiška]]
+- [[objektai/asmenys/Kristupas Radvila]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Mongolai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/rezervas]]
+- [[objektai/zodynas/rotmistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/ATR karai su Švedija XVII a]]
 - [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
+- [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
 - [[objektai/asmenys/Chadžibėjus]]
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/ivykiai/Chotyno mūšis|Chotyno mūšis (mūšis)]]
 - [[objektai/asmenys/Dmitrijus (totorių vadas)]]
+- [[objektai/asmenys/Dobeslavas Skoračevskis]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/asmenys/Frydrichas II]]
 - [[objektai/asmenys/Henrikas iš Hohenlohės]]
 - [[objektai/autoriai/J. Bennetas]]
+- [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/asmenys/Joachimas fon Ribentropas]]
+- [[objektai/asmenys/Jonas Karolis Chodkevičius]]
 - [[objektai/asmenys/Jonas Sicinskis]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
 - [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
 - [[objektai/ivykiai/Klaipėdos miesto ir trijų kryžiuočiams pavaldžių pilių sunaikinimas (1323 m.)]]
 - [[objektai/asmenys/Konradas iš Foichtvangeno]]
+- [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]
+- [[objektai/asmenys/Kopčius]]
 - [[objektai/asmenys/Kutlubuga]]
 - [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
 - [[objektai/ivykiai/Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)]]
 - [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
+- [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]
 - [[objektai/paprociai/Lietuvos kariuomenės skiriamųjų ženklų įvedimas ir Vyties tvirtinimas prie sagčių]]
+- [[objektai/ivykiai/Lietuvos kariuomenės įžengimas į Vilnių (1939 m. spalio pabaiga)]]
 - [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]
 - [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]
 - [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]
 - [[objektai/ivykiai/Medininkų žemės mūšis (1320 m. liepos 27 d.)]]
 - [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.)]]
+- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/asmenys/Mykolas Glinskis]]
+- [[objektai/asmenys/Mykolas Pacas]]
 - [[objektai/grupes/Osmanų Turkija]]
 - [[objektai/asmenys/Povilas Sapiega]]
+- [[objektai/grupes/Radvilos]]
 - [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
 - [[objektai/grupes/Respublikonai]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
+- [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]
 - [[objektai/zodynas/Savanoris]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/asmenys/Stanislovas Liubomirskis]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/grupes/Valkininkų konfederacija]]
+- [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.)]]
 - [[objektai/asmenys/Vasilijus Berezuiskis]]
+- [[objektai/asmenys/Viačeslavas Molotovas]]
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
+- [[objektai/ivykiai/Vilniaus užėmimas (1794 m. rugpjūčio 11–12 d.)]]
 - [[objektai/asmenys/Virgoličius]]
 - [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/ivykiai/Vokietijos ir SSRS sienų ir draugystės sutarties pasirašymas (1939 m. rugsėjo 28 d.)]]
+- [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]
+- [[objektai/ivykiai/Zelvos mūšis (1792 m. liepos 4 d.)]]
+- [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire]]
 - [[objektai/zodynas/etatiniai vienetai]]
+- [[objektai/zodynas/kontribucija]]
+- [[objektai/zodynas/lauko stovykla]]
+- [[objektai/zodynas/lietuvos lengvoji kavalerija]]
+- [[objektai/zodynas/paliaubos]]
 - [[objektai/zodynas/pašauktinė kariuomenė]]
 - [[objektai/zodynas/rankovės garnizonai]]
+- [[objektai/zodynas/telefonograma]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]]

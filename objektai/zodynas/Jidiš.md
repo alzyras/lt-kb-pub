@@ -51,10 +51,18 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
+- [[objektai/asmenys/Juozas Tumas-Vaižgantas]]
+- [[objektai/grupes/Litvakai]]
 - [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
 - [[objektai/autoriai/Maironis]]
+- [[objektai/asmenys/V. Krėvė-Mickevičius]]
+- [[objektai/asmenys/Vaižgantas]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
+- [[objektai/zodynas/ješiva]]
 - [[objektai/zodynas/litvakai Lite litviš]]
 - [[objektai/zodynas/litvakas litviš]]
+- [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]
+- [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]
 - [[objektai/grupes/Lietuviai]]

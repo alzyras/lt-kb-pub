@@ -48,7 +48,10 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   teiginys: 'Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'Damehl, 1846 m. L I E T U V O S I S T O R I J A 104 1830–1831 metų sukilimas Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad milžiniškų kariuomenių žygiavimas per kraštą du.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas.'
@@ -99,9 +102,30 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Damehl, 1846 m. L I E T U V O S I S T O R I J A 104 1830–1831 metų sukilimas Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad milžiniškų kariuomenių žygiavimas per kraštą du.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Damehl, 1846 m.
+
+    L I E T U V O S  I S T O R I J A
+    104
+    1830–1831 metų sukilimas
+    Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam
+    sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad
+    milžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų
+    turėjo skaudžių pasekmių ekonomikai. Kai 1815 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
+- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/švietimo apygarda]]
 - [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]

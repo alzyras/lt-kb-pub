@@ -64,4 +64,9 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Karaimai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
+- [[objektai/grupes/Sentikiai]]

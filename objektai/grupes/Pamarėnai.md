@@ -91,4 +91,5 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 - [[objektai/ivykiai/Jotvingių ir lietuvių prisidėjimas prie pamarėnų-prūsų sąjungos (1245 m.)]]
 - [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Živinbudas]]

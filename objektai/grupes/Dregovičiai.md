@@ -55,5 +55,6 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Gudai]]
 - [[objektai/grupes/Krivičiai]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]

@@ -128,7 +128,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/pinigai]]
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai

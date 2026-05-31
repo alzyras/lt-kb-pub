@@ -9,17 +9,17 @@ saltiniai:
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai:
   - Jogaila
 susije_irasai:
   - [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila]]
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: aukstas
 atnaujinta: '2026-04-24'
 tags: []
@@ -70,6 +70,10 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,9 +119,42 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-004
+  santrauka: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
+    moterys, kiekvienam būriui suteikiant vardą. Jogaila besi­
+    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
+    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
+    prie krikšto turėti baltą rūbą, nekaltybės simbolį. Tačiau dėl
+    šių nežymių dovanų vargu kas iš lietuvių būtų išsižadėjęs savo
+    seno tikėjimo, arba krikštijęsis keliskart, kad daugiau jų gautų,
+
+    (^1) ) Valachijoje (dabartinėje Rumunijoje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
+- [[objektai/daiktai/Kilimas]]
+- [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas]]
+- [[objektai/paprociai/Lietuvos krikšto apeigos]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
+- [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]
+- [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]
 - [[objektai/daiktai/Vyženos]]
+- [[objektai/zodynas/Kilimas|kilimas]]
+- [[objektai/daiktai/Rūbai]]
+- [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]
 - [[objektai/asmenys/Hermanas iš Lichtenburgo]]
+- [[objektai/grupes/Vilniaus gyventojai]]

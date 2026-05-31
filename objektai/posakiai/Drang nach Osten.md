@@ -89,4 +89,5 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Vokiečiai]]

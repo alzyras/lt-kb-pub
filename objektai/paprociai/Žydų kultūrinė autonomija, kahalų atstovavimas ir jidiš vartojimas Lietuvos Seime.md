@@ -1,0 +1,124 @@
+---
+tipas: paprotys
+pavadinimas: 'Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '1920 m.'
+  - '1922 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1918'
+date_end: '1922'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - miestas
+  - paprotys
+  - tauta
+  - valstybė
+---
+# Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime
+
+## Santrauka
+
+Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
+    Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Netu-
+    rinčią savo stiprios vadovaujančios vidurinės klasės, nedidelę lietuvių
+    inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
+    su sostine Vilniumi. Žydų miesto bendruomenės ir jų prekybos, finan-
+    sų pajėgų parama dar nelietuviškuose miestuose buvo svarbi ir vidaus,
+    ir užsienio politikos sumetimais. 1918 m. gruodį žydų sionistai Jokūbas
+    Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais atitin-
+    kamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų vi-
+    ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
+    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
+    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją. Apskritai Lietu-
+    vos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje,
+    žydai savanoriai dalyvavo nepriklausomybės kovose. 1920 m. nacionali-
+    nėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų kon-
+    ferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo
+    spręsti visus socialinius ir kultūrinius žydų reikalus. Gerai nemokėdami
+    lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti jidiš – to Europoje
+    dar nebuvo...
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei autonomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad L I E T U V O S I S T O R I J A 168 nesusidarytų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    .
+    Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant
+    1922 m. konstituciją partijos pritarė tautinių mažumų kultūrinei auto-
+    nomijai, suteikė mažumoms lygias teises, tačiau privilegijų neteikė, kad
+
+    L I E T U V O S  I S T O R I J A
+    168
+    nesusidarytų valstybė valstybėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Antisemitizmas]]
+- [[objektai/zodynas/Jidiš]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/zodynas/Kahalai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos žydų taryba (Vaad)]]
+- [[objektai/asmenys/S. Rozenbaumas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/Tautinės mažumos]]
+- [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]

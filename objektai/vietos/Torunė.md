@@ -132,6 +132,22 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   teiginys: 'Stepono Batoro dokumentas buvo duotas Torunėje 1576 m. gruodžio 20 d.'
   pagrindžia:
     - c-006
+- t-019
+  teiginys: '1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Duota Torunėje, Viešpaties metais 1576, gruodžio 20 dieną.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Dusburgietis teigia, kad apie daugy­ bės krikščionių žūtį Kai brolis Heidenreichas, Kulmo vyskupas, šventino Torunės ligoninės koplyčią, buvusią už sienų, prūsai, gerai suprasdami šių apeigų reikšmę, subūrė kariuomenę, žiauriai užpuolė žmones, grįžtančius iš šventinimo apeigų, išžudė.'
+  pagrindžia:
+    - c-022
 
 ## Reikšmingi paminėjimai
 
@@ -410,3 +426,87 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-019
+  santrauka: '1255 me­ tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­ kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281 metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti bemaž visi Varmės miestai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Teutonų
+    ordinas, XIII amžiuje pavergęs prūsus ir prislopinęs lietuvių pa­
+    gonybę, Baltijos pakrantėse pagausino miestų ir pilių. 1255 me­
+    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
+    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
+    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
+    bemaž visi Varmės miestai.
+    Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
+    amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
+    kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­ sijos kustodas, to paties ordino Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­ tai: Paulius iš Olivos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tad atmeskite tą bedievišką sąjungą: o ka­
+    dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,
+    nesiliaukite kovoję su priešu ir tik po visiško jo sunaikinimo
+    pelnysite garbę žemėje, o danguje triumfo laurus"8.
+    Kai maždaug tuo metu sužinota, jog Gedimino skundas
+    tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­
+    sijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-
+    go ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­
+    tai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti
+    kryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­
+    mi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­
+    reikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­
+    kišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso
+    teigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­
+    geidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai
+    Minus ergo decet militantes domino,
+    genti peccatrici, populo nequam, filiis
+    sceleratis aliqua pactione conjungi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Duota Torunėje, Viešpaties metais 1576, gruodžio 20 dieną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Norime, kad kuo ilgiausiai tas darbas bei
+    šis [laiškas] gyvuotų ir būtų nepažeistas. Duota Torunėje,
+    Viešpaties metais 1576, gruodžio 20 dieną. Mūsų karaliavi­
+    mo išties pirmaisiais metais].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Dusburgietis teigia, kad apie daugy­ bės krikščionių žūtį Kai brolis Heidenreichas, Kulmo vyskupas, šventino Torunės ligoninės koplyčią, buvusią už sienų, prūsai, gerai suprasdami šių apeigų reikšmę, subūrė kariuomenę, žiauriai užpuolė žmones, grįžtančius iš šventinimo apeigų, išžudė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie visos Kulmo žemės karą antrosios atskalūnybės metais. Apie daugy­
+                                  bės krikščionių žūtį
+
+      Kai  brolis Heidenreichas, Kulmo vyskupas, šventino Torunės ligoninės koplyčią,
+    buvusią už sienų, prūsai, gerai suprasdami šių apeigų reikšmę, subūrė kariuomenę,
+    žiauriai užpuolė žmones, grįžtančius iš šventinimo apeigų, išžudė vyrus, o moteris ir
+
+      436  D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022

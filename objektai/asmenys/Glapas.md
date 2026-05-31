@@ -46,6 +46,10 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   teiginys: 'Dusburgietis teigia, kad tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga juos užpuolė ir visus išžudė.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai šiame mūšyje prarado daug jėgų, netekę brolių, ginklanešių, žirgų, ginklų ir visa kita, kas reikalinga karui, patyrę daug sunkių nelaimių ir aitrių nuoskaudų, vėl atkrito nuo tikėjimo ir tikinčiųjų, sugrįžo.'
@@ -120,6 +124,22 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad šis, paklausęs patarimo, susikvietė daug brolių bei ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga juos užpuolė ir visus išžudė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Šis, paklausęs patarimo, susikvietė daug brolių bei
+    ginklanešių, nuvyko ten, užklupo Glapą, su kariuomene apgulusį minėtąją pilį, staiga
+    juos užpuolė ir visus išžudė. Tačiau Glapą nusivarė su savimi į Karaliaučių ir pakorė ant
+    kalvos, kuri nuo jo vardo po šiai dienai tebevadinama Glapo kalva413. Išžudžius vadus ir
+    kitus vadovavusius karui, notangai ir varmiai vėl pasidavė tikėjimui ir broliams.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -130,7 +150,9 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 - [[objektai/grupes/Pagudėnai]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/grupes/Varmiai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vergai]]
+- [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]

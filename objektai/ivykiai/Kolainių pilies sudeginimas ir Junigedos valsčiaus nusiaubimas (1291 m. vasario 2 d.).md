@@ -89,5 +89,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Bertoldas (pranciškonas)]]
+- [[objektai/asmenys/Bertoldas]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

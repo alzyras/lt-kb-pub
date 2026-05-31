@@ -71,7 +71,18 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
   teiginys: 'Juzefas Pilsudskis Ženevoje A. Voldemarui uždavė klausimą „Karas ar taika?“.'
   pagrindžia:
     - c-009
-
+- t-010
+  teiginys: 'Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją šalininkai, nevengę ir teroristinių veiksmų.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Pilsudskis uždavė A.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Juzefas Pilsudskis rėmė buvusios dvilypės Lenkijos ir Lietuvos valstybės atkūrimą, įsivaizduodamas ją kaip federaciją.'
@@ -228,20 +239,78 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+    - t-012
+- c-010
+  santrauka: 'Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją šalininkai, nevengę ir teroristinių veiksmų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pilsudskio šalininkai buvo ryžtingos kovos pirmiausia prieš Rusiją
+    šalininkai, nevengę ir teroristinių veiksmų. Pats J. Pilsudskis – buvusios
+
+    L I E T U V O S  I S T O R I J A
+    126
+    dvilypės Lenkijos ir Lietuvos valstybės atkūrimo šalininkas, tą dvilypumą
+    dabar įsivaizdavęs lyg ir kaip federaciją, o pačią Lietuvą tarsi padalytą į
+    tris dalis – vakarinę etniškai lietuvišką, vidurinę su Vilniumi ir Gardinu,
+    kaip lenkakalbę, ir rytinę su Minsku, kur būtų vietos ir baltarusių kalbai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviakalbės Lietuvos
+    kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik
+    teisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva-
+    rininkų privilegijoms. Nors kai kurie dvarininkai „senlietuviai“ parėmė
+    lietuvių aspiracijas, dauguma dėjo viltis į Lenkiją – J. Pilsudskis, pokario
+
+    L I E T U V O S  I S T O R I J A
+    132
+    Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietu-
+    viu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Len-
+    kijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu iš Lietuvos
+    nepriklausomybės kūrėjų, Lietuvos Tarybos nariu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Antantė]]
+- [[objektai/asmenys/Augustinas]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Gabrielis Narutovičius]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Petras Klimas]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Prancūzai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas Narutavičius]]
+- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/fait accompli]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]
 - [[objektai/grupes/Lenkų socialistų partija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/asmenys/Romanas Dmovskis]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/zodynas/demarkacijos linija]]
 - [[objektai/posakiai/„seimokratija“]]

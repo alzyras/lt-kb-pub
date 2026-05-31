@@ -107,4 +107,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/organas]]

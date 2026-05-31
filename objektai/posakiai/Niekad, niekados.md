@@ -65,3 +65,10 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/bajorija]]

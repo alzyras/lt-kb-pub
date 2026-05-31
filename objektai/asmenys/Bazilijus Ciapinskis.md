@@ -45,3 +45,5 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Rusėnai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Stačiatikiai]]

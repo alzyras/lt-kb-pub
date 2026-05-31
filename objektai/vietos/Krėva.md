@@ -64,6 +64,22 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   teiginys: 'Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Mazovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tačiau, apsuptas išdavikų, buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­ tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių budelių pasmaugtas36.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas, tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­ vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo neišvengiamos.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Lankė jie ir kitus Lietuvos miestus, kaip Vilnių, Krėvę, Trakus, Gardi­ ną ir kitus.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -207,3 +223,85 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Mazovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik neilgai Lietuvos
+    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Tačiau, apsuptas išdavikų, buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­ tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių budelių pasmaugtas36.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    37
+
+    ## Puslapis 54
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    stovyklą kuo greičiau susitarti. Tačiau, apsuptas išdavikų,
+    buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
+    tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių
+    budelių pasmaugtas36. To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas, tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­ vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo neišvengiamos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Lankė jie ir kitus Lietuvos miestus, kaip Vilnių, Krėvę, Trakus, Gardi­ ną ir kitus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Juose buvo daugiausia
+    įsigalėję vokiečių pirkliai, turėdami čia savo kontoras. Lankė
+    jie ir kitus Lietuvos miestus, kaip Vilnių, Krėvę, Trakus, Gardi­
+    ną ir kitus. Kaunas buvo Lietuvos prekybos židinys, nes į jį
+    ėjo daug vandens ir sausumos kelių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012

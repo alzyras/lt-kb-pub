@@ -46,4 +46,7 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/posakiai/„brazauskininkus“ ir „landsbergininkus“]]
 - [[objektai/ivykiai/1996 m. Seimo rinkimai ir konservatorių pergalė|1996 m. Seimo rinkimai ir konservatorių pergalė (seimas, XX a.)]]
+- [[objektai/grupes/Tėvynės Sąjunga-Lietuvos konservatoriai]]
+- [[objektai/asmenys/Vytautas Landsbergis]]

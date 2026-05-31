@@ -51,4 +51,5 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/savismauga]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/ponų tauta viešpataujanti tauta]]

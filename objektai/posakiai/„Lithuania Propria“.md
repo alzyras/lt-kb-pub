@@ -95,5 +95,18 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Donatas Malinauskas]]
+- [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/autoriai/Stasys Šilingas]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/zodynas/aneksija]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Jurgis Šaulys]]
+- [[objektai/asmenys/Steponas Kairys]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]
+- [[objektai/ivykiai/Sarajevo atentatas ir Pirmojo pasaulinio karo pradžia]]
+- [[objektai/daiktai/Žemėlapis „Lituania Propria“]]

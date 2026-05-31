@@ -87,6 +87,26 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   teiginys: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: 'Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų 83 Popiežius Martynas V 1428 m.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Popiežius Martynas V, Konstan­ cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė (1417.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų globėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos arkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius, uždedamas kunigijai kontribuciją (1424) tiems reikalams.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Vytautas su Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė iškelt Ordinui bylą ir pas popiežių Martyną V.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Martynas V parašė naujai išrinktam popiežiui Marty­ nui V laišką, bet nenugalimų kliūčių sutiko kurijoj, kuri steigda­ ma naujas metropolijas arba vyskupijas, griežtai laikėsi princi- 286 po: „neįžeidžiant kitų teisių” (sine praeiudicio aliorum)^1 ).'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -283,9 +303,116 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-013
+  santrauka: 'Nepadėjo šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų 83 Popiežius Martynas V 1428 m.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kurstė ją tad visokiausiais būdais, karūnos Lietuvai pel­
+    nymą vaizduodami puikiausiu atpildu Vytautui už jo
+    laimėjimus, nenuilsdami stengėsi dvejus metus. Nepadėjo
+    šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis
+    kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų
+    83
+    Popiežius Martynas V 1428 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Popiežius Martynas V, Konstan­ cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė (1417.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Popiežius Martynas V, Konstan­
+    cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė
+    (1417. V. 13) savo vikarais pasauliniuose dalykuose Lietuvai
+    ir Rusijai, pavesdamas jiems kurti bažnyčias, lengvinti kuni­
+    gams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti
+    tikėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų globėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos arkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius, uždedamas kunigijai kontribuciją (1424) tiems reikalams.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas vedė su juo labai plačią korespondenciją vi­
+    sais svarbiausiais Lietuvos krikšto klausimais. Martynas V pa­
+    skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų
+    globėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos
+    arkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius,
+    uždedamas kunigijai kontribuciją (1424) tiems reikalams, leido
+    kurti Kamienco vyskupiją, suteikė indulgencijų jam ir jo pata­
+    rėjams. Iš kitos pusės, Martynas V dėl kai kurių dalykų Vy­
+    tautui ir nepritarė; jis neaprobavo Vytauto sumanymo suvie­
+    nyti abi Bažnyčias, nesutiko įkurti atskiros Lietuvai metropoli­
+    jos, draudė Vytautui remti husitus, nepritarė Vytauto karūna­
+    cijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Vytautas su Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė iškelt Ordinui bylą ir pas popiežių Martyną V.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Maža to. Vytautas su
+    Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė
+    iškelt Ordinui bylą ir pas popiežių Martyną V. Ordinas norėjo
+    tam užbėgti už akių, bet pasivėlavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Martynas V parašė naujai išrinktam popiežiui Marty­ nui V laišką, bet nenugalimų kliūčių sutiko kurijoj, kuri steigda­ ma naujas metropolijas arba vyskupijas, griežtai laikėsi princi- 286 po: „neįžeidžiant kitų teisių” (sine praeiudicio aliorum)^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo klausimu
+    1418 m. vasar. 3 d. jis parašė naujai išrinktam popiežiui Marty­
+    nui V laišką, bet nenugalimų kliūčių sutiko kurijoj, kuri steigda­
+    ma naujas metropolijas arba vyskupijas, griežtai laikėsi princi-
+    ```
+
+    ```
+    286
+    ```
+    po: „neįžeidžiant kitų teisių” (sine praeiudicio aliorum)^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
 - [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]
 - [[objektai/zodynas/indulgencija]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kontribucija]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
+- [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

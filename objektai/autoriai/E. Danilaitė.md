@@ -86,3 +86,4 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
 - [[objektai/daiktai/Sidabro dirbiniai]]
 - [[objektai/daiktai/Geležiniai įrankiai]]
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
+- [[objektai/daiktai/Skydai]]

@@ -63,3 +63,4 @@ Nenurodyta
 - [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
 - [[objektai/zodynas/metropolitas]]
+- [[objektai/asmenys/Jonas Paulius II]]

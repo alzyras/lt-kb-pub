@@ -123,3 +123,4 @@ Nenurodyta
 - [[objektai/zodynas/vaivada]]
 - [[objektai/autoriai/Albertas Goštautas]]
 - [[objektai/asmenys/Goštautas]]
+- [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]

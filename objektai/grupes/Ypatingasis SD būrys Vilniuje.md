@@ -48,4 +48,6 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/zonderkomanda]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Heinricho Hamano skrajojantis būrys]]
+- [[objektai/zodynas/akcijos]]

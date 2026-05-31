@@ -59,10 +59,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Rygos miestiečiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

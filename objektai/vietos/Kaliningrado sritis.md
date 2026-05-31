@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1990 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+date_start: '1990'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -33,6 +42,10 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   teiginys: 'Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,3 +84,23 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nujausdama kurlink judėjimas suka, Maskva darė viską, kad sustab-
+    dytų eventualų nepriklausomybės atkūrimą. Griebtasi šantažo – grasinta
+    prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities,
+    o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-
+    ją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva
+
+    L I E T U V O S  I S T O R I J A
+    240
+    Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

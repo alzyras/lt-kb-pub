@@ -50,5 +50,7 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
 ### Susiję objektai
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/metropolija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/metropolija bažnytinė provincija]]

@@ -56,8 +56,8 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/III Seimas]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

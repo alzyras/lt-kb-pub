@@ -60,6 +60,22 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   teiginys: 'Tačiau netrukus į Vilnių at­ vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai grėsusio pilietinio karo.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Žinodami gausią globą ir ypatingas privilegijas, o krikščio­ nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­ kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­ zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie pasidarė.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­ čio dvare9.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui ir jo svainiui Mikalojui Sachsei, taip pat savo dvariškiams, su reikalais vykstantiems į Sileziją.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­ čiai ir Hanzos atstovai.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -169,3 +185,83 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Žinodami gausią globą ir ypatingas privilegijas, o krikščio­ nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­ kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­ zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie pasidarė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Lietu­
+    vos valdovas įsikurdino Žemutinės pilies teritorijoje, aplink
+    įgyvendino savo dvariškius bei tarnus, žinoma, dar reikė­
+    tų pridurti ir nemažai paimtų į nelaisvę lenkų bei rusinu.
+    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
+    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
+    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
+    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
+    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
+    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
+    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
+    o aplink kurdino savo valdinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­ čio dvare9.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Ki­ tame savo laiške Švitrigaila prašo garantijų Hansui (Janui) Tscheizui ir jo svainiui Mikalojui Sachsei, taip pat savo dvariškiams, su reikalais vykstantiems į Sileziją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Švit­
+    rigailos dvaro maršalka buvo Mzu-
+    sas, kuriam išduotas didžiojo kuni­
+    gaikščio garantinis raštas iki šiol
+    saugojamas Slaptajame archyve. Ki­
+    tame savo laiške Švitrigaila prašo
+    garantijų Hansui (Janui) Tscheizui ir
+    jo svainiui Mikalojui Sachsei, taip
+    pat savo dvariškiams, su reikalais
+    vykstantiems į Sileziją. Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­ čiai ir Hanzos atstovai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Atvyko
+    Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas
+    su savo žmona Barbora Cyleikaite, Jogailos antrosios žmonos
+    giminiete, — lydimi daugelio savo baronų; ir pats Vytautas su
+    gausybe savo lėnininkų pasiuntinių, didikų ir kunigaikščių.
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

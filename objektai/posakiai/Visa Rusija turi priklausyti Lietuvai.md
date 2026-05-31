@@ -104,3 +104,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/zodynas/kunigaikščiai]]

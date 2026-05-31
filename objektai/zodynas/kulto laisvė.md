@@ -49,9 +49,12 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Alfonsas Svarinskas]]
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kauneckas]]
 - [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
+- [[objektai/asmenys/Alfonsas Svarinskas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/autoriai/Sigitas Tamkevičius]]
 - [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
 - [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]

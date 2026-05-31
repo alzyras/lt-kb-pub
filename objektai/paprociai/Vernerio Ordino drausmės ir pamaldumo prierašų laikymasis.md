@@ -53,6 +53,10 @@ Nenurodyta
   pagrindžia:
     - c-003
     - c-004
+- t-003
+  teiginys: 'Dusburgietis teigia, kad jo statute padaryta atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos, apribojama pasaulietiniai brolių poreikiai, aprangos ir ginklų puošnumas, finansiniai ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -109,6 +113,24 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
+- c-005
+  santrauka: 'Dusburgietis teigia, kad jo statute padaryta atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos, apribojama pasaulietiniai brolių poreikiai, aprangos ir ginklų puošnumas, finansiniai ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Jo statute padaryta
+    atitinkamų prierašų: pabrėžiama pamaldumo būtinumas, nurodoma privalomos maldos,
+    apribojama pasaulietiniai brolių poreikiai, aprangos  ir ginklų puošnumas, finansiniai
+    ištekliai, draudžiama savavališkai išeiti už Ordino namų ribų, primenama, kokie turi būti
+    vienuolių bendruomenės gyvenimo dėsniai. Vernerio prierašuose pabrėžiama, jog jie
+    skaitytini visuose Ordino namuose keturiskart į metus, nes visi privalą apie tai žinoti70.
+    Ordino viduje vykusią kovą 1324 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -117,4 +139,5 @@ Nenurodyta
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/statutas]]

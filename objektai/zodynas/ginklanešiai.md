@@ -48,6 +48,10 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   teiginys: 'Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei ginklanešių, jie patraukė prie Pieštvės.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo.'
@@ -135,6 +139,26 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei ginklanešių, jie patraukė prie Pieštvės.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    257 (250). Apie Pieštvės pilėnų apiplėšimą 1294
+
+       Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas
+    iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei
+    ginklanešių, jie patraukė prie Pieštvės pilies, kur pagrobė visą galvijų kaimenę; nužudę
+    daug netikėlių, 70 žmonių išsivarė į nelaisvę.
+
+
+      541 D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -146,13 +170,18 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Markvardas iš Revelingės]]
+- [[objektai/asmenys/Otonas]]
+- [[objektai/asmenys/Otonas iš Bergo]]
+- [[objektai/asmenys/Otonas iš Cedlico]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/ginklanešys]]
 - [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas]]
 - [[objektai/ivykiai/Antrosios laivų kautynės prie Svečės pilies|Antrosios laivų kautynės prie Svečės pilies (pilis)]]
 - [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
 - [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.)]]
+- [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Berlevinas]]
+- [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
 - [[objektai/ivykiai/Bisenės pilies sudeginimas (1316 m. balandžio 4 d.)]]
 - [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]
 - [[objektai/asmenys/Burchardas iš Hornhauzeno]]
@@ -160,6 +189,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/asmenys/Ditrichas iš Altenburgo]]
 - [[objektai/asmenys/Ditrichas iš Bernheimo]]
 - [[objektai/asmenys/Divanas]]
+- [[objektai/ivykiai/Dusburgiečio pasakojamas Elbingo brolių stebuklas ir pagudėnų pasidavimas]]
 - [[objektai/asmenys/Fridrichas Kvicas]]
 - [[objektai/asmenys/Fridrichas iš Holdenštetės]]
 - [[objektai/asmenys/Fridrichas iš Veidos]]
@@ -173,26 +203,35 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/asmenys/Henrikas iš Ceico]]
 - [[objektai/asmenys/Henrikas iš Dobino]]
 - [[objektai/asmenys/Henrikas iš Vederės]]
+- [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/asmenys/Hermanas (Ordino magistras)]]
 - [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]]
 - [[objektai/asmenys/Hermanas Balkas]]
 - [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
 - [[objektai/asmenys/Kaltis]]
+- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]]
 - [[objektai/asmenys/Kodrūnas]]
 - [[objektai/asmenys/Konradas Bremeris]]
 - [[objektai/asmenys/Konradas iš Foichtvangeno]]
 - [[objektai/asmenys/Konradas iš Tuteleno]]
 - [[objektai/asmenys/Konradas Štangė]]
 - [[objektai/asmenys/Konradas Žakas]]
+- [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]
 - [[objektai/daiktai/Krikšto vandens indas|Krikšto vandens indas (krikštas, XIII a.)]]
+- [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Laivų kautynės prie Santyro]]
 - [[objektai/grupes/Marienverderio miestiečiai]]
 - [[objektai/ivykiai/Marienverderio miesto užėmimas ir sunaikinimas|Marienverderio miesto užėmimas ir sunaikinimas (miestas)]]
+- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
 - [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
 - [[objektai/ivykiai/Naklo pilies pasidavimas ir Pomeranijos žemės apiplėšimas|Naklo pilies pasidavimas ir Pomeranijos žemės apiplėšimas (pilis, XIII a.)]]
 - [[objektai/ivykiai/Naujas Sventopelko karas ir susidūrimas prie Renzeno]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
 - [[objektai/asmenys/Petras iš Rozenbergo]]
 - [[objektai/ivykiai/Pilies ant švento Jurgio kalno Karšuvoje pastatymas (1259 m.)]]
 - [[objektai/asmenys/Pilypas]]
@@ -201,31 +240,45 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/asmenys/Poponas iš Osternos]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
 - [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]
+- [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]
 - [[objektai/asmenys/Samboras]]
 - [[objektai/asmenys/Sarkis]]
+- [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]
 - [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]
+- [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis]]
 - [[objektai/asmenys/Skomantas]]
+- [[objektai/ivykiai/Skomanto naktinis puolimas prie Birgelavos]]
 - [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]
+- [[objektai/asmenys/Sventopelkas]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Ulrichas iš Magdeburgo]]
 - [[objektai/asmenys/Valteris Goldinas]]
 - [[objektai/asmenys/Valteris, pravarde Goldinas]]
 - [[objektai/ivykiai/Vizenburgo pilies kautynės ir apleidimas (1263 m.)]]
 - [[objektai/asmenys/Zigfridas iš Rechbergo]]
 - [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai]]
+- [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/grinda]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/zodynas/papilys]]
 - [[objektai/zodynas/pilėnas pilėnai]]
+- [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]
 - [[objektai/posakiai/Šiandien pat pasiųsiu tave į dangų]]
+- [[objektai/ivykiai/Štarkenbergo pilies statybos metu įvykusios žudynės ir pilies pastatymas]]
+- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
 - [[objektai/asmenys/Ernekė]]
 - [[objektai/asmenys/Gotfridas Hohenlohė]]
 - [[objektai/asmenys/Jonas iš Vienos]]
+- [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]
 - [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]
 - [[objektai/asmenys/Tirskas]]
 - [[objektai/ivykiai/Vartenbergo apylinkių žmonių žudynės]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
+- [[objektai/ivykiai/Pieštvės pilėnų apiplėšimas (1294 m.)]]
 - [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
 - [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
 - [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas]]

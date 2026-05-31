@@ -17,9 +17,13 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 datos:
+  - '1236 m.'
   - '1244 m.'
   - '1245 m.'
   - '1246 m.'
+  - '1259 m.'
+  - '1260 m.'
+  - '1261 m.'
   - '1435 m.'
   - '1700 m.'
   - '1702 m.'
@@ -36,7 +40,7 @@ amziai:
   - 'XVIII'
   - 'XX'
   - 'XXI'
-date_start: '1244'
+date_start: '1236'
 date_end: '2026'
 patikimumas: "vidutinis"
 atnaujinta: '2026-04-25'
@@ -114,6 +118,22 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginys: 'Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę^58.'
   pagrindžia:
     - c-014
+- t-019
+  teiginys: '1244 m. Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su piliadaužėmis puolė Ordino anksčiau užvaldytą Embutės pilį, tačiau jos užimti nepavyko.'
+  pagrindžia:
+    - c-015
+- t-020
+  teiginys: 'Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187.'
+  pagrindžia:
+    - c-016
+- t-021
+  teiginys: 'Dusburgietis teigia, kad apie prūsų susiskirstymą bei jų galybę Prūsijos žemė188 skirstoma į apie Nemuną, skiriantį Prūsiją nuo Kuršo.'
+  pagrindžia:
+    - c-017
+- t-022
+  teiginys: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -363,6 +383,93 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-015
+  santrauka: '1244 m. Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su piliadaužėmis puolė Ordino anksčiau užvaldytą Embutės pilį, tačiau jos užimti nepavyko.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1244 m.
+    Mindaugo - „Lietuvos galingo karaliaus“
+    pajėgos įsiveržė į Kuršą, su piliadaužė-
+    mis puolė Ordino anksčiau užvaldytą
+    Embutės pilį, tačiau jos užimti nepa-
+    vyko. Kurše tarp lietuvių ir Ordino vyko
+    nuolatinės kovos, abi pusės jų metu pa-
+    tyrė didelių nuostolių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-016
+  santrauka: 'Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
+    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
+    Lietuvos ir Kuršo187.
+      1236 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-017
+  santrauka: 'Dusburgietis teigia, kad apie prūsų susiskirstymą bei jų galybę Prūsijos žemė188 skirstoma į apie Nemuną, skiriantį Prūsiją nuo Kuršo.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    172) Dusburgiečio tekste kalbama
+
+    3. Apie prūsų susiskirstymą bei jų galybę
+
+       Prūsijos žemė188 skirstoma į
+    apie Nemuną, skiriantį Prūsiją nuo Kuršo. Teiginys, matyt, atspindi situaciją, kai Ordinas
+    ginklu prie Kuršo buvo prijungęs kitas teritorijas.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-018
+  santrauka: 'Dusburgietis teigia, kad apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­ nių 1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Kuršo žemėje įvykusį mūšį, kuriame krito 150 brolių ir daugybė krikščio­
+                                             nių
+
+      1260 viešpaties metais Livonijos ir Prūsijos broliai suėjo  į vieną vietą su stipriomis
+    kariuomenėmis, ketindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo
+    prie  šios  pilies, atvyko  pasiuntinys, pranešdamas, kad  keturi  tūkstančiai  lietuvių
+
+      342 Krašto magistras buvo nuo 1259 m. gegužės mėn.  iki 1261 m.  lapkričio
+    mėn.
+      343 Karšuvos (D.— terra Carsovie) žemė pietvakarių Žemaitijoje pietuose apie
+    Nemuno—Mituvos santaką siekė Nemuną, pietvakariuose  ribojosi su Skalva (apie
+    Sešuvies—Jūros santaką), vakaruose siekė Minijos žemupį, šiaurėje apėmė Jūros  ir
+    Akmenos vidupius su dab. Šilale, rytuose ėjo iki Šaltuonos aukštupio (SZM, p. 199—
+    202).
+      344 Ordino pilis ant švento Jurgio kalno (D — in monte sancti Georgii) buvo pastatyta,
+    atrodo, deš. Nemuno krante apie dab. Jurbarką, žemiau Mituvos žiočių, kur yra Bišpiliukais
+    vadinama piliavietė (dvi kalvelės Kalnėnų kaimo teritorijoje) (Toeppen M., Historisch..,
+    p. 39; Zajączkowski S., Studya.., p. 35—36; SZM, p. 213—214; LAA, 2, p. 77).
+
+    nuniokojo vieną Kuršo žemės dalį, degindami, grobstydami ir liedami krikščionių kraują,
+    o sugautas moteris bei vaikus išsivarė su savimi, kartu gabendamiesi daug kitokio
+    grobio.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
 
 ## Pavadinimai šaltiniuose
 

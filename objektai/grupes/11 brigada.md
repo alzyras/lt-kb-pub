@@ -80,9 +80,11 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Šukys]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/viršila]]
 - [[objektai/grupes/I brigada]]
 - [[objektai/grupes/Marijampolės batalionas]]
+- [[objektai/grupes/brigada]]
 - [[objektai/asmenys/S. Nastopka]]

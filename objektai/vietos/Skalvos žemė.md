@@ -8,14 +8,15 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1360 m.'
   - '1365 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-date_start: '1365'
-date_end: ''
+date_start: '1360'
+date_end: '1365'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -46,6 +47,10 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: '1360 m. kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį Skalvos žemėje (netoli Tilžės), o kitą prie Nemuno žiočių — Ventės rage (Vindenburgą).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -113,3 +118,23 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-004
+  santrauka: '1360 m. kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį Skalvos žemėje (netoli Tilžės), o kitą prie Nemuno žiočių — Ventės rage (Vindenburgą).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1360 m.
+    kryžiuočiai toliau tvirtinosi pačiame Ne-
+    muno žemupyje, statė naują pilį Skalvos
+    žemėje (netoli Tilžės), o kitą prie Nemuno
+    žiočių — Ventės rage (Vindenburgą). Tais
+    metais maršalo vadovaujama Ordino ka-
+    riuomenė, su talkininkais iš Vokietijos
+    atplaukusi laivais, puolė Veliuonos pilį,
+    padarė jai daug žalos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

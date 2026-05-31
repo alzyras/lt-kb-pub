@@ -124,3 +124,5 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/paprociai/Jogailos meldimasis ir mišių klausymas prieš kautynes]]
+- [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/daiktai/Vėliavos]]

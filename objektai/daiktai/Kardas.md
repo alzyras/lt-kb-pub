@@ -7,6 +7,16 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1917 m.'
+  - '1920 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XX'
+date_start: '1917'
+date_end: '1920'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -73,6 +83,18 @@ Nenurodyta
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-007
+  teiginys: 'Žvalgas, pamatęs smarkai atjojantį raitelį žvilgančiu kardu rankoje, atsigulė griovyje.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Lenkas, senas karys, irgi ilgai juk neatsiminė, kad turi pistoletą.“ 1917 m. modelio lenkiškas kardas, skirtas ulonų, artilerijos ir gurguolės puskarininkiams 1920 m.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­ viai, kardai ir kiti ginklai.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -167,18 +189,103 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Žvalgas, pamatęs smarkai atjojantį raitelį žvilgančiu kardu rankoje, atsigulė griovyje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Žvalgas, pa-
+    matęs smarkai atjojantį raitelį žvilgančiu kardu rankoje, atsigulė grio-
+    vyje. Arklys šoko per griovį, o lenkas dūrė kardu. Lenkas apsisuko ir
+
+    vėl puolė, ir taip kartojo jis kelis kartus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Lenkas, senas karys, irgi ilgai juk neatsiminė, kad turi pistoletą.“ 1917 m. modelio lenkiškas kardas, skirtas ulonų, artilerijos ir gurguolės puskarininkiams 1920 m.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lenkas, senas karys,
+    irgi ilgai juk neatsiminė, kad turi pistoletą.“
+
+    1917 m. modelio lenkiškas kardas, skirtas ulonų,
+    artilerijos ir gurguolės puskarininkiams
+
+    1920 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­ viai, kardai ir kiti ginklai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iš priešin­
+    gų pusių nuo kalnelių ėmė leistis kariuomenės ir tuoj susitiko.
+    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
+    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
+    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
+    gininkų kariuomenėj nesukėlė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/ivykiai/Giedraičių kautynės]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos|Damoklo kardas tikrai pakibo ant unijos (unija)]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
+- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
+- [[objektai/asmenys/Jonas XXIII]]
+- [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Kardo rinktinė]]
+- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/grupes/Klevo kuopa]]
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Kryžius ant kardo galo]]
+- [[objektai/grupes/Lietuvos laisvės armija]]
 - [[objektai/grupes/Lietuvos totoriai]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
 - [[objektai/asmenys/Paulius Vladimiri]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
+- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/Meldžionys|meldžionys]]
 - [[objektai/zodynas/vachmistras]]
+- [[objektai/autoriai/Karamzino]]
+- [[objektai/grupes/Livonijos kunigaikštystė]]
 - [[objektai/daiktai/Pistoletas]]
+- [[objektai/zodynas/regimentorius]]
+- [[objektai/daiktai/Patrankos]]
+- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
+- [[objektai/zodynas/plikbajoris]]

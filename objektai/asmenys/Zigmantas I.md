@@ -104,3 +104,8 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 - [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/hegemonija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/posakiai/„niekieno neatsiklausdamas“]]

@@ -124,4 +124,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/posakiai/vartais į Rusiją]]
+- [[objektai/asmenys/Jonas Karolis Katkevičius]]

@@ -89,12 +89,17 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/christianizacija]]
+- [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]
+- [[objektai/zodynas/civilizacinė monada]]
 - [[objektai/zodynas/konversija christianizacija europeizacija]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
-- [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
 - [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai]]

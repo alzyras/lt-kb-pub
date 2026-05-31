@@ -68,6 +68,10 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   teiginys: 'Jo laikais tokių dvarų - ūkio centrų gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­ maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat arčiau didž.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius Spytkas iš Melštyno, kuris valdė Podoliją.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -188,3 +192,20 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius Spytkas iš Melštyno, kuris valdė Podoliją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius
+    Spytkas iš Melštyno, kuris valdė Podoliją.
+    Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­
+    siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
+    nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
+    tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

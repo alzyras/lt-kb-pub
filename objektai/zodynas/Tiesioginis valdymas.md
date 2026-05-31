@@ -48,4 +48,5 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Teritorinė autonomija]]

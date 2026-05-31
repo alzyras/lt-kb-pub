@@ -97,3 +97,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Papuošalai]]
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]

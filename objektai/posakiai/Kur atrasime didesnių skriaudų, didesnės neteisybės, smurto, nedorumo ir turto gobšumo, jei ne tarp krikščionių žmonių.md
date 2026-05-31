@@ -59,9 +59,6 @@ Dusburgietis teigia, kad laiškas popiežiui)48; „Kur atrasime didesnių skria
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]

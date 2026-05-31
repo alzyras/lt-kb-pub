@@ -12,20 +12,19 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "1582 m. fundacijos kontekstas"
-datos:
-  - "1582 m."
-  - "1582 m. sausio 11 d."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XVI"
-date_start: "1582"
-date_end: "1582"
 vaidmenys:
   - "seminarija"
   - "religinė švietimo institucija"
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1582 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes: []
+amziai:
+  - 'XVI'
+date_start: '1582'
+date_end: ''
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags: []
@@ -83,7 +82,14 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
     - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-007
+  teiginys: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
+  pagrindžia:
+    - c-005
+- t-008
+  teiginys: 'Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­ sų diecezijoje egzistuojančių.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Kolegijos steigimo motyvas ir paskirtis.
@@ -217,16 +223,101 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
   pagrindžia:
     - t-005
     - t-006
+- c-005
+  santrauka: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Quod quidem praedium cum kominikus, villis,
+    426
+
+    ## Puslapis 443
+
+    IV KNYGA
+    Vardan Kristaus Amen. Amžinai dalykų atminčiai. Šven­
+    tasis ekumeninis Tridento Sinodas nusprendė, kad norint
+    išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį
+    tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­
+    vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai
+    gyvuojančią seminariją, iš kur jaunuoliai, nuo jaunystės įgi­
+    ję dievobaimingumo, išmokyti geriausių menų, išeitų vyk­
+    dyti bažnytinių pareigų. Taigi, kai mes, Jurgis Radvila,
+    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
+    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
+    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
+    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
+    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
+    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
+    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
+    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
+    lių skaičius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-006
+  santrauka: 'Suprantame, kad mūsų ganytojiškoms parei­ goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo pajamų ir kapitulos, ir visokios rūšies vertybių, personatų, pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­ sų diecezijoje egzistuojančių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Suprantame, kad mūsų ganytojiškoms parei­
+    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
+    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
+    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
+    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
+    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
+    minėtos kolegijos ir inkorporuota. Nors, esant dabartinėms
+    nelaimėms, nuolatiniams nuostoliams dėl karo su Maskva,
+    mes neprivalome savęs apsunkinti naujais vargais, atsižvelg­
+    dami į savo padėtį, sunkiai galime aprūpinti lėšomis, tačiau
+    tikėdamiesi, kad Viešpaties, kurismeapleidžia gerų darbų,
+    ranka nesutrumpėjusi, paties Viešpaties Dievo vardu nu­
+    sprendžiame ir funduojame mūsų klierikų kolegiją ir fun-
+    davimui bei jos aprūpinimui jai pridedame mūsų patrimo-
+    nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
+    —  • —
+    427
+    Vaisgėliškis (vert.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/A. Plateris]]
+- [[objektai/ivykiai/Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais]]
+- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]
+- [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/dominija]]
-- [[objektai/autoriai/A. Plateris]]
-- [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]
-- [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
-- [[objektai/zodynas/mokytojų seminarija]]
-- [[objektai/asmenys/Jurgis Radvila]]
 - [[objektai/zodynas/homiletika]]
+- [[objektai/zodynas/mokytojų seminarija]]
+- [[objektai/grupes/Tridento Sinodas]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/autoriai/Haackas]]
+- [[objektai/asmenys/J. Stalinas]]
+- [[objektai/asmenys/Jonas Hlebavičius]]
+- [[objektai/asmenys/Josifas Stalinas]]
+- [[objektai/asmenys/Jurgis Astikas]]
+- [[objektai/asmenys/Kasparas Bekešas]]
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/asmenys/N. Chruščiovas]]
+- [[objektai/asmenys/Nikita Chruščiovas]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/ivykiai/Stepono Batoro privilegijos dėl Alantos dvaro dovanojimo Gabrieliui Bekešui suteikimas (1581 m. vasario 13 d.)]]
+- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
+- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
+- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
+- [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
+- [[objektai/zodynas/klierikų kolegija seminarija]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]

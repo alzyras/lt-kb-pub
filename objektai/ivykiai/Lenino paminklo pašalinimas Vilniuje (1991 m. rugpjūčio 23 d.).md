@@ -60,4 +60,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Lenino paminklas Vilniuje]]
+- [[objektai/zodynas/Baltic Kindergarten]]
+- [[objektai/posakiai/„Baltic Kindergarten“]]

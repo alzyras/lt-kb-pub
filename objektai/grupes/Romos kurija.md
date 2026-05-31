@@ -35,6 +35,10 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   pagrindžia:
     - c-001
     - c-002
+- t-002
+  teiginys: '(^12) CEV, 814-815, 823-824, 836-838 p. LENKAI TRUKDO VYTAUTUI VAINIKUOTIS 373 Romos kurija buvo įsitikinusi, kad tik abiejų pusbrolių sutarimas tegalės sutramdyti husitų plitimą Čekijoje^13.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX.'
@@ -78,12 +82,34 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-003
+  santrauka: '(^12) CEV, 814-815, 823-824, 836-838 p. LENKAI TRUKDO VYTAUTUI VAINIKUOTIS 373 Romos kurija buvo įsitikinusi, kad tik abiejų pusbrolių sutarimas tegalės sutramdyti husitų plitimą Čekijoje^13.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^12) **CEV, 814-815, 823-824, 836-838 p.**
+
+
+    ```
+    LENKAI TRUKDO VYTAUTUI VAINIKUOTIS 373
+    ```
+    Romos kurija buvo įsitikinusi, kad tik abiejų pusbrolių sutarimas
+    tegalės sutramdyti husitų plitimą Čekijoje^13. Kai lenkai, vesdami
+    savo griežtą akciją, rėmėsi teisiniais motyvais, išplaukiančiais iš
+    vad.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Grigalius (vicekancleris)]]
-- [[objektai/grupes/Teutonai]]
-- [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]
-- [[objektai/asmenys/Grigalius IX]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai]]

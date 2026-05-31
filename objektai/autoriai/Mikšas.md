@@ -83,3 +83,5 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Birutės draugija]]
+- [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]

@@ -9,18 +9,18 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: ""
-datos:
-  - "1323 m."
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIV"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1323 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1323'
+date_end: ''
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags: []
@@ -56,7 +56,10 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Mūsų senoliai siuntė jums savo pasiuntinius ir laiškus, atvėrė jums savo kraštą, [tačiau] niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka neatsiliepė dėl tų pasiūlymų.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata pagrindžia priekaišto formą ir jos laiško kontekstą.
@@ -77,6 +80,33 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Mūsų senoliai siuntė jums savo pasiuntinius ir laiškus, atvėrė jums savo kraštą, [tačiau] niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka neatsiliepė dėl tų pasiūlymų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Intrent et exe­
+    ant secunJum, placitum omni turbatione procul mota quoJ
+    sposponJimus in kiis fiJe Jata quoJ ab omni iniusta petitio­
+    ne meorum subJitorum manebunt securi et exempti. Agricu-
+    lis nostrum regnum intranJi commoranJique volentibus da­
+    mus et concedimus ad decem annos colere libere absque censu et
+    58
+
+    ## Puslapis 75
+
+    I  KNYGA
+    Dabar jūs pamatėte ir savo ausimis diena iš dienos girdi­
+    te, kokios naudos jūs visi netekote. Mūsų senoliai siuntė jums
+    savo pasiuntinius ir laiškus, atvėrė jums savo kraštą, [tačiau]
+    niekas iš jūsų neatvyko, net nė šuo iš jūsų pusės su padėka
+    neatsiliepė dėl tų pasiūlymų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -133,3 +133,12 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/autoriai/Ewald A. L]]
+- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]

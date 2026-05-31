@@ -60,6 +60,7 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Poznanės raitininkų eskadronai]]
+- [[objektai/zodynas/ulonai]]
 - [[objektai/grupes/12-asis ulonų pulkas]]
 - [[objektai/grupes/2-asis pėstininkų pulkas]]
 - [[objektai/grupes/7-asis pėstininkų pulkas]]

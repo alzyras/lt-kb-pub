@@ -53,4 +53,5 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
 - [[objektai/grupes/Vilniaus konfederacija]]

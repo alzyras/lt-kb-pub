@@ -14,15 +14,17 @@ datos:
   - '1794 m.'
   - '1805 m.'
   - '1806 m.'
+  - '1840 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'naujieji laikai'
 amziai:
   - 'XVI'
   - 'XVIII'
   - 'XIX'
 date_start: '1529'
-date_end: '1806'
+date_end: '1840'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -47,7 +49,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
 - t-002
   teiginys: 'Lietuvos Statutai sistemingumu pralenkė Vidurio Europos šalių teisines sistemas.'
   pagrindžia:
-    - c-002
+    - c-011
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
@@ -84,7 +86,14 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   teiginys: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
   pagrindžia:
     - c-009
-
+- t-010
+  teiginys: 'LDK bajorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūrimo iniciatoriais Albertu Goštautu ar Leonu Sapiega.'
+  pagrindžia:
+    - c-011
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
@@ -167,7 +176,43 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'LDK bajorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LDK ba-
+    jorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais. Net oficialioji
+    valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis
+    siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lie-
 
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    15
+    tuvių kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūrimo iniciatoriais Albertu Goštautu ar Leonu Sapiega.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo
+    lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūri-
+    mo iniciatoriais Albertu Goštautu ar Leonu Sapiega. Tačiau politinėmis
+    teisėmis naudojosi tik bajorų luomas (bet net XIX a. konstitucingoje ir
+    modernioje Didžiojoje Britanijoje tokiomis teisėmis besinaudojančių
+    piliečių procentas nebuvo didesnis).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+    - t-011
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Lietuvos Statutai kartu su Lietuvos Metrika ir Lietuvos metraščiais laikomi reikšmingiausiais to meto raštijos paminklais.'
@@ -185,23 +230,6 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Lietuvos Statutai sistemingumu pralenkė Vidurio Europos šalių teisines sistemas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo
-    lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūri-
-    mo iniciatoriais Albertu Goštautu ar Leonu Sapiega. Tačiau politinėmis
-    teisėmis naudojosi tik bajorų luomas (bet net XIX a. konstitucingoje ir
-    modernioje Didžiojoje Britanijoje tokiomis teisėmis besinaudojančių
-    piliečių procentas nebuvo didesnis).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Antrajame ir Trečiajame Lietuvos Statutuose teisine norma tapo Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)

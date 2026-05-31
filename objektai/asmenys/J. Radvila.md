@@ -57,4 +57,7 @@ Radvilos pajėgos.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Radvilos]]
 - [[objektai/zodynas/etmonas]]
+- [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.)]]
+- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]

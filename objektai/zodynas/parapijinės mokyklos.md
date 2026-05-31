@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1919 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1919'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -30,7 +39,10 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Kitas, pats svarbusis jos rūpestis yra mokyklų steigimas.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Savų parapijinių mokyklų turėjo vos pusė lietuviškųjų parapijų.'
@@ -64,6 +76,21 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kitas, pats svarbusis jos rūpestis yra mokyklų steigimas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kitas, pats svar-
+    busis jos rūpestis yra mokyklų steigimas. Mat, lig šiol savų
+    parapijinių mokyklų teturi vos pusė lietuviškųjų parapijų. Tuo
+    pačiu reikalu ypatingai rūpinasi ir Katalikų Federacija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

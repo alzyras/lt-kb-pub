@@ -105,3 +105,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laidotuvės]]
+
+### Susiję objektai
+- [[objektai/grupes/Protestantai]]
+- [[objektai/ivykiai/Protestanto nubaudimas per Dievo Kūno procesiją Vilniuje (1611 m.)]]

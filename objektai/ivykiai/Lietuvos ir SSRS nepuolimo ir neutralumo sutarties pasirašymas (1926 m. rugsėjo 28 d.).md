@@ -97,3 +97,9 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/de facto]]
+- [[objektai/asmenys/Georgijus Čičerinas]]

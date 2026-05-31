@@ -72,3 +72,4 @@ Nenurodyta
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Jogaila]]

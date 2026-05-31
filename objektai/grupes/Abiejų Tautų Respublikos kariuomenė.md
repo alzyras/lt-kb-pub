@@ -60,3 +60,4 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
 ### Susiję objektai
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]

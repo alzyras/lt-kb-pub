@@ -47,6 +47,14 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   teiginys: 'Dusburgietis teigia, kad otokaras II deramai suklestėsianti, patraukė į Prūsiją, lydimi didelių kariuomenių ir gausybės karių, gelbėti šios žemės ir tramdyti prūsų sukilimo: 1265 viešpaties metais Braunšveigo kunigaikštis ir Tiuringijos landgrafas, 1266 metais — Brandenburgo markgrafas Otonas su sūnumi bei tikruoju broliu, o 1268 metais — Otokaras, Čekijos karalius398.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Dusburgietis teigia, kad otokaras II mat sukurstė viename malūne susiginčyti du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti, ir štai ne tik kariai bei paprasti žmonės, bet ir karalius, ir kiti kunigaikščiai jau buvo bepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino, kad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Dusburgietis teigia, kad otokaras II vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradžios” autorius, dalyvavęs Čekijos karaliaus Otokaro II (ir kryžiuočių) 1255 m. puolime prieš Sembą, konstatuoja, kad už Prūsijos į šiaurę tęsiasi Semba (Prusciam sequitur Zambia ad aquilonem — Colker M.'
@@ -130,15 +138,62 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Dusburgietis teigia, kad otokaras II mat sukurstė viename malūne susiginčyti du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti, ir štai ne tik kariai bei paprasti žmonės, bet ir karalius, ir kiti kunigaikščiai jau buvo bepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino, kad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Žiemą ši kariuomenė atžygiavo  į Elbingą,
+    tačiau velnias, žmonių giminės priešas, sumanė išardyti šį žygį vardan tikėjimo, dievo
+    apvaizdos teikiamo žmonių išganymui, jis mat sukurstė viename malūne susiginčyti
+    du vyrus, vieną — iš Saksonijos, o kitą — iš Austrijos, katras pirmas turįs malti,  ir
+    štai ne tik kariai bei paprasti žmonės, bet  ir karalius,  ir kiti kunigaikščiai jau buvo
+    bepakelią ginklus kovai, tačiau Olomouco vyskupas, dievotas ir taikus vyras, pasirūpino,
+    kad nebūtų dingsties ginčui, ir atstatė pirmykštę sandorą. Susitaikius Čekijos karalius
+    nuvedė savo kariuomenę iki Baigos pilies, kur broliai pasistengė surasti vieną seną vyrą,
+    vardu Gedūnas, Visigaudo iš Medenavos321 tėvą, kilusį iš tos jų šakos, kuri vadinama
+    Kandeimu, gerai žinojusį visą Sembos karių galią. Kai karalius jį paklausė, rodydamas
+    tik mažą savo kariuomenės dalelę, ar su šitiek karių galįs ką nuveikti, tas atsakė, kad
+    nieku būdu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Dusburgietis teigia, kad otokaras II vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai, todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Jis vis dėlto per daug delsė, nežinodamas, kokie staigūs karo žygyje būna teutonai,
+    todėl, sugrįžęs pas savuosius, rado savo bei saviškių kiemus sudegintus, o visą savo
+    ir saviškių šeimyną, be to, savo brolį, vardu Ringėlas, ir visus savo gimines išžudytus.
+    Tada karalius įsibrovė  į Sembą su savo kariuomene netoli valsčiaus, kuris vadinamas
+    Medenava,  ir, išdeginęs visa, ką ugnis įstengė sunaikinti, daugybę žmonių paėmęs  į
+    nelaisvę ir išžudęs, ten pat ir pernakvojo. Kitą dieną patraukė  į Rudavos valsčių ir ten
+    pat, smogęs galingą smūgį, užėmė pilį323; toje vietoje buvo išžudyta tiek daug sembų,
+
+      321 D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Malūnas]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Otokaras]]
 - [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją]]
+- [[objektai/asmenys/Gedūnas]]
+- [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]

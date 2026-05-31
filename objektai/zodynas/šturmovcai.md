@@ -75,6 +75,7 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/ivykiai/Klaipėdos sukilimas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

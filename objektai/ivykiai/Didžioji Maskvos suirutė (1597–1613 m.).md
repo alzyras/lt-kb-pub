@@ -146,3 +146,14 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jaunutis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Teodoras]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Romanovų dinastija]]
+- [[objektai/zodynas/samozvancas]]

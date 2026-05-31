@@ -98,7 +98,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Bertoldas (pranciškonas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/ginklanešiai]]

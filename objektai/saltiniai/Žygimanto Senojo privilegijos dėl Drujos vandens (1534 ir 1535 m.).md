@@ -1,0 +1,72 @@
+---
+tipas: saltinis
+pavadinimas: 'Žygimanto Senojo privilegijos dėl Drujos vandens (1534 ir 1535 m.)'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1534 m.'
+  - '1535 m.'
+  - '1538 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1534'
+date_end: '1538'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - karalius
+  - miestas
+  - privilegija
+  - saltinis
+---
+# Žygimanto Senojo privilegijos dėl Drujos vandens (1534 ir 1535 m.)
+
+## Santrauka
+
+Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 metų liepos 4 dieną, ir kita, iš­ samesnė, išleista Vilniuje, 1535 metų liepos 17 dieną, su karaliaus parašu.
+
+## Teiginiai
+- t-001
+  teiginys: 'Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 metų liepos 4 dieną, ir kita, iš­ samesnė, išleista Vilniuje, 1535 metų liepos 17 dieną, su karaliaus parašu.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 metų liepos 4 dieną, ir kita, iš­ samesnė, išleista Vilniuje, 1535 metų liepos 17 dieną, su karaliaus parašu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai atsitiko labiausiai dėl to, kad, nukreipus vamzdžiais Ving­
+    rių šaltinius, toliausiai nuo upės esančioms miesto dalims
+    8
+    Žr. Miesto archyve: Žygimanto Seno­
+    jo privilegija, datuota Rūdninkuose,
+    1534 metų liepos 4 dieną, ir kita, iš­
+    samesnė, išleista Vilniuje, 1535 metų
+    liepos 17 dieną, su karaliaus parašu.
+    Iš tos versmės ištekantis upelis vadi­
+    nosi Druja, nes yra miesto archyve ka­
+    raliaus Žygimanto Augusto laiškas,
+    rašytas rusų kalba iš Liublino, datuo­
+    tas 1538 metų rugsėjo 1 dieną, su
+    Lietuvos antspaudu ir raštininko Os-
+    tafiejaus [Eustachijaus] parašu, įspė­
+    jantis ponią Kiščiną, Vitebsko vaiva-
+    dienę, kad nestabdytų vandens,
+    vamzdžiais nuvesto į miestą, iš Dru­
+    jos upės Paplaujoje, tekančios netoli
+    Ziupronių kelio, nes tam yra kara­
+    liaus leidimas, kurį ji privalanti gerb­
+    ti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

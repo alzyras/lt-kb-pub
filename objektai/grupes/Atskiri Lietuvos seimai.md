@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -38,7 +44,10 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos akto nuostatus, net pats karalius sušaukdavo atskirus seimus.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atskiri Lietuvos seimai ypač dažnai būdavo šaukiami vykstant karui su Maskva, nes jis nelietė Lenkijos.'
@@ -91,6 +100,23 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos akto nuostatus, net pats karalius sušaukdavo atskirus seimus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
+    akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
+    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
+    karui su Maskva (mat, jis nelietė Lenkijos). Bet dar dažniau
+    atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai tarpu-
+    valdžiuose (karalių nebuvimo metu).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -98,4 +124,5 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 - [[objektai/zodynas/unija]]
 - [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
 - [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]
+- [[objektai/asmenys/Vladislovas Vaza]]
 - [[objektai/zodynas/atskiri seimai]]

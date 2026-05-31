@@ -89,4 +89,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Henrikas iš Plockės]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Sembai]]

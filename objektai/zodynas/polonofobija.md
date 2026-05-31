@@ -51,6 +51,9 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/separatizmas]]
 - [[objektai/asmenys/Aleksandras III]]
+- [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

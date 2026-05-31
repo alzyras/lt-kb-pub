@@ -8,12 +8,16 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1008 m.'
+  - '1230 m.'
   - '1385 m.'
   - '1387 m.'
+  - '1390 m.'
   - '1410 m.'
   - '1500 m.'
   - '1525 m.'
   - '1569 m.'
+  - '1570 m.'
   - '1572 m.'
   - '1586 m.'
   - '1655 m.'
@@ -21,23 +25,24 @@ datos:
   - '1791 m.'
   - '1795 m.'
   - '1815 m.'
+  - '1830 m.'
   - '1831 m.'
   - '1862 m.'
   - '1915 m.'
   - '1920 m.'
   - '1922 m.'
   - '1936 m.'
-  - '1937 m.'
-  - '1939 m.'
-  - '1940 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
   - 'XX a.'
   - 'modernioji Lietuva'
   - 'naujieji laikai'
+  - 'viduramžiai'
+  - 'šiuolaikinė Lietuva'
 amziai:
+  - 'XI'
+  - 'XIII'
   - 'XIV'
   - 'XV'
   - 'XVI'
@@ -46,8 +51,8 @@ amziai:
   - 'XIX'
   - 'XX'
   - 'XXI'
-date_start: '1385'
-date_end: '2026'
+date_start: '1008'
+date_end: '1936'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -289,6 +294,134 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   teiginys: 'Tikocine nukaldinti lenkiški grašiai turėjo būti priimami Lenkijoje ir Lietuvoje pagal lenkiškų grašių kainą.'
   pagrindžia:
     - c-057
+- t-058
+  teiginys: 'Pagaliau 1008 m. gale jis išvyko iš Lenkijos aisčių krikštyti net su 18 palydovų.'
+  pagrindžia:
+    - c-058
+- t-059
+  teiginys: 'Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai.'
+  pagrindžia:
+    - c-059
+- t-060
+  teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
+  pagrindžia:
+    - c-060
+- t-061
+  teiginys: 'Tuo tarpu Lenkijoj laimėjo Zamoiskis.'
+  pagrindžia:
+    - c-061
+- t-062
+  teiginys: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vieną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą", tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati, kartais net nesiklausdama lenkų, darė atskiras sutartis.'
+  pagrindžia:
+    - c-062
+- t-063
+  teiginys: 'Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.'
+  pagrindžia:
+    - c-063
+- t-064
+  teiginys: 'Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Europoje tolerancijos uostą.'
+  pagrindžia:
+    - c-064
+- t-065
+  teiginys: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
+  pagrindžia:
+    - c-065
+- t-066
+  teiginys: 'Kadangi Lenkijos ir Lietuvos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos nepriklausomybės.'
+  pagrindžia:
+    - c-066
+- t-067
+  teiginys: 'Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, A.'
+  pagrindžia:
+    - c-067
+- t-068
+  teiginys: 'Tačiau ji negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto, nors sustiprino regiono šalių bendradarbiavimą.'
+  pagrindžia:
+    - c-068
+- t-069
+  teiginys: 'Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 dieną Lietuva ultimatumą priėmė.'
+  pagrindžia:
+    - c-069
+- t-070
+  teiginys: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
+  pagrindžia:
+    - c-070
+- t-071
+  teiginys: 'Pagal naują tvarką į valstybinį žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat perduota konfiskuota partizanų ir tremtinių žemė.'
+  pagrindžia:
+    - c-071
+- t-072
+  teiginys: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje).'
+  pagrindžia:
+    - c-072
+- t-073
+  teiginys: 'Kaimynystėje vyravo ūkiai iki 5 ha (Lenkijoje tokie sudaro 72 proc., Latvijoje – 41 proc., Lietuvoje ir Estijoje šio dydžio ūkių procentas panašus: 62 ir 64 proc.).'
+  pagrindžia:
+    - c-073
+- t-074
+  teiginys: '1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.'
+  pagrindžia:
+    - c-074
+- t-075
+  teiginys: 'Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.'
+  pagrindžia:
+    - c-075
+- t-076
+  teiginys: 'Visi tie pastatai, at­ skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­ mus, besišliejančius prie pilių, negu į tokius miestus, kokie jau XIV amžiuje puošė Lenkiją.'
+  pagrindžia:
+    - c-076
+- t-077
+  teiginys: 'Po to karalius, spiriamas karalystės reikalų, greitai išskubėjo į Lenkiją, Vilnių palikęs.'
+  pagrindžia:
+    - c-077
+- t-078
+  teiginys: 'Tų karingų vienuolių viršininkas, greitas pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­ gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­ siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios pilies sudarė sutartį su Vytautu.'
+  pagrindžia:
+    - c-078
+- t-079
+  teiginys: 'Ir ypač, kad jos didenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai skirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­ sitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­ bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­.'
+  pagrindžia:
+    - c-079
+- t-080
+  teiginys: 'Dusburgietis teigia, kad apie Lenkijos žemės nuniokojimą Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio ir nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis.'
+  pagrindžia:
+    - c-080
+- t-081
+  teiginys: 'Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė.'
+  pagrindžia:
+    - c-081
+- t-082
+  teiginys: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
+  pagrindžia:
+    - c-082
+- t-083
+  teiginys: 'Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX.'
+  pagrindžia:
+    - c-083
+- t-084
+  teiginys: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
+  pagrindžia:
+    - c-084
+- t-085
+  teiginys: 'Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­ lio, ir Henriko, Vroclavo kunigaikščio, žūtį Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė į Vengriją ir Lenkiją, kur mūšyje nukovė Kolomaną, Vengrijos.'
+  pagrindžia:
+    - c-085
+- t-086
+  teiginys: 'Per aštuonioliką sa­ vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net Aukso Ordoje.'
+  pagrindžia:
+    - c-086
+- t-087
+  teiginys: 'Jei dar pridėsime apsikarūnavusio Vytauto ir visiškai nu­ trauktų unijos santykių perspektyvas, tai toks Lenkijos politikų susinervavimas ir susirūpinimas mums nebus tiek nuostabus.'
+  pagrindžia:
+    - c-087
+- t-088
+  teiginys: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
+  pagrindžia:
+    - c-088
+- t-089
+  teiginys: 'Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
+  pagrindžia:
+    - c-089
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -1264,3 +1397,604 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-057
+- c-058
+  santrauka: 'Pagaliau 1008 m. gale jis išvyko iš Lenkijos aisčių krikštyti net su 18 palydovų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau
+    1008 m. gale jis iš-
+    vyko iš Lenkijos
+    aisčių krikštyti net
+    su 18 palydovų.
+    Bet ir jo misijos
+    nebuvo sėkmingos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-058
+- c-059
+  santrauka: 'Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Užsienio politika buvo vienodinama tik paties
+    karaliaus, nes visi santykiai su užsieniu buvo atliekami jo vardu.
+    Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos
+    ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai. Lie-
+    tuva daugiausia turėdavo"reikalų su sau artimiausia Maskva.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-059
+- c-060
+  santrauka: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Generaliniai seime-
+    liai. Sudarant Liublino
+    uniją, Lenkijoje, be sei-
+    melių, dar būdavo daro-
+    mi dviejų jos provincijų
+    — Didlenkių ir Mažlen-
+    kių — atskiri astovų su-
+    važiavimai, vadinami
+    generaliniais sei-
+    meliais. Mat, anks-
+    čiau Lenkija buvo susi-
+    dėjusi iš dviejų valsty-
+    bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
+    išnykusios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-060
+- c-061
+  santrauka: 'Tuo tarpu Lenkijoj laimėjo Zamoiskis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuviai
+    pareiškė, jog nesutinką
+    nei su vieno nei su antro
+    išrinkimu, ir išvažiavo namo. Tuo tarpu Lenkijoj laimėjo Za-
+    moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
+    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
+    Tuo būdu buvo karūnuotas atvykęs Zigmantas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-061
+- c-062
+  santrauka: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vieną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą", tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati, kartais net nesiklausdama lenkų, darė atskiras sutartis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tokių atsitikimų buvo ir daugiau. Lietuvos
+    bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vie-
+    ną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą",
+    tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,
+    kartais net nesiklausdama lenkų, darė atskiras sutartis, 1655 m.,
+    kaip matėm, buvo net pasiryžusi visiškai skirtis su Lenkija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-062
+- c-063
+  santrauka: 'Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
+    valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
+    Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
+    ti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.
+    Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
+    taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
+    kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
+    lią, nebūta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-063
+- c-064
+  santrauka: 'Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Europoje tolerancijos uostą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valstybinė religija ar dešimt konfesijų?
+    Istorikai XVI–XVII a. Lenkijos religinę toleranciją yra api-
+    būdinę kaip neturinčią analogo Europoje, o Lenkiją – kaip didžiausią Eu-
+    ropoje tolerancijos uostą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-064
+- c-065
+  santrauka: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    bent jau Vilnius
+    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
+    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
+    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
+    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-065
+- c-066
+  santrauka: 'Kadangi Lenkijos ir Lietuvos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos nepriklausomybės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
+    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
+    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
+    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
+    priklausomybės siekis etnografiniu pagrindu. Lietuviakalbės Lietuvos
+    kūrėjai lenkiškai kalbantiesiems nesiūlė jokių papildomų privilegijų, o tik
+    teisę likti tautine mažuma, nes dauguma lietuvių vargiai būtų pritarę dva-
+    rininkų privilegijoms.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-066
+- c-067
+  santrauka: 'Nors dalį tų žemių derybų metų jau kontroliavo Lenkija, A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviai pre-
+    tendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardi-
+    no gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo
+    lietuviškomis. Nors dalį tų žemių derybų metų jau kontroliavo Lenkija,
+    A. Jofė sutiko Vilnių ir tas žemes, net Gardiną ir Lydą, kur lietuvių gyven-
+    ta išties mažai, priskirti Lietuvai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-067
+- c-068
+  santrauka: 'Tačiau ji negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto, nors sustiprino regiono šalių bendradarbiavimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjun-
+    ga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį,
+    socialinį, teisinį ir administracinį bendradarbiavimą. Tačiau ji negaran-
+    tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
+    krašto, nors sustiprino regiono šalių bendradarbiavimą.
+    Po nesėkmingų tiesioginių derybų su Lenkija apsiribota proginiais di-
+    plomatiniais ryšiais, o į visus kitus tarptautinės politikos įvykius Lietuva
+    žiūrėjo tik per Vilniaus prizmę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-068
+- c-069
+  santrauka: 'Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 dieną Lietuva ultimatumą priėmė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    179
+    dėl tos kovos baigties jis neturi iliuzijų, tad pasisako už taikų sprendimą.
+    Kadangi Vilniaus pripažinimo Lenkijai ultimatumas nelietė, kovo 19 die-
+    ną Lietuva ultimatumą priėmė. Nors tūkstančiai karštakošių Lenkijos
+    miestų gatvėse ugningai skandavo „Marsz na Kowno“ („Marš į Kauną“),
+    oficialiąją Varšuvą rezultatai tenkino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-069
+- c-070
+  santrauka: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
+    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
+    riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
+    žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija. Tačiau
+    Lietuvos vyriausybė, lenkams pralaimint mūšius ir be vokiečių galėda-
+    ma užimti Vilnių, suvokė žygį į Vilnių ne kaip karinę, o kaip politinę
+    problemą ir tikino lenkus, kad nė vienas Lietuvos kareivis neperžengs
+    administracinės linijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-070
+- c-071
+  santrauka: 'Pagal naują tvarką į valstybinį žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat perduota konfiskuota partizanų ir tremtinių žemė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau kolektyviza-
+    cija Lietuvoje strigo dėl partizaninio karo. Pagal naują tvarką į valstybinį
+    žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų
+    į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat per-
+    duota konfiskuota partizanų ir tremtinių žemė. 1948 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-071
+- c-072
+  santrauka: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
+    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
+    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
+    (antroje vietoje). Greitai persiorientavusi į Vakarus Lietuvos ekonomika
+    išvengė nuosmukio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-072
+- c-073
+  santrauka: 'Kaimynystėje vyravo ūkiai iki 5 ha (Lenkijoje tokie sudaro 72 proc., Latvijoje – 41 proc., Lietuvoje ir Estijoje šio dydžio ūkių procentas panašus: 62 ir 64 proc.).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kaimynystėje vyravo ūkiai iki 5 ha (Len-
+    kijoje tokie sudaro 72 proc., Latvijoje – 41 proc., Lietuvoje ir Estijoje šio
+    dydžio ūkių procentas panašus: 62 ir 64 proc.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-073
+- c-074
+  santrauka: '1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1994 m.
+    balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir
+    Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbia-
+    vimo sutartis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-074
+- c-075
+  santrauka: 'Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Abi valstybės įsipareigojo grįs-
+    ti savo santykius tarpusavio pagarba, pasitikėjimu, lygiateisiškumu, gera
+    kaimynyste ir remti viena kitos integraciją į Vakarų valstybių šeimą. Ra-
+    tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
+    bet kokių pretenzijų į Vilniaus kraštą. Savo ruožtu Lietuva nustojo teisės
+    reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tau-
+    tinių mažumų klausimas kartais dar kelia karštas diskusijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-075
+- c-076
+  santrauka: 'Visi tie pastatai, at­ skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­ mus, besišliejančius prie pilių, negu į tokius miestus, kokie jau XIV amžiuje puošė Lenkiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pagaliau Antakalnio vardas
+    pirm tikriausiai buvo duotas tik tai
+    vietovei, kurioje stovėjo pagonių šven­
+    tykla, o ne dabartiniam priemiesčiui,
+    109
+
+    ## Puslapis 126
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Aplink pilį spietėsi miestas: medinės trobos, kurių didžiu­
+    ma aprūkusios nuo dūmų, nedailiai suręstos ir be jokios tvar­
+    kos palei klampius kelius išbarstytos. Visi tie pastatai, at­
+    skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
+    daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­
+    mus, besišliejančius prie pilių, negu į tokius miestus, kokie
+    jau XIV amžiuje puošė Lenkiją. Lietuvai, ilgai nuo krikščio­
+    niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių
+    antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­
+    kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,
+    nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam
+    laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės
+    prekybos namai, statydinti Kazimiero Didžiojo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-076
+- c-077
+  santrauka: 'Po to karalius, spiriamas karalystės reikalų, greitai išskubėjo į Lenkiją, Vilnių palikęs.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Miestui teko būti liudytoju dviejų prašmatnių vestuvių:
+    Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­
+    gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
+    Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną. Po
+    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
+    Lenkiją, Vilnių palikęs.
+    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
+    gailos valdymas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-077
+- c-078
+  santrauka: 'Tų karingų vienuolių viršininkas, greitas pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­ gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­ siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios pilies sudarė sutartį su Vytautu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1390 metų sausio pradžioje visą savo šei­
+    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
+    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
+    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
+    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
+    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
+    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
+    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
+    aplinkines žemes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-078
+- c-079
+  santrauka: 'Ir ypač, kad jos didenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai skirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­ sitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­ bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taip pat tikėjimu ir garbe prisaikdina­
+    me visus mūsų pareigūnus, kurie tuos reikalus tvarkys kaip
+    mūsų tarnai, kai to teks imtis, kad ištikimai, kaip doriems
+    žmonėms pridera, saugotų tuos daiktus ir niekam kitam ne­
+    duotų, tik pagal šį paskyrimą ir mūsų valią. Ir ypač, kad jos
+    didenybė karalaitė Ona, pasilikusi čia, Lenkijoje, liktų su jai
+    skirtomis valdomis, žemėmis ir pinigų sumomis, nors pa­
+    sitikėdami savo pavaldinių, garbingų žmonių, dorumu, ne­
+    bijome dėl to, kad, mokant kraitį, ji galėtų netekti tų išmo­
+    kėjimų, sumų, dvarų ir valdų, to, ką davė Dievas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-079
+- c-080
+  santrauka: 'Dusburgietis teigia, kad apie Lenkijos žemės nuniokojimą Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio ir nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    2. Apie Lenkijos žemės nuniokojimą
+
+      Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio  ir
+    nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis
+    įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis jėgomis ir pridarė jai štai tokių
+    nuostolių: sudeginę namus, iškapojo suaugusius žmones kalaviju, o moteris bei vaikus
+    išsivarė į amžiną vergovę; jei kartkartėmis kuri nėščia moteris, turėdama gimdyti, negalėjo
+    paskui juos toliau eiti, ją čia pat žudė; jie plėšė iš motinų rankų mažus vaikus ir juos
+    dobė, maustydami ant tvorų baslių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-080
+- c-081
+  santrauka: 'Dusburgietis teigia, kad apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir įbaugintas, kad nė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    3. Apie prūsams duotas dovanas, kuriomis norėta numalšinti jų žiaurumą
+
+       Ir anksčiau, kai minėtoji Lenkijos žemė dar nebuvo taip smarkiai siaubiama, kai
+    dar šis tas joje buvo likę, tas pats kunigaikštis buvo taip didžiai [prūsų] prispaustas ir
+    įbaugintas, kad nė karto nėra jiems drįsęs atsisakyti, kai tik šie pas jį atsiųsdavo žygūnus,
+    reikalaudami duoti žirgų ir ryškiaspalvių drabužių. Kai nebeturėjo kuo jų reikalavimų
+    patenkinti, pasikvietė  į pokylį savo kilminguosius bei kitus drauge su jų žmonomis  ir,
+    šiems prie stalo smagiai bevalgant  ir begeriant, slapta įsakė perduoti minėtiesiems
+    netikėlių pasiuntiniams jų drabužius bei žirgus165.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-081
+- c-082
+  santrauka: 'Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Todėl kunigaikštis pasiuntė pas
+    minėtąjį brolį magistrą Hermaną laiškus per įgaliotus pasiuntinius, kurie papasakojo ir
+    jam, ir jo broliams, dėl kurių priežasčių leidosi į kelią; tada magistras, pasitaręs visais
+    klausimais su broliais ir apsvarstęs su jais šį keblų reikalą, davėsi galop kunigaikščio
+    įkalbamas, patartas popiežiaus, imperatoriaus Fridricho II  ir Vokietijos kunigaikščių,
+    kurie pasižadėjo, esant reikalui, jam padėti patarimais bei suteikti pagalbą. Taigi pas
+    Lenkijos kunigaikštį magistras pasiuntė brolį Konradą iš Landsbergo ir dar vieną savo
+    Ordino brolį pasidairyti Kulmo žemėje ir pažiūrėti, ar pasiuntiniai iš tikrųjų atvykę jo noru.
+    Kai šie vyko į Lenkiją, kunigaikštis buvo kažkur toli iškeliavęs, o į Lenkijos žemę įsibrovė
+    prūsų kariuomenė  ir ją nuniokojo gaisrais  ir grobstymais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-082
+- c-083
+  santrauka: 'Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į kovų Kai Romos kurija išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    6. Apie tai, kaip popiežius patvirtino visa, kas aukščiau išdėstyta, ir paskatino brolius į
+                                      kovų
+
+      Kai Romos  kurija  išgirdo (1230) minėtojo kunigaikščio pagalbos šauksmą apie
+    Lenkijos žemių nuniokojimą, švenčiausiasias tėvas bei valdovas popiežius Grigalius IX,
+    užjausdamas kunigaikštį ir norėdamas užbėgti už akių būsimiems pavojams, patvirtino
+    viešpaties vardu susitarimą su Teutonų namų ordino broliais, teisėtai  ir išmintingai
+    sudarytą, o minėtuosius brolius įpareigojo, pažadėjęs nuodėmių atleidimą, keršyti už
+    kančias, viešpaties kentėtas ant kryžiaus, ir atgauti netikėlių užimtas, bet krikščionims
+    priklausomas žemes.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-083
+- c-084
+  santrauka: 'Dusburgietis teigia, kad apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    22. Apie Vengrijos ir Lenkijos nusiaubimą
+
+       Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol. 21,34).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-084
+- c-085
+  santrauka: 'Dusburgietis teigia, kad apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­ lio, ir Henriko, Vroclavo kunigaikščio, žūtį Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė į Vengriją ir Lenkiją, kur mūšyje nukovė Kolomaną, Vengrijos.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Vengrijos bei Lenkijos nuniokojimą ir apie Kolomano, Vengrijos karaliaus bro­
+                                  lio, ir Henriko, Vroclavo kunigaikščio, žūtį
+
+       Tais pačiais metais rytų šalyse gyvenusi totorių tauta įsiveržė  į Vengriją ir Lenkiją,
+    kur mūšyje nukovė Kolomaną, Vengrijos karaliaus brolį, Henriką, Lenkijos kunigaikštį, ir
+    galybę kitų, kuriuos ten stengė užtikti, o tas šalis pavertė dykromis, todėl daug žmonių
+    vieno kalno dulkėmis maitinosi nelyginant miltais (Mart. p. 399).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-085
+- c-086
+  santrauka: 'Per aštuonioliką sa­ vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net Aukso Ordoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
+    dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
+    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
+    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
+    Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
+    čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
+    skynė kelią į tikruosius jo didybės laikus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-086
+- c-087
+  santrauka: 'Jei dar pridėsime apsikarūnavusio Vytauto ir visiškai nu­ trauktų unijos santykių perspektyvas, tai toks Lenkijos politikų susinervavimas ir susirūpinimas mums nebus tiek nuostabus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jei dar pridėsime apsikarūnavusio Vytauto ir visiškai nu­
+    trauktų unijos santykių perspektyvas, tai toks Lenkijos politikų
+    susinervavimas ir susirūpinimas mums nebus tiek nuostabus.
+    Lenkija visa tai jautė ir matė. Reikėjo iš paskutiniųjų gelbėtis,
+    kad unija pasiliktų nesuardyta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-087
+- c-088
+  santrauka: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos Didžioji Kunigaikštija dėl Vo-
+    kiečių ordino pavojaus pamažu stiprino
+    ryšius su Lenkija, o XV–XVI a. perėmė
+    krikščionišką Vakarų kultūrą. XVI a. vidu-
+    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
+    valstybė – Abiejų Tautų Respublika.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-088
+- c-089
+  santrauka: 'Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
+    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-089

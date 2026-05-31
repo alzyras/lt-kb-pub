@@ -67,7 +67,10 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   teiginys: 'Tuo metu Rytų Lietuvą kontroliavo bolševikai.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: 'Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą, nebelaukė.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Iki XX a. lietuviai Vilnių laikė istorine LDK sostine ir rėmėsi istoriniais argumentais.'
@@ -161,3 +164,20 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą, nebelaukė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
+    jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
+    vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
+    nebelaukė. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
+    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
+    karo, nei taikos“ situacijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

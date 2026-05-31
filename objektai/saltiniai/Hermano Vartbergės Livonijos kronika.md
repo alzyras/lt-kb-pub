@@ -76,7 +76,6 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   teiginys: '“ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
   pagrindžia:
     - c-004
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Blokeliuose su skyriaus spalvos juostele pateikiamos įvykių liudininkų, amžininkų ar tų laikų dokumentų citatos Ryškesniu šriftu išskirtos citatoje aptariamų įvykių aplinkybės Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ apie Ordino brolių sumušimą.'
@@ -127,6 +126,25 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: '.“ LIETUVIAI PRIE RYGOS Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    .“
+
+    LIETUVIAI PRIE RYGOS
+
+    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
+    šinomis sunaikina Piltenės pilį.
+
+    „1329 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Bibliografiniai įrodymai
 - c-001

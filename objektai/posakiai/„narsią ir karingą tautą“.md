@@ -49,3 +49,4 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/ekspansija]]

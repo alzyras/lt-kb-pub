@@ -8,14 +8,17 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1200 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
+  - 'viduramžiai'
   - 'šiuolaikinė Lietuva'
 amziai:
+  - 'XII'
   - 'XXI'
-date_start: '2013'
+date_start: '1200'
 date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-18'
@@ -43,6 +46,10 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginys: 'Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių tuo metu kontroliuojamos Viznos apylinkes prie Narevo.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų upių, tai yra tarp Luko530 ir Narevo, jų ten tykojo aštuonetą dienų, smarkiai piktindamiesi ir didžiai trūkdami maisto.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -97,3 +104,20 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų upių, tai yra tarp Luko530 ir Narevo, jų ten tykojo aštuonetą dienų, smarkiai piktindamiesi ir didžiai trūkdami maisto.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Dėl to magistras pasiuntė brolį Henriką Cutsvertą ir 29 brolius su
+    1200 vyrų, turėjusių jam pastoti kelią. Šie, nužygiavę  į dykras, plytinčias tarp dviejų
+    upių, tai yra tarp Luko530 ir Narevo, jų ten tykojo aštuonetą dienų, smarkiai piktindamiesi
+    ir didžiai trūkdami maisto. Galop, kai lietuvių kariuomenė grįždama priėjo šią vietą,
+    voros priekyje žygiavęs lietuvis, metęs burtus, sušuko: „Vargas mums, nes mūsų laukia
+      530 D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

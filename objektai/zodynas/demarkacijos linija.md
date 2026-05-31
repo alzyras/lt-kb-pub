@@ -183,4 +183,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Pilsudskis]]
 - [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/grupes/Lenkijos kariuomenė]]

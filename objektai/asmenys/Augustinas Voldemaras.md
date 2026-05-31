@@ -13,14 +13,14 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1919 m.'
+  - '1918 m.'
   - '1928 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
-date_start: '1919'
+date_start: '1918'
 date_end: '1928'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
@@ -99,10 +99,12 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - t-015
   teiginys: 'Ženevoje A. Voldemaras atsakė J. Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   pagrindžia:
+    - c-013
     - c-016
 - t-016
   teiginys: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
   pagrindžia:
+    - c-014
     - c-017
 - t-017
   teiginys: 'Voldemaras nieko negalėjo pakeisti.'
@@ -116,7 +118,10 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   teiginys: 'Kariuomenėje įtakingi nacionalistai voldemarininkai vis bandė pučų keliu grąžinti į valdžią A.'
   pagrindžia:
     - c-017
-
+- t-020
+  teiginys: 'Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą Lietuva nesiruošianti kariauti – užteksią milicijos… Tačiau jau lapkričio 23-iąją A.'
+  pagrindžia:
+    - c-018
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Augustinas Voldemaras pareiškė neplanuojantis kurti Lietuvos kariuomenės, nes esą Lietuvai užteksią milicijos.'
@@ -434,10 +439,27 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+- c-018
+  santrauka: 'Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą Lietuva nesiruošianti kariauti – užteksią milicijos… Tačiau jau lapkričio 23-iąją A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ekstravagantiškasis istorijos pro-
+    fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai
+    nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą
+    Lietuva nesiruošianti kariauti – užteksią milicijos…
+    Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
+- [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/grupes/Antantė]]
 - [[objektai/asmenys/Augustinas]]
 - [[objektai/asmenys/J. Pilsudskis]]
@@ -450,15 +472,24 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - [[objektai/asmenys/Petras Klimas]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/in corpore]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vienvaldystė]]
 - [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„vidurainės [A. Smetonos terminas – Red.] linijos“]]
 - [[objektai/asmenys/Dovas Zaunius]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/posakiai/„Karas ar taika “]]
 - [[objektai/grupes/Voldemarininkai]]
+- [[objektai/grupes/Geležinis vilkas]]
 - [[objektai/asmenys/J. Simpsonas]]
+- [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]
+- [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]
+- [[objektai/ivykiai/Pasikėsinimas į A. Voldemarą, jo atsistatydinimas ir J. Tūbelio paskyrimas premjeru (1929 m.)]]
+- [[objektai/grupes/Raudonoji armija]]
 - [[objektai/posakiai/„Lietuva galėtų įsijungti į Rusijos federaciją...“]]
+- [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]

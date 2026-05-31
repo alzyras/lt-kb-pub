@@ -1,0 +1,60 @@
+---
+tipas: saltinis
+pavadinimas: 'Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1432 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1432'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - saltinis
+---
+# Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko
+
+## Santrauka
+
+Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.
+
+## Teiginiai
+- t-001
+  teiginys: 'Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš Polocko, likus 5 die­ noms iki Mergelės Marijos gimimo, tai yra, 1432 metų rugsėjo 3 dieną, kuriame jam praneša, kad kuni­ gaikštis Žygimantas ir Alšėnų kuni­ gaikštis Simonas užpuolę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1. Antrasis laiškas
+    yra paties Švitrigailos rašytas didžia­
+    jam magistrui iš Polocko, likus 5 die­
+    noms iki Mergelės Marijos gimimo,
+    tai yra, 1432 metų rugsėjo 3 dieną,
+    kuriame jam praneša, kad kuni­
+    gaikštis Žygimantas ir Alšėnų kuni­
+    gaikštis Simonas užpuolę jo dvarą
+    Ašmenoje ir kad jis sėkmingai su to­
+    torių generolais pasiekęs Polocką ir
+    dėl to prašo skubiai padėti. Taigi
+    klysta Kojelavičius ir Strij-
+    k o v s k i s sakydami, kad Švitrigai­
+    la pabėgęs į Smolenską, bet ne į Po­
+    locką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

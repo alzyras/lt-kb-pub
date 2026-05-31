@@ -42,7 +42,10 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Jonas Basanavičius L I E T U V O S I S T O R I J A 120 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai kalbančio kaimo masių tautiniam krikštui, t.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lenkų romantikų kūryba prisidėjo prie lietuvių tautinės savimonės plėtotės ir lietuviškai kalbančio kaimo tautinio krikšto.'
@@ -71,6 +74,7 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

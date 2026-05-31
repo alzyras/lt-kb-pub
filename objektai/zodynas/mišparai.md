@@ -64,4 +64,7 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/oktava]]
+- [[objektai/asmenys/Henrikas iš Klėno]]
 - [[objektai/asmenys/Jonas iš Endorfo]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

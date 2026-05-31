@@ -28,6 +28,7 @@ datos:
   - '1251 m.'
   - '1253 m.'
   - '1260 m.'
+  - '1323 m.'
   - '1328 m.'
   - '1331 m.'
   - '1333 m.'
@@ -46,7 +47,6 @@ datos:
   - '1399 m.'
   - '1409 m.'
   - '1410 m.'
-  - '1417 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
   - 'LDK'
@@ -59,7 +59,7 @@ amziai:
   - 'XX'
   - 'XXI'
 date_start: '1237'
-date_end: '1417'
+date_end: '1410'
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
 tags:
@@ -301,6 +301,138 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.'
   pagrindžia:
     - c-057
+- t-071
+  teiginys: 'Po Durbės mūšio sukilusias kiltis ordinas jau buvo nugalėjęs.'
+  pagrindžia:
+    - c-058
+- t-072
+  teiginys: 'Visa kovų su ordinu našta pirmučiausia gulė ant Kęstučio pečių, nes jis valdė kaip tik visą Prūsų ordino pasienį, iš kur daugiausia buvo puolami lietuviai.'
+  pagrindžia:
+    - c-059
+- t-073
+  teiginys: 'Jis buvo pasidavęs Livonijos ordino šakos magistrui ir valdė Polocką, kaip jo vasalas.'
+  pagrindžia:
+    - c-060
+- t-074
+  teiginys: 'Todėl ordinas bandė sutrukdyti šituos Jogailos planus: kaip tik tuo metu, kai Jogailai reikėjo vykti į Krokuvą, ordinas pradėjo pulti Lietuvą.'
+  pagrindžia:
+    - c-061
+- t-075
+  teiginys: 'Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame didžiame Tanenbergo mūšyje.'
+  pagrindžia:
+    - c-062
+- t-076
+  teiginys: '(Livonijos ordino atstovai nebuvo įsileisti į taikos derybas: Aleksandras turėjo mesti savo sąjungininką).'
+  pagrindžia:
+    - c-063
+- t-077
+  teiginys: 'Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija.'
+  pagrindžia:
+    - c-064
+- t-078
+  teiginys: 'Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29.'
+  pagrindžia:
+    - c-065
+- t-079
+  teiginys: 'Vytautas su žemai­ čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­ vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro sienų.'
+  pagrindžia:
+    - c-066
+- t-080
+  teiginys: 'Už­ ėmusi Ukmergę, po to Visevaldės45 pilį, kai prisiartino Livonijos magistro į pagalbą vedami pulkai, kurių Valen­ rodas laukė, visa kariauna pasuko Vilniaus link, norėda­ ma Lietuvai ir lenkams suduoti galutinį smūgį.'
+  pagrindžia:
+    - c-067
+- t-081
+  teiginys: 'Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­ ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­ rius drauge su juo pulti Vitebską.'
+  pagrindžia:
+    - c-068
+- t-082
+  teiginys: '(Iš originalo Karaliaučiaus Slaptajame Archyve) Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande mit Werdicheit kome desse Breef dorch dach und nacht sun­ der alle sümen B." (Didžiai gerbiamam Livonijos magistrui šis laiškas turi būti tikrai ir nedelsiant.'
+  pagrindžia:
+    - c-069
+- t-083
+  teiginys: 'Ilgai Švitrigaila drumstė šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­ gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­ tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė netoli Ukmergės užbaigė šių dviejų, Lietuvai gal.'
+  pagrindžia:
+    - c-070
+- t-084
+  teiginys: 'Čia žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­ lavijuočių riterių ordino magistras.'
+  pagrindžia:
+    - c-071
+- t-085
+  teiginys: 'Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buvo apginkluoti gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­ giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­ gistrą Firstembergą, nuo seno engusį.'
+  pagrindžia:
+    - c-072
+- t-086
+  teiginys: 'Šiuo raštu skelbiame vi­ siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­ triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­ utonų ordino Livonijoje magistras, vildamasis mūsų ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­.'
+  pagrindžia:
+    - c-073
+- t-087
+  teiginys: 'Dusburgietis teigia, kad gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.'
+  pagrindžia:
+    - c-074
+- t-088
+  teiginys: 'Jis tuojau nusprendė ne tik veikti, patikėdamas Vokiečių Ordino įspėjimui, bet jau ir anksčiau iš visos susidariusios si­ tuacijos nujautė slaptus Jogailos susitarimus su kryžiuočiais.'
+  pagrindžia:
+    - c-075
+- t-089
+  teiginys: 'Tuo tarpu atsiskubino ir kryžiuočiams į pa­ galbą Livonijos Ordinas ir daugiau kariuomenės iš Prūsų.'
+  pagrindžia:
+    - c-076
+- t-090
+  teiginys: 'Konstanci­ jos susirikimas Vytautą padarė Livonijos vyskupų globė­ ju, nes šias vyskupijas Livonijos Ordinas, savo nepasotinama po­ litika, dažnai nuskriausdavo.'
+  pagrindžia:
+    - c-077
+- t-091
+  teiginys: 'Pasinaudodamas Žemaičių krikštu, Vytautas ata­ kavo Vokiečių ir Livonijos Ordinus Konstancijoje, kovojo dėl savo ir Lietuvos garbės Vak.'
+  pagrindžia:
+    - c-078
+- t-092
+  teiginys: 'Pirmuoju tokiu draugu vi­ suomet būdavo Ordinas.'
+  pagrindžia:
+    - c-079
+- t-093
+  teiginys: ', kai iš Prūsų ordino Vytautas terorizavo pusbrolį Jogailą, priversdamas jį nusileisti^85.'
+  pagrindžia:
+    - c-080
+- t-094
+  teiginys: '176 IX SKYRIUS: VALSTYBĖS IŠKILIMAS Livonijos ordino pagalba išrūpintąją karūną užsidėti Mindaugui sekėsi šiek tiek lengviau, bet ir tai užtruko dvejus metus (1253).'
+  pagrindžia:
+    - c-081
+- t-095
+  teiginys: '«Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo, kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių persekiojimų»^2.'
+  pagrindžia:
+    - c-082
+- t-096
+  teiginys: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  pagrindžia:
+    - c-083
+- t-097
+  teiginys: 'Į kovą prieš ordiną Lietuvos valdovai įtraukė visą didžiąją kunigaikštiją.'
+  pagrindžia:
+    - c-084
+- t-098
+  teiginys: 'Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius sulaikė nuo dalyvavimo Žalgirio kautynėse.'
+  pagrindžia:
+    - c-085
+- t-099
+  teiginys: ') Livonijos kariuomenė laivais atvyko Sembon.'
+  pagrindžia:
+    - c-086
+- t-100
+  teiginys: 'Tad, Jogailos pasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes iš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva ir Žemaičiai.'
+  pagrindžia:
+    - c-087
+- t-101
+  teiginys: 'Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu — nuo Nemuno ir Marių, buvo palikta ordinni.'
+  pagrindžia:
+    - c-088
+- t-102
+  teiginys: 'Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos kapitulos, Eželio vyskupo, Dorpato vyskupo ir paties miesto vyskupo, Danijos karaliaus ginkluoto būrio vado, Vokiečių ordinom ir Rygos miesto pusės ir be nurodymo žemių, kurias tos.'
+  pagrindžia:
+    - c-089
+- t-103
+  teiginys: '136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
+  pagrindžia:
+    - c-090
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -1303,6 +1435,639 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-070
+- c-058
+  santrauka: 'Po Durbės mūšio sukilusias kiltis ordinas jau buvo nugalėjęs.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Po Durbės mūšio sukilusias kiltis ordinas jau buvo
+    nugalėjęs. Traidenis net kelis kartus skaudžiai sumušė Livonijos
+    ordino kariuomenę ir ne kartą su savo kariuomene skersai ir
+    išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo
+    galingų pilių. Tuo būdu ordinas atsilaikė, kai kur net pasistū-
+    mėjo į Lietuvos pusę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-071
+- c-059
+  santrauka: 'Visa kovų su ordinu našta pirmučiausia gulė ant Kęstučio pečių, nes jis valdė kaip tik visą Prūsų ordino pasienį, iš kur daugiausia buvo puolami lietuviai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Visa kovų su ordinu našta pir-
+    mučiausia gulė ant Kęstučio pečių, nes jis valdė kaip tik visą
+    Prūsų ordino pasienį, iš kur daugiausia buvo puolami lietuviai.
+    Algirdo valdomoji Vilniaus sritis susisiekė tik su livoniške or-
+    dino šaka. Tuo būdu Kęstutis buvo Lietuvos gynėjas nuo vo-
+    kiečių; jis nuolat kovojo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-072
+- c-060
+  santrauka: 'Jis buvo pasidavęs Livonijos ordino šakos magistrui ir valdė Polocką, kaip jo vasalas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Kai lenkai ėmė
+    svarstyti Jogailos kandidatūrą, jo būklė buvo gana kritiška. Jo
+    vyriausias brolis Andrius, kuris tuojau po tėvo mirties buvo pra-
+    dėjęs organizuoti sąjungą prieš Jogailą, jau buvo grįžęs į savo
+    valdomąjį Polocką, tačiau visai neketino klausyti Jogailos. Jis
+    buvo pasidavęs Livonijos ordino šakos magistrui ir valdė Po-
+    locką, kaip jo vasalas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-073
+- c-061
+  santrauka: 'Todėl ordinas bandė sutrukdyti šituos Jogailos planus: kaip tik tuo metu, kai Jogailai reikėjo vykti į Krokuvą, ordinas pradėjo pulti Lietuvą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl ordinas ban-
+    dė sutrukdyti šituos Jogailos planus: kaip tik tuo metu, kai
+    Jogailai reikėjo vykti į Krokuvą, ordinas pradėjo pulti Lietuvą.
+    Vieno žygio metu kryžiuočiai buvo pasiekę net Vilnių ir Ašmeną,
+    o kiek vėliau livoniškė ordino šaka su pasidavusiu jai Polocko
+    kunigaikščiu Andrium padarė kitą žygį. Tuo būdu ordinas no-
+    rėjo sulaikyti Jogailą Lietuvoje; o tuo metu Lenkijoje galėjo vis-
+    kas pasikeisti Jogailos nenaudai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-074
+- c-062
+  santrauka: 'Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame didžiame Tanenbergo mūšyje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nuostolis dėl pairusių derybų buvo nedidelis: sąjunga su
+    savo tikslų siekiančiu Zigmantu negalėjo būti naudinga Lietuvai.
+    Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
+    livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
+    džiame Tanenbergo mūšyje.
+    **Tanenbergo mūšis 1410 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-075
+- c-063
+  santrauka: '(Livonijos ordino atstovai nebuvo įsileisti į taikos derybas: Aleksandras turėjo mesti savo sąjungininką).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
+    mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
+    tinius ir pirklius. (Livonijos ordino atstovai nebuvo įsileisti į
+    taikos derybas: Aleksandras turėjo mesti savo sąjungininką).
+
+    Bet ir padarius taiką, santykiai su Maskva nė kiek ne-
+    pagerėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-076
+- c-064
+  santrauka: 'Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mindaugo krikštas nepa-
+    šalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Že-
+    maitija. Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
+    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+    krikščionio valdovo statusą.
+    Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
+    Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-077
+- c-065
+  santrauka: 'Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo­ je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
+    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
+    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
+    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28. Taip
+    pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
+    je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29. Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-078
+- c-066
+  santrauka: 'Vytautas su žemai­ čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­ vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro sienų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    "
+    122
+
+    ## Puslapis 139
+
+    Il KNYGA
+    lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
+    tikras brolis Kazimieras - kunigaikštis Karigaila.
+    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
+    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
+    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
+    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
+    sienų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-079
+- c-067
+  santrauka: 'Už­ ėmusi Ukmergę, po to Visevaldės45 pilį, kai prisiartino Livonijos magistro į pagalbą vedami pulkai, kurių Valen­ rodas laukė, visa kariauna pasuko Vilniaus link, norėda­ ma Lietuvai ir lenkams suduoti galutinį smūgį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Neilgai teatsilaikė įgula tos nors labai stip­
+    rios tvirtovės, puolama tokių didžiulių priešo pajėgų. Už­
+    ėmusi Ukmergę, po to Visevaldės45 pilį, kai prisiartino
+    Livonijos magistro į pagalbą vedami pulkai, kurių Valen­
+    rodas laukė, visa kariauna pasuko Vilniaus link, norėda­
+    ma Lietuvai ir lenkams suduoti galutinį smūgį. Tačiau at­
+    ėjus gandui apie tokį didelį žygį, Vilniuje lietuvių irgi buvo
+    imtasi ypatingų priemonių šalies sostinei ginti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-080
+- c-068
+  santrauka: 'Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­ ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­ rius drauge su juo pulti Vitebską.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Paimtas su žmona ir vaikais, kuni­
+    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
+    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
+    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
+    139
+
+    ## Puslapis 156
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
+    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
+    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
+    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
+    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
+    lenske pulkus, apsupo tą miestą ir po keturias savaites
+    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
+    nelaisvę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-081
+- c-069
+  santrauka: '(Iš originalo Karaliaučiaus Slaptajame Archyve) Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande mit Werdicheit kome desse Breef dorch dach und nacht sun­ der alle sümen B." (Didžiai gerbiamam Livonijos magistrui šis laiškas turi būti tikrai ir nedelsiant.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Be metų (turbūt, 1396).
+    (Iš originalo Karaliaučiaus Slaptajame Archyve)
+    Adresas toks: „Dėmė Erwerdighen Meister to Lyfflande
+    mit Werdicheit kome desse Breef dorch dach und nacht sun­
+    der alle sümen B." (Didžiai gerbiamam Livonijos magistrui
+    šis laiškas turi būti tikrai ir nedelsiant atiduotas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-082
+- c-070
+  santrauka: 'Ilgai Švitrigaila drumstė šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­ gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­ tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė netoli Ukmergės užbaigė šių dviejų, Lietuvai gal.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
+    20
+    Kotzebue Switrigail, p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-083
+- c-071
+  santrauka: 'Čia žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­ lavijuočių riterių ordino magistras.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kautynės prasidėjo prie
+    mažo upelio, laukuose, netoli nuo dabartinės bažnyčios.
+    Mūšis buvo įnirtingas ir žiaurus, kol pagaliau pralaužtos
+    vokiečių ir rusų rikiuotės pradėjo bėgti iš mūšio lauko. Čia
+    žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­
+    lavijuočių riterių ordino magistras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-084
+- c-072
+  santrauka: 'Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buvo apginkluoti gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­ giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­ gistrą Firstembergą, nuo seno engusį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Apsirūpinus ar­
+    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
+    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
+    Podolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­
+    les karinės amunicijos atsargas, nesunku buvo apginkluoti
+    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
+    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
+    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
+    gos arkivyskupą. Bet šis žygis greitai baigėsi dėl didžiojo
+    magistro visiško nuolankumo Žygimantui Augustui ir pri­
+    pažinimo jam valdžios Livonijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-085
+- c-073
+  santrauka: 'Šiuo raštu skelbiame vi­ siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­ triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­ utonų ordino Livonijoje magistras, vildamasis mūsų ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ponas ir tėvonis. Šiuo raštu skelbiame vi­
+    siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
+    triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­
+    utonų ordino Livonijoje magistras, vildamasis mūsų
+    ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­
+    das ir, jei juos imtumėmės ginti, pažadėjo mums perduoti
+    kai kurias pilis ir apskritis, tačiau su konkrečiomis abiejų
+    pusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­
+    mis. Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­
+    rie mums su pačiomis apskritimis atitektų, šventomis apei­
+    gomis, taip pat su papročiais ir ypač religija, išpažįstančia
+    Augustino tikėjimą, leistume laisvai naudotis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-086
+- c-074
+  santrauka: 'Dusburgietis teigia, kad gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
+    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-087
+- c-075
+  santrauka: 'Jis tuojau nusprendė ne tik veikti, patikėdamas Vokiečių Ordino įspėjimui, bet jau ir anksčiau iš visos susidariusios si­ tuacijos nujautė slaptus Jogailos susitarimus su kryžiuočiais.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis tuojau nusprendė ne tik veikti, patikėdamas Vokiečių
+    Ordino įspėjimui, bet jau ir anksčiau iš visos susidariusios si­
+    tuacijos nujautė slaptus Jogailos susitarimus su kryžiuočiais.
+    Kai šie, pavyzdžiui, naikino Kęstučio žemes, tai Jogaila pagal­
+    bos siuntimu visai nesirūpino, o kada tuo pačiu laiku Skirgaila
+    apsiautė Polocką, iš kurio jis buvo išvytas po Algirdo sūnaus
+    Andriejaus Algirdaičio išėjimo, tai Jogailos kariuomenė kartu
+    su Livonijos magistru tuoj atsiuntė jam talkon savo būrius^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-088
+- c-076
+  santrauka: 'Tuo tarpu atsiskubino ir kryžiuočiams į pa­ galbą Livonijos Ordinas ir daugiau kariuomenės iš Prūsų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet tuo laiku prisi­
+    artino su didele kariuomene Vytautas ir staiga užpuolė priešus,
+    atstatančius pilį. Tuo tarpu atsiskubino ir kryžiuočiams į pa­
+    galbą Livonijos Ordinas ir daugiau kariuomenės iš Prūsų. Vy­
+    tautas turėjo trauktis atgal Vilniaus link.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-089
+- c-077
+  santrauka: 'Konstanci­ jos susirikimas Vytautą padarė Livonijos vyskupų globė­ ju, nes šias vyskupijas Livonijos Ordinas, savo nepasotinama po­ litika, dažnai nuskriausdavo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Europą, atitaisė klai­
+    dingą apie Lietuvą katalikiškų tautų nuomonę, bet dar buvo
+    susirinkimo už atliktą katalikybės darbą pagirtas. Konstanci­
+    jos susirikimas Vytautą padarė Livonijos vyskupų globė­
+    ju, nes šias vyskupijas Livonijos Ordinas, savo nepasotinama po­
+    litika, dažnai nuskriausdavo. Popiežius Martynas V, Konstan­
+    cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė
+    (1417.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-090
+- c-078
+  santrauka: 'Pasinaudodamas Žemaičių krikštu, Vytautas ata­ kavo Vokiečių ir Livonijos Ordinus Konstancijoje, kovojo dėl savo ir Lietuvos garbės Vak.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ji buvo artimai surišta su Vytau­
+    to politika. Pasinaudodamas Žemaičių krikštu, Vytautas ata­
+    kavo Vokiečių ir Livonijos Ordinus Konstancijoje, kovojo dėl
+    savo ir Lietuvos garbės Vak. Europoje, norėjo atpalaiduoti Lie­
+    tuvos bažnyčią iš lenkų įtakos, vedė platų susirašinėjimą su po­
+    piežiaus Kurija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-091
+- c-079
+  santrauka: 'Pirmuoju tokiu draugu vi­ suomet būdavo Ordinas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pirmuoju tokiu draugu vi­
+    suomet būdavo Ordinas. Bet ir pastarasis, bauginamas Vytau­
+    to laimėjimų rytuose, verčiamas buvo ieškotis taikos Lietuvoj.
+    Kryžiuočiai gerai suprato, kad Vytauto galybės išaugimas ne
+    tik jam padės atsiskaityti su Lenkija, bet ir jų pačių norams —
+    užkariauti Žemaitiją, kaip tiesioginį sausažemiu susisiekimą su
+    Livonijos Ordinu ir įsigalėti rytuose — padarys galą. Todėl
+    jie ir juto reikalą kaip nors susiartinti su Lietuva, kad nors tuo
+    tarpu iš jos ką nors laimėtų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-092
+- c-080
+  santrauka: ', kai iš Prūsų ordino Vytautas terorizavo pusbrolį Jogailą, priversdamas jį nusileisti^85.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    , kai iš Prūsų ordino Vytautas
+    terorizavo pusbrolį Jogailą, priversdamas jį nusileisti^85.
+    Mindaugui buvo savotiška laimė, kad Tautvilas krikštijosi pas
+    Rygos arkivyskupą, kuriam nebenorėjo paklusti Livonijos ordinas.
+    Naudodamasis tokia savo priešų nesantaika, Mindaugas pirmasis iš
+    lietuvių kunigaikščių gelbėjosi iš savo sunkios padėties, kreipdamasis
+    į Livonijos ordino magistrą ir siųsdamas jam įvairių brangių dovanų^86.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-093
+- c-081
+  santrauka: '176 IX SKYRIUS: VALSTYBĖS IŠKILIMAS Livonijos ordino pagalba išrūpintąją karūną užsidėti Mindaugui sekėsi šiek tiek lengviau, bet ir tai užtruko dvejus metus (1253).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^115) **TMPL I, 53.**
+
+
+    176 IX SKYRIUS: VALSTYBĖS IŠKILIMAS
+
+    Livonijos ordino pagalba išrūpintąją karūną užsidėti Mindaugui
+    sekėsi šiek tiek lengviau, bet ir tai užtruko dvejus metus (1253).
+    Mindaugo vainikavimasis karaliumi buvo nepaprastas atsitikimas
+    Lietuvoje, vienintelį kartą formaliai teįvykęs pusaštunto šimtmečio
+    lietuvių tautos istorijoje, nes vėliau Lietuvos valdovai vis kokios
+    nors kliūtys pastodavo kelią į siūlomą, ar labai artimą karūnos garbę
+    (1398, 1409 1429-1430 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-094
+- c-082
+  santrauka: '«Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo, kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių persekiojimų»^2.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
+    kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti
+    « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
+    persekiojimų»^2. Rygai kritus, Gediminas neteko paramos prieš
+    ordiną, kuris, vidaus priešą įveikęs ir pačią Rygą užvaldęs, beveik
+    iki pat Gedimino valdymo galo darė Lietuvon puolimus. 1331-
+    1333 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-095
+- c-083
+  santrauka: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O vasaros žygis buvo ruošiamas apie rug­
+    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
+    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
+    kryžiuočių ir 30—iš Livonijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-096
+- c-084
+  santrauka: 'Į kovą prieš ordiną Lietuvos valdovai įtraukė visą didžiąją kunigaikštiją.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Į kovą prieš ordiną Lietuvos valdovai įtraukė visą didžiąją
+    kunigaikštiją. Per vieną šimtą metų, prieš Algirdui užmerkiant
+    akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­
+    riusi plati rytų Europos «imperija ». Nuo Lenkijos pakraščio, nuo
+    Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
+    aukštupių (Rževo).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-097
+- c-085
+  santrauka: 'Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius sulaikė nuo dalyvavimo Žalgirio kautynėse.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kai
+    Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko
+    apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės
+    jau nebeįstengė paimti.
+    Buvo laikoma Vytauto svarbiu laimėjimu, kad jis su Livonijos
+    ordinu atskirai padarytomis paliaubomis Livonijos kryžiuočius
+    _sulaikė_ nuo dalyvavimo Žalgirio kautynėse. Bet (1410.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-098
+- c-086
+  santrauka: ') Livonijos kariuomenė laivais atvyko Sembon.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    )
+    Livonijos kariuomenė laivais atvyko Sembon. Nuo Marienburgo
+    mūrų pasitraukęs, Vytautas prie Heilsbergo susitiko su Livonijos
+    maršalu B. Hevelmannu ir pradėjo taikos derybas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-099
+- c-087
+  santrauka: 'Tad, Jogailos pasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes iš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva ir Žemaičiai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kronikininko žodžiais, «Vytautas
+    ėmė smarkiai bijoti, kad karaliui (Jogailai) visą Prūsiją paėmus,
+    jis (Vytautas) gali būti numestas nuo sosto»^31. Tad, Jogailos
+    pasiųstas prieš Livonijos kariuomenę^32 , Vytautas padaręs taiką, nes
+    iš Livonijos ordino gavęs pažadą, kad jam bus pripažinta Sūduva
+    ir Žemaičiai. Vytautui labiau rūpėjęs Lietuvos atstatymas, o ne
+    Lenkijos reikalas^33.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-100
+- c-088
+  santrauka: 'Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu — nuo Nemuno ir Marių, buvo palikta ordinni.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jūros upės krantu siena pasislinko
+    vieną mylią į šiaurę, ir toliau ji į vakarus per girių plotus pasuko
+    taip, kad Nemunas, Rusnė ir Klaipėda — vis trijų mylių atstumu
+    — nuo Nemuno ir Marių, buvo palikta ordinni.
+    Su Livonijos ordinu siena buvo pradėta į Baltiją įtekančia
+    Šventosios upe, toliau paliekant « senas sienas » (« antiquos limites »).
+    Bet tos senos ribos reiškė ne tas sienas, kai Žemaičių kraštas pri­
+    klausė ordinni, o anas sienas, kurios buvo senovėje tarp Livonijos
+    ir Žemaičių, Lietuvos ir Rusijos žemių^32.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-101
+- c-089
+  santrauka: 'Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos kapitulos, Eželio vyskupo, Dorpato vyskupo ir paties miesto vyskupo, Danijos karaliaus ginkluoto būrio vado, Vokiečių ordinom ir Rygos miesto pusės ir be nurodymo žemių, kurias tos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Be išsamaus išvar­
+    dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos
+    kapitulos, Eželio* vyskupo, Dorpato vyskupo ir paties
+    miesto vyskupo, Danijos karaliaus ginkluoto būrio vado,
+    Vokiečių ordinom  ir Rygos miesto pusės ir be nurodymo
+    žemių, kurias tos sutarties sąlygos turėjo paliesti1 1 , nieko dau­
+    giau nebuvo, tik keli punktai apie saugumą keliauninkų abiejų
+    besitariančių pusių kraštuose, apie teisišką sprendimą gin­
+    * wenbrulie), Mintaujos komtūras ir
+    Eželis (Oeselis), dab. Saremas brolis Otto (Blanehom).
+    m n
+    Iš Ordino Livonijoje pusės paminėti Prie Ordino valdų buvo priskirta ir
+    tik: brolis lonas de Lovenbinkė (Lo- kryžiuočių pilis Memelyje.
+    74
+
+    ## Puslapis 91
+
+    I  KNYGA
+    čų tarp abiejų pusių pavaldinių, apie prisigrobtų turtų grą­
+    žinimą, apie pabėgusių knechtų ir tarnų grąžinimą ir t. t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-102
+- c-090
+  santrauka: '136, N533 Dinaburgo komtūro pranešimas Livonijos magistrui apie Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie nuostolius, kokių per tai patyrė Vytautas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    136, N533
+    Dinaburgo komtūro pranešimas Livonijos magistrui apie
+    Vilniaus miesto, tenykštės kapitulos ir pilies gaisrą, apie
+    nuostolius, kokių per tai patyrė Vytautas. Rašyta: Liksnoje
+    penktadienį prieš Šv. Gertrūdą (kovo 17-ą). Be metų (tik­
+    riausiai 1399).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-103
 
 ## Ryšiai
 ### Susiję objektai
@@ -1320,3 +2085,72 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/zodynas/vikariatas]]
 - [[objektai/grupes/Čekijos husitai]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Augustinas]]
+- [[objektai/asmenys/B. Hevelmannu]]
+- [[objektai/daiktai/Bombardos]]
+- [[objektai/asmenys/Danielius]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas von Plauen]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/autoriai/Kotzebue]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/autoriai/Naruszewicz]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Tautvilas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/činšas]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
+- [[objektai/grupes/Dominikonų ordinas]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras)]]
+- [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
+- [[objektai/asmenys/Jonas de Lovenbinkė]]
+- [[objektai/asmenys/Kazimieras Karigaila]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/autoriai/Naruszewicz Naruševičius]]
+- [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
+- [[objektai/zodynas/Paliaubos induciae]]
+- [[objektai/grupes/Smolensko pulkai]]
+- [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/posakiai/oculi post dominicam]]
+- [[objektai/asmenys/Žygimantas Augustas]]

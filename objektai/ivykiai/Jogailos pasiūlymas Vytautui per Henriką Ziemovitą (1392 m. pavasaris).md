@@ -71,5 +71,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
-- [[objektai/asmenys/Ziemovitas]]
 - [[objektai/zodynas/vasalas]]
+- [[objektai/asmenys/Jogaila]]

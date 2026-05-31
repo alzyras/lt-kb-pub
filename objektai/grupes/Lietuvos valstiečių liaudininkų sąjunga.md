@@ -76,7 +76,18 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   teiginys: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
   pagrindžia:
     - c-008
-
+- t-009
+  teiginys: 'Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasitikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko M.'
+  pagrindžia:
+    - c-004
+- t-011
+  teiginys: 'Krikščionys demokratai ir liaudininkai, prieš tai susitarę, pareikalavo ministru pirmininku vietoje A.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo 29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP).'
@@ -137,6 +148,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+    - t-010
 - c-005
   santrauka: 'Krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos parengimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -182,6 +194,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+    - t-011
 - c-008
   santrauka: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -198,7 +211,48 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Lozoraitį, kurio linija pralaimėjo, nors Lietuvos valdžia stengėsi parodyti, kad iš esmės nieko neįvyko.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
+    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko. Besąlyginis ulti-
+    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
+    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
+    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
+    ultraradikalieji voldemarininkai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Kazys Grinius]]
+- [[objektai/grupes/Krikščionių demokratų blokas]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
+- [[objektai/grupes/Socialdemokratai]]
 - [[objektai/grupes/Voldemarininkai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Steigiamasis seimas]]
+- [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
+- [[objektai/asmenys/Antanas Merkys]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/ivykiai/III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)]]
+- [[objektai/asmenys/Jonas Černius]]
+- [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]
+- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
+- [[objektai/grupes/Ministerių kabinetas]]
+- [[objektai/asmenys/Mykolas Sleževičius]]
+- [[objektai/asmenys/V. Mironas]]
+- [[objektai/zodynas/Vieningo darbo vyriausybė]]
+- [[objektai/asmenys/Vladas Mironas]]

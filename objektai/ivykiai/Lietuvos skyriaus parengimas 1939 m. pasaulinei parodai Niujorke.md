@@ -61,5 +61,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/asmenys/Magdalena Avietėnaitė]]
+- [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės]]
+- [[objektai/asmenys/Stasys Lozoraitis]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]

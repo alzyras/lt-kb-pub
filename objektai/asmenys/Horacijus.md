@@ -58,3 +58,4 @@ Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į a
 ### Susiję objektai
 - [[objektai/grupes/Anglai]]
 - [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Vilniaus universitetas]]

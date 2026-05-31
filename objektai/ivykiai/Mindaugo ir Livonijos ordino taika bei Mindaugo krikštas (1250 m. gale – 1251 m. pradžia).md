@@ -226,3 +226,19 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Danielius]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Morta]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/asmenys/Tautvilas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/paprociai/Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose|Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose (krikštas)]]

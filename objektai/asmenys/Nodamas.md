@@ -55,6 +55,7 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]
 - [[objektai/asmenys/Ernekė]]
 - [[objektai/asmenys/Surminas]]
 - [[objektai/zodynas/šeštinės]]

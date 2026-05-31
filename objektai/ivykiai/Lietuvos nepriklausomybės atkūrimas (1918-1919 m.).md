@@ -78,4 +78,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
+- [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/grupes/Žydai]]

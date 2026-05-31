@@ -107,3 +107,8 @@ tags: []
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
+
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

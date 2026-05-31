@@ -56,6 +56,10 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginys: 'Londone.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Zigmantą Sierakauską, ginklų ir savanorių iš Londono.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,3 +125,22 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Zigmantą Sierakauską, ginklų ir savanorių iš Londono.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    pavasarį paskyrė Peterburge tarnavusį
+
+    Rusijos kariuomenės Generalinio štabo
+    karininką, kpt. Zigmantą Sierakauską,
+
+    ginklų ir savanorių iš Londono. Sukilėliai
+    planavo užimti Palangos ir Liepojos uos-
+    tus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

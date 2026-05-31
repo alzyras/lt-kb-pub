@@ -79,4 +79,6 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
+- [[objektai/zodynas/vėliava]]
 - [[objektai/asmenys/M. P. Sapiega]]

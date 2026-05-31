@@ -12,6 +12,15 @@ aliases:
   - 'Kandidatas Carinės sukilimo slopinimo teroro ir viešų bausmių praktika'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1861 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1861'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -64,6 +73,7 @@ Nenurodyta
   teiginys: 'Anglijai ir Prancūzijai apsiribojus diplomatinėmis notomis, Rusijos vyriausybė ryžtingai slopino sukilimą.'
   pagrindžia:
     - c-002
+    - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
@@ -72,6 +82,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno gubernijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo galimybę.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -126,12 +140,34 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-004
+  santrauka: 'Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno gubernijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo galimybę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pavasarį paskirtas vyriausiuoju Lietu-
+    vos sukilėlių karo vadu buvęs Rusijos armijos generalinio štabo kapitonas
+    Zigmantas Sierakauskas (Zygmunt Sierakowski) pamėgino Kauno guber-
+    nijoje telkti sukilėlių būrius į armiją, todėl sukilimo slopintojai gavo gali-
+    mybę vienu smūgiu nuleisti sukilėliams daug kraujo. Gegužės pradžioje
+    prie Biržų Z. Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
+    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas Sierakauskas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tautinis atgimimas]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/asmenys/Konstantinas Kalinauskas]]

@@ -57,9 +57,6 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. Mengli-G
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/chanas]]
 - [[objektai/grupes/Totoriai]]

@@ -95,5 +95,7 @@ Nenurodyta
 - [[temos/karo-reikmuo]]
 
 ### Susiję objektai
-- [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]

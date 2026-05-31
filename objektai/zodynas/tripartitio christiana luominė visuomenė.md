@@ -65,8 +65,8 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/zodynas/senjoras]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/paprociai/Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams|Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)]]

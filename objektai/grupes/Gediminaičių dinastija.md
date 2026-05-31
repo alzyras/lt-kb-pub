@@ -176,6 +176,10 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-023
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-024
+  teiginys: 'Jis pats betarpiškai galėjo savo sūnums paskirstyti dalis, savo valdose turėdamas paveldėjimo teises, kai^1 (^1) PSRL, 18, 93 p. (^248) n skyrius: valstybės iškilimas kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
+  pagrindžia:
+    - c-029
 
 ## Reikšmingi paminėjimai
 
@@ -672,13 +676,79 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-029
+  santrauka: 'Jis pats betarpiškai galėjo savo sūnums paskirstyti dalis, savo valdose turėdamas paveldėjimo teises, kai^1 (^1) PSRL, 18, 93 p. (^248) n skyrius: valstybės iškilimas kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jis pats betarpiškai galėjo savo sūnums
+    paskirstyti dalis, savo valdose turėdamas paveldėjimo teises, kai^1
+
+    (^1) **PSRL, 18, 93 p.**
+
+
+    (^248) n skyrius: valstybės iškilimas
+    kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio
+    valios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
+    ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos
+    pusiau^2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Butvydas]]
+- [[objektai/grupes/Gediminaičiai]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Geležinis vilkas]]
+- [[objektai/asmenys/Getautas]]
+- [[objektai/ivykiai/Gnievkovo suvažiavimas]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/grupes/Gudai]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/grupes/Kazokai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Litvakai]]
+- [[objektai/asmenys/Liubartas]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Narimantas]]
+- [[objektai/asmenys/Palemonas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Gediminaičių šeima]]
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
-- [[objektai/asmenys/Palemonas]]
+- [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]
+- [[objektai/grupes/Gedimino dinastija]]
+- [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/siuzerenas]]

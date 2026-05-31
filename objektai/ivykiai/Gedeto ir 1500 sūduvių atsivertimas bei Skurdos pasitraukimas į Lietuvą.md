@@ -49,6 +49,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad tačiau Skurdą516, kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­ mą ir apie tai, kaip buvo apleista ši žemė Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,8 +96,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­ mą ir apie tai, kaip buvo apleista ši žemė Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie vieno Sūduvos kilmingojo ir tūkstančio penkių šimtų sūduvių atsiverti­
+                   mą ir apie tai, kaip buvo apleista ši žemė
+
+      Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti,
+    nerašysime apie tuos karus. Kai Gedetas515, kilmingas ir atkaklus vyras, turėjęs didelę
+    galią bei daug turtų, Kimenavos sūduvių vadas, jau nebegalėjo atsispirti dažniems bei
+    smarkiems brolių antpuoliams, su savo namais bei šeimyna ir su tūkstančiu penkiais
+    šimtais vyrų bei moterų jis pasitraukė pas brolius ir priėmė krikštą. Tačiau Skurdą516,
+    kitos Sūduvos dalies vadas, paniekinęs tikėjimo malones, patraukė su savo žmonėmis į
+    Lietuvos žemę, ir šitaip Sūduvos žemė po šiai dienai lieka negyvenama517.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gedetas]]
+- [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
 - [[objektai/asmenys/Skurda]]

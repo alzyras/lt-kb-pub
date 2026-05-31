@@ -74,9 +74,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Turkai]]

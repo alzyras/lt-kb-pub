@@ -119,7 +119,9 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Gudai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/paliaubos]]

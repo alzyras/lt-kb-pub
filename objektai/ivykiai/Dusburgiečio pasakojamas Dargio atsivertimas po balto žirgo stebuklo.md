@@ -95,3 +95,4 @@ Nenurodyta
 - [[objektai/asmenys/Dargis]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/fogtas]]
+- [[objektai/zodynas/naujakrikščiai]]

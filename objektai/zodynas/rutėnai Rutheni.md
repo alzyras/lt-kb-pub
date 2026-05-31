@@ -97,4 +97,5 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 ### Susiję objektai
 - [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/autoriai/Sakso Gramatiko]]
 - [[objektai/grupes/Slavai]]

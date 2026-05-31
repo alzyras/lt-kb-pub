@@ -47,6 +47,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Bet jiedviem nepasisekė įrašyti punkto, kad Melno taikos sutartį patvirtintų popiežius.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -64,9 +68,29 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Bet jiedviem nepasisekė įrašyti punkto, kad Melno taikos sutartį patvirtintų popiežius.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet jiedviem nepasisekė įrašyti
+    punkto, kad Melno taikos sutartį patvirtintų popiežius. Tad ji
+    buvo beveik po metų ratifikuota. Pačių sienų tada galutinai nepa­
+    vyko išvesti, nes tarp ordino ir lenkų atsirado naujų nesutarimų
+
+
+    ```
+    BANDYMAI IŠKOVOTI NAUDINGAS SIENAS.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

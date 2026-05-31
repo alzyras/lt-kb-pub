@@ -56,6 +56,14 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   teiginys: 'Per Viliją tarp Verkių ir Panerių buvo uždrausta naudoti plaustus perkėlimui.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuviųlenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -165,3 +173,53 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuviųlenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­ rios ir platų frontą rėpiančios gynybos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kad neįsiveltų į neaiškios lemties
+    mūšį atvirame lauke, Ordino didysis maršalas su rinktinių
+    riterių daliniu prasigavę per besitęsiančias į šiaurę nuo mies­
+    to girias ir brastas, staiga iš už nugaros puolė nenuovokų
+    Skirgailą ir sudavė jam smarkų smūgį26. Dalis pralaimėju­
+    siųjų kartu su pačiu didžiuoju kunigaikščiu užsidarė Vise­
+    valdės pilyje, o kita dalis traukėsi nuo nugalėtojų Vilniaus
+    link. Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­
+    tingas mūšis, tačiau pajėgesni kryžiuočiai neleido lietuvių-
+    lenkų kariuomenei ilgai priešintis, o miestui reikėjo stip­
+    rios ir platų frontą rėpiančios gynybos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­ mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nederėtų, be
+    to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam iš
+    mūsų valdinių per tą pačią upę kitose vietose statyti mažų
+    tiltelių, vadinamų jazais, pradedant nuo mūsų Nemenčinės
+    dvaro iki minėto mūsų Kernavės miestelio, pagal mūsų nuo­
+    žiūrą atimant turtą ir kitas bausmes skiriant. Taip pat norime
+    uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­
+    namus plaustais, per tą pačią Vilijos upę, kad nė vienas iš
+    mūsų pareigūnų ir valdinių jų naudoti negali tarp Verkių kai­
+    mo prie Vilniaus vyskupijos ir Panerių kaimo, Vilniaus baž­
+    nyčios kapitulai priklausančių, aukštyn nęi žemyn dėl paken­
+    kimo tam pačiam mūsų nustatytam muitui, su bausmėmis,
+    aukščiau mūsų nurodytomis. O kadangi mes, kaip anksčiau
+    tvirtinome, skatinami gailesčio mūsų pavaldiniams, minėtą
+    tiltą pastatyti ir nutiesti įsakėme, taipgi ir jo muitą, arba mo­
+    kestį, skirtą jam taisyti bei neturtingų ligotų žmonių naudai
+    jau seniai mintyse paskyrėme.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

@@ -61,4 +61,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/kunigaikščiai]]

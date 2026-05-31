@@ -133,3 +133,12 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Engelbertas]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/asmenys/Vilhelmas]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/posakiai/Dar šiandien sembai bus išžudyti]]

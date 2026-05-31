@@ -6,6 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XV'
+  - 'XVIII'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -44,7 +52,14 @@ tags:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: 'Ji kartais vadinama „vakarų rusų“, kartais „senąja ukrainiečių“, kartais – „senąja baltarusių“, o Lietuvoje – „LDK slavų kanceliarine“ kalba (nors ji išėjo ir už kanceliarijos, ir už LDK ribų – į Lenkiją bei Vengriją, ir, svarbiausia, skyrėsi nuo kitų LDK.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.'
@@ -108,13 +123,60 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Ji kartais vadinama „vakarų rusų“, kartais „senąja ukrainiečių“, kartais – „senąja baltarusių“, o Lietuvoje – „LDK slavų kanceliarine“ kalba (nors ji išėjo ir už kanceliarijos, ir už LDK ribų – į Lenkiją bei Vengriją, ir, svarbiausia, skyrėsi nuo kitų LDK.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ji kartais vadinama „vakarų rusų“, kar-
+    tais „senąja ukrainiečių“, kartais – „senąja baltarusių“, o Lietuvoje – „LDK
+    slavų kanceliarine“ kalba (nors ji išėjo ir už kanceliarijos, ir už LDK ribų – į
+    Lenkiją bei Vengriją, ir, svarbiausia, skyrėsi nuo kitų LDK slavų – lenkų
+    kalbos). Joje iš pradžių XV a. pradžioje būta daugiau „ukrainizmų“, vėliau –
+    „baltarusizmų“. Amžininkai Maskvos rusai ją aiškiai skyrė ir vadino „lietu-
+
+    L I E T U V O S  I S T O R I J A
+    58
+    vių“ kalba, nes Maskvos valstybėje iki pat XVII–XVIII a. slavų bažnytinė
+    kalba buvo vienintelė. Šiandien ši Lietuvos Metrikos kalba pavadinama
+    net „senalietuvių“. Tai istorinis požiūris. Filologų manymu, LDK raštinėse
+    vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir
+    Lenkijos valstybėse gyvenusius rytų slavus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuose, kūrė valdovo raštinę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
+    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
+    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba. Šia
+    kalba, LDK raštinėje susiformavusia alternatyva „bulgariškai“ raštijos
+    tradicijai, ir surašyti reikšmingiausi to meto raštijos paminklai – Lie-
+    tuvos Metrika, Lietuvos metraščiai ir Lietuvos Statutai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metrika]]
+- [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]

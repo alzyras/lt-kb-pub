@@ -66,4 +66,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Skirgaila]]

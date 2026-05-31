@@ -15,14 +15,13 @@ saltiniai:
   - Michał Baliński, Vilniaus miesto istorija (2007 m.)
 bukle: juodrastis
 laikotarpis: 1390 m. Vilniaus puolimo ir 1396 m. Vytauto privilegijos kontekstas
-datos:
-  - '1390 m.'
-  - '1396 m.'
-amziai:
-  - 'XIV'
-periodo_grupes:
-  - 'LDK'
 atnaujinta: '2026-05-27'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 ---
 # Kazimieras Karigaila
 
@@ -84,6 +83,31 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: '" 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Siaubo pagautų žmonių kamšatis ir visur umaru besibraunantis, įsišėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­ ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­ tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: '[Pagaliau krikš­ čioniškąjį valdovą poną Kazimierą, vadinamą Karigaila, tikrą karaliaus brolį, nužudė, ir nužudytojo galvą nuo kūno nuplėšę, nupjovę ir nukir­ tę, iš šios galvos visaip tyčiojosi ir ją užgauliojo karaliaus paniekinimui].'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Kadangi girdėjome iš vyriausiojo maršalo ir iš kitų gar­ bingų žmonių, ponų riterių, ginkla­ nešių, jog kunigaikštis Karigaila, ka­ reivių neatpažintas buvęs nukautas, ir kad tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, bu­ vo sužinota, jog.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Palaido­ jo jį iškilmingai, katedroje, šalimais Karigailos, o visuotinis gedulas liudijo mirusįjį buvus didžiu žmogumi; tačiau toks liūdnas įvykis suartino Jogailą su Vytautu.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: '140 ## Puslapis 157 Il KNYGA godamas tiesiog kasdien aukoti skaitytines mišias už savo mirusius brolius kunigaikščius: Kazimierą Karigailą ir Aleksandrą Vygantą58.'
+  pagrindžia:
+    - c-011
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Karigaila kovojo prieš Vytautą ir sąjungininkus Vilniaus puolimo metu.
@@ -226,3 +250,199 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '" 122 ## Puslapis 139 Il KNYGA lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos tikras brolis Kazimieras - kunigaikštis Karigaila.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    "
+    122
+
+    ## Puslapis 139
+
+    Il KNYGA
+    lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
+    tikras brolis Kazimieras - kunigaikštis Karigaila.
+    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
+    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
+    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
+    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
+    sienų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Siaubo pagautų žmonių kamšatis ir visur umaru besibraunantis, įsišėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­ ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­ tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Arkikomtūro laiškas Romos
+    - •
+    123
+
+    ## Puslapis 140
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­
+    dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose
+    įgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo
+    pagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-
+    šėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­
+    ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­
+    tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
+    mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
+    vo likimą31. Taip pasibaigė toji diena, lig tolei baisiausia Lie­
+    tuvos sostinei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: '[Pagaliau krikš­ čioniškąjį valdovą poną Kazimierą, vadinamą Karigaila, tikrą karaliaus brolį, nužudė, ir nužudytojo galvą nuo kūno nuplėšę, nupjovę ir nukir­ tę, iš šios galvos visaip tyčiojosi ir ją užgauliojo karaliaus paniekinimui].'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , p. 35, parašyta:
+    Tandem Christianissimum principem
+    dominum Cazimirum dictum Cortgel-
+    lo, fratrem germanum domini Regis, in­
+    terfecerunt, interfectique caput a corpo­
+    re scindentes et amputantes et
+    detruncantes, cum eodem capite ludib­
+    ria et multas subsannaciones fecerunt
+    in vilipendium Regis. [Pagaliau krikš­
+    čioniškąjį valdovą poną Kazimierą,
+    vadinamą Karigaila, tikrą karaliaus
+    brolį, nužudė, ir nužudytojo galvą
+    nuo kūno nuplėšę, nupjovę ir nukir­
+    tę, iš šios galvos visaip tyčiojosi ir ją
+    užgauliojo karaliaus paniekinimui].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Kadangi girdėjome iš vyriausiojo maršalo ir iš kitų gar­ bingų žmonių, ponų riterių, ginkla­ nešių, jog kunigaikštis Karigaila, ka­ reivių neatpažintas buvęs nukautas, ir kad tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, bu­ vo sužinota, jog.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Didenybei
+    taip kalbėjo, nežinojo ir nežino, kaip
+    buvo iš tikrųjų. Kadangi girdėjome
+    iš vyriausiojo maršalo ir iš kitų gar­
+    bingų žmonių, ponų riterių, ginkla­
+    nešių, jog kunigaikštis Karigaila, ka­
+    reivių neatpažintas buvęs nukautas,
+    ir kad tik penktą dieną iš lietuvių,
+    pabėgusių iš Aukštutinės pilies, bu­
+    vo sužinota, jog kunigaikštis žuvęs/'
+    Visi tuometiniai kryžiuočių prane­
+    šimai panašiai užginčija, kad Kari-
+    gailalauvęs nukirsdintas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Palaido­ jo jį iškilmingai, katedroje, šalimais Karigailos, o visuotinis gedulas liudijo mirusįjį buvus didžiu žmogumi; tačiau toks liūdnas įvykis suartino Jogailą su Vytautu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau netrukus nuo
+    įduotų nuodų, kaip buvo suprasta, jį ištiko ankstyva mirtis,
+    ir šalis neteko tiek gražių vilčių teikusio žmogaus47. Palaido­
+    jo jį iškilmingai, katedroje, šalimais Karigailos, o visuotinis
+    gedulas liudijo mirusįjį buvus didžiu žmogumi; tačiau toks
+    liūdnas įvykis suartino Jogailą su Vytautu. Skubina būtiny­
+    bė traukti Lietuvą iš apverktinos padėties, kokioje buvo atsi­
+    dūrusi, pagaliau privertė tvirto nusistatymo kartais stokoju­
+    sį Vladislovą Jogailą taikytis su Vytautu ir pavesti jam
+    Didžiosios Kunigaikštystės valdymą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: '140 ## Puslapis 157 Il KNYGA godamas tiesiog kasdien aukoti skaitytines mišias už savo mirusius brolius kunigaikščius: Kazimierą Karigailą ir Aleksandrą Vygantą58.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
+    data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
+    tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
+    mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
+    55
+    Stryjkowski, p. 466, Kromer,
+    Lib. XV. p. 247, byloja, kad tas Ria-
+    zanės kunigaikščio autentiškas lai­
+    davimas už savo žentą Kaributą jo
+    laikais buvo karališkajame archyve:
+    Atque hinc nata esse videtur sponsio
+    Alexandri Resanensium Ducis pro Co-
+    ributho regi facta, et literarum monu­
+    mentis, quae extant in archivo regio,
+    signata, cum eum rex e vinculis libe-
+    rasset [Ir po to atrodo, kad yra Ria-
+    zanės kunigaikščio Aleksandro pa­
+    darytas tinkamas laidavimas už
+    karalių Kaributą ir raštiškais doku­
+    mentais, kurie tebėra karališkajame
+    archyve, antspauduotas, su kuriuo
+    karalius iš kalėjimo paleistas].
+    56
+    Szvitrigail ein Beitrag zu den Ges­
+    chichten von Lithauen, Russland,
+    Polen und Preussen von Kotzebue.
+    Leiptzig, 1820, p. 26 in 8vo.
+    57
+    Žr. smulkiau apie tai Dinaburgo
+    komtūro pranešime II knygos I
+    priede. *
+    Cudzeniszki - k. Ašmenos raj. (vert.).
+    140
+
+    ## Puslapis 157
+
+    Il KNYGA
+    godamas tiesiog kasdien aukoti skaitytines mišias už savo
+    mirusius brolius kunigaikščius: Kazimierą Karigailą ir
+    Aleksandrą Vygantą58.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Anglai]]
+- [[objektai/zodynas/Arkikomtūras]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
+- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
+- [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą]]
+- [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]
+- [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]
+- [[objektai/asmenys/Karigaila]]
+- [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]

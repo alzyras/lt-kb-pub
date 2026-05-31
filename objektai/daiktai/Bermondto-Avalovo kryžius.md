@@ -65,4 +65,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/ulonai]]
 - [[objektai/grupes/Bermontininkai]]

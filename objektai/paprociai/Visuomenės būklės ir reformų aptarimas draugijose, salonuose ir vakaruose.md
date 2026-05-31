@@ -6,15 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-bukle: juodrastis
-laikotarpis: "antrasis XIX a. dešimtmetis"
 datos: []
-periodas: "naujieji_laikai"
+periodas: 'naujieji_laikai'
 periodo_grupes: []
 amziai:
-  - "XIX"
-date_start: ""
-date_end: ""
+  - 'XIX'
+date_start: ''
+date_end: ''
+bukle: juodrastis
+laikotarpis: "antrasis XIX a. dešimtmetis"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -60,6 +60,10 @@ Nenurodyta
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Legaliai veikė įvai­ rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­ tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­ spektyvoje numatomų įgyvendinti tikslų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,7 +100,35 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Legaliai veikė įvai­ rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­ tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­ spektyvoje numatomų įgyvendinti tikslų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vilniaus universitetas tapo svarbiausiu
+    VI
+
+    ## Puslapis 7
+
+    kultūros židiniu visoje Rusijos imperijoje. Legaliai veikė įvai­
+    rios filantropinės organizacijos ir susivienijimai, kurių nariai ap­
+    tardavo visuomenės būklę, tardavosi dėl konkrečių ir tik per­
+    spektyvoje numatomų įgyvendinti tikslų. Ypač pagarsėjo
+    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
+    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
+    ventojai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
+
+### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/grupes/Šubravcų draugija]]
+- [[objektai/ivykiai/Napoleono karo kampanija Rusijos imperijos gilumoje]]

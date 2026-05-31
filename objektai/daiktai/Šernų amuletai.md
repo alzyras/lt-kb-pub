@@ -98,7 +98,10 @@ Nenurodyta
 - [[temos/papuošalas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Aušrėnai]]
+- [[objektai/grupes/Baltai]]
 - [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Svebai]]
 - [[objektai/zodynas/glesum]]

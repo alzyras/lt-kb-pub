@@ -54,4 +54,3 @@ Rothas ir jau mums pažįstamas dr. Cigala, kuriuos Zig­ mantas siuntė Vytautu
 ### Susiję objektai
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
-- [[objektai/daiktai/Karūna]]

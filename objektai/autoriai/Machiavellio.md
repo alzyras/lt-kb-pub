@@ -47,4 +47,6 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Bona]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/Machiavellio mokslas]]

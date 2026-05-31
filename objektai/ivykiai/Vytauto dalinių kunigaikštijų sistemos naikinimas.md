@@ -104,3 +104,4 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/paprociai/Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]

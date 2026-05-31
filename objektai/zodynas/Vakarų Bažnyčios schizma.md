@@ -116,3 +116,7 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/asmenys/Inocentas VII]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/neofitas]]
+- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]

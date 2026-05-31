@@ -106,6 +106,7 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 - [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
 - [[objektai/ivykiai/Giedraičių kautynės]]
 - [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]
+- [[objektai/ivykiai/Klaipėdos sukilimas]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
 - [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
 - [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]

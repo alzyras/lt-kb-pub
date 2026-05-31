@@ -50,7 +50,13 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Venedai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Šventojo kryžiaus relikvija]]
 - [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]
+- [[objektai/grupes/Karmelio kalno atsiskyrėlių ordinas]]
+- [[objektai/grupes/Mokinių slėnio brolių ordinas]]
+- [[objektai/grupes/Pranciškonų ordinas]]

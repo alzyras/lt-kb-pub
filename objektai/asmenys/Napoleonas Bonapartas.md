@@ -87,5 +87,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Laikinoji LDK vyriausybė]]

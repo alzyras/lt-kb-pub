@@ -45,7 +45,10 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   teiginys: 'Lietuvos didžiojo etmono Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė buvo iš Lietuvos išstumta.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Povilas Sapiega vadovavo bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus.'
@@ -98,12 +101,37 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklaravusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai, vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos, Kristupo ir Mykolo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    kilo Žemaičių sukilimas, padaręs
+    švedams daug nuostolių. Prieš švedus ir jų sąjungininkus taip pat
+    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
+    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
+    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
+    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
+    kariuomenės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/grupes/Sapiegos]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Jonas Kazimieras Vaza]]
+- [[objektai/asmenys/Kristupas Pacas]]
+- [[objektai/asmenys/Mykolas Pacas]]

@@ -7,7 +7,7 @@ variantai:
   - veto
 aliases: []
 saltiniai:
-  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 laikotarpis: Abiejų Tautų Respublikos seimų praktika
 vaidmenys: []
 dalyviai: []
@@ -251,5 +251,24 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
+- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/asmenys/Jekaterina II]]
+- [[objektai/grupes/Lietuvos evangelikai reformatai]]
+- [[objektai/grupes/Liuteronai]]
+- [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Unitai]]
+- [[objektai/grupes/Unitų bažnyčia unitai]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/paprociai/Aukso laisvės ideologija]]
+- [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
+- [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]
+- [[objektai/ivykiai/Čičinsko seimo išardymas (1652 m.)]]

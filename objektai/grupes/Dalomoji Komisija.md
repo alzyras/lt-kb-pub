@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1776 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1776'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -37,7 +46,10 @@ tags:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'Tiek už išnuomotus dvarus, tiek už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvoje ir Lenkijoje buvo sudarytos atskiros Dalomosios Komisijos turto dalybų darbui atlikti.'
@@ -95,10 +107,24 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tiek už išnuomotus dvarus, tiek už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tiek už išnuomotus dvarus, tiek
+    už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.
+    Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
+    biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
+    siog vagia. Todėl 1776 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Edukacinė Komisija]]

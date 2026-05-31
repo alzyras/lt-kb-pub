@@ -61,6 +61,7 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
 ### Susiję objektai
 - [[objektai/grupes/Poznanės raitininkų eskadronai]]
 - [[objektai/grupes/Trakų sukilėlių daliniai]]
+- [[objektai/zodynas/ulonai]]
 - [[objektai/daiktai/Mosin-Nagant šautuvas]]
 - [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]
 - [[objektai/grupes/12-asis ulonų pulkas]]

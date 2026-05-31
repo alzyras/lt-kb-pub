@@ -13,9 +13,11 @@ saltiniai:
 datos:
   - '1915 m.'
   - '1916 m.'
+  - '1917 m.'
   - '1918 m.'
-periodas: ''
-periodo_grupes: []
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
 amziai:
   - 'XX'
 date_start: '1915'
@@ -95,7 +97,10 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   teiginys: 'O Oberosto karinis kolonijinis režimas plėšė valstiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolėmis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germanizaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.'
   pagrindžia:
     - c-004
-
+- t-014
+  teiginys: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.'
@@ -185,10 +190,38 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-005
+  santrauka: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1918 metų Vasario 16 Aktas
+    1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-
+    kos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti
+    Lietuvos valstybę ir jos prisijungimą prie Vokietijos. Oberostas, rezidavęs
+    Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
+    kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
+    priimtą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Gabrielis Narutovičius]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Liuteronai]]
+- [[objektai/asmenys/Paulius fon Hindenburgas]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas Narutavičius]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Ėrichas Liudendorfas]]
 - [[objektai/zodynas/germanizacija]]
+- [[objektai/zodynas/separatinės taikos derybos]]
+- [[objektai/posakiai/„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“]]

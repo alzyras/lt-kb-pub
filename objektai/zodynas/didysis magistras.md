@@ -101,6 +101,14 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-012
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-017
+  teiginys: 'Jo priešaky stovėjo didysis magistras (Hochmeister) su taryba.'
+  pagrindžia:
+    - c-013
+- t-018
+  teiginys: 'Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstančiai eilinių kryžeivių bei samdinių.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -338,6 +346,43 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-016
+- c-013
+  santrauka: 'Jo priešaky stovėjo didysis magistras (Hochmeister) su taryba.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Ordino valstybės santvarka.** Savo organizaciją ordinas at-
+    sinešė jau gatavą, susidariusią dar Palestinoje. Jo priešaky sto-
+    vėjo didysis magistras _(Hochmeister)_ su taryba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-014
+  santrauka: 'Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstančiai eilinių kryžeivių bei samdinių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau Vytautas ir Jogaila
+
+    pasiekė savo strateginį tikslą — vokie-
+
+    čių karinė mašina buvo sutriuškinta.
+    Žuvo pats didysis magistras Ulrichas fon
+    Jungingenas, beveik visa likusi Ordino va-
+    dovybė, apie 200 Ordino riterių (trečioji
+    dalis prūsiškųjų kryžiuočių) ir tūkstan-
+    čiai eilinių kryžeivių bei samdinių. Nors
+    Kryžiuočių ordinas nenustojo gyvuoti,
+    bet jam buvo suduotas stiprus smūgis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
@@ -352,15 +397,58 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 - [[objektai/zodynas/krašto magistras]]
 - [[objektai/zodynas/rezervas]]
 - [[objektai/posakiai/supremus dux]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Arkikomtūras]]
+- [[objektai/autoriai/August von Kotzebue]]
 - [[objektai/asmenys/Celestinas III]]
+- [[objektai/asmenys/Egerbergas]]
+- [[objektai/asmenys/Elžbieta (Vengrijos karalienė)]]
+- [[objektai/asmenys/Engelhardas Rabė]]
+- [[objektai/asmenys/Gotfridas Lindenas]]
 - [[objektai/asmenys/Hartmanas iš Heldrungeno]]
+- [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/asmenys/Konradas (Vroclavo vyskupas)]]
+- [[objektai/asmenys/Konradas Ciolneris Rotenšteinas]]
+- [[objektai/asmenys/Konradas Valenrodas]]
+- [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/zodynas/Ordino maršalas didysis maršalas]]
+- [[objektai/asmenys/Paulius Russdorfas (didysis magistras)]]
+- [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]
 - [[objektai/asmenys/Popiežius Celestinas III]]
+- [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/asmenys/Redigeris Elneris]]
 - [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
+- [[objektai/paprociai/Riterių garbės puota prieš karo žygį]]
+- [[objektai/ivykiai/Ritterswerderio suvažiavimas prie Lampėdžių (1404 m. rugpjūčio vidurys)]]
+- [[objektai/asmenys/Sudimantas]]
 - [[objektai/grupes/Tamplierių ordinas]]
 - [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/paprociai/Vakarų riterių stojimas į žygius prieš pagonis]]
+- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
+- [[objektai/asmenys/Vasilijus Vasiljevičius]]
 - [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]
 - [[objektai/ivykiai/Vernerio iš Orzelno išrinkimas didžiuoju magistru (1324 m. liepos 6 d.)]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]
+- [[objektai/asmenys/Zinnenbergas]]
 - [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus]]
 - [[objektai/zodynas/landkomtūras]]
+- [[objektai/zodynas/prūsiškos grivenos]]
+- [[objektai/posakiai/vyriausiuoju Lietuvos kunigaikščiu]]
+- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Burchardas iš Švandeno]]

@@ -72,4 +72,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/istorinė Lietuva]]

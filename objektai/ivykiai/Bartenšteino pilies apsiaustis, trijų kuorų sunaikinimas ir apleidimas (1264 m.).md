@@ -151,3 +151,12 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/daiktai/Katilas]]
+- [[objektai/daiktai/Kuorai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/kuoras propugnaculum pilaitė]]

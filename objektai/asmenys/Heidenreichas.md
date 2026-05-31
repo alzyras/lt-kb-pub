@@ -83,3 +83,4 @@ Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metai
 - [[objektai/asmenys/Mergelė Marija]]
 - [[objektai/zodynas/Ordino brolis]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/ivykiai/Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui]]

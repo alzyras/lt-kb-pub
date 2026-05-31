@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1948 m.'
+  - '1951 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1940'
+date_end: '1951'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -35,6 +46,14 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginys: 'Tie, kurie pasirinktų Lietuvą savo priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 225 Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Tie, kurie pasirinktų Lietuvą savo priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“ Dž.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -85,3 +104,36 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 225 Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti savo požiūrį į dipukus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    225
+    Prasidėjus Šaltajam karui tarp JAV ir SSRS, amerikiečiai ėmė keisti
+    savo požiūrį į dipukus. 1948 m. viduryje JAV Kongresas priėmė vadi-
+    namąjį Perkeltųjų asmenų įstatymą, kuriame buvo numatoma įsileisti
+    205 tūkst. dipukų (tarp jų – 40 proc. Baltijos valstybių ir Lenkijos pa-
+    bėgėlių bei tremtinių).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Tie, kurie pasirinktų Lietuvą savo priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“ Dž.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
+    Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų
+    sąjunga pasiryžusi ginti savo nares. Tie, kurie pasirinktų Lietuvą savo
+    priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“ Dž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

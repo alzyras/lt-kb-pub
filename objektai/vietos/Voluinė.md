@@ -143,6 +143,42 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   teiginys: 'Apsirūpinus artilerija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.'
   pagrindžia:
     - c-023
+- t-033
+  teiginys: 'Mindaugo valstybės reikalai po krikšto ir karūnavimosi Karai su Voluine.'
+  pagrindžia:
+    - c-024
+- t-034
+  teiginys: '165 psl.), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  pagrindžia:
+    - c-025
+- t-035
+  teiginys: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  pagrindžia:
+    - c-026
+- t-036
+  teiginys: 'Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.'
+  pagrindžia:
+    - c-027
+- t-037
+  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  pagrindžia:
+    - c-028
+- t-038
+  teiginys: '- • - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei.'
+  pagrindžia:
+    - c-029
+- t-039
+  teiginys: 'To­ torių gyvenviečių pradžią Lietuvoje ir Voluinėje bei tolesnį jų likimą pla­ čiau aprašo: C z a c k i O Litewskich i Polskich prawach, T.'
+  pagrindžia:
+    - c-030
+- t-040
+  teiginys: 'Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­ raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­ imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam į.'
+  pagrindžia:
+    - c-031
+- t-041
+  teiginys: 'Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė buvo valdoma Lenkų.'
+  pagrindžia:
+    - c-032
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -542,3 +578,197 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-032
+- c-024
+  santrauka: 'Mindaugo valstybės reikalai po krikšto ir karūnavimosi Karai su Voluine.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Mindaugo valstybės reikalai po krikšto ir karūnavimosi**
+
+    **Karai su Voluine.** Krikštijęsis ir susitaikinęs su ordinu,
+    Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus už-
+    grobtas žemes. Dabar karui vadovavo jau nebe svetimi kuni-
+    gaikščiai, bet Mindaugo sūnus Vaišvilkas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-025
+  santrauka: '165 psl.), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    165 psl.), taip ir Kazimiero laikais tankiau buvo
+    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
+    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
+    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
+    linkes, buvo beveik negyvenamos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-026
+  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pats
+    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
+    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
+    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
+    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
+    nialųjį karo vadą, — atidavė auklėti jėzuitams.
+    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
+    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-027
+  santrauka: 'Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vytauto centralizacijos politika sutelkė plačios erdvės Rytų Europoje
+    išteklius. Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gy-
+    venimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė
+
+    L I E T U V O S  I S T O R I J A
+    46
+    laikyti tėvonijos dalimi. Vėliau Voluinė apskritai tapo šalutinių Gedimi-
+    naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
+    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
+    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
+    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
+    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
+    kos“ kilmės kunigaikščiai Ostrogiškiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-028
+  santrauka: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pradžios.
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
+    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-029
+  santrauka: '- • - 19 ## Puslapis 36 VILNIAUS MIESTO ISTORIJA / TOMAS užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­ tinto, Vilnelės bei.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Man atrodo, kad jei Lietuvo­
+    je buvo keletas tokių šventų vieto­
+    vių, tai Vilnius būtinai turėjo būti
+    viena iš jų, o jeigu buvo tik ta vie­
+    nintelė, tad tikriausiai po to smūgio
+    Perkūno tikėjimo relikvijos ir Krivių
+    Krivaitis su aukotojais iš Romainių
+    buvo perkelti į Vilnių, taigi Vilnius
+    XIII amžiaus gale jau galėjo būti tan­
+    kiai gvvenama ir svarbi gyvenvietė.
+    -  •  -
+    19
+
+    ## Puslapis 36
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    užėmęs įvairias Rusios kunigaikščių tėvonijas Voluinėje ir
+    savo užkariavimais nusigavęs net už Kijevo, įsakė pastatyti
+    mūrinę pilį ant kalno, tuo tikslu žmonių rankomis paaukš­
+    tinto, Vilnelės bei Vilijos9 upių santakoje, ir į ten iš Trakų
+    perkėlė savo buveinę. Jis, pirmasis iš visų Lietuvos kuni­
+    gaikščių, keisdamas savo pirmtakų politiką, užmezgė ry­
+    šius su krikščioniškąja Europa, būtent Lenkija ir Rusia10.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+- c-030
+  santrauka: 'To­ torių gyvenviečių pradžią Lietuvoje ir Voluinėje bei tolesnį jų likimą pla­ čiau aprašo: C z a c k i O Litewskich i Polskich prawach, T.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dabar Lie­
+    tuvos totoriai praturtėję, iš tiesų visi
+    tarnauja kariuomenėje, specialiuose
+    raitininkų, vadinamuosiuose totorių
+    ulonų pulkuose, kiti yra tarnautojai,
+    o vargingesni dirba pas privačius as­
+    menis arba turi menkus žemės plo­
+    telius, po tėvų mirties paveldėtus. To­
+    torių gyvenviečių pradžią Lietuvoje
+    ir Voluinėje bei tolesnį jų likimą pla­
+    čiau aprašo: C z a c k i O Litewskich i
+    Polskich prawach, T.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-031
+  santrauka: 'Jogaila, kad greičiau įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­ raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­ imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam į.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
+    tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau
+    įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­
+    raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­
+    imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių
+    didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
+    į Vilnių13.
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-032
+  santrauka: 'Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė buvo valdoma Lenkų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos,
+    o Podolė buvo valdoma Lenkų. Švitrigaila mirdamas (1452 m.)
+    testamentu Voluinę paliko Lietuvai, tačiau lenkai ne tik neketino
+    atiduoti Lietuvai Podolės, bet dar ruošėsi ginklu užgrobti ir Vo-
+    luinę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041

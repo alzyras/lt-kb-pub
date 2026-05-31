@@ -13,17 +13,20 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: '1936 m. (veikalo sudarymo kontekstas); 1970 m. spalių mėn. 15 d.; 1930 m. (veikalo sudarymo kontekstas)'
-datos:
-  - '1930 m.'
-  - '1970 m.'
 vaidmenys:
   - 'autorius'
   - 'istorikas'
-patikimumas: 'aukštas'
-amziai:
-  - 'XX'
+datos:
+  - '1930 m.'
+  - '1978 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1930'
+date_end: '1978'
+patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
 tags:
   - autorius
@@ -108,6 +111,14 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
+  pagrindžia:
+    - c-013
+- t-012
+  teiginys: '### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # RINKTINIAI RAŠTAI I Tomas ## LIETUVOS ISTORIJA Iki Vytauto Didžiojo mirties ### ROMA 1978 ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # LIETUVOS ISTORIJA ### IKI VYTAUTO DIDŽIOJO.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -280,3 +291,85 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-013
+  santrauka: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Dusburgietis pažymi, kad „keturi
+    tūkstančiai lietuvių“ niokojo Kuršo žemę,
+    0 po to stojo į mūšį. Pasak Z. Ivinskio,
+    kadangi tai ne lokaliniai, o plataus masto
+    veiksmai, vykę Lietuvos vakaruose, tai
+    4000 lietuvių pajėgas reikia suprasti kaip
+    jungtines žemaičių ir paties Lietuvos val-
+    dovo karaliaus Mindaugo karines pajėgas,
+    nukreiptas prieš Ordiną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-014
+  santrauka: '### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # RINKTINIAI RAŠTAI I Tomas ## LIETUVOS ISTORIJA Iki Vytauto Didžiojo mirties ### ROMA 1978 ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA ### ZENONAS IVINSKIS # LIETUVOS ISTORIJA ### IKI VYTAUTO DIDŽIOJO.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA
+
+    ### ZENONAS IVINSKIS
+
+    # RINKTINIAI RAŠTAI
+
+    ```
+    I Tomas
+    ```
+    ## LIETUVOS ISTORIJA
+
+    ```
+    Iki Vytauto Didžiojo mirties
+    ```
+    ### ROMA 1978
+
+
+    ### LIETUVIŲ KATALIKŲ MOKSLO AKADEMIJA
+
+    ### ZENONAS IVINSKIS
+
+    # LIETUVOS ISTORIJA
+
+    ### IKI VYTAUTO DIDŽIOJO MIRTIES
+
+    ```
+    1978
+    Lietuvių Katalikų Mokslo Akademija
+    Piazza della Pilotta 4
+    Roma
+    ```
+
+    ```
+    Spaustuvės išlaidos apmokėtos
+    Lietuvių Fondo ir L.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių Katalikų Mokslo Akademija]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/daiktai/Spaustuvės]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/marksistinė periodizacija]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Lietuvių Fondas]]
+- [[objektai/grupes/Žemaičiai]]

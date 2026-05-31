@@ -8,13 +8,14 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1368 m.'
+  - '1370 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
 date_start: '1368'
-date_end: ''
+date_end: '1370'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -41,7 +42,10 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: '1370 m. žygis Tęsdamas kovą su Maskva, Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą, padėtų KR 6£ S k o © sa A = == e 8 = © + > == Zi IETIES ATRĖMIMAS Algirdo žodžiai ir simbolinis poelgis 1368 m.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą.'
@@ -107,6 +111,42 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: '1370 m. žygis Tęsdamas kovą su Maskva, Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą, padėtų KR 6£ S k o © sa A = == e 8 = © + > == Zi IETIES ATRĖMIMAS Algirdo žodžiai ir simbolinis poelgis 1368 m.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1370 m. žygis
+
+    Tęsdamas kovą su Maskva, Tverės kuni-
+
+    gaikštis Michailas siekė, kad Algirdas su-
+    rengtų antrąjį žygį prieš Maskvą, padėtų
+
+    KR
+    6£
+    S k
+    o ©
+    sa
+    A =
+    ==
+    e 8
+    =
+    ©
+    +
+    >
+    ==
+    Zi
+
+    IETIES ATRĖMIMAS
+
+    Algirdo žodžiai ir simbolinis poelgis 1368 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

@@ -31,7 +31,10 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Šioje knygoje visai tikrai atvaizduotos visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­ kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku žmonijos širdį.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Knyga apie Didįjį karą apibūdinta kaip būtinas skaitinys norint suprasti, kas buvo Didysis karas.'
@@ -50,3 +53,19 @@ Kas nori žinoti, kas buvo Did. karas, turi būtinai šią knygą perskaityti.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Šioje knygoje visai tikrai atvaizduotos visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­ kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku žmonijos širdį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šioje knygoje visai tikrai atvaizduotos
+    visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­
+    kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku
+    žmonijos širdį. Kas nori žinoti, kas buvo Did. karas, turi būtinai
+    šią knygą perskaityti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

@@ -58,9 +58,6 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/grupes/Totoriai]]

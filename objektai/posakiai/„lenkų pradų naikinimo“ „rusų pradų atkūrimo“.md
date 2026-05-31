@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1864 m.'
+  - '1904 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+date_start: '1864'
+date_end: '1904'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -32,7 +43,10 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Jie tikėjosi pakeisti pačią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai įmanoma pasiekti.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rusintojai manė laimėti, „lenkų pradų naikinimo“ politiką papildę „rusų pradų atkūrimo“ politika.'
@@ -65,13 +79,38 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Jie tikėjosi pakeisti pačią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai įmanoma pasiekti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jie tikėjosi pakeisti pa-
+    čią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad
+    po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai
+    įmanoma pasiekti. Juk separatizmas tarpo pirmiausia vietos bajoriškoje
+    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
+    nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
+    nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
+    Rusinimo politika 1864–1904 metais
+    Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-
+    manytojų Vilniaus generalgubernatorius M.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/pradai]]
+- [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/separatizmas]]
+- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]

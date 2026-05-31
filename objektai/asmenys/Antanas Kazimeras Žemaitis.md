@@ -46,4 +46,12 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Bendrinė sąvoka]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/David Gilmour]]
+- [[objektai/asmenys/Eric Clapton]]
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/asmenys/George Harrison]]
+- [[objektai/asmenys/Keith Richards]]
+- [[objektai/asmenys/Nadine Gordimer]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]

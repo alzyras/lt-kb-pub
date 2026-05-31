@@ -59,6 +59,13 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Christiaan Barnard]]
+- [[objektai/asmenys/Frank Lubin]]
+- [[objektai/asmenys/Jack Sharkey]]
+- [[objektai/asmenys/Johnny Unitas]]
 - [[objektai/grupes/Litvakai]]
 - [[objektai/asmenys/Louis Washkansky]]
+- [[objektai/asmenys/Marcinkevičius]]
+- [[objektai/asmenys/Vitas]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/asmenys/Algimantas Marcinkevičius]]
+- [[objektai/asmenys/Vytautas Sirvydis]]

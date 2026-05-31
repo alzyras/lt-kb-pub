@@ -124,3 +124,4 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
 - [[objektai/zodynas/vergai]]
 - [[objektai/zodynas/vitingas]]
 - [[objektai/asmenys/Konradas iš Dortmundo]]
+- [[objektai/grupes/Varmiai]]

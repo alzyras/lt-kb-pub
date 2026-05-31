@@ -111,6 +111,8 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/autoriai/Vygandas Marburgietis]]
+- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/daiktai/Žirgai]]

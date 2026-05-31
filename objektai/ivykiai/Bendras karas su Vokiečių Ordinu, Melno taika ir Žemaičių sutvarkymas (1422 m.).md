@@ -151,5 +151,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zenonas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]

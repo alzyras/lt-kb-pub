@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -29,6 +35,10 @@ tags:
   teiginys: 'Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'L I E T U V O S I S T O R I J A 260 Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,3 +71,24 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'L I E T U V O S I S T O R I J A 260 Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono sutarties 5-ajame straipsnyje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    260
+    Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
+    tarties 5-ajame straipsnyje. Juo garantuojama individualios ar kolektyvi-
+    nės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuo-
+    limui. Tai reiškia, kad šalys narės ginkluoto puolimo prieš bet kurią iš
+    jų atveju ateis viena kitai į pagalbą – ir kiekviena atskirai, ir visos kartu.
+    Vašingtono sutarties 5-asis straipsnis užtikrina, kad nė vienai šaliai nerei-
+    kės kliautis savo pačios pastangomis ir ekonominiais ištekliais, jei iškils
+    pavojus jos saugumui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

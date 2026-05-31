@@ -3,11 +3,11 @@ tipas: vieta
 pavadinimas: "Vladimiras"
 sukurta: '2026-05-18'
 variantai:
-  - Vladimire
+  - 'Vladimire'
 aliases:
-  - Vladimiras
+  - 'Vladimiras'
 saltiniai:
-  - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1384 m.'
   - '1385 m.'
@@ -82,7 +82,10 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginys: 'Jogailos kariuomenė pro Vladimirą liepos pabaigoje artėjo prie Lucko.'
   pagrindžia:
     - c-006
-
+- t-009
+  teiginys: 'Iš jų viena stipriausių buvo Vladimiro-Suzdalės žemė.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'XIV a. pradžioje Maskva laimėjo kovą dėl jarlyko prieš Tverę ir įsitvirtino Vladimire.'
@@ -186,3 +189,19 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-007
+  santrauka: 'Iš jų viena stipriausių buvo Vladimiro-Suzdalės žemė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iš jų viena stipriausių buvo Vladimiro-Su-
+    zdalės žemė.
+    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
+    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
+    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

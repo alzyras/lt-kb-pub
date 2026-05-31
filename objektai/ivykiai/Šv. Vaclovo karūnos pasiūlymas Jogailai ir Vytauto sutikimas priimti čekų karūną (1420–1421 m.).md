@@ -53,6 +53,10 @@ Nenurodyta
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Ši aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai pritarė ir rėmė Jogailos dukters piršlybas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,6 +95,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Ši aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai pritarė ir rėmė Jogailos dukters piršlybas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ši
+    aplinkybė ir meta šiek tiek šviesos, kodėl Vytautas taip mielai
+    pritarė ir rėmė Jogailos dukters piršlybas.
+    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
+    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
+    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
+    linkybėms, Vytautas nuo to sumanymo atsisakė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -102,3 +124,5 @@ Nenurodyta
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Zigmantas Kaributas]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]

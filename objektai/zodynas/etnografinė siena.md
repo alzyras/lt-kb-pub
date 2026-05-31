@@ -44,7 +44,10 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   teiginys: 'Okupacijos metu ir Vilniaus konferencija ir Taryba vengė aiškiai kelti Mažosios Lietuvos klausimo; buvo pasitenkinta bendru posakiu, kad būsimoji Lietuva turinti apimti lietuvių gyvenamąsias (etnografines) žemes.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis.'
@@ -102,8 +105,31 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos Latvijos sienos nustatymas**
+
+    Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-
+    tuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet
+
+    kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
+    čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-
+    duoti 1921 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]

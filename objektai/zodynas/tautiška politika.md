@@ -7,6 +7,15 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1309 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1309'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -33,6 +42,10 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-003
+  teiginys: 'Sąjunga su Ryga ir Rygos arkivyskupu buvo pats įdomusis Vytenio politikos vaisius.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,3 +74,27 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Sąjunga su Ryga ir Rygos arkivyskupu buvo pats įdomusis Vytenio politikos vaisius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Sąjunga su Ryga ir Rygos arkivyskupu** buvo pats įdomusis
+    Vytenio politikos vaisius. Varydamas tautišką politiką ir kovo-
+    damas su ordinu, jis rado sąjungininkų pačių krikščionių tarpe.
+
+    Marijenburgas, —
+    nuo 1309 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/magistras]]

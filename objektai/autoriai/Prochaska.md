@@ -56,3 +56,6 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/apsigynimo ir puolimo sutartis|apsigynimo ir puolimo sutartis (sutartis)]]

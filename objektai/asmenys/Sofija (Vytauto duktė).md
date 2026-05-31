@@ -61,7 +61,14 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   teiginys: 'Štai, jis, ieškodamas Maskvos paramos, savo dukterį Sofiją išleidžia už Maskvos kunigaikščio sūnaus, stačiatikio, nors pats buvo kata­ likas; Jogailai atsisakius remti husitus dėl jų heretikiškumo, Vy­ 123 tautas, keršto ieškodamas, to nežiūri; savo dvare.'
   pagrindžia:
     - c-006
-
+- t-011
+  teiginys: 'Pagaliau, Vytauto pažiūras į tikėjimo ir valstybės santykius vaizduoja ir kai kurie jo paties gyvenimo atsitikimai.'
+  pagrindžia:
+    - c-007
+- t-012
+  teiginys: 'Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
@@ -150,16 +157,63 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-007
+  santrauka: 'Pagaliau, Vytauto pažiūras į tikėjimo ir valstybės santykius vaizduoja ir kai kurie jo paties gyvenimo atsitikimai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pagaliau, Vytauto pažiūras į tikėjimo ir valstybės santykius
+    vaizduoja ir kai kurie jo paties gyvenimo atsitikimai. Štai, jis,
+    ieškodamas Maskvos paramos, savo dukterį Sofiją išleidžia už
+    Maskvos kunigaikščio sūnaus, stačiatikio, nors pats buvo kata­
+    likas; Jogailai atsisakius remti husitus dėl jų heretikiškumo, Vy­
+
+
+    ```
+    123
+    ```
+    tautas, keršto ieškodamas, to nežiūri; savo dvare leidęs skelbti
+    husitizmą^1 ); katalikų tikėjimą, patekęs į rusų kraštus, kad ir
+    pagonio Jogailos verčiamas, keitęs į stačiatikių tikėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-008
+  santrauka: 'Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ordino pasiuntinys, žinoma, jo nepriėmė.
+    Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto
+    dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters
+    Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių
+    krašto atidavimą Ordinui po jų tėvų mirties. Prie šio teisėtų
+    įpėdinių veto pridėjo savo žodį ir Žemaičių bajorai, pasisaky­
+    dami neužleisią niekam savo krašto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Husitai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/Liberum veto]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
 - [[objektai/asmenys/Sofija Vytautaitė]]
-- [[objektai/autoriai/Spycinas]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
-- [[objektai/asmenys/Vosylius II]]
-- [[objektai/asmenys/Zofija Algimantaitė]]
+- [[objektai/asmenys/Sofija]]
+- [[objektai/grupes/Totoriai]]

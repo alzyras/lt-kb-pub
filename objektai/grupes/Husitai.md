@@ -8,6 +8,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1421 m.'
+  - '1422 m.'
   - '1424 m.'
   - '1978 m.'
   - '2026 m.'
@@ -65,6 +66,27 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   teiginys: 'Husitai ne kartą naudojosi Vytauto globa.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Pavyzdžiui, husitai dargi ne kartą Vytauto globa naudojosi.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos teologas Tomas YValdenas, garsus savo dis­ putais su Viklifo sekėjais ir husitais, kurį Anglijos karalius Henrikas V buvo pasitelkęs į Vladislovo Jogai­ los derybas su kryžiuočiais.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­ vengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­ vo tikslo; čekai.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Popiežius draudė siųsti Kaributą, o kai Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį, jei jo neatšauktų ir nenutrauktų su husitais santykių.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Tad Vytautas įsakė grįžti Kaributui į Lietuvą, o čekams husitams nurašė laišką, kad niekada nerėmė jų mok­ slo, bet norėjo juos tiktai grąžinti Bažnyčiai; jeigu jie atsisakytų nuo erezijos, tai sutinka būti tarpininku tarp jų ir Zigmanto, kitaip turėsiąs.'
+  pagrindžia:
+    - c-012
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių.'
@@ -192,6 +214,113 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Pavyzdžiui, husitai dargi ne kartą Vytauto globa naudojosi.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Daug
+    prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiš­
+    ko jų Ordino sunaikinimo, nors turėjo tam galimybių; pritarė
+    ir skelbė sprendimus, varžančius toleranciją, kuria nuo seno
+    Vilnius garsėjo, betgi nė vienos kurios nors tikybos išpažini­
+    mas dėl to per daug nekentėjo. Pavyzdžiui, husitai dargi ne
+    kartą Vytauto globa naudojosi. Šis kunigaikštis nė nedvejoda­
+    mas griebdavosi prie jo didybės nelabai derančių būdų, kad
+    tik nukreiptų Jogailos dėmesį nuo Lietuvos valdymo reikalų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos teologas Tomas YValdenas, garsus savo dis­ putais su Viklifo sekėjais ir husitais, kurį Anglijos karalius Henrikas V buvo pasitelkęs į Vladislovo Jogai­ los derybas su kryžiuočiais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jo laikais Lietuva ir jos sostinė Vil­
+    nius liovėsi buvę atviras laukas kryžiuočių grobimams ir
+    plėšikavimams, jo laikais patirta, ką reiškia saugi nuosa­
+    vybė ir prekyba.
+    86
+    Vytautui nebuvo svetimi ir moks­
+    lai, bent jau tokie, kokie XIV ir XV
+    amžiuje galėjo būti. Anglijos istori­
+    joje yra išlikusių pėdsakų, kad
+    anuomet žymus tos tautos teologas
+    Tomas YValdenas, garsus savo dis­
+    putais su Viklifo sekėjais ir husitais,
+    kurį Anglijos karalius Henrikas V
+    buvo pasitelkęs į Vladislovo Jogai­
+    los derybas su kryžiuočiais, kiek lai­
+    ko viešėjęs Vytauto rūmuose ir mo­
+    kęs jį krikščioniško tikėjimo tiesų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­ vengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­ vo tikslo; čekai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vėliau Vytautas popiežiui dar rašė, kad jis nenu­
+    traukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­
+    vengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir
+    nuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­
+    vo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­
+    siuntė pas popiežių savo pasiuntinius. Tą patį rašė ir Rygos
+    arkivyskupui. Popiežius gal būtų ir palinkęs Vytauto pusėn,
+    bet ciesorius Zigmantas ir Ordinas pasistengė Martyną V nu­
+    kreipti prieš Vytautą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Popiežius draudė siųsti Kaributą, o kai Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį, jei jo neatšauktų ir nenutrauktų su husitais santykių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Popiežius draudė siųsti Kaributą, o kai
+    Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį,
+    jei jo neatšauktų ir nenutrauktų su husitais santykių. Lenkų, o
+    tikriausiai ir Lietuvos vyskupai gavo iš popiežiaus raginimą,
+    kad bažnytinėmis bausmėmis priverstų Vytautą negloboti husi­
+    tų. 1422 m. lapkričio mėn. Vytautas gavo popiežiaus įsakymą
+    dviejų mėnesių bėgy atšaukti Kaributą, nes kitaip būsiąs eksko­
+    munikuotas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Tad Vytautas įsakė grįžti Kaributui į Lietuvą, o čekams husitams nurašė laišką, kad niekada nerėmė jų mok­ slo, bet norėjo juos tiktai grąžinti Bažnyčiai; jeigu jie atsisakytų nuo erezijos, tai sutinka būti tarpininku tarp jų ir Zigmanto, kitaip turėsiąs.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tad Vytautas įsakė grįžti Kaributui į Lietuvą,
+    o čekams husitams nurašė laišką, kad niekada nerėmė jų mok­
+    slo, bet norėjo juos tiktai grąžinti Bažnyčiai; jeigu jie atsisakytų
+    nuo erezijos, tai sutinka būti tarpininku tarp jų ir Zigmanto, kitaip
+    turėsiąs padėti šiam pastarajam. 1424 m. Jogaila, Vytautas, jų
+    didikai, riteriai ir miestai sudarė didelę prieš husitus opo­
+    ziciją: nutarta su jais kovoti Lietuvoje ir Lenkijoje, vyti iš vals­
+    tybės husitų šalininkus, konfiskuoti su Kaributu Čekijon išvy­
+    kusiųjų turtą ir kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
@@ -210,4 +339,28 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - [[objektai/grupes/Čekijos husitai]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas V]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos vyskupai]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas Didysis]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Balnas]]
+- [[objektai/ivykiai/Lietuvos kova prieš kryžiuočius Konstanco bažnytiniame susirinkime (1414-1418 m.)]]
+- [[objektai/ivykiai/Lietuvos sąjunga su husitais kovoje prieš vokiečio feodalų agresiją (1420-1422 m.)]]
+- [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]
+- [[objektai/asmenys/Martynas V (popiežius)]]
+- [[objektai/grupes/Romos kurija]]
+- [[objektai/asmenys/Zigmantas Kaributas]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/autoriai/B. Dundulis]]

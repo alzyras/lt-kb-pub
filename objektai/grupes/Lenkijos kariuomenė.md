@@ -57,6 +57,10 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginys: 'Susidarius grėsmingai situacijai, Abiejų Tautų Respublikos valdovas Zigmantas Vaza nurodė LDx kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Po šio pralaimėjimo kilo grėsmė, kad Turkija gali įsiveržti į Lenkiją.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -139,10 +143,57 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Po šio pralaimėjimo kilo grėsmė, kad Turkija gali įsiveržti į Lenkiją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po šio
+    pralaimėjimo kilo grėsmė, kad
+    Turkija gali įsiveržti į Lenkiją.
+
+    Susidarius grėsmingai si-
+    tuacijai, Abiejų Tautų Res-
+    publikos valdovas Zigmantas Vaza
+    nurodė LDx kariuomenei telktis prie
+    Podolės Kameneco ir suteikti pagalbą
+    Lenkijos kariuomenei. Jungtinės kariuo-
+    menės vadu karalius paskyrė Lietuvos di-
+    dįjį etmoną Joną Karolį Chodkevičių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Antantė]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Tautų Sąjunga]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas Vaza]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Želigovskininkai]]
+- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
 - [[objektai/asmenys/Albertas Manvydas]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]
+- [[objektai/asmenys/Simonas Lengvenis]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/grupes/Čekijos husitai]]
+- [[objektai/asmenys/Žygimantas Kaributaitis]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/ivykiai/Zelencų mūšis (1792 m. birželio 18 d.)]]
+- [[objektai/ivykiai/Zelvos mūšis (1792 m. liepos 4 d.)]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/zodynas/demarkacijos linija]]

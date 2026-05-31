@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1871 m.'
+  - '1901 m.'
+  - '1924 m.'
+  - '1952 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+date_start: '1871'
+date_end: '1952'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -25,7 +39,10 @@ tags:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '„Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
@@ -43,9 +60,50 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O kai pamatai po provincijos
+    miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
+    ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
+    galvoji, kiek dar tokių vardų slepia Lietuva?
+    Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-
+    vičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos
+    scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir
+    mokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro
+    ne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs
+    Chaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar
+
+    265
+    PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
+    „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-
+    torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
+    ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Chaim Soutin]]
+- [[objektai/daiktai/Gintaras]]
+- [[objektai/asmenys/Jascha Heifetz]]
+- [[objektai/asmenys/John Gielgud]]
 - [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Mekas]]
+- [[objektai/asmenys/Victor David Brenner]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Eimuntas Nekrošius]]
 - [[objektai/asmenys/Robertas (Sicilijos karalius)]]
 - [[objektai/asmenys/Robertas Zemeckis]]
+- [[objektai/asmenys/Donatas Katkus]]
+- [[objektai/asmenys/Gintaras Rinkevičius]]
+- [[objektai/daiktai/JAV vieno cento moneta]]
+- [[objektai/asmenys/Jurgis Mačiūnas]]
+- [[objektai/asmenys/Saulius Sondeckis]]
+- [[objektai/asmenys/Violeta Urmana]]

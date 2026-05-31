@@ -102,3 +102,5 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/daiktai/Gedimino antspaudas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

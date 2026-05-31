@@ -66,4 +66,5 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
 - [[objektai/zodynas/tikybos ir bažnyčios priešai]]

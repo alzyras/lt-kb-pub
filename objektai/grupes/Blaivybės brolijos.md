@@ -50,3 +50,4 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Motiejus]]
 - [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]

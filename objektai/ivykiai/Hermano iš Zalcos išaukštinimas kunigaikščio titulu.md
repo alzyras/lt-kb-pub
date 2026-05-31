@@ -119,9 +119,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Fridrichas II]]
 - [[objektai/asmenys/Popiežius Honorijus III]]
 - [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Venedai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Ordino magistro valdžios žymenys]]

@@ -46,5 +46,19 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/David Gilmour]]
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/asmenys/George Harrison]]
+- [[objektai/asmenys/Keith Richards]]
+- [[objektai/asmenys/Nadine Gordimer]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/asmenys/Antanas Kazimeras Žemaitis]]
 - [[objektai/zodynas/Bendrinė sąvoka]]
+- [[objektai/asmenys/Bob Dylan]]
+- [[objektai/asmenys/Bruce Springsteen]]
 - [[objektai/daiktai/Gitara „Zemaitis“]]
+- [[objektai/asmenys/Jimi Hendrix]]
+- [[objektai/asmenys/Leonard Cohen]]
+- [[objektai/asmenys/Paul McCartney]]
+- [[objektai/asmenys/Ronnie Wood]]

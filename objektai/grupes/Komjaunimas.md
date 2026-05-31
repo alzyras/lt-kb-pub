@@ -55,6 +55,12 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Lenino kampeliai ir sienlaikraščiai]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/MOPR]]
+- [[objektai/ivykiai/Perėjimas prie 12 metų mokymo lietuvių mokyklose (1988 m. ruduo)]]
 - [[objektai/grupes/Pionierių organizacijos]]
+- [[objektai/asmenys/Vincas Kudirka]]
+- [[objektai/grupes/Žydai]]

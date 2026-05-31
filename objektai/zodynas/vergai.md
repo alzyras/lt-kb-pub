@@ -45,10 +45,14 @@ Tai buvo vergai.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
+- [[objektai/zodynas/Dvarų bernai]]
 - [[objektai/asmenys/Glapas]]
 - [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]
+- [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]
 - [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
+- [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/nuomininkas]]
 - [[objektai/zodynas/prastuomenė communis populus ignobiles|prastuomenė / communis populus / ignobiles]]
 - [[objektai/zodynas/Sūdas|sūdas]]
+- [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]
 - [[objektai/zodynas/šeimyna familia domus]]

@@ -90,6 +90,8 @@ Dusburgietis teigia, kad apie tai, kaip nukrito popiežius bei jo vainikas, o si
 - [[objektai/asmenys/Jonas iš Endorfo]]
 - [[objektai/asmenys/Klemensas V]]
 - [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.)]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/zodynas/mišparai]]
 - [[objektai/paprociai/Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas]]

@@ -10,6 +10,12 @@ aliases:
   - 'Kandidatas Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -64,6 +70,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai, daugiausia katalikų dvasininkai, apsisprendę pritarti etninių lietuvių tautiniam sąjūdžiui, galėję veikti per Bažnyčią, jos globojamas kultūros ir švie- 3 skyrius • R U S I J O S I M P.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,8 +109,34 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai, daugiausia katalikų dvasininkai, apsisprendę pritarti etninių lietuvių tautiniam sąjūdžiui, galėję veikti per Bažnyčią, jos globojamas kultūros ir švie- 3 skyrius • R U S I J O S I M P.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iš lietuvių grupuočių stipriausias pozicijas įgijo krikščionys demokratai,
+    daugiausia katalikų dvasininkai, apsisprendę pritarti etninių lietuvių tauti-
+    niam sąjūdžiui, galėję veikti per Bažnyčią, jos globojamas kultūros ir švie-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    125
+    timo organizacijas, gausią spaudą. Daugiausia dėmesio jie skyrė katalikišką
+    doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
+    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
+    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
+    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kiška]]
+- [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]]

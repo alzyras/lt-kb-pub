@@ -57,3 +57,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/in corpore]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vienvaldystė]]
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/asmenys/Augustinas Voldemaras]]

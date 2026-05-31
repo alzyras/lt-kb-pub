@@ -71,3 +71,9 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 ## Pastabos
 
 - Tiksli botaninė reikšmė iš teksto vienareikšmiškai neišskirta.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/Sriuobalas|sriuobalas]]
+- [[objektai/grupes/Lietuviai]]

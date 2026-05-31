@@ -84,4 +84,5 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/naujakrikščiai]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]

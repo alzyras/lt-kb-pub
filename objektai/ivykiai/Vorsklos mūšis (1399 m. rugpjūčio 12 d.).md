@@ -235,5 +235,7 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- [[objektai/autoriai/J. Dlugošas]]

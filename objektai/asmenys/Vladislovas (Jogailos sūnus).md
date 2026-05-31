@@ -88,3 +88,4 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/šlėkta]]
+- [[objektai/posakiai/de speciali consilio et voluntate Vitoldi ipsiusque praelatorum, baronum ac militum]]

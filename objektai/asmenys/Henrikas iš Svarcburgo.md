@@ -61,4 +61,8 @@ Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka
 - [[objektai/grupes/Notangai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/markgrafas]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Pamedėnai]]
 - [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
+- [[objektai/grupes/Varmiai]]

@@ -46,6 +46,12 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Aaron Klug]]
+- [[objektai/asmenys/Bernard Lown]]
 - [[objektai/asmenys/Bernardas Berensonas]]
+- [[objektai/asmenys/David Baltimore]]
 - [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]
+- [[objektai/grupes/Litvakai]]
 - [[objektai/asmenys/Sydney Brenner]]

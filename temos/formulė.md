@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 7.
+Objektų skaičius: 8.
 
 ## Kaip naudoti
 
@@ -18,13 +18,16 @@ Objektų skaičius: 7.
 
 ## Susiję objektai
 
+### Autoriai
+- [[objektai/autoriai/Gudavičius E]]
+
 ### Posakiai
 - [[objektai/posakiai/Ne bičiulystės, o teisybės]]
 - [[objektai/posakiai/ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas]]
 - [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]
-- [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
 - [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
 - [[objektai/posakiai/„gente polonus, natione lituanus“]]
 
 ### Žodynas
+- [[objektai/zodynas/lotyniškos apskaitos formulės spaustuvės kronikoje]]
 - [[objektai/zodynas/suverenas]]

@@ -60,4 +60,6 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Enėjas Silvijus Pikolominis]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/paprociai/Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika]]
 - [[objektai/posakiai/„civilizaciniam šuoliui“]]

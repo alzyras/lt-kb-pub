@@ -72,6 +72,10 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   teiginys: 'Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna, ir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo, jų sodybas ir bažnyčias sudegindavo.'
   pagrindžia:
     - c-007
+- t-012
+  teiginys: 'Nuo XI amž., kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis vokiečių pirkliai.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -161,6 +165,21 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-008
+  santrauka: 'Nuo XI amž., kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis vokiečių pirkliai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Nuo XI amž.,
+    kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
+    lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
+    čia tik sustodavo, vykdami prekiauti į rusų kraštus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Pavadinimai šaltiniuose
 

@@ -134,3 +134,19 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/J. Tūbelis]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/MINTIS]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
+- [[objektai/asmenys/Aleksandras Stulginskis]]
+- [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
+- [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara)]]
+- [[objektai/asmenys/Juozas Tūbelis]]
+- [[objektai/grupes/Krikščionių demokratų blokas]]

@@ -93,6 +93,26 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-019
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   statusas: patvirtinta
+- t-016
+  teiginys: 'Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju.'
+  pagrindžia:
+    - c-020
+- t-017
+  teiginys: 'Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė.'
+  pagrindžia:
+    - c-021
+- t-018
+  teiginys: 'Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0.'
+  pagrindžia:
+    - c-022
+- t-019
+  teiginys: 'J. Dlugošas mirė bevaikis.'
+  pagrindžia:
+    - c-023
+- t-020
+  teiginys: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
+  pagrindžia:
+    - c-024
 
 ## Reikšmingi paminėjimai
 
@@ -333,3 +353,134 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-015
+- c-020
+  santrauka: 'Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Aukštesnio rango kariai
+    turėdavo ir puošnius durklus. Rankoje
+    karys laiko to meto Lietuvai būdingą
+    pusantros rankos kalaviją, prie šono
+    įmantriai dekoruotos odinės kalavijo
+    makštys su odoje įspaustais ornamentais
+
+    Nuo pagoniškosios
+    iki Vytauto imperijos
+
+    LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS
+
+    J. Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, at-
+    vykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis
+    | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju
+    magistru.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-021
+  santrauka: 'Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik
+    didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“
+
+    VYTAUTAS RIKIUOJA PULKUS
+
+    Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė
+    lietuvių kariuomenę:
+
+    „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename
+    pulke raitelius ant žemesnių arklių arba pernelyg menkai apsiginklavusius sustatė viduryje,
+    o juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-022
+  santrauka: 'Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vis dėlto gal po ta genealogi­
+    nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip
+    anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­
+    tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas
+    bus valdęs, bet šito nei tvirtai teigti, nei išsiaiškinti iki šiol
+    neįmanoma. Dlugošas nurodo, jog Vilnius yra senovinis
+    miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo
+    vado Viliaus, kuris juos iš Italijos atvedęs0. Tačiau ta nuo-
+    c
+    Historya Państwa Rossyjsk.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-023
+  santrauka: 'J. Dlugošas mirė bevaikis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jo žmona
+    Długosz. Naruszewicz,  Jadvyga - Opolės kunigaikščio Vla-
+    H/sf. VI. 35. nurodo, kad Vygantas dislovo duktė. Mirė bevaikis.
+    133
+
+    ## Puslapis 150
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    gyveno kryžiuočių sostinėje Marienburge.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-024
+  santrauka: 'Rau­ donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot Kai dėl rūšies ginklo, nuo kurio žuvo Gediminas: Dlugošas Lib.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Rau­
+    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
+    Kai dėl rūšies ginklo, nuo kurio žuvo
+    Gediminas: Dlugošas Lib. IX,
+    p. 923, nurodo, kad buvo ugninės
+    strėlės pervertas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Dobeslavas Skoračevskis]]
+- [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]
+- [[objektai/autoriai/Naruszewicz]]
+- [[objektai/autoriai/Naruszewicz Naruševičius]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

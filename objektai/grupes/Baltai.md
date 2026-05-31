@@ -20,6 +20,7 @@ datos:
   - '1977 m.'
   - '1981 m.'
   - '1982 m.'
+  - '2004 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
@@ -90,6 +91,19 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   teiginys: 'Dusburgietis teigia, kad apie senovės vakarų baltus bei jų santykius su slavais, ilirais ir germanais —Iš lietuvių etnogenezės, V., 1981, p. 5—11.'
   pagrindžia:
     - c-016
+- t-018
+  teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
+  pagrindžia:
+    - c-017
+- t-019
+  teiginys: ') baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų.'
+  pagrindžia:
+    - c-018
+- t-020
+  teiginys: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
+  pagrindžia:
+    - c-019
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Dusburgietis teigia, kad prūsai ir Lietuva Prūsai, lietuviai ir latviai kronikoje vaizduojamuoju laikotarpiu — tai baltai, kuriuos artimai sieja kalbos, kultūros, tradicijų, senosios religijos bendrumas, teritorijos vientisumas.'
@@ -279,70 +293,212 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-017
+  santrauka: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    2004
+    Lietuva tampa ES ir NATO nare.
+
+    I s k y r i u s
+    SENOJI LIETUVA
+    SENOVĖS BALTAI IR
+    LIETUVOS VALSTYBĖS ATSIRADIMAS
+    M
+    oksle baltais paprastai vadinama grupė indoeuro-
+    piečių genčių ir tautų, gyvenusių arba gyvenančių
+    Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis
+    kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Šian-
+    dien šiai šakai atstovauja likusios gyvuoti tik lietuvių ir latvių kalbos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-018
+  santrauka: ') baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ) baltuose ir jų san­**
+        **tykiai su kaimynais**
+
+    Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui
+    (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos
+    Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje
+    vyko germanų tautų kraustymasis, jie ir toliau pasiliko gyventi
+    Nemuno-Dauguvos-Dniepro plote, nedaug tepajudėdami. Nuosek­
+    liai, be jokių lūžių vystydami savo kultūrą viduriniame geležies
+    amžiuje, baltai išlaikė ją aukštame laipsnyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-019
+  santrauka: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,
+    yra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų
+    slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų
+    bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
+    išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
+    Salys).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/A. Salys]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/grupes/Germanai]]
+- [[objektai/autoriai/H. Lowmiański]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/autoriai/L. Kolankowski]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/NATO]]
+- [[objektai/zodynas/Prūsijos žemė]]
+- [[objektai/grupes/Skandinavai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/baltų sąjunga]]
+- [[objektai/zodynas/geležies amžius]]
+- [[objektai/zodynas/prokalbė]]
 - [[objektai/autoriai/A. Becenbergeris]]
+- [[objektai/autoriai/A. Brückner]]
 - [[objektai/autoriai/A. Kočubinskij]]
+- [[objektai/autoriai/Alfonsas Eidintas]]
+- [[objektai/autoriai/Alfredas Bumblauskas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/autoriai/Alvydas Jokubaitis]]
+- [[objektai/autoriai/Antanas Kulakauskas]]
 - [[objektai/autoriai/Antoniewicz J]]
+- [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
+- [[objektai/grupes/Bartai]]
 - [[objektai/autoriai/Bednarczuk L]]
 - [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]
+- [[objektai/asmenys/Brunonas Bonifacijus]]
+- [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
 - [[objektai/autoriai/Canaparius]]
 - [[objektai/asmenys/Dargis]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]
+- [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/autoriai/Endzelins J]]
+- [[objektai/grupes/Estai]]
+- [[objektai/autoriai/F. Bopas]]
 - [[objektai/autoriai/G. H. F. Neselmanas]]
+- [[objektai/autoriai/G. Labuda]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
+- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/autoriai/Gimbutienė M]]
 - [[objektai/grupes/Gotai]]
 - [[objektai/asmenys/Gundramas]]
-- [[objektai/autoriai/H. Lowmiański]]
+- [[objektai/daiktai/Gyvatgalviai kapliai]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/asmenys/Hirtshalsas]]
+- [[objektai/autoriai/Inga Vinogradnaitė]]
 - [[objektai/autoriai/J. Endzelynas]]
+- [[objektai/autoriai/J. Talmantas]]
+- [[objektai/asmenys/Jonas Basanavičius]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/autoriai/Jurginis J]]
+- [[objektai/autoriai/K. Būga]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/autoriai/Kamiński A]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/asmenys/Karolis IV]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/autoriai/Klaudios Ptolemaios]]
 - [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
+- [[objektai/grupes/Kuršiai]]
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
+- [[objektai/autoriai/Labuda G]]
 - [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/daiktai/Lietuvos akmens amžiaus dirbiniai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
 - [[objektai/autoriai/M. Michelbertas]]
+- [[objektai/autoriai/M. Tepenas]]
 - [[objektai/autoriai/M. Vasmeris]]
 - [[objektai/autoriai/Mannhardt W]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
+- [[objektai/autoriai/Mindaugas Tamošaitis]]
+- [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės]]
+- [[objektai/grupes/Nadruviai]]
 - [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
 - [[objektai/asmenys/Nameisis]]
 - [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/autoriai/Nepokupnas A]]
+- [[objektai/asmenys/Netimeras]]
 - [[objektai/daiktai/Nuometai]]
+- [[objektai/paprociai/Ordino karo religinio įprasminimo praktika]]
 - [[objektai/grupes/Pamarėnai]]
+- [[objektai/grupes/Panevėžio batalionas]]
+- [[objektai/daiktai/Panevėžio bataliono vėliava]]
+- [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija]]
+- [[objektai/daiktai/Papuošalai]]
+- [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/paprociai/Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis|Prūsų teritorinis-administracinis skirstymas valsčiais, laukais ir pilies apygardomis (pilis, XIV a.)]]
 - [[objektai/asmenys/Ptolemajas]]
 - [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
 - [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
+- [[objektai/zodynas/Romuva ir krivis]]
+- [[objektai/grupes/Sembai]]
 - [[objektai/daiktai/Sidabro dirbiniai]]
 - [[objektai/autoriai/Sobolevskij]]
+- [[objektai/asmenys/Tacitas]]
 - [[objektai/paprociai/Terminų skaičiavimas įkirtimais ir mazgais]]
 - [[objektai/daiktai/Tik Lietuvai būdingi dvinariai žąslai su skersinukais]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Traidenis]]
 - [[objektai/autoriai/V. Jungfer]]
+- [[objektai/autoriai/V. Mažiulis]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
 - [[objektai/zodynas/baltų sąjunga federacija]]
+- [[objektai/zodynas/chalkolitas]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/kastuvo mokslas]]
 - [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/kuopiniai kaimai]]
 - [[objektai/posakiai/moterų kraštas|moterų kraštas (kraštas)]]
-- [[objektai/zodynas/prokalbė]]
 - [[objektai/zodynas/prūsas Prūsa Prūsija]]
 - [[objektai/zodynas/territorium castri pilies apygarda|territorium castri pilies apygarda (pilis)]]
 - [[objektai/zodynas/terrula žemelė]]
+- [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/zodynas/vakariniai baltai]]
+- [[objektai/autoriai/Łowmiański H]]
 - [[objektai/autoriai/Šeliagovičius M]]
+- [[objektai/daiktai/Šernų amuletai]]
+- [[objektai/grupes/Žiemgaliai]]
 - [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams]]
 - [[objektai/asmenys/Živinbudas]]
 - [[objektai/autoriai/Непокупный А. П]]
 - [[objektai/autoriai/Тоерреn M]]
 - [[objektai/autoriai/Топоров B. H]]
+- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
 - [[objektai/autoriai/H. Biezais]]
 - [[objektai/grupes/Suomiai]]
 - [[objektai/zodynas/baltų tautų terminas]]

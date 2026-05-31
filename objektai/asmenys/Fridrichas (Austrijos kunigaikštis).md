@@ -107,4 +107,5 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/markgrafas]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/ivykiai/Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.)]]

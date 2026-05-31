@@ -103,4 +103,5 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
 ### Susiję objektai
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/grupes/Sovietų Sąjunga]]
+- [[objektai/zodynas/de facto]]
 - [[objektai/ivykiai/Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)]]

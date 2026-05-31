@@ -76,7 +76,14 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   teiginys: ', Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
   pagrindžia:
     - c-009
-
+- t-010
+  teiginys: 'Bet reformuojamasis seimas dar nespėjo baigti savo darbo, kai Rusija suorganizavo reformų priešų konfederaciją ir, davusi jai savo kariuomenės, viską sugriovė.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Viskas sugrįžo į senąją būklę, o kai kuriais atžvilgiais valstybių atskirumas net dar padidėjo; pav., Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos.'
+  pagrindžia:
+    - c-011
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija.'
@@ -230,10 +237,45 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Bet reformuojamasis seimas dar nespėjo baigti savo darbo, kai Rusija suorganizavo reformų priešų konfederaciją ir, davusi jai savo kariuomenės, viską sugriovė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet reformuoja-
+    masis seimas dar nespėjo baigti savo darbo, kai Rusija suor-
+    ganizavo reformų priešų konfederaciją ir, davusi jai savo ka-
+    riuomenės, viską sugriovė. Ta konfederacija dėl jos akto pa-
+    skelbimo vietos yra vadinama Targovicos konfederacija.
+
+    ##### 4.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Viskas sugrįžo į senąją būklę, o kai kuriais atžvilgiais valstybių atskirumas net dar padidėjo; pav., Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-
+    giais valstybių atskirumas net dar padidėjo; pav., Targovicos
+    konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
+    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
+    Lietuvos ir Lenkijos komisijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
+- [[objektai/grupes/Ketverių metų seimas]]
 - [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Edukacinė Komisija]]
+- [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]

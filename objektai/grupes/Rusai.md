@@ -71,6 +71,18 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginys: 'Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai atsisakydavo mokėti dvasininkams dešimtinę, pelno mokestį ir kitas duokles.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Mūšyje, pirmiausia jo pradžioje, kaip pažymi kronikininkas Vygandas, lietuviai priešą atakavo svaidomosiomis ietimis, o Lietuvos kariai rusai šaudydami iš lankų.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­ nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­ se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­ sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo žmonių kokiu nors.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -229,6 +241,76 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Mūšyje, pirmiausia jo pradžioje, kaip pažymi kronikininkas Vygandas, lietuviai priešą atakavo svaidomosiomis ietimis, o Lietuvos kariai rusai šaudydami iš lankų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    kautynės ko gero
+    įvyko prie kelio Trakai-Strėvininkai-
+    Kaunas, matyt, ties Žiežmarių brasta.
+    Mūšyje, pirmiausia jo pradžioje, kaip pa-
+    žymi kronikininkas Vygandas, lietuviai
+    priešą atakavo svaidomosiomis ietimis, o
+    Lietuvos kariai rusai šaudydami iš lankų.
+    Daug ordino brolių žuvo, tarp jų Gdan-
+    sko komtūras, Sembos vyskupo teisėjas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­ nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­ se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­ sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo žmonių kokiu nors.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tarė­
+    jų nesutarimo atveju pasiliekame aukščiausiąjį sprendimą
+    mums patiems, kadangi turime aukščiausią abiejų luomų
+    sienų tyrimo valdžią.
+    Be to, tuo pačiu raštu skelbiame, kad mums buvo pra­
+    nešta, jog dėl šioje Didžiojoje Kunigaikštystėje mūsų valdo­
+    se gyvenančių rusų ir totorių dvasiškiai patyrė didelę netei­
+    sybę, mat rusai ir totoriai, jei ar iš mūsų, ar iš mūsų tikėjimo
+    žmonių kokiu nors būdu yra įsigiję nuosavybę, atsisako mo­
+    kėti dešimtinę, pelno mokestį ir kitas duokles, kurios mūsų
+    ir kitų mūsų tikėjimo žmonių dvasininkams buvo mokamos,
+    ir jei į svetimą dominiją nepersikeltų, mokėtų. Mes norime,
+    kad, kokio tikėjimo jie būtų - lietuviai, rusai, maskvėnai ar
+    totoriai - visi žmonės, kurie iš mūsų ar mūsų tikėjimą išpa­
+    žįstančių valdinių cesijos ar decesijos būdu, sudarydami
+    kontraktą ar kokią nors sutartį, įsigyja dominijos nuosavybę,
+    401
+
+    ## Puslapis 418
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    nostram profitentibus acquirunt, eadem onera sustineant, in
+    possessionibus acquisitis vėl acquirendis, quae sustinuerunt
+    ii, a quibus eas acquisiverunt, aut acquisituri sunt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Įvairūs lenkų autoriai į jį pažiurėjo kaip
+    į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
+    jos dalis keliais atvejais XVII-XVIII amž. buvo išvertę į rusų kalbą
+    (nuo jų neatsiliko ir ukrainiečiai), tebesidomi Stryjkovskiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
@@ -498,15 +580,257 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - [[objektai/posakiai/„taikdarišką“ ir „tarpininkavimo“ misiją]]
 - [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“|„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)]]
 - [[objektai/posakiai/„Čia nebus Lenkijos“]]
+- [[objektai/daiktai/Lankai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [[objektai/zodynas/dominija]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/ivykiai/1449 m. amžinoji taika su Maskva]]
+- [[objektai/ivykiai/1830-1831 m. sukilimas]]
+- [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
+- [[objektai/autoriai/A. J. Rogov]]
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]
+- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
+- [[objektai/asmenys/Aleksas Jefremovičius]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
+- [[objektai/asmenys/Andrejus Sacharovas]]
+- [[objektai/asmenys/Antanas Mackevičius]]
+- [[objektai/ivykiai/Antrasis valstybės padalijimas]]
+- [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais]]
+- [[objektai/grupes/Aukso orda]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
 - [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]]
+- [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]
+- [[objektai/ivykiai/Bažnyčios ir religinio gyvenimo suvaržymas Muravjovo laikais]]
+- [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
 - [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]]
+- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]
+- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
+- [[objektai/asmenys/Chariničius]]
+- [[objektai/asmenys/Daumantas]]
+- [[objektai/grupes/Didžiojo Naugardo bojarinai]]
+- [[objektai/grupes/Dominikonų ordinas]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/daiktai/Dvikalbiai elementoriai kirilika]]
+- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Eustachijus (raštininkas)]]
+- [[objektai/asmenys/F. Rolandas]]
+- [[objektai/asmenys/Foma]]
+- [[objektai/asmenys/Fotijus]]
+- [[objektai/asmenys/Frankas Kirskorffas]]
+- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius]]
+- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/daiktai/Ginklai ir ginkluotė]]
+- [[objektai/asmenys/Grinevičius]]
+- [[objektai/grupes/Hanza]]
 - [[objektai/autoriai/Hartknoch Ch]]
+- [[objektai/autoriai/Henrikas]]
 - [[objektai/autoriai/Ibrahim ibn Jakūb]]
-- [[objektai/asmenys/Jonas XXII|Jonas XXII (arkivyskupas, XIV a.)]]
+- [[objektai/asmenys/Ignas Balinskis]]
+- [[objektai/autoriai/Isaac Taylor]]
+- [[objektai/asmenys/Ivanas Jermoliničius]]
+- [[objektai/asmenys/Ivanas Rūstusis]]
+- [[objektai/asmenys/Ivanas Vasiljevičius]]
+- [[objektai/asmenys/Joachimas (Pskovo vietininkas)]]
+- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]
+- [[objektai/asmenys/Jokūbas Jasinskis]]
+- [[objektai/asmenys/Jonas (popiežius)]]
+- [[objektai/asmenys/Jonas Basanavičius]]
+- [[objektai/asmenys/Jonas Lonei]]
+- [[objektai/asmenys/Juozas Tumas-Vaižgantas]]
+- [[objektai/asmenys/Jurgis Radvila]]
+- [[objektai/autoriai/K. Hartknochas]]
+- [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]
+- [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]
+- [[objektai/autoriai/Karamzino]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]
+- [[objektai/asmenys/Kazimieras Sapiega]]
+- [[objektai/zodynas/Kašteliono valdžia]]
+- [[objektai/asmenys/Kiščina (Vitebsko vaivadienė)]]
+- [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
+- [[objektai/paprociai/Knygos ir spaudos branginimas nepriklausomoje Lietuvoje]]
+- [[objektai/grupes/Komjaunimas]]
+- [[objektai/asmenys/Kristupas II Radvila]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- [[objektai/grupes/Krymo orda]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kulešinas]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Lietuvių Mokslo Draugija]]
+- [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]
+- [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
+- [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/grupes/Lietuvos konfederacija]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/daiktai/Lietuvos partizanų uniformos]]
 - [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]
+- [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba]]
+- [[objektai/autoriai/Lindenblattas Johannes Lindenblatt]]
+- [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
+- [[objektai/grupes/Livonijos kunigaikštystė]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
+- [[objektai/ivykiai/M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje]]
+- [[objektai/ivykiai/M. Balinskio areštas 1831 m. gegužę]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/grupes/MOPR]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/zodynas/Magdeburgo teisės vokiečių teisės normos]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Maskvos metropolitai]]
+- [[objektai/daiktai/Medžių užtvaros kelyje]]
+- [[objektai/asmenys/Mendli Girėjus]]
+- [[objektai/autoriai/Miechowita]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Mongolai]]
+- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/asmenys/Mykolas Grigaravičius]]
+- [[objektai/autoriai/Mykolas Kleopas Oginskis]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
+- [[objektai/autoriai/N. I. Daškevič]]
+- [[objektai/ivykiai/Napoleono kariuomenės žygis į Lietuvą (1812 m.)]]
+- [[objektai/ivykiai/Nikolajaus II manifesto paskelbimas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų]]
+- [[objektai/asmenys/Nikolajus II]]
 - [[objektai/asmenys/Ninerikas]]
+- [[objektai/zodynas/Notariats instrument notarinis instrumentas]]
+- [[objektai/autoriai/O. Halecki]]
+- [[objektai/asmenys/Ona Balevičiūtė]]
+- [[objektai/autoriai/P. Klimas]]
+- [[objektai/asmenys/P. Virgoličius]]
+- [[objektai/paprociai/Pasalos rengimas kelią užverčiant prikirstais medžiais]]
+- [[objektai/grupes/Petrapilio lietuvių choras]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Pionierių organizacijos]]
+- [[objektai/daiktai/Pirmasis Lietuvos kariuomenės šarvuotis - rusų gamybos FIAT]]
+- [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
+- [[objektai/asmenys/Povilas Sapiega]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Pranciškus Ferdinandas]]
+- [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/asmenys/Rapolovska]]
+- [[objektai/grupes/Rusijos Gvardijos divizija]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/paprociai/Rusų administracijos dokumentų leidyba ir kultūrinės reakcijos stebėsena]]
+- [[objektai/grupes/Rusų pirkliai]]
+- [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]
+- [[objektai/zodynas/Rusų-lietuvių valstybė]]
+- [[objektai/grupes/Rygos, vokiečių ir rusų pirkliai]]
+- [[objektai/asmenys/Saladinas]]
+- [[objektai/ivykiai/Sarajevo atentatas ir Pirmojo pasaulinio karo pradžia]]
 - [[objektai/asmenys/Skomantas]]
+- [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]
+- [[objektai/grupes/Slavofilai]]
+- [[objektai/grupes/Sovietų Sąjunga]]
+- [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/ivykiai/Sukilimo pradžia Žemaitijoje ir išplitimas Lietuvoje]]
+- [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]
+- [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/autoriai/Tadas Korsakas]]
+- [[objektai/asmenys/Tadas Kosciuška]]
+- [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]
+- [[objektai/paprociai/Tautinių mažumų kalbos ir kultūros puoselėjimas ribotos lygybės sąlygomis]]
+- [[objektai/zodynas/Tautinės mažumos]]
+- [[objektai/asmenys/Tautvilas]]
+- [[objektai/asmenys/Teofilis (arkivyskupas)]]
+- [[objektai/asmenys/Tochtamyšas]]
+- [[objektai/grupes/Totorių pajėgos]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/asmenys/V. Krėvė-Mickevičius]]
 - [[objektai/autoriai/V. Pašuta]]
+- [[objektai/asmenys/Vaitiekus Taboras]]
+- [[objektai/asmenys/Vaižgantas]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
+- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
+- [[objektai/ivykiai/Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.)]]
+- [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisių neprigijimas ir karinės valdžios kišimasis]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]
+- [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]
+- [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]
+- [[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
+- [[objektai/ivykiai/Vilniaus vyskupijos seminarijos įkūrimas, Vozgėliškių fundacija ir perdavimas Jėzaus draugijos kolegijai (1582 m. sausio 11 d.)]]
+- [[objektai/asmenys/Vinrichas fon Kniprodė]]
+- [[objektai/grupes/Vokiečių ir rusų pirkliai]]
+- [[objektai/ivykiai/Vyskupo seminarijos įsteigimas iš Vozgėliškių dvaro (1582 m.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas Didysis]]
+- [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]
+- [[objektai/autoriai/Z. Ivinskis|Zenonas Ivinskis]]
+- [[objektai/asmenys/Zigmantas Vaza]]
+- [[objektai/zodynas/administracinė linija]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/grupes/asis šaulių pulko batalionas]]
+- [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]
+- [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/bojarinai]]
+- [[objektai/zodynas/cesija ir decesija]]
+- [[objektai/zodynas/daraktorinės mokyklėlės]]
+- [[objektai/zodynas/etnografinė siena]]
+- [[objektai/zodynas/homo sovieticus]]
+- [[objektai/posakiai/kardinalinės teisės]]
+- [[objektai/zodynas/kirilika]]
+- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]
+- [[objektai/zodynas/legatas]]
+- [[objektai/zodynas/lenkų pradų naikinimo politika istorinio pirmumo teisė]]
+- [[objektai/zodynas/liaudies demokratija]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas metropolija]]
+- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]
+- [[objektai/grupes/oji rezervo divizija]]
 - [[objektai/zodynas/pravoslavai]]
+- [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
+- [[objektai/posakiai/sobiratel’ russkich žemeli]]
+- [[objektai/zodynas/svečiai Svečių namai]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/vyskupijos stalas, personatai ir beneficijos]]
+- [[objektai/zodynas/čiornai čiornyje liūdi]]
+- [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]
+- [[objektai/asmenys/Šach Achmedas]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/daiktai/Žemėlapis „Lituania Propria“]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
+- [[objektai/posakiai/„Lithuania Propria“]]
+- [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]
+- [[objektai/posakiai/„mylintis savo tėvynę... rusas yra internacionalistas...“]]
+- [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]
+- [[objektai/posakiai/„suverenitetų parado“]]
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/zodynas/akcijos]]

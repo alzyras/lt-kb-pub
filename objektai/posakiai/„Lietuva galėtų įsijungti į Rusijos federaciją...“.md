@@ -53,6 +53,7 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/J. Simpsonas]]

@@ -64,5 +64,7 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Lėktuvai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]]
+- [[objektai/grupes/osios oro desanto divizijos 234-asis pulkas]]

@@ -128,9 +128,14 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Respublikonai]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/zodynas/hegemonija]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
 - [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
 - [[objektai/zodynas/indulgencija]]

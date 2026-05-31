@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1582 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1582'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
@@ -72,6 +75,38 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   teiginys: 'Be to, kilnusis, Andrius Vodzinskis, šviesiojo didžiai gerbiamo pono Jurgio, Dievo ma­ lone šventosios Romos bažnyčios presbiterio, kardinolo Rad­ vilos, Vilniaus vyskupijos nuolatinio administratoriaus, Olykos ir Nesvyžiaus kunigaikščio ir mūsų vietininko.'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: 'Jiems vadovavo talentingas karvedys, jau pasižymėjęs kovose su totoriais ir vokiečių ordinu, tuometinis Kijevo vaivada ir LDK taurininkas Jurgis Radvila (vėliau tapęs LDK didžiuoju etmonu).'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'tapyto paveikslo „Oršos mūšis“ fragmentas) Lietuviai persekioja bėgančius rusus Viršuje matyti ir buože užsimojęs lauko etmonas Jurgis Radvila K.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elektorius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas, baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­ tais.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Protasevičiaus pėdomis sekė ir jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­ liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­ kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą dvasiškai jaunuomenei lavintis, vadinamą.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Maždaug tuo metu vienas didžiausių Vil­ niaus namų, iki tol vadintas Kardinalija, statytas kunigaikš­ čio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis, iškilo tarp senų mūrinių namų ir medinių dvarų70.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kurioje ilgai buvo lai­ komos pamaldos, ir pats kurį laiką gyveno, todėl jam duotas Kardinali­ jos vardas.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'manu propria [Vilniaus vyskupas O1y kos kunigaikštis Jurgis Radvila savo ran­ ka].'
+  pagrindžia:
+    - c-019
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -323,8 +358,226 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Jiems vadovavo talentingas karvedys, jau pasižymėjęs kovose su totoriais ir vokiečių ordinu, tuometinis Kijevo vaivada ir LDK taurininkas Jurgis Radvila (vėliau tapęs LDK didžiuoju etmonu).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos pajėgos
+    Lietuvos kariuomenę sudarė Lietuvos ka-
+    riai ir samdiniai iš Lenkijos, samdyti už
+    vasarį įvykusio Lietuvos seimo patvirtintų
+    mokesčių pinigus. Lietuvių pašauktinių ba-
+    jorų susirinko ne mažiau kaip 8000 karių.
+    Jiems vadovavo talentingas karvedys, jau
+    pasižymėjęs kovose su totoriais ir vokie-
+    čių ordinu, tuometinis Kijevo vaivada ir
+    LDK taurininkas Jurgis Radvila (vėliau
+    tapęs LDK didžiuoju etmonu).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'tapyto paveikslo „Oršos mūšis“ fragmentas) Lietuviai persekioja bėgančius rusus Viršuje matyti ir buože užsimojęs lauko etmonas Jurgis Radvila K.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    (XVI a.
+    tapyto paveikslo „Oršos mūšis“
+    fragmentas) Lietuviai persekioja
+    bėgančius rusus
+
+    Viršuje matyti ir buože užsimojęs lauko etmonas Jurgis Radvila
+
+    K. Ostrogiškis
+    duoda ženklą
+    „ artileristams
+
+    atidengti ugnį
+
+    dešiniajame rusų armijos flange.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­ dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elektorius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas, baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­ tais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    —  •  .
+    192
+
+    ## Puslapis 209
+
+    Il KNYGA
+    15. Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
+    dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek-
+    torius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas,
+    baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­
+    tais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Protasevičiaus pėdomis sekė ir jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­ liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­ kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą dvasiškai jaunuomenei lavintis, vadinamą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Neapsiribodamas pavyzdžio verta savo
+    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
+    gė neturtingiems studentams bursą, pavadintą Valerijono
+    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
+    jėzuitų priežiūrai ir globai58. Protasevičiaus pėdomis sekė ir
+    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
+    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
+    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
+    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
+    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
+    kilmingai įvesdintas išlaisvino karalius nuo varginančio
+    57
+    Visas Vilniaus universiteto fundaci­
+    jos privilegijas kartu su atitinkama
+    popiežiaus bule galima perskaityti
+    veikale „Stepono Batoro valdymas",
+    iš Albertrandžio rankraščių, rūpestin­
+    gai profesoriaus Onacevičiaus
+    išleistų Varšuvoje, 1823 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Maždaug tuo metu vienas didžiausių Vil­ niaus namų, iki tol vadintas Kardinalija, statytas kunigaikš­ čio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis, iškilo tarp senų mūrinių namų ir medinių dvarų70.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ## Puslapis 314
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    ir valdant jo pirmtakui, mieste radosi vis didingesnių ir puoš­
+    nesnių pastatų. Maždaug tuo metu vienas didžiausių Vil­
+    niaus namų, iki tol vadintas Kardinalija, statytas kunigaikš­
+    čio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis,
+    iškilo tarp senų mūrinių namų ir medinių dvarų70. Vietoje
+    senosios medinės buvo užbaigta ir pašventinta maža, bet
+    graži Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Kardinolas Radvila dalyje, vadinamoje Goštautų mūru, įrengė koplyčią, kurioje ilgai buvo lai­ komos pamaldos, ir pats kurį laiką gyveno, todėl jam duotas Kardinali­ jos vardas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Marijos Magdalenos baž­
+    nyčios, po dešine ranka Skapo gatvėje
+    ant paties kampo esantį ir vadinamą
+    Skapo vardu". Kardinolas Radvila
+    dalyje, vadinamoje Goštautų mūru,
+    įrengė koplyčią, kurioje ilgai buvo lai­
+    komos pamaldos, ir pats kurį laiką
+    gyveno, todėl jam duotas Kardinali­
+    jos vardas. Vėliau, apie 1601 metus,
+    abu namai - Goštautų ir Filipovo -
+    kartu sujungti Albrechto Radvilos lai­
+    kais, gavo bendrą Kardinalijos pa­
+    vadinimą, išlikusį iki mūsų laikų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Taigi, kai mes, Jurgis Radvila, Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­ nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir funduotos klierikų seminarijos, šioje mūsų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šven­
+    tasis ekumeninis Tridento Sinodas nusprendė, kad norint
+    išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį
+    tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­
+    vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai
+    gyvuojančią seminariją, iš kur jaunuoliai, nuo jaunystės įgi­
+    ję dievobaimingumo, išmokyti geriausių menų, išeitų vyk­
+    dyti bažnytinių pareigų. Taigi, kai mes, Jurgis Radvila,
+    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
+    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
+    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
+    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
+    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
+    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
+    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
+    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
+    lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­
+    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
+    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
+    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
+    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
+    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
+    minėtos kolegijos ir inkorporuota.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'manu propria [Vilniaus vyskupas O1y kos kunigaikštis Jurgis Radvila savo ran­ ka].'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Duo­
+    ta ir aktuota Vilniuje, 1582 metų sau­
+    sio Il dieną], dalyvaujant visai ka­
+    pitulai, su parašu: Georgius Radziwiłł
+    Episcopus Vilnens. Dux Olicae. manu
+    propria [Vilniaus vyskupas O1y kos
+    kunigaikštis Jurgis Radvila savo ran­
+    ka].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/zodynas/koadjutorius]]
+- [[objektai/zodynas/Cechas]]
+- [[objektai/grupes/Goštautai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Tridento Sinodas]]
+- [[objektai/posakiai/Viešpaties vardu Amen]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/tribunolas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas]]
+- [[objektai/daiktai/Kardinalijos namų kompleksas]]

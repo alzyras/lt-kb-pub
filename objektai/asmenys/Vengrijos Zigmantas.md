@@ -53,7 +53,8 @@ Vaclovas tačiau gąsdino, jog ordino pusėje stosiąs jis pats ir jo brolis Ven
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Butrimas]]
+- [[objektai/asmenys/Butrimas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vaclovas]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]

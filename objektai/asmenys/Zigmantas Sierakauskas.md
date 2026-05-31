@@ -163,5 +163,9 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
+- [[objektai/zodynas/palivarkas]]

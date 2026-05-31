@@ -77,11 +77,9 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/posakiai/Kai aš atvykau pas didįjį kunigaikštį]]
 - [[objektai/posakiai/lydimojo rašto]]
 - [[objektai/zodynas/magistras]]

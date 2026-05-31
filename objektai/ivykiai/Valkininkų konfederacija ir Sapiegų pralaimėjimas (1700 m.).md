@@ -7,6 +7,17 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1700 m.'
+  - '1771 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+  - 'XVIII'
+date_start: '1700'
+date_end: '1771'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -58,6 +69,14 @@ Nenurodyta
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-005
+  teiginys: 'Daugelis Sapiegų karių, patekusių į nelaisvę, buvo įtraukti į respublikonų kariuomenę.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -126,8 +145,75 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Daugelis Sapiegų karių, patekusių į nelaisvę, buvo įtraukti į respublikonų kariuomenę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Iš viso mūšyje abiejose pusėse žuvo
+    maždaug po 100-150 karių, pirmuose pra-
+    nešimuose respublikonų nuostoliai buvo
+    nurodomi didesni - apie 300. Daugelis
+    Sapiegų karių, patekusių į nelaisvę, buvo
+    įtraukti į respublikonų kariuomenę.
+
+    1700 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    O LDK bajorijai taip ir nepavyko
+
+    deklaruojamų bajoriškosios lygybės idealų,
+    dėl kurių ji ir pakilo į ginkluotą kovą, pa-
+    versti gyvenimo tikrove. Valkininkų mūšis
+    dažnai siejamas su ilgainiui Lietuvą apė-
+    musios suirutės pradžia, privedusios šalį
+    prie situacijos, kai jos likimą labiau nei ji
+    pati ėmė lemti jos kaimynai.
+
+    ## Puslapis 143
+
+    BEZDEZO (ANTOPOLIO) MUSIS 1771
+
+    Ki
+    | LIETUVOS
+
+    4 DIDŽIOJI |
+
+    I.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Respublikonai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/grupes/Sapiegų kariuomenė]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/autoriai/Arvydas Pociūnas]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
+- [[objektai/autoriai/Gintautas Sliesoriūnas]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]
+- [[objektai/grupes/Valkininkų konfederacija]]
+- [[objektai/autoriai/Vytautas Lesčius]]
 - [[objektai/zodynas/kontribucija]]
+- [[objektai/daiktai/Kardas]]

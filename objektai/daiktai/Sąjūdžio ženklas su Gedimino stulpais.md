@@ -53,6 +53,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 235 Sąjūdžio ženklas su Gedimino stulpais (dail.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,8 +77,32 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 235 Sąjūdžio ženklas su Gedimino stulpais (dail.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Čekoslo-
+    vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
+    ir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    235
+    Sąjūdžio ženklas su Gedimino stulpais
+    (dail. Giedrius Reimeris, Algimantas
+    Nasvytis)
+    Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
+    1939–1940 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

@@ -83,5 +83,13 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Laskis]]
+- [[objektai/asmenys/Jonas Zabžezinskis]]
+- [[objektai/asmenys/Kiška]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/asmenys/Elena]]
+- [[objektai/grupes/Krymo orda]]
+- [[objektai/asmenys/Vaitiekus Taboras]]
 - [[objektai/asmenys/Aleksandras]]

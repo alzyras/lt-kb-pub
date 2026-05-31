@@ -49,6 +49,10 @@ Nenurodyta
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Spėjama, kad partizanų stovyklą išdavė ryšininkas Leonas Juškus-Dangus, atvedęs čekistus tiesiai į Užpelkių miško aikštelę netoli Godų kaimo.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,9 +83,37 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Spėjama, kad partizanų stovyklą išdavė ryšininkas Leonas Juškus-Dangus, atvedęs čekistus tiesiai į Užpelkių miško aikštelę netoli Godų kaimo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Spėjama, kad partizanų sto-
+    vyklą išdavė ryšininkas Leonas
+    Juškus-Dangus, atvedęs čekis-
+    tus tiesiai į Užpelkių miško aikš-
+    telę netoli Godų kaimo.
+    Partizanai pratybose
+
+    sass |
+
+    Prisikėlimo apygardos
+    partizanų antsiuvas,
+    nuo 1949 m. patvirtintas
+    bendru LLKS antsiuvu
+
+    Mūšis
+    Išaušo gražus rugpjūčio 13-osios rytas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Adynos|adynos]]

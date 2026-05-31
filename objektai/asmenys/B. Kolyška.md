@@ -139,4 +139,5 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

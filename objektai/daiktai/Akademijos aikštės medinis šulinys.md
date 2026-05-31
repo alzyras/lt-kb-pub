@@ -82,3 +82,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/buities-daiktas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Rykai]]

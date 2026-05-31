@@ -4,6 +4,8 @@ pavadinimas: '„tautinė pagal formą, socialistinė pagal turinį“'
 sukurta: '2026-05-18'
 variantai: []
 aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []
 periodas: 'Sovietmetis'
 periodo_grupes:
@@ -12,8 +14,6 @@ amziai:
   - 'XX'
 date_start: ''
 date_end: ''
-saltiniai:
-  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'aukstas'
 atnaujinta: '2026-05-18'
 tags:
@@ -45,6 +45,10 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Kultūra plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“ – tautiniais drabužiais vilkintys choristai dainavo apie V.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,7 +73,27 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
     - t-001
     - t-002
     - t-003
+- c-002
+  santrauka: 'Kultūra plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“ – tautiniais drabužiais vilkintys choristai dainavo apie V.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kultūra plėtota pagal sovietų
+    principą „tautinė pagal formą, socialistinė pagal turinį“ – tautiniais dra-
+    bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
+    Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai,
+    o kita dalis buvo skirta tik lietuviškai dainai ar šokiui. Ir kitose kultūros
+    srityse išmokta atiduoti duoklę komunizmui, o toliau kuriamas kad ir ri-
+    botas, bet tautinės kultūros reiškinys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/V. Leninas]]
+- [[objektai/asmenys/Vladimiras Leninas]]
+- [[objektai/daiktai/Drabužiai]]

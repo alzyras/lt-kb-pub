@@ -8,11 +8,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1386 m.'
+  - '1525 m.'
   - '1558 m.'
   - '1579 m.'
   - '1581 m.'
   - '1582 m.'
   - '1583 m.'
+  - '1586 m.'
   - '1587 m.'
   - '1654 m.'
   - '1667 m.'
@@ -26,14 +28,15 @@ datos:
   - '1795 m.'
   - '1830 m.'
   - '1831 m.'
+  - '1897 m.'
+  - '1905 m.'
   - '1918 m.'
-  - '1936 m.'
-  - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
   - 'modernioji Lietuva'
   - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIV'
   - 'XVI'
@@ -43,7 +46,7 @@ amziai:
   - 'XX'
   - 'XXI'
 date_start: '1386'
-date_end: '2026'
+date_end: '1918'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -141,6 +144,54 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginys: '1579 m. iš Vilniaus karalius per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
   pagrindžia:
     - c-019
+- t-021
+  teiginys: 'Vis dėlto Vilniaus, Lietuvos ir Abiejų Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisavinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba „vodką“.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Apšvieta ateina į LDK Nuolatiniai karai su turkais, ypač Maskvos didžiąja kunigaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija netruko pasiekti ir Lietuvos miestus.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusijos finansų krizei.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: '1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 257 roje atskyrimo.'
+  pagrindžia:
+    - c-029
+- t-030
+  teiginys: 'Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį.'
+  pagrindžia:
+    - c-030
+- t-031
+  teiginys: 'Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.'
+  pagrindžia:
+    - c-031
+- t-032
+  teiginys: 'Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų kultūra panašiame laipsnyje tęsėsi porą tūkstančių metų.'
+  pagrindžia:
+    - c-032
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -461,3 +512,251 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+- c-020
+  santrauka: 'Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį iki Dauguvos ir Dniepro.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    buvo pasirašytas visų
+    3 valstybių traktatas; juo kiekvienai buvo numatyta tam tikra
+    dalis, kurias jos tuojau po to ir okupavo.
+    Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį
+    iki Dauguvos ir Dniepro. Tuo būdu Rusijai teko Lat-
+    gala, šiaurinė dalis Polocko vaivadijos su pačiu miestu, beveik
+    visos Vitebsko ir Mstislaulio vaivadijos ir dalis Minsko vaivadi-
+    jos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Vis dėlto Vilniaus, Lietuvos ir Abiejų Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisavinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba „vodką“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vis dėlto Vilniaus, Lietuvos ir Abiejų
+    Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
+    vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
+    „vodką“. Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
+    „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
+    žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo
+    su buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė
+    Rusijos imperatorė Jekaterina II 1791 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Antra vertus,
+    tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
+    visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
+    joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
+    Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
+
+    L I E T U V O S  I S T O R I J A
+    64
+    tiems karaimams, totoriams ir žydams.
+    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
+    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
+    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
+    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
+    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena. Šio karo
+    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
+    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
+    panaikinimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Apšvieta ateina į LDK Nuolatiniai karai su turkais, ypač Maskvos didžiąja kunigaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    rudenį padarė es-
+    minę Spalio 20-osios pataisą, Lietuvai užtikrinančią pusę visų pareigybių
+    valstybės institucijose.
+    Apšvieta ateina į LDK
+    Nuolatiniai karai su turkais, ypač Maskvos didžiąja kuni-
+    gaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos
+    jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.
+    kariškai sustiprėjusios Švedijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ta-
+    čiau pirmasis visuotinis Rusijos
+    imperijos gyventojų surašymas
+    1897 m. parodė, kad tarp etninių
+    lietuvių mokančių skaityti yra be-
+    maž pusė – 48 proc., o rusiškai iš
+    jų tepaskaitė tik kas penktas. Pa-
+    gal raštingumą etniniai lietuviai
+    bemaž du kartus lenkė Rusijos
+    vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai
+    mokėsi gimtąja kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija netruko pasiekti ir Lietuvos miestus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
+    mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
+    demonstracijos, mitingai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusijos finansų krizei.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
+    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
+    laikotarpį.
+    Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
+    jos finansų krizei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruose įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje atiduota 50-čiai metų administruoti SSRS.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
+    se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
+    atiduota 50-čiai metų administruoti SSRS. Demokratinė Rusija, kaip ir
+    Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl
+    nepriklausomybės. Kitą dieną po 1991 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Draugiški valstybių vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Draugiški valstybių vadovų santykiai leido
+    parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį.
+    Abiejų šalių parlamentų pirmininkai – V. Landsbergis ir B. Jelcinas – ją
+    pasirašė 1991 m. liepos 29 d. (įsigaliojo po metų).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: '1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 257 roje atskyrimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės
+    sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū-
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    257
+    roje atskyrimo. Nors Rusija Lietuvai išliko svarbi ekonominė partnerė,
+    artimesni santykiai tarp šių valstybių nesusiklostė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-030
+  santrauka: 'Iš šio miesto 1579 metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Goslickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­ rių chano 1579 ir 1582 metais ir 1579 metais patį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Būdamas arčiausiai karo židinio, Stepono Batoro laikais
+    Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
+    bai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579
+    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
+    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
+    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
+    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
+    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
+    su kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,
+    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
+    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
+    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
+    sipelniusius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-031
+  santrauka: 'Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Skaičiuojant nuo pirmųjų žmogaus pėdsakų
+    ir baigiant istoriniais laikais, kada žilųjų laikų priešistorinius pa­
+    minklus pakeičia rašytieji šaltiniai, priešistoriniai laikai Pabaltijyje
+    apima bent 15-8 tūkstančius metų.
+    Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį,
+    šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų. Jis
+    Pabaltijyje ir artimose srityse paliko dabartinį žemės reljefą (upes
+    ir ežerus, kalvas ir žemumas) su charakteringomis morenomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-032
+  santrauka: 'Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų kultūra panašiame laipsnyje tęsėsi porą tūkstančių metų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jo kaulo ir titnago dirbiniai Lie­
+    tuvos plote yra nepalyginamai geriau pažįstami už paleolito laiko­
+    tarpio palikimą.
+    Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų
+    kultūra panašiame laipsnyje tęsėsi porą tūkstančių metų. Yra
+    duomenų spręsti, kad tose srityse laikėsi vis tos pačios kilmės,
+    stambūs ir plačiaveidžiai vietiniai gyventojai, Crô-Magnon rasės
+    seni europiečiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032

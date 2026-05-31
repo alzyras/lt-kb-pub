@@ -64,4 +64,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/barokas]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas Augustas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

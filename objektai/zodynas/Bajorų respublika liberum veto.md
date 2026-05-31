@@ -74,9 +74,12 @@ Visuomenės agrarinis pobūdis ir miestų silpnumas lėmė, kad Lenkijoje ir Lie
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Liberum veto]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/barokas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]

@@ -75,8 +75,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/asmenys/Mikalojus Radvila]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/grupes/Protestantai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/LDK didikai]]
+- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
+- [[objektai/grupes/Lietuvos evangelikai reformatai]]

@@ -68,3 +68,4 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
+- [[objektai/asmenys/Vladislovas Lokietka]]

@@ -94,4 +94,9 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Latviai]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]

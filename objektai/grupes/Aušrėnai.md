@@ -70,5 +70,6 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 ### Susiję objektai
 - [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »]]
 - [[objektai/grupes/Svebai]]
+- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
 - [[objektai/zodynas/glesum]]
 - [[objektai/daiktai/Šernų amuletai]]

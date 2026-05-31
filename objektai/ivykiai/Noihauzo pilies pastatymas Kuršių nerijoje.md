@@ -90,3 +90,4 @@ Nenurodyta
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

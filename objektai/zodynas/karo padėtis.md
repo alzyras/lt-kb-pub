@@ -64,4 +64,5 @@ tags:
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/ivykiai/Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)]]
+- [[objektai/paprociai/Klaipėdos krašto lietuvinimas per kalbos ir švenčių dalyvavimo nurodymus tarnautojams]]
 - [[objektai/ivykiai/Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)]]

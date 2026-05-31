@@ -53,3 +53,4 @@ Dusburgietis teigia, kad vartislavas įstojo į Teutonų ordiną broliu ir anks�
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Mstivojus]]
 - [[objektai/asmenys/Samboras (Sventopelko sūnus)]]
+- [[objektai/asmenys/Sventopelkas]]

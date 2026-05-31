@@ -125,3 +125,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/rusinimas]]

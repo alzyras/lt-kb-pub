@@ -88,3 +88,16 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]
+- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

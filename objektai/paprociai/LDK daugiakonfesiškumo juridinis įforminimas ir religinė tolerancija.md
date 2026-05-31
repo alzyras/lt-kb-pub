@@ -99,9 +99,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
 - [[objektai/grupes/Karaimai]]
@@ -112,3 +109,4 @@ Nenurodyta
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/grupes/Sentikiai]]
+- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]

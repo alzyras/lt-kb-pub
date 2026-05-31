@@ -46,5 +46,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Adomas (auksakalys)]]
+- [[objektai/asmenys/Adomas Jakštas-Dambrauskas]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Druska]]
+- [[objektai/grupes/Lietuviai]]

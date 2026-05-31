@@ -92,3 +92,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
 - [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
+- [[objektai/grupes/Jotvingiai]]

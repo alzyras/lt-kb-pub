@@ -75,9 +75,14 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Butrimas]]
+- [[objektai/asmenys/Cibulka]]
 - [[objektai/grupes/Daukšių būrys]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]
+- [[objektai/grupes/Valimantaičiai]]
 - [[objektai/asmenys/Vengrijos Zigmantas]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Vaclovas Čekietis]]

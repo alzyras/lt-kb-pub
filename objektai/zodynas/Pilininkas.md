@@ -20,18 +20,18 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 bukle: juodrastis
 laikotarpis: ""
-datos:
-  - "1382 m."
-  - "1385 m."
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XIV"
-date_start: "1382"
-date_end: "1385"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1382 m.'
+  - '1385 m.'
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XIV'
+date_start: '1382'
+date_end: '1385'
 patikimumas: "aukstas"
 atnaujinta: '2026-05-27'
 tags: []
@@ -75,6 +75,10 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -147,11 +151,33 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
   patikimumo_pagrindimas: "Citata tiesiogiai pagrindžia susietą teiginį."
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad kai jie plaukė pro jau minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis, kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį, galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    75).
+
+    Tais pačiais metais, apie šeštines (gegužės 12), brolis Ernekė, Ragainės komtūras,
+    išplaukė, magistro įsakytas,  laivais  link Lietuvos, norėdamas išbandyti kai kurias
+    naujoves, o su juo buvo brolis Jonas iš Vienos ir 25 ginklanešiai. Kai jie plaukė pro jau
+    minėtą Kolainių pilį, Surminas, jos pilininkas, sušaukė pilėnus ir pradėjo su jais tartis,
+    kaip galima būtų apgauti brolius; vieniems pasiūlius vienokį vylių, kitiems — kitokį,
+    galop visi sutarė, kad vienas iš jų, mokąs lenkų kalbą, apsivilktų moteriškais drabužiais,
+    atsistotų Nemuno pakrantėje ir, kai šie plauksią pro šalį, pasiprašytų priimamas į laivą ir
+    šitaip išvaduojamas iš netikėlių nelaisvės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
@@ -160,6 +186,23 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas iš Vienos]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Jonas Hozijus]]
 - [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/Pilininkai kaštelionai seniūnas]]
+- [[objektai/zodynas/Puslapis 67]]
+- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Sarkis]]
+- [[objektai/asmenys/Ulrikas Hozijus]]
+- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
+- [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
 - [[objektai/zodynas/alodas dvaras]]
+- [[objektai/zodynas/trečias grūdas]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/zodynas/Pilininkas capitaneus seniūnas]]

@@ -133,6 +133,34 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   teiginys: 'Apie 1580 m. Vilniuje veikė anksčiau Radvilų, o vėliau jėzuitų spaustuvė.'
   pagrindžia:
     - c-020
+- t-021
+  teiginys: 'Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į Vilnių ir atidavė besikuriančiam jėzuitų universitetui.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti­ nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui mokėti kasmet po 140 auksinų bažnyčios labui.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'O Vilniaus vyskupas Vale­ rijonas Protasevičius, uždegtas kapitulos pastangų, nors su­ tramdo sunkiai atremiamus ginčus, bet matydamas, kad įprastu būdu nieko neįrodys, pirmasis 1569 metais į Vilnių pakviečia jėzuitų ordiną48.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Tai buvo pirmosios aukštesniosios Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kovai su plintančiu protestantizmu.'
+  pagrindžia:
+    - c-027
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -516,7 +544,187 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+- c-021
+  santrauka: 'Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į Vilnių ir atidavė besikuriančiam jėzuitų universitetui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    su Radvilomis ėmė
+    konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė
+    pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką
+    jos pobūdį. Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švietimo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino švietimo sistemą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pradėjo eiti pir-
+    mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
+    Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus
+    vyskupas Ignotas Masalskis) įkūrimas 1773 m. Tai pirmoji Europoje švie-
+    timo ministerijos tipo įstaiga, turėjusi perimti panaikinto jėzuitų ordino
+    švietimo sistemą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti­ nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui mokėti kasmet po 140 auksinų bažnyčios labui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tas mūras per gaisrą in rudera [griuvėsiais] pa­
+    virto.
+    1687. Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti­
+    nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui
+    mokėti kasmet po 140 auksinų bažnyčios labui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Summa facit [suma sudaro] -468 auks.
+    G) Apie kai kuriuos Akademijai ir
+    Valerijono bursai funduotus turtus
+    •
+    1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-
+    tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-
+    davo ir įsteigė įvairių mokslų viešąsias mokyklas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'O Vilniaus vyskupas Vale­ rijonas Protasevičius, uždegtas kapitulos pastangų, nors su­ tramdo sunkiai atremiamus ginčus, bet matydamas, kad įprastu būdu nieko neįrodys, pirmasis 1569 metais į Vilnių pakviečia jėzuitų ordiną48.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    284
+
+    ## Puslapis 301
+
+    IV KNYGA
+    talikų ir kitatikių nuėjus taip toli, vien tik norėdamas palai­
+    kyti ramybę savo krašte ir užbėgti už akių piktnaudžiavi­
+    mams, pirmųjų kartais nereikalingą uolumą stengėsi pristab­
+    dyti, o antrųjų - pažinti tikslus, reformą veikiau palikdamas
+    savieigai, negu jai padėdamas47. O Vilniaus vyskupas Vale­
+    rijonas Protasevičius, uždegtas kapitulos pastangų, nors su­
+    tramdo sunkiai atremiamus ginčus, bet matydamas, kad
+    įprastu būdu nieko neįrodys, pirmasis 1569 metais į Vilnių
+    pakviečia jėzuitų ordiną48. Šio įžymaus ordino, pagarsėju­
+    sio talentais, mokslu ir jam būdingu gudrumu, įsitvirtini­
+    mas Lietuvos sostinėje laikui bėgant pagrindė daugelį reikš­
+    mingų faktų, kurie padarė stiprią įtaką viso krašto likimui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    290
+
+    ## Puslapis 307
+
+    IV KNYGA
+    žvangant ginklams, nesiliaujant kariniams pasitarimams,
+    viešą pagarbą atiduoda mokslui. Vyskupo Protasevičiaus
+    funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
+    kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­
+    rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai
+    išleisti dekretai57. Neapsiribodamas pavyzdžio verta savo
+    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
+    gė neturtingiems studentams bursą, pavadintą Valerijono
+    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
+    jėzuitų priežiūrai ir globai58.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Tai buvo pirmosios aukštesniosios Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kovai su plintančiu protestantizmu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tai buvo pirmosios aukštesniosios
+
+    Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija,
+    1540 m. įkurta kovai su plintančiu protestantizmu. Jėzuitai greit
+    išgarsėjo savo veiklumu ir paplito visoje Europoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
+### Susiję objektai
+- [[objektai/asmenys/Adomas (auksakalys)]]
+- [[objektai/asmenys/Albinas (Vilniaus sufraganas)]]
+- [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Danielius]]
+- [[objektai/grupes/Edukacinė Komisija]]
+- [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/zodynas/Jus Patronatus]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Mykolas Balinskis]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Tšecieskis]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/bursa]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/kitatikiai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/zodynas/protestantizmas]]
+- [[objektai/asmenys/Ignotas Masalskis]]
+- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
+- [[objektai/ivykiai/Jėzuitų kolegijos pakėlimas į universitetą Vilniuje (1579 m. balandžio 1 d.)]]
+- [[objektai/ivykiai/Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas]]
+- [[objektai/autoriai/Kazimieras Semenavičius]]
+- [[objektai/grupes/Mamoničių giminė]]
+- [[objektai/grupes/Vilniaus jėzuitų kolegija]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

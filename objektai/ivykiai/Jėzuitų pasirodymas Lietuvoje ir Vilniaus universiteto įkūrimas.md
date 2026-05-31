@@ -55,3 +55,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/autoriai/Kazimieras Semenavičius]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

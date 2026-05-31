@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '1920 m.'
+  - '1940 m.'
+  - '1945 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1918'
+date_end: '1945'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -53,6 +66,14 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   teiginys: 'Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Jį, „pasipuošusį“ raudonomis vėliavomis, išmargintomis įvairiais šūkiais Lietuvių pajėgos Lietuvos kariuomenės kario kokarda Lietuvos karinė vadovybė turėjo žinių, kad Raudonoji armija planuoja pulti Kauną iš pietų.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -173,3 +194,71 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dėl mokslo politizavimo, nuolatinės valdžios
+    kontrolės, izoliacijos nuo Vakarų pasaulio, dėstytojų kadrų politikos, ne-
+    paisant didelio kiekybinio šuolio, mokymo lygis sovietų laikais švietimo
+    įstaigose buvo žemesnis nei prieškario Lietuvoje.
+    Lietuvos diplomatinė tarnyba ir išeivija
+    Baigiantis Antrajam pasauliniam karui, bijodami artėjan-
+    čios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos
+    gyventojų pasitraukė į Vakarus. Įvairiais duomenimis, 1945 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Jį, „pasipuošusį“ raudonomis vėliavomis, išmargintomis įvairiais šūkiais Lietuvių pajėgos Lietuvos kariuomenės kario kokarda Lietuvos karinė vadovybė turėjo žinių, kad Raudonoji armija planuoja pulti Kauną iš pietų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    buvo išrikiuotas prie Vilniaus apygardos
+    teismo rūmų. Jį, „pasipuošusį“ raudonomis
+    vėliavomis, išmargintomis įvairiais šūkiais
+
+    Lietuvių pajėgos
+
+    Lietuvos
+    kariuomenės
+    kario kokarda
+
+    Lietuvos karinė vadovybė turėjo žinių,
+    kad Raudonoji armija planuoja pulti
+
+    Kauną iš pietų. Todėl jau vasario pirmo-
+    siomis dienomis į Jiezno apylinkes buvo
+    pasiuntusi raitųjų žvalgų padalinį, kuris ir
+    turėjo minėtą kontaktą su miestelį uži-
+    mančiais bolševikais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Augustinas]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/homo sovieticus]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/ivykiai/Lietuvos kariuomenės pertvarkymas į Liaudies kariuomenę ir Šaulių sąjungos veiklos sustabdymas (1940 m. liepos 3-11 d.)]]
+- [[objektai/asmenys/Vladimiras Leninas]]
+- [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]

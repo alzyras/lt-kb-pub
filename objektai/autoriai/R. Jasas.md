@@ -97,3 +97,13 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

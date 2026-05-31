@@ -46,4 +46,5 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusėnai]]
+- [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
 - [[objektai/zodynas/metrika]]

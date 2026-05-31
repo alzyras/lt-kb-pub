@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1915 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XX'
+date_start: '1915'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -45,6 +54,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios Lietuvos koziriu bandydami jį internacionalizuoti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,8 +92,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios Lietuvos koziriu bandydami jį internacionalizuoti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo
+    etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios
+    Lietuvos koziriu bandydami jį internacionalizuoti.
+    Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
+    nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-
+    vasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o
+    rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
+    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
+    kariuomenių kontroliuojamoje zonoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

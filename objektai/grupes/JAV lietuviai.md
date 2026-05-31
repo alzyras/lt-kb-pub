@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1917 m.'
+  - '1918 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XX'
+date_start: '1917'
+date_end: '1918'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -37,6 +48,14 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   teiginys: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: '1918 m. kovą įtakingiausios JAV 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 135 lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose pareikalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių konferencijose.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,12 +117,64 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '1918 m. kovą įtakingiausios JAV 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 135 lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose pareikalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių konferencijose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1918 m. kovą įtakingiausios JAV
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    135
+    lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose parei-
+    kalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių
+    konferencijose Šveicarijoje, sustiprėjo užsienio lietuvių centrų ir Lietuvos
+    organizacijų veiklos koordinacija.
+    1918 metų Vasario 16 Aktas
+    1917 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lie-
+    tuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje. Pirmais neprik­
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    151
+    lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę,
+    pradėjo verslus, atidarė pramonės įmones, bankus. T. Naruševičius,
+    Bronius Balutis, Jonas Žilius, Jonas Šliūpas, Steponas Darius ir kiti tapo
+    žinomais visuomenės veikėjais, diplomatais, kariškiais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Darius]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/asmenys/Georgas Zauerveinas]]
+- [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
 - [[objektai/asmenys/Juozas Gabrys-Paršaitis]]
 - [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]
+- [[objektai/ivykiai/Pirmojo vietos lietuviško laikraščio JAV išėjimas]]
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
+- [[objektai/posakiai/„Lietuviais esame mes gimę...“]]
+- [[objektai/asmenys/Vudrau Vilsonas]]

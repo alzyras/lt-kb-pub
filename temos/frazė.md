@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 10.
+Objektų skaičius: 12.
 
 ## Kaip naudoti
 
@@ -17,6 +17,9 @@ Objektų skaičius: 10.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Autoriai
+- [[objektai/autoriai/J. G. Vachteris Wächter]]
 
 ### Papročiai
 - [[objektai/paprociai/Aukso laisvės ideologija]]
@@ -30,4 +33,5 @@ Objektų skaičius: 10.
 - [[objektai/posakiai/Respublika laikosi netvarka]]
 - [[objektai/posakiai/Vilnius - tai gyva senosios Lietuvos kronika]]
 - [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku]]
+- [[objektai/posakiai/« Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai. »]]
 - [[objektai/posakiai/„mylintis savo tėvynę... rusas yra internacionalistas...“]]

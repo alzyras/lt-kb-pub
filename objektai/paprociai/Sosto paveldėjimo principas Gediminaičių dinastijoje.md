@@ -78,4 +78,5 @@ Nenurodyta
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Butvydas]]
 - [[objektai/asmenys/Mindaugas]]

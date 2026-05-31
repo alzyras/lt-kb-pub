@@ -16,12 +16,16 @@ vaidmenys:
   - 'vyskupas'
 dalyviai: []
 susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1569 m.'
+  - '1582 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1569'
+date_end: '1582'
 patikimumas: aukštas
 atnaujinta: '2026-05-14'
 tags:
@@ -95,6 +99,27 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   teiginys: 'Valerijonas Protasevičius fundavo Vilniaus jėzuitų kolegiją.'
   pagrindžia:
     - c-013
+- t-024
+  teiginys: 'G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
+  pagrindžia:
+    - c-014
+- t-025
+  teiginys: 'Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57.'
+  pagrindžia:
+    - c-015
+- t-026
+  teiginys: 'Tėvas ponas Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos įtraukti į sutartį.'
+  pagrindžia:
+    - c-016
+- t-027
+  teiginys: 'Bet negalime karštai negirti to paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­ žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo, kad su ja nesutiktume, ir šio dalyko paliudijimą.'
+  pagrindžia:
+    - c-017
+- t-028
+  teiginys: 'Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS STEPONO BATORO PRIVILEGIJA, KURIA ALANTOS DVARAS, ESANTIS UKMERGĖS PAVIETE, PO IŠDAVIKO GRIGALIAUS ASTIKO DOVANOJAMAS GABRIELIUI BEKEŠUI.'
+  pagrindžia:
+    - c-018
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Valerijonas Protasevičius buvo Vilniaus vyskupas.'
@@ -355,6 +380,150 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-023
+- c-014
+  santrauka: 'G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Summa facit [suma sudaro] -468 auks.
+    G) Apie kai kuriuos Akademijai ir
+    Valerijono bursai funduotus turtus
+    •
+    1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Pro-
+    tasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fun-
+    davo ir įsteigė įvairių mokslų viešąsias mokyklas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-015
+  santrauka: 'Vyskupo Protasevičiaus funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­ kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­ rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai išleisti dekretai57.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vyskupo Protasevičiaus
+    funduotą ir tinkamai aprūpintą jėzuitų kolegiją karalius pa­
+    kelia iki universiteto laipsnio, tą rodo ir, nepaisant kai ku­
+    rių senatorių priešinimosi, balandžio 1-ą dieną iškilmingai
+    išleisti dekretai57. Neapsiribodamas pavyzdžio verta savo
+    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
+    gė neturtingiems studentams bursą, pavadintą Valerijono
+    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
+    jėzuitų priežiūrai ir globai58. Protasevičiaus pėdomis sekė ir
+    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
+    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
+    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
+    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-016
+  santrauka: 'Tėvas ponas Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos įtraukti į sutartį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiuo raštu skelbiame vi­
+    siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
+    triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­
+    utonų ordino Livonijoje magistras, vildamasis mūsų
+    ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­
+    das ir, jei juos imtumėmės ginti, pažadėjo mums perduoti
+    kai kurias pilis ir apskritis, tačiau su konkrečiomis abiejų
+    pusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­
+    mis. Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­
+    rie mums su pačiomis apskritimis atitektų, šventomis apei­
+    gomis, taip pat su papročiais ir ypač religija, išpažįstančia
+    Augustino tikėjimą, leistume laisvai naudotis. Tėvas ponas
+    Valerijonas, Vilniaus vyskupas, vykdydamas savo prievolę
+    ir pareigas, paprieštaravo, kad neturėtumėme šios sąlygos
+    įtraukti į sutartį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-017
+  santrauka: 'Bet negalime karštai negirti to paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­ žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo, kad su ja nesutiktume, ir šio dalyko paliudijimą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taigi mes nusprendėme taip ir padaryti,
+    juolab kad šios apskritys mums turi būti perduotos tiktai
+    užstato, o ne dominijos teise. Bet negalime karštai negirti to
+    paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­
+    žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai
+    šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo,
+    kad su ja nesutiktume, ir šio dalyko paliudijimą jam norėjo­
+    me suteikti ir suteikiame šiuo mūsų raštu, visiems išaiški­
+    nančiu, kad jo Prakilnybė nieko, kas išmintingam senato­
+    riui ir pamaldžiam bei mūsų išganymu besirūpinančiam
+    ganytojui ir vyskupui pagal tikėjimą galėjo priklausyti, šiuo
+    reikalu nepraleido. Jo Prakilnybė nenorėjo priesaika įsipa­
+    reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja
+    katalikų tikėjimui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-018
+  santrauka: 'Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS STEPONO BATORO PRIVILEGIJA, KURIA ALANTOS DVARAS, ESANTIS UKMERGĖS PAVIETE, PO IŠDAVIKO GRIGALIAUS ASTIKO DOVANOJAMAS GABRIELIUI BEKEŠUI.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    -- •
+    418
+
+    ## Puslapis 435
+
+    IV  KNYGA
+    norime, kad po mūsų mirties keturis kartus per metus į mū­
+    sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­
+    čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­
+    tas, vieną tik to metų ketvirčio dieną, penktadienį, kiekvienas
+    ateitų ir, koncelebruojant prie to paties altoriaus mūsų ku­
+    nigui, kuriam ir priklauso tas altorius, dalyvautų gedulin­
+    gose mišiose, laikomose už Bursos įkūrėjo sielą, ir šią šven­
+    tą ir krikščionišką pareigą atliktų kiekvienais metais. Aktuota
+    ir duota Vilniuje, mūsų vyskupijos kurijoje bei įprastos mū­
+    sų rezidencijos name pirmadienį, po Velykų sekmadienio,
+    tūkstantis penki šimtai septyniasdešimt devintaisiais metais
+    nuo Kristaus gimimo. Šalia dalyvaujant didžiai gerbia­
+    miems, garbiesiems, prakilniesiems ir kilmingiesiems po­
+    nams dekanui Jonui Jarčevskiui, kantoriui Simonui iš Bže-
+    zinos, mūsų Vilniaus katedros bažnyčios prelatams ir
+    kanauninkams - Laurynui Volskiui, Tomui Makoveckiui,
+    Vilniaus Jėzaus Draugijos kolegijos Rektoriui tėvui Jokūbui
+    Vagronicijui, pamokslininkui Petrui Skargai, šventovės pre­
+    fektui Mykolui Sedkovskiui, abiejų teisių daktarui, karališ­
+    kajam sekretoriui, Stakliškių seniūnui, karališkojo Vilniaus
+    miesto advokatui Augustinui Rotundui Mieleskiui, mūsų
+    Vilniaus miesto piliečių advokatui, Igumenio urėdui Jonui
+    Podoskiui, mūsų virtuvininkui Motiejui Volskiui ir kitiems
+    ponams draugams ir mūsų šeimynykščiams.
+    Vyskupas Valerijonas savo ranka
+    419
+
+    ## Puslapis 436
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    KARALIAUS STEPONO BATORO PRIVILEGIJA,
+    KURIA ALANTOS DVARAS, ESANTIS UKMERGĖS PAVIETE,
+    PO IŠDAVIKO GRIGALIAUS ASTIKO
+    DOVANOJAMAS GABRIELIUI BEKEŠUI.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -365,3 +534,30 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
+- [[objektai/daiktai/Altorius]]
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Augustinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Protestantai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/bursa]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/dominija]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/urėdas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje]]
+- [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]]
+- [[objektai/asmenys/Kotryna Jogailaitė]]
+- [[objektai/asmenys/Žygimantas Augustas]]

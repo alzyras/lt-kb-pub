@@ -70,5 +70,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/žygis]]

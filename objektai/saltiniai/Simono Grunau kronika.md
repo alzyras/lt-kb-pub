@@ -10,9 +10,12 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1500 m.'
+  - '1521 m.'
+  - '1529 m.'
   - '1699 m.'
-periodas: ''
-periodo_grupes: []
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XV'
   - 'XVI'
@@ -62,6 +65,10 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   teiginys: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
   pagrindžia:
     - c-002
+- t-012
+  teiginys: 'Dusburgietis teigia, kad per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -83,6 +90,21 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-003
+  santrauka: 'Dusburgietis teigia, kad per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Per Dlugošą Dusburgiečio kronikos faktus panaudojo kai kurie vėlesni autoriai. XVI a.
+    3-ame dešimtmetyje Simonas Grunau Prūsijoje parašė (išplėsdamas 1-ąją dominikonų
+    redakciją, rašytą po 1521 m.) pirmąją ir išsamiausią visos Prūsijos istoriją (nuo legendinių
+    laikų iki 1529 m.), kurioje plačiai remiamasi ir Petru iš Dusburgo81.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Bibliografiniai įrodymai
 - c-001

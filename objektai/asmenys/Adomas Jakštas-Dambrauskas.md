@@ -48,3 +48,5 @@ tags:
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/litvomanija]]
+- [[objektai/posakiai/„Lietuvos žemės druska“]]

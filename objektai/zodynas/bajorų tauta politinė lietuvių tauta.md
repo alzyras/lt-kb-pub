@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -33,7 +39,10 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.'
@@ -66,10 +75,34 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų ūkyje – cechai, edukacijoje – europinė švietimo sistema.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuosavybės santykiuose susiformuoja leno teisė, socia-
+    linėje ūkinėje struktūroje – riterio dvaras (feodas) ir baudžiava, politinėje
+    ir socialinėje struktūroje – bajorų luomas ir luominė monarchija, miestų
+    ūkyje – cechai, edukacijoje – europinė švietimo sistema (katedrinės mo-
+    kyklos ir jų triviumas, kolegijos ir universitetas). Krikščioniškasis men-
+    talitetas įsigali bent jau tarp visuomenės elito (antemurale christianita-
+    tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
+    susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
+    Christianizacija ir šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/Kilmingieji]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/christianizacija]]
+- [[objektai/zodynas/lenas]]
+- [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

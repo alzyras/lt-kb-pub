@@ -85,4 +85,6 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas. Ložė „Uolusis
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/grupes/Ložė Uolusis Lietuvis]]

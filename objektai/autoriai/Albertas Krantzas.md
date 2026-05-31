@@ -11,16 +11,19 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "Kronikininkų tradicijos paminėjimų kontekstas"
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys:
   - autorius
   - metraštininkas
 susije_irasai: []
+datos:
+  - '1006 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XI'
+date_start: '1006'
+date_end: ''
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags:
@@ -45,7 +48,10 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'p. 1006), Alberto Krantzo (Wandal.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu.'
@@ -80,7 +86,25 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
   patikimumo_pagrindimas: "Citata pateikia Krantzo priskiriamą pasakojimo versiją."
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'p. 1006), Alberto Krantzo (Wandal.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tas pareiškimas prieštarauja Koje-
+    1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),
+    Alberto Krantzo (Wandal. L. VIII, c. 9) teiginiams, esą
+    Gediminas buvo prisiekęs, kad nori gyventi ir mirti savo
+    tėvų tikėjimą išpažindamas!
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio]]
+- [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]
+- [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]

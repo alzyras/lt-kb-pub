@@ -70,7 +70,14 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
   teiginys: '„Vidurinės Lietuvos“ prasmę galima suvokti tik turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės vadinamos „Minsko“, arba „rusėnų“, Lietuva.'
   pagrindžia:
     - c-004
-
+- t-014
+  teiginys: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
+  pagrindžia:
+    - c-005
+- t-015
+  teiginys: 'Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Į rytus nuo Vidurinės Lietuvos senosios rusėniškosios LDK žemės buvo vadinamos Minsko arba rusėnų Lietuva.'
@@ -133,7 +140,42 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
-
+- c-005
+  santrauka: 'Remiantis tokia lenkiška Lietuvos samprata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių tarmė – lietuvių kalba.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Remiantis tokia lenkiška Lietuvos sam-
+    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
+    tarmė – lietuvių kalba. „Vidurinės Lietuvos“ prasmę galima suvokti tik
+    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
+    dinamos „Minsko“, arba „rusėnų“, Lietuva. Ši trijų dalių Lietuvos sampra-
+    ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,
+    nebeatitinkanti istorinės tikrovės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-006
+  santrauka: 'Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vidurinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Liucijano
+    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
+    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
+    Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
+    pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
+    valstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos
+    valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 ## Šaltiniai ir įrodymai
 
 ## Pastabos

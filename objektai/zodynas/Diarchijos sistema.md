@@ -54,3 +54,4 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/diarchija]]
+- [[objektai/autoriai/L. Kolankowski]]

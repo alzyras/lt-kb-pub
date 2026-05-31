@@ -7,11 +7,14 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1347 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1347'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -45,6 +48,10 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: '1347 m. vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą, sunaikino jo papilį.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -103,3 +110,21 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-004
+  santrauka: '1347 m. vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bartos žemę iki Girdavų pilies, apgulė Lunenburgą, sunaikino jo papilį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1347 m. vasarį „abu lietuvių karaliai“
+    puolė Prūsijoje Rastenburgą, niokojo
+    Bartos žemę iki Girdavų pilies, apgulė
+    Lunenburgą, sunaikino jo papilį.
+
+    Nuo lietuvių puolimo Ordinas bandė sau-
+    goti Sembą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

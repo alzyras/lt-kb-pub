@@ -82,5 +82,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
 - [[objektai/zodynas/knygnešystė]]
 - [[objektai/zodynas/knygnešystė knygnešiai]]

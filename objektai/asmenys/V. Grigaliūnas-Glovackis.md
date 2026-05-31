@@ -156,6 +156,9 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/1-asis pėstininkų pulkas]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
+- [[objektai/grupes/Bermontininkai]]
 - [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/rezervas]]

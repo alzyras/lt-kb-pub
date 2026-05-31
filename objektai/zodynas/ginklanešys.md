@@ -48,6 +48,10 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   teiginys: 'Dusburgietis teigia, kad apie Skalvių pilies puolimą 1293 Vienas šios kariuomenės ginklanešys iš Ragainės, gimęs Bartos žemėje, slapčiomis pabėgo; šis pragaro sūnus, atėjęs pas lietuvių karalių, pasisiūlė, laiduodamas galva, perduoti jam Skalvių pilį.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei ginklanešių, jie patraukė prie Pieštvės.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešiais, daug jų nukovė ar mirtinai sužeidė, o kiti gėdingai pabėgo.'
@@ -135,6 +139,26 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei ginklanešių, jie patraukė prie Pieštvės.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    257 (250). Apie Pieštvės pilėnų apiplėšimą 1294
+
+       Tais pačiais metais brolis Ditrichas iš Ezbeko, brolis Otonas iš Bergo ir brolis Otonas
+    iš Cedlico buvo pasiųsti su 300 vyrų saugoti Ragainės pilies; iš ten pasiėmę brolių bei
+    ginklanešių, jie patraukė prie Pieštvės pilies, kur pagrobė visą galvijų kaimenę; nužudę
+    daug netikėlių, 70 žmonių išsivarė į nelaisvę.
+
+
+      541 D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -146,12 +170,18 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Markvardas iš Revelingės]]
+- [[objektai/asmenys/Otonas]]
+- [[objektai/asmenys/Otonas iš Bergo]]
+- [[objektai/asmenys/Otonas iš Cedlico]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]]
 - [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
+- [[objektai/ivykiai/Pieštvės pilėnų apiplėšimas (1294 m.)]]
 - [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/ivykiai/Sūduvių žygis į Notangą ir jų išblaškymas]]

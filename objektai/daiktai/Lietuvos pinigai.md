@@ -9,22 +9,23 @@ saltiniai:
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: XIV—XVIII a.
-datos:
-  - 1387 m.
-  - 1706—1707 m.
-periodas: ""
-periodo_grupes: []
-amziai:
-  - XIV
-  - XV
-  - XVI
-  - XVII
-  - XVIII
-date_start: '1387'
-date_end: '1707'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1387 m.'
+  - '1706 m.'
+  - '1707 m.'
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XVII'
+  - 'XVIII'
+date_start: '1387'
+date_end: '1707'
 patikimumas: aukstas
 atnaujinta: '2026-04-24'
 tags:
@@ -180,6 +181,18 @@ Nenurodyta
   teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
   pagrindžia:
     - c-024
+- t-023
+  teiginys: 'Šis pareikalavo, kad totoriai pripažintų jį savo tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­ se.'
+  pagrindžia:
+    - c-025
+- t-024
+  teiginys: 'Viename Jogailos ir Vytauto dokumen­ te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­ dabriniais pinigais; matyt, grašiais arba denariukais.'
+  pagrindžia:
+    - c-026
+- t-025
+  teiginys: 'Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai nėjo, nes palaikė Ordiną.'
+  pagrindžia:
+    - c-027
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -575,13 +588,90 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-022
+- c-025
+  santrauka: 'Šis pareikalavo, kad totoriai pripažintų jį savo tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­ se.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kad išloštų laiką, Edyga pradėjo su Vy­
+    tautu derėtis. Šis pareikalavo, kad totoriai pripažintų jį savo
+    tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
+    se. Jiems besideriant atvyko ir Timur-Kotlogas ir atmetė
+    Vytauto sąlygas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-026
+  santrauka: 'Viename Jogailos ir Vytauto dokumen­ te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­ dabriniais pinigais; matyt, grašiais arba denariukais.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Viename Jogailos ir Vytauto dokumen­
+    te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
+    dabriniais pinigais; matyt, grašiais arba denariukais. Vytau­
+    tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­
+    tei pašalpą, mokėjo jai lietuviškais grašiais (latorum gros-
+    sorum^1 ).
+    Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
+    tribucijomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-027
+  santrauka: 'Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai nėjo, nes palaikė Ordiną.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas dar davė
+    Jogailai 20.000 kapų grašių kariuomenei užsieniuose samdyti.
+    Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai
+    nėjo, nes palaikė Ordiną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro pinigai]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Edyga]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/grupes/Steigiamasis seimas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/zodynas/litas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/rublis]]
+- [[objektai/zodynas/urėdas]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Zigmantas Augustas]]
+- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]
+- [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]
+- [[objektai/zodynas/denariukas]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/zodynas/ostmarkės auksinai]]

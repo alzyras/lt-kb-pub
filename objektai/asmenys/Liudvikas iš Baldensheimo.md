@@ -51,6 +51,8 @@ Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/ivykiai/Brolio Ulricho laivų kautynės ir 50 prūsų žūtis]]

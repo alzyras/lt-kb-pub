@@ -53,4 +53,5 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/organas]]
+- [[objektai/grupes/Amerikos Lietuvių Katalikų Federacija]]
 - [[objektai/grupes/Lietuvos Vyčių Sąjunga]]

@@ -9,18 +9,18 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: ""
-datos:
-  - "1324 m."
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIV"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1324 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1324'
+date_end: ''
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-27'
 tags: []
@@ -67,7 +67,10 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: '[mūsų tėvu garbingiausiu, švenčiausiu, aukščiausiu ir kt.] pavadina, kitais metais liepia popiežiaus pasiuntiniams pasakyti: Papam vestrum nec novi, nec nosse cu­ pio [jūsų tėvo nei pažinojau, nei trokštu pažinti].'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata pateikia Krantzo atribuciją, lietuvišką prasmę ir pastabą apie ginčijamą priskyrimą.
@@ -116,9 +119,25 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   pagrindžia:
     - t-002
     - t-003
+- c-003
+  santrauka: '[mūsų tėvu garbingiausiu, švenčiausiu, aukščiausiu ir kt.] pavadina, kitais metais liepia popiežiaus pasiuntiniams pasakyti: Papam vestrum nec novi, nec nosse cu­ pio [jūsų tėvo nei pažinojau, nei trokštu pažinti].'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir kai čia jį patrem nostrum gloriosissimum, sanctissimum,
+    excellentissimum etc. [mūsų tėvu garbingiausiu, švenčiausiu,
+    aukščiausiu ir kt.] pavadina, kitais metais liepia popiežiaus
+    pasiuntiniams pasakyti: Papam vestrum nec novi, nec nosse cu­
+    pio [jūsų tėvo nei pažinojau, nei trokštu pažinti].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Albertas Krantzas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/autoriai/Albertas Krantzas]]

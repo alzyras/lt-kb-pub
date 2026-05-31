@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1917 m.'
+  - '1918 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XX'
+date_start: '1917'
+date_end: '1918'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -33,9 +44,28 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
-
+- c-003
+  santrauka: 'Žinoma, Vokietijai ši rezoliucija pravertė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias Lietuvos Tarybos delegacija net nebuvo pakviesta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žinoma, Vokietijai ši rezoliucija praver-
+    tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
+    Lietuvos Tarybos delegacija net nebuvo pakviesta.
+    Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
+    11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
+    skilo ir pati Taryba. 1918 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Gruodžio 11-osios rezoliucijos projektą Oberostas pateikė Tarybos prezidiumui, kuris jį pataisė ir grąžino karinei administracijai kaip priimtą.'

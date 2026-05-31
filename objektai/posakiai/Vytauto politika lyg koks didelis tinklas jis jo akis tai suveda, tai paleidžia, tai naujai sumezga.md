@@ -30,7 +30,10 @@ Jei Vytautas delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie�
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirsdavo laiko gaišinimu.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytauto politika lyginama su dideliu tinklu, kurio akis jis suveda, paleidžia ir naujai sumezga.'
@@ -49,7 +52,25 @@ Jei Vytautas delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jo veiksmuose dažnai pasireikšdavo didelis atsargu­ mas, kuris tačiau nevirsdavo laiko gaišinimu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jo veiksmuose dažnai pasireikšdavo didelis atsargu­
+    mas, kuris tačiau nevirsdavo laiko gaišinimu. Jei Vytautas
+    delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie­
+    šus nusileisti, arba stengiasi sudaryti kokią naują kombinaciją.
+    Vytauto politika lyg koks didelis tinklas: jis jo akis tai suveda,
+    tai paleidžia, tai naujai sumezga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/posakiai/„Vytauto politika lyg koks didelis tinklas...“]]

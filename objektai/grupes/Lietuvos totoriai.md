@@ -44,7 +44,10 @@ tags:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: ') aprašymo apie kazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos valdovas moka atlygį.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos totoriai šiame sparne buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
@@ -106,12 +109,39 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: ') aprašymo apie kazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos valdovas moka atlygį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ) aprašymo apie
+    kazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos
+
+    valdovas moka atlygį.
+
+    Rytietiška strėlinė.
+    Tokias strėlines naudo-
+    davo Lietuvos totoriai
+
+    ir kita Lietuvos lengvoji
+
+    „Rengiasi jie beveik taip pat kaip totoriai, ir ginkluoti taip pat - lanku,
+    kardu ir skydu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fulvio Ruggieri]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kazokai]]
+- [[objektai/asmenys/Machmetas]]
+- [[objektai/daiktai/Skydas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/husarai]]
@@ -120,4 +150,3 @@ tags:
 - [[objektai/asmenys/M. Vaina]]
 - [[objektai/zodynas/Mahometoniškas tikėjimas]]
 - [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
-- [[objektai/daiktai/Skydas]]

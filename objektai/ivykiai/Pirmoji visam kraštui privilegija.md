@@ -66,7 +66,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/privilegija]]
 - [[temos/ritualas]]
 
 ### Susiję objektai

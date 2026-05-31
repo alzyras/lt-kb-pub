@@ -126,5 +126,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/unija]]

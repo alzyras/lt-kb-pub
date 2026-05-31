@@ -60,3 +60,4 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/„Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu“]]

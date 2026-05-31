@@ -75,6 +75,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/daiktai/Kalavijai]]
+- [[objektai/daiktai/Lietuvos akmens amžiaus dirbiniai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/zodynas/žalvario amžius]]

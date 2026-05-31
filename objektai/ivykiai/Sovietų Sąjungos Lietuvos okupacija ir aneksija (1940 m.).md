@@ -81,3 +81,18 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/daiktai/Lėktuvai]]
+- [[objektai/grupes/MINTIS]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Sovietų Sąjunga]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“]]
+- [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
+- [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika]]
+- [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m.)]]
+- [[objektai/zodynas/liaudies demokratija]]

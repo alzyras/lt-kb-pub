@@ -84,5 +84,7 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 ### Susiję objektai
 - [[objektai/zodynas/lenas]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]
 - [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
+- [[objektai/asmenys/Vosylius I]]

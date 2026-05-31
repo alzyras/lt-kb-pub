@@ -104,10 +104,14 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Bazilius (Vasilius) II]]
 - [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/asmenys/Zigmantas I]]
+- [[objektai/zodynas/hegemonija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Vokiečių ordinas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla]]

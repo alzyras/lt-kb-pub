@@ -8,6 +8,15 @@ aliases:
   - 'Klaipėdos krašto lietuviai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1925 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1925'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -34,7 +43,10 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Kadangi Maskva visur stengėsi pakenkti Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš Lietuvą – sovietai sakė neliksią stebėtojai.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui.'
@@ -66,7 +78,27 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kadangi Maskva visur stengėsi pakenkti Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš Lietuvą – sovietai sakė neliksią stebėtojai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kadangi Maskva visur stengėsi pakenkti
+    Lenkijai, sovietai akcijai irgi neprieštaravo, o jei Lenkija pajudėtų prieš
+    Lietuvą – sovietai sakė neliksią stebėtojai.
+    Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kul-
+    tūros, liuteronai, o ne katalikai, politiškai liko ištikimi Vokietijai, todėl pa-
+    tys sukilti nesiruošė. Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
+    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
+    gauti gerus postus administracijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]

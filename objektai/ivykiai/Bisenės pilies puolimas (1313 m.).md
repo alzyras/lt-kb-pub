@@ -91,3 +91,4 @@ Nenurodyta
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Henrikas iš Plockės]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

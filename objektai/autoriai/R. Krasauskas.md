@@ -57,6 +57,7 @@ Krasauskas, R.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/diecezija]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/autoriai/Krasauskas, R]]
 - [[objektai/autoriai/Nieborowski, P]]

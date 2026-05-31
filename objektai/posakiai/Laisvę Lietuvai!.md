@@ -65,3 +65,4 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Romas Kalanta]]
+- [[objektai/posakiai/„Laisvę Lietuvai!“]]

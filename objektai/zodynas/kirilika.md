@@ -1,0 +1,61 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'kirilika'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - sąvoka
+  - valstybė
+---
+# kirilika
+
+## Santrauka
+
+Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).
+
+## Teiginiai
+- t-001
+  teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
+    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
+    kėjo iš vadovėlių, parašytų kirilika). Kaip neprivaloma disciplina lietuvių
+    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
+    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
+    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
+    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
+    lietuvių „suartinimo“ su rusų kultūra gija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]
+- [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]
+- [[objektai/paprociai/Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma]]
+- [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
+- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

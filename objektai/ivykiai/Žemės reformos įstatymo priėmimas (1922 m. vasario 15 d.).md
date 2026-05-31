@@ -129,3 +129,9 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/politinis-sprendimas]]
+
+### Susiję objektai
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Steigiamasis seimas]]
+- [[objektai/grupes/Vokiečiai]]

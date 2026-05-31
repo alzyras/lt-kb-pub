@@ -33,6 +33,10 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   teiginys: 'Dusburgietis teigia, kad šių žodžių padrąsinti krikščionys, dideliais būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis; sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę ir išsivarė į amžiną vergovę.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad kai traukėsi atgal, kai kuriems belaisviams pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis, ir pradėjo nuoširdžiai juos įkalbinėti drąsiai leistis iš.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“.'
@@ -72,6 +76,25 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad kai traukėsi atgal, kai kuriems belaisviams pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis, ir pradėjo nuoširdžiai juos įkalbinėti drąsiai leistis iš.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kai traukėsi atgal, kai kuriems belaisviams
+    pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė
+    neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis,  ir pradėjo nuoširdžiai juos
+    įkalbinėti drąsiai leistis iš paskos  ir pulti. Šių žodžių padrąsinti krikščionys, dideliais
+    būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis;
+    sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę
+    ir išsivarė  į amžiną vergovę moteris, vaikus bei kitus likusius. Šitaip toji žemė po šiai
+    dienai paliko nusiaubta203.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

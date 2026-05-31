@@ -57,4 +57,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/asmenys/Juozas Pajaujis]]
+- [[objektai/posakiai/„seimų laikus“]]

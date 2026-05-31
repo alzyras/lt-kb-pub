@@ -75,3 +75,8 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija. kariuomenės konfeder
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/zodynas/konfederacija]]

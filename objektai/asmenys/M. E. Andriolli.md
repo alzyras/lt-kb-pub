@@ -55,3 +55,8 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/zodynas/tautinis atgimimas]]

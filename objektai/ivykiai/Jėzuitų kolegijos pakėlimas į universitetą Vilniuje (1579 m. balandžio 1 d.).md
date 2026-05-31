@@ -88,3 +88,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/grupes/Jėzuitų ordinas]]

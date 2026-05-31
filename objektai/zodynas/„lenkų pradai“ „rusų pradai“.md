@@ -73,10 +73,14 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/polonofobija]]
+- [[objektai/zodynas/pradai]]
+- [[objektai/zodynas/separatizmas]]
 - [[objektai/asmenys/Aleksandras III]]
+- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

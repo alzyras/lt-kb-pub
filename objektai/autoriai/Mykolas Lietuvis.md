@@ -14,11 +14,14 @@ vaidmenys:
   - "raštininkas"
 dalyviai: []
 susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1966 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1966'
 date_end: ''
 patikimumas: "aukštas"
 atnaujinta: '2026-05-14'
@@ -64,6 +67,14 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginys: 'Mykolas Lietuvis rašė apie Keturiasdešimties Totorių kaimo pavadinimo kilmę.'
   pagrindžia:
     - c-006
+- t-013
+  teiginys: 'Cituojama pagal Mykolas Lietuvis.'
+  pagrindžia:
+    - c-007
+- t-014
+  teiginys: 'Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -172,8 +183,50 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-007
+  santrauka: 'Cituojama pagal Mykolas Lietuvis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    *
+    Cituojama pagal Mykolas Lietuvis.
+    Apie totorių, lietuvių ir maskvėnų
+    papročius, vertė M. Ročka. Vilnius,
+    1966, p. 39.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-008
+  santrauka: 'Apie tai yra rašęs Mykolas L i e t u v i s, p. 28.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    63
+    Tolesniuose mūsų istorijos pasakoji­
+    muose plačiau išdėstysime apie tą to­
+    torių gyvenamą miesto dalį; prie Vo­
+    kės, be kitų totorių, buvo apsigyvenę
+    40 brolių, todėl iki šios dienos ta gy­
+    venvietė vadinama Sorok Tatary, iš ru­
+    sų k. išvertus reiškia - Keturiasdešim­
+    ties Totorių kaimas. Apie tai yra rašęs
+    Mykolas L i e t u v i s, p. 28.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
 - [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/grupes/Totoriai]]

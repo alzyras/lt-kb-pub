@@ -80,3 +80,10 @@ Lietuvos visuomenė dar nebuvo politiškai susipratusi.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių krikščionių demokratų partija]]
+- [[objektai/grupes/Socialdemokratai]]
+- [[objektai/grupes/Tautininkai]]

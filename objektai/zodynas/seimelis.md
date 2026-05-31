@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1588 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1588'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -45,7 +54,14 @@ tags:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: 'Taip pat seimeliuose buvo renkami atstovai į seimą ir surašomos jiems instrukcijos.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Tribunolo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
@@ -116,6 +132,40 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Taip pat seimeliuose buvo renkami atstovai į seimą ir surašomos jiems instrukcijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Taip pat seimeliuose buvo renkami at-
+    stovai į seimą ir surašomos jiems instrukcijos. Vėliau seimeliai
+    buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo
+    atskirus vardus: priešseiminiuose seimeliuose bū-
+    davo renkami atstovai į seimą; reliaciniuose atstovai,
+    grįžę iš seimo, padarydavo pranešimus apie seimo darbus;
+    elekciniuose būdavo renkami pavieto arba vaivadijos urė-
+    dai, ir t. t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Tribunolo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tribunolo teisė-
+    jais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
+    davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
+    sario 2 d.) ir darbuodavos tribunole vienus metus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
@@ -124,7 +174,14 @@ tags:
 - [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/zodynas/urėdas]]
+- [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
 - [[objektai/zodynas/Klaipėdiškiai]]
+- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
+- [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]
 - [[objektai/zodynas/klaipėdiečiai klaipėdiškiai]]
+- [[objektai/zodynas/plikbajoris]]
+- [[objektai/posakiai/„Klaipėda neprilipo prie Lietuvos“ „Klaipėda nelipo prie Lietuvos“]]
 - [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]

@@ -42,5 +42,10 @@ Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos i
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
+- [[objektai/grupes/Karaimai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]

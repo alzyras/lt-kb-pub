@@ -55,5 +55,7 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
+### Susiję objektai
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/zodynas/abdikacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

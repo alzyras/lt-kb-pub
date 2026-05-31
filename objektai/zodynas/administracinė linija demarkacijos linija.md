@@ -134,3 +134,25 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/grupes/Antantė]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/M. Sleževičius]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/asmenys/L. Želigovskis]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/zodynas/administracinė linija]]

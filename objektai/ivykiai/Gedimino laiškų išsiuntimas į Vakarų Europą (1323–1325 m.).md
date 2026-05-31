@@ -118,14 +118,21 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/autoriai/Dreyer]]
+- [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Notariats instrument notarinis instrumentas]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/zodynas/Rygos miesto teisė]]
+- [[objektai/zodynas/dešimtinė]]
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Bertoldas (pranciškonas)]]
 - [[objektai/asmenys/Henrikas (pranciškonas)]]

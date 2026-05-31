@@ -45,6 +45,8 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/J. Zikaro skulptūra „Knygnešys“]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
 - [[objektai/zodynas/knygnešystė knygnešiai]]
+- [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
 - [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai]]

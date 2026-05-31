@@ -89,3 +89,12 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Konradas iš Foichtvangeno]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

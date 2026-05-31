@@ -130,3 +130,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
 - [[objektai/zodynas/Rėda|rėda]]
+- [[objektai/zodynas/Žemlionis|žemlionis]]

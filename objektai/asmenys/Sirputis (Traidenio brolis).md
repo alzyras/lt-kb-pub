@@ -43,7 +43,10 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Senovės lietuvių tradicijų besilaikantis Traidenis didžiausias pastangas sutelkė gynybai nuo kryžiuočių, o savo broliams, priėmusiems graikų stačiatikių tikėjimą, buvo pavedes pietrytinių valdų ribų apsaugą.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sirputis, ketvirtasis Traidenio brolis, perėmė Rytų krikščionybę ir Lietuvos valdovo pavedimu veikė prieš Lenkiją.'
@@ -85,9 +88,35 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Senovės lietuvių tradicijų besilaikantis Traidenis didžiausias pastangas sutelkė gynybai nuo kryžiuočių, o savo broliams, priėmusiems graikų stačiatikių tikėjimą, buvo pavedes pietrytinių valdų ribų apsaugą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Senovės lietuvių tradicijų
+    besilaikantis Traidenis didžiau-
+    sias pastangas sutelkė gynybai
+    nuo kryžiuočių, o savo broliams,
+    priėmusiems graikų stačiatikių ti-
+    kėjimą, buvo pavedes pietrytinių
+    valdų ribų apsaugą. Rytų krikščio-
+    nybę taip pat perėmęs ketvirtasis
+    Traidenio brolis Sirputis Lietuvos
+    valdovo pavedimu veikė prieš
+    Lenkiją.
+
+    Tuo metu dar vyko Didysis
+    prūsų sukilimas (1260-1274 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Graikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]

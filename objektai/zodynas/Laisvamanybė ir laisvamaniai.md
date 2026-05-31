@@ -8,7 +8,7 @@ variantai:
   - 'laisvamanybė laisvamaniai'
 aliases: []
 saltiniai:
-  - '[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: 'XIX a. pabaiga–XX a. pradžia'
 datos: []
@@ -46,19 +46,19 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
   teiginys: Laisvamanybė pateikiama kaip viena iš pagrindinių J. Šliūpo gyvenimo kovų.
   pagrindžia:
     - c-001
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
   teiginys: Laisvamaniais vadinami žmonės, susibūrę apie J. Šliūpą drauge su griežtesniaisiais tautininkais.
   pagrindžia:
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Laisvamanybė įvardijama kaip savarankiška J. Šliūpo siekta idėja.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dr. Šliūpas visą
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
@@ -72,7 +72,7 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
     - t-001
 - c-002
   santrauka: Tiesiogiai pavartotas šalininkų pavadinimas `laisvamaniai`.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl apie jį susibūrė griežtes-
     nieji tautininkai ir laisvamaniai.
@@ -90,5 +90,8 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/laisvamanybė laisvamaniai]]
 - [[objektai/zodynas/tautinės bažnyčios]]
+- [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]

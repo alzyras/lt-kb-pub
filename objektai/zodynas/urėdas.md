@@ -81,7 +81,21 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Valavičiai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/asmenys/Grigalius Astikas]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Lietuvos bajorijos seimai]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/pilies teismas|pilies teismas (pilis)]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/seniūnas storasta]]
+- [[objektai/zodynas/statuto dėsniai]]
 - [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]

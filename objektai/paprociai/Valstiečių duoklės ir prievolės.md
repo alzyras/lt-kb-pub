@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -52,6 +58,10 @@ Nenurodyta
   teiginys: 'Be įvairių rinkliavų ir mokesčių, valstiečiai dar buvo verčiami statyti pilis, tiltus, tiesti kelius ir t.t.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Valstiečio santykis su valdomąja žeme tačiau pasunkėjo.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,7 +131,33 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Valstiečio santykis su valdomąja žeme tačiau pasunkėjo.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tiesa, tas įstatymas reiškė didelę reformą ir žymią pažangą
+    žemės ūkio srityje. Juk ir pati žemė buvo išrūšiuota. Valstiečio
+    santykis su valdomąja žeme tačiau pasunkėjo. Tuo pačiu stiprėjo
+    bajorijos padėtis ir ūkiniu atžvilgiu. Javų kainų pakilimas bajorus
+    skatino didinti dirbamosios žemės arealą, steigti naujus dvarus
+    (palivarkus). Pačių valstiečių prievolės dvarui, suskaldant jų « va­
+    lakus », gausėjo. Vis daugiau darbo rankų iš valstiečio kiemo rei­
+    kėjo siųsti į dvaro laukus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/mezliava]]
+- [[objektai/zodynas/sidabrinė duoklė]]

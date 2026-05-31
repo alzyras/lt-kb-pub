@@ -42,3 +42,7 @@ Chruščiovo laikais bažnyčią imta diskredituoti, spausti morališkai, nors i
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]

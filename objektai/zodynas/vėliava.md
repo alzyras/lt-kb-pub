@@ -70,6 +70,10 @@ tags: []
   teiginys: 'Kiekvienas rite­ ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
   pagrindžia:
     - c-007
+- t-010
+  teiginys: 'Vėliavai vadovaudavo kapitonas.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -186,28 +190,73 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-008
+  santrauka: 'Vėliavai vadovaudavo kapitonas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Vėliavai vadovaudavo
+    kapitonas. Dragūnų vėliavą sudarė 100-150 žmonių.
+
+    Prie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-
+    menėje buvę dar xvi a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/dragūnai]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
 - [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
 - [[objektai/autoriai/Aleksandro Gvanjinio]]
 - [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]
 - [[objektai/daiktai/Deglas]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
+- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
+- [[objektai/daiktai/Karinės vėliavos ir ženklai]]
 - [[objektai/asmenys/Karolis Jastržembskis]]
+- [[objektai/autoriai/Kojałowicz Kojelavičius]]
+- [[objektai/asmenys/Konradas Lichtenhagenas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuviai Lietuvos kariuomenė]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
+- [[objektai/daiktai/Mediniai miesto namai]]
 - [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
 - [[objektai/daiktai/Ordino magistro valdžios žymenys]]
+- [[objektai/grupes/Panevėžio batalionas]]
+- [[objektai/daiktai/Panevėžio bataliono vėliava]]
+- [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija]]
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
+- [[objektai/daiktai/Riterių vėliava]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Suchodolskis]]
 - [[objektai/asmenys/T. Dambrava]]
+- [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]
 - [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/zodynas/landgrafas]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/zodynas/pašauktinė kariuomenė]]
 - [[objektai/zodynas/Perveiza|perveiza]]
 - [[objektai/zodynas/pilėnas pilėnai]]
+- [[objektai/daiktai/Šv. Jurgio vėliava]]
+- [[objektai/posakiai/„suverenitetų parado“]]
+- [[objektai/zodynas/Žemlionis|žemlionis]]

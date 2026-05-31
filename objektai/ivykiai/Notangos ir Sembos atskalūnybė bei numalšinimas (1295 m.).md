@@ -134,3 +134,13 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
+
+### Susiję objektai
+- [[objektai/grupes/Germanai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Misinas]]
+- [[objektai/asmenys/Stanta]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Naudžiotas|Naudžiotas (karvedys)]]

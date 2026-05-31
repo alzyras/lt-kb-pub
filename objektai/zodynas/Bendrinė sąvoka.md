@@ -46,14 +46,11 @@ Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine s
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/David Gilmour]]
 - [[objektai/asmenys/Eric Clapton]]
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/asmenys/George Harrison]]
 - [[objektai/asmenys/Keith Richards]]
-- [[objektai/asmenys/Antanas Kazimeras Žemaitis]]
-- [[objektai/asmenys/Bob Dylan]]
-- [[objektai/asmenys/Bruce Springsteen]]
-- [[objektai/asmenys/Jimi Hendrix]]
-- [[objektai/asmenys/Paul McCartney]]
-- [[objektai/asmenys/Ronnie Wood]]
+- [[objektai/asmenys/Nadine Gordimer]]
+- [[objektai/zodynas/Adynos|adynos]]

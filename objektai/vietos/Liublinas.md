@@ -14,6 +14,7 @@ datos:
   - '1286 m.'
   - '1310 m.'
   - '1317 m.'
+  - '1432 m.'
   - '1563 m.'
   - '1569 m.'
   - '1936 m.'
@@ -26,6 +27,7 @@ periodo_grupes:
 amziai:
   - 'XIII'
   - 'XIV'
+  - 'XV'
   - 'XVI'
   - 'XX'
   - 'XXI'
@@ -90,6 +92,26 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   teiginys: 'Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: 'Liublino seimo eiga ir unijos aktas.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: '1432 m. pradžioje derybos tarp lenkų ir lietuvių strigo (tuo metu Jogaila stovėjo Liubline, Švitrigaila su kryžiuočių atstovais - Brastoje).'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Lietuvai, ilgai nuo krikščio­ niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­ kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios, nors ir siauros Krokuvos ar Liublino gatvės, nei.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad 443 ## Puslapis 460 VILNIAUS MIESTO ISTORIJA II TOMAS juos laiku pasiųstų JMCPP : Mlodyčiui į Leipcigą ir ponui Plockiui sumokėti skolą iš.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -289,3 +311,99 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Liublino seimo eiga ir unijos aktas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: '1432 m. pradžioje derybos tarp lenkų ir lietuvių strigo (tuo metu Jogaila stovėjo Liubline, Švitrigaila su kryžiuočių atstovais - Brastoje).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1432 m. pradžioje derybos tarp lenkų
+    ir lietuvių strigo (tuo metu Jogaila sto-
+    vėjo Liubline, Švitrigaila su kryžiuo-
+    čių atstovais - Brastoje). Gegužės 15 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Lietuvai, ilgai nuo krikščio­ niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­ kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios, nors ir siauros Krokuvos ar Liublino gatvės, nei.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Visi tie pastatai, at­
+    skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
+    daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­
+    mus, besišliejančius prie pilių, negu į tokius miestus, kokie
+    jau XIV amžiuje puošė Lenkiją. Lietuvai, ilgai nuo krikščio­
+    niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių
+    antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­
+    kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,
+    nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam
+    laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės
+    prekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­
+    dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio
+    slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­
+    tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­
+    juosta statinių tvoromis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad 443 ## Puslapis 460 VILNIAUS MIESTO ISTORIJA II TOMAS juos laiku pasiųstų JMCPP : Mlodyčiui į Leipcigą ir ponui Plockiui sumokėti skolą iš.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    21 gr.
+    Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
+    aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
+    443
+
+    ## Puslapis 460
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
+    Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
+    lenkiškas, pridėjau 1310 flor.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad Koja­
+    lavičiui, kuris iš esmės terašė gražia, klasikine lotynų kalba pasi­
+    skaitymų knygą, Lietuvos ir Lenkijos politiniai skirtumai nebe­
+    buvo tokie ryškus kaip Stryjkovskiui. Jis džiaugėsi ir Liublino
+    unijoje «įvykusia santaika»^30. Kojalavičiui, išleidusiam I-jį tomą
+    beveik 70 metų po Stryjkovskio, Lietuvos ir Lenkijos skirtumai
+    gerokai buvo niveliavęsi^31.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016

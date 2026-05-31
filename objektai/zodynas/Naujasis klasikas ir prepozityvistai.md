@@ -70,3 +70,8 @@ Kontekste tai istoriografinių laikysenų ir metodologinių tipų žodynas, kuri
 ## Šaltiniai ir įrodymai
 
 - Michał Baliński, Vilniaus miesto istorija (2007 m.)
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas Sniadeckis]]
+- [[objektai/zodynas/Naujasis klasikas prepozityvistai]]

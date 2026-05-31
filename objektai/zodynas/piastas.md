@@ -96,3 +96,4 @@ reikalavo atmesti „piasto" kandidatūrą (piastu tada buvo vadinamas kiekviena
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Kazimieras Didysis]]

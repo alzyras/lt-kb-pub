@@ -20,6 +20,8 @@ datos:
   - '1939 m.'
   - '2013 m.'
   - '2026 m.'
+  - '1918 m.'
+  - '1920 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
@@ -75,7 +77,22 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginys: 'Kėdainių srities apsaugos viršininkas J. Šarauskas Kėdainiuose suorganizavo savanorių būrį.'
   pagrindžia:
     - c-007
-
+- t-013
+  teiginys: 'Tada pražydo protestantų Radvilų centruose esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas Vilniaus mokyklos turtų.'
+  pagrindžia:
+    - c-008
+- t-014
+  teiginys: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
+  pagrindžia:
+    - c-009
+- t-015
+  teiginys: 'Variakojis su pirmuoju savanorių būriu paliko miestą ir atvyko į Kėdainius.'
+  pagrindžia:
+    - c-010
+- t-016
+  teiginys: 'Tai pakėlė ūpą ir pasijutę stipresni, savanoriai vėl grįžo į Kėdainius, pasiryžę iš jų nesitraukti nė žingsnio.'
+  pagrindžia:
+    - c-011
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1919 m. bolševikų ekspansija buvo stabdoma prie Kėdainių.'
@@ -206,3 +223,88 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-008
+  santrauka: 'Tada pražydo protestantų Radvilų centruose esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas Vilniaus mokyklos turtų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tada pražydo protestantų Radvilų centruose
+    esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas
+    Vilniaus mokyklos turtų. Ypač garsėjo Kėdainių mokykla: mat,
+    Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros
+    centru. Čia net buvo įsteigta spaustuvė, kurioje buvo spausdina-
+    mos religinio turinio knygos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-009
+  santrauka: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
+    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
+    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
+    pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
+    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
+    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
+    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
+    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
+    klo broliais buvusius lenkus prie Širvintų ir Giedraičių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-010
+  santrauka: 'Variakojis su pirmuoju savanorių būriu paliko miestą ir atvyko į Kėdainius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ## Puslapis 173
+
+    —————
+
+    Dar 1918 m. gruodžio 29 d. paskir-
+    tas Panevėžio srities apsaugos viršininku
+    karin. J. Variakojis, nuvykęs į pasky-
+    rimo vietą, energingai ėmėsi organi-
+    zuoti savanorių būrį. Tačiau tų metų
+    sausio 9 d. stambioms bolševikų pajė-
+    goms užimant Panevėžį, J. Variakojis
+    su pirmuoju savanorių būriu paliko
+    miestą ir atvyko į Kėdainius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-011
+  santrauka: 'Tai pakėlė ūpą ir pasijutę stipresni, savanoriai vėl grįžo į Kėdainius, pasiryžę iš jų nesitraukti nė žingsnio.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    tarp bolševikų ir Šilginėlių
+    kaime buvusios lietuvių
+    sargybos įvyko smarkus
+
+    stūmė lietuvių sargybas, pri-
+
+    rengti pirmojo pavyzdžio uniforma (gavo
+
+    kepures su geltonomis juostomis ir trispal-
+    vius trikampius kairės rankovės antsiuvus).
+    Tai pakėlė ūpą ir pasijutę stipresni, savano-
+    riai vėl grįžo į Kėdainius, pasiryžę iš jų ne-
+    sitraukti nė žingsnio. Vasario 7 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016

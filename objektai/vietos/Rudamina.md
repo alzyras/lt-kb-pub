@@ -56,6 +56,18 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   teiginys: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Vytautas, ne­ mažomis pajėgomis vedinas, pasitiko juos ties Rudamina, bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su pačiu magistru ir visa kariauna, skubiai atsitraukia.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Rudaminos bažnyčią atidavė ko­ legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa kita pavedė vyskupui.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -213,3 +225,76 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Bemaž tuo metu Vilniuje gerokai 25 V o i g t, V, 274, pasakodamas pagal Vygandą, kad susirėmimas vykęs prie didelio Rudminne kaimo (das grosse dorf), mano, kad tai turėtų būti dabartinis Parudaminys, esantis nuo Vilniaus į pietvakarius.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vilniaus
+    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
+    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
+    jo lankytis tolimose provincijose, kur artimiau susipažino su
+    krikščioniškąja kultūra26. Bemaž tuo metu Vilniuje gerokai
+    25
+    V o i g t, V, 274, pasakodamas pagal
+    Vygandą, kad susirėmimas vykęs
+    prie didelio Rudminne kaimo (das
+    grosse dorf), mano, kad tai turėtų būti
+    dabartinis Parudaminys, esantis nuo
+    Vilniaus į pietvakarius. Betgi yra ir
+    Rudamina, miestelis, arba bažnyt­
+    kaimis, pietryčiuose, už pusantros
+    mylios nuo miesto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Vytautas, ne­ mažomis pajėgomis vedinas, pasitiko juos ties Rudamina, bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su pačiu magistru ir visa kariauna, skubiai atsitraukia.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir vos tik magistras prie Vilniaus
+    įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­
+    goti daliniams, išleistiems parūpinti maisto. Vytautas, ne­
+    mažomis pajėgomis vedinas, pasitiko juos ties Rudamina,
+    bet, upės ir daubos nuo priešo skiriamas, per tirštą rūką
+    neįžiūri kryžiuočių viseto ir, pamanęs, kad susiduria jau su
+    pačiu magistru ir visa kariauna, skubiai atsitraukia. Atsi­
+    traukdamas Vytautas prarado nemaža saviškių, tarp jų Al-
+    šėnų kunigaikštį Joną, kuris buvo paimtas į nelaisvę; nete­
+    ko ir keturių kariuomenės ženklų53.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Rudaminos bažnyčią atidavė ko­ legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa kita pavedė vyskupui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pa­
+    naikinęs ano titulą ir pareigas, įvedė nuolatinio vikaro pa­
+    reigybę su jam priskiriamais adjutoriais [pagalbininkais], in
+    cura animarum administranda [rūpintis sielovada]; o tiems pa­
+    tiems [šviesybėms vienuoliams] jėzuitams suteikė neribotą
+    teisę minėtąjį vikarą siūlyti. Rudaminos bažnyčią atidavė ko­
+    legijai ir davė kitus nurodymus vienuolių jėzuitų bažnyčios
+    ir nuolatinio vikaro bažnyčios aptarnavimo atžvilgiu, visa
+    kita pavedė vyskupui. Jaugi 1571 metų birželio 1 dieną Vil­
+    niaus vyskupas Valerijonas Protasevičius, deramu išlaiky­
+    mu aprūpindamas vikarą ir jo adjutorius, skyrė arkipresbi-
+    terio nuo seno laikytas valdas: Helanokempis (Elniakampius),
+    Putviškes, Pukančius ir Rudaminą su bažnytėle, ten pat pa­
+    statyta, ir viską patvarkė pagal aukščiau minėtą karaliaus
+    privilegiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -46,6 +52,10 @@ tags:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-005
+  teiginys: 'Taip pat iš anksto didiko atgabentos virtuvės pagamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -106,3 +116,25 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Taip pat iš anksto didiko atgabentos virtuvės pagamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl jie va-
+    žiuodavo triukšmingai garbindami juos vežantį didiką. Atvežti
+    jie tuojau būdavo sutalpinami iš anksto pasamdytose smuklėse ir
+    šiaipjau patalpose. Taip pat iš anksto didiko atgabentos virtuvės pa-
+    gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo
+    alkani ir tikrai sočiai pavalgydavo tik seimelio metu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/seimelis]]
+- [[objektai/daiktai/Kardas]]

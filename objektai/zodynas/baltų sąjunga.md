@@ -114,6 +114,10 @@ Vartojama XIII a. kovos prieš Ordiną ir ankstyvojo Lietuvos valstybingumo aiš
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.)]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
 - [[objektai/grupes/Pamarėnai]]

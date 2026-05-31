@@ -106,3 +106,10 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Socialdemokratai]]
+- [[objektai/grupes/Vokiečiai]]

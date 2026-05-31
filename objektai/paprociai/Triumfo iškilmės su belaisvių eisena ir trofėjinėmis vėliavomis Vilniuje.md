@@ -59,6 +59,10 @@ Nenurodyta
   teiginys: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
   pagrindžia:
     - c-002
+- t-005
+  teiginys: 'Čia, valdovui grįžus, įvyko triumfo iškilmės, eisenoje buvo vedami belaisviai Maskvos karvedžiai ir kariai, Vilniaus katedroje pakabintos trofėjinės vėliavos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,3 +103,27 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-003
+  santrauka: 'Čia, valdovui grįžus, įvyko triumfo iškilmės, eisenoje buvo vedami belaisviai Maskvos karvedžiai ir kariai, Vilniaus katedroje pakabintos trofėjinės vėliavos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Čia, valdovui grįžus, įvyko
+    triumfo iškilmės, eisenoje buvo vedami
+    belaisviai Maskvos karvedžiai ir kariai,
+    Vilniaus katedroje pakabintos trofėjinės
+    vėliavos. (Kaip liudija Mykolas Lietuvis,
+    jos su kitomis čia saugotomis sudegė per
+    1530 m. gaisrą).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

@@ -84,5 +84,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/J. Poverskis]]
 - [[objektai/autoriai/Powierski J]]
 - [[objektai/autoriai/Szacherska S. M]]

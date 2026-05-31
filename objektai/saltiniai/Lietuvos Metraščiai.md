@@ -49,7 +49,10 @@ tags: []
   teiginys: 'Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.'
   pagrindžia:
     - c-004
-
+- t-005
+  teiginys: ', kai Lietuvos bajorija bendrai pradėjo save kildinti iš romėnų.'
+  pagrindžia:
+    - c-005
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'M. Jučo „Lietuvos Metraščiai“ buvo išleisti Vilniuje 1968 m.'
@@ -66,7 +69,6 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.'
@@ -135,3 +137,20 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: ', kai Lietuvos bajorija bendrai pradėjo save kildinti iš romėnų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    , kai Lietuvos bajorija bendrai pradėjo save kildinti
+    iš romėnų. Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

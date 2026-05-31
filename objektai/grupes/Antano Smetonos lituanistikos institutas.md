@@ -47,7 +47,11 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Lituanistika]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]
+- [[objektai/asmenys/Kazimieras Būga]]
+- [[objektai/zodynas/Politrukai]]

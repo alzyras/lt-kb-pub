@@ -50,6 +50,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad taigi 1096 viešpaties metais anksčiau minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą bei šventąjį Jeruzalės miestą, o ilgainiui kiti.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai bei kiti kilmingieji ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu, duodami viešpačiui.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -100,3 +104,35 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai bei kiti kilmingieji ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu, duodami viešpačiui.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ir dievo žodžio sėkla krito į gerą bei trąšią žemę, ir davė ji
+    gausų derlių, nes bažnyčių vyskupai ir prelatai, karaliai, kunigaikščiai, grafai, baronai
+    bei  kiti kilmingieji  ir šiaip žmonės puošė savo pečius išganingojo kryžiaus ženklu,
+    duodami viešpačiui įžadus leistis į maldininkų žygį. Taigi 1096 viešpaties metais anksčiau
+    minėtasis Petras su kryžininkais ir daugybe vokiečių persikėlė per Helesponto marias ir
+    užėmė miestą, kuris šiandien vadinamas Švento Jurgio ranka, be to, Antiochijos miestą
+    bei šventąjį Jeruzalės miestą, o ilgainiui kiti ten patraukę maldininkai užėmė galybę
+    kitų, rodėsi, neįveikiamų miestų bei pilių, išvaduodami juos iš netikėlių rankų; šitaip
+    šventajame Jeruzalės mieste buvo paskirtas patriarchas, kuriam buvo pavaldūs keturi
+    arkivyskupai, būtent: Tyro su keturiais sufraganais, Cezarėjos — su vienu, Nazareto —
+    su vienu ir Petros — su vienu sufraganu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Kilmingieji]]
+- [[objektai/asmenys/Simeonas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/žygis]]

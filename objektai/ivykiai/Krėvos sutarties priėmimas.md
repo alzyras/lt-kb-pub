@@ -101,8 +101,14 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/posakiai/„prišlieti“]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/unija]]
+- [[objektai/posakiai/„prišlieti“]]
+- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
 - [[objektai/zodynas/applicare prišlieti]]

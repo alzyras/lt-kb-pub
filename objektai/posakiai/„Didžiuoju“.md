@@ -34,7 +34,10 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Vytauto laikų permainos Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas pradėtas vadinti Didžiuoju, nes jau amžininkai suvokė jo laikų permainų reikšmę.'
@@ -53,6 +56,27 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vytauto laikų permainos Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Didžiuoju.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ne
+    vienas Vytautas, o visa Lietuvos visuomenė, ypač jos elitas, kūrė šį istorinį
+    procesą, bet būtent Vytautas geriausiai sugebėjo pasinaudoti istorijos tei-
+    kiamomis galimybėmis ir nutiesė kelius Europos kultūrai.
+    Vytauto laikų permainos
+    Vytauto permainų reikšmę suvokė jau amžininkai, jų kom-
+    plimentai ar sureikšminimai nulėmė, kad Vytautas pradėtas vadinti Di-
+    džiuoju. Visų pirma Vytautas nustojo mokėti duoklę mongolams, panai-
+    kino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė
+    vietininkus ir suėmė realią valdžią LDK į savo rankas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

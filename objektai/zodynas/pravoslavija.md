@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -32,6 +38,10 @@ pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai 
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-003
+  teiginys: 'Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,3 +71,22 @@ pravoslavija: dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo varu suvaryti į pravoslaviją (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Dar smarkiau buvo
+    pradėti persekioti unitai, kurie veikiai visai išnyko — buvo
+    varu suvaryti į pravoslaviją (žiūr. 303 psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/rusinimas]]

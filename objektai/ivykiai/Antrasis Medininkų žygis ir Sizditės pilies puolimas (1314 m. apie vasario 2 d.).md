@@ -76,4 +76,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/pilėnas pilėnai]]

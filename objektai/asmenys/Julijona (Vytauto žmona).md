@@ -10,11 +10,14 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1426 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1426'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-05'
@@ -84,6 +87,34 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   teiginys: 'Pasiligojusi Vytauto žmona Julijona bu­ vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­ me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto vokiečių raštininko, šiandien negalima suprasti, kokia tai buvo vieta.'
   pagrindžia:
     - c-014
+- t-016
+  teiginys: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
+  pagrindžia:
+    - c-015
+- t-017
+  teiginys: 'Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio duktė Julijo­ na -išpažino graikų apeigų tikėjimą ir Trakų pilyje, dar prieš Lietuvos krikštą, turėjo savo koplyčią, kurios pėdsakų šios pilies vienos sienos se­ novinėje tapyboje yra.'
+  pagrindžia:
+    - c-016
+- t-018
+  teiginys: 'Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo.'
+  pagrindžia:
+    - c-017
+- t-019
+  teiginys: 'Julijona (Vytauto žmona) vadina savo mylima šeiminin­ ke (seine liebe Hausfrau), jau metai kaip serga, ir kad liga kaip tik šiuo metu taip paūmėjo, jog visiškai nie­ ko negalinti valgyti.'
+  pagrindžia:
+    - c-018
+- t-020
+  teiginys: 'Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik paskui pasidarė labai uoli katalikė.'
+  pagrindžia:
+    - c-019
+- t-021
+  teiginys: 'Nenusileisti jį ypač įkalbinėjo jo bajorai ir pati Julijona^5 ).'
+  pagrindžia:
+    - c-020
+- t-022
+  teiginys: 'Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­ jorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai.'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -366,3 +397,181 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-015
+  santrauka: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pabaigoje ir atvedusį į galutinį tikslą: Lietuvos monar-
+    chija turėjo įsitvirtinti Europos politinėje sistemoje. Nors Niurnbergo
+    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
+    Lucko suvažiavimas.
+    Dail.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-016
+  santrauka: 'Jo žmonos - Smo­ lensko kunigaikštytė Ona, o kita - Algimanto Alšėniškio duktė Julijo­ na -išpažino graikų apeigų tikėjimą ir Trakų pilyje, dar prieš Lietuvos krikštą, turėjo savo koplyčią, kurios pėdsakų šios pilies vienos sienos se­ novinėje tapyboje yra.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1. Jo žmonos - Smo­
+    lensko kunigaikštytė Ona, o kita -
+    Algimanto Alšėniškio duktė Julijo­
+    na -išpažino graikų apeigų tikėjimą
+    ir Trakų pilyje, dar prieš Lietuvos
+    krikštą, turėjo savo koplyčią, kurios
+    pėdsakų šios pilies vienos sienos se­
+    novinėje tapyboje yra iki šiol išlikę.
+    160
+
+    ## Puslapis 177
+
+    Il KNYGA
+    dar barbarų laikais, išsiugdytos, o už tai, ką istorija jame
+    regi pikta, ne tik jam vienam kaltė tenka, bet dar ir anų
+    laikų tamsybei, kunigaikščių išprusimo stokai arba vi­
+    siškam jo nebuvimui86.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-017
+  santrauka: 'Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    A liteho
+    236
+
+    ## Puslapis 253
+
+    III KNYGA
+    galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
+    toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
+    me vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­
+    jos istorija mums išsaugojo įdomią žinią apie tai, kad
+    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
+    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
+    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
+    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
+    serebra do mina/ pryszlo 20 tysiacz hry-
+    wien i 6 sot hrywien i 50 i osm hryzvien
+    i dwa skotcy [Vilniuje, birželio 9-ta
+    diena, 2 indiktas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-018
+  santrauka: 'Julijona (Vytauto žmona) vadina savo mylima šeiminin­ ke (seine liebe Hausfrau), jau metai kaip serga, ir kad liga kaip tik šiuo metu taip paūmėjo, jog visiškai nie­ ko negalinti valgyti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pasta­
+    rasis varį (miedź - mied') palaikė me­
+    dumi (miód).
+    53
+    F o i g t a s savo Marienburgo miesto
+    ir pilies istorijoje (Geschichte Marien-
+    burgs, der Stadt und des Haupthauses
+    des deutschen Ritter Ordens in Preus-
+    sen, p. 241) rašo, kad 1426 metais di­
+    dysis kunigaikštis Vytautas prašė di­
+    džiojo magistro rūmų gydytojo
+    (Leibarzt), nes jo žmona Julijona, ku­
+    rią jis vadina savo mylima šeiminin­
+    ke (seine liebe Hausfrau), jau metai
+    kaip serga, ir kad liga kaip tik šiuo
+    metu taip paūmėjo, jog visiškai nie­
+    ko negalinti valgyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-019
+  santrauka: 'Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik paskui pasidarė labai uoli katalikė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
+    paskui pasidarė labai uoli katalikė. Istorikai nurodo, kad Vy­
+    tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
+    lijona.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-020
+  santrauka: 'Nenusileisti jį ypač įkalbinėjo jo bajorai ir pati Julijona^5 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vis dėlto jis ir dabar dar nenustojo
+    vilties karūnuotis. Nenusileisti jį ypač įkalbinėjo jo bajorai
+    ir pati Julijona^5 ). Tuo tarpu atvyko į Vilnių ir lenkų dele­
+    gacija^6 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-021
+  santrauka: 'Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­ jorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Mirė tikrai mūsų tautos
+    garbė.
+    Gailiai jį apraudojo ir žmona, kun. Julijona, verkė jo visi ba­
+    jorai, jo visų žygių dalyviai ir bendradarbiai, karžygiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/indiktas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/paprociai/Graikų apeigų koplyčios laikymas Trakų pilyje]]
+- [[objektai/autoriai/Johannes Voigt Foigtas]]
+- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/asmenys/Ona (Vytauto žmona)]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]

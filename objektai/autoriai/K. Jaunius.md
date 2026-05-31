@@ -67,4 +67,5 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Suomiai]]
+- [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]
 - [[objektai/zodynas/Aistuva]]

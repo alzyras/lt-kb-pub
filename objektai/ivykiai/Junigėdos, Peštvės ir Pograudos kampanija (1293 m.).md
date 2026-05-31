@@ -135,3 +135,5 @@ Sudegė abiejų pilių papiliai.
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/grupes/Lietuviai]]

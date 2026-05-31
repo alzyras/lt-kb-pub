@@ -66,3 +66,8 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/metrika]]

@@ -124,3 +124,4 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

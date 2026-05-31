@@ -120,3 +120,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Duona]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/daiktai/Ubladė]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/grupes/Žemaičiai]]

@@ -112,7 +112,9 @@ Nenurodyta
 - [[temos/politinis-sprendimas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/zodynas/seniūnas]]

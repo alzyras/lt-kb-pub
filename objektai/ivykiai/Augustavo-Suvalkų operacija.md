@@ -70,5 +70,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/asmenys/Jonas Kuklieris]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/daiktai/Lenkijos kariuomenės 9-ojo pėstininkų pulko krūtininis ženklas]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/asmenys/V. Grigaliūnas-Glovackis]]

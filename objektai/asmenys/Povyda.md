@@ -50,5 +50,6 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/asmenys/Helvigas iš Goldbacho]]

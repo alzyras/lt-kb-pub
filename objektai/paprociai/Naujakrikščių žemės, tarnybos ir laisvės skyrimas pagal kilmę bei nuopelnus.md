@@ -93,3 +93,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/naujakrikštis]]

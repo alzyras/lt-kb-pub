@@ -56,7 +56,10 @@ tags:
   teiginys: 'Nors po trejų metų „Aušra“ dėl vidinių idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, lietuvių kaip savarankiškos tautos ugdymo darbo tęsėjų gretas išplėtė, jie ėmė rengti ir leisti naujus periodinius leidinius lietuvių kalba.'
   pagrindžia:
     - c-004
-
+- t-005
+  teiginys: 'Basanavičius 1883 metais savo žinomą istorinę prakalbą pirmajame « Aušros » numeryje.'
+  pagrindžia:
+    - c-005
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: '1883 m. pirmajame „Aušros“ numeryje J. Basanavičius pradėjo savo žinomą istorinę prakalbą.'
@@ -74,7 +77,6 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1883 m. pirmajame „Aušros“ numeryje J. Basanavičius pradėjo savo žinomą istorinę prakalbą.'
@@ -148,3 +150,20 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Basanavičius 1883 metais savo žinomą istorinę prakalbą pirmajame « Aušros » numeryje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ```
+    « Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai. »
+    Šitaip išvertęs žinomą lotynišką humanistų posakį (Homines histo-
+    riarum ignari semper sunt pueri) pradėjo mūsų žymusis tautinio
+    atgimimo vyras J. Basanavičius 1883 metais savo žinomą istorinę
+    prakalbą pirmajame « Aušros » numeryje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

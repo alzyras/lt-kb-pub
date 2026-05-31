@@ -10,6 +10,7 @@ datos:
   - '1418 m.'
   - '1936 m.'
   - '2026 m.'
+  - '1410 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
@@ -60,7 +61,10 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginys: 'Surinkę savo jėgas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: '14 d. pasibaigus atvejų atvejais pratęsiamoms pa­ liauboms, buvo pradėtas karas, ir pusbroliu kariuomenės, kaip ir 1410 m., susijungė prie Červinsko.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.'
@@ -157,3 +161,17 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: '14 d. pasibaigus atvejų atvejais pratęsiamoms pa­ liauboms, buvo pradėtas karas, ir pusbroliu kariuomenės, kaip ir 1410 m., susijungė prie Červinsko.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    14 d. pasibaigus atvejų atvejais pratęsiamoms pa­
+    liauboms, buvo pradėtas karas, ir pusbroliu kariuomenės, kaip ir
+    1410 m., susijungė prie Červinsko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

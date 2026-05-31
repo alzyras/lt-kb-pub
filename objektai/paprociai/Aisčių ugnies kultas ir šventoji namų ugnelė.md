@@ -8,17 +8,15 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'senovės aisčiai; priešistorinis laikotarpis'
-datos:
-  - 'senovės aisčiai'
-  - 'priešistorinis laikotarpis'
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+datos: []
 periodas: 'priesistore'
 periodo_grupes: []
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
 tags: []
@@ -70,6 +68,10 @@ Nenurodyta
     - c-004
   šaltinis: 'Vytautas Didysis 1350-1430 (1930 m.)'
   statusas: patvirtinta
+- t-005
+  teiginys: 'Ligšiol yra žinoma keletas kulto tarnų vardų, bet jokio organizacinio ryšio tarp jų neužtikta^2 ), Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje būtų buvę kokių tikybos šventnamių.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -135,3 +137,28 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Ligšiol yra žinoma keletas kulto tarnų vardų, bet jokio organizacinio ryšio tarp jų neužtikta^2 ), Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje būtų buvę kokių tikybos šventnamių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Grunau vadina, Krivių Krivaičio
+    veikiausiai niekad nebuvo. Ligšiol yra žinoma keletas kulto
+    tarnų vardų, bet jokio organizacinio ryšio tarp jų neužtikta^2 ),
+    Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje
+    būtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­
+    stogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo
+    nepasižymėjo, gal visai nesiskyrė nuo paprastų trobesių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/S. Grunau]]
+- [[objektai/zodynas/gabija]]

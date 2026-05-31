@@ -53,8 +53,6 @@ Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/zodynas/chanas]]
+- [[objektai/daiktai/Vytauto ženklas]]

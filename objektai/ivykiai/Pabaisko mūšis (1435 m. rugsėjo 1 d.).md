@@ -228,3 +228,21 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Kerskorfas]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/maršalas]]

@@ -13,7 +13,10 @@ datos:
   - '1372 m.'
   - '1400 m.'
   - '1430 m.'
+  - '1432 m.'
   - '1434 m.'
+  - '1471 m.'
+  - '1479 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -130,6 +133,54 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   teiginys: 'Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santykius su Rusios miestais ir ska­ tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­ tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.'
   pagrindžia:
     - c-020
+- t-021
+  teiginys: 'Tuo metu, greta Maskvos, visų galingiausia buvo Tverės kunigaikštystė.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: '1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriausioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai), gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų senosios Rusios.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: '26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Naudodamasis gerais santykiais su Didžiuoju Ma­ gistru, jis norėjo apsaugoti savo šiek tiek susilpnėjusią įtaką Rusijoj, ypač Tverio kunigaikštijoj.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: 'Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­ gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­ čiai, totoriai.'
+  pagrindžia:
+    - c-029
+- t-030
+  teiginys: '91, 167, 169, 210 Tureiskas 201 Turkija 23 Turovas 225, 242, 245, 297 Tverai Žemaičiuose, 171 Tverca, upė 158 Tverė (Kalininas), kng-ja ir kng.'
+  pagrindžia:
+    - c-030
+- t-031
+  teiginys: 'Naugardu, o Lietuvos įtakoje — Tverė.'
+  pagrindžia:
+    - c-031
+- t-032
+  teiginys: 'Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską.'
+  pagrindžia:
+    - c-032
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -445,3 +496,255 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+- c-021
+  santrauka: 'Tuo metu, greta Maskvos, visų galingiausia buvo Tverės kunigaikštystė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo metu, greta Maskvos, visų ga-
+    lingiausia buvo Tverės kunigaikštystė. Kad ji nekliudytų, Gedi-
+    minas su ja susigiminiavo, išleisdamas už Tverės kunigaikščio
+    savo dukterį. Apskritai Gediminas daug pasiekė gausingos savo
+    šeimos vedybomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: '1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriausioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai), gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų senosios Rusios.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ## Puslapis 21
+
+    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
+    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
+    mongolus prie Mėlynųjų vandenų.
+
+    1328 m. Maskvos kunigaikštis, pasinaudojęs tuo metu vyriau-
+    sioje rusėnų žemėje - Tverėje kilusiu sukilimu prieš Aukso ordą
+    (kurios vasalais tuo metu buvo visi ne Lietuvos valdyti rusėnai),
+    gavo mongolų leidimą rinkti duoklę Aukso ordai iš kitų seno-
+    sios Rusios kunigaikštijų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Gegužės 15 d. Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Gegužės 15 d.
+
+    Skirsnemunėje Švitrigaila ir Ordinas
+    patvirtino prieš metus pasirašytą sutartį,
+    taip pat Švitrigaila sustiprino ryšius su
+    Naugardu, Pskovu, Mozūrija, Odojevo ir
+    Tverės kunigaikščiais. Tuo tarpu Jogailos
+    Lenkijos santykiai su Ordinu aštrėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: '26 ## Puslapis 43 I KNYGA krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­ ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte Marija, sekdamas Gedimino politika, leido, be skirtumo, iš Romos atsiųstiems vienuoliams Vilniuje skelbti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėliau pateko Žygimanto galion; nes popiežius Eugenijus IV užtarė ją laiške Žygimantui Kęstutaičiui, rašytame iš Florencijos 1434 metų spalio 20 dieną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai, ką mūsų kronikininkai kal­
+    ba apie Švitrigailos žmonos sugavi­
+    mą Ašmenoje, esą jis neįstengęs iš­
+    sivežti kartu - tai nėra tikslu, nes tais
+    pat 1432 metais lapkričio 30 dieną
+    Švitrigaila, rašydamas Livonijos ma­
+    gistrui, užsimena, kad žmona jam
+    pagimdžiusi sūnų. Tačiau ši jo žmo­
+    na Sofija, Tverės kunigaikščio Bori­
+    so duktė, vėliau pateko Žygimanto
+    galion; nes popiežius Eugenijus IV
+    užtarė ją laiške Žygimantui Kęstu-
+    taičiui, rašytame iš Florencijos 1434
+    metų spalio 20 dieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Naudodamasis gerais santykiais su Didžiuoju Ma­ gistru, jis norėjo apsaugoti savo šiek tiek susilpnėjusią įtaką Rusijoj, ypač Tverio kunigaikštijoj.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tai Vytautas gerai suprato ir todėl sten­
+    gėsi, kad ir mažais patarnavimais, palenkti tiek lenkų, tiek ir
+    Ordino simpatijas savo pusėn, kas šiuo laiku jam taip buvo rei­
+    kalinga. Naudodamasis gerais santykiais su Didžiuoju Ma­
+    gistru, jis norėjo apsaugoti savo šiek tiek susilpnėjusią įtaką
+    Rusijoj, ypač Tverio kunigaikštijoj. Jis vėl ėmė artėti su toto­
+    riais ir stengėsi su jais atnaujinti gerus santykius^2 ); o norėda­
+    mas įsiteikti pačiam Ordinui, 1400 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: 'Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­ gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­ čiai, totoriai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Palaikydamas labai gyvus politinius santykius
+    su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
+    dėmesio ir į rytus. Per metų metus rytų reikalai jam vyrauja;
+    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
+    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
+    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
+    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
+    ar bent turėti jiems didelę įtaką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-030
+  santrauka: '91, 167, 169, 210 Tureiskas 201 Turkija 23 Turovas 225, 242, 245, 297 Tverai Žemaičiuose, 171 Tverca, upė 158 Tverė (Kalininas), kng-ja ir kng.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    52, 53
+    Tumler M. 91, 167, 169, 210
+    Tureiskas 201
+    Turkija 23
+    Turovas 225, 242, 245, 297
+    Tverai Žemaičiuose, 171
+    Tverca, upė 158
+    Tverė (Kalininas), kng-ja ir kng. 21,
+    125, 159, 198, 213, 225, 239-242,
+    263-266, 313, 321 ; Tverės kautynės
+    184 ; Tverės metraščiai 168
+    ```
+
+    (^408) VARDYNAS
+    **Tveriškė Julijona, Algirdo žmona
+    259
+    Tvirbutas, bajoras 368
+    Ugra, upė 321, 322
+    Ugros taika 371
+    Ukmergė, ir pilis 197, 233, 245, 289,
+    307, 340
+    Ukraina 88, 89, 99, 150
+    Ula, upė 95
+    Upytė 108, 130
+    Upmale 183
+    Urachas-Mindaugas II 176
+    Uralas 96
+    Urbanavičius V.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-031
+  santrauka: 'Naugardu, o Lietuvos įtakoje — Tverė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
+    Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
+    tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
+    pasirinkti sau globą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-032
+  santrauka: 'Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmiausia ji privertė savo valdžiai pasi-
+    duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
+    vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
+    (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
+    Maskvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032

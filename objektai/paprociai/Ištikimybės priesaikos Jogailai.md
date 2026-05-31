@@ -146,3 +146,17 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/autoriai/Prochaska]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Sviatoslavas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

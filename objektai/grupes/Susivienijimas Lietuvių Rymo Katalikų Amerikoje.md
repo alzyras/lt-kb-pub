@@ -80,3 +80,10 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Amerikos Lietuvių Katalikų Federacija]]
+- [[objektai/grupes/Motinėlė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/organas]]

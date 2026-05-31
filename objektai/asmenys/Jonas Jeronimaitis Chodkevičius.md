@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1569 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1569'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -45,7 +54,10 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: 'Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietuvos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos valstybingumą.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.'
@@ -107,11 +119,15 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]

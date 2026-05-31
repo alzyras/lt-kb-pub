@@ -56,4 +56,5 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Lėktuvai]]
 - [[objektai/ivykiai/Antrasis Panevėžio puolimas]]

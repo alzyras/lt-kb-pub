@@ -81,6 +81,11 @@ Vilniaus miesto amatų cechų visuma.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/zodynas/Cechas]]
 - [[objektai/asmenys/Steponas]]
+- [[objektai/zodynas/jurisdikcija]]
+- [[objektai/zodynas/Cechas]]
+- [[objektai/zodynas/Puslapis 77]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Steponas Genseris]]
+- [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)]]
+- [[objektai/paprociai/Vyskupijos jurisdikcijos pavaldinių atleidimas nuo miesto cechų ir pasaulietinės teisės]]

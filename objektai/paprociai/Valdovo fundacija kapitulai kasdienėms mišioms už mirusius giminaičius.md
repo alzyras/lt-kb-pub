@@ -1,0 +1,143 @@
+---
+tipas: paprotys
+pavadinimas: 'Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1396 m.'
+  - '1820 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XIX'
+date_start: '1396'
+date_end: '1820'
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - karalius
+  - kunigaikštis
+  - paprotys
+  - valdovas
+---
+# Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius
+
+## Santrauka
+
+Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466. [ir už mūsų, ir mūsų jau mirusių brolių Kazimiero Karigailos ir Alek­ sandro Vyganto sveikatą maldingo­ mis ir šventomis maldomis pasirū­ pinti].
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: '[ir už mūsų, ir mūsų jau mirusių brolių Kazimiero Karigailos ir Alek­ sandro Vyganto sveikatą maldingo­ mis ir šventomis maldomis pasirū­ pinti].'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus, tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­ mą Cudzeniškiais, netoli nuo Medininkų pilies, įparei- 55 Stryjkowski, p. 466.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
+    data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
+    tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
+    mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
+    55
+    Stryjkowski, p. 466, Kromer,
+    Lib. XV. p. 247, byloja, kad tas Ria-
+    zanės kunigaikščio autentiškas lai­
+    davimas už savo žentą Kaributą jo
+    laikais buvo karališkajame archyve:
+    Atque hinc nata esse videtur sponsio
+    Alexandri Resanensium Ducis pro Co-
+    ributho regi facta, et literarum monu­
+    mentis, quae extant in archivo regio,
+    signata, cum eum rex e vinculis libe-
+    rasset [Ir po to atrodo, kad yra Ria-
+    zanės kunigaikščio Aleksandro pa­
+    darytas tinkamas laidavimas už
+    karalių Kaributą ir raštiškais doku­
+    mentais, kurie tebėra karališkajame
+    archyve, antspauduotas, su kuriuo
+    karalius iš kalėjimo paleistas].
+    56
+    Szvitrigail ein Beitrag zu den Ges­
+    chichten von Lithauen, Russland,
+    Polen und Preussen von Kotzebue.
+    Leiptzig, 1820, p. 26 in 8vo.
+    57
+    Žr. smulkiau apie tai Dinaburgo
+    komtūro pranešime II knygos I
+    priede. *
+    Cudzeniszki - k. Ašmenos raj. (vert.).
+    140
+
+    ## Puslapis 157
+
+    Il KNYGA
+    godamas tiesiog kasdien aukoti skaitytines mišias už savo
+    mirusius brolius kunigaikščius: Kazimierą Karigailą ir
+    Aleksandrą Vygantą58.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: '[ir už mūsų, ir mūsų jau mirusių brolių Kazimiero Karigailos ir Alek­ sandro Vyganto sveikatą maldingo­ mis ir šventomis maldomis pasirū­ pinti].'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šioje privile­
+    gijoje Vytautas aiškiai nurodo: ...et
+    nostram ac fratrum nostrorum, videli­
+    cet Cazimiri alias Corigal et Alexandri
+    dicti Wigunt jam defunctorum, salutem
+    piis ac sanctis precibus procurare etc.
+    [ir už mūsų, ir mūsų jau mirusių
+    brolių Kazimiero Karigailos ir Alek­
+    sandro Vyganto sveikatą maldingo­
+    mis ir šventomis maldomis pasirū­
+    pinti].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Karigaila]]
+- [[objektai/asmenys/Kazimieras Karigaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]

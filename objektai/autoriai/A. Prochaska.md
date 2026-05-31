@@ -187,5 +187,9 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     - t-006
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
+### Susiję objektai
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/grupes/Vokiečiai]]

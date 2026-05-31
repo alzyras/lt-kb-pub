@@ -95,3 +95,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/seniūnas]]

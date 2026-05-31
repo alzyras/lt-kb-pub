@@ -90,4 +90,11 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
+- [[objektai/asmenys/Borisas Jelcinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]
+- [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]

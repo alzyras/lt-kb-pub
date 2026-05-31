@@ -56,5 +56,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Jekaterina II]]
 - [[objektai/grupes/Žydai]]

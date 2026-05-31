@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1896 m.'
+  - '1905 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+date_start: '1896'
+date_end: '1905'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -33,6 +44,10 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   teiginys: 'LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje prarado, patyrė ir didžiausias caro valdžios represijas.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valstybingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuomenės veikėjais, tačiau bendros kalbos nerado.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,8 +86,37 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valstybingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuomenės veikėjais, tačiau bendros kalbos nerado.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos
+    socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valsty-
+    bingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuome-
+    nės veikėjais, tačiau bendros kalbos nerado.
+    LSDP, būdama seniausia su bendriausiais lietuvių tautinio sąjūdžio
+    idealais susisiejusi partija, po revoliucijos įgytą populiarumą visuomenėje
+    prarado, patyrė ir didžiausias caro valdžios represijas. Socialdemokratai
+    rėmė Lietuvos nepriklausomybės idėją, pasisakė už socialines reformas,
+    lietuvių ir lenkų kalbų lygybę Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Socialdemokratai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/spiritus movens]]
 - [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
+- [[objektai/ivykiai/1905 m. revoliucija Lietuvoje]]
+- [[objektai/paprociai/1905 m. streikų, demonstracijų, mitingų ir profesinių organizacijų kūrimo praktika]]

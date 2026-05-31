@@ -59,7 +59,10 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   teiginys: 'Skirtingai nei katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.'
   pagrindžia:
     - c-005
-
+- t-006
+  teiginys: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos disidentai siekė priversti okupacinę valdžią gerbti žmogaus teises ir 1948 m. Visuotinę žmogaus teisių deklaraciją.'
@@ -132,3 +135,35 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sovietinė valdžia represijas prieš disidentus derino su dalinių
+    nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
+    nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
+    teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus). Skirtingai nei
+    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
+    Savo aktyvumu išsiskyrė 1978 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos laisvės lyga]]
+- [[objektai/asmenys/Pranas Morkus]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Tomas Venclova]]
+- [[objektai/asmenys/Aleksandras Štromas]]
+- [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.)]]
+- [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai]]
+- [[objektai/zodynas/rezistentas]]

@@ -47,6 +47,10 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   teiginys: 'Dusburgietis teigia, kad cistersų ordinas — 1097 viešpaties metais.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad antra knygos dalis BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ 1.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, kai kilmingasis bei garbusis valdovas ir kunigaikštis Konradas, didžiai krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos vyskupas, vardu Kristijonas, cistersų ordino.'
@@ -103,12 +107,39 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad antra knygos dalis BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ 1.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Antra knygos dalis
+
+
+                BAIGIASI PIRMA ŠIOS KNYGOS DALIS PRASIDEDA ANTRA
+
+               APIE TEUTONŲ ORDINO BROLIŲ ATVYKIMĄ Į PRŪSIJOS ŽEMĘ
+
+
+                          1. Apie tai, kaip prūsai niokojo Kulmo žemę
+
+      Tuo metu, kai kilmingasis bei garbusis valdovas  ir kunigaikštis Konradas, didžiai
+    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją160, gyveno ir Prūsijos
+    vyskupas, vardu Kristijonas, cistersų ordino vienuolis, dieviškojo žodžio sėklą dažnai
+    sėjęs tarp prūsų ir dažnai juos raginęs, kad, pametę stabus, imtų garbinti tikrąjį dievą
+    Jėzų Kristų161. Si sėkla vis dėlto nedavė jokio derliaus, nes krito į negerą dirvą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Klemensas V]]
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/grupes/Tamplierių ordinas]]
+- [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Švento Jono ligoninės ordinas]]
 - [[objektai/zodynas/žygis]]

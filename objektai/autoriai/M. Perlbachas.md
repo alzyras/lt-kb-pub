@@ -43,6 +43,11 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   teiginys: 'Dusburgietis teigia, kad 1.23 popiežiaus bulėmis (PUB 1, 1, Nr. 72, 87; Perlbach M.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad ji buvo tapatinama su Pavunda (Powunden), buvusia toliau į rytus (SRP, 1, p. 144, išnaša 4; Perlbach M., Preussische Regesten..., p. 245).'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Prūsijoje.'
@@ -110,3 +115,29 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad ji buvo tapatinama su Pavunda (Powunden), buvusia toliau į rytus (SRP, 1, p. 144, išnaša 4; Perlbach M., Preussische Regesten..., p. 245).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ji buvo tapatinama su Pavunda
+    (Powunden), buvusia toliau į rytus (SRP, 1, p. 144, išnaša 4; Perlbach M., Preussische
+    Regesten..., p. 245). Manoma, kad Abendos vardas galėjęs būti Betin, t. y. Pabečių (D.
+    III, 107, 108) vertimas (GAO, p. 7; Łowmiański H., Studja..., 2, p. 31).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Perlbach M]]

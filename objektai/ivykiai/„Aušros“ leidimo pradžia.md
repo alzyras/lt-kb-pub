@@ -61,6 +61,9 @@ Nenurodyta
 - [[temos/redaktorius]]
 
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]

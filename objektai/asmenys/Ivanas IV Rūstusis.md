@@ -92,3 +92,4 @@ tags:
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/bojarinai]]

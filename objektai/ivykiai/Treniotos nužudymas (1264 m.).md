@@ -69,3 +69,4 @@ Nenurodyta
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Treniota]]
+- [[objektai/zodynas/koniuši]]

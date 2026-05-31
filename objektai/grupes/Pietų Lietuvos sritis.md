@@ -78,6 +78,7 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Liesys-Idenas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Robertas (Sicilijos karalius)]]
@@ -86,9 +87,13 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
 - [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]
+- [[objektai/grupes/Dainavos apygarda]]
+- [[objektai/grupes/Hanza]]
 - [[objektai/grupes/LLKS gynybos pajėgos]]
 - [[objektai/grupes/Lietuvos gynybos pajėgos]]
 - [[objektai/grupes/Merkio rinktinė]]
 - [[objektai/grupes/Pietų Lietuvos saksų savanorių brigada]]
 - [[objektai/asmenys/Robertas Gedvilas-Remigijus]]
+- [[objektai/grupes/Tauro apygarda]]
+- [[objektai/asmenys/V. Zeschau]]
 - [[objektai/asmenys/Vytautas Gužas-Kardas]]

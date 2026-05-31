@@ -50,3 +50,5 @@ Kryžiuočiai buvo jau beapsupą lenkus ir būtų juos sumušę, bet tuo momentu
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/K. Škirpa]]
+- [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]

@@ -61,6 +61,10 @@ Nenurodyta
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir mitologijoje bei tautosakoje.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -116,6 +120,22 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir mitologijoje bei tautosakoje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir
+    mitologijoje bei tautosakoje. Kad bitininkystė dar ir vėliau buvo
+    svarbi ūkio šaka, rodo randami nuostatai apie bites ir bitininkų
+    teises Lietuvos Statute (1529). Nuo seno šaltiniuose yra paliudytos
+    taip pat medaus duoklės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

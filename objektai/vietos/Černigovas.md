@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1255 m.'
+  - '1411 m.'
   - '1440 m.'
   - '1936 m.'
   - '2026 m.'
@@ -89,6 +90,26 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginys: 'Kazimiero įsakymas Lietuvos muitininkams buvo išleistas Černigove.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: 'Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Lietuva tuo laiku duoklę mokėjo Polocko kunigaikščiams, o valdoma savo etmonų, o Lietuvos miestai jau buvo valdomi Kijevo ku­ nigaikščių: vieni - Černigovo, kiti - Smolensko, kiti - Polocko.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­ do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­ je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su Černigovu32.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro, Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­ tropolitų savo teises.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -288,3 +309,109 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-013
+  santrauka: 'Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Taip pat jis darė ir su kitomis mažesnėmis kunigaikštystėmis.
+    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
+    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
+    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
+    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
+    valstybės vieningumui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Lietuva tuo laiku duoklę mokėjo Polocko kunigaikščiams, o valdoma savo etmonų, o Lietuvos miestai jau buvo valdomi Kijevo ku­ nigaikščių: vieni - Černigovo, kiti - Smolensko, kiti - Polocko.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    [Lietuvos valdovų pradžia - į Poloc­
+    ko kunigaikščius, j Rogvoldo vietą
+    atėjo didysis Mstislavas Vladimiro-
+    vičius ir užėmė Polocką, o Rogvol-
+    dovičiai išbėgo į Cargradą [Konstan­
+    tinopolį]. Lietuva tuo laiku duoklę
+    mokėjo Polocko kunigaikščiams, o
+    valdoma savo etmonų, o Lietuvos
+    miestai jau buvo valdomi Kijevo ku­
+    nigaikščių: vieni - Černigovo, kiti -
+    Smolensko, kiti - Polocko. Ir Vilnia
+    [Vilnius] buvo priverstas duoti
+    duoklę Ugrų karaliui (tikriausiai Ha­
+    ličo) už saugojimą nuo didžiojo ku­
+    nigaikščio Mstislavo Rogvoldovi-
+    čiaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­ do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­ je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su Černigovu32.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    miesto teisių D n b i n s k i o rinkinv-
+    224
+
+    ## Puslapis 241
+
+    III KNYGA
+    toritetą, maždaug tuo laiku pagarsėjo vienas jų, vardu Jach­
+    na Laurinavičius, pasižymėjęs išmintimi, turtais ir įtakingu-
+    mu, o ir paties karaliaus didžiai gerbiamas31. Dar būdamas
+    didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
+    do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­
+    je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su
+    Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
+    visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro, Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­ tropolitų savo teises.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tada pats Naugarduko susirinkimas Cem­
+    blaką paskyrė Kijevo metropolitu. Susirinkusieji stačiatikių
+    vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,
+    Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo
+    Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
+    tropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­
+    skirą Lietuvai stačiatikių metropoliją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir kada Vytautas,
+    norėdamas dar labiau sustiprinti rusiškuose kraštuose savo per­
+    galės įspūdį ir daugiau laimėti jų pasitikėjimo, 1411 metų pava­
+    sarį kartu su Jogaila lankė Lietuvos Rytų pakraščius, tai jų ke­
+    lionė buvo panaši triumfui. Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017

@@ -60,4 +60,5 @@ tags:
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/grupes/Dainavos apygarda]]
 - [[objektai/grupes/Lietuvos gynybos pajėgos]]

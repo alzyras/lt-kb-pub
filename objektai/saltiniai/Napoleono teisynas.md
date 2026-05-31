@@ -10,6 +10,7 @@ datos:
   - '1795 m.'
   - '1807 m.'
   - '1863 m.'
+  - '1923 m.'
   - '1927 m.'
   - '1928 m.'
   - '1930 m.'
@@ -43,9 +44,27 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­ munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
-
+- c-002
+  santrauka: 'Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­ munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),
+    «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­
+    munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).
+    Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų
+    veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: '„Napoleono teisynas“ buvo išleistas 1930 m.'

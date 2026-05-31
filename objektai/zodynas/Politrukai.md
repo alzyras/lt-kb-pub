@@ -44,5 +44,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Lituanistika]]
 - [[objektai/asmenys/Kazimieras Būga]]

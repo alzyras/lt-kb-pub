@@ -9,6 +9,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1246 m.'
+  - '1251 m.'
   - '1262 m.'
   - '1265 m.'
   - '1274 m.'
@@ -101,6 +102,10 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: 'Dusburgietis teigia, kad 1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 
@@ -479,14 +484,56 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-020
+  santrauka: 'Dusburgietis teigia, kad 1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1251 m. dokumente — Barta major et minor
+
+    Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai. Vargu ar kuri šių giminių
+    buvo tokia nedidelė, kad karui negalėtų sutelkti dviejų tūkstančių raitųjų vyrų ir daug
+    tūkstančių karių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Divanas]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas Botelis]]
+- [[objektai/asmenys/Henrikas iš Svarcburgo]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/asmenys/Linkas]]
+- [[objektai/asmenys/Maudelis]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/zodynas/žygūnai]]
+- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
 - [[objektai/asmenys/Auktumas]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
+- [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]
 - [[objektai/asmenys/Derska]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
-- [[objektai/asmenys/Divanas]]
+- [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]
 - [[objektai/grupes/Elbingo miestiečiai]]
 - [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
 - [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
@@ -494,13 +541,20 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/asmenys/Glapas]]
 - [[objektai/asmenys/Kaltis]]
 - [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
-- [[objektai/asmenys/Linkas]]
-- [[objektai/asmenys/Maudelis]]
 - [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
 - [[objektai/asmenys/Numa]]
+- [[objektai/ivykiai/Senenzės pilies apgula ir Divano žūtis]]
+- [[objektai/ivykiai/Skomanto 9 dienų žygis, Nineriko išdavystė ir Eimsučio bei Cipelio pilių sunaikinimas]]
 - [[objektai/asmenys/Tirskas]]
+- [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]
 - [[objektai/ivykiai/Vizenburgo pilies kautynės ir apleidimas (1263 m.)]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/zodynas/bažnyčios visuotinybė]]
-- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
+- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
+- [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas|Antrasis Bartenšteino pilies sugriovimas (pilis)]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

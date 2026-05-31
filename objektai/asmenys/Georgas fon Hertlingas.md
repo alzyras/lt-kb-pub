@@ -46,8 +46,6 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

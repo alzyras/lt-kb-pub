@@ -44,4 +44,11 @@ Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąs
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Wilhelmas II]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Matijas Ercbergeris]]
+- [[objektai/asmenys/Vilhelmas fon Urachas]]

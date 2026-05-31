@@ -62,9 +62,6 @@ Uždrausdamas bajoro valstiečiams išsikelti, perduo­ damas juos ir teismo at�
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Rusai]]

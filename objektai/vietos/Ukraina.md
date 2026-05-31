@@ -11,6 +11,7 @@ datos:
   - '1557 m.'
   - '1595 m.'
   - '1596 m.'
+  - '1919 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -63,6 +64,22 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginys: 'Karališkųjų muitinių valdytojai Ukrainoje naujais mokesčiais bandė varžyti iš Vilniaus gabenamų prekių prekybą.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: '1595 m. Ukrainoje, vadovaudamas kuopai, pasižymėjo malšindamas kazokų sukilimą.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: '1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie Lvovo.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Švitrigaila, pagaliau atsiduodamas likimui, prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybė­ je praleisti paskutinių audringos senatvės dienų, o Kęstu­ čio sūnus nuo tol galėjo saugiai valdyti tiekos nelaimių iš­ kamuotą Lietuvą.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­ dė54.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -171,3 +188,81 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: '1595 m. Ukrainoje, vadovaudamas kuopai, pasižymėjo malšindamas kazokų sukilimą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1595 m. Ukrainoje,
+    vadovaudamas kuopai, pasižymėjo malšindamas ka-
+    zokų sukilimą. Veiksmuose prieš kazokus dalyvavo
+    ir1596 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: '1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie Lvovo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Buvo nustatyta Lietuvos siena.
+
+    1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie
+    Lvovo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Švitrigaila, pagaliau atsiduodamas likimui, prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybė­ je praleisti paskutinių audringos senatvės dienų, o Kęstu­ čio sūnus nuo tol galėjo saugiai valdyti tiekos nelaimių iš­ kamuotą Lietuvą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    220
+
+    ## Puslapis 237
+
+    I I I  KNYGA
+    dysis magistras gudriausiomis suktybėmis siekė, kad nu­
+    trūktų Lietuvos ir Lenkijos sąjunga, grėsmingos jų užma­
+    čios žlugo; su Vladislovu Jogaila turėjo būti sudaryta ilga­
+    laikė taika. Švitrigaila, pagaliau atsiduodamas likimui,
+    prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybė­
+    je praleisti paskutinių audringos senatvės dienų, o Kęstu­
+    čio sūnus nuo tol galėjo saugiai valdyti tiekos nelaimių iš­
+    kamuotą Lietuvą. Palankios buvo visos aplinkybės, nes ir
+    nesutarimai (1434 metų), galėję kilti tarp Žygimanto ir Jo­
+    gailos, buvo užglaistyti naujos tarpusavio sutarties23.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­ dė54.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Išliko nemaža
+    įrodymų, kaip Batoras globojo Vilniaus pirklius, kurie iš­
+    vystė nemažą prekybą, ypač kailiais, nukakdami iki pat
+    Gniezno ir kitų Didžiosios Lenkijos miestų. Karališkųjų
+    muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­
+    kesčiais iš Vilniaus gabenamoms prekėms tą prekybą bandė
+    suvaržyti, bet griežti karaliaus draudimai juos veikiai sutram­
+    dė54. Svarbi sutartis su Paleckiu, stiklo liejyklos savininku, ka­
+    raliaus paskirtų senatorių pastangomis, išlaisvino miestą
+    nuo ateityje labai nemalonaus monopolio, kuris būtų smar­
+    kiai pakėlęs stiklo kainą miesto gyventojams55.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

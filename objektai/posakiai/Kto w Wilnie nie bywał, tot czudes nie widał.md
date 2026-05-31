@@ -9,18 +9,20 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: ""
-datos:
-  - "1495-1496 m."
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XV"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1495 m.'
+  - '1501 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XVI'
+date_start: '1495'
+date_end: '1501'
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags: []
@@ -60,7 +62,10 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Šach Ach­ medas, apleistas sąjungininko, Mendli Girėjaus sumuštas, 43 Žinome, kad Maskvoje iki šiol dar išlikęs priežodis: Kto w Wilnie nie by­ wał, tot czudes nie widał [Kas Vilniuje nebuvo, tas stebuklų neregėjo].'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata pagrindžia formulės formą ir jos vartojimo kontekstą.
@@ -82,10 +87,33 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Šach Ach­ medas, apleistas sąjungininko, Mendli Girėjaus sumuštas, 43 Žinome, kad Maskvoje iki šiol dar išlikęs priežodis: Kto w Wilnie nie by­ wał, tot czudes nie widał [Kas Vilniuje nebuvo, tas stebuklų neregėjo].'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
+    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
+    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
+    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
+    naudoti savo galios ir susidoroti su savo priešais. Šach Ach­
+    medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,
+    43
+    Žinome, kad Maskvoje iki šiol dar
+    išlikęs priežodis: Kto w Wilnie nie by­
+    wał, tot czudes nie widał [Kas Vilniuje
+    nebuvo, tas stebuklų neregėjo]. At­
+    rodo, kad šią nuomonę išplatino tie,
+    kurie didžiąją kunigaikštytę Eleną
+    atlydėjo į Vilnių ir buvo sužavėti
+    nuostabaus priėmimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/vilnius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Elena]]

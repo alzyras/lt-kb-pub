@@ -53,3 +53,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/3-ioji divizija]]
+- [[objektai/grupes/ioji divizija]]
+- [[objektai/grupes/oji divizija]]

@@ -110,3 +110,4 @@ Nenurodyta
 - [[objektai/grupes/Algimanto apygarda]]
 - [[objektai/grupes/Šarūno rinktinė]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]

@@ -60,4 +60,6 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/saar]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]

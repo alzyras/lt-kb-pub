@@ -57,3 +57,5 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
 - [[objektai/grupes/Husitai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]
+- [[objektai/zodynas/bojarinai]]

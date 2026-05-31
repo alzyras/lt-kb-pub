@@ -226,8 +226,16 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karūnacija]]
-- [[temos/konfliktas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jono Czarnkowskio]]
 - [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]

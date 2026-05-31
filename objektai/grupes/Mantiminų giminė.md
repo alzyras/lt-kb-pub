@@ -74,3 +74,4 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 - [[objektai/asmenys/Nameda]]
 - [[objektai/asmenys/Pasdrauputis]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

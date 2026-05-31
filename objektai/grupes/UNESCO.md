@@ -49,6 +49,10 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Europos Sąjunga]]
 - [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
 - [[objektai/grupes/Jungtinių Tautų organizacija]]
+- [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
 - [[objektai/grupes/Tarptautinė darbo organizacija]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

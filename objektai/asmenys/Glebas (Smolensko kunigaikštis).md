@@ -63,5 +63,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį]]
 - [[objektai/asmenys/Jagurčinas]]
+- [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
 - [[objektai/asmenys/Olegas (Romano sūnus)]]

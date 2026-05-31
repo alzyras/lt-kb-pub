@@ -57,3 +57,4 @@ Dusburgietis teigia, kad apie Dovydo Gardiniškio alodo, arba dvaro, sunaikinim�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Pilininkas]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

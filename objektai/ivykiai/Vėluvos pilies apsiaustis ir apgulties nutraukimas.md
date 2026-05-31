@@ -117,4 +117,5 @@ Nenurodyta
 - [[objektai/grupes/Teutonai]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Henrikas Tupadelis]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/zodynas/balista balistininkas arbaletas]]

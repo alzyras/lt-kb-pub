@@ -80,4 +80,6 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/daiktai/Laivai]]

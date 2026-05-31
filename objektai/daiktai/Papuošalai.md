@@ -118,6 +118,11 @@ Nenurodyta
 - [[temos/papuošalas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
+- [[objektai/daiktai/Gintaro ir stiklo karoliai]]
+- [[objektai/autoriai/Henrikas Latvis]]
 - [[objektai/daiktai/Juostos]]
+- [[objektai/daiktai/Lietuvos žalvario (bronzos) amžiaus dirbiniai]]

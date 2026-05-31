@@ -44,6 +44,10 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   teiginys: 'Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24) Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas Zarasaig&).'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Jų įvairaus dydžio daliniai sistemingai puldinėjo Alytaus, Trakų, Širvintų, Ukmergės, Utenos ir Zarasų apskričių vietoves, kurias gynė tik negausios vietinių karo komendantūrų kuopos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -90,3 +94,20 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Jų įvairaus dydžio daliniai sistemingai puldinėjo Alytaus, Trakų, Širvintų, Ukmergės, Utenos ir Zarasų apskričių vietoves, kurias gynė tik negausios vietinių karo komendantūrų kuopos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jų įvairaus dydžio daliniai sistemingai puldinėjo
+    Alytaus, Trakų, Širvintų, Ukmergės, Utenos ir Zarasų apskričių vieto-
+    ves, kurias gynė tik negausios vietinių karo komendantūrų kuopos.
+    Rugsėjo mėnesį lenkai užėmė Širvintas, Gelvonus, Bagaslaviskj (24)
+    Želvą, Balnininkus, Alantą, Salaką ir kitas vietoves iki plento Kaunas
+    Zarasaig&).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

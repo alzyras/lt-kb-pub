@@ -105,3 +105,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Laivai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/legatas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Sventopelkas]]

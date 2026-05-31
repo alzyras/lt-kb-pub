@@ -7,6 +7,15 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1631 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+date_start: '1631'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -41,6 +50,14 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir Stanislovo Augusto.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,3 +132,62 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar
+    jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos
+    ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepa-
+    geidaujamos Prancūzijos konkurencijos šiame regione. Karaliumi
+    tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.
+    Abiejų Tautų Respublikos silpnėjimas tragiškai sutapo su jos kai-
+    mynių sustiprėjimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­ gusto III ir Stanislovo Augusto.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taigi:
+    180
+
+    ## Puslapis 197
+
+    Il KNYGA
+    1631 metais Akademijos kolegija, Dievo Kūno koplyčios
+    sutikimą turėdama, įgijo savo nuosavybei minėtą sklypą ir
+    mūrinį namą, kurį vėlesniais laikais toji pati Akademijos ko­
+    legija spaustuve pavertė.
+    Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­
+    las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­
+    gusto III ir Stanislovo Augusto.
+    Nėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­
+    kiamą naudą ir paskutiniojoje privilegijoje išsakytą sąlygą,
+    kad nuo kiekvienos naujai išspausdintos knygos po vieną
+    egzempliorių privalo duoti Lietuvos kancleriams ir Viešajai
+    bibliotekai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/suverenumas]]
+- [[objektai/asmenys/Stanislovas Leščinskis]]
+- [[objektai/zodynas/elektorius]]
+- [[objektai/paprociai/Privalomas naujai išspausdintų knygų egzempliorių davimas kancleriams ir Viešajai bibliotekai]]

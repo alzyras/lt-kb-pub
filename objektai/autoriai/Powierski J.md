@@ -212,4 +212,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 - [[objektai/daiktai/Šventasis ąžuolas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]
 - [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]
+- [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]

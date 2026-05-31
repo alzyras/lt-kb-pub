@@ -92,9 +92,7 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos]]
 - [[objektai/grupes/Provincijų sesijos]]

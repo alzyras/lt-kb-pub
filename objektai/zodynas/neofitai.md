@@ -122,3 +122,9 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/neofitas]]
+- [[objektai/asmenys/Bernardas (Jachnos sūnus)]]
+- [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]
+- [[objektai/grupes/Bernardinų ordinas]]
+- [[objektai/asmenys/Jachna Laurinavičius]]
+- [[objektai/asmenys/Mikalojus Laurinavičius]]
+- [[objektai/zodynas/Puslapis 77]]

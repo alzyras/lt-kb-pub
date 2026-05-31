@@ -45,6 +45,8 @@ O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią i
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
+- [[objektai/grupes/Lietuvos šaulių sąjunga]]
 - [[objektai/grupes/Voldemarininkai]]

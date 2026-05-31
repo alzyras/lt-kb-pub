@@ -65,3 +65,4 @@ Lietuvių kunigaikščių posakis apibūdina užimtų žemių tvarkos išlaikymo
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
+- [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas]]

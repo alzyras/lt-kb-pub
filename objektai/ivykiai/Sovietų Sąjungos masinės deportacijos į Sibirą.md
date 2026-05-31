@@ -100,3 +100,4 @@ Nenurodyta
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/kolektyvizacija]]
 - [[objektai/ivykiai/1944 m. emigracija į Vakarus]]
+- [[objektai/grupes/Lietuvos Helsinkio grupė]]

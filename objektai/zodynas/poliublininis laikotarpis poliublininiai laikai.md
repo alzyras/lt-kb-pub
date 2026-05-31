@@ -59,7 +59,10 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: 'Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933).'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pirmaisiais poliublininiais dešimtmečiais Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą jos valstybinę sąmonę.'
@@ -134,6 +137,24 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    , labiausiai Šapoka tyrinėjo valsty­
+    binius Lietuvos ir Lenkijos santykius, pirmiausiai ta tema paskelb­
+    damas studiją apie Jogailos aktus (JoŠ). Perėjęs pagrindinai į
+    poliublininius laikus ir juose «ieškodamas lietuvių », jis davė eilę
+    straipsnių periodikoje (NaR nuo 1931 ; Židinyje nuo 1933). Moksli­
+    niu rūpestingumu jis parašė plačią disertaciją « Lietuva ir Lenkija
+    po 1569 metų Liublino unijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

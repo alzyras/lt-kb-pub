@@ -84,5 +84,6 @@ Nenurodyta
 - [[objektai/daiktai/Varpai]]
 - [[objektai/daiktai/Monetos]]
 - [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
+- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
 - [[objektai/zodynas/misijų teorija]]
 - [[objektai/zodynas/vidaus kolonizacija]]

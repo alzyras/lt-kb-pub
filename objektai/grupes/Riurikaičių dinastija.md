@@ -50,6 +50,14 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   teiginys: 'Tik Lietuvos daliniai kunigaikščiai, ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai, nebuvo savarankus valdovai.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Abu jiedu įkūrė iki šiol patverusias sostines (Vilnių, Kremlių), į jų pamatus įmūrydami amžiną Gedimino sosti­ nės ir Maskvos antagonizmą, išlaikytą ne tik jų dinastijų, bet ir vėlybesnių palikuonių.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,12 +110,60 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Be to,
+    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
+    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
+    Alšėnų kunigaikščiai. Antra vertus, Lietuvai užėmus Rusios žemes, ne visi
+    senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio
+    gyvenimo. Vėlesniais amžiais LDK gyvenime rasis iš tokių kunigaikščių
+    kilusių veiklių Lietuvos giminių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Abu jiedu įkūrė iki šiol patverusias sostines (Vilnių, Kremlių), į jų pamatus įmūrydami amžiną Gedimino sosti­ nės ir Maskvos antagonizmą, išlaikytą ne tik jų dinastijų, bet ir vėlybesnių palikuonių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Abu jiedu įkūrė iki šiol patverusias sostines
+    (Vilnių, Kremlių), į jų pamatus įmūrydami amžiną Gedimino sosti­
+    nės ir Maskvos antagonizmą, išlaikytą ne tik jų dinastijų, bet ir
+    vėlybesnių palikuonių. Ir Gediminas, ir Jonas Kalita savo valdžioje
+    turėjo eilę dalinių kunigaikščių. Tik Lietuvos daliniai kunigaikščiai,
+    ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai,
+    nebuvo savarankus valdovai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Kalita]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/asmenys/Fiodoras]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]
+- [[objektai/grupes/Alšėnų kunigaikščiai]]
+- [[objektai/grupes/Romanovų dinastija]]
+- [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]

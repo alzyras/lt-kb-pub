@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1905 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XX'
+date_start: '1905'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -37,6 +46,10 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginys: 'Abi draugijos daug dėmesio skyrė praeičiai, LDK paveldui, bet Lietuvių draugija ypač orientavosi į lietuvių kalbos ir etninės kultūros tyrimus, mokyklinių vadovėlių lietuvių mokykloms rengimą.'
   pagrindžia:
     - c-005
+- t-005
+  teiginys: 'Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizacijos.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,7 +90,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     - t-002
 - c-003
   santrauka: Lietuvių Mokslo Draugija papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     D. karo metu dalis tų pinigų žuvo iš Vilniaus iš-
     vežtuose bankuose, o iš kitos dalies 1915—1922 m. Lietuvių
@@ -114,8 +127,30 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-006
+  santrauka: 'Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizacijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-
+    jos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
+    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
+    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
+    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
+    telkusi lenkiškai kalbančiuosius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/J. Basanavičius]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
 - [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
+- [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]

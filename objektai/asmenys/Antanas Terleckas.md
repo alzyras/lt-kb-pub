@@ -62,3 +62,9 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos laisvės lyga]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

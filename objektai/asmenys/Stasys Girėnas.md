@@ -116,8 +116,12 @@ tags:
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
+- [[objektai/daiktai/Lėktuvai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„Antanas nori būti ore“]]
+- [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
+- [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]
+- [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]
+- [[objektai/posakiai/„paskirti save Tėvynės garbei“]]

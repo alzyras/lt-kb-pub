@@ -92,3 +92,15 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bartai]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

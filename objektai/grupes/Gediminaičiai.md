@@ -48,5 +48,13 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 
 ### Susiję objektai
 - [[objektai/grupes/Jogailaičiai]]
+- [[objektai/grupes/Litvakai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/ivykiai/Gnievkovo suvažiavimas]]
+- [[objektai/daiktai/Herbai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
 - [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]
+- [[objektai/grupes/Jogailaičių dinastija]]

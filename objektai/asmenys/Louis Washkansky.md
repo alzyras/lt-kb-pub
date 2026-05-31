@@ -47,4 +47,8 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Litvakai]]
+- [[objektai/asmenys/Bernardas Berensonas]]
+- [[objektai/asmenys/David Baltimore]]
+- [[objektai/asmenys/Gertrude Ellion]]
 - [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
+- [[objektai/asmenys/Sydney Brenner]]

@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -60,6 +66,10 @@ Nenurodyta
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Anksčiau dėl šių dalykų bajorai turėjo atsiklausti didžiojo kunigaikščio, kuris žiūrėjo, kad dvarai ir kraičiai atitektų tik tokiems bajorams, kurie su savo vy­ rais galėtų dalyvauti karuose ir atlikti privalomus jiems vals­ tybės darbus.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -134,7 +144,32 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-003
+- c-005
+  santrauka: 'Anksčiau dėl šių dalykų bajorai turėjo atsiklausti didžiojo kunigaikščio, kuris žiūrėjo, kad dvarai ir kraičiai atitektų tik tokiems bajorams, kurie su savo vy­ rais galėtų dalyvauti karuose ir atlikti privalomus jiems vals­ tybės darbus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Anksčiau dėl šių dalykų
+    bajorai turėjo atsiklausti didžiojo kunigaikščio, kuris žiūrėjo, kad
+    dvarai ir kraičiai atitektų tik tokiems bajorams, kurie su savo vy­
+    rais galėtų dalyvauti karuose ir atlikti privalomus jiems vals­
+    tybės darbus. Dabar ir nuo jų bajorai katalikai buvo atleisti,
+    paliekant tik pareigą statyti naujas ir taisyti senas pilis tais
+    atvejais, kai į šį darbą stoja visi Lietuvos gyventojai. Privile­
+    gijos greitai bajorus patraukė prie katalikų tikėjimo ir paskati­
+    no aktyviai jį remti, kas pasireiškė tuo, kad turtingesni didikai
+    ir bajorai, sekdami kunigaikščių pavyzdžiu, taip pat statė baž­
+    nyčias ir dovanojo joms žemių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/kunigaikščiai]]

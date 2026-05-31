@@ -30,7 +30,10 @@ tags:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš akis galimas partizanų negailestingas sankcijas.“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos kariuomenės ulonų puskarininkio Jono NeifaltoLakūno ir jam talkinančio Aleksandro.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandras Podemanskas-Šarūnas talkino Jono Neifalto-Lakūno vadovaujamam partizanų koviniam vienetui.'
@@ -54,7 +57,27 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš akis galimas partizanų negailestingas sankcijas.“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos kariuomenės ulonų puskarininkio Jono NeifaltoLakūno ir jam talkinančio Aleksandro.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš
+    akis galimas partizanų negailestingas sankcijas.“
+
+    Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos
+    kariuomenės ulonų puskarininkio Jono
+    Neifalto- Lakūno ir jam talkinančio
+
+    Aleksandro Podemansko - Šarūno.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/zodynas/ulonai]]

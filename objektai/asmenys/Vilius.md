@@ -1,0 +1,81 @@
+---
+tipas: asmuo
+pavadinimas: 'Vilius'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - asmuo
+  - kraštas
+  - kunigaikštis
+  - miestas
+---
+# Vilius
+
+## Santrauka
+
+Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0.
+
+## Teiginiai
+- t-001
+  teiginys: 'Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dlugošas nurodo, jog Vilnius yra senovinis miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo vado Viliaus, kuris juos iš Italijos atvedęs0.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dlugošas nurodo, jog Vilnius yra senovinis
+    miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo
+    vado Viliaus, kuris juos iš Italijos atvedęs0. Tačiau ta nuo-
+    c
+    Historya Państwa Rossyjsk., vert. į len­
+    kų k., T. IV, L 45.
+    d
+    Histor. Polon. Lib. X, p. 116, ed. Lipsk.
+    Ibi primum oppidum Vilna, quod et in
+    hanc dietn caput genti est ex nomine Villi
+    ducis, quo authore et Italiam deseruerunt
+    et regiones illas ingressi fuerant condi­
+    dere. Fluminibus quoque circa illud flu­
+    entibus, Villia et Vilna, ex ejusdem du­
+    cis nomine, indidere nomina [Kur gar­
+    sus miestas Vilnius, kuris ir šiandien
+    genties sostinė yra, nuo kunigaikščio
+    Viliaus vardo, su kuriuo [jie] ir Italiją
+    paliko, ir į kitus kraštus atvesti įsikū­
+    rė. Taip pat upėms, aplink jį tekan­
+    čioms, nuo šio kunigaikščio vardo
+    davė Vilijos ir Vilnios vardus!.
+    46
+
+    ## Puslapis 63
+
+    I KNYGA
+    monė, paremta tik atsitiktiniu žodžių panašumu, yra mūsų
+    senovės istorikų neįveiktos silpnybės Lietuvos kilmę sieti
+    su romėnais pasekmė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Romėnai]]
+- [[objektai/ivykiai/Viliaus Gaigalaičio pareiškimas Prūsijos Landtage dėl Didžiosios Lietuvos prijungimo prie Vokietijos]]

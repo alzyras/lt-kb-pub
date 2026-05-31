@@ -66,4 +66,5 @@ Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę š
 - [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]
 - [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.)]]
 - [[objektai/grupes/Pamarėnai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/asmenys/Živinbudas]]

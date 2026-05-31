@@ -39,6 +39,10 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   teiginys: 'Dusburgietis teigia, kad nors apie Ordino pastangas pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“ (III, 219). Netgi kalbėdamas apie XIV a.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad kalbėdamas apie Skomanto vadovaujamų sūduvių ir lietuvių kariuomenės įsiveržimą į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis dažniau įsibraudavo“ į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Sembą, jis pabrėžia, jog „daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium, nors šį bei tą reikia pasakyti“ (III, 68), vėliau taip pat pažymi, kad „vargu ar.'
@@ -93,6 +97,24 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad kalbėdamas apie Skomanto vadovaujamų sūduvių ir lietuvių kariuomenės įsiveržimą į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis dažniau įsibraudavo“ į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kalbėdamas apie Skomanto vadovaujamų sūduvių  ir lietuvių kariuomenės įsiveržimą
+    į Kulmo žemę, kronikininkas apibendrintai tik konstatuoja, jog prieš tai „sūduviai vis
+    dažniau įsibraudavo“  į šią teritoriją ir sėkmingai ją nusiaubdavo, o vėliau patirdavo ir
+    nuostolių, kad tai labai dažnai pasikartodavo (III, 192). Nors apie Ordino pastangas
+    pavergti Sūduvą kronikininkas plačiai rašo, bet ir čia išsitaria: „Daug kartų ir be galo ilgai
+    broliai kariavo su sūduviais, tačiau, nenorėdami išsiplėsti, nerašysime apie tuos karus“
+    (III, 219). Netgi kalbėdamas apie XIV a.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

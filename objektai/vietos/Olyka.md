@@ -7,14 +7,15 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1507 m.'
   - '1519 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-date_start: '1519'
-date_end: ''
+date_start: '1507'
+date_end: '1519'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -37,6 +38,10 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino 1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,3 +78,18 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino 1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mirė 1507 metais.
+    11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
+    ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
+    1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

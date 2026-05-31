@@ -7,13 +7,15 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
+datos:
+  - '1289 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XIII'
   - 'XIX'
-date_start: ''
+date_start: '1289'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -71,6 +73,19 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginys: 'Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: 'Dusburgietis teigia, kad pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai.'
+  pagrindžia:
+    - c-016
+- t-014
+  teiginys: 'Dusburgietis teigia, kad apie Skalvos žemės nusiaubimą Kadangi lengvai pelnomas atleidimas skatina dar daugiau nusidėti, reikėjo, kad skalviai už šitokį akiplėšišką nusikaltimą gautų sunkią bausmę, antraip jie ir ateityje galėtų mėginti šitaip nusižengti.'
+  pagrindžia:
+    - c-017
+- t-015
+  teiginys: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
+  pagrindžia:
+    - c-018
+
 ## Reikšmingi paminėjimai
 
 - c-002
@@ -323,10 +338,87 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-009
+- c-016
+  santrauka: 'Dusburgietis teigia, kad pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pereinamosiomis tarmėmis laikomi  ir nadruviai, ypač skalviai.
+    Materialinės kultūros požiūriu nadruviai, manoma, buvę artimesni prūsams, o skalviai
+    prie Nemuno žemupio siejęsi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų,
+    žemaičių (žemutinių lietuvių) ir latvių13.
+      Šiuo metu nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, t.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-017
+  santrauka: 'Dusburgietis teigia, kad apie Skalvos žemės nusiaubimą Kadangi lengvai pelnomas atleidimas skatina dar daugiau nusidėti, reikėjo, kad skalviai už šitokį akiplėšišką nusikaltimą gautų sunkią bausmę, antraip jie ir ateityje galėtų mėginti šitaip nusižengti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Skalvos žemės nusiaubimą
+
+      Kadangi lengvai pelnomas atleidimas skatina dar daugiau nusidėti, reikėjo, kad skalviai
+    už šitokį akiplėšišką nusikaltimą gautų sunkią bausmę, antraip jie  ir ateityje galėtų
+    mėginti šitaip nusižengti. Tad magistras  ir broliai, norėdami atkeršyti, subūrė stiprią
+    kariuomenę, kuri, įsibrovusi  į Skalvos žemę, nusiaubė ją skersai ir išilgai, plėšdama ir
+    degindama, toje jos dalyje, kuri susisiekia su Prūsijos žeme471, daug žmonių išžudė, o
+    moteris ir vaikus surištus išsivarė. Tuo metu Stinigutas472, skalvių vadas, ėmė juos vytis
+    su didele kariuomene, o magistras ir broliai, šitai pastebėję, slaptai paspendė pasalas,
+    užpuolė žygiuojančią skalvių kariuomenę, daug jų nukovė, o kitus privertė bėgti.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-018
+  santrauka: 'Dusburgietis teigia, kad apie Ragainės ir Skalvių pilių pastatymą 1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti krikščionių gyvenamus plotus ir padidinti Prūsijos žemes, patraukė švento Jurgio kankinio dieną (balandžio 23) su galybe karių į skalvių.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Ragainės ir Skalvių pilių pastatymą
+
+      1289 viešpaties metais tas pats brolis Meinhardas, didžiai trokšdamas praplėsti
+    krikščionių gyvenamus plotus  ir  padidinti Prūsijos žemes, patraukė švento Jurgio
+    kankinio dieną (balandžio 23) su galybe karių  į skalvių žemę ir dievo garbei bei šlovei
+    ant vienos kalvos Nemuno pakrantėje pastatė pilį, vardu Landeshutė, o lotyniškai šitai
+    reiškia žemėsauga, tačiau dabar ji visų vadinama nuo šalimais tekančio upelio Ragaine,
+    palikdamas ten jai ginti iš Austrijos kilusį brolį Bertoldą, vadinamą Briuhavenu, komtūrą,
+    su 40 brolių ir šimtu rinktinių ginklanešių. Neilgai trukus prie Nemuno, šiek tiek žemiau,
+    pastatė Skalvių pilį528, kad turėtų kur gyventi skalviai, atsivertę į Kristaus tikėjimą.
+
+
+
+
+     236 (229).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/A. Becenbergeris]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Galindai]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/asmenys/Svisdeta]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Albrechtas iš Hageno]]
+- [[objektai/grupes/Bartai]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
 - [[objektai/autoriai/Clasen-Sandt K]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
@@ -335,19 +427,26 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - [[objektai/asmenys/Jonas, vadinamas Pope]]
 - [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/La Baume W]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/M. Tepenas]]
 - [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]
 - [[objektai/daiktai/Pančiai]]
+- [[objektai/autoriai/R. Jasas]]
 - [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]
 - [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
+- [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
 - [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]
 - [[objektai/asmenys/Sarkis]]
 - [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]
 - [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema)]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/autoriai/Tautavičius A]]
 - [[objektai/zodynas/fogtas]]
-- [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/ginklanešys]]
 - [[objektai/posakiai/kol dar jiems bus likę kas daro]]
 - [[objektai/posakiai/težino vienas dievas]]
+- [[objektai/zodynas/vakariniai baltai]]
 - [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje|Žuvų tvenkinys Ragainės pilyje (pilis)]]
+- [[objektai/grupes/Lamatiečiai]]

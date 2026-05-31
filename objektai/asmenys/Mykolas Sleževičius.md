@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1920 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1920'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -45,6 +54,14 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginys: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, L I E T U V O S I S T O R I J A 138 greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, padedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Sleževičiaus vaidmuo L I E T U V O S I S T O R I J A 144 nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą, konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pakvietė priešintis įsiveržėliams ir tautines mažumas, dėl.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,7 +138,65 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, L I E T U V O S I S T O R I J A 138 greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, padedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokietija pateikė
+    ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
+    reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą. Nau-
+    joji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,
+
+    L I E T U V O S  I S T O R I J A
+    138
+    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
+    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
+    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Sleževičiaus vaidmuo L I E T U V O S I S T O R I J A 144 nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą, konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pakvietė priešintis įsiveržėliams ir tautines mažumas, dėl.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sleževičiaus vaidmuo
+
+    L I E T U V O S  I S T O R I J A
+    144
+    nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
+    konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-
+    kvietė priešintis įsiveržėliams ir tautines mažumas, dėl to Lietuvos ka-
+    riuomenėje kovėsi ir žydų bei baltarusių savanoriai. Lietuviai atmetė
+    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
+    lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
+    rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
+    bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Antantė]]
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Socialdemokratai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„lenkai atakuoja...“]]
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
+- [[objektai/daiktai/Ginklai ir ginkluotė]]
+- [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
+- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
+- [[objektai/grupes/Ministerių kabinetas]]

@@ -60,3 +60,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Europos Sąjunga]]
+- [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
+- [[objektai/grupes/Jungtinių Tautų organizacija]]
+- [[objektai/grupes/Tarptautinė darbo organizacija]]
+- [[objektai/grupes/UNESCO]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

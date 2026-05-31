@@ -53,3 +53,4 @@ Kitas ukrainietis istorikas V. Zai­ kinas rašė iš teisės filosofijos ir rel
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Ukrainiečiai]]

@@ -28,6 +28,10 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
   teiginys: 'Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Dusburgietis teigia, kad , p. Žirgupė Žydai Žuvintas, ež.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.'
@@ -43,3 +47,18 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad , p. Žirgupė Žydai Žuvintas, ež.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    , p.
+      Žirgupė
+      Žydai
+      Žuvintas, ež.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

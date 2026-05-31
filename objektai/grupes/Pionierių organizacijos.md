@@ -63,4 +63,6 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Komjaunimas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/daiktai/Lenino kampeliai ir sienlaikraščiai]]

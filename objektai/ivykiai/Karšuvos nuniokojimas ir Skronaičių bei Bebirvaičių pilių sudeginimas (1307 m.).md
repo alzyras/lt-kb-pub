@@ -70,3 +70,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Karšuviai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/komtūras]]

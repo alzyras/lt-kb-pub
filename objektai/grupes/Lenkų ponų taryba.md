@@ -73,9 +73,14 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
+- [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
 - [[objektai/grupes/Lenkų bajorija]]
-- [[objektai/zodynas/perdėtinis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/zodynas/perdėtinis]]

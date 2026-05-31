@@ -8,6 +8,12 @@ aliases:
   - 'Karūnacinis seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -27,7 +33,10 @@ Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šauki
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Pačius karaliaus rinkimus atlikdavo visa susirinkusi bajorija; seimas tik atlikdavo visus formalumus.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvykdavo karūnacija.'
@@ -48,6 +57,23 @@ Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šauki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pačius karaliaus rinkimus atlikdavo visa susirinkusi bajorija; seimas tik atlikdavo visus formalumus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pačius karaliaus rinkimus
+    atlikdavo visa susirinkusi bajorija; seimas tik atlikdavo visus for-
+    malumus. Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
+    mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
+    davo karūnacija.
+    **Konfederaciniai seimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

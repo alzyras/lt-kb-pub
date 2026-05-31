@@ -51,3 +51,9 @@ Marcinkevičių ir dar vieną rusą karininką.
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/NKGB]]
+- [[objektai/asmenys/Bernardas Berensonas]]
+- [[objektai/asmenys/David Baltimore]]
+- [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/grupes/Litvakai]]
+- [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
+- [[objektai/asmenys/Sydney Brenner]]

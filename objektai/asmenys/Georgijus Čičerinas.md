@@ -42,3 +42,9 @@ Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuj
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/de facto]]
+- [[objektai/ivykiai/Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.)]]

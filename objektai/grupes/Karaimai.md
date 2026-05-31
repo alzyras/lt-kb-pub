@@ -63,6 +63,10 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   teiginys: 'Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Tie karaimai, kurie išties galėtų būti vadinami žvdų disiden­ tais, atkeliavo į Lietuvą iš rytų, o įvairias aplinkybes įvertinęs, numa­ nau, kad jų atvykimą reikėtų Vytau­ to viešpatavimo laikams priskirti, juk šis kunigaikštis, kurio valdžia siekė tolimus.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -177,8 +181,51 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Tie karaimai, kurie išties galėtų būti vadinami žvdų disiden­ tais, atkeliavo į Lietuvą iš rytų, o įvairias aplinkybes įvertinęs, numa­ nau, kad jų atvykimą reikėtų Vytau­ to viešpatavimo laikams priskirti, juk šis kunigaikštis, kurio valdžia siekė tolimus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    teologijos daktaro, var­
+    dą. Bet Vytauto privilegija negalio­
+    jo žydų kitai sektai, vadinamai ka­
+    raimais, Lietuvoje, Trakų mieste, ir
+    labai menkoje Vilniaus dalyje įsikū-
+    rusiems. Tie karaimai, kurie išties
+    galėtų būti vadinami žvdų disiden­
+    tais, atkeliavo į Lietuvą iš rytų, o
+    įvairias aplinkybes įvertinęs, numa­
+    nau, kad jų atvykimą reikėtų Vytau­
+    to viešpatavimo laikams priskirti,
+    juk šis kunigaikštis, kurio valdžia
+    siekė tolimus rytų kraštus, noriai
+    priimdavo ateivius iš tų šalių ir juos
+    priglobdavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
 - [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
+- [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
+- [[objektai/grupes/Sentikiai]]
+- [[objektai/zodynas/daugiakonfesiškumas]]
+- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
+- [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]

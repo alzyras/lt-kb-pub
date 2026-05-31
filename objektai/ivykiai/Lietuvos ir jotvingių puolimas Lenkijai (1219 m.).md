@@ -93,3 +93,4 @@ Nenurodyta
 - [[objektai/zodynas/priešmindauginė Lietuva]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

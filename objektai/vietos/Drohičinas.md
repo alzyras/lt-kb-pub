@@ -61,6 +61,14 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   teiginys: 'Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 ).'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -171,3 +179,45 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu dovanodamas kunigaikštišką Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambravos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius Drohičino, Brastos ir Dubno.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    112.
+    I1l
+
+    ## Puslapis 128
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
+    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
+    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
+    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
+    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
+    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
+    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuviai pasižadėjo nebeužpuldinėti pieti­
+    nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
+    tenburgo ir Gunlaukeno apskričiai. O Vokiečiai apsiėmė tik su
+    krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­
+    kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
+    tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
+    timis galį taikos ir nesilaikyti^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

@@ -73,5 +73,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/zodynas/chanas]]
+- [[objektai/asmenys/Machmetas]]
 - [[objektai/asmenys/Chudandachas]]
 - [[objektai/grupes/Užvolgio totoriai]]

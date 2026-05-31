@@ -96,4 +96,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Druska]]
 - [[objektai/daiktai/Katilas]]
+- [[objektai/daiktai/Mietas]]
 - [[objektai/zodynas/Gaspadinė|gaspadinė]]

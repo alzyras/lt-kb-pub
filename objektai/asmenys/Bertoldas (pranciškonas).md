@@ -53,17 +53,8 @@ Tur būt, Gediminas nebuvo tiek daug ketinęs, kiek du pranciškonai (Bertoldas 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Bertoldas iš Nordhauzeno]]
-- [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
-- [[objektai/asmenys/Gotfridas Hohenlohė]]
-- [[objektai/asmenys/Hermanas iš Šenenbergo|Hermanas iš Šenenbergo (karvedys, XIII a.)]]
-- [[objektai/ivykiai/Kolainių pilies sudeginimas ir Junigedos valsčiaus nusiaubimas (1291 m. vasario 2 d.)]]
-- [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]
-- [[objektai/ivykiai/Rygos apsiausties pralaužimas (1298 m. birželio 29 d.)]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]

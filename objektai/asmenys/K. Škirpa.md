@@ -149,3 +149,16 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]
+- [[objektai/grupes/brigada]]
+- [[objektai/zodynas/rezervai]]
+- [[objektai/zodynas/rezervas]]
+- [[objektai/grupes/Abveras]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/grupes/Nacių Vokietija]]
+- [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]

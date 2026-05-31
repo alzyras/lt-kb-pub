@@ -69,5 +69,8 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/L. Želigovskio pajėgos]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]

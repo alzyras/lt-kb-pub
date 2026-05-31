@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '2003 m.'
+  - '2004 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+date_start: '2003'
+date_end: '2004'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -49,6 +59,18 @@ tags:
   teiginys: 'Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klausimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarlamente – 12 europarlamentarų.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Įvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 21 Sovietų Sąjungos aneksiją ir perestroikos bei naujo Atgimimo sąlygomis atkurti Nepriklausomybę.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų ministras Antanas Valionis pasirašo stojimo į Europos Sąjungą sutartį L I E T U V O S I S T O R I J A 262 Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -153,3 +175,87 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Įvadas • L I E T U VA – V I D U R I O E U R O P O S D A L I S 21 Sovietų Sąjungos aneksiją ir perestroikos bei naujo Atgimimo sąlygomis atkurti Nepriklausomybę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    21
+    Sovietų Sąjungos aneksiją ir perestroikos bei naujo Atgimimo sąlygomis
+    atkurti Nepriklausomybę.
+    Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų ministras Antanas Valionis pasirašo stojimo į Europos Sąjungą sutartį L I E T U V O S I S T O R I J A 262 Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir
+    užsienio reikalų ministras Antanas Valionis pasirašo stojimo į
+    Europos Sąjungą sutartį
+
+    L I E T U V O S  I S T O R I J A
+    262
+    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
+    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
+    mente – 12 europarlamentarų. Taigi, nors pavienės šalies įtaka ES spren-
+    dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
+    atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ES ir toliau griežtai laikantis savo nustatytų kriterijų, Lie-
+    tuva pamažu nusileido – strateginiai šalies tikslai buvo pernelyg svarbūs.
+    Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietu-
+    va akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtė-
+    jo ekonomiškai. Dabartinė Lietuva yra visavertė demokratinė Europos
+    valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios
+    Europos valstybių likimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Valionis]]
+- [[objektai/zodynas/Antisemitizmas]]
+- [[objektai/grupes/NATO]]
+- [[objektai/zodynas/aneksija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
+- [[objektai/ivykiai/Baltijos šalių vyriausybių vadovų kreipimasis į Europos ekonominę bendriją (1990 m. gruodžio 14 d.)]]
+- [[objektai/grupes/Europos Parlamentas]]
+- [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
+- [[objektai/ivykiai/Europos asociacijos sutarčių pasirašymas su Baltijos valstybėmis]]
+- [[objektai/grupes/Jungtinių Tautų organizacija]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
+- [[objektai/ivykiai/Lietuvos priėmimas į Jungtines Tautas ir Europos Tarybą (1991–1993 m.)]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
+- [[objektai/grupes/Tarptautinė darbo organizacija]]
+- [[objektai/grupes/UNESCO]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

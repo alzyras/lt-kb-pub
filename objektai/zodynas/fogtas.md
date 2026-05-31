@@ -129,4 +129,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
 - [[objektai/asmenys/Dargis]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]
+- [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]
+- [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -80,3 +80,4 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/ulonai]]

@@ -60,6 +60,7 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 ### Susiję objektai
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]
 - [[objektai/zodynas/pilėnas]]
 - [[objektai/zodynas/pilėnas pilėnai]]
 - [[objektai/zodynas/stabų garbinimas stabmeldystė]]

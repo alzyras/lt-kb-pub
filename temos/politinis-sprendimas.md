@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 6.
+Objektų skaičius: 5.
 
 ## Kaip naudoti
 
@@ -19,7 +19,6 @@ Objektų skaičius: 6.
 ## Susiję objektai
 
 ### Įvykiai
-- [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
 - [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
 - [[objektai/ivykiai/Piniginio vieneto įstatymo priėmimas ir lito įvedimas (1922 m.)]]

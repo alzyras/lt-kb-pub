@@ -107,4 +107,5 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietgaliai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/vienkiemiai]]
 - [[objektai/grupes/Žiemgaliai]]

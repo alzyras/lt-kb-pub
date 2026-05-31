@@ -8,7 +8,7 @@ variantai:
   - rusiškas raides
 aliases: []
 saltiniai:
-  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 laikotarpis: spaudos draudimo laikotarpis
 datos:
   - 1864 m.

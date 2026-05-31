@@ -102,5 +102,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Andrius Kopernikas]]
+- [[objektai/asmenys/Fabianas (Varmės vyskupas)]]
+- [[objektai/grupes/Varmės kapitula]]
+- [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Šubravcų draugija]]
 - [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/posakiai/Mužikus nori padaryti bajorais, o mus — mužikais]]

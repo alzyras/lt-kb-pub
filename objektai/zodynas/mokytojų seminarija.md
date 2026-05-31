@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1866 m.'
+  - '1872 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1866'
+date_end: '1872'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -30,7 +40,10 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: ') Molodečnoj, kuri, be abejo, tokiam dideliam plotui negalėjo paruošti kiek reikiant mokytojų.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.'
@@ -70,6 +83,21 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: ') Molodečnoj, kuri, be abejo, tokiam dideliam plotui negalėjo paruošti kiek reikiant mokytojų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ) Molodečnoj, kuri, be abejo, tokiam dideliam
+    plotui negalėjo paruošti kiek reikiant mokytojų. Tik vėliau
+    (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri
+    ruošdavo mokytojus visai Lietuvai (be Užnemunės).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

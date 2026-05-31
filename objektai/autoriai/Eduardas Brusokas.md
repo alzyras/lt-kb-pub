@@ -57,3 +57,5 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
 ### Susiję objektai
 - [[objektai/zodynas/karyba]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]

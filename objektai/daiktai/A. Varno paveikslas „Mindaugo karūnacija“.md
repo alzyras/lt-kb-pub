@@ -60,3 +60,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
+- [[objektai/ivykiai/Mindaugo karūnacija]]

@@ -75,11 +75,12 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
 - [[temos/karvedys]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Bertoldas (pranciškonas)]]
+- [[objektai/asmenys/Bertoldas]]
 - [[objektai/asmenys/Bertoldas iš Nordhauzeno]]
 - [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]

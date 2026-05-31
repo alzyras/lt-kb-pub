@@ -44,5 +44,8 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]

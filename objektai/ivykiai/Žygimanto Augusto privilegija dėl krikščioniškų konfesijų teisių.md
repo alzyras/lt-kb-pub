@@ -59,8 +59,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
+- [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Žygimantas]]

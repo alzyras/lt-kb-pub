@@ -103,5 +103,6 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/paprociai/Karaliaus vėliavų iškabinimas prie žemių ir kiemų apsaugai]]
+- [[objektai/asmenys/Otokaras II]]
 - [[objektai/posakiai/Pakanka, eik kur tinkamas ir pasieksi, ko nori]]
 - [[objektai/zodynas/kiemai habitaciones curia]]

@@ -87,3 +87,8 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
   patikimumo_pagrindimas: "Bibliografinė išnaša tiesiogiai pateikia autorių, pavadinimą ir leidimo duomenis."
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
+- [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]

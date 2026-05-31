@@ -83,9 +83,6 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
@@ -93,4 +90,11 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/rublis]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Ivanas Vasiljevičius]]
+- [[objektai/asmenys/Mendli Girėjus]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/zodynas/vaitas]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/vyskupystė]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/asmenys/Vytautas Didysis]]

@@ -115,3 +115,4 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Vladislovas Vaza]]

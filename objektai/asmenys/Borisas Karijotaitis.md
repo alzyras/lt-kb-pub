@@ -53,5 +53,6 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]

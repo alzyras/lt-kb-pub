@@ -33,7 +33,10 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Riazanės didysis kunigaikštis Olegas ir kiti „ėjo prieš Lietuvą ir daug pikto padarė“.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas Smolenske.'
@@ -56,3 +59,20 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Riazanės didysis kunigaikštis Olegas ir kiti „ėjo prieš Lietuvą ir daug pikto padarė“.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Riazanės didysis kunigaikš-
+    tis Olegas ir kiti „ėjo prieš Lietuvą ir
+    daug pikto padarė“. Vytautas vystė
+    puolimą į Riazanės kunigaikštystę,
+    gindamas savo pozicijas Smolenske.
+    1397 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

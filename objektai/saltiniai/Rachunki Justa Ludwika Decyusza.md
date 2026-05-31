@@ -1,0 +1,59 @@
+---
+tipas: saltinis
+pavadinimas: 'Rachunki Justa Ludwika Decyusza'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1815 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1815'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - bajorija
+  - karalius
+  - miestas
+  - saltinis
+---
+# Rachunki Justa Ludwika Decyusza
+
+## Santrauka
+
+IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Augusto Municipalinė teisė (willkühr - saviiždininko; iš rankraščio išspausdinvalė vok., vert.
+
+## Teiginiai
+- t-001
+  teiginys: 'IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Augusto Municipalinė teisė (willkühr - saviiždininko; iš rankraščio išspausdinvalė vok., vert.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Augusto Municipalinė teisė (willkühr - saviiždininko; iš rankraščio išspausdinvalė vok., vert.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jį karalius patvirtino tų pačių metų lapkričio
+    18 dieną ir vėliau miestui suteikė daug kitų naudingų dova­
+    nojimų, be kita ko, bajorams, mieste įsigyjantiems namus,
+    37 v 38
+    Šių naujų dirbtuvių padėtį Vilniuje Žr. IV priedą,
+    išsamiai nušviečia Rachunki Justa Lud- *
+    wika Decyusza, Žygimanto Augusto Municipalinė teisė (willkühr - savi-
+    iždininko; iš rankraščio išspausdin- valė vok., vert. past.),
+    tos „Pamiętnik Warszawski", 1815
+    m., Il t., 1. 140. Čia galima sužinoti
+    apie daugelį įdomių detalių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

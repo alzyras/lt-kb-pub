@@ -11,25 +11,27 @@ aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1422 m.'
-  - '1978 m.'
-  - '2026 m.'
-  - '1298 m.'
-  - '1302 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1422'
-date_end: '2026'
 laikotarpis: '1422 m. ir Melno taikos kontekstas'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1298 m.'
+  - '1302 m.'
+  - '1422 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1298'
+date_end: '2026'
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-28'
 tags: []
@@ -124,6 +126,18 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
+  pagrindžia:
+    - c-010
+- t-014
+  teiginys: 'Dusburgietis teigia, kad kristburgo broliai pasileido pavymui ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.'
+  pagrindžia:
+    - c-011
+- t-015
+  teiginys: 'Dusburgietis teigia, kad štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo į dykras Bartos žemėje, į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog, turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė belaisviams.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -263,6 +277,65 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
+- c-010
+  santrauka: 'Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė, palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    270 (263). Apie Straisbergo miesto sugriovimą 1298 metais
+
+       Tais pačiais metais, tai yra 1298 viešpaties metais, švento Mykolo dieną (rugsėjo
+    29), 140 Lietuvos vyrų taip netikėtai užpuolė Straisbergo miestą, kad ten išžudė visus
+    gyventojus ir vieną kunigą, o moteris bei vaikus paėmė į nelaisvę; visaip išniekinę kitus
+    sakramentus, vienas dar suteršė indą krikšto vandeniui laikyti, pridergdamas į jį. Ligi pat
+    dykrų juos persekiojo su daugybe brolių bei ginklanešių brolis Konradas Žakas, Kulmo
+    krašto komtūras, o pasivijęs išvadavo į nelaisvę paimtus krikščionis, o juos visus išžudė,
+    palikdamas vienui vieną gyvą, kad tas galėtų palikuonims papasakoti apie šį įvykį.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-011
+  santrauka: 'Dusburgietis teigia, kad kristburgo broliai pasileido pavymui ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Lubavos žemės apiplėšimą ir 65 lietuvių žūtį 1302 metais
+
+      Vėliau kiti iš Lietuvos atsibeldę plėšikautojai užpuolė 5 Lubavos žemės kaimus ir ten
+    nužudė ar išsivarė į nelaisvę beveik 200 krikščionių. Kristburgo broliai pasileido pavymui
+    ir, priėję dykras, iš pėdsakų suprato, jog šie toliau traukia pasiskirstę į du būrius. Todėl
+    ir jie patys toliau patraukė dviem žygio voromis, pirma netrukus pasivijo vieną netikėlių
+    būrį, nukovė 65 vyrus  ir išvadavo 70 krikščionių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-012
+  santrauka: 'Dusburgietis teigia, kad štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo į dykras Bartos žemėje, į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog, turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė belaisviams.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ir šiame karo žygyje, ir ankstyvesniajame begėdiškai išniekino
+    bažnyčias, šventuosius rūbus bei taures, bažnyčios tarnus bei sakramentus ir, neskaitant
+    kito grobio, kurio be galo daug čia paėmė, išsivarė daugiau nei tūkstantį du šimtus
+    krikščionių belaisvių. Štai šis karalius, Jėzaus Kristaus vardo niekintojas, nužygiavo  į
+    dykras Bartos žemėje,  į lauką, vardu Vaplaukis563, ir pradėjo įžūliai girtis; rodėsi, jog,
+    turėdamas galingą kariuomenę, jis nė nepagalvojo apie dievo galybę, todėl ir pasakė
+    belaisviams krikščionims, kurie ten pat stovėjo supančioti: „Kur jūsų dievas, kodėl
+    jis jums nepadeda, kaip mums padėjo mūsų dievai dabar  ir kitados564?“ Krikščionys
+    dūsaudami tylėjo.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+
 ## Pastabos
 
 - šaltinyje vartojama ir vienaskaita, ir daugiskaita, bet reikšmė aiškiai susieta su neapgyventa pasienio erdve.
@@ -275,4 +348,21 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - [[objektai/grupes/Skalviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/lietuvininkai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Rūbai]]
+- [[objektai/ivykiai/Salyno taika]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]
+- [[objektai/autoriai/J. Poverskis]]
+- [[objektai/ivykiai/Jazbuto žygis į Lenkiją ir beveik penkių šimtų lietuvių žūtis (1290 m.)]]
 - [[objektai/autoriai/Powierski J]]
+- [[objektai/grupes/Prūsijos valstybė]]
+- [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]
+- [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]
+- [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]

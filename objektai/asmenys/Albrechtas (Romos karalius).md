@@ -167,5 +167,11 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Albrechtas]]
+- [[objektai/grupes/Flandrai]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/zodynas/Romos karalius]]
 - [[objektai/asmenys/Vaclovas (Čekijos karalius)]]
 - [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]
+- [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.)]]
+- [[objektai/ivykiai/Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.)]]

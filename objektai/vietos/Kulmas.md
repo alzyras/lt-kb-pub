@@ -14,6 +14,8 @@ datos:
   - '1232 m.'
   - '1233 m.'
   - '1235 m.'
+  - '1238 m.'
+  - '1242 m.'
   - '1243 m.'
   - '1278 m.'
   - '1282 m.'
@@ -115,6 +117,10 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginys: 'Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kulmas (1235 m.).'
   pagrindžia:
     - c-004
+- t-015
+  teiginys: 'Dusburgietis teigia, kad ), praėjus totorių—mongolų pavojui (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą — Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 
@@ -385,3 +391,17 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-015
+  santrauka: 'Dusburgietis teigia, kad ), praėjus totorių—mongolų pavojui (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą — Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    ), praėjus totorių—mongolų pavojui
+    (1238—1242 m.), 1243 m. drauge su prūsais nusiaubė kryžiuočių agresijos atramą —
+    Kulmo žemę ir sutriuškino priešą Renzeno mūšyje.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015

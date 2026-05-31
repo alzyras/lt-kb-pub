@@ -47,6 +47,10 @@ Nenurodyta
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tomis pat teisėmis naudojo­ si ir dvasininkai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,7 +71,23 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tomis pat teisėmis naudojo­ si ir dvasininkai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tomis pat teisėmis naudojo­
+    si ir dvasininkai. Tėvūnams buvo įsakyta aprūpinti klebonus
+    žeme, mokėti jiems tam tikrą metinį mokestį (6 rub.), klausyti
+    vyskupo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/tėvūnas]]

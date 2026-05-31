@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1934 m.'
+  - '1935 m.'
+  - '1937 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1934'
+date_end: '1937'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -47,6 +58,10 @@ Nenurodyta
   teiginys: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis).'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,7 +116,32 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-
+    mą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-
+    Klaipėdos nacių teismas Kaune (1934 m. gruodis)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    181
+    kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Nacių Vokietija]]
+- [[objektai/asmenys/Valteris R. Hesas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Ėrichas Kochas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/daiktai/Klaipėdos nacių organizacijų ginklai ir teismo įrodymai]]

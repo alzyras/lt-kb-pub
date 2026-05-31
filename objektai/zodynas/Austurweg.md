@@ -92,4 +92,9 @@ Vartojama normanų žygių Baltijos regione aptarime.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Normanai]]
 - [[objektai/grupes/Skandinavai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Szomoyth Auxtote]]
+- [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės]]
+- [[objektai/grupes/Žemaičiai]]

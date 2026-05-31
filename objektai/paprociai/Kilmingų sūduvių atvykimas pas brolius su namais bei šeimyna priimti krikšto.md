@@ -122,7 +122,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Skomantas]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/ivykiai/Gedeto ir 1500 sūduvių atsivertimas bei Skurdos pasitraukimas į Lietuvą]]
 - [[objektai/daiktai/Medinis kryžius]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]
 - [[objektai/ivykiai/Skomanto pasitraukimas į Rusios žemę ir atsivertimas]]

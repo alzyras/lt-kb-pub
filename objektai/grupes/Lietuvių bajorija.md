@@ -157,7 +157,20 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Herbai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/nobilitetas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/šlėkta]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/zodynas/sankcija]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]

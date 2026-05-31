@@ -8,16 +8,19 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1409 m.'
   - '1936 m.'
   - '1978 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1409'
 date_end: '2026'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
@@ -42,6 +45,10 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   teiginys: 'Iš trijų pusių pilį supa Galvės ežeras.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Priešais centrinius vartus buvo iškastas gynybinis griovys, susijungiantis su ežeru.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -85,3 +92,18 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Priešais centrinius vartus buvo iškastas gynybinis griovys, susijungiantis su ežeru.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Priešais centrinius vartus buvo
+    iškastas gynybinis griovys, susijungiantis su ežeru.
+    Antrame plane matyti Trakų salos pilis. Baigta
+    statyti 1409m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

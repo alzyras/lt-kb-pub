@@ -266,3 +266,13 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/daiktai/Prūsijos žemės kronikos nuorašai]]

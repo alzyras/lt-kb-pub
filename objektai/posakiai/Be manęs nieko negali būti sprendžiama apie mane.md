@@ -87,4 +87,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/grupes/Bajorai]]

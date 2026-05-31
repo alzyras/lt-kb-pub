@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -28,6 +34,10 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
   teiginys: 'Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Belaukiant tarptautinio Lietuvos pripažinimo Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,3 +78,21 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Belaukiant tarptautinio Lietuvos pripažinimo Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Euro-
+    pos istoriją.
+    Belaukiant tarptautinio
+    Lietuvos pripažinimo
+    Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti
+    SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
+    atšaukti Kovo 11 Aktą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

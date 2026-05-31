@@ -81,4 +81,6 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
+- [[objektai/asmenys/Brunonas]]
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]]
+- [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]

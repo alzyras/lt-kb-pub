@@ -73,3 +73,4 @@ Nenurodyta
 - [[objektai/asmenys/Karolis IV]]
 - [[objektai/asmenys/Survila]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Butautas]]

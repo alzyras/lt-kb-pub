@@ -85,7 +85,14 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
   pagrindžia:
     - c-010
-
+- t-011
+  teiginys: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
+  pagrindžia:
+    - c-006
+- t-012
+  teiginys: 'Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziškai, ištremti, bažnyčias paversti sandėliais, o N.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio pagalbos, Vilniaus krašto perdavimo ir dalies pietvakarių Lietuvos perdavimo Vokietijai sutartis.'
@@ -178,6 +185,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+    - t-011
 - c-007
   santrauka: 'Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias paversti sandėliais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -193,6 +201,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+    - t-012
 - c-008
   santrauka: 'J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -258,5 +267,15 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
+- [[objektai/zodynas/demobilizacija]]
+- [[objektai/posakiai/karas po karo]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]
+- [[objektai/asmenys/J. Stalinas]]
+- [[objektai/asmenys/Karlas Marksas]]
+- [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/rusinimas dvikalbystė]]

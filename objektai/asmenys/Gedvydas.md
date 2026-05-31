@@ -57,3 +57,4 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/asmenys/Mindaugas]]

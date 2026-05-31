@@ -18,7 +18,9 @@ susije_irasai: []
 datos:
   - '1320 m.'
   - '1325 m.'
+  - '1330 m.'
   - '1333 m.'
+  - '1345 m.'
   - '1362 m.'
   - '1393 m.'
   - '1394 m.'
@@ -155,6 +157,78 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   teiginys: 'Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.'
   pagrindžia:
     - c-026
+- t-037
+  teiginys: '165 psl.), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  pagrindžia:
+    - c-027
+- t-038
+  teiginys: 'Susidarius grėsmingai situacijai, Abiejų Tautų Respublikos valdovas Zigmantas Vaza nurodė LDx kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.'
+  pagrindžia:
+    - c-028
+- t-039
+  teiginys: 'Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik surinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“ CHOTINO MŪŠIS 1621 m.'
+  pagrindžia:
+    - c-029
+- t-040
+  teiginys: 'Tas galingas didikas, paėmęs už žmoną Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir 18 Wremiennik Sofijski, p.'
+  pagrindžia:
+    - c-030
+- t-041
+  teiginys: 'Šios 19 Waddyngas, Mažesniųjų brolių ordino istorijos autorius, ir jo komen­ tatorius Antoni Melissanius de Macro pasakoja, kad dar 1333 metais (prieš Gedimino mirtį) Pet­ ras Goštautas, būdamas Podolės vai­ vada, iš Rusios ir Podolės atkvietęs į Vilnių.'
+  pagrindžia:
+    - c-031
+- t-042
+  teiginys: 'Čia pirmiausia Petras Goš­ tautas, kunigaikščio Algirdo laikų didikas ir Vilniaus vaivada, per Bučiacką, paimtą iš Podolės žmoną, garsios anuomet didikų giminės, pa­ sikrikštijęs, kai ir Algirdas, per Tve­ rės kunigaikštytę Mariją, šventąjį krikštą priėmė, tą.'
+  pagrindžia:
+    - c-032
+- t-043
+  teiginys: '79 Kijevo kunigaikštystė ir Podolė, anais laikais nusidriekusi iki pat Dniepro ir Dniestro žiočių, priklau­ sė Lietuvai; Kafos miestas prie Juo­ dosios jūros buvo svarbiausias Lie­ tuvos prekybinis uostas, jungęs su Rytais, iš kur prekės būdavo gabe­ namos į.'
+  pagrindžia:
+    - c-033
+- t-044
+  teiginys: 'Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­ tu ir Algirdo sostine, kai kurių autorių dvasininkų1 many­ mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats tapęs vienuoliu ir.'
+  pagrindžia:
+    - c-034
+- t-045
+  teiginys: 'Švitrigaila, neseniai susi­ vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei tas valdovas numirs ir, remiamas galingų šalininkų - rusų apeigų Lietuvos kunigaikščių bei didikų - labiausiai.'
+  pagrindžia:
+    - c-035
+- t-046
+  teiginys: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
+  pagrindžia:
+    - c-036
+- t-047
+  teiginys: 'Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­ dami viršenybę.'
+  pagrindžia:
+    - c-037
+- t-048
+  teiginys: 'Netrukus Voluinėje bei Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­ žiuočių ordinu.'
+  pagrindžia:
+    - c-038
+- t-049
+  teiginys: 'Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius Spytkas iš Melštyno, kuris valdė Podoliją.'
+  pagrindžia:
+    - c-039
+- t-050
+  teiginys: 'Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ).'
+  pagrindžia:
+    - c-040
+- t-051
+  teiginys: 'Todėl nenuostabu, kad po Torno taikos įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­ čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­ damas gyvo lenkų.'
+  pagrindžia:
+    - c-041
+- t-052
+  teiginys: 'Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos.'
+  pagrindžia:
+    - c-042
+- t-053
+  teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  pagrindžia:
+    - c-043
+- t-054
+  teiginys: 'Tą balsą, kaip ir pirma dėl Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­ ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos reikalą^1 ).'
+  pagrindžia:
+    - c-044
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -603,6 +677,398 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-036
+- c-027
+  santrauka: '165 psl.), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    165 psl.), taip ir Kazimiero laikais tankiau buvo
+    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
+    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
+    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
+    linkes, buvo beveik negyvenamos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-028
+  santrauka: 'Susidarius grėsmingai situacijai, Abiejų Tautų Respublikos valdovas Zigmantas Vaza nurodė LDx kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po šio
+    pralaimėjimo kilo grėsmė, kad
+    Turkija gali įsiveržti į Lenkiją.
+
+    Susidarius grėsmingai si-
+    tuacijai, Abiejų Tautų Res-
+    publikos valdovas Zigmantas Vaza
+    nurodė LDx kariuomenei telktis prie
+    Podolės Kameneco ir suteikti pagalbą
+    Lenkijos kariuomenei. Jungtinės kariuo-
+    menės vadu karalius paskyrė Lietuvos di-
+    dįjį etmoną Joną Karolį Chodkevičių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+- c-029
+  santrauka: 'Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik surinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“ CHOTINO MŪŠIS 1621 m.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuviai kava-
+    Ua
+
+    įgudę šaudyti iš lanko kaip totoriai ir lygiai kaip totoriai, kai to reikia, visu spartumu
+    traukdamiesi, sugeba apšaudyti besivejantį priešą strėlėmis. Podolei ir Rusiai jie svarbi
+    Jėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik su-
+    rinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“
+
+    CHOTINO MŪŠIS 1621 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-030
+  santrauka: 'Tas galingas didikas, paėmęs už žmoną Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir 18 Wremiennik Sofijski, p.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ta­
+    čiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje,
+    valdovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­
+    ba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę
+    įtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną
+    Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
+    18
+    Wremiennik Sofijski, p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-031
+  santrauka: 'Šios 19 Waddyngas, Mažesniųjų brolių ordino istorijos autorius, ir jo komen­ tatorius Antoni Melissanius de Macro pasakoja, kad dar 1333 metais (prieš Gedimino mirtį) Pet­ ras Goštautas, būdamas Podolės vai­ vada, iš Rusios ir Podolės atkvietęs į Vilnių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
+    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
+    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
+    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
+    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
+    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
+    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
+    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
+    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19. Šios
+    19
+    Waddyngas,  Mažesniųjų brolių
+    ordino istorijos autorius, ir jo komen­
+    tatorius Antoni Melissanius
+    de Macro pasakoja, kad dar 1333
+    metais (prieš Gedimino mirtį) Pet­
+    ras Goštautas, būdamas Podolės vai­
+    vada, iš Rusios ir Podolės atkvietęs
+    į Vilnių keturiolika Šv. Pranciškaus
+    regulos vienuolių vietoje anksčiau,
+    1325 metais, atvykusių su popie­
+    žiaus pasiuntinybe ir jau mirusių ar
+    įvairiais laikais pagonių nukankin­
+    tų, ir apgyvendino juos prie Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-032
+  santrauka: 'Čia pirmiausia Petras Goš­ tautas, kunigaikščio Algirdo laikų didikas ir Vilniaus vaivada, per Bučiacką, paimtą iš Podolės žmoną, garsios anuomet didikų giminės, pa­ sikrikštijęs, kai ir Algirdas, per Tve­ rės kunigaikštytę Mariją, šventąjį krikštą priėmė, tą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Čia prieš 1330 me­
+    tus buvo pagonių šventykla, visoms
+    dievybėms skirta kaip Romos pan­
+    teonas. Čia pirmiausia Petras Goš­
+    tautas, kunigaikščio Algirdo laikų
+    didikas ir Vilniaus vaivada, per Bu-
+    čiacką, paimtą iš Podolės žmoną,
+    garsios anuomet didikų giminės, pa­
+    sikrikštijęs, kai ir Algirdas, per Tve­
+    rės kunigaikštytę Mariją, šventąjį
+    krikštą priėmė, tą pagoniškąją die­
+    vaičių buveinę bažnyčia, tikrajam
+    Dievui pavertė ir savo Globėjo, Šv.
+    Petro, vardui pašventė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-033
+  santrauka: '79 Kijevo kunigaikštystė ir Podolė, anais laikais nusidriekusi iki pat Dniepro ir Dniestro žiočių, priklau­ sė Lietuvai; Kafos miestas prie Juo­ dosios jūros buvo svarbiausias Lie­ tuvos prekybinis uostas, jungęs su Rytais, iš kur prekės būdavo gabe­ namos į.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    27.
+    79
+    Kijevo kunigaikštystė ir Podolė,
+    anais laikais nusidriekusi iki pat
+    Dniepro ir Dniestro žiočių, priklau­
+    sė Lietuvai; Kafos* miestas prie Juo­
+    dosios jūros buvo svarbiausias Lie­
+    tuvos prekybinis uostas, jungęs su
+    Rytais, iš kur prekės būdavo gabe­
+    namos į Kijevą; pastarajam tarpinin­
+    kaujant Vilnius, kaip valstybės sos­
+    tinė, palaikė prekybinius ryšius su
+    Rytais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
+- c-034
+  santrauka: 'Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­ tu ir Algirdo sostine, kai kurių autorių dvasininkų1 many­ mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats tapęs vienuoliu ir.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Stanislo­
+    vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­
+    lyvavusių buvęs Lietuvos vyskupas Vitas, dominikonas.
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+- c-035
+  santrauka: 'Švitrigaila, neseniai susi­ vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei tas valdovas numirs ir, remiamas galingų šalininkų - rusų apeigų Lietuvos kunigaikščių bei didikų - labiausiai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kazimiero mirtis —  Didysis kunigaikštis
+    Aleksandras suteikia Vilniui naujų privilegijų —  Jo vedybos su
+    didžiąja kunigaikštyte Elena —  Prašmatnios vestuvės Vilniuje —
+    Svečių namai - Sack Achmedas įkalinamas Vilniuje —  Miestas
+    sutvirtinamas siena nuo totorių antpuolių —  Vilniaus vyskupas
+    Albertas Taboras —  Aleksandro liga —  Alchemikas —  Karalius
+    Lydoje mirtinai suserga —  Totoriai žygiuoja į Lydą —  Karalių
+    gab ena į Vilnių —  Pergalė prie Kiecko —  Aleksandro mirtis
+    Vilniuje —  Vilniaus pilis Aleksandro laikais —  Monetų kalykla —
+    Dominikonai —  Vaistinė —  Gydy Lojai.
+    ---- • ----
+    209
+    III
+
+    ## Puslapis 226
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Po Vytauto mirties karalius Vladislovas Jogaila netrukus
+    paskyrė savo vietininką Lietuvai. Švitrigaila, neseniai susi­
+    vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir
+    kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei
+    tas valdovas numirs ir, remiamas galingų šalininkų - rusų
+    apeigų Lietuvos kunigaikščių bei didikų - labiausiai iš kitų
+    Algirdaičių tiko į didžiuosius kunigaikščius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
+- c-036
+  santrauka: 'Taigi Švitrigaila Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­ je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­ tinės Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jogaila taip pat
+    nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
+    tuvoje, juolab kad žinojo, jog šį kartą aplenkdamas Švitri­
+    gailą, uoliai prisirišusį prie graikų tikėjimo ir todėl turintį
+    daug bičiulių, krašte sukeltų pilietinį karą1 . Taigi Švitrigaila
+    Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­
+    je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­
+    tinės Šv. Stanislovo katedroje jį iškilmingai paskelbė didžiuo­
+    ju kunigaikščiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-046
+- c-037
+  santrauka: 'Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­ dami viršenybę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    210
+
+    ## Puslapis 227
+
+    III KNYGA
+    čų su Vytautu nuolat susijęs su Ordinu, visiškai pasidavęs jo
+    įtakai, dabar, remiamas stipraus šalininko ir visos Prūsijos
+    bei Livonijos kryžiuočių galybės, buvo taip pakerėtas noro
+    tapti Lietuvos valdovu, jog nebeįstengė slėpti troškimo at­
+    keršyti. Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad
+    Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai
+    sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį
+    Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­
+    dami viršenybę Bučackiams. Įširdęs Švitrigaila tuomet jau vi­
+    sai nejautė savo įdūkio ribų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-047
+- c-038
+  santrauka: 'Netrukus Voluinėje bei Podolėje įsiplieskė karas su Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­ žiuočių ordinu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Galingą są­
+    jungą prieš Lenkiją sudarė kryžiuočiai, Švitrigaila ir Valakijos
+    vaivada. Netrukus Voluinėje bei Podolėje įsiplieskė karas su
+    Lietuva ir valakais, o 1431 m. Didžiojoje Lenkijoje - su Kry­
+    žiuočių ordinu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-048
+- c-039
+  santrauka: 'Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius Spytkas iš Melštyno, kuris valdė Podoliją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaip žinoma, Vorsklos mūšy žuvo geras Vytauto prietelius
+    Spytkas iš Melštyno, kuris valdė Podoliją.
+    Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­
+    siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
+    nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
+    tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-049
+- c-040
+  santrauka: 'Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Net
+    nuostabu, kad lenką bajorai ne tik sutiko su nusileidimais Ordi­
+    nui, bet dar labiau nuo to laiko pasidarė Vytautui artimesni,
+    tartum nujausdami jo paramos reikalingumą ir, be to, būdami
+    jam dėkingi už tarpininkavimą gaunant iš karaliaus privilegiją,
+    pasidarė karšti savo protektoriaus šalininkai. Kaip tik tuo laiku
+    Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
+    valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­
+    trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
+    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
+    žant lenkų papročius ir tradicijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-050
+- c-041
+  santrauka: 'Todėl nenuostabu, kad po Torno taikos įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­ čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­ damas gyvo lenkų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    177
+    ```
+    biau jai rodydamas savo reikalingumą, o artindamasis į Ordiną,
+    dar labiau norėjo pakelti Lenkijos akyse savo įtakos ir pagalbos
+    vertę bei reikšmę. Todėl nenuostabu, kad po Torno taikos
+    įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui
+    pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­
+    čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­
+    damas gyvo lenkų nepasitenkinimo^1 ), davė Vytautui lėno teisė­
+    mis taip pat tos žemės vakarinę dalį su Kamieniecu, išstumdamas
+    iš čia karūnos seniūną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-051
+- c-042
+  santrauka: 'Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Be to, Kronika apskritai buvo para­
+    šyta valstybinėje dvasioje, ir lietuvių-lenkų nesutarimų, ar tuome­
+    tinių lenkų tendencijų atvejais Stryjkovskis stoja ginti pirmųjų ir
+    patiekia savo kritiškus argumentus. Taip yra, pvz., ir konflikte
+    su lenkais dėl Podolės, dėl Volinijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-052
+- c-043
+  santrauka: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ) teužvaldė
+    Vytautas.
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-053
+- c-044
+  santrauka: 'Tą balsą, kaip ir pirma dėl Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­ ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos reikalą^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1398 m.
+    pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
+    Lietuvos su Lenkija santykių eigą. Tą balsą, kaip ir pirma dėl
+    Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
+    ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
+    reikalą^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-054
 
 ## Pavadinimai šaltiniuose
 

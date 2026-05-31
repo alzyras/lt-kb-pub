@@ -38,7 +38,10 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529 goda»).'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'K. Jablonskis sudarė pirmąjį XVI–XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.'
@@ -81,6 +84,25 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529 goda»).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jis buvo ypač akmens amžiaus (mezolito) specialistas, ir Lietuvoje
+    buvo surinkęs gausių radinių, duodamas, be kitko, progos vyriausiai
+    dukrai Rimutei Rimantienei šitoje srityje tapti žymia proistorike.
+    Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų
+    Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį
+    Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529
+    goda»). Tą darbą atliko objektyviai ir kritiškai su reikalingu
+    moksliniu aparatu (1960).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -89,3 +111,4 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 ### Susiję objektai
 - [[objektai/zodynas/inventoriai]]
 - [[objektai/zodynas/statutas]]
+- [[objektai/autoriai/Konstantinas Jablonskis]]

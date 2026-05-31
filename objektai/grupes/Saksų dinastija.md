@@ -70,7 +70,11 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/asmenys/Stanislovas Augustas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/ivykiai/Tvanas]]
+- [[objektai/grupes/Vazų dinastija]]

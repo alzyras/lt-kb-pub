@@ -112,3 +112,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Antanas Šukys]]
+- [[objektai/asmenys/Barkauskas]]
+- [[objektai/asmenys/Baziliauskas]]
+- [[objektai/asmenys/Lukoševičius]]
+- [[objektai/asmenys/Palačinskas]]

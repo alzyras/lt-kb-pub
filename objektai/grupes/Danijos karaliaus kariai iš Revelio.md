@@ -103,3 +103,7 @@ tags:
 - [[objektai/daiktai/Žirgai]]
 - [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Varmiai]]

@@ -8,13 +8,14 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1964 m.'
+  - '1969 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
   - 'XX'
 date_start: '1964'
-date_end: ''
+date_end: '1969'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -33,7 +34,10 @@ Dziebzykbay-Rogalski, T.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '(”) Niektóre sporne aspekty kontaktów Balto-Słowiańskich w świetle źródeł archeologicznych, onomastycznych i pisanych , ABaSl, VI, 1969, 105-116 p. — Dziebzykbay-Rogalski, T.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'T. Dziebzykbay-Rogalski 1964 m. paskelbė publikaciją „Z badań nad niektórymi zagadnieniami typologicznymi Jaćwingów“.'
@@ -65,6 +69,22 @@ Dziebzykbay-Rogalski, T.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '(”) Niektóre sporne aspekty kontaktów Balto-Słowiańskich w świetle źródeł archeologicznych, onomastycznych i pisanych , ABaSl, VI, 1969, 105-116 p. — Dziebzykbay-Rogalski, T.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    -—-
+    (”) _Niektóre sporne aspekty kontaktów Balto-Słowiańskich w świetle źródeł
+    archeologicznych, onomastycznych i pisanych_ , ABaSl, VI, 1969, 105-116 p.
+    — Dziebzykbay-Rogalski, T. : _Z badań nad niektórymi zagadnieniami
+    typologicznymi Jaćwingów,_ ABaSl, I, 1964, 65-75 p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

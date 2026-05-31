@@ -46,3 +46,7 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Motiejus Valančius]]

@@ -44,6 +44,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III, 204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi į sūduvių žemes, pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį po Ordino užnugarį.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Dusburgietis teigia, kad ) Ordino valdas pavyslyje iki Kristburgo (III, 192).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,6 +69,22 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dusburgietis teigia, kad ) Ordino valdas pavyslyje iki Kristburgo (III, 192).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    ) Ordino valdas pavyslyje iki Kristburgo
+    (III, 192). 1280 m. sūduviai drauge su lietuviais niokojo Ordino valdas Semboje (III,
+    204), o po metų Traidenis, norėdamas sulaikyti kryžiuočių veržimąsi  į sūduvių žemes,
+    pasiuntė žiemgalių vado Nameisio vadovaujamą Lietuvos kariuomenę į niokojamą žygį
+    po Ordino užnugarį (Skomantas, Nameisis — pavaldūs Traideniui).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
@@ -76,3 +96,4 @@ Nenurodyta
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Nameisio vadovaujamas Lietuvos žygis po Ordino užnugarį (1281 m.)]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

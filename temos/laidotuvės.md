@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 10.
+Objektų skaičius: 14.
 
 ## Kaip naudoti
 
@@ -22,6 +22,7 @@ Objektų skaičius: 10.
 - [[objektai/asmenys/Romas Kalanta]]
 
 ### Daiktai
+- [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai]]
 - [[objektai/daiktai/Smilkytuvas ir žvakės]]
 
 ### Grupės
@@ -32,6 +33,7 @@ Objektų skaičius: 10.
 - [[objektai/paprociai/Procesijos ir iškilmingos laidotuvės]]
 - [[objektai/paprociai/Prūsų degintinės laidotuvės su įkapėmis ir palydimaisiais]]
 - [[objektai/paprociai/Žuvusiųjų laidojimas mūšio lauke po Kulmo kautynių|Žuvusiųjų laidojimas mūšio lauke po Kulmo kautynių (mūšis)]]
+- [[objektai/paprociai/Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga]]
 
 ### Posakiai
 - [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]
@@ -39,3 +41,7 @@ Objektų skaičius: 10.
 ### Įvykiai
 - [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]
+- [[objektai/ivykiai/Visuotinė apklausa dėl Lietuvos nepriklausomybės ir konstitucinis įstatymas (1991 m. vasaris)]]
+
+### Žodynas
+- [[objektai/zodynas/vaidilos kriviai žyniai]]

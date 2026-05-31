@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1944 m.'
+  - '1945 m.'
+  - '1953 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1940'
+date_end: '1953'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -44,6 +56,10 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   teiginys: '1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'L I E T U V O S I S T O R I J A 206 Nacių okupaciją keičia sovietinė 1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -139,10 +155,51 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'L I E T U V O S I S T O R I J A 206 Nacių okupaciją keičia sovietinė 1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą iš nacių Vokietijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    206
+    Nacių okupaciją keičia sovietinė
+    1944 m. vasarą sovietų karinės pajėgos išvadavo Lietuvą
+    iš nacių Vokietijos. Tačiau bėda ta, kad lygia greta, kone tuo pat metu
+    Lietuva buvo reokupuota, t. y. sovietų kariuomenė antrą kartą okupavo
+    Lietuvą, Latviją ir Estiją – grąžintas stalininis režimas, imtos vykdyti re-
+    kvizicijos, vyrai gaudyti darbams. Totalitariniam režimui vėl ėmė diri-
+    guoti komunistų partija, valstybės saugumo (NKGB ir NKVD) struktū-
+    ros, sovietų valdininkai ir okupacinė kariuomenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/daiktai/Lėktuvai]]
+- [[objektai/grupes/MINTIS]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“]]
 - [[objektai/asmenys/Artūras Sakalauskas]]
+- [[objektai/grupes/Jedinstvo]]
+- [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
+- [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
 - [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
 - [[objektai/zodynas/liaudies demokratija]]
+- [[objektai/grupes/Lietuvos partizanai]]
+- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
+- [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
+- [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m. vasara)]]
+- [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m.)]]
+- [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
+- [[objektai/zodynas/reokupacija]]

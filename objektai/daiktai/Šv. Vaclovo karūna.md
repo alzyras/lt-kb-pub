@@ -153,3 +153,4 @@ Nenurodyta
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Kaributas]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]

@@ -81,5 +81,6 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/didysis magistras]]

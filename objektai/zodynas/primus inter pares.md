@@ -45,5 +45,9 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/diplomatija]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Stasys Antanas Bačkis]]
 - [[objektai/asmenys/Stasys Lozoraitis]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/egzilinė vyriausybė]]
+- [[objektai/posakiai/„primus inter pares“]]

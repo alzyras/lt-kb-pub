@@ -92,6 +92,7 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lietuvos tautinio olimpinio komiteto tarptautinių teisių atkūrimas (1991 m. rugpjūtis)]]
 - [[objektai/grupes/Lietuvos tautinis olimpinis komitetas|Lietuvos tautinis olimpinis komitetas (institucija)]]

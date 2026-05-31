@@ -63,4 +63,9 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/paprociai/Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių]]
+- [[objektai/zodynas/mezliava]]
 - [[objektai/zodynas/Sūdas|sūdas]]
+- [[objektai/zodynas/vietininkas]]

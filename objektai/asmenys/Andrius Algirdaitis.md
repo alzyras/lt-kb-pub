@@ -12,6 +12,10 @@ saltiniai:
   - Michał Baliński, Vilniaus miesto istorija (2007 m.)
 bukle: juodrastis
 laikotarpis: XIV a.; 1380-1399 m. politinių ir karinių įvykių kontekstas
+vaidmenys:
+  - Polocko kunigaikštis
+dalyviai: []
+susije_irasai: []
 datos:
   - '1380 m.'
   - '1399 m.'
@@ -22,10 +26,6 @@ amziai:
   - 'XIV'
 date_start: '1380'
 date_end: '1399'
-vaidmenys:
-  - Polocko kunigaikštis
-dalyviai: []
-susije_irasai: []
 patikimumas: aukštas
 atnaujinta: '2026-05-27'
 tags:
@@ -79,7 +79,14 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: '30 Tasai Andrius, Jogailai pavaldaus Polocko kunigaikštis, Algirdo sū­ nus, gimęs iš antros jo santuokos su Julijona, Vitebsko kunigaikštyte, ta­ čiau nebuvo palankus Jogailai, vei­ kiau linkęs į Kęstučio pusę; tad Jo­ gaila nusprendė jį išvyti iš jo dalinės.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Andrius Algirdaitis minimas kaip Kęstučiui palankus Jogailos įbrolis Polocke.
@@ -163,12 +170,96 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '30 Tasai Andrius, Jogailai pavaldaus Polocko kunigaikštis, Algirdo sū­ nus, gimęs iš antros jo santuokos su Julijona, Vitebsko kunigaikštyte, ta­ čiau nebuvo palankus Jogailai, vei­ kiau linkęs į Kęstučio pusę; tad Jo­ gaila nusprendė jį išvyti iš jo dalinės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Duota Viešpaties
+    metais 1380 artimiausią šiokiadienį,
+    kurį giedama „oculi post domini­
+    cam"], tai yra kovo 26-ą.
+    30
+    Tasai Andrius, Jogailai pavaldaus
+    Polocko kunigaikštis, Algirdo sū­
+    nus, gimęs iš antros jo santuokos su
+    Julijona, Vitebsko kunigaikštyte, ta­
+    čiau nebuvo palankus Jogailai, vei­
+    kiau linkęs į Kęstučio pusę; tad Jo­
+    gaila nusprendė jį išvyti iš jo dalinės
+    valdos. Dėl to sudarė slaptą, be
+    Kęstučio žinios, sutartį su Livoni­
+    jos magistru, kad anas padėtų jam
+    vykdyti tuos kėslus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rūpesčiais dalinęsis, kovojęs su juo dar kartu prieš totorius, kur Kulikovo lauke (1380 metų rugsėjo 8-ą) prie perga­ lės daugiausia prisidėjęs, dalyvavo mūšiuose, - Skirgaila užsibuvo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dėl to sudarė slaptą, be
+    Kęstučio žinios, sutartį su Livoni­
+    jos magistru, kad anas padėtų jam
+    vykdyti tuos kėslus. Tuo metu, kai
+    Andrius, nuolatinis Dmitrijaus Do­
+    niškio bendražygis, karo rūpesčiais
+    dalinęsis, kovojęs su juo dar kartu
+    prieš totorius, kur Kulikovo lauke
+    (1380 metų rugsėjo 8-ą) prie perga­
+    lės daugiausia prisidėjęs, dalyvavo
+    mūšiuose, - Skirgaila užsibuvo Po-
+    34
+
+    ## Puslapis 51
+
+    I  KNYGA
+    Galiausiai Kęstutis, perpratęs slaptas Jogailos užmačias, pa­
+    siryžo užbėgti jam už akių ir žinodamas, jog šis visas savo
+    ginkluotąsias pajėgas yra išsiuntęs iš Vilniaus į Polocką, kad
+    ten vėl įkurdintų polockiečių išvytą Skirgailą, staiga 1381 metų
+    rugpjūčio viduryje su stipriu žemaičių raitelių pulku apsupo
+    Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Skirgaila]]
+- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/1991 m. sausio 13 d]]
+- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
+- [[objektai/asmenys/Jozefas Frankas]]
+- [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
+- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.)]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
+- [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
+- [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
+- [[objektai/grupes/Rygos vokiečiai]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/paliaubos]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/Michał Baliński Mykolas Balinskis]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Dmitrijus Doniškis]]
+- [[objektai/ivykiai/Jogailos paliaubos su Livonijos magistru Rygoje (1380 m. kovo 26 d.)]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
+- [[objektai/zodynas/Paliaubos induciae]]
+- [[objektai/grupes/Totoriai]]

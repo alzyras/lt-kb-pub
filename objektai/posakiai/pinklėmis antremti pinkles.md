@@ -88,3 +88,7 @@ Formulė nusako atsakomąją gudrybę: į priešo pinkles atsakyti kitomis pinkl
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Žemaičiai]]

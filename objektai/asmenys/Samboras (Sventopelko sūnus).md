@@ -95,7 +95,9 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Antspaudai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Vartislavas (Sventopelko sūnus)]]
 - [[objektai/asmenys/Mstivojus]]
+- [[objektai/asmenys/Sventopelkas]]

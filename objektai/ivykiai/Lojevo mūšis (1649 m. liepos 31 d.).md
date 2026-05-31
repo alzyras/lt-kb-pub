@@ -187,4 +187,16 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/J. Radvila]]
 - [[objektai/grupes/Kazokai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/dragūnai]]
+- [[objektai/autoriai/Arvydas Pociūnas]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
+- [[objektai/autoriai/Gintautas Sliesoriūnas]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]
+- [[objektai/autoriai/Vytautas Lesčius]]
+- [[objektai/grupes/Radvilos]]

@@ -65,7 +65,15 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Kryžiaus karai]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/karyba]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/posakiai/„nuo jūros iki jūros“]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Mongolų imperija]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
 - [[objektai/posakiai/Sausis didžiąja raide]]
+- [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]
 - [[objektai/posakiai/„aksomine imperija“]]

@@ -55,3 +55,4 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 ### Susiję objektai
 - [[objektai/zodynas/neofitas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/krikščionys turi raudoti dėl jo mirties]]

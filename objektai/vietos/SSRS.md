@@ -8,7 +8,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1936 m.'
+  - '1940 m.'
   - '1941 m.'
+  - '1950 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
@@ -16,7 +18,7 @@ periodo_grupes:
 amziai:
   - 'XX'
 date_start: '1936'
-date_end: '1941'
+date_end: '1950'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -32,12 +34,6 @@ tags:
 Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą. Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė. Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
 
 ## Teiginiai
-- t-001
-  teiginys: '1939 m. rugsėjo 28 d. slaptas Reicho ir SSRS sutarties protokolas Lietuvos teritoriją priskyrė SSRS įtakos sferai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   pagrindžia:
@@ -86,24 +82,19 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginys: 'Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų.'
   pagrindžia:
     - c-010
-
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1939 m. rugsėjo 28 d. slaptas Reicho ir SSRS sutarties protokolas Lietuvos teritoriją priskyrė SSRS įtakos sferai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
-    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
-    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
-    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
-    spaudimą Lietuvai kaip ranka nuėmė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+- t-011
+  teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
   pagrindžia:
-    - t-001
+    - c-011
+- t-012
+  teiginys: 'SSRS 1940 metų ultimatumas ir sovietų okupacija Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrinkta į Tautų Sąjungos Tarybą.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Galimybė atsidurti „po rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų režimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus.'
+  pagrindžia:
+    - c-013
+## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -240,3 +231,60 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų (formaliai
+    kariuomenė padidinta, jei kariaujančios šalys peržengtų Lietuvos sieną).
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'SSRS 1940 metų ultimatumas ir sovietų okupacija Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrinkta į Tautų Sąjungos Tarybą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    SSRS 1940 metų ultimatumas ir
+    sovietų okupacija
+    Įsileidusi sovietų bazes Lietuva palaidojo viltis būti išrink-
+    ta į Tautų Sąjungos Tarybą. Sovietams kariaujant su Suomija Baltijos vals-
+    tybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos
+    kaip agresorė. Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė mo-
+    nopolizuoti Lietuvos užsienio prekybą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Galimybė atsidurti „po rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų režimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Galimybė atsidurti „po
+    rusais“, taip pergyventi karo negandas, suprasta kaip laikinas grįžimas į
+    Nikolajaus II Rusiją, visiškai nesuvokiant totalitarinio SSRS bolševikų re-
+    žimo esmės, – jis valdė teroru, jėga izoliavo ir fiziškai naikino oponentus,
+    ideologiškai priešiškas politines ir socialines grupes.
+    Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso
+    pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m.
+    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+    tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
+    ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013

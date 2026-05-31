@@ -147,5 +147,8 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/grupes/Žemlionys]]
+- [[objektai/ivykiai/Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.)]]
 - [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
 - [[objektai/zodynas/rūmininkas vyno pilstytojas]]

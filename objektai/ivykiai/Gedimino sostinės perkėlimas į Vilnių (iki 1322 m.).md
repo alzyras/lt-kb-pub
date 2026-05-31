@@ -45,6 +45,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio vilko » sapno yra nebeįsivaizduojama.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,6 +66,23 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio vilko » sapno yra nebeįsivaizduojama.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vilniaus įkūrimo legenda taip įaugo
+    į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
+    «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
+    vilko » sapno yra nebeįsivaizduojama.
+    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
+    jau buvo perkėlęs savo sostinę^15.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

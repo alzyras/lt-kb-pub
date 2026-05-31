@@ -47,4 +47,5 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
 - [[objektai/grupes/Kariuomenės ir Iždo komisijos]]

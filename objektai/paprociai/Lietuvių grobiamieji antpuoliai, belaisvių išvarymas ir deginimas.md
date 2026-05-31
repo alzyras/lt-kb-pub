@@ -1,0 +1,135 @@
+---
+tipas: paprotys
+pavadinimas: 'Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - kunigas
+  - miestas
+  - ordinas
+  - paprotys
+---
+# Lietuvių grobiamieji antpuoliai, belaisvių išvarymas ir deginimas
+
+## Santrauka
+
+Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tokios
+    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
+    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
+    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
+    trisdešimt šešiais kariais nužudė8.
+    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
+    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
+    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
+    linkės1 1 . Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
+    Šv. Kryžiaus Išaukštinimo dieną, kai Prūsijos vyresnybė iš­
+    vyko į Marienburgą, į kapitulą, gausus jų pulkas užgriūna
+    tą kraštą, nužudo nuo šešių iki aštuonių tūkstančių abiejų
+    lyčių gyventojų1  arba juos išsiveda į nelaisvę iki gyvos galvos;
+    shin aiškina: dry vlihuyser, taip pat
+    Łuk. D a w i d T. V, p. 227. Buvo tai
+    įtvirtinti būstai, kur naujakrikščiai
+    slėpdavęsi nuo pagonių persekioji­
+    mų.
+    f
+    Minėtame Dyplomu Eberh. Bisk.:
+    Eodem anno post festum b. Gregorii
+    iidem Lytvini civitatem Memelam ar­
+    m ata manu intraverunt hostiliter et eam
+    cum suburbiis suis preter solum cast­
+    rum muro circumdatum, in quo fratres
+    ejusdem ordinis morantur, ceperunt,
+    cremaverunt et penitus destruxerunt,
+    multos ibidem occidentes homines ac
+    eciam captivantes virgines, mulieres et
+    alios quos rapere valuerunt [Tais pa­
+    čiais metais po pal. Grigaliaus šven­
+    tės tie patys lietuviai į Memelio
+    miestą ginkluota jėga priešiškai įsi­
+    veržė ir jį su jo priemiesčiais, išsky­
+    rus pačią pilį, apjuostą siena, kurio­
+    je to paties Ordino brolių būta,
+    paėmė, sudegino ir iki pamatų su­
+    griovė, ten pat daugybę žmonių nu­
+    žudė ir paėmė į nelaisvę merginų,
+    moterų ir kitų, kuriuos tik įstengė
+    pagrobti].
+    g
+    Dyploma tą patį byloja ir Wehlau va­
+    dina Wilnnouwe.
+    h
+    D u s b. c. 399, mini tik pačią Dobry­
+    nės kunigaikštystę, bet viename do­
+    kumente Slapt. arch. Spinta XI, Nr.
+    18 sakoma: terra Dobrynensis et con­
+    finia Culmensia [Dobrynės žemė ir
+    kaimyninės Kulmo žemės] kentė­
+    jo per tą antpuolį. Kojałowicz,
+    p. 270 mini ir Mazoviją.
+    i
+    D u s b. I.: sex millia hominum utrius-
+    que sexus [šeši tūkstančiai abiejų ly­
+    čių žmonių]. Slapt. arch, dokumen­
+    te Spinta LIV., Nr. 3: Sattellites ipsius
+    (i. e. Gedimini) fines Christianorum
+    69
+
+    ## Puslapis 86
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    nužudo daug kunigų, ir užimtame Dobrynės mieste žūsta
+    apie du tūkstančius gyventojų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Grigalius (vicekancleris)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/zodynas/pagonybė]]

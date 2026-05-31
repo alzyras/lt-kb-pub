@@ -54,6 +54,10 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   teiginys: 'Dusburgietis teigia, kad apie Veklico pilies ir vienos pilaitės sugriovimą Pagudėnai, kartu su sūduviais bei kitomis Prūsijos gentimis subūrę stiprią kariuomenę, antrosios atskalūnybės pradžioje skersai išilgai išnaršė Pagudę bei Pamedę ir išžudė visus krikščionis, kuriuos ten.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaikštijų (Kulmo, Pamedės, Varmijos ir Sembos), bet ordino galybės laikais nesusipratimų dėl to nebekildavo, nes vyskupais būdavo skiriami tik ordino nariai.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
@@ -153,3 +157,24 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaikštijų (Kulmo, Pamedės, Varmijos ir Sembos), bet ordino galybės laikais nesusipratimų dėl to nebekildavo, nes vyskupais būdavo skiriami tik ordino nariai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    , kai vėliau
+    buvo kuriamos kitos vyskupijos, tiesioginei vyskupų valdžiai vi-
+    suomet būdavo duodama maždaug^1 /з visos vyskupijos ploto.
+    Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų val-
+    domų kunigaikštijų (Kulmo, Pamedės, Varmijos ir Sembos), bet
+    ordino galybės laikais nesusipratimų dėl to nebekildavo, nes
+    vyskupais būdavo skiriami tik ordino nariai.
+
+
+    **2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

@@ -59,6 +59,10 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   teiginys: '1432 m. Pskovo vietininkai ir bojarinai atvyko pas Švitrigailą ir sudarė su juo sutartį.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -152,3 +156,31 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
+    respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
+    Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
+    galėjimui Rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/proistorė]]
+- [[objektai/grupes/Maskvos kunigaikštija]]

@@ -49,4 +49,5 @@ Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo prik
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
 - [[objektai/zodynas/Miera|miera]]

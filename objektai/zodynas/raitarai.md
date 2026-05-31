@@ -63,6 +63,7 @@ tags:
 - [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
 - [[objektai/grupes/Lisovčikai]]
+- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/asmenys/Walenrodto]]
 - [[objektai/asmenys/M. P. Sapiega]]

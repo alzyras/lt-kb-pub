@@ -113,3 +113,6 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Gedimino antspaudas]]
+- [[objektai/posakiai/Pirma geležis į vašką, o vanduo į plieną pavirs]]
+- [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
+- [[objektai/paprociai/Raštų ir sutarčių tvirtinimas antspaudais bei antspaudo tikrumo gynimas prakeiksmu]]

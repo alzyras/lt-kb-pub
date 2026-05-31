@@ -114,3 +114,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/knygnešystė]]
 - [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/zodynas/kirilika]]

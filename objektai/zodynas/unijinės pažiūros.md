@@ -57,3 +57,9 @@ bendro Lietuvos valstybingumo su Lenkija, pažiūrų, matydami, kaip sėkmingai 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Čekai]]

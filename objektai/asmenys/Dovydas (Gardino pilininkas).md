@@ -14,14 +14,14 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1323 m.'
+  - '1319 m.'
   - '1324 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-date_start: '1323'
+date_start: '1319'
 date_end: '1324'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
@@ -136,6 +136,18 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginys: 'Dusburgietis teigia, kad jis mat patvarkė, kad Dovydas, jo pilininkas Gardine, įsibrovė su galinga kariuomene lapkričio 21 dieną į Mazovijos žemę ir, plėšdamas bei degindamas, nusiaubė Plocko vyskupo miestą, vardu Pultuskas, ir 130 šios vyskupystės bei Mazovijos kunigaikštystės.'
   pagrindžia:
     - c-017
+- t-019
+  teiginys: 'kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi abipusiai puldinėjimai.'
+  pagrindžia:
+    - c-018
+- t-020
+  teiginys: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
+  pagrindžia:
+    - c-019
+- t-021
+  teiginys: 'Dusburgietis teigia, kad medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 
@@ -469,6 +481,57 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-018
+  santrauka: 'kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi abipusiai puldinėjimai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-
+    ko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi
+    abipusiai puldinėjimai. Lapkritį Gedimino „galinga kariuomenė“,
+    vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę,
+    o kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės
+    regioną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-019
+  santrauka: '406, pri­ simena dar vieną Gedimino dukrą, kuri esą buvusi anuomet garbingo riterio Dovydo, Gardino kašteliono, arba tiksliau kunigaikščio, viešpata­ vusio Gardino valdoje, žmona.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ). Strijkovskis, 1. 406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-020
+  santrauka: 'Dusburgietis teigia, kad medininkų žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu, Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Medininkų
+    žemėje sutriuškino įsiveržusius į Žemaitiją kryžiuočius (III, 338); puldama plačiu frontu,
+    Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje Dorpato vyskupo valdas54, Dovydo
+    Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasario mėn. užpuolė danų vasalinėje
+    priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
+    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
@@ -476,3 +539,22 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Pilininkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Dovydas]]
+- [[objektai/daiktai/Duona]]
+- [[objektai/asmenys/Fridrichas]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/daiktai/Kalavijai]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/daiktai/Rūbai]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Fridrichas Kvicas]]
+- [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]
+- [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]
+- [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]
+- [[objektai/asmenys/Ulrichas iš Drinlevės]]
+- [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
+- [[objektai/zodynas/alodas dvaras]]

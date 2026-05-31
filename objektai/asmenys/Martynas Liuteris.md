@@ -38,6 +38,10 @@ tags:
   teiginys: 'Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, vadinamo Juoduoju.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,7 +77,37 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, vadinamo Juoduoju.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik po dvejų metų kapitula, patyrusi, kad
+    jau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­
+    pą imtis visokeriopų priemonių, kokias tik jam tokiu atveju
+    leistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­
+    kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir
+    Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo
+    stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos,
+    vadinamo Juoduoju. Jo dvaras Lukiškėse, prie Vilijos, nuo
+    renkasi į savo sueigas Lukiškėse, Jo
+    Didenybės Vilniaus vaivados Mika­
+    lojaus Radvilos rūmuose; nutaria
+    (savo susirinkime 1557 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Romėnai]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/vaivada]]

@@ -72,4 +72,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/zodynas/Lite litvakai]]
 - [[objektai/zodynas/litvakai Lite litviš]]

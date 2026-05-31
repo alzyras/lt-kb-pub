@@ -35,17 +35,14 @@ vaidmenys:
   - 'lietuvių kariuomenės vadas'
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1350 m.'
-  - '1430 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+datos: []
+periodas: ''
+periodo_grupes: []
 amziai:
-  - 'XIV'
+  - 'V'
   - 'XV'
-date_start: '1350'
-date_end: '1430'
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
 tags:
@@ -798,6 +795,191 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - c-153
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-149
+  teiginys: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  pagrindžia:
+    - c-154
+- t-150
+  teiginys: 'VYTAUTO IMPERIJA G edimino vaikaičio Vytauto valdymas 1392–1430 m. – epochinių permainų metas.'
+  pagrindžia:
+    - c-155
+- t-151
+  teiginys: 'LDK buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas L I E T U V O S I S T O R I J A 44 imperiškai.'
+  pagrindžia:
+    - c-156
+- t-152
+  teiginys: 'Šventasis valdovas Vytautas tikėjo, kad viename pralaimėtame mūšyje buvęs išgelbėtas Švč.'
+  pagrindžia:
+    - c-157
+- t-153
+  teiginys: '“ Vytautas dar ironiškai paklausęs maršalo: „O kurgi yra Ordino tėvų palikimas?“ Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T U V O S I S T O R I J A 50 nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų.'
+  pagrindžia:
+    - c-158
+- t-154
+  teiginys: 'Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju Žemaičių krikštu.'
+  pagrindžia:
+    - c-159
+- t-155
+  teiginys: 'Be to, Vytautas įkūnijo kiekvienam lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklausomybės nuo lenkų, jis ir palaidotas Vilniuje.'
+  pagrindžia:
+    - c-160
+- t-156
+  teiginys: 'O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė.'
+  pagrindžia:
+    - c-161
+- t-157
+  teiginys: 'Balinskis miesto istorinę apžvalgą užbaigia Stepono Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­ ma 1430 m. - Vytauto Didžiojo mirtimi.'
+  pagrindžia:
+    - c-162
+- t-158
+  teiginys: 'Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­ dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios.'
+  pagrindžia:
+    - c-163
+- t-159
+  teiginys: '2 Apie Lietuvos ir Žemaitijos tapatu­ mą ir apie tą jos dalijimą į aukštuti­ nę ir žemutinę sužinome iš kuo pa­ tikimiausio šaltinio, iš didžiojo kunigaikščio Vytauto 1420 metais Romos imperatoriui Zigmantui rašvto laiško: Terra Samaytarum, - pa- 14 ##.'
+  pagrindžia:
+    - c-164
+- t-160
+  teiginys: 'Palikdamas Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui, jaunajam Vytautui.'
+  pagrindžia:
+    - c-165
+- t-161
+  teiginys: 'Tas Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­ nių, turėjo slėptis Trakų pilyje34.'
+  pagrindžia:
+    - c-166
+- t-162
+  teiginys: 'Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas, tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­ vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo neišvengiamos.'
+  pagrindžia:
+    - c-167
+- t-163
+  teiginys: 'Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 1384 metais buvo sudaryta sutartis, ku­ ria Ordinas prisiekė atgauti Vytau­ tui iš jo atimtą tėvoniją, o Vytautas tuo atveju, jeigu neturėtų įpėdinių, savo paveldėjimo teises į valstybę.'
+  pagrindžia:
+    - c-168
+- t-164
+  teiginys: 'Vytautas ne­ vilty dėl savo sūnų netekties puolėsi prie sutarties su Jogaila, visą širdį dėdamas.'
+  pagrindžia:
+    - c-169
+- t-165
+  teiginys: 'Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ nyčių Žemaitijoje po krikščionybės įvedimo.'
+  pagrindžia:
+    - c-170
+- t-166
+  teiginys: 'Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­ gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.'
+  pagrindžia:
+    - c-171
+- t-167
+  teiginys: 'Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­ tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­ sančio, negrąžino.'
+  pagrindžia:
+    - c-172
+- t-168
+  teiginys: 'Karaliui išvykus į Lenkiją, Vytauto padė­ tis tapo dargi nesaugi: mat akylai stebimas kiekviename žingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­ mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras, kad nebus pasikėsinta į jo gyvybę18.'
+  pagrindžia:
+    - c-173
+- t-169
+  teiginys: 'Tų karingų vienuolių viršininkas, greitas pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­ gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­ siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios pilies sudarė sutartį su Vytautu.'
+  pagrindžia:
+    - c-174
+- t-170
+  teiginys: 'Poloniae factam, et erectionem Antistis 118 ## Puslapis 135 Il KNYGA Vytautas, kryžiuočių gudrybės nesugniuždytas, tvirtai lai­ kydamasis savo sumanymų, išvyko į Žemaitiją, kur paprasti žmonės ir bajorai nuo seno buvo palankūs jo tėvui Kęstučiui ir nusistatę.'
+  pagrindžia:
+    - c-175
+- t-171
+  teiginys: 'Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su slaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą, kad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­ nuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­ nas.'
+  pagrindžia:
+    - c-176
+- t-172
+  teiginys: 'rašo, kad jo laikais buvę „Vytauto užrašai Krokuvos pilyje, karaliaus iždinėje, kuriuose prisipažįsta susi­ taikęs ir sutaręs su pusbroliu Skir­ gaila dėl Lietuvos Didžiosios Kuni­ gaikštystės viršenybės, ir taip pat su juo suėjo į sąjungą prieš kiekvieną.'
+  pagrindžia:
+    - c-177
+- t-173
+  teiginys: 'Vis dėlto nereikėtų manyti, kad Vilnius ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų, patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo.'
+  pagrindžia:
+    - c-178
+- t-174
+  teiginys: 'Vladislovas Jogaila, aukščiausiąją valdžią Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­ jungta prie Lenkijos.'
+  pagrindžia:
+    - c-179
+- t-175
+  teiginys: '149 ## Puslapis 166 VILNIAUS MIESTO ISTORIJA I TOMAS Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­ gailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­ sinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo dovanomis; bet.'
+  pagrindžia:
+    - c-180
+- t-176
+  teiginys: 'Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­ nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas Janas Kropidła iš Jogailos svitos.'
+  pagrindžia:
+    - c-181
+- t-177
+  teiginys: 'Vytautas užkirto tam ke­ lią, nutraukdamas iš karto visus ry­ šius su naujai išrinktu Maskvos metropolitu Fotijumi ir paliepdamas vyskupams, susirinkusiems į Nau­ garduką, išrinkti iš savo tarpo Lie­ tuvai atskirą metropolitą.'
+  pagrindžia:
+    - c-182
+- t-178
+  teiginys: 'V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika 155 ## Puslapis 172 VILNIAUS MIESTO ISTORIJA / TOMAS pačiais 1386 metais Šv.'
+  pagrindžia:
+    - c-183
+- t-179
+  teiginys: 'Neva krikščioniškųjų valstybių sąjungos prieš tur­ kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas atmintinas daugelio monarchų ir kunigaikščių suvažiavimas būtų sušauktas Lucke.'
+  pagrindžia:
+    - c-184
+- t-180
+  teiginys: '99, kuriame atkalbinėja Romos 157 ## Puslapis 174 VILNIAUS MIESTO ISTORIJA I TOMAS priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­ leidžiąs Lenkijos karūną Vytautui.'
+  pagrindžia:
+    - c-185
+- t-181
+  teiginys: 'Len­ kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­ ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­ kijos senato valią galima būtų didžiajam kunigaikščiui už­ dėti Lietuvos.'
+  pagrindžia:
+    - c-186
+- t-182
+  teiginys: 'Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs išprašyti Kijevo metropolijos prijungimą prie Maskvos; gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­ imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­ vą.'
+  pagrindžia:
+    - c-187
+- t-183
+  teiginys: 'Vytauto palaikai buvo atvežti į Vilnių ir iškil­ mingai palaidoti85.'
+  pagrindžia:
+    - c-188
+- t-184
+  teiginys: 'Iš vieno Vytauto dovanojimo akto Tra­ kų miestui, 1384 metų rugpjūčio 23 dieną rašyto, aišku, kaip tatai ir iš istorijos žinoma, kad tuo metu jis jau buvęs krikščionis, ką liudija patys pirmieji to dokumento žodžiai: „Mes, didysis kunigaikštis Vytautas.'
+  pagrindžia:
+    - c-189
+- t-185
+  teiginys: 'Nuo 1400 metų, ištisą šimtmetį, Trakuose Vytautas, Žygimantas ir Kazimieras svarstė lemtingiausius Lietuvos reikalus ir ten sprendė plačios savo vals­ tybės reikalus, nors Vilnius visada buvo Didžiosios Kuni­ gaikštystės sostinė.'
+  pagrindžia:
+    - c-190
+- t-186
+  teiginys: 'Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo.'
+  pagrindžia:
+    - c-191
+- t-187
+  teiginys: '1189, - yra Vytauto laiško, kuriuo prašoma šio gydyto­ jo, turinys.'
+  pagrindžia:
+    - c-192
+- t-188
+  teiginys: 'Pasiligojusi Vytauto žmona Julijona bu­ vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­ me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto vokiečių raštininko, šiandien negalima suprasti, kokia tai buvo vieta.'
+  pagrindžia:
+    - c-193
+- t-189
+  teiginys: 'Dusburgietis teigia, kad net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių prūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37.'
+  pagrindžia:
+    - c-194
+- t-190
+  teiginys: 'Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t.'
+  pagrindžia:
+    - c-195
+- t-191
+  teiginys: 'Vytautas užsipelnė didelės apgarbos tiek savųjų, tiek svetimųjų tarpe.'
+  pagrindžia:
+    - c-196
+- t-192
+  teiginys: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
+  pagrindžia:
+    - c-197
+- t-193
+  teiginys: 'Tą patį rudenį (X.12), susivažiavę arti Nevėžio žiočių Nemuno saloje — « Salyne », kiek žemiau Kulautuvos^5 , Vytautas ir K.'
+  pagrindžia:
+    - c-198
+- t-194
+  teiginys: 'Valakijos kunigaikščiai jo globos sie­ kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­ narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­ siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį Žygimantą Kaributaitį, savo sūnėną.'
+  pagrindžia:
+    - c-199
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Vytautas pabėgo iš Krėvos su Onos pagalba.
@@ -3374,6 +3556,1087 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-054
+- c-154
+  santrauka: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-149
+- c-155
+  santrauka: 'VYTAUTO IMPERIJA G edimino vaikaičio Vytauto valdymas 1392–1430 m. – epochinių permainų metas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    VYTAUTO IMPERIJA
+    G
+    edimino vaikaičio Vytauto valdymas 1392–1430 m. –
+    epochinių permainų metas. Lietuvos Didžioji Kuni-
+    gaikštija 1392 m. buvo šalis be rašto ir mokyklų, be didelių miestų ir cechų
+    amatų industrijos, be sunkiosios raitijos – smogiamosios jėgos mūšio lau-
+    ke. Jos valdovas Jogaila tapo Lenkijos karaliumi ir buvo pripažintas tarp-
+    tautiniu mastu, bet už tai LDK prarado suverenios valstybės statusą. Kry-
+    žiuočių kumštis grėsmingai tebekybojo ties Nemunu. O jau 1430 m. LDK
+    buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
+
+    L I E T U V O S  I S T O R I J A
+    44
+    imperiškai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-150
+- c-156
+  santrauka: 'LDK buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas L I E T U V O S I S T O R I J A 44 imperiškai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LDK
+    buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
+
+    L I E T U V O S  I S T O R I J A
+    44
+    imperiškai. Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia
+    valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste. Kryžiuočių
+    pavojus pašalintas. Šalyje sparčiai kilo amatai ir prekyba, susikūrė turtin-
+    gų žemvaldžių, galinčių gerai apsiginkluoti, sluoksnis. Funkcionavo ištisas
+    raštinių tinklas, atsirado pirmosios mokyklos, pradėti rašyti metraščiai. Ne
+    vienas Vytautas, o visa Lietuvos visuomenė, ypač jos elitas, kūrė šį istorinį
+    procesą, bet būtent Vytautas geriausiai sugebėjo pasinaudoti istorijos tei-
+    kiamomis galimybėmis ir nutiesė kelius Europos kultūrai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-151
+- c-157
+  santrauka: 'Šventasis valdovas Vytautas tikėjo, kad viename pralaimėtame mūšyje buvęs išgelbėtas Švč.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šventasis valdovas
+    Vytautas tikėjo, kad viename pralaimėtame mūšyje buvęs
+    išgelbėtas Švč. Mergelės Marijos – iškart po šio mūšio funduota Vytauto
+    bažnyčia Kaune buvo pašvęsta Švč. Mergelei. Ir dauguma Vytauto funduo-
+    tų bažnyčių pavadintos Švč. Mergelės Marijos vardu. Galima sakyti, kad
+    Švč. Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
+    nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
+    tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-152
+- c-158
+  santrauka: '“ Vytautas dar ironiškai paklausęs maršalo: „O kurgi yra Ordino tėvų palikimas?“ Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istoriL I E T U V O S I S T O R I J A 50 nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “ Vytau-
+    tas dar ironiškai paklausęs maršalo: „O kurgi yra Ordino tėvų palikimas?“
+    Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istori-
+
+    L I E T U V O S  I S T O R I J A
+    50
+    nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų
+    dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.
+    Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
+    intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
+    nigaikščių dovanota vokiečiams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-153
+- c-159
+  santrauka: 'Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lietuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju Žemaičių krikštu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi, visa Vytauto politika buvo orientuota į bažnytinę politiką ir Lie-
+    tuvos konversiją, kuri kartais perdėm formaliai užbaigiama vadinamuoju
+    Žemaičių krikštu. Atrodo, kad visa Vytauto politika orientuota į „švento
+    valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
+    įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu. Kadangi Vy-
+    tautui iš tikrųjų teko didžiulė užduotis įvykdyti konversiją – ne tik atvesti
+    į krikščionybę pagoniškas Lietuvos erdves, bet ir ieškoti sugyvenimo for-
+    mulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą
+    reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-154
+- c-160
+  santrauka: 'Be to, Vytautas įkūnijo kiekvienam lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklausomybės nuo lenkų, jis ir palaidotas Vilniuje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Be to, Vytautas įkūnijo kiekvienam
+    lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
+    somybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
+    Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
+    jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
+    A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-155
+- c-161
+  santrauka: 'O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    To, galų gale, jie ir buvo mokomi. O sava valstybė,
+    atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių,
+    ateities planų garantas, pati didžiausia vertybė.
+    Kauno sporto halėje 1939 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-156
+- c-162
+  santrauka: 'Balinskis miesto istorinę apžvalgą užbaigia Stepono Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­ ma 1430 m. - Vytauto Didžiojo mirtimi.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Balinskis miesto istorinę apžvalgą užbaigia Stepono
+    Batoro valdymo metais 1586 m. Pirmoji knygos dalis užbaigia­
+    ma 1430 m. - Vytauto Didžiojo mirtimi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-157
+- c-163
+  santrauka: 'Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­ dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1836
+
+    ## Puslapis 18
+
+    ĮVADAS
+    R  ašydamas istoriją miesto, kuris bemaž du amžius buvo vie­
+    nos galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
+    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios cen­
+    tras Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš
+    įvairių kronikų ir senųjų, archyvuose saugomų rankraščių iš­
+    rinkti padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
+    daugybę privilegijų, kuriomis jo gyventojai nuo senų laikų nau­
+    dojosi, ne tik atgaivinti amžininkų atmintyje ankstesnius, kele­
+    to amžių, įvykius toje sostinėje, bet ir, kiek tema ir galimybės
+    man leido, prisidėti prie kai kurių Lietuvos istorijos įvykių aiški­
+    nimo. Mažai težinoma mums patiems, o Europai visai negirdė­
+    ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­
+    dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija
+    menkame plote išsitenkančios Tautos, kuri pati viena, savosios
+    pagonybės atskirta nuo kitų Europos šalių, vien savo narsos dėka
+    įstengė atremti baisius mongolų antpuolius, pažaboti Rusią ir
+    nesileisti pavergiama godžiai grobuoniško Prūsijos Kryžiuočių
+    ordino. Tokie įvykiai civilizuotam pasauliui nėra neįdomūs, ta­
+    čiau, norint juos aiškiai nušviesti ir parašyti tokio vardo vertą
+    lietuvių Tautos Istoriją, be daugelio kitų sąlygų, pirmiausia rei-
+    2
+
+    ## Puslapis 19
+
+    ĮVADAS
+    kia detaliai išnarplioti atskirų šios šalies miestų, būtent jos sos­
+    tinės, istoriją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-158
+- c-164
+  santrauka: '2 Apie Lietuvos ir Žemaitijos tapatu­ mą ir apie tą jos dalijimą į aukštuti­ nę ir žemutinę sužinome iš kuo pa­ tikimiausio šaltinio, iš didžiojo kunigaikščio Vytauto 1420 metais Romos imperatoriui Zigmantui rašvto laiško: Terra Samaytarum, - pa- 14 ##.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    5 [apie gotų genties kilmę ir
+    karo žygius]); yra ne kokios nors vie­
+    nos tautos nomen gentile [giminės
+    vardas], bet toks įvairių tautų sam­
+    būrio nomen sociale [bendruomenės
+    vardas], koks yra frankų pavadini­
+    mas.
+    2
+    Apie Lietuvos ir Žemaitijos tapatu­
+    mą ir apie tą jos dalijimą į aukštuti­
+    nę ir žemutinę sužinome iš kuo pa­
+    tikimiausio šaltinio, iš didžiojo
+    kunigaikščio Vytauto 1420 metais
+    Romos imperatoriui Zigmantui ra-
+    švto laiško: Terra Samaytarum, - pa-
+    14
+
+    ## Puslapis 31
+
+    I  KNYGA
+    Visame tame plote, nuo senų senovės apaugusiame girio­
+    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
+    ganos medžioklių trobelės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-159
+- c-165
+  santrauka: 'Palikdamas Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui, jaunajam Vytautui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
+    vos tik jis išvijo vokiečius už Lietuvos ribų, kai maištai Ru­
+    sioje, sukelti Jogailos brolio Kaributo, viešpatavusio Severs-
+    ko kunigaikštystėje ir nenorėjusio pripažinti Kęstučio vir­
+    šenybės, vertė šį vykti ten su visa kariauna. Palikdamas
+    Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui,
+    jaunajam Vytautui.
+    Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­
+    gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­
+    mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais,
+    nusprendė užimti Vilnių ir Trakus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-160
+- c-166
+  santrauka: 'Tas Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­ nių, turėjo slėptis Trakų pilyje34.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Re­
+    gis, iš jo kilusi Hanulu giminė, kurių
+    36
+
+    ## Puslapis 53
+
+    I  KNYGA
+    Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
+    gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi
+    pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas
+    Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
+    kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
+    pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
+    nių, turėjo slėptis Trakų pilyje34. Ir šią pilį Jogaila būtų leng­
+    vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
+    pagalbą sūnui pagaliau nebūtų atvykęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-161
+- c-167
+  santrauka: 'Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas, tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­ vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo neišvengiamos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-162
+- c-168
+  santrauka: 'Kai Vytau­ tas po Kęstučio mirties užmezgė ryšius su didžiuoju magistru, 1384 metais buvo sudaryta sutartis, ku­ ria Ordinas prisiekė atgauti Vytau­ tui iš jo atimtą tėvoniją, o Vytautas tuo atveju, jeigu neturėtų įpėdinių, savo paveldėjimo teises į valstybę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iki to meto,
+    kerojant karingos padermės laukiniams papročiams, jo is­
+    torija byloja bemaž vien apie nesėkmes, sumaištį arba pa­
+    sakoja apie liaunus pradmenis. Nuolatinių karų ir grobi­
+    mų virtinėje retai kur prasimuša padrikų ir neišsamių
+    įstatymų pėdsakai, ir sunku būtų bent ką surasti, kas pa­
+    dėtų susidaryti aiškų ir teisingą vaizdą apie krašto, juolab
+    41
+    Nebuvo tokio nusikaltimo, kurio Or­
+    dinas nebūtų griebęsis, kad tik su­
+    silpnintų Lietuvos galią. Kai Vytau­
+    tas po Kęstučio mirties užmezgė
+    ryšius su didžiuoju magistru, 1384
+    metais buvo sudaryta sutartis, ku­
+    ria Ordinas prisiekė atgauti Vytau­
+    tui iš jo atimtą tėvoniją, o Vytautas
+    tuo atveju, jeigu neturėtų įpėdinių,
+    savo paveldėjimo teises į valstybę
+    Perleistų kryžiuočiams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-163
+- c-169
+  santrauka: 'Vytautas ne­ vilty dėl savo sūnų netekties puolėsi prie sutarties su Jogaila, visą širdį dėdamas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kokios bu­
+    vo šios sutarties pasekmės? Taigi
+    greitai, 1385 metais, mažamečiai Vy­
+    tauto sūnūs, Jonas ir Jurgis, buvo Ka­
+    raliaučiuje nunuodyti! Vytautas ne­
+    vilty dėl savo sūnų netekties puolėsi
+    prie sutarties su Jogaila, visą širdį
+    dėdamas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-164
+- c-170
+  santrauka: 'Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ nyčių Žemaitijoje po krikščionybės įvedimo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pats miestelis dali­
+    jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­
+    kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium
+    [šventovė], regis, turėtų būti senesnių metų ir, pasak vieti­
+    nio padavimo, gali siekti net pagonybės laikus. Pirmoji baž­
+    nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­
+    nyčių Žemaitijoje po krikščionybės įvedimo. Vėliau karalienė
+    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
+    klebonija tapo išties reikšmingiausia Žemaitijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-165
+- c-171
+  santrauka: 'Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­ gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Čia, krašto reikalus
+    įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
+    vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
+    pavaldžiu karališkajai savo valdžiai16.
+    Miestui teko būti liudytoju dviejų prašmatnių vestuvių:
+    Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­
+    gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
+    Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną. Po
+    to karalius, spiriamas karalystės reikalų, greitai išskubėjo į
+    Lenkiją, Vilnių palikęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-166
+- c-172
+  santrauka: 'Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­ tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­ sančio, negrąžino.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Įtarusis Jogaila nepasitikėjo Vytautu ir, laužydamas
+    duotus pažadus sutariant dėl tarpusavio taikos, ne tik Lie­
+    tuvos valdymo, bet ir paveldo, po Kęstučio mirties priklau­
+    sančio, negrąžino. Karaliui išvykus į Lenkiją, Vytauto padė­
+    tis tapo dargi nesaugi: mat akylai stebimas kiekviename
+    žingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­
+    mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,
+    kad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-167
+- c-173
+  santrauka: 'Karaliui išvykus į Lenkiją, Vytauto padė­ tis tapo dargi nesaugi: mat akylai stebimas kiekviename žingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­ mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras, kad nebus pasikėsinta į jo gyvybę18.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Karaliui išvykus į Lenkiją, Vytauto padė­
+    tis tapo dargi nesaugi: mat akylai stebimas kiekviename
+    žingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­
+    mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,
+    kad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią. Tačiau nenorėdamas ban­
+    dyti laimės ir pradėti mūšį su persvarą turinčiomis priešo
+    pajėgomis, ieškojo paspirties, juoba kad 1389 metų gale
+    18
+    Slap t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-168
+- c-174
+  santrauka: 'Tų karingų vienuolių viršininkas, greitas pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­ gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­ siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios pilies sudarė sutartį su Vytautu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1390 metų sausio pradžioje visą savo šei­
+    mą iš Gardino išsiuntęs į Prūsiją, ruošdamasis atnaujinti anks­
+    tesnes sutartis su didžiuoju magistru Konradu Ciolneriu, dar
+    labiau įtvirtino Gardiną kaip savo buveinę, sustiprino ir kitų
+    savo pilių gynybą. Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
+    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
+    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
+    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
+    aplinkines žemes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-169
+- c-175
+  santrauka: 'Poloniae factam, et erectionem Antistis 118 ## Puslapis 135 Il KNYGA Vytautas, kryžiuočių gudrybės nesugniuždytas, tvirtai lai­ kydamasis savo sumanymų, išvyko į Žemaitiją, kur paprasti žmonės ir bajorai nuo seno buvo palankūs jo tėvui Kęstučiui ir nusistatę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Poloniae factam, et erectionem Antistis
+    118
+
+    ## Puslapis 135
+
+    Il KNYGA
+    Vytautas, kryžiuočių gudrybės nesugniuždytas, tvirtai lai­
+    kydamasis savo sumanymų, išvyko į Žemaitiją, kur paprasti
+    žmonės ir bajorai nuo seno buvo palankūs jo tėvui Kęstučiui
+    ir nusistatę prieš Jogailą dėl jo uolumo užginant senovines
+    jų tikybos apeigas. Vytauto rūpesčiu žemaičiai Karaliaučiuje
+    sudarė sutartį su Ordinu, taigi Vytauto galia vėl sustiprėjo,
+    ir didysis magistras, įsitikinęs, jog lietuvių pajėgos susi­
+    skaldžiusios, ėmė ruoštis į pakartotiną, bet daug reikšmin­
+    gesnį žygį, kurio tikslas jau buvo ne tik apiplėšti Lietuvą,
+    tačiau užimti jos sostinę ir įkurdinti ten Vytautą21. Kai rug­
+    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
+    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
+    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
+    jų esant.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-170
+- c-176
+  santrauka: 'Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su slaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą, kad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­ nuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­ nas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    133
+
+    ## Puslapis 150
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    gyveno kryžiuočių sostinėje Marienburge. Nepaprastas Rin­
+    gailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su
+    slaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą,
+    kad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­
+    nuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­
+    nas patikusią lietuvaitę. Tačiau tas netikėtas ryšys, kuris Hen­
+    rikui, vėliau grįžus į Plocką, kainavo gyvybę, lėmė greitesnį
+    karaliaus susitarimą su Vytautu48.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-171
+- c-177
+  santrauka: 'rašo, kad jo laikais buvę „Vytauto užrašai Krokuvos pilyje, karaliaus iždinėje, kuriuose prisipažįsta susi­ taikęs ir sutaręs su pusbroliu Skir­ gaila dėl Lietuvos Didžiosios Kuni­ gaikštystės viršenybės, ir taip pat su juo suėjo į sąjungą prieš kiekvieną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    rašo, kad jo laikais buvę „Vytauto
+    užrašai Krokuvos pilyje, karaliaus
+    iždinėje, kuriuose prisipažįsta susi­
+    taikęs ir sutaręs su pusbroliu Skir­
+    gaila dėl Lietuvos Didžiosios Kuni­
+    gaikštystės viršenybės, ir taip pat su
+    juo suėjo į sąjungą prieš kiekvieną
+    priešą, išskyrus Lenkijos karalių", -
+    ką savo laiškais ir Vytauto žmona
+    Ona patvirtina.
+    134
+
+    ## Puslapis 151
+
+    Il KNYGA
+    Tačiau tas amžių amžiams Lietuvos monarchijai atmintinas
+    Vytauto viešpatavimas, tie neišmatuojami užkariavimai, ku­
+    rie jos sienas nuo Baltijos iki pat Juodosios jūros pastūmė, o
+    vakaruose atitolinę rytų link tarp Lenkijos iki tolimų šiauri­
+    nės Rusios pakraščių nustatė, dar nebuvo pati gražiausia epo­
+    cha Vilniaus miesto istorijoje. Tiekos negandų nukamuota,
+    nesiliaujant vaidams viduje ir antpuoliams iš svetur, šalis ne­
+    valiojo greit pakilti iš vargų, kokius patyrė per pastarąsias
+    apgultis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-172
+- c-178
+  santrauka: 'Vis dėlto nereikėtų manyti, kad Vilnius ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų, patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vis dėlto nereikėtų manyti, kad Vilnius
+    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
+    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-173
+- c-179
+  santrauka: 'Vladislovas Jogaila, aukščiausiąją valdžią Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­ jungta prie Lenkijos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Didysis kunigaikštis ne­
+    teko savo žirgų ir brangenybių, o žala, kurią per tai patyrė,
+    kaip įkainojo patys Vilniaus gyventojai, siekė iki 60 tūkstan­
+    čių sidabro luitų65 • . Vladislovas Jogaila, aukščiausiąją valdžią
+    Lietuvoj patikėdamas Vytautui, buvo paėmęs iš jo iškilmingą
+    aktą (1401 m.), laiduojantį, kad po Vytauto mirties Lietuva ir
+    Rusia, ištisai visa, pereisianti karaliaus valdžion ir būsianti pri­
+    jungta prie Lenkijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-174
+- c-180
+  santrauka: '149 ## Puslapis 166 VILNIAUS MIESTO ISTORIJA I TOMAS Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­ gailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­ sinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo dovanomis; bet.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    698.
+    149
+
+    ## Puslapis 166
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Vytautas savo sostinėje su visa ištaiga priėmė Vladislovą Jo­
+    gailą, vėl apsilankiusį Lietuvoje, kad numaldytų nuolatos at­
+    sinaujinančius kivirčus su kryžiuočiais, ir dosniai ją apdalijo
+    dovanomis; bet vėliau Vilniaus reikalai darėsi liūdnesni. Kai
+    Vilniuje (1418 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-175
+- c-181
+  santrauka: 'Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­ nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios, būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas Janas Kropidła iš Jogailos svitos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau Vilniaus vyskupas Petras tam
+    prieštaravo, atsisakydamas sutuokti dėl tokios artimos gimi­
+    nystės, tad tarp jo ir Vytauto kilo karšti ginčai, kad kokios,
+    būtų ir prie didesnių dalykų priėję, jeigu ne Kujavų vyskupas
+    Janas Kropidła iš Jogailos svitos, kurį Vytautui pavyko įkalbė­
+    ti, ir kuris palaimino tą santuoką.
+    Vytautas, savo viešpatavimo laikais laimėjęs daug mūšių
+    su Kipčiako didžiosios ordos totoriais ir kitais, mažesniaisiais,
+    klajojusiais už Dniepro bei Volgos, įveikė juos, taigi, vienval­
+    dyste naudodamasis, skirdavo ir savo sostinėje ne kartą yra
+    skelbęs chanu arba caru kokį nors totorių kunigaikštį, kurių
+    daugelis dažnai buvodavo jo rūmuose. Tokios iškilmės Vy­
+    tauto laikais pirmą kartą (1419 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-176
+- c-182
+  santrauka: 'Vytautas užkirto tam ke­ lią, nutraukdamas iš karto visus ry­ šius su naujai išrinktu Maskvos metropolitu Fotijumi ir paliepdamas vyskupams, susirinkusiems į Nau­ garduką, išrinkti iš savo tarpo Lie­ tuvai atskirą metropolitą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kenksmingą tos virše­
+    nybės įtaką graikų apeigų tikėjimo
+    dvasininkų ir gyventojų rusų mąs-
+    tvmo būdui ne kartą didysis kuni­
+    gaikštis buvo pajutęs, ypač karų su
+    Maskva laikais; o, be to, juk ir ne­
+    mažos pajamos kasmet iš Lietuvos
+    būdavo teikiamos Maskvos metro­
+    politams. Vytautas užkirto tam ke­
+    lią, nutraukdamas iš karto visus ry­
+    šius su naujai išrinktu Maskvos
+    metropolitu Fotijumi ir paliepdamas
+    vyskupams, susirinkusiems į Nau­
+    garduką, išrinkti iš savo tarpo Lie­
+    tuvai atskirą metropolitą. Daugiau
+    apie tai žinių yra įdėję: K u 1  c z y ń s-
+    k i Specimen Ecclesiae Ruthenicae,
+    Pars.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-177
+- c-183
+  santrauka: 'V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika 155 ## Puslapis 172 VILNIAUS MIESTO ISTORIJA / TOMAS pačiais 1386 metais Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tais
+    81
+    Karamzin  Histor. Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
+    lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
+    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
+    155
+
+    ## Puslapis 172
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
+    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
+    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
+    Stanislovas82.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-178
+- c-184
+  santrauka: 'Neva krikščioniškųjų valstybių sąjungos prieš tur­ kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas atmintinas daugelio monarchų ir kunigaikščių suvažiavimas būtų sušauktas Lucke.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Neva krikščioniškųjų valstybių sąjungos prieš tur­
+    kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas
+    atmintinas daugelio monarchų ir kunigaikščių suvažiavimas
+    būtų sušauktas Lucke. Tačiau kai ten išaiškėjo, kad, užuot
+    aptarus turkų klausimą, imperatoriaus imamasi gudrių už­
+    mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat
+    pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė-
+    jo. Zigmantas, vis dėlto pasėjęs nesantaikos sėklą tarp bro­
+    lių ir dviejų tautų, pargrįžęs tuoj pat išleido pasiuntinius su
+    karūna pas Vytautą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-179
+- c-185
+  santrauka: '99, kuriame atkalbinėja Romos 157 ## Puslapis 174 VILNIAUS MIESTO ISTORIJA I TOMAS priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­ leidžiąs Lenkijos karūną Vytautui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    99, kuriame atkalbinėja Romos
+    157
+
+    ## Puslapis 174
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
+    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-180
+- c-186
+  santrauka: 'Len­ kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­ ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija, o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­ kijos senato valią galima būtų didžiajam kunigaikščiui už­ dėti Lietuvos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Len­
+    kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­
+    ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija,
+    o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­
+    kijos senato valią galima būtų didžiajam kunigaikščiui už­
+    dėti Lietuvos karaliaus karūną ir paskui išlaikyti ją nebau­
+    džiamiems. Vytautas, vėl su įkarščiu išsakęs savo didelį norą
+    stojęs prieš karalių ir senatorius, kai visi jo prašymai ir mal­
+    davimai buvo tačiau visai atmesti, nusprendė imtis kitų bū­
+    dų: palenkti dovanomis ir pažadais Krokuvos vyskupą
+    Olesnickį, kuris kartu su Krokuvos vaivada Janu iš Tarno­
+    vo turėjo lemiamą balsą karaliaus taryboje. Bet šis vyras,
+    tiesus ir nepalaužiamas, davė jam tokį įsidėmėtiną atsaky­
+    mą: „Nors Vytautas ir vertas yra karūnos, tačiau, jeigu
+    trokšta jos nepaisydamas šventos priesaikos, kokią pats da­
+    vė, užuot savo šlovę apvainikavęs, gėdą sau užtrauks, p
+    tėvynei nelaimę atneš.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-181
+- c-187
+  santrauka: 'Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs išprašyti Kijevo metropolijos prijungimą prie Maskvos; gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­ imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­ vą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Širdgėlos ir senatvės kamuojamas, praradęs bet kokią viltį
+    159
+
+    ## Puslapis 176
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    kada nors turėti taip godotą karūną, jis sunkiai susirgo, o
+    gausiai susirinkę svetimšaliai pradėjo išsivažinėti iš Vilniaus.
+    Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs
+    išprašyti Kijevo metropolijos prijungimą prie Maskvos;
+    gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­
+    imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­
+    vą. Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
+    silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
+    savo sumanymo, aukštuosius didikus iš savo tarybos išsiun­
+    tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
+    ju. Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose,
+    gedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė
+    į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė
+    ir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­
+    mingai palaidoti85.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-182
+- c-188
+  santrauka: 'Vytauto palaikai buvo atvežti į Vilnių ir iškil­ mingai palaidoti85.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vytauto palaikai buvo atvežti į Vilnių ir iškil­
+    mingai palaidoti85. Vytautas savo laikais buvo didžią šlovę
+    pelnęs karžygys, šiaurės kraštuose labiausiai aukštinamas
+    monarchas; nė vienas iš tuomet viešpatavusiųjų, jam ne­
+    prilygo narsa ir kario šlove. Veiklus, santūrus, kilnus, my­
+    lintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika,
+    tačiau ūmus, per daug ambicingas, kartais siekiantis savo
+    tikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto
+    geri ir blogi bruožai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-183
+- c-189
+  santrauka: 'Iš vieno Vytauto dovanojimo akto Tra­ kų miestui, 1384 metų rugpjūčio 23 dieną rašyto, aišku, kaip tatai ir iš istorijos žinoma, kad tuo metu jis jau buvęs krikščionis, ką liudija patys pirmieji to dokumento žodžiai: „Mes, didysis kunigaikštis Vytautas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš
+    vieno Vytauto dovanojimo akto Tra­
+    kų miestui, 1384 metų rugpjūčio 23
+    dieną rašyto, aišku, kaip tatai ir iš
+    istorijos žinoma, kad tuo metu jis jau
+    buvęs krikščionis, ką liudija patys
+    pirmieji to dokumento žodžiai:
+    „Mes, didysis kunigaikštis Vytautas,
+    švento krikšto metu gavęs Aleksan­
+    dro vardą" ir 1.1. Jo žmonos - Smo­
+    lensko kunigaikštytė Ona, o kita -
+    Algimanto Alšėniškio duktė Julijo­
+    na -išpažino graikų apeigų tikėjimą
+    ir Trakų pilyje, dar prieš Lietuvos
+    krikštą, turėjo savo koplyčią, kurios
+    pėdsakų šios pilies vienos sienos se­
+    novinėje tapyboje yra iki šiol išlikę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-184
+- c-190
+  santrauka: 'Nuo 1400 metų, ištisą šimtmetį, Trakuose Vytautas, Žygimantas ir Kazimieras svarstė lemtingiausius Lietuvos reikalus ir ten sprendė plačios savo vals­ tybės reikalus, nors Vilnius visada buvo Didžiosios Kuni­ gaikštystės sostinė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Beveik visą
+    amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­
+    nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­
+    puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
+    ežerų apsuptai Trakų piliai. Nuo 1400 metų, ištisą šimtmetį,
+    Trakuose Vytautas, Žygimantas ir Kazimieras svarstė lem-
+    tingiausius Lietuvos reikalus ir ten sprendė plačios savo vals­
+    tybės reikalus, nors Vilnius visada buvo Didžiosios Kuni­
+    gaikštystės sostinė. Toksai pagrindinės valdžios nutolimas
+    nuo sostinės galėjo turėti blogos įtakos jos gerovei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-185
+- c-191
+  santrauka: 'Prūsi­ jos istorija mums išsaugojo įdomią žinią apie tai, kad Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­ ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro Pauliaus Rusdorfo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    A liteho
+    236
+
+    ## Puslapis 253
+
+    III KNYGA
+    galiau Aleksandro laikais Vilnius pirmą kartą pažino gydy­
+    toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
+    me vėliau, buvo įsteigta tik Žygimanto Senojo laikais. Prūsi­
+    jos istorija mums išsaugojo įdomią žinią apie tai, kad
+    Vytautas 1426 metais, susirūpinęs savo žmonos Julijonos
+    liga, kreipėsi į didįjį magistrą prašydamas gydytojo53, o pa­
+    ti didžioji kunigaikštienė Julijona gavo iš didžiojo magistro
+    Pauliaus Rusdorfo jai dovanų atsiųstus gydomuosius gėrimus54.
+    serebra do mina/ pryszlo 20 tysiacz hry-
+    wien i 6 sot hrywien i 50 i osm hryzvien
+    i dwa skotcy [Vilniuje, birželio 9-ta
+    diena, 2 indiktas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-186
+- c-192
+  santrauka: '1189, - yra Vytauto laiško, kuriuo prašoma šio gydyto­ jo, turinys.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Napierskio  veikale, aukščiau
+    ne sykį cituotame Index Codicis Hist.
+    Dipl. Livon., N. 1189, - yra Vytauto
+    laiško, kuriuo prašoma šio gydyto­
+    jo, turinys. Laiškas datuotas Obol-
+    ce, tarp Vitebsko ir Smolensko, 1426
+    metų sausio 13 dieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-187
+- c-193
+  santrauka: 'Pasiligojusi Vytauto žmona Julijona bu­ vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­ me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto vokiečių raštininko, šiandien negalima suprasti, kokia tai buvo vieta.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Algirdas
+    kartais gyvendavo Paneriuose, šiandien priklausančiuose
+    Vilniaus kapitulai. Pasiligojusi Vytauto žmona Julijona bu­
+    vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
+    me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto
+    vokiečių raštininko, šiandien negalima suprasti, kokia tai
+    buvo vieta. Kazimieras pamėgo Rūdninkus ir dažnai juose
+    buvodavo, bet jie nebuvo tokie garsūs, kaip pasidarė vėliau,
+    Žygimantų - Senojo ir Augusto - laikais, kai net Vilniuje
+    atsirado nauji vartai, Aleksandro laikais dar nežinomi, ir ga­
+    vo Rūdninkų vardą, kaip ir nuo jų vingiuojanti gatvė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-188
+- c-194
+  santrauka: 'Dusburgietis teigia, kad net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių prūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    ) padėti Gedimino kariuomenei, kuri
+    stengėsi likviduoti naują Ordino agresijos židinį, įkurtą prie Nemuno šalia Veliuonos,—
+    Bajerburgą36. Net 1410 m. Vytautas, įžengęs su kariuomene į Prūsiją, rado jam palankių
+    prūsų bajorų, kurie dar nebuvo užmiršę savo baltiškosios kilmės37.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-189
+- c-195
+  santrauka: 'Dusburgietis teigia, kad 1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1413 m., Salyno derybų metu, Vytautas griežtai pareiškė kryžiuočiams, jog
+    „...Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos (t. y. visų
+    prūsų žemių iki Vyslos su Pamede imtinai — R. B.), nes jie yra mano tėvų palikimas“41.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-190
+- c-196
+  santrauka: 'Vytautas užsipelnė didelės apgarbos tiek savųjų, tiek svetimųjų tarpe.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Didelis ir darbininkas. Mokėjo laiką taip suvartoti, jog nė
+    minutė nenueidavo niekais. Pasižymėjo stropiu valdymu: savo
+    pareigų neužmiršdavo nei namuose nei kelionėje. Ar klausy­
+    damas žmonių skundų ir prašymų, ar duodamas atsakymus ir
+    patarimus — visur vadavosi teisybe. Ta savybe jis užsipelnė
+    didelės apgarbos tiek savųjų, tiek svetimųjų tarpe. Laisvesnį
+    laiką, jei jo kiek atlikdavo, praleisdavo medžioklėje arba eida­
+    mas šachmatais. Bet visur kur matėsi saikas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-191
+- c-197
+  santrauka: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­
+    rius metus Prūsuose. Tenai, kryžiuočių tarpe, jis išėjo gerą ir
+    drausmingą gyvenimo mokyklą, kuri jam padėjo atsivaduoti
+    tėviškę. Ordino valstybė, gyvenusi keletą šimtų metų krikščio­
+    niškos Vakarų kultūros įtakoj, labai teigiamai galėjo atsiliepti
+    sumaniam Vytautui: jis čionai rado savo tikslams ne tik mate­
+    rialinės, bet ir dvasinės paramos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-192
+- c-198
+  santrauka: 'Tą patį rudenį (X.12), susivažiavę arti Nevėžio žiočių Nemuno saloje — « Salyne », kiek žemiau Kulautuvos^5 , Vytautas ir K.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tą patį rudenį (X.12),
+    susivažiavę arti Nevėžio žiočių Nemuno saloje — « Salyne », kiek
+    žemiau Kulautuvos^5 , Vytautas ir K. Jungingenas galutinai patvir­
+    tino sutartį^6. Pasilikdamas sau Nevėžio žiotis, Vytautas kryžiuo­
+    čiams užleido visus Žemaičius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-193
+- c-199
+  santrauka: 'Valakijos kunigaikščiai jo globos sie­ kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­ narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­ siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį Žygimantą Kaributaitį, savo sūnėną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Valakijos kunigaikščiai jo globos sie­
+    kė (1420 m.), o čekų tautos pasiuntiniai kvietė Lietuvos mo­
+    narchą užimti jų karalių sostą, todėl Vytautas pagaliau nu­
+    siuntė jiems į Prahą (1422 m.) pageidaujamu valdovu kunigaikštį
+    Žygimantą Kaributaitį, savo sūnėną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-194
 
 ## Ryšiai
 ### Susiję objektai
@@ -3490,6 +4753,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
 - [[objektai/grupes/Taikos partija]]
 - [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
 - [[objektai/posakiai/Tikslas pateisino priemones|Tikslas pateisino priemones.]]
@@ -3566,6 +4830,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
 - [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kondominiumas]]
 - [[objektai/zodynas/kontribucija]]
 - [[objektai/zodynas/kultūrinimas]]
@@ -3631,27 +4896,234 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
 - [[objektai/posakiai/„Vytautas negali sustoti, pasakyti — gana galybės.“]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
+- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]
 - [[objektai/posakiai/„iki gyvos galvos“]]
 - [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Altorius]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/asmenys/Bona]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Gotai]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Janas Kropidła]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
+- [[objektai/autoriai/Jornandesas]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kerimberdėjus]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/daiktai/Medžioklių trobelės]]
+- [[objektai/posakiai/Nuo Baltijos iki pat Juodosios jūros]]
+- [[objektai/asmenys/Paleologas]]
+- [[objektai/zodynas/Sanctuarium]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/grupes/Vidivarii]]
+- [[objektai/zodynas/Vidivarijai]]
+- [[objektai/asmenys/Vydimantas]]
+- [[objektai/asmenys/Vytautas Didysis]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/indiktas]]
+- [[objektai/zodynas/jubiliejus]]
+- [[objektai/zodynas/kitatikiai]]
+- [[objektai/zodynas/klebonija]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/ivykiai/1416 m. Veliuonos susivažiavimas]]
+- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
+- [[objektai/asmenys/Andrius Važila]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/ivykiai/Astravos sutartis]]
+- [[objektai/grupes/Aukso orda]]
+- [[objektai/paprociai/Bajorų privilegijų reikalavimas karo stovykloje]]
 - [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/paprociai/Belaisvių išpirkimas per pasiuntinius ir sidabro mokėjimus]]
+- [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
 - [[objektai/asmenys/Danuta]]
+- [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis]]
 - [[objektai/autoriai/Detmaro Liubeko]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/paprociai/Didžiojo kunigaikščio įvesdinimas į valdžią patepimu]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
+- [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių]]
+- [[objektai/asmenys/Edyga]]
+- [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]
+- [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Gedimino dinastija]]
+- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
+- [[objektai/daiktai/Gotikinių pastatų gynybiniai bokštai, šaunamosios angos ir kryžminiai skliautai]]
+- [[objektai/asmenys/Ivanas Sidorovičius]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/daiktai/JAV vieno cento moneta]]
+- [[objektai/asmenys/Jacenka]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/asmenys/Joachimas Pavlovičius]]
+- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)]]
+- [[objektai/ivykiai/Jogailos pašalinimas iš Vilniaus]]
+- [[objektai/ivykiai/Jogailos šalininkų Vilniaus pilių užėmimas (1382 m.)]]
+- [[objektai/autoriai/Johannes Voigt Foigtas]]
+- [[objektai/asmenys/Jonas Olesnickis]]
+- [[objektai/posakiai/Kai aš atvykau pas didįjį kunigaikštį]]
+- [[objektai/daiktai/Karališkosios vaistinės vaistai ir gydomieji gėrimai]]
+- [[objektai/daiktai/Karinės vėliavos ir ženklai]]
+- [[objektai/daiktai/Kariuomenės ženklai]]
+- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
+- [[objektai/ivykiai/Kauno Marienwerderio apgultis]]
+- [[objektai/asmenys/Kazimieras Karigaila]]
+- [[objektai/daiktai/Kepurė]]
+- [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]
+- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/autoriai/Kliausis, lg]]
+- [[objektai/grupes/Krymo totoriai]]
+- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
+- [[objektai/asmenys/Lengvenis Algirdaitis]]
+- [[objektai/grupes/Lenkijos senatas]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)]]
+- [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/paprociai/Lietuvos didikų suvažiavimai, laiškų skaitymas ir ištikimybės priesaikos]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/grupes/Lietuvos tūkstantmečio minėjimo direkcija]]
+- [[objektai/zodynas/Magdeburgo teisės vokiečių teisė]]
 - [[objektai/asmenys/Maldžykas]]
+- [[objektai/grupes/Maskvos metropolitai]]
+- [[objektai/ivykiai/Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas]]
+- [[objektai/grupes/Mongolų imperija]]
 - [[objektai/asmenys/Muradas II]]
+- [[objektai/posakiai/Nei dovanomis papirkti, nei grasinimais įbauginti neįstengs]]
+- [[objektai/asmenys/Ona]]
 - [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/ivykiai/Ordino išvijimas iš Žemaičių krašto (1401 m.)]]
+- [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
+- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
+- [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
+- [[objektai/zodynas/Pilininkas]]
+- [[objektai/zodynas/Pilininkas capitaneus seniūnas]]
 - [[objektai/posakiai/Prūsai taip pat yra buvę mano tėvų žemė ir aš reikalausiu jų iki Osos ... nes jie yra mano tėvų palikimas]]
+- [[objektai/zodynas/Puslapis 67]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/ivykiai/Racionžo taika]]
+- [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]
+- [[objektai/paprociai/Romos katalikų miestiečių atleidimas nuo duoklių pagal Vytauto privilegijas]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]
+- [[objektai/asmenys/Saladinas]]
+- [[objektai/grupes/Sentikiai]]
+- [[objektai/daiktai/Sienodaužiai]]
+- [[objektai/grupes/Smolensko pulkai]]
+- [[objektai/asmenys/Sofija]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/asmenys/Spytekas iš Melštyno]]
+- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
+- [[objektai/grupes/Tauro apygarda]]
+- [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]
+- [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
+- [[objektai/daiktai/Trakų kunigaikščio žvėrynas]]
+- [[objektai/ivykiai/Trakų užėmimas ir apgultis]]
+- [[objektai/zodynas/Tėvonija paveldas paveldėjimo teisės]]
 - [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/asmenys/Vaitiekus Jastrzembiec]]
+- [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]
+- [[objektai/daiktai/Varpai]]
+- [[objektai/daiktai/Vežimai, rogės, karietos ir brikai]]
+- [[objektai/grupes/Vilniaus Romos katalikai]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]
+- [[objektai/ivykiai/Vilniaus suvažiavimas ir priesaika dėl Lietuvos grįžimo Jogailai (1401 m.)]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/grupes/Vokiečių pirkliai]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/asmenys/Vosylius I]]
+- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
 - [[objektai/asmenys/Vygandas von Baldersheimas]]
+- [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
+- [[objektai/ivykiai/Vytauto antrojo išbėgimo pas kryžiuočius politiniai aktai (1389–1390 m.)]]
+- [[objektai/ivykiai/Vytauto ir Vosyliaus susivažiavimai Smolenske ir Kolomnoje (1396 m.)]]
+- [[objektai/ivykiai/Vytauto išsiskyrimas su Ordinu ir trijų pilių sunaikinimas (1384 m. vasara–rudenis)]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
+- [[objektai/paprociai/Vytauto kulto puoselėjimas kaip visuomenės telkimo praktika]]
+- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]
+- [[objektai/ivykiai/Vytauto pabėgimas iš Krėvos kalėjimo (1382 m. pabaiga)]]
+- [[objektai/daiktai/Vytauto paminklai]]
+- [[objektai/ivykiai/Vytauto pralaimėjimas netoli Vilniaus (1382 m.)]]
+- [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]
+- [[objektai/ivykiai/Vytauto privilegijos žydams|Vytauto privilegijos žydams (privilegija)]]
+- [[objektai/ivykiai/Vytauto puolimas į Vilnių (1389 m.)]]
+- [[objektai/ivykiai/Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)]]
+- [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]
+- [[objektai/ivykiai/Vytauto žygis į Lydą ir Kaributo sumušimas (1392 m. sausis)]]
+- [[objektai/ivykiai/Vytauto žygis į Maskvą ir rytinių pakraščių pajungimai]]
+- [[objektai/zodynas/Wasserburg]]
+- [[objektai/asmenys/Zbignevas Olesnickis]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/asmenys/Zofija Algimantaitė]]
+- [[objektai/zodynas/dykra]]
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
+- [[objektai/posakiai/kol jis gyvas busiąs, o taip pat ir jo įpėdiniai, niekada nuo tų žemių neatsisakysią]]
+- [[objektai/zodynas/laisvojo miesto statusas|laisvojo miesto statusas (miestas)]]
 - [[objektai/autoriai/lg. Kliausis]]
+- [[objektai/zodynas/metropolitas metropolija]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/zodynas/patepimas į valdžią]]
+- [[objektai/zodynas/piniginiai vienetai ir apskaitos matai monetų kalykloje]]
+- [[objektai/zodynas/posadnikas bojarinas vietininkas]]
 - [[objektai/zodynas/pravoslavai]]
+- [[objektai/posakiai/propugnator et augmentator fidei!]]
+- [[objektai/zodynas/senjoras]]
+- [[objektai/zodynas/siuzerenas]]
+- [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/zodynas/ulusas]]
+- [[objektai/zodynas/vaivada kaštelionas]]
+- [[objektai/zodynas/Činšas činšininkas]]
+- [[objektai/daiktai/Šv. Panelės paveikslas]]
+- [[objektai/ivykiai/Žemaičių sukilimas (1401 m. pavasaris)]]
+- [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
+- [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
+- [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]
+- [[objektai/posakiai/„Vytauto politika lyg koks didelis tinklas...“]]
+- [[objektai/posakiai/„idealiąją Lietuvą“]]
+- [[objektai/zodynas/kompromisas]]
+- [[objektai/posakiai/„nuo jūros iki jūros“]]
 - [[objektai/daiktai/Balnas]]
+- [[objektai/daiktai/Brangieji metalai]]
+- [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]
+- [[objektai/zodynas/lenas]]
+- [[objektai/zodynas/lėnas]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
+- [[objektai/ivykiai/Žemaičių sukilimas 1418 m|Žemaičių sukilimas 1418 m (sukilimas)]]
+- [[objektai/asmenys/Aleksandra (Jogailos sesuo)]]
+- [[objektai/paprociai/Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus]]
+- [[objektai/asmenys/Ona (Vytauto sesuo)]]
+- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
+- [[objektai/daiktai/Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu]]
+- [[objektai/grupes/Vytauto šalininkai]]
+- [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]]
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
+- [[objektai/zodynas/metropolija bažnytinė provincija]]
+- [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]

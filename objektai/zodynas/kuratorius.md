@@ -51,6 +51,8 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Adomas (auksakalys)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/autoriai/Jonas Juškevičius]]
 - [[objektai/autoriai/K. Kantrimas]]
+- [[objektai/asmenys/Nikolajus I]]

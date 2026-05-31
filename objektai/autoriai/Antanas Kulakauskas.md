@@ -9,6 +9,12 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 laikotarpis: '2013 m.'
+vaidmenys:
+  - autorius
+  - istorikas
+  - profesorius
+dalyviai: []
+susije_irasai: []
 datos:
   - '1996 m.'
   - '2013 m.'
@@ -20,12 +26,6 @@ amziai:
   - 'XXI'
 date_start: '1996'
 date_end: '2013'
-vaidmenys:
-  - autorius
-  - istorikas
-  - profesorius
-dalyviai: []
-susije_irasai: []
 patikimumas: aukštas
 atnaujinta: '2026-05-06'
 tags:
@@ -68,6 +68,14 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis Vilniaus universiteto leidykla 2013 LIETUVOS I S T O R I J A Redakcinė kolegija: Prof.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -154,3 +162,71 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis Vilniaus universiteto leidykla 2013 LIETUVOS I S T O R I J A Redakcinė kolegija: Prof.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Alfonsas Eidintas, Alfredas Bumblauskas,
+    Antanas Kulakauskas, Mindaugas Tamošaitis
+    Vilniaus
+    universiteto
+    leidykla
+    2013
+    LIETUVOS
+    I S T O R I J A
+
+    Redakcinė kolegija:
+    Prof.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vytautas Radžvilas
+    Dr. Inga Vinogradnaitė
+    Išleista Lietuvos Respublikos
+    užsienio reikalų ministerijos užsakymu
+    Antras leidimas
+    © Alfonsas Eidintas, 2013
+    © Alfredas Bumblauskas, 2013
+    © Antanas Kulakauskas, 2013
+    © Mindaugas Tamošaitis, 2013
+    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
+
+    TURINYS
+    Santrumpos  8
+    Redaktoriaus žodis  9
+    Į v a d a s
+    LIETUVA – VIDURIO EUROPOS DALIS  12
+    Geografinis Europos centras?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/autoriai/Alfonsas Eidintas]]
+- [[objektai/autoriai/Alfredas Bumblauskas]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/autoriai/Mindaugas Tamošaitis]]
+- [[objektai/ivykiai/Mindaugo karūnacija]]
+- [[objektai/grupes/Vilniaus universiteto leidykla]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]

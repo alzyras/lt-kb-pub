@@ -50,3 +50,5 @@ tags:
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/zodynas/suma]]
+- [[objektai/zodynas/suverenitetas suverenumas]]
+- [[objektai/zodynas/suverenumas suverenitetas]]

@@ -82,3 +82,8 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Patrankos]]

@@ -84,3 +84,9 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/zodynas/Prasma|prasma]]
+- [[objektai/grupes/Žemaičiai]]

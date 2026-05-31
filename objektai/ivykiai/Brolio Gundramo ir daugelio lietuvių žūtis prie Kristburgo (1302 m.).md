@@ -129,3 +129,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/dykra]]

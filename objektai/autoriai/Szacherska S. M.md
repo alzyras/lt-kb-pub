@@ -72,4 +72,5 @@ Dusburgietis teigia, kad žygis įvyko 1218 m. Žygio metu Kristijonas greičiau
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Dobrynės broliai]]
 - [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]

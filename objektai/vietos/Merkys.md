@@ -49,6 +49,14 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   teiginys: 'Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Pastatyti iš medžio ant aukšto mūrinio cokolio, stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios Merkio upės srovės.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Per kelis šimtus žingsnių, ant nedidelės aukštumė­ lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods taip pat dviejų aukštų.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -124,3 +132,38 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Pastatyti iš medžio ant aukšto mūrinio cokolio, stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios Merkio upės srovės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Čia
+    buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems
+    karaliams. Pastatyti iš medžio ant aukšto mūrinio cokolio,
+    stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios
+    Merkio upės srovės. Iš šiaurės greta rūmų buvo nedidelis
+    tvenkinys, į jį upės vanduo patekdavo lataku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Per kelis šimtus žingsnių, ant nedidelės aukštumė­ lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods taip pat dviejų aukštų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vis dėlto pasakojama apie giliai gelmėje
+    glūdinčius požemius ir rūsius, ir pats mačiau čia kartais
+    išariamų Zigmanto III epochos sidabrinių ir varinių pini­
+    gėlių. Per kelis šimtus žingsnių, ant nedidelės aukštumė­
+    lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods
+    taip pat dviejų aukštų. Žygimantas Senasis paprastai gy­
+    vendavo viename, o karalienė Bona - antrame.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

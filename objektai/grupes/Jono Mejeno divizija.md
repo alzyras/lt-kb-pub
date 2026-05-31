@@ -66,3 +66,4 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
 - [[objektai/asmenys/Jonas Mejenas]]
 - [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
 - [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]]
+- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]]

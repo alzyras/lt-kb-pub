@@ -56,6 +56,14 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginys: 'Iš Italijos atvykę meistrai Vilniuje sukūrė marmurinius antkapius karaliaus žmonoms Elžbietai ir Barborai.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Esą, istorijoje žinomas romėnų karvedys Publijas Libonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą ir čia sukūręs valstybę.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,3 +157,39 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    senoji Vakarų Europa skilo į dvi dalis – pietinę katali-
+    kiškąją ir šiaurinę protestantiškąją. Katalikybė buvo prielaida Italijos ir Is-
+    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
+    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
+    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
+    teris Paulius Rubensas).
+    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
+    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
+    pos dalies (Olandija, Anglija) ir per XVII–XVIII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Esą, istorijoje žinomas romėnų karvedys Publijas Libonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą ir čia sukūręs valstybę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Esą, istorijoje žinomas romėnų karvedys Publijas Li-
+    bonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą
+    ir čia sukūręs valstybę. Jo vardas čia buvęs iškreiptas į Pale-
+    moną. Tas atsitikę I-II amžiuje po Kristaus. Kadangi pirmieji
+    Lietuvos kunigaikščiai yra žinomi tik iš XIII amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

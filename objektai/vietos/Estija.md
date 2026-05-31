@@ -14,6 +14,8 @@ datos:
   - '1943 m.'
   - '1992 m.'
   - '2026 m.'
+  - '1934 m.'
+  - '1990 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
@@ -109,7 +111,10 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   teiginys: 'Gaudamas Lietuvos Lenkijos sostą, Zigmantas buvo pasižadėjęs Švedų valdomą Estiją prijungti prie Lietuvos ir Lenkijos bendrai valdomosios Livonijos.'
   pagrindžia:
     - c-016
-
+- t-017
+  teiginys: '1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra užsienio politikos pozicija.'
+  pagrindžia:
+    - c-017
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Treniota su žemaičiais rengė siaubiamuosius žygius ir už Dauguvos pasiekdavo Estiją.'
@@ -372,3 +377,18 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: '1990 m. gegužės 12 d. Lietuva, Latvija ir Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra užsienio politikos pozicija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1990 m. gegužės 12 d. Lietuva, Latvija ir
+    Estija atnaujino 1934 m. Baltijos valstybių santarvės ir bendradarbiavimo
+    sutartį ir įkūrė Baltijos Valstybių Tarybą, jos posėdžiuose rengiama bendra
+    užsienio politikos pozicija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017

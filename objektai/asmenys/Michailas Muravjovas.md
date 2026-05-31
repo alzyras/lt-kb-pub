@@ -178,3 +178,13 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/zodynas/generalgubernatorius]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]
+- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

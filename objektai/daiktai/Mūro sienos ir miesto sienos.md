@@ -12,21 +12,26 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 bukle: juodrastis
 laikotarpis: "XIV-XVI a. miesto gynybinės infrastruktūros kontekstai"
-datos:
-  - "1257 m."
-  - "1505 m."
-periodas: ""
-periodo_grupes:
-  - LDK
-amziai:
-  - 'XIV'
-  - 'XVI'
-  - 'XIII'
-date_start: "1257"
-date_end: "1505"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1160 m.'
+  - '1257 m.'
+  - '1330 m.'
+  - '1505 m.'
+  - '1506 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XII'
+  - 'XIII'
+  - 'XIV'
+  - 'XVI'
+date_start: '1160'
+date_end: '1506'
 patikimumas: vidutinis
 atnaujinta: '2026-05-27'
 tags: []
@@ -76,6 +81,22 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Taip kūrėsi Vilnius, kuris tuo­ met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­ kiais Kazimieras Didysis puošė ir tvirtino.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Atrodo, kad tais metais bu­ vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­ krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs 232 ## Puslapis 249 III KNYGA mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­ veinei.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė) Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -143,6 +164,101 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­ linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­ čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    7
+
+    ## Puslapis 24
+
+    ĮVADAS
+    Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­
+    vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­
+    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
+    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
+    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
+    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
+    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
+    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
+    dajam.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Taip kūrėsi Vilnius, kuris tuo­ met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­ kiais Kazimieras Didysis puošė ir tvirtino.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pagaliau nemažai įvairių tenykš­
+    čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
+    globsčio prie Vilniaus pilies. Taip kūrėsi Vilnius, kuris tuo­
+    met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų
+    į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą
+    miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­
+    kiais Kazimieras Didysis puošė ir tvirtino Lenkiją. Gedimi­
+    no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
+    kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
+    ninko - Vokietijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Atrodo, kad tais metais bu­ vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­ krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs 232 ## Puslapis 249 III KNYGA mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­ veinei.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau šis karaliaus nurodymas gal taip greitai ne­
+    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
+    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
+    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
+    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
+    limu, išmetę medinius statinius. Atrodo, kad tais metais bu­
+    vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
+    krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs
+    232
+
+    ## Puslapis 249
+
+    III KNYGA
+    mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
+    veinei*.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė) Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Rygos miesto sugriovimą
+
+      Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
+    miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
+    Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant
+    nepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų
+    ir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves
+    bei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės
+    magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
+    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
+    spraga. Tarė tada viena moteris: „Matyt, tas magistras labai storas, jeigu jam reikia
+    tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys”.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
@@ -154,6 +270,26 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - [[objektai/zodynas/kitatikiai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]]
+- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/asmenys/Lešekas (Krokuvos kunigaikštis)]]
+- [[objektai/grupes/Saracėnai]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/asmenys/Klemensas V]]
 - [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/asmenys/Vaitiekus Taboras]]
+- [[objektai/grupes/Vilniaus gyventojai]]
+- [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]
+- [[objektai/posakiai/ius Teutonicum quod Magdeburiense dicitur denuo darnus]]
 - [[objektai/zodynas/oktava]]
+- [[objektai/zodynas/prekymečiai ir turgūs]]
+- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
+- [[objektai/daiktai/Mūro sienos]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/daiktai/Vilniaus miesto mūro siena, vartai ir statinių tvora]]
+- [[objektai/daiktai/Žemutinės pilies sienos ir mediniai rūmai]]

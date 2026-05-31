@@ -85,6 +85,11 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 ### Susiję objektai
 - [[objektai/zodynas/pavietas]]
 - [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]
+- [[objektai/ivykiai/LDK pavietų seimelių priesaika Gegužės trečiosios konstitucijai]]
+- [[objektai/paprociai/Lietuvos bajorijos seimai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/infamija banicija]]
 - [[objektai/zodynas/Perveiza|perveiza]]
+- [[objektai/posakiai/„Šlovinga Lenkijos ir Lietuvos Konstitucija“ „būsimos didybės viltį“]]

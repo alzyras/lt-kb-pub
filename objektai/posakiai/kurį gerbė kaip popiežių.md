@@ -31,6 +31,10 @@ Dusburgietis teigia, kad , Шмидт vadinamas kriviu205, kurį gerbė kaip pop
   teiginys: 'Dusburgietis teigia, kad 63— tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad и., Шмидт vadinamas kriviu205, kurį gerbė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę E.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis teigia, kad 63— tikinčiųjų bažnyčią, taip ir jo valiai bei potvarkiui pakluso ne tik minėtosios gentys, bet ir lietuviai, ir kitos tautos, gyvenusios Livonijos žemėje. Toks didelis buvo jo autoritetas, kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su.'
@@ -51,6 +55,22 @@ Dusburgietis teigia, kad , Шмидт vadinamas kriviu205, kurį gerbė kaip pop
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dusburgietis teigia, kad и., Шмидт vadinamas kriviu205, kurį gerbė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę E.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    И., Шмидт
+
+    vadinamas kriviu205, kurį gerbė kaip popiežių, nes kaip valdovas popiežius valdo visuotinę
+
+    E.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

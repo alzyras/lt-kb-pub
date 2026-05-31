@@ -1,0 +1,78 @@
+---
+tipas: ivykis
+pavadinimas: 'Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1383 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1383'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - ivykis
+  - ordinas
+  - pilis
+---
+# Trakų pilies apgultis ir paėmimas (1383 m. rugsėjo 11 d.)
+
+## Santrauka
+
+Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir maršalo Konrado Valen­ rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­ kų pilį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau kiti, 1383 metai, atnešė Vilniui dar
+    didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
+    ma Ordino didžiojo magistro ir maršalo Konrado Valen­
+    rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti
+    Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­
+    kų pilį. Nepaisant įnirtingos gynybos, kelias dienas užsi­
+    tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­
+    versta pasiduoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/daiktai/Pabūklai, bombardos, patrankos ir artilerijos įranga]]
+- [[objektai/grupes/Vytauto šalininkai]]

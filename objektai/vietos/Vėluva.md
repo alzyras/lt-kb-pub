@@ -15,6 +15,7 @@ datos:
   - '1282 m.'
   - '1323 m.'
   - '1324 m.'
+  - '1347 m.'
   - '1365 m.'
   - '1861 m.'
   - '1936 m.'
@@ -93,6 +94,22 @@ tags:
   teiginys: 'Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.'
   pagrindžia:
     - c-004
+- t-011
+  teiginys: 'Tais pačiais 1347 m. lietuvių karalius (rex) niokojo Ragainės ir Įsruties apylinkes, spalio pradžioje priėjo Vėluvą, tyliai įėjus buvo sudegintas miestas, po to lietuviai siaubė Unzatrapio žemę prie Alnos bei Girdavą.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: '(^16) SRP, II, 545-547 p. (^252) ii skyrius: valstybės iškilimas Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­ damas Įsručio ir Vėluvos apylinkes.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 
@@ -261,3 +278,91 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-011
+  santrauka: 'Tais pačiais 1347 m. lietuvių karalius (rex) niokojo Ragainės ir Įsruties apylinkes, spalio pradžioje priėjo Vėluvą, tyliai įėjus buvo sudegintas miestas, po to lietuviai siaubė Unzatrapio žemę prie Alnos bei Girdavą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tais pačiais 1347 m. lietuvių karalius (rex)
+    niokojo Ragainės ir Įsruties apylinkes, spa-
+    lio pradžioje priėjo Vėluvą, tyliai įėjus buvo
+    sudegintas miestas, po to lietuviai siaubė
+    Unzatrapio žemę prie Alnos bei Girdavą.
+
+    Taip lietuviai „dar ie sumušė krikščionis“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    J a r o-
+    68
+
+    ## Puslapis 85
+
+    I KNYGA
+    ir mažų laivų, žodžiu, sunaikino viską, ką tik buvo galima
+    plėnimis paleisti, tik kryžiuočių pilis išliko sveikaf. Tokios
+    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
+    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
+    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
+    trisdešimt šešiais kariais nužudė8.
+    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
+    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
+    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
+    linkės1 1 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: '(^16) SRP, II, 545-547 p. (^252) ii skyrius: valstybės iškilimas Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­ damas Įsručio ir Vėluvos apylinkes.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^16) **SRP, II, 545-547 p.**
+
+
+    (^252) ii skyrius: valstybės iškilimas
+    Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­
+    damas Įsručio ir Vėluvos apylinkes. O kitame žygyje (1365) paėmė
+    ir sunaikino Angerburgo pilį^17.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    257
+    Vėbra R. 81
+    Vechra, upė 287, 312
+    Vedrošos kautynės 39
+    Veiviržo upė 180
+    Vėjukų pilis 227, 235
+    Velikaja, upė 158
+    Veliuona 77, 100, 105, 216, 236, 237,
+    244, 251, 256, 345-347, 352, 353,
+    357, 358, 360
+    Vėluva, Prūsuose 250, 252
+    Vencelis, Čekijos karalius 62, 373,
+    žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014

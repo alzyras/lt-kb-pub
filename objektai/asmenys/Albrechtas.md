@@ -45,6 +45,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Albrechtas (Romos karalius)]]
 - [[objektai/asmenys/Albrechtas iš Hageno]]
 - [[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės (vyskupas, XIV a.)]]
 - [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]]

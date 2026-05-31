@@ -113,3 +113,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Hugonas (Sembos fogtas)]]
+- [[objektai/grupes/Lietuviai]]

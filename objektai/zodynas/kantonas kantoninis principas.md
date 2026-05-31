@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -36,6 +42,10 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   teiginys: 'Tikėtiniau, kad kantoninė Lietuva būtų tapusi dviejų kalbinių nacionalizmų Šiaurės Airija, konflikto tarp dviejų tautinių grupių židiniu, tik ne religijos, o kalbos pagrindu.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,3 +96,35 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviai federacijos
+    principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepa-
+    skendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva
+    pripažins Lietuvą su sostine Vilniumi.
+
+    L I E T U V O S  I S T O R I J A
+    146
+    Per tris savaites P. Himansas Šveicarijos pavyzdžiu paruošė Lietuvos
+    federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Tautų Sąjungos Taryba|Tautų Sąjungos Taryba (institucija)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„bazę diskusijom“]]
+- [[objektai/posakiai/„nei karo, nei taikos“]]
+- [[objektai/asmenys/Polis Himansas]]
+- [[objektai/zodynas/autonomija autonominis statusas]]
+- [[objektai/zodynas/federacija federacinė valstybė]]

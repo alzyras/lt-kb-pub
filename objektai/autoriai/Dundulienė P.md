@@ -74,3 +74,7 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Žirgai]]

@@ -56,3 +56,4 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 - [[objektai/ivykiai/Antrasis Marienverderio miesto sugriovimas|Antrasis Marienverderio miesto sugriovimas (miestas)]]
 - [[objektai/asmenys/Jonas (Sarginio sūnus)]]
 - [[objektai/grupes/Marienverderio miestiečiai]]
+- [[objektai/grupes/Pamedėnai]]

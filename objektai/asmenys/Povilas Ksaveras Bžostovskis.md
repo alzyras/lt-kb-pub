@@ -101,3 +101,19 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
+- [[objektai/zodynas/Baroko epocha]]
+- [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Ketverių metų seimas]]
+- [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
+- [[objektai/asmenys/Bžostovskis]]
+- [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]

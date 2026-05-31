@@ -113,6 +113,38 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginys: 'Vilniaus vyskupas Povilas užkirto kelią karaliui ir privertė jį pasukti į katalikų katedrą.'
   pagrindžia:
     - c-015
+- t-016
+  teiginys: 'O vis dėlto yra daug vilties, kad Vytauto kapas kada nors bus surastas, ir jo kaulai bus padėti katedroje garbingoje vietoje.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­ kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­ bių.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: '12 Vilniaus kapitulos archyve yra vysku­ po sutartis su Bernardu Zanobijumi, romiečiu, mūrijimo meistru, dėl Šv.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galima ap­ žiūrėti Vilniaus universiteto biblio­ tekoje.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: '• — 275 ## Puslapis 292 VILNIAUS MIESTO ISTORIJA I I TOMAS de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo meno kūriniais.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Stanislovas — lenkų tautos šventasis) ir trečias priminė Jogailą Vladislovą, katedros fundatorių.'
+  pagrindžia:
+    - c-023
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -382,3 +414,194 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-016
+  santrauka: 'O vis dėlto yra daug vilties, kad Vytauto kapas kada nors bus surastas, ir jo kaulai bus padėti katedroje garbingoje vietoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    O vis dėlto yra
+    daug vilties, kad Vytauto kapas kada nors bus surastas, ir jo kaulai
+    bus padėti katedroje garbingoje vietoje.
+
+    Vytauto D. paminklas Vilniaus katedroje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­ kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­ bių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
+    Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
+    priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­
+    kydamasis, nesiliovė tolydžio didinęs Vilniaus katedros lo­
+    bių. Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
+    data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
+    tos bažnyčios kapitulai Vytautas dovanoja valdą, vadina­
+    mą Cudzeniškiais*, netoli nuo Medininkų pilies, įparei-
+    55
+    Stryjkowski, p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Lietuvos istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­ nomas).'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Lietuvos
+    istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­
+    nomas).
+    Copia
+    Minen wilgen Horsam mit gantzer Stedicheit tonoren Er-
+    same lene Her Mester Wetet dat ik enen Dener gesant kadde
+    tor Vylle vnd ke seckt tidunge dat de stat tor Vylle altomale
+    vorkrant sy vnd de dom de is ok vorkrant vnd des Königes
+    Kemenade (Scklosz-Gewölke, Sckatz-Kammer) de is vork-
+    rannt mit alle dėmė sckatte vnd Kleynoede dat darynne was
+    ok so sint dėmė Könige Vitoweten vorkrant Xj Hyngeste Sun­
+    der ander Perde vnd ander Quek (Viek) in eyme stalle vnd vte
+    dėmė stalle dar was dat vner ute gekomen vnd des Königes
+    Hofdar selnest tor Vylle de is ok altomale vorkrant vnd vėlė
+    ---- • ----
+    168
+
+    ## Puslapis 185
+
+    Il KNYGA
+    Kopija
+    Pirmiausia, Jūsų Malonybe Pone Magistrė, būdamas nuo­
+    lankus ir ištikimai tarnystę Jums eidamas, pranešu, kad bu­
+    vau pasiuntęs tarną į Vilnių, o pastarasis man atnešė žinią,
+    jog Vilniaus miestas visiškai sudegė; katedra ir karaliaus
+    iždas su visais jame buvusiais turtais bei brangenybėmis ir­
+    gi sudegė. Be to, dar (dėmė Könige) sudegė Vytauto vienuoli­
+    ka eržilų, be kitų žirgų ir gyvulių arklidėse, kur būtent užsi­
+    plieskė ugnis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: '12 Vilniaus kapitulos archyve yra vysku­ po sutartis su Bernardu Zanobijumi, romiečiu, mūrijimo meistru, dėl Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    287.
+    12
+    Vilniaus kapitulos archyve yra vysku­
+    po sutartis su Bernardu Zanobijumi,
+    romiečiu, mūrijimo meistru, dėl Šv.
+    Stanislovo katedros bažnyčios per-
+    mūrijimo per penkerius metus, pra­
+    dėjus nuo 1536 metų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Kai kurias Žygimantų bibliotekos knygas dar iki šiol su šventa pagarba galima ap­ žiūrėti Vilniaus universiteto biblio­ tekoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kai kurias
+    Žygimantų bibliotekos knygas dar
+    iki šiol su šventa pagarba galima ap­
+    žiūrėti Vilniaus universiteto biblio­
+    tekoje.
+    270
+
+    ## Puslapis 287
+
+    IV  KNYGA
+    ko papročiu, veikiančių mieste prie vienuolynų, skaičius iš­
+    augo, Vilniaus vyskupui Jonui iš Lietuvos kunigaikščių 1522
+    metais prie katedros įkūrus penktąją scholastiko prelatūrą,
+    kadangi pagrindinė scholastiko pareiga buvo Katedros mo­
+    kyklos išlaikymas26. 1525 metais Vilniuje jau veikė spaustu­
+    vė, kurioje Jokūbas Babičius spausdino slaviškas knygas27.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'VILNIAUS MIESTO ISTORIJA I I TOMAS 29 to Augusto 1543 metais, numirė VilElžbieta, Vengrijos ir Čekijos karaniuje 1545 metais, palaidota katedliaus, vėliau imperatoriaus Ferdiros bažnyčioje, koplyčioje, šalia kanando, duktė, ištekinta už Žygimanraliaus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau jaunasis karalius nejau­
+    tė tokios netekties, kokios buvo vertos iš tiesų retos Elžbie­
+    tos savybės.
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    29 to Augusto 1543 metais, numirė Vil-
+    Elžbieta, Vengrijos ir Čekijos kara- niuje 1545 metais, palaidota kated-
+    liaus, vėliau imperatoriaus Ferdi- ros bažnyčioje, koplyčioje, šalia ka-
+    nando, duktė, ištekinta už Žygiman- raliaus Aleksandro.
+    272
+
+    ## Puslapis 289
+
+    IV KNYGA
+    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
+    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
+    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
+    atrado kuklumą ir sulaukė prielankumo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: '• — 275 ## Puslapis 292 VILNIAUS MIESTO ISTORIJA I I TOMAS de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo meno kūriniais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    — • —
+    275
+
+    ## Puslapis 292
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
+    meno kūriniais. Italai, čia nuolat dirbdami šešerius metus,
+    iš brangaus marmuro pastatė du puikius antkapius kara­
+    liaus žmonoms - Elžbietai ir Barborai Šv. Stanislovo bažny­
+    čioje, deja, dėl kapitulos priekaištingo aplaidumo vėliau,
+    XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­
+    sios Katedros griuvėsiuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Stanislovas — lenkų tautos šventasis) ir trečias priminė Jogailą Vladislovą, katedros fundatorių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Stanislovas —
+    lenkų tautos šventasis) ir trečias priminė Jogailą Vladislovą,
+    katedros fundatorių. Bet ši katedra 1399 metais sudegė. Ta­
+    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
+    bet ir ją gaisras sunaikino 1531 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023

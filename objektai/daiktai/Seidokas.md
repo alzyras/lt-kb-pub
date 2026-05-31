@@ -73,5 +73,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Karinė ginkluotė]]
 - [[objektai/daiktai/Verpimo įrankiai]]
 - [[objektai/daiktai/Vylyčios]]

@@ -55,9 +55,6 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/maršalka]]

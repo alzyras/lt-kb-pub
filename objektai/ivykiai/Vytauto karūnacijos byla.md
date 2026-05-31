@@ -79,5 +79,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
 - [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]

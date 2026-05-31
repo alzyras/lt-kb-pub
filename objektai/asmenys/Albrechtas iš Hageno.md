@@ -98,6 +98,7 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albrechtas]]
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Lietuviai]]

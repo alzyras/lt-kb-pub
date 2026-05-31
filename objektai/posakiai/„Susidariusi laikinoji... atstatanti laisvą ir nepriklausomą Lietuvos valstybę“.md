@@ -51,7 +51,11 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus)]]
+- [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
 - [[objektai/grupes/Laikinoji vyriausybė]]

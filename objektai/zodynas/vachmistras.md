@@ -52,3 +52,4 @@ Kai jis buvo jau gana toli, lenkų vachmistras išsiskyrė iš žiedo ir ėmė v
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/daiktai/Vytis]]

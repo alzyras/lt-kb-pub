@@ -64,6 +64,10 @@ Nenurodyta
   teiginys: 'Stovykloje veikė karo lauko ligoninė, mokymai vyko lietuviškai, komandos buvo duodamos lietuvių kalba.'
   pagrindžia:
     - c-002
+- t-006
+  teiginys: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,9 +105,28 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-003
+  santrauka: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mackevičius
+    stovykloje laikė mišias, atlikinėjo naujokų
+    įšventinimo apeigas. Stovykloje veikė karo
+    lauko ligoninė, mokymai vyko lietuviškai,
+    komandos buvo duodamos lietuvių kalba.
+    Netrukus nenumatyti įvykiai pri-
+    vertė koreguoti planus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]

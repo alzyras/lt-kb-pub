@@ -40,3 +40,10 @@ Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenk�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/paprociai/Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]

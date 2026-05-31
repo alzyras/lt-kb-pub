@@ -97,3 +97,10 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Saracėnai]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/zodynas/tėvonija]]

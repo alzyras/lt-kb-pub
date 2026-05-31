@@ -94,6 +94,14 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   teiginys: '236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras, Dalius Žygelis, Loreta Uzdraitė.'
   pagrindžia:
     - c-012
+- t-017
+  teiginys: ', Karolis Zikaras, Loreta Uzdraitė.'
+  pagrindžia:
+    - c-013
+- t-018
+  teiginys: 'dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovicz Iliustracijas rinko: Karolis Zikaras, Dalius Čižeika, Auksė Ūsienė, Tomas Čeponis Dailininkė Loreta Uzdraitė Išleido Leidykla UAB „ALIO“ Šeimyniškių 23/2, LT-09236 Vilnius tel.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -454,9 +462,111 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-013
+  santrauka: ', Karolis Zikaras, Loreta Uzdraitė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ,
+
+    Karolis Zikaras, Loreta Uzdraitė.
+
+    KARAS PO KARO
+
+    P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+
+    Dalius Žygelis, Loreta Uzdraitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-014
+  santrauka: 'dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovicz Iliustracijas rinko: Karolis Zikaras, Dalius Čižeika, Auksė Ūsienė, Tomas Čeponis Dailininkė Loreta Uzdraitė Išleido Leidykla UAB „ALIO“ Šeimyniškių 23/2, LT-09236 Vilnius tel.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    dr. Jonas Arvasevičius
+
+    Korektorė
+    Ieva Puluikienė
+
+    Fotografė
+    Giedrė Maksimovicz
+
+    Iliustracijas rinko:
+    Karolis Zikaras,
+    Dalius Čižeika,
+    Auksė Ūsienė,
+    Tomas Čeponis
+    Dailininkė
+
+    Loreta Uzdraitė
+
+    Išleido
+
+    Leidykla UAB „ALIO“
+    Šeimyniškių 23/2,
+    LT-09236 Vilnius
+
+    tel.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.)]]
+- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
+- [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
+- [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
+- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]
+- [[objektai/ivykiai/Durbės mūšis]]
+- [[objektai/ivykiai/Giedraičių kautynės]]
+- [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]
+- [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
+- [[objektai/ivykiai/Klaipėdos sukilimas]]
+- [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.)]]
+- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
+- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
+- [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
+- [[objektai/zodynas/Lietuvos atsikūrimas]]
+- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
+- [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/zodynas/Nepriklausomybės kovos]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
+- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- [[objektai/ivykiai/Užpelkių kautynės]]
+- [[objektai/posakiai/Vakarų krikščionybės tvirtovė Rytuose]]
+- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/posakiai/karas po karo]]
+- [[objektai/zodynas/karyba]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
+- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/1991 m. rugpjūčio Maskvos pučas]]
 - [[objektai/daiktai/Būgnas-timpanas (būgnas-katilas)]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
 - [[objektai/grupes/Sausio 13-osios dienos brolija]]
 - [[objektai/daiktai/Sausio 13-osios dienos brolijos ženklelis]]
+- [[objektai/zodynas/leičiai]]

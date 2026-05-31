@@ -102,3 +102,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Valavičiai]]
+- [[objektai/autoriai/Petras Skarga]]

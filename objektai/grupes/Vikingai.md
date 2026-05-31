@@ -74,5 +74,11 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Eistr]]
+- [[objektai/grupes/Kuršiai]]
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
+- [[objektai/grupes/Skandinavai]]
+- [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]

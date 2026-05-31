@@ -100,6 +100,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Gudai]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigas]]

@@ -51,3 +51,4 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/urėdas]]
+- [[objektai/zodynas/seniūnas]]

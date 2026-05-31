@@ -168,3 +168,15 @@ Dusburgietis teigia, kad 64 Labuda G. Dusburgietis teigia, kad , norėdamas kron
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Labuda G]]

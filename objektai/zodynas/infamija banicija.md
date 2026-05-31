@@ -1,0 +1,61 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'infamija banicija'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - kraštas
+  - pinigai
+  - seimas
+  - sąvoka
+---
+# infamija banicija
+
+## Santrauka
+
+Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol negaliodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.
+
+## Teiginiai
+- t-001
+  teiginys: 'Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol negaliodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol negaliodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos iždininkas visas krašto pajamas paimdavo į
+    savo rankas, o Lenkijoje pajamos buvo laikomos pavietų kasose,
+    iš kur jas hetmonas paimdavo kariuomenės reikalams; be to,
+    jis tik tam tikru seimo nutarimu tegalėdavo gauti tuos pinigus.
+    Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors
+    infamija ar banicija (visų teisių atėmimu ar ištrėmimu) tol ne-
+    galiodavo, kol jį patvirtindavo kancleris; Lenkijoje šito nereikėjo.
+
+    Sapiegų priešai, nesiliaudami su jais kovoję, pagaliau ėmė
+    reikalauti susiaurinti teises tų ministerių, kuriais buvo Sapiegos,
+    būtent hetmono ir iždininko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/Tėvūnija|tėvūnija]]

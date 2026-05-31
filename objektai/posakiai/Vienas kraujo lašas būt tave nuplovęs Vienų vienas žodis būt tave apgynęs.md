@@ -87,6 +87,7 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Markas (žydas kreditorius)]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

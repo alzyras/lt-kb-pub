@@ -95,8 +95,12 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Adomas (auksakalys)]]
+- [[objektai/asmenys/Ibrahimas (Turkijos čiaušas)]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/vienkiemiai]]
 - [[objektai/grupes/Žiemgaliai]]
+- [[objektai/grupes/Jotvingiai]]
 - [[objektai/zodynas/kuopiniai kaimai]]
 - [[objektai/posakiai/moterų kraštas|moterų kraštas (kraštas)]]

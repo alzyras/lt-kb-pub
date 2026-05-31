@@ -28,7 +28,8 @@ susije_irasai: []
 datos:
   - '1581 m.'
 periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XVI'
 date_start: '1581'
@@ -69,12 +70,6 @@ Nenurodyta
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Radvilos pajėgos susikovė su Toropeco įgula, vėliau nusiaubė Dubno, Cholmo, Starajos Rusos ir Opokos apylinkes, o galiausiai pateikė žygio ataskaitą prie Pskovo.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-008
   teiginys: 'Radvilos pajėgos nusiaubė Dubno, Cholmo, Starajos Rusos ir Opokos apylinkes, o galiausiai pateikė žygio ataskaitą prie Pskovo.'
   pagrindžia:
@@ -85,6 +80,14 @@ Nenurodyta
   teiginys: 'Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.'
   pagrindžia:
     - c-005
+- t-010
+  teiginys: 'Pskovo kampanija, Radvilos Perkūno reidas, Lietu Rugpjūčio 25 d. K.'
+  pagrindžia:
+    - c-006
+- t-011
+  teiginys: 'Vėliau Radvilos pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, iš ten, palei Lovatės upę, lietuviai nusigavo iki Novgorodo kunigaikštystėje, prie Ilmenio ežero esančio 94 K.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -131,27 +134,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-- c-003
-  santrauka: 'Radvilos pajėgos susikovė su Toropeco įgula, vėliau nusiaubė Dubno, Cholmo, Starajos Rusos ir Opokos apylinkes, o galiausiai pateikė žygio ataskaitą prie Pskovo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugpjūčio 29 d. lietuviai susikovė su į pa-
-    galbą savo valdovui skubėjusia apie 1000
-    karių Toropeco įgula. Rusai buvo sumušti,
-    apie 300 jų žuvo. Rugsėjo 4 d. lietuviai pa-
-    siekė Dauguvos ir Volgos upių vandens-
-    kyrą, kur ilsėjosi ir išsižvalgė
-    apylinkes. Rugsėjo 9 d. jie
-    dar kartą susirėmė su
-    Toropeco įgula, nukovė
-    200 rusų šaulių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
 - c-004
   santrauka: 'Radvilos pajėgos nusiaubė Dubno, Cholmo, Starajos Rusos ir Opokos apylinkes, o galiausiai pateikė žygio ataskaitą prie Pskovo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -210,8 +192,81 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-006
+  santrauka: 'Pskovo kampanija, Radvilos Perkūno reidas, Lietu Rugpjūčio 25 d. K.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pskovo kampanija, Radvilos Perkūno reidas, Lietu
+    Rugpjūčio 25 d. K. Radvilos pajėgos nu-
+    siaubė Rževo apylinkes, tuomet perėję
+    Volgos upę, sudegino Urdomo miestą ir
+    pasuko Staricos link, kurioje tuo metu rezi-
+    davo Rusijos valdovas Ivanas rv. Sužinojęs
+    apie artėjančius lietuvius, jis buvo privers-
+    tas skubiai evakuoti savo šeimą ir dvarą
+    su iždu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-007
+  santrauka: 'Vėliau Radvilos pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, iš ten, palei Lovatės upę, lietuviai nusigavo iki Novgorodo kunigaikštystėje, prie Ilmenio ežero esančio 94 K.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Vėliau
+    Radvilos pajėgos nusiaubė
+    Dubno apylinkes, užėmė
+    Cholmą, iš ten, palei
+    Lovatės upę, lietuviai nusi-
+    gavo iki Novgorodo kunigaikš-
+    tystėje, prie Ilmenio ežero esančio
+
+    94 K. RADVILOS PERKŪNO REIDAS 1581 m. liepa-spalis
+
+    vos atkariautos teritorijos
+
+    Starajos Rusos miesto
+    ir jį sudegino, o įgulą
+    „išmušė“. Galiausiai buvo
+    nusiaubtos Opokos apylinkės.
+    Spalio 23 d. K. Radvila pasiekė prie
+    apgulto Pskovo buvusią S. Batoro
+
+    850 km), nu-
+    siaubė apie
+    60 tūkst. kv. km
+
+    Šarvinė
+    pirštinė, XVI a.
+
+    stovyklą ir kitą dieną valdovui pateikė teritoriją, sudegino 6 miestus ir šimtus
+    žygio ataskaitą, perdavė belaisvius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Arvydas Pociūnas]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
+- [[objektai/autoriai/Gintautas Sliesoriūnas]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/autoriai/Vytautas Lesčius]]
+- [[objektai/asmenys/Kristupas Radvila]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]

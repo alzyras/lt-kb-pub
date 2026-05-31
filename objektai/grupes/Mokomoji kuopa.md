@@ -50,6 +50,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Šukys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/viršila]]

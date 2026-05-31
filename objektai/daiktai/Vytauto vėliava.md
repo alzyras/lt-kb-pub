@@ -54,6 +54,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '000 kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo bent dešimtį kartų mažiau.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,6 +78,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '000 kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo bent dešimtį kartų mažiau.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    000
+    kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo
+    bent dešimtį kartų mažiau.
+    Metraščiuose skirtingai paduodami skaičiai kautynėse dalyva­
+    vusių Gediminaičių ir Riurikaičių kunigaikščių ir jų aukų. Po Vy­
+    tauto vėliava bus kovoję apie 50 kunigaikščių, iš kurių per dvide­
+    šimt žuvo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

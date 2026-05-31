@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1923 m.'
+  - '1926 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1923'
+date_end: '1926'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -49,6 +59,10 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   teiginys: 'Ministras pirmininkas Ernestas Galvanauskas Klaipėdoje 1923 m. priima lietuvių paradą.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Ministras pirmininkas Ernestas Galvanauskas Klaipėdoje 1923 m. priima lietuvių paradą L I E T U V O S I S T O R I J A 154 Kairės demokratija ir 1926 metų gruodžio perversmas Nepaisant geografinio artumo, istorijos bendrumo, etninės giminystės (tarp latvių ir.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -136,3 +150,39 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Ministras pirmininkas Ernestas Galvanauskas Klaipėdoje 1923 m. priima lietuvių paradą L I E T U V O S I S T O R I J A 154 Kairės demokratija ir 1926 metų gruodžio perversmas Nepaisant geografinio artumo, istorijos bendrumo, etninės giminystės (tarp latvių ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    .
+    Ministras pirmininkas Ernestas Galvanauskas
+    Klaipėdoje 1923 m. priima lietuvių paradą
+
+    L I E T U V O S  I S T O R I J A
+    154
+    Kairės demokratija ir
+    1926 metų gruodžio perversmas
+    Nepaisant geografinio artumo, istorijos bendrumo, etninės
+    giminystės (tarp latvių ir lietuvių) ryšiai su Latvija ir Estija nesiplėtojo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/daiktai/Bomba]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/zodynas/akcijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]

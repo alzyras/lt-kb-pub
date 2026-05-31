@@ -133,4 +133,9 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/savarankiškumas]]
 - [[objektai/posakiai/Gens Lithuanorum]]
+- [[objektai/ivykiai/Martyno V bulė „Mirabilis Deus“ (1421 m. rugsėjo 11 d.)]]

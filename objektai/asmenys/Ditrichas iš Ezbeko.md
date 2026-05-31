@@ -85,4 +85,5 @@ Dusburgietis teigia, kad apie Pieštvės pilėnų apiplėšimą 1294 Tais pačia
 - [[objektai/asmenys/Otonas iš Bergo]]
 - [[objektai/asmenys/Otonas iš Cedlico]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/ivykiai/Brolio Ditricho iš Ezbeko ir kitų brolių žūtis žygyje link Gardino (1295 m. gegužės 20 d.)]]
 - [[objektai/asmenys/Konradas Rufus]]

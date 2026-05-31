@@ -12,15 +12,15 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 bukle: juodrastis
 laikotarpis: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos: []
 periodas: ''
 periodo_grupes: []
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: aukštas
 atnaujinta: '2026-05-27'
 tags:
@@ -65,6 +65,10 @@ Nenurodyta
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -119,12 +123,37 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Po kaire ranka irgi yra prie­
+    menė su medinėmis lubomis, išklota lentomis, čia laiptai ir
+    pertvėrimas, kuriame dvigubos durys su vyriais, į gatvę di­
+    delis langas, be stiklų, su dvigubomis geležinėmis langinė­
+    mis. Iš teatro leistis - mediniai laipteliai, o nuo jų po kaire
+    ranka - laiptai žemyn, mūro, lentomis apkalti; prie jų durys
+    su vidiniu užraktu ir raktu, ant vyrių įtaisytu, į podėlį scenos
+    rykams laikyti, į jį įeiti - 4 pakopų laipteliai, grindys plytelių,
+    dūmtraukis, arkadiniai skliautai; iš to podėlio dvigubos du­
+    rys į kolegijos koridorių, langas virš durų, su visais rėmais iš
+    švino, pusė jo įleista į pertvarą, pastarosios durys su vyriais
+    ir rankena. Skliautai sutvirtinti geležiniu pastapu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/buities-daiktas]]
 - [[temos/įrankis]]
 
 ### Susiję objektai
-- [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
+- [[objektai/daiktai/Rykai]]
+- [[objektai/zodynas/amžinoji ugnis Gabija]]
+- [[objektai/zodynas/marksistinė periodizacija]]
+- [[objektai/zodynas/vaidilos, žyniai ir pranašai]]

@@ -71,3 +71,4 @@ Vartojamos formos: `ašvienio`.
 ### Susiję objektai
 - [[objektai/autoriai/Guagnini]]
 - [[objektai/autoriai/Herberstein]]
+- [[objektai/daiktai/Žemdirbystės įrankiai]]

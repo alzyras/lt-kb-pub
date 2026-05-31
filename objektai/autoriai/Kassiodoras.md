@@ -78,12 +78,10 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/daiktai/Gintaras]]
 - [[objektai/grupes/Gotai]]
+- [[objektai/ivykiai/Karūzo mūšis]]
 - [[objektai/grupes/Vidivarii]]
 - [[objektai/posakiai/pacatum hominum genus omnino]]

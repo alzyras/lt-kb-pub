@@ -67,4 +67,5 @@ Nenurodyta
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Paplotėlis]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/žygis]]

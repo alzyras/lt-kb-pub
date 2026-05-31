@@ -6,7 +6,7 @@ variantai:
   - Baublys
 aliases: []
 saltiniai:
-  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 laikotarpis: 1812 m.
 datos:
   - 1812 m.
@@ -116,3 +116,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/autoriai/D. Poška]]
+- [[objektai/zodynas/santvarka]]

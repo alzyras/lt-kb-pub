@@ -184,3 +184,12 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Protestantai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/grupes/Čartoriskiai]]

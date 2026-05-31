@@ -77,4 +77,7 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Tautų Sąjunga]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/ivykiai/Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)]]

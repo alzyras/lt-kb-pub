@@ -156,3 +156,15 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Lėktuvai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„Antanas nori būti ore“]]
+- [[objektai/asmenys/Antanas Gustaitis]]
+- [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]
+- [[objektai/grupes/Lietuvos karo aviacija]]

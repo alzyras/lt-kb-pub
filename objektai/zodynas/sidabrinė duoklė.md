@@ -74,10 +74,11 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/paprociai/Viešų miesto paslaugų pelno skyrimas Vilniaus iždui]]
+- [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai]]
+- [[objektai/zodynas/mokesčių terminai sidabrinės, ordinščizna, kapščizna]]
 - [[objektai/zodynas/pastočiai]]
 - [[objektai/zodynas/sidabrinė duoklė tributum serebsčina]]

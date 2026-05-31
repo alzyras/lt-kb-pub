@@ -70,3 +70,14 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/kirilika]]
+- [[objektai/paprociai/Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas]]
+- [[objektai/ivykiai/Lietuvių spaudos lotyniškuoju raidynu draudimo atšaukimas]]
+- [[objektai/asmenys/M. Muravjovas]]
+- [[objektai/asmenys/Michailas Muravjovas]]

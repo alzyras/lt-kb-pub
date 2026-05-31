@@ -71,3 +71,22 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“. „Suverenum
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Eduardas Vilkas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„Viešumas, demokratija, suverenumas“]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
+- [[objektai/zodynas/pertvarka perestroika]]
+- [[objektai/zodynas/suverenitetas suverenumas]]

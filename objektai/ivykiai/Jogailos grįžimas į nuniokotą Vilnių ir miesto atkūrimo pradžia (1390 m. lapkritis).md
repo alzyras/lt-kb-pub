@@ -119,6 +119,9 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/paprociai/Karo nualintų gyventojų aprūpinimas maistu ir drabužiais]]
+- [[objektai/grupes/Vilniaus gyventojai]]

@@ -85,4 +85,13 @@ Nenurodyta
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Donatas Malinauskas]]
+- [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/autoriai/Stasys Šilingas]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Sarajevo atentatas ir Pirmojo pasaulinio karo pradžia]]
+- [[objektai/posakiai/„Lithuania Propria“]]

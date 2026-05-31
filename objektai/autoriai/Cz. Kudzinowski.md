@@ -33,7 +33,10 @@ Kudzinowski, Cz.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '), kurio, deja, neteko panaudoti.—Kudzinowski, Cz.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Cz. Kudzinowski 1964 m. paskelbė darbą „Jaćwingowie w języku“ leidinyje ABaSl.'
@@ -52,6 +55,20 @@ Kudzinowski, Cz.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '), kurio, deja, neteko panaudoti.—Kudzinowski, Cz.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ),
+    kurio, deja, neteko panaudoti.—Kudzinowski, Cz. : _Jaćwingome w
+    języku,_ ABaSl, I, 1964, 217-225 p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

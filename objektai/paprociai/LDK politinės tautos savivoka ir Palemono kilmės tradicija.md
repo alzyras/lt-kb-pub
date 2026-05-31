@@ -85,3 +85,4 @@ Nenurodyta
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/politinė tauta lietuvių nacija]]

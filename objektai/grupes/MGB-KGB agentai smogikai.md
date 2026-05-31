@@ -67,4 +67,7 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 ### Susiję objektai
 - [[objektai/zodynas/agentai smogikai]]
 - [[objektai/grupes/Agentai-smogikai]]
+- [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]
+- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
+- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
 - [[objektai/zodynas/agentas-smogikas]]

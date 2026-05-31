@@ -70,3 +70,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
+
+### Susiję objektai
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/kompromisas]]
+- [[objektai/zodynas/unija]]

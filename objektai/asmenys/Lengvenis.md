@@ -170,10 +170,17 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     - t-006
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
+- [[objektai/ivykiai/Kališo taika]]
+- [[objektai/ivykiai/Krėvos akto patvirtinimas (1385 m. rugpjūčio 14 d.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Smolensko pulkai]]
+- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/asmenys/Lengvenis Algirdaitis]]
+- [[objektai/asmenys/Simonas Lengvenis]]

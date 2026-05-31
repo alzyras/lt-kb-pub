@@ -155,6 +155,7 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
 - [[objektai/ivykiai/Viznos pilies sugriovimas (1294 m.)]]
 - [[objektai/zodynas/ginklanešiai]]

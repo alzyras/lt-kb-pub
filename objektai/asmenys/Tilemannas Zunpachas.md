@@ -1,0 +1,56 @@
+---
+tipas: asmuo
+pavadinimas: 'Tilemannas Zunpachas'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - asmuo
+  - ordinas
+---
+# Tilemannas Zunpachas
+
+## Santrauka
+
+Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpacho, šaulių vado, ugninio šūvio, buvo sužeistas tarp kaklo ir mentikaulio ir netrukus mirė, o jo kariauna buvo išvaikyta.
+
+## Teiginiai
+- t-001
+  teiginys: 'Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpacho, šaulių vado, ugninio šūvio, buvo sužeistas tarp kaklo ir mentikaulio ir netrukus mirė, o jo kariauna buvo išvaikyta.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Gedimi­ nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno Zunpacho, šaulių vado, ugninio šūvio, buvo sužeistas tarp kaklo ir mentikaulio ir netrukus mirė, o jo kariauna buvo išvaikyta.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    22 dienas tęsėsi
+    apsuptis, o dviejų poilsio dienų metu į pagalbą apsuptie­
+    siems atvyko Ordino maršalas Henrikas Duseneris ir Reino
+    palatinas su stipriom pajėgom. Įgula su pagalbininkais be­
+    mat susiruošė pulti ir užpuolė Gedimino stovyklą. Gedimi­
+    nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno
+    Zunpacho, šaulių vado, ugninio šūvio, buvo sužeistas tarp
+    kaklo ir mentikaulio ir netrukus mirė, o jo kariauna buvo
+    išvaikyta*.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/maršalas]]

@@ -45,7 +45,10 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   teiginys: 'Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: 'Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą.'
@@ -102,11 +105,38 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
+    ti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.
+    Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
+    taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
+    kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
+    lią, nebūta. Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
+    Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
+- [[objektai/grupes/Valstybės Taryba]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/zodynas/tėvonija tėvų palikimas]]

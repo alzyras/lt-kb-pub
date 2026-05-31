@@ -105,5 +105,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
 - [[objektai/grupes/Kazokai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

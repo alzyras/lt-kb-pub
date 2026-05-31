@@ -45,6 +45,14 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   teiginys: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Viename dokumen­ te, apie kurį vėliau smulkiau kalbė­ sime, pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Ziemovitas nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­ lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­ vęs net dukart savo šalininkų išrinktas Lenkijos karalium. Vi­ sų tų kandidatų šalininkai kėlė krašte neramumų, ardė tvarką, viena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­ tą naikino sileziečiai ir lietuviai^1 ).'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -144,9 +152,57 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Viename dokumen­ te, apie kurį vėliau smulkiau kalbė­ sime, pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    3 yra paminėję. Viename dokumen­
+    te, apie kurį vėliau smulkiau kalbė­
+    sime, pasakojama apie kunigaikščių
+    Ziemovito ir Traidenio įsiveržimą į
+    Dobrynės žemę. Qui prophanus dux
+    David paulo ante indictas treugas pre-
+    dictas Ingrediens cum valido exercitu
+    Litwanorum terram Dobrinens.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Ziemovitas nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­ lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­ vęs net dukart savo šalininkų išrinktas Lenkijos karalium. Vi­ sų tų kandidatų šalininkai kėlė krašte neramumų, ardė tvarką, viena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­ tą naikino sileziečiai ir lietuviai^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vilhelmu, bet mažlenkiams ši kandidatūra, kaipo
+    Habsburgo, labai nepatiko ir išeidami iš savo interesų, jie ryžosi
+    karaliaus pasiieškoti kur kitur, šiuo atveju Lietuvoj. Kandidatu į
+    jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo,
+    dar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko,
+    bet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­
+    lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų
+    kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­
+    vęs net dukart savo šalininkų išrinktas Lenkijos karalium. Vi­
+    sų tų kandidatų šalininkai kėlė krašte neramumų, ardė tvarką,
+    viena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis
+    priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­
+    tą naikino sileziečiai ir lietuviai^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/zodynas/pakancleris]]

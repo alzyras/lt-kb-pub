@@ -50,3 +50,4 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Graikai]]

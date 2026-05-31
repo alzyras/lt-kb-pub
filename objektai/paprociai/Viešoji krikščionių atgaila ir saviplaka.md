@@ -136,6 +136,5 @@ Nenurodyta
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/grupes/Saviplakiai]]

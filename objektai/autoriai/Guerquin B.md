@@ -53,7 +53,3 @@ Dusburgietis teigia, kad ordino konventas perkeltas iš Santyro į Marienburgo p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]

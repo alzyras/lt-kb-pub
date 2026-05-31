@@ -47,6 +47,10 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   teiginys: '48 Tilžė 127, 212, 377 Timofėjus (Daumantas) 197 Timur-Kutluga, chanas 311, 314, 317-319 Tiškevičius Jurgis, vysk.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Tilžė, 1923.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų delegacija.'
@@ -95,3 +99,16 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tilžė, 1923.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Al. = Alekna, Ant., Prof., Lietuvos istorija. Antras pataisytas
+    leidimas. Tilžė, 1923.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

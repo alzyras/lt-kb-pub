@@ -10,14 +10,15 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: '1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.'
 datos:
-  - '1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.'
+  - '1260 m.'
 periodas: ''
 periodo_grupes: []
-amziai: []
-date_start: ''
+amziai:
+  - 'XIII'
+date_start: '1260'
 date_end: ''
+laikotarpis: '1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -81,6 +82,10 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Nors daug Mindaugo apostazijos klausimu ra­ šyta, bet čia galima tarti kun. J.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų
@@ -189,6 +194,25 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Nors daug Mindaugo apostazijos klausimu ra­ šyta, bet čia galima tarti kun. J.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Didelės svarbos yra penktoji problema, dėl kurios daug kas sau
+    yra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­
+    čionimi, tapdamas pagonių reakcijos kankiniu (toniu jį laiko J. Lat­
+    kowski), ar jis po didžiojo Žemaičių laimėjimo prie Durbės atsimetė
+    nuo krikščionyįės. Nors daug Mindaugo apostazijos klausimu ra­
+    šyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu
+    išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
+    goji nuomonė »^21.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 ## Pastabos
 
 - šaltinyje sąvoka turi ir teologinį, ir politinį atspalvį.
@@ -208,3 +232,9 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/ivykiai/Danieliaus vainikavimas karaliumi Drogičine (1253 m.)]]
+- [[objektai/ivykiai/Durbės mūšis]]
+- [[objektai/asmenys/Klemensas IV]]
+- [[objektai/ivykiai/Mindaugo nužudymas]]
+- [[objektai/ivykiai/Smolensko sukilimas]]
+- [[objektai/posakiai/„šviesaus atminimo valdovu“]]

@@ -7,14 +7,16 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1924 m.'
   - '1973 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
+  - 'modernioji Lietuva'
 amziai:
   - 'XX'
-date_start: '1973'
-date_end: ''
+date_start: '1924'
+date_end: '1973'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -33,9 +35,24 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: ': Lietuvių kalbos žodynas , I-II, Kaunas 1924 (svarbus įva­ das).— Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
-
+- c-002
+  santrauka: ': Lietuvių kalbos žodynas , I-II, Kaunas 1924 (svarbus įva­ das).— Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    : _Lietuvių kalbos žodynas_ , I-II, Kaunas 1924 (svarbus įva­
+    das).— Būtėnas, P.: _Gintaro šneka_ , Karys, 1973, 110-115, 159-164 p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'P. Būtėno „Gintaro šneka“ paskelbta „Karyje“ 1973 m., p. 110–115 ir 159–164.'

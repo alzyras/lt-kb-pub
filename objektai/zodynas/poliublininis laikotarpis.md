@@ -12,14 +12,17 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: 'po `1569 m.'
 datos:
-  - 'po `1569 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1569 m.'
+  - '1572 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1569'
+date_end: '1572'
+laikotarpis: 'po `1569 m.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -85,6 +88,14 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline.'
+  pagrindžia:
+    - c-007
+- t-007
+  teiginys: 'Narbuto laikų Kojalavičius paliko tradiciją po­ liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais
@@ -201,6 +212,41 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-007
+  santrauka: 'Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­ siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­ rėjo sutikti su tuo, kas buvo įvykę Liubline.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    pir­
+    mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
+    Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
+    kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
+    siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­
+    rėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis
+    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
+    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
+    Didžiosios Lietuvos Kunigaikštystės gyventojus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-008
+  santrauka: 'Narbuto laikų Kojalavičius paliko tradiciją po­ liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Palyginti, objektyviai išdės­
+    tė jis ir 2-jį tomą. Baigdamas jį Žygimanto Augusto mirtimi
+    (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
+    liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 ## Pastabos
 
 - šaltinyje terminas pavartotas aprašomai, o ne kaip atskirai apibrėžta periodizacijos sąvoka.
@@ -221,6 +267,7 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/zodynas/poliublininiai laikai]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
 - [[objektai/zodynas/valstybingumo sąmonė]]

@@ -42,3 +42,8 @@ Juo garantuojama individualios ar kolektyvinės savigynos teisė, įvykus ginklu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/NATO]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

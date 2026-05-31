@@ -10,6 +10,18 @@ aliases:
   - 'Kandidatas Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1264 m.'
+  - '1345 m.'
+  - '1377 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
+date_start: '1264'
+date_end: '1377'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -70,6 +82,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: '1 skyrius • S E N O J I L I E T U VA 39 Lietuva stačiatikiškos Rusios erdvėse Lietuvos valstybei užėmus senrusių žemes, tų žemių vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -126,6 +142,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '1 skyrius • S E N O J I L I E T U VA 39 Lietuva stačiatikiškos Rusios erdvėse Lietuvos valstybei užėmus senrusių žemes, tų žemių vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1 skyrius •  S E N O J I  L I E T U VA
+    39
+    Lietuva stačiatikiškos Rusios erdvėse
+    Lietuvos valstybei užėmus senrusių žemes, tų žemių vieti-
+    ninkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę. Vėliau
+    iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
+    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai. Be to,
+    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
+    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
+    Alšėnų kunigaikščiai. Antra vertus, Lietuvai užėmus Rusios žemes, ne visi
+    senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio
+    gyvenimo. Vėlesniais amžiais LDK gyvenime rasis iš tokių kunigaikščių
+    kilusių veiklių Lietuvos giminių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -140,6 +180,11 @@ Nenurodyta
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Sanguškos]]
+- [[objektai/grupes/Sluckiai]]
+- [[objektai/grupes/Vyšnioveckiai]]
+- [[objektai/grupes/Čartoriskiai]]

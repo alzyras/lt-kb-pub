@@ -114,3 +114,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/ivykiai/Rusijos vietinio valdymo sistemos įvedimas aneksuotoje LDK dalyje]]
+- [[objektai/zodynas/luomas subluomas]]

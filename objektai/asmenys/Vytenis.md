@@ -8,6 +8,17 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+datos:
+  - '1283 m.'
+  - '1341 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
+date_start: '1283'
+date_end: '1341'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -126,7 +137,42 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginys: 'Dusburgietis teigia, kad rugsėjo 30—spalio 11 Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai puldinėjo su dviem apgulos mašinomis ir daugybe šaulių.'
   pagrindžia:
     - c-021
-
+- t-022
+  teiginys: 'Vytenis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Tačiau Vilniaus istorija prasideda tik 1321 metais, kai Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas, torių.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: '1 '' - --- - -■ N VYTENIS, Traidenio sūnus, did. Lietuvos kunigaikštis 1283 m., nužudytas 1315 m.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Ar ga­ lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad Vytenis, lietuvis pagonis, - jo vaikaitis?'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Šitai vyko viešpataujant Lie­ tuvoje Vyteniui, kuris mirė apie 1315 metus.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: 'Dusburgietis teigia, kad apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11 Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai puldinėjo su dviem.'
+  pagrindžia:
+    - c-029
+- t-030
+  teiginys: 'Liutavėro sūnus karingas Vytenis, pirmasis jau gana ge­ rai žinomas naujos ilgai Lietuvą valdžiusios dinastijos atsto­ vas.'
+  pagrindžia:
+    - c-030
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -475,15 +521,268 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-021
+- c-022
+  santrauka: 'Vytenis įsitraukė į politinį gyvenimą ir, susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    jis įsitraukė į politinį gyvenimą ir,
+    susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.
+    Gediminaičių dinastijos iškilimas
+    XIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-
+    čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
+    Vytenis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Tačiau Vilniaus istorija prasideda tik 1321 metais, kai Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas, torių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , valią, tam slėny pir­
+    masis miškus išnaikinęs ir savo tė­
+    vo bei savo paties įpėdinių kapavie­
+    tėms skyręs; pavadino ją vardu tėvo,
+    Šventaragio, kas reikštų Šventą al-
+    18
+
+    ## Puslapis 35
+
+    I  KNYGA
+    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
+    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
+    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
+    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
+    okratinio valdymo centrų tikrai galėjo būti8.
+    Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
+    Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
+    torių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: '1 '' - --- - -■ N VYTENIS, Traidenio sūnus, did. Lietuvos kunigaikštis 1283 m., nužudytas 1315 m.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    -1
+    '
+    - --- - -■  N
+    VYTENIS, Traidenio sūnus,
+    did. Lietuvos kunigaikštis
+    1283 m., nužudytas 1315 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Ar ga­ lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad Vytenis, lietuvis pagonis, - jo vaikaitis?'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    45
+
+    ## Puslapis 62
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Karamzinas0, laikydamas tai labai abejotinu dalyku, o Min­
+    daugo kilmės įrodymus - visiškais paistalais, nebent būtų
+    priimtinos už tiesą didžiausios chronologinės klaidos ir su­
+    tikta su prielaida, kad Rusios kunigaikščių sūnūs, krikščio­
+    nys, galėjo turėti lietuviškus vardus ir būti pagonys. Ar ga­
+    lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką
+    vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad
+    Vytenis, lietuvis pagonis, - jo vaikaitis? Nors Voskresensko
+    Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip
+    rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė­
+    tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra
+    apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė­
+    jus po Jogailos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Šitai vyko viešpataujant Lie­ tuvoje Vyteniui, kuris mirė apie 1315 metus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    47
+
+    ## Puslapis 64
+
+    VILNIAUS MIESTO ISTORIJA I  TOMAS
+    pilį, kur minėtas grafas iš Hamburgo ir daugybė kitų didi­
+    kų priėmė kariuomenės garbę]. Šitai vyko viešpataujant Lie­
+    tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Juk val­ dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­ čių minoritų, kuriems jau pastatytą bažnyčią norėjo'' skirti; tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­ ti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tiesa, arkivyskupui Isamui tarpininkaujant,
+    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
+    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
+    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
+    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
+    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
+    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
+    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
+    ti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­
+    gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­
+    nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
+    verčia dykynėmis, visada sakydami, jog visa tai daroma
+    krikščionybei ginti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­ pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir jau pastatytą bažnyčią.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
+    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
+    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
+    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
+    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
+    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
+    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
+    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
+    arba privertė, kad jie patys pasiskandintų.
+    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
+    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
+    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
+    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
+    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
+    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
+    ir minėtą bažnyčią sudegino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: 'Dusburgietis teigia, kad apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11 Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai puldinėjo su dviem.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Kristmemelio pilies apgultį 1315 m. rugsėjo 30—spalio 11
+
+      Tų pačių metų rugsėjo mėnesį Vytenis, lietuvių karalius, subūrė visus tinkamus karui
+    savo karalystės vyrus ir apsupo Kristmemelio pilį, kurią 17 dienų iš visų pusių smarkiai
+    puldinėjo su dviem apgulos mašinomis ir daugybe šaulių. Todėl broliai, šitai matydami,
+    sudegino savo pilies papilį, norėdami išvengti galimų pavojų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-030
+  santrauka: 'Liutavėro sūnus karingas Vytenis, pirmasis jau gana ge­ rai žinomas naujos ilgai Lietuvą valdžiusios dinastijos atsto­ vas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    , I, 11.
+
+
+    ```
+    — XIX —
+    ```
+    kng. Liutavėro sūnus karingas Vytenis, pirmasis jau gana ge­
+    rai žinomas naujos ilgai Lietuvą valdžiusios dinastijos atsto­
+    vas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-031
+  santrauka: '1 '' - --- - -■ N VYTENIS, Traidenio sūnus, did. Lietuvos kunigaikštis 1283 m., nužudytas 1315 m.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    -1
+    '
+    - --- - -■  N
+    VYTENIS, Traidenio sūnus,
+    did. Lietuvos kunigaikštis
+    1283 m., nužudytas 1315 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Butvydas]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Jotvingai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/legatas]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vergai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu]]
+- [[objektai/asmenys/Butigeidis]]
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
 - [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]
 - [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]
+- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
 - [[objektai/ivykiai/Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)]]
 - [[objektai/ivykiai/Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.)]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- [[objektai/daiktai/Vytenio minoritams pastatyta bažnyčia]]
 - [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/posakiai/mano priešo priešas yra mano draugas]]
+- [[objektai/zodynas/popiežiaus legatas]]
+- [[objektai/zodynas/tautiška politika]]
 - [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
+- [[objektai/ivykiai/Gedimino pilies statyba ir rezidencijos perkėlimas į Vilnių (1321 m.)]]
+- [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]

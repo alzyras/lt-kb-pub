@@ -45,5 +45,11 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Anthony Kiedis]]
 - [[objektai/asmenys/Bob Dylan]]
+- [[objektai/asmenys/David Gilmour]]
+- [[objektai/asmenys/Eric Clapton]]
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/asmenys/George Harrison]]
+- [[objektai/asmenys/Keith Richards]]
 - [[objektai/daiktai/Gitara „Zemaitis“]]

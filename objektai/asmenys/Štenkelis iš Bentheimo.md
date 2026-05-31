@@ -55,4 +55,5 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
 ### Susiję objektai
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Notangai]]
 - [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.)]]

@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -32,6 +38,10 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-003
+  teiginys: 'Dėl jos daugybė seimų turėjo išsiskirstyti, nieko nenuveikę.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -64,7 +74,27 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dėl jos daugybė seimų turėjo išsiskirstyti, nieko nenuveikę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Dėl jos daugybė seimų turėjo išsiskirstyti,
+
+
+    nieko nenuveikę. Kadangi seimo iširimas dažnai grėsdavo vals-
+    tybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti
+    vadinamieji konfederaciniai seimai. Atstovai į juos
+    būdavo renkami paprasta tvarka, tik suvažiavę, pasiūlius kara-
+    liui ar kam nors kitam, jie pasirašydavo tam tikrą pasižadėjimo
+    aktą, kad numatomus klausimus spręsią balsų dauguma.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
+### Susiję objektai
+- [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]

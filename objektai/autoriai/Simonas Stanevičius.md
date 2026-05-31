@@ -36,6 +36,14 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: '(^41) Simonas Stanevičius, Raštai , paruošė J.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Simonas Stanevičius išleido poezijos knygą, kurioje buvo eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas.'
@@ -60,8 +68,47 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalba (žemaičių tarme), poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis manifestas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ši grupelė ir lai-
+    koma etninių lietuvių tautinio
+    kultūrinio sąjūdžio pradininkais.
+    Parašytas ir išleistas tiems lai-
+    kams novatoriškas elementorius
+    lietuvių kalba (žemaičių tarme),
+    poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje
+    buvo ir eilėraštis „Šlovė žemaičių“ – kone šio sąjūdžio himnas ar poetinis
+    manifestas, teigęs, kad žemaičių (lietuvių), kaip tautos, palaidoti nepa-
+    vyks. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '(^41) Simonas Stanevičius, Raštai , paruošė J.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^41) **Simonas Stanevičius,** **_Raštai_** **, paruošė J. Lebedys, Vilnius 1967,
+    292 p.**
+    (^42) **V.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
+- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
+- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]
+- [[objektai/posakiai/„Šlovė žemaičių“]]

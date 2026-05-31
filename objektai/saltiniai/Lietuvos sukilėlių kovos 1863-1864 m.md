@@ -10,6 +10,7 @@ datos:
   - '1863 m.'
   - '1864 m.'
   - '1969 m.'
+  - '1972 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
@@ -17,7 +18,7 @@ amziai:
   - 'XIX'
   - 'XX'
 date_start: '1863'
-date_end: '1969'
+date_end: '1972'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -37,9 +38,25 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '13, 1972, 19-38 p. (^119) Be to, Lietuvos sukilėlių kovos 1863-1864 m. (1969); ji rašė ir Pane­ vėžio miesto istorijos klausimais (AkMD, t.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
-
+- c-002
+  santrauka: '13, 1972, 19-38 p. (^119) Be to, Lietuvos sukilėlių kovos 1863-1864 m. (1969); ji rašė ir Pane­ vėžio miesto istorijos klausimais (AkMD, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    13, 1972, 19-38 p.**
+    (^119) **Be to,** **_Lietuvos sukilėlių kovos 1863-1864 m._** **(1969); ji rašė ir Pane­
+    vėžio miesto istorijos klausimais (AkMD, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: '„Lietuvos sukilėlių kovos 1863-1864 m.“ buvo išleista 1969 m.'

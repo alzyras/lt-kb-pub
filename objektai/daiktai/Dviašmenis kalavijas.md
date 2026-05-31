@@ -157,3 +157,12 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Balnakilpės]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/daiktai/Kalavijai]]
+- [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
+- [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
+- [[objektai/daiktai/Tik Lietuvai būdingi dvinariai žąslai su skersinukais]]

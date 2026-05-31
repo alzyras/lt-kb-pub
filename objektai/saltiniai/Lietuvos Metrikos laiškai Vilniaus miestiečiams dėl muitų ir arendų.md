@@ -1,0 +1,62 @@
+---
+tipas: saltinis
+pavadinimas: 'Lietuvos Metrikos laiškai Vilniaus miestiečiams dėl muitų ir arendų'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - miestas
+  - pinigai
+  - saltinis
+---
+# Lietuvos Metrikos laiškai Vilniaus miestiečiams dėl muitų ir arendų
+
+## Santrauka
+
+20 Lietuvos Metrikoje yra labai daug Žygimanto Senojo laiškų, tuo tikslu rašytų Vilniaus miestiečiams, - paci­ tuosime kai kuriuos: List Meszczaninu Wileńskomu Andrejų Tyckomu [Laiškas Vilniaus miestiečiui Andre­ jui Tiekiui] dėl Smolensko muito ir smuklių.
+
+## Teiginiai
+- t-001
+  teiginys: '20 Lietuvos Metrikoje yra labai daug Žygimanto Senojo laiškų, tuo tikslu rašytų Vilniaus miestiečiams, - paci­ tuosime kai kuriuos: List Meszczaninu Wileńskomu Andrejų Tyckomu [Laiškas Vilniaus miestiečiui Andre­ jui Tiekiui] dėl Smolensko muito ir smuklių.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '20 Lietuvos Metrikoje yra labai daug Žygimanto Senojo laiškų, tuo tikslu rašytų Vilniaus miestiečiams, - paci­ tuosime kai kuriuos: List Meszczaninu Wileńskomu Andrejų Tyckomu [Laiškas Vilniaus miestiečiui Andre­ jui Tiekiui] dėl Smolensko muito ir smuklių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    20
+    Lietuvos Metrikoje yra labai daug
+    Žygimanto Senojo laiškų, tuo tikslu
+    rašytų Vilniaus miestiečiams, - paci­
+    tuosime kai kuriuos: List Meszczani-
+    nu Wileńskomu Andrejų Tyckomu
+    [Laiškas Vilniaus miestiečiui Andre­
+    jui Tiekiui] dėl Smolensko muito ir
+    smuklių arendavimo. Knyga 8,1.87.
+    List Radzcy Wileńskomu Bohdanu On-
+    kieiviczu, na wybranie jemu winnych
+    peneźy z Korczem Bobruyjskoje i
+    Swisłockoje do dewet let spoina [Laiš­
+    kas Vilniaus tarėjui Bohdanui Anke-
+    vičiui, leidžiantis jam surinkti pri­
+    klausančius pinigus iš Bobruisko ir
+    Svisločės smuklių už devynerius
+    metus], 1. 100.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

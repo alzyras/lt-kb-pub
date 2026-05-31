@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 15.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -20,17 +20,27 @@ Objektų skaičius: 15.
 
 ### Asmenys
 - [[objektai/asmenys/Edigėjus]]
+- [[objektai/asmenys/Gzovskis]]
 - [[objektai/asmenys/J. Juška]]
 - [[objektai/asmenys/Stanislovas Kiška]]
+
+### Autoriai
+- [[objektai/autoriai/Giovanni Villani]]
 
 ### Daiktai
 - [[objektai/daiktai/Aleksandro lektika]]
 - [[objektai/daiktai/ANBO lėktuvai]]
+- [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/daiktai/Kablinis šautuvas]]
 - [[objektai/daiktai/Kūlgrindos]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
+- [[objektai/daiktai/Vežimai su kailiais ir šienu]]
+
+### Papročiai
+- [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]
+- [[objektai/paprociai/Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje]]
 
 ### Posakiai
 - [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]

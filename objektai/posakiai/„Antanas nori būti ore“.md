@@ -45,5 +45,13 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/daiktai/Lėktuvai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/ANBO IV lėktuvų grupės skrydis per Europos sostines (1934 m.)]]
+- [[objektai/daiktai/ANBO lėktuvai]]
+- [[objektai/asmenys/Antanas Gustaitis]]
+- [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
 - [[objektai/grupes/Lietuvos karo aviacija]]
+- [[objektai/asmenys/Stasys Girėnas]]
+- [[objektai/asmenys/Steponas Darius]]

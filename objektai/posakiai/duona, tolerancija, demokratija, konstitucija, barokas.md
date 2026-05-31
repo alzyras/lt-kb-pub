@@ -58,3 +58,11 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   pagrindžia:
     - t-001
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]

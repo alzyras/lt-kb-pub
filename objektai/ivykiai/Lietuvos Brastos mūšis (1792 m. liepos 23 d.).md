@@ -253,3 +253,19 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kazokai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/autoriai/Arvydas Pociūnas]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
+- [[objektai/autoriai/Gintautas Sliesoriūnas]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]
+- [[objektai/autoriai/Vytautas Lesčius]]
+- [[objektai/zodynas/konfederacija]]

@@ -104,7 +104,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/pinigai]]
 - [[temos/transportas]]
 
 ### Susiję objektai
@@ -115,3 +114,4 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/zodynas/gurguolė]]

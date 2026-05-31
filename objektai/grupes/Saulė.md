@@ -103,5 +103,8 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Albertas]]
 - [[objektai/autoriai/V. Pisani]]
+- [[objektai/asmenys/Visvaldis]]
 - [[objektai/autoriai/W. Schmidt]]

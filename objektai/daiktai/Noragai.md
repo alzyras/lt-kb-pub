@@ -73,5 +73,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Ragotinė]]
 - [[objektai/daiktai/Ratai ant dviejų tekinių]]
+- [[objektai/grupes/Žemaičių medininkai]]
+- [[objektai/zodynas/storasta]]
 - [[objektai/autoriai/Guagnini]]

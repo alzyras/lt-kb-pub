@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 7.
+Objektų skaičius: 6.
 
 ## Kaip naudoti
 
@@ -24,5 +24,4 @@ Objektų skaičius: 7.
 - [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Specialių brolijų maldininkams globoti steigimas]]
-- [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]
 - [[objektai/paprociai/Šventųjų žalčių laikymas namuose]]

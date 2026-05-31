@@ -46,3 +46,4 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/socialistinis realizmas]]
+- [[objektai/posakiai/„Prokrusto komunistinė lova“]]

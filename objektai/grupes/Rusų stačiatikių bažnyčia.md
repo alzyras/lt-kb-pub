@@ -55,3 +55,13 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Unitai]]
+- [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
+- [[objektai/grupes/Unitų bažnyčia]]
+- [[objektai/grupes/Unitų bažnyčia unitai]]
+- [[objektai/zodynas/rusinimas rusinimo politika]]

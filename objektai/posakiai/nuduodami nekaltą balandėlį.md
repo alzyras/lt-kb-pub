@@ -114,3 +114,7 @@ Formulė pateikiama kaip Vytauto poleminis kaltinimas kryžiuočiams, vaidinanti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]

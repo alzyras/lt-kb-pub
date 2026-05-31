@@ -60,6 +60,7 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Trakų sukilėlių daliniai]]
+- [[objektai/zodynas/ulonai]]
 - [[objektai/grupes/12-asis ulonų pulkas]]
 - [[objektai/grupes/2-asis pėstininkų pulkas]]
 - [[objektai/grupes/7-asis pėstininkų pulkas]]

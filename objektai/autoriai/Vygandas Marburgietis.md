@@ -9,6 +9,12 @@ variantai:
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+laikotarpis: ''
+vaidmenys:
+  - 'kronikininkas'
+  - 'autorius'
+dalyviai: []
+susije_irasai: []
 datos:
   - '1345 m.'
   - '1398 m.'
@@ -19,12 +25,6 @@ amziai:
   - 'XIV'
 date_start: '1345'
 date_end: '1398'
-laikotarpis: ''
-vaidmenys:
-  - 'kronikininkas'
-  - 'autorius'
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
 sukurta: ''
 atnaujinta: ''
@@ -85,6 +85,26 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   teiginys: 'Vygandas Marburgietis nurodė, kad lietuvių nuostoliai siekė daugiau kaip 7 000 belaisvių ir žuvusiųjų.'
   pagrindžia:
     - c-010
+- t-012
+  teiginys: 'darė daug graudaus.“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja.'
+  pagrindžia:
+    - c-011
+- t-013
+  teiginys: 'STRĖVOS MUSIS Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m. Strėvos mūšį.'
+  pagrindžia:
+    - c-012
+- t-014
+  teiginys: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
+  pagrindžia:
+    - c-013
+- t-015
+  teiginys: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
+  pagrindžia:
+    - c-014
+- t-016
+  teiginys: 'Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -279,7 +299,129 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-011
+  santrauka: 'darė daug graudaus.“ „KLASTINGA STABMELDĖ“ Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas pats užpulti priešo teritoriją, jį dezinformuoja.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    darė daug graudaus.“
+
+    „KLASTINGA STABMELDĖ“
+
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
+    karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
+    pats užpulti priešo teritoriją, jį dezinformuoja
+    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-012
+  santrauka: 'STRĖVOS MUSIS Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m. Strėvos mūšį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau nea-
+    bejotinai mūšyje patyrė smūgį ir Ordinas,
+    jis po mūšio nežygiavo gilyn į Lietuvą, bet
+    grįžo atgal į Prūsiją.
+
+    STRĖVOS MUSIS
+
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m.
+    Strėvos mūšį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-013
+  santrauka: 'Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Nerye ir Neria.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Upė Nerige, dažnai minima senovi­
+    niame Lietuvos kelių aprašyme,
+    esančiame Kryžiuočių archyve, yra
+    dabartinė Vilija. Vygandas ir
+    Lindenblattas, kronikininkai,
+    ją taip pat vadina - Nerga, Nerge, Ne-
+    rye ir Neria. Jau 1398 metais, po
+    krikščionių tikėjimo Vilniuje priėmi­
+    mo, Vilija taip buvo vadinama.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-014
+  santrauka: '37 Vygandas savo kronikoje, p. 298, apud V o i g t, V, 372, aprašinėda­ mas Kęstučio laidotuves Vilniuje, kur kartu su palaikais buvo sudegin­ ti jo rūbai, ginklai, žirgai, medžiok­ liniai šunys ir paukščiai, prietarin­ gai priduria, kad to deginimo metu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau ir tai negalėjo pasotinti go­
+    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
+    36
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+    37
+    Vygandas  savo kronikoje, p. 298,
+    apud V o i g t, V, 372, aprašinėda­
+    mas Kęstučio laidotuves Vilniuje,
+    kur kartu su palaikais buvo sudegin­
+    ti jo rūbai, ginklai, žirgai, medžiok­
+    liniai šunys ir paukščiai, prietarin­
+    gai priduria, kad to deginimo metu
+    stebuklingu būdu žemėje atsivėrusi
+    tokio gylio kiaurymė, jog vienas
+    žmogus galėjęs tilpti, ir įtraukė Kęs­
+    tučio pelenus, ką regėjusi daugybė
+    žmonių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-015
+  santrauka: 'Apie jo priėmimą popiežiaus rūmuose pasakoja Vygandas M a r b u r g a s, p. 279; Adiit papam, u quo honorifice et amicabiliter suscep­ tus est [Atvyko pas popiežių, kurio buvo pagarbiai ir draugiškai priim­ tas].'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    rugpjūčiui įpusėjus, buvo Vokietijo­
+    je. Apie jo priėmimą popiežiaus
+    rūmuose pasakoja Vygandas
+    M a r b u r g a s, p. 279; Adiit papam,
+    u quo honorifice et amicabiliter suscep­
+    tus est [Atvyko pas popiežių, kurio
+    buvo pagarbiai ir draugiškai priim­
+    tas].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/stabmeldys]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Pakeliamas tiltas]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/ivykiai/Kęstučio laidotuvės Vilniuje]]
+- [[objektai/paprociai/Pagoniškas kunigaikščio laidojimas sudeginant palaikus su naudotais daiktais]]

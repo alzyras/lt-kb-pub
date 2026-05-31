@@ -2,14 +2,14 @@
 tipas: tyrimas
 pavadinimas: "Tuščių ar silpnų pastabų auditas - A. Šapoka (red.), Lietuvos istorija (1936 m.)"
 saltiniai:
-  - "[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]"
+  - "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
 sukurta: ''
 atnaujinta: ''
 ---
 # Auditas
 
 ## Vykdymo metaduomenys
-- knyga: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+- knyga: A. Šapoka (red.), Lietuvos istorija (1936 m.)
 - source_file: `darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md`
 - modelis: unknown
 - data_ir_laikas: 2026-04-25 11:03

@@ -81,7 +81,10 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   teiginys: '1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: '1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117 ## Puslapis 120 E -KURSO KUNIGAIKŠTYSTĖ S res Livontios KUNIGAIKŠTYSTĖ || PES Sen PRŪSIJOS KUNIGAIKSTYSTE- “yf LIETUVOS 14 DIDŽIOJI “KUNIGAIKŠTYSTĖ > PA | 7 a LENKUOS | 3 | KARALYSTĖ | ) uae Mūšio priešistorė.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1621 m. mūšyje prie Chotino didysis etmonas pasiekė paskutinę savo pergalę.'
@@ -225,6 +228,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+    - t-007
 - c-006
   santrauka: '1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)

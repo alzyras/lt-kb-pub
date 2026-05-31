@@ -70,6 +70,22 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   teiginys: '1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Žygimantas Kęstutaitis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­ rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­ ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai, atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­ skandinti.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -258,7 +274,120 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Žygimantas Kęstutaitis po šios pergalės buvo lietuviškai pra­ mintas Dauggalis - galingas, didis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
+    gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­
+    dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
+    sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo
+    vienas vėliau buvo Trakų vaivada,
+    o jo sūnus - Jonas Hanulaitis - Lie­
+    tuvos vėliavininkas; pastarasis Žy­
+    gimanto Kęstutaičio laikais pasižy­
+    mėjo mūšyje prie Pabaisko, iš jo
+    paėjo vadinami Daugėlos (nes jis po
+    šios pergalės buvo lietuviškai pra­
+    mintas Dauggalis - galingas, didis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­ rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­ ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai, atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­ skandinti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Švitrigai­
+    la, apsvaigintas laikinos sėkmės, sugavęs Alšėnų kunigaikštį,
+    įsakė jį Vitebske nuo aukšto skardžio įmesti į Dviną, kitą
+    kunigaikštį - nuskandinti, o metropolitą Gerasimą sudegi­
+    no. Savo ruožtu, Žygimantas, toks pat žiaurus ir nesantū­
+    rus, tenkindamas savo kerštą, kai jam buvo išduoti pas ka­
+    ralių Vladislovą Jogailą vykstantys Švitrigailos pasiuntiniai,
+    atkeršijo įsakydamas juos pa valkioti gatvėmis, o paskui pa­
+    skandinti. O Manvydas, Trakų vaivada, buvo sučiuptas ir,
+    Žygimanto įsakymu, nukirsdintas20.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
+    gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­
+    rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus
+    narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio
+    lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­
+    torija ir toje vietoje pastatė parapijos bažnyčią22. Ši svarbi
+    Pabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­
+    vos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos
+    likimui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: '1440 metų balandį Žygimantas sąmokslininkų buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­ niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­ butas užgrobė naktį26.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Trakuose jo sušauktas seimas, turėjęs parengti pasku­
+    tinį smūgį Rusios ir Lietuvos bajorijai, paspartino tą kruviną
+    susidorojimą. 1440 metų balandį Žygimantas sąmokslininkų
+    buvo nužudytas Trakų pilyje, jo sūnus Mykolas ištremtas; tą
+    pačią akimirką, kai Vilniaus vaivada Daugirdas žemutinę Vil­
+    niaus pilį laikinai užėmė Švitrigailai, aukštutinę tvirtovę Nar­
+    butas užgrobė naktį26. Vis dėlto Žygimanto palaikai, iš Trakų
+    atvežti į Vilnių, buvo palaidoti didžiųjų Lietuvos kunigaikš­
+    čių kape, katedroje, atlikus įprastas laidojimo apeigas27.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Hanulaitis]]
+- [[objektai/autoriai/Kotzebue]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/knechtas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]
+- [[objektai/paprociai/Kunigaikščių palaikų perkėlimas ir laidojimas Vilniaus katedroje]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]]
+- [[objektai/paprociai/Pabaisko pergalės įamžinimas vietovardžiais ir bažnyčios fundacija]]

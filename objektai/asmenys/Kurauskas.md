@@ -1,0 +1,54 @@
+---
+tipas: asmuo
+pavadinimas: 'Kurauskas'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - asmuo
+---
+# Kurauskas
+
+## Santrauka
+
+Eilinis Kurauskas atbėgo pas mane.
+
+## Teiginiai
+- t-001
+  teiginys: 'Eilinis Kurauskas atbėgo pas mane.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Eilinis Kurauskas atbėgo pas mane.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūsų šaudymas labai suretėjo, nes pradėjo išsibaigti šovinių ištekliai. Bolševikai artėjo
+    ir grūmojo šautuvų buožėmis. [...]. Buvo įsakyta užsidėti durtuvus. [...]. Bolševikai, pabėgę
+    10-15 metrų, sugulė. Mečiau į sugulusius bolševikus granatą, kuri per truputį neprilėkė.
+    Tada pasiėmiau dėžę su granatomis ir išbėgau apie 20-30 metrų į priekį. Pirmoji paleista
+    granata sužeidė komisarą. Eilinis Kurauskas atbėgo pas mane. Jis paruošinėjo granatas,
+    o aš vieną po kitos leidau į gulinčius bolševikus. Bolševikai vertėsi kūliais. Kai granatų
+    dėžė ištuštėjo, mes galėjome perbėgti į bolševikų pozicijas ir pasiimti jų šautuvus ir šovi-
+    nius, nes savuosius buvome jau išbaigę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bolševikai]]

@@ -7,6 +7,16 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 bukle: juodrastis
+datos:
+  - '1401 m.'
+  - '1404 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1401'
+date_end: '1404'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -46,6 +56,10 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: juodrastis
+- t-003
+  teiginys: 'Tačiau ši sutartis pirk­ lius neilgai džiugino, nes 1401 metais, sukilus prieš Ordiną Že­ maičių kraštui, prekyba su juo suiro, ir ji buvo atgaivinta tik 1404 metais, pasirašant Racionžo taiką, kurioje jau ir Jogaila dalyvavo.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,3 +96,34 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tačiau ši sutartis pirk­ lius neilgai džiugino, nes 1401 metais, sukilus prieš Ordiną Že­ maičių kraštui, prekyba su juo suiro, ir ji buvo atgaivinta tik 1404 metais, pasirašant Racionžo taiką, kurioje jau ir Jogaila dalyvavo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip pat buvo susitarta
+    užkariauti savarankiškus, turtingus ir prekybai patogius Psko­
+    vo bei Naugardo miestus ir pasidalyti juos taip, kad pirmasis
+    tektų Ordinui, o antrasis — Vytautui^1 ). Tačiau ši sutartis pirk­
+    lius neilgai džiugino, nes 1401 metais, sukilus prieš Ordiną Že­
+    maičių kraštui, prekyba su juo suiro, ir ji buvo atgaivinta tik
+    1404 metais, pasirašant Racionžo taiką, kurioje jau ir Jogaila
+    dalyvavo. Bet šį kartą nukentėjo Žemaičiai, nes Vytautas dėl
+    pageidaujamos su Ordinu patvaresnės taikos sąryšyje su Rytų
+    politika pasižadėjo metus neleisti savo pirkliams prekiauti su
+    Žemaičių kraštu ir įvežti druskos, javų, geležies, kad Žemaičiai
+    vėl nesukiltų prieš Ordiną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/Racionžo taika]]

@@ -47,7 +47,10 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'Artilerija to meto Lietuvos kariuomenėje dar nevaidino didesnio savarankiško vaidmens, bet buvo įprastas atributas, kuris mūšio lauke vis dėlto praversdavo.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
@@ -120,6 +123,30 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Artilerija to meto Lietuvos kariuomenėje dar nevaidino didesnio savarankiško vaidmens, bet buvo įprastas atributas, kuris mūšio lauke vis dėlto praversdavo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Artilerija
+    to meto Lietuvos kariuomenėje dar nevai-
+    dino didesnio savarankiško vaidmens, bet
+    buvo įprastas atributas, kuris mūšio lauke
+    vis dėlto praversdavo. Pašauktinės kariuo-
+    menės silpnąsias savybes (santykinai nedi-
+    delę kovinę patirtį, ne visada patenkinamą
+    discipliną) bandyta kompensuoti samdi-
+    niais - kariais profesionalais.
+
+    Totorių įsiveržimas
+
+    1506 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

@@ -96,3 +96,9 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Lietuviai]]

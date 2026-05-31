@@ -10,6 +10,7 @@ datos:
   - '1936 m.'
   - '1940 m.'
   - '2026 m.'
+  - '1919 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'XX a.'
@@ -58,7 +59,14 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: 'Lietuvių amerikiečių delegatai vėliau prisidėjo prie Lietuvos delegacijos Paryžiuje bendrai ginti Lietuvos reikalų taikos kongrese 1919 m. Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Šveicarijoje.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; darbo pagrindu buvo paimtas nepriklausomybės reikalavimas.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Neutralioje Šveicarijoje susidarė negausus, bet aktyvus lietuvių būrys, šelpęs belaisvius Vokietijoje ir skleidęs žinias apie lietuvių teises.'
@@ -132,3 +140,37 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Lietuvių amerikiečių delegatai vėliau prisidėjo prie Lietuvos delegacijos Paryžiuje bendrai ginti Lietuvos reikalų taikos kongrese 1919 m. Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Šveicarijoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvių amerikiečių delegatai vėliau
+    prisidėjo prie Lietuvos delegacijos Paryžiuje bendrai ginti Lie-
+    tuvos reikalų taikos kongrese 1919 m.
+    Kitas labai negausus, bet aktyvus lietuvių būrys susidarė
+    neutralinėje Šveicarijoje. Ypačiai Amerikos lietuvių
+    organizacijų teikiamomis lėšomis tas būrys šelpė lietuvius be-
+    laisvius Vokietijoje ir skleidė žinias apie lietuvių tautą ir jos
+    reikalaujamąsias teises savarankiškai tvarkytis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; darbo pagrindu buvo paimtas nepriklausomybės reikalavimas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
+    Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
+    ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
+    bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

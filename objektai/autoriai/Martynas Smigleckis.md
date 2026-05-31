@@ -16,14 +16,14 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1618 m.'
-  - '1640 m.'
+  - '1646 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVII'
 date_start: '1618'
-date_end: '1640'
+date_end: '1646'
 patikimumas: "aukštas"
 atnaujinta: '2026-05-14'
 tags:
@@ -55,6 +55,14 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   teiginys: 'Martynas Smigleckis, nagrinėdamas monopolio puses, Vilnių pateikė kaip stiklo prekių pavyzdį.'
   pagrindžia:
     - c-003
+- t-008
+  teiginys: '„Ka­ dangi tuomet prireiks bendro išra­ šo, kad šios privilegijos buvo duo­ tos, - rašo Smigleckis, - yra netei­ singa neleisti respublikoje privačios prekybos dėl to, kad mieste anų daiktų būtų didesnis išteklius ir kad geresni ir įvairesni daiktai būtų par­.'
+  pagrindžia:
+    - c-004
+- t-009
+  teiginys: 'Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -124,7 +132,56 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-004
+  santrauka: '„Ka­ dangi tuomet prireiks bendro išra­ šo, kad šios privilegijos buvo duo­ tos, - rašo Smigleckis, - yra netei­ singa neleisti respublikoje privačios prekybos dėl to, kad mieste anų daiktų būtų didesnis išteklius ir kad geresni ir įvairesni daiktai būtų par­.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    7-as leidimas, Krokuvoje, pas
+    Andžejų Piotrkovčiką, 1640, in 4to.
+    Nagrinėdamas geras ir blogas priva­
+    čios prekybos arba monopolio pu­
+    ses, Vilnių, stiklo prekių atžvilgiu,
+    pateikia kaip pavyzdį, o jau buvo po
+    Paleckio privilegijos žlugimo. „Ka­
+    dangi tuomet prireiks bendro išra­
+    šo, kad šios privilegijos buvo duo­
+    tos, - rašo Smigleckis, - yra netei­
+    singa neleisti respublikoje privačios
+    prekybos dėl to, kad mieste anų
+    daiktų būtų didesnis išteklius ir kad
+    geresni ir įvairesni daiktai būtų par­
+    duodami.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-005
+  santrauka: 'Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui, Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus universite-
+    to profesorių veikalai pasiekė net protestantiškąją Angliją – pavyzdžiui,
+    Martyno Smigleckio „Logika“ (1618 m.) rėmėsi ne tik Sorbonos, bet ir
+    Oksfordo daktarai, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m.
+    buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose
+    vietoje įprasto Horacijaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

@@ -1,0 +1,50 @@
+---
+tipas: saltinis
+pavadinimas: 'Lepumos vaito laiškas dėl pskoviečių atvykimo pas Švitrigailą'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - kunigaikštis
+  - saltinis
+---
+# Lepumos vaito laiškas dėl pskoviečių atvykimo pas Švitrigailą
+
+## Santrauka
+
+Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.
+
+## Teiginiai
+- t-001
+  teiginys: 'Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Slaptajame archyve yra Lepumos vaito laiškas, datuotas Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Slaptajame archyve yra Lepu-
+    mos vaito laiškas, datuotas Šv. Lau­
+    ryno dieną, tai yra, rugpjūčio 14-ą.
+    Juo pranešama, kad pskoviečiai at­
+    vyko pas didįjį kunigaikštį, prašy­
+    dami valdytojo ir pareikšdami, jog
+    būsią jam paklusnūs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001

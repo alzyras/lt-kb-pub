@@ -14,6 +14,7 @@ datos:
   - '1389 m.'
   - '1396 m.'
   - '1399 m.'
+  - '1410 m.'
   - '1429 m.'
   - '2013 m.'
   - '2026 m.'
@@ -73,6 +74,10 @@ Nenurodyta
   teiginys: 'Vytautas ir pats buvo reagavęs į Serbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu 1399 m. prie Vorsklos.'
   pagrindžia:
     - c-004
+- t-008
+  teiginys: 'Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civilizaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -150,3 +155,35 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civilizaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Taigi, jei visa ankstyvoji Lietuvos istorija - tai siekis išlikti
+    žūtbūtinėje kovoje prieš kryžiuočių ekspansiją ir įsigyti vietą
+
+    Europoje, tai jau Žalgiryje (1410) kovota ne prieš Vakarų civili-
+    zaciją, o už teisę būti joje, nes vokiečių ordinai buvo jai palikę tik
+    barjero tarp Rytų ir Vakarų vaidmenį. Jau pirmieji krikščioniški
+    Lietuvos valdovai, siekdami įrodyti, kad jie yra „principes chris-
+    tiani“, patys pradeda organizuoti kryžiaus žygius prieš totorius,
+    formuodami „antemurale Christianitatis“ ideologiją. Garsiajame
+    Lucko suvažiavime 1429 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/posakiai/Antemurale Christianitatis]]

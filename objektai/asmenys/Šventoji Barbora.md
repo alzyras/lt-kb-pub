@@ -94,3 +94,4 @@ Dusburgietis teigia, kad šitai padarę, aptiko viename rūsyje dėžę, arba sk
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
 - [[objektai/daiktai/Pančiai]]
+- [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]

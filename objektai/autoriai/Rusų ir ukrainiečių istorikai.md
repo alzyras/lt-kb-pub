@@ -187,3 +187,8 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusų istorikai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/kunigaikščiai]]

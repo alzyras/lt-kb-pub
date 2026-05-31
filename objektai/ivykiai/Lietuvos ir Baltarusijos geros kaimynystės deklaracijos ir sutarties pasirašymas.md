@@ -74,6 +74,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
 - [[objektai/asmenys/Borisas Jelcinas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas Landsbergis]]

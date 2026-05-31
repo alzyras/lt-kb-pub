@@ -39,6 +39,10 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   teiginys: 'Dusburgietis teigia, kad apie Baigos pilį Išgirdęs šią liūdną naujieną, magistras nepaprastai susikrimto, tačiau jam priminė pavyzdį Dovydo, kuris savo kariuomenės vadą Joabą, didžiai besisielojantį dėl saviškių mirties, nelyginant subardamas mokė (2 Kar 11, 25): „Tegul tas dalykas.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Et nihilominus opido quodam munito Dobryn vulgariter dicto expugnato et in favillam prorsus redacto multis inibi christifidelibus fer­ ro peremptis decem millia et utra homi­ num utriusque sexus secum abegit si­ militer et deduxit [Kai bedievis vadas Dovydas.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųjų karalius, kaip tikras būsimųjų įvykių pranašas nurodydamas ryškesnes šios kariuomenės žymes, sakėsi savo pulkuose norėjęs turėti Cereto ir Feleto būrius, kurie privalėję nuolatos taip saugoti jo asmenį, kad.'
@@ -97,9 +101,46 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Et nihilominus opido quodam munito Dobryn vulgariter dicto expugnato et in favillam prorsus redacto multis inibi christifidelibus fer­ ro peremptis decem millia et utra homi­ num utriusque sexus secum abegit si­ militer et deduxit [Kai bedievis vadas Dovydas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Viename dokumen­
+    te, apie kurį vėliau smulkiau kalbė­
+    sime, pasakojama apie kunigaikščių
+    Ziemovito ir Traidenio įsiveržimą į
+    Dobrynės žemę. Qui prophanus dux
+    David paulo ante indictas treugas pre-
+    dictas Ingrediens cum valido exercitu
+    Litwanorum terram Dobrinens. sitam
+    in prenominata Plocendioc totam mise­
+    rabiliter devastavit. Et nihilominus opi-
+    do quodam munito Dobryn vulgariter
+    dicto expugnato et in favillam prorsus
+    redacto multis inibi christifidelibus fer­
+    ro peremptis decem millia et utra homi­
+    num utriusque sexus secum abegit si­
+    militer et deduxit [Kai bedievis vadas
+    Dovydas prieš pat anksčiau minėtas
+    paliaubas įžengęs su stipria lietuvių
+    kariuomene į Dobrynės žemę, esan­
+    čią minėtoje Plocko diecezijoje, visą
+    pragaištingai nusiaubė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Dovilas, arba Dovydas]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/asmenys/Erdenas, arba Jerdenas]]
+- [[objektai/asmenys/Maukoldas]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Vidas, pramintas Vilku]]

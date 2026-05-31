@@ -62,9 +62,6 @@ Damoklo kardas tikrai pakibo ant unijos, kurią taip smarkiai gynė lenkai ir, i
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Lenkai]]

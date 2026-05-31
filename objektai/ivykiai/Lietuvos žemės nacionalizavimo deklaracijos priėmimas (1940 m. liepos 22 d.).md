@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -38,6 +44,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamentai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis respublikomis.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,6 +64,23 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamentai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis respublikomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
+    tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
+    respublikomis. Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priė-
+    mė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo
+    valstybės nuosavybe, o ūkininkai – žemės naudotojais. Buvo nacionalizuoti
+    bankai, stambiosios pramonės įmonės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

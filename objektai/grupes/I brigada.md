@@ -60,5 +60,6 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/grupes/11 brigada]]
 - [[objektai/grupes/Marijampolės batalionas]]
+- [[objektai/grupes/brigada]]
+- [[objektai/grupes/11 brigada]]

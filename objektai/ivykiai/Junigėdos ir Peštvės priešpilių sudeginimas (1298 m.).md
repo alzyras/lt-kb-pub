@@ -67,6 +67,10 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Ordino kariuomenei pačias pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų priešpilių ir juos sunaikinti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -106,9 +110,31 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
   pagrindžia:
     - t-002
     - t-003
+- c-003
+  santrauka: 'Ordino kariuomenei pačias pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų priešpilių ir juos sunaikinti.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ordino kariuomenei pačias
+    pagonių pilis retai teįveikiant, dažnai pasisekdavo prieiti prie jų
+    priešpilių ir juos sunaikinti. Pvz., 1298 Brandenburgo komtūras,
+    išsiruošęs su gausiu buriu, tesudegino Junigėdos ir Peštvės prieš­
+    pilius^9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Kunonas (Brandenburgo komtūras)]]

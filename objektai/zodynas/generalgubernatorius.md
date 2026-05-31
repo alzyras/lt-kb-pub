@@ -98,9 +98,19 @@ Jį valdė Vilniaus generalgubernatorius.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/1863 m. sukilimas]]
 - [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/asmenys/Ivanas Kornilovas]]
+- [[objektai/asmenys/Konstantinas Kalinauskas]]
+- [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas]]
+- [[objektai/asmenys/M. Muravjovas]]
+- [[objektai/asmenys/Michailas Muravjovas]]
+- [[objektai/asmenys/Michailas Muravjovas-Korikas]]
 - [[objektai/asmenys/T. Dalevskis]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/gubernija apskritis (ujezd)]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/rusinimas rusinimo politika]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

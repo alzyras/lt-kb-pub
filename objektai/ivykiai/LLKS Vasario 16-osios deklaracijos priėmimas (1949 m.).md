@@ -61,5 +61,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

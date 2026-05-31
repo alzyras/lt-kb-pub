@@ -70,3 +70,5 @@ Vartojamos formos: `dabos`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Rėda|rėda]]
+- [[objektai/zodynas/mezliava]]
+- [[objektai/zodynas/Stigavoja|stigavoja]]

@@ -47,6 +47,10 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginys: 'Vėliau Mamoničių spaus­ tuvė, matyt, atiteko bazilijonams.'
   pagrindžia:
     - c-005
+- t-005
+  teiginys: 'Buvęs Karaliaučiaus archyvo (dabar (^149) Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­ niai padalinami dar į tokias serijas : Documenta Pontificum Romanorum; Acta S.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -110,3 +114,26 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-006
+  santrauka: 'Buvęs Karaliaučiaus archyvo (dabar (^149) Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­ niai padalinami dar į tokias serijas : Documenta Pontificum Romanorum; Acta S.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Buvęs Karaliaučiaus archyvo (dabar
+
+    (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­
+    niai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;
+    Acta S. Gongr. de Propaganda Fide ; Litterae S. Gongr. de Prop. Fide ; Lit-
+    terae Nuntiorum Apostolicorum ; Epistolae Metropolitarum et Episcoporum ;
+    Monumentą Bio-Hagiographica_** **(S. Iosaphat Kuncevyč),** **_Audientiae Sanc-
+    tissimi,_** **ir kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Unitai]]

@@ -82,3 +82,11 @@ Formulė keliuose pasakojimuose pateikiama kaip iškilmingas Jogailos ir Vytauto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]

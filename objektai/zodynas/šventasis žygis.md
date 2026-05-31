@@ -61,9 +61,8 @@ Dusburgietis teigia, kad sekiau jų pėdomis, nenorėdamas būti nublokštas į 
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/posakiai/šio šventojo žygio atminimas]]

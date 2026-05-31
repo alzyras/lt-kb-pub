@@ -109,3 +109,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

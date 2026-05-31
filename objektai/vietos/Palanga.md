@@ -69,7 +69,10 @@ tags:
   teiginys: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
   pagrindžia:
     - c-007
-
+- t-008
+  teiginys: 'Autorius temas semia iš bėgančiojo gyvenimo laikinoj mūsų sos­ tinėj, o vasarą — iš lietuviškiausio mūsų kurorto — Palangos.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Palangoje buvo tirta žalvario amžiaus gyvenvietė.'
@@ -186,3 +189,21 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Autorius temas semia iš bėgančiojo gyvenimo laikinoj mūsų sos­ tinėj, o vasarą — iš lietuviškiausio mūsų kurorto — Palangos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    .
+    Autorius temas semia iš bėgančiojo gyvenimo laikinoj mūsų sos­
+    tinėj, o vasarą — iš lietuviškiausio mūsų kurorto — Palangos. Rašo jis
+    klasiškomis eilėmis, labai švelniai, sakyčiau, net kai kur—peršvelniai,
+    taip, kad jo satyriškų knybtelėjimų be komentoriaus negalima nė su­
+    prasti, nors civilės drąsos jis turi užtektinai, nes savo satyros objektų
+    nebijo net tikrais vardais pavadinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

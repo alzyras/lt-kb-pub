@@ -101,7 +101,14 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   teiginys: 'Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
   pagrindžia:
     - c-010
-
+- t-011
+  teiginys: 'Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Lietuvių kalba raštijos tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.'
+  pagrindžia:
+    - c-012
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
@@ -273,63 +280,157 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Vilniaus „rusėnų pusėje“ jau Gedimino laikais stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus „rusėnų pusėje“ jau Gedimino laikais
+    stovėjo cerkvės: stačiatikės visų pirma buvo kai kurios didžiųjų Lietuvos
+    kunigaikščių žmonos, tačiau stačiatikių būta ir valdovo dvare – Algirdas
+    toleravo stačiatikybę, jei tai neprieštaravo jo, kaip valdovo, interesams.
+    Valdovo dvariškiai stačiatikiai, rašto išmokę stačiatikių vienuolynuo-
+    se, kūrė valdovo raštinę. Vienuolynuose rašoma bulgarų kilmės slavų
+    bažnytine kalba, o LDK raštinėje pradėjo formuotis rusėnų kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Lietuvių kalba raštijos tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvių kalba raštijos
+    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
+    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų. LDK stačiatikių vienuo-
+    lynuose rašyta bulgarų kilmės slavų bažnytine kalba, o LDK raštinėje pra-
+    dėjo formuotis rašto tradicija, kuri skyrėsi nuo minėtos bažnytinės kalbos.
+    Aiškiai ją skyrė amžininkai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
+- [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Andriejus (Polocko kunigaikštis)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/zodynas/Arkivyskupija]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
+- [[objektai/asmenys/Bazilijus Ciapinskis]]
 - [[objektai/asmenys/Bonifacas IX]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/asmenys/Ciprijonas]]
+- [[objektai/asmenys/Daumantas]]
 - [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
+- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Eufimėjus]]
+- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
-- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
+- [[objektai/asmenys/Fotijus]]
+- [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
+- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
-- [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/asmenys/Gregorijus Cemblakas]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/zodynas/Kanceliarinė rašto kalba]]
+- [[objektai/grupes/Katalikų bažnyčia katalikai]]
+- [[objektai/asmenys/Kazimieras IV]]
+- [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]
+- [[objektai/asmenys/Kiprijonas]]
+- [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
 - [[objektai/asmenys/Lengvenis]]
+- [[objektai/asmenys/Leonas Mamoničius]]
 - [[objektai/posakiai/Lietuva tik iš vardo esanti katalikiška]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Lietuvos stačiatikiai]]
 - [[objektai/grupes/Liuteronai]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/asmenys/Marija (Algirdo žmona)]]
 - [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
+- [[objektai/asmenys/Petras Pliuščius]]
+- [[objektai/ivykiai/Pranciškonų nužudymas Vilniuje Gedimino valdymo pabaigoje]]
 - [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]
-- [[objektai/grupes/Rusėnai]]
+- [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
 - [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
+- [[objektai/grupes/Rusų stačiatikių bažnyčia]]
+- [[objektai/paprociai/Seimo vienbalsiškumo ir liberum veto norma]]
 - [[objektai/grupes/Sentikiai]]
 - [[objektai/asmenys/Sirputis (Traidenio brolis)]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/asmenys/Teodosijus]]
 - [[objektai/asmenys/Teodozijus]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
+- [[objektai/ivykiai/Treniotos nužudymas ir Vaišelgos atėjimas į valdžią]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/grupes/Unitai]]
 - [[objektai/grupes/Unitų bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]
+- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/paprociai/Vilniaus magistrato mišri taryba ir metinė pajamų ataskaita]]
+- [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]
+- [[objektai/paprociai/Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią]]
+- [[objektai/paprociai/Vytauto švento valdovo įvaizdžio ir bažnytinės konversijos politika]]
 - [[objektai/asmenys/Zöllneris]]
+- [[objektai/zodynas/bažnytinės cenzūros ir pasaulietinė valdžia]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
 - [[objektai/zodynas/konfesinis dualizmas]]
 - [[objektai/zodynas/metropolija bažnytinė provincija]]
 - [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]
+- [[objektai/zodynas/miesto magistrato pareigybės]]
+- [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/rusinimas rusinimo politika]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]
+- [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)]]
 - [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]
+- [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
 - [[objektai/ivykiai/Brastos bažnytinė unija|Brastos bažnytinė unija (unija)]]
+- [[objektai/grupes/Graikų katalikų bažnyčia]]
+- [[objektai/asmenys/Jonas Kristupas Glaubicas]]
+- [[objektai/asmenys/Liubartas]]

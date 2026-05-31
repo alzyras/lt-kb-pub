@@ -10,6 +10,7 @@ datos:
   - '1791 m.'
   - '1936 m.'
   - '2026 m.'
+  - '1700 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
@@ -18,6 +19,7 @@ amziai:
   - 'XVIII'
   - 'XX'
   - 'XXI'
+  - 'XVII'
 date_start: '1791'
 date_end: '2026'
 patikimumas: 'vidutinis'
@@ -53,7 +55,14 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
   teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
   pagrindžia:
     - c-004
-
+- t-005
+  teiginys: 'Nors ir nelengva buvo sunaikinti Sapiegų galybę, tačiau bajorijai pradėjo sektis.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Sapiegoms jau nebepavykdavo visų savo atstovų įvesti į seimus, ir jų priešai, lenkų remiami, darydavo seimuose jiems daug nemalonumų.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gavę 100.000 talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai palaikė Augustą.'
@@ -114,12 +123,44 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Nors ir nelengva buvo sunaikinti Sapiegų galybę, tačiau bajorijai pradėjo sektis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nors ir nelengva buvo
+    sunaikinti Sapiegų galybę, tačiau bajorijai pradėjo sektis. Po
+    trejų metų Sapiegos buvo visiškai nugalėti.
+
+
+    b.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Sapiegoms jau nebepavykdavo visų savo atstovų įvesti į seimus, ir jų priešai, lenkų remiami, darydavo seimuose jiems daug nemalonumų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Sapiegoms jau nebepavykdavo vi-
+    sų savo atstovų įvesti į seimus, ir jų priešai, lenkų remiami,
+    darydavo seimuose jiems daug nemalonumų. Gavę 100.000
+    talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai pa-
+    laikė Augustą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/autoriai/Tadas Korsakas]]
-- [[objektai/zodynas/konstitucijos]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/bajorija]]
 - [[objektai/asmenys/H. Brantas]]
 - [[objektai/asmenys/J. P. Sapiega]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
@@ -127,3 +168,8 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/asmenys/T. Dambrava]]
+- [[objektai/ivykiai/coaequatio iurium įstatymo priėmimas (1697 m.)]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/petihorai]]
+- [[objektai/grupes/Pacai]]
+- [[objektai/grupes/Valkininkų konfederacija]]

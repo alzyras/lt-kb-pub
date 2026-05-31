@@ -115,7 +115,12 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 ### Susiję objektai
 - [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/ivykiai/J. Tūbelio kabineto atsistatydinimas po Lenkijos ultimatumo (1938 m.)]]
+- [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
+- [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]
+- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
+- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
+- [[objektai/zodynas/Vieningo darbo vyriausybė]]

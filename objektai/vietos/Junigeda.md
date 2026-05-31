@@ -10,6 +10,7 @@ datos:
   - '1291 m.'
   - '1293 m.'
   - '1313 m.'
+  - '1315 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -17,7 +18,7 @@ amziai:
   - 'XIII'
   - 'XIV'
 date_start: '1291'
-date_end: '1313'
+date_end: '1315'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-30'
 tags:
@@ -73,6 +74,10 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   teiginys: 'Dusburgietis teigia, kad kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos papilį, nukovė daug žmonių, 78 paėmė į nelaisvę, o jį sudegino ligi pamatų.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Dusburgietis teigia, kad apie Junigedos papilio sudeginimą 1315 m. spalio 12 Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją išvaduoti.'
+  pagrindžia:
+    - c-011
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčiaus apiplėšimą 1291 viešpaties metais, apie grabnyčias (vasario 2), brolis Bertoldas Bruhavenas, Karaliaučiaus komtūras, bei daug brolių su tūkstančiu penkiais šimtais vyrų, žygiuodami pro Kolainių pilį.'
@@ -273,3 +278,21 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Dusburgietis teigia, kad apie Junigedos papilio sudeginimą 1315 m. spalio 12 Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe ir sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją išvaduoti.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Junigedos papilio sudeginimą 1315 m. spalio 12
+
+      Tuo tarpu brolis Karolis, didysis magistras, rūpindamasis savo žmonių gyvybe  ir
+    sielodamasis dėl minėtosios pilies apgulos, subūrė didelę kariuomenę, ketindamas ją
+    išvaduoti. Kelyje sužinojęs, kad šie jau nutraukė apgulą, paleido kariuomenę, išskyrus
+    šešis tūkstančius vyrų, su kuriais naktį nuplaukė prie Junigedos pilies ir, įsiveržęs į jos
+    papilį, nukovė daug žmonių, 78 paėmė  į nelaisvę, o jį sudegino ligi pamatų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

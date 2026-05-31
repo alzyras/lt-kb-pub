@@ -9,6 +9,7 @@ saltiniai:
 datos:
   - '1237 m.'
   - '1246 m.'
+  - '1251 m.'
   - '1262 m.'
   - '1265 m.'
   - '1273 m.'
@@ -100,6 +101,11 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   teiginys: 'Dusburgietis teigia, kad dar apie tą patį Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę ir ją nusiaubė, degindami bei piešdami, daugybę paėmė į nelaisvę ar nukovė, išskyrus keletą tų, kurie su savo šeimyna patraukė link Lietuvos į Gardino pilies apygardą [territorium], o.'
   pagrindžia:
     - c-017
+- t-018
+  teiginys: 'Dusburgietis teigia, kad tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus ir juos išsivarė į nelaisvę.'
+  pagrindžia:
+    - c-020
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -469,24 +475,79 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-011
+- c-020
+  santrauka: 'Dusburgietis teigia, kad tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus ir juos išsivarė į nelaisvę.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Mat velnias, žmonių giminės
+    nedraugas ir tikėjimo priešas, apsigyvenęs jų širdyje, iš neapykantos taikai pakurstė
+    juos dar kartą sukelti maištą ir niekšingai pradėti karą. Jo patarti ir paskatinti, visi,
+    išskyrus ištikimuosius pamedėnus, susimokė dar kartą atsimesti nuo krikščionybės.
+    Tačiau niekas nedrįso viešai broliams priešintis, išskyrus pagudėnus476, kurie ginkluoti
+    užpuolė Elbingo komtūrą ir Helvigą iš Goldbacho, Kristburgo komtūrą477, bei jų padėjėjus
+    ir juos išsivarė į nelaisvę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Bansas]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/asmenys/Divanas]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas Botelis]]
+- [[objektai/asmenys/Henrikas iš Svarcburgo]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/autoriai/K. Būga]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/asmenys/Linkas]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/asmenys/Maudelis]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
 - [[objektai/posakiai/Atėjo baisenybė, kurios bijojau]]
 - [[objektai/asmenys/Auktumas]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
-- [[objektai/asmenys/Divanas]]
 - [[objektai/grupes/Elbingo miestiečiai]]
 - [[objektai/asmenys/Glanda]]
 - [[objektai/asmenys/Glapas]]
 - [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
 - [[objektai/ivykiai/Pagudėnų pavergimas bei didžiosios skerdynės ir krikščionims sugrąžinta taika]]
+- [[objektai/grupes/Pamedėnai]]
 - [[objektai/ivykiai/Pilaitės prie Kristburgo užėmimas ir sunaikinimas]]
 - [[objektai/asmenys/Skomantas (lietuvių vadas)]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
 - [[objektai/posakiai/daug karų buvo kariauta prieš sembų gentį, bet per daug užgaištume, kiekvieną aprašinėdami skyrium]]
 - [[objektai/zodynas/fogtas]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/posakiai/visi būsią išžudyti ir sunaikinti]]
+- [[objektai/ivykiai/Žygis prieš varmius, notangus ir bartus ir brolių žūtis prie būsimos Baigos]]
 - [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]
 - [[objektai/ivykiai/Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas|Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)]]
+- [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
+- [[objektai/asmenys/Kaltis]]
+- [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
+- [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
+- [[objektai/asmenys/Tirskas]]
+- [[objektai/zodynas/bažnyčios visuotinybė]]

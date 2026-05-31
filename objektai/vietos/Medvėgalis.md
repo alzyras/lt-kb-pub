@@ -61,6 +61,10 @@ tags:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: '(^6) SRP, I, 186 p. (^234) II skyrius: valstybės iškilimas Wigando kronikoje pažymi, jog esą daug Medvėgalio srities kil­ mingųjų (« multi pagani maiores ») derėjosi su magistru : «jie visi jam paklustų, jeigu juos apsaugotų nuo karaliaus pykčio ir jėgos.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 
@@ -174,3 +178,26 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-006
+  santrauka: '(^6) SRP, I, 186 p. (^234) II skyrius: valstybės iškilimas Wigando kronikoje pažymi, jog esą daug Medvėgalio srities kil­ mingųjų (« multi pagani maiores ») derėjosi su magistru : «jie visi jam paklustų, jeigu juos apsaugotų nuo karaliaus pykčio ir jėgos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^6) **SRP, I, 186 p.**
+
+
+    (^234) II skyrius: valstybės iškilimas
+    Wigando kronikoje pažymi, jog esą daug Medvėgalio srities kil­
+    mingųjų (« multi pagani maiores ») derėjosi su magistru : «jie visi
+    jam paklustų, jeigu juos apsaugotų nuo karaliaus pykčio ir jėgos,
+    kadangi kitaip jie negalėtų išsigelbėti »^7.
+    Tarp dviejų ilgus metus kariaujančių pusių visada gali nutikti
+    kokių atskirų nuo bendros kovos linijos nukrypimų, gali atsirasti
+    perbėgėlių pas priešą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

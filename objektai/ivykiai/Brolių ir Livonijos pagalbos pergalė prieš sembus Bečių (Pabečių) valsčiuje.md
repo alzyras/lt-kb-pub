@@ -90,3 +90,4 @@ Nenurodyta
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Žirgai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

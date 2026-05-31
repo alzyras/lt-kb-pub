@@ -49,3 +49,7 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]

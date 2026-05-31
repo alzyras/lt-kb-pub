@@ -42,3 +42,11 @@ Tačiau praėjus keletui metų po Mindaugo mirties, 1268-aisiais, popiežius Kle
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/posakiai/„šviesaus atminimo valdovu“]]
+- [[objektai/ivykiai/Durbės mūšis]]
+- [[objektai/ivykiai/Mindaugo nužudymas]]

@@ -9,6 +9,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1348 m.'
+  - '1503 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -17,6 +18,7 @@ periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XIV'
+  - 'XVI'
   - 'XX'
   - 'XXI'
 date_start: '1348'
@@ -80,6 +82,15 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Vis dėlto Jaunutis išsigelbėjo pabėgda­ mas kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių chaną ieškojo prieglobsčio16 .'
+  pagrindžia:
+    - c-011
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsigyveno Pinske.'
@@ -231,3 +242,49 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
+
+    Lietuvos kariuomenės mobilizacija, vadai
+    ir pirmieji susidūrimai
+
+    Staigus totorių įsiveržimas sutrukdė jų
+    veiksmus patyrusių paliestų pavietų ba-
+    jorijai mobilizuotis, o jų mažesnių būrių
+
+    Vilnius Aleksandro valdymo laikais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Vis dėlto Jaunutis išsigelbėjo pabėgda­ mas kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių chaną ieškojo prieglobsčio16 .'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

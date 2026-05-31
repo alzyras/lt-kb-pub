@@ -56,6 +56,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/asmenys/Pranciškus]]
 - [[objektai/autoriai/Pranciškus Skorina]]
 - [[objektai/grupes/Rusėnai]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/zodynas/Adynos|adynos]]

@@ -36,7 +36,10 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
   teiginys: 'Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengti viešas dailės parodas, bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją.'
   pagrindžia:
     - c-002
-
+- t-003
+  teiginys: 'Dailės ir vaizduojamojo meno bei architektūros srityje taip pat pastebėtas draugijų paralelizmas.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvių Dailės Draugija įsikūrė Vilniuje 1907 m.'
@@ -74,9 +77,33 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dailės ir vaizduojamojo meno bei architektūros srityje taip pat pastebėtas draugijų paralelizmas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dailės ir vaizduojamojo me-
+    no bei architektūros srityje taip
+    pat pastebėtas draugijų paraleliz-
+    mas. Lietuviai pirmieji Vilniuje
+    įkūrė Lietuvių dailės draugiją, pra-
+    dėjo rengti viešas dailės parodas,
+    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
+    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
+    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
+    džiama priklausyti ir abiem tuo pat metu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/Žiburys]]
+- [[objektai/ivykiai/Lietuvių dailės draugijos ir Vilniaus dailės draugijos įkūrimas]]
+- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
+- [[objektai/grupes/Vilniaus dailės draugija]]

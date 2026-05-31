@@ -1,0 +1,91 @@
+---
+tipas: vieta
+pavadinimas: 'Akademijos aikštė'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1766 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1766'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - kunigas
+  - miestas
+  - vieta
+---
+# Akademijos aikštė
+
+## Santrauka
+
+C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir. Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.
+
+## Teiginiai
+- t-001
+  teiginys: 'C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.'
+  pagrindžia:
+    - c-002
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­ nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, - kolegijos sienų, iš trečio ir.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    buvo paskelbta Maloningosios Dievo Motinos brolijos įkū­
+    rimas ir kunigo Petro Skargos suteikta promocija sujungta
+    175
+
+    ## Puslapis 192
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    su Dievo Kūno arkibrolija; funduota buvo sekant Romos mon­
+    tium pietatis pavyzdžiu, kur turtai būdavo kaupiami varguo­
+    lių ir prieglaudų dėlei, tačiau šito ir pėdsakų jau nebelikę.
+    C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą
+    Mokyklos, Iždo, Knygyno bei kitos paskirties pastatais
+    Akademijos aikštė - netaisyklingas ketvirtainis, iš vie­
+    nos pusės išsišaunančios bažnyčios, iš kitos, nuo vartų, -
+    kolegijos sienų, iš trečio ir ketvirto šono - mokymosi patal­
+    pų kolonadomis apsiausta, ištisai visa išgrįsta smulkiais ak­
+    menimis.
+    Įėjus pro didžiuosius bažnyčios vartus, kairėje pusėje, prie
+    bokšto alias varpinės, Akademijos visuotinių iškilmių salė,
+    pailgos formos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­
+    telioniene 1766 metais Akademijos observatorijos įkūrimui,
+    prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­
+    donųjų auksinų.
+    Akademijos keturkampės aikštės klasių vieną eilę tėvas
+    Riokuras, jėzuitas, davęs apie 20 000 auksinų, o kitą klasių ir
+    viešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie
+    100 000 auks. lėšų, prie Akademijos aikštės dar kai kuriuos
+    funduotus mūrus prijungę, puikiai apstatydino ir išpuošė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

@@ -59,4 +59,5 @@ Stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio b�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/daiktai/Gintaras]]

@@ -73,6 +73,10 @@ Nenurodyta
   teiginys: 'Nurodydamas eilę pavyzdžių, kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­ pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: '«ordines », vaini­ kuojamas karaliumi ir patepamas šventais aliejais^10 , tai tokio naujo, kaip tada nuolat sakyta, «iš Dievo malonės », krikščioniško valdovo pareiga buvo prisidėti platinti Kristaus karalystę žemėje.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -164,3 +168,29 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '«ordines », vaini­ kuojamas karaliumi ir patepamas šventais aliejais^10 , tai tokio naujo, kaip tada nuolat sakyta, «iš Dievo malonės », krikščioniško valdovo pareiga buvo prisidėti platinti Kristaus karalystę žemėje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    «ordines », vaini­
+    kuojamas karaliumi ir patepamas šventais aliejais^10 , tai tokio
+    naujo, kaip tada nuolat sakyta, «iš Dievo malonės », krikščioniško
+    valdovo pareiga buvo prisidėti platinti Kristaus karalystę žemėje.
+    Pačios karūnavimo apeigos skaitėsi sakramentu. Tad ir karališkoji
+    diadema turėjo ypatingos sakralinės reikšmės : ji įpareigojo ne tik
+    tikėjimą skleisti, bet dar ir pačią Bažnyčią ginti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Baptista Cigala]]
+- [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]

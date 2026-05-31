@@ -79,6 +79,23 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tiesiog vagia.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Viskas sugrįžo į senąją būklę, o kai kuriais atžvilgiais valstybių atskirumas net dar padidėjo; pav., Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Čia jis kurį laiką dirbo Edukacinėje teismo ko­ misijoje, aktyviai bendradarbiavo Vilniaus periodinėje spaudo­ je rašydamas švietėjiško - pažintinio pobūdžio straipsnius ir fel­ jetonus.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Ypač negailestingos jo kritikos susilaukė jė­ zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės komisijos veikla.'
+  pagrindžia:
+    - c-012
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Edukacinė Komisija perėmė panaikinto jėzuitų ordino mokyklas ir ėmė rūpintis visu švietimu.'
@@ -202,9 +219,81 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-009
+  santrauka: 'Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tiesiog vagia.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
+    biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
+    siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
+    turtai pavesti Edukacinei Komisijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Viskas sugrįžo į senąją būklę, o kai kuriais atžvilgiais valstybių atskirumas net dar padidėjo; pav., Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-
+    giais valstybių atskirumas net dar padidėjo; pav., Targovicos
+    konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
+    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
+    Lietuvos ir Lenkijos komisijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Čia jis kurį laiką dirbo Edukacinėje teismo ko­ misijoje, aktyviai bendradarbiavo Vilniaus periodinėje spaudo­ je rašydamas švietėjiško - pažintinio pobūdžio straipsnius ir fel­ jetonus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jaunavedžiai
+    gyveno Vilniuje. Čia jis kurį laiką dirbo Edukacinėje teismo ko­
+    misijoje, aktyviai bendradarbiavo Vilniaus periodinėje spaudo­
+    je rašydamas švietėjiško - pažintinio pobūdžio straipsnius ir fel­
+    jetonus. Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
+    rinkti su miesto istorija susijusius dokumentus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Ypač negailestingos jo kritikos susilaukė jė­ zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės komisijos veikla.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , daugelį jos istorijos įvykių jis verti­
+    na kaip švietėjas. Ypač negailestingos jo kritikos susilaukė jė­
+    zuitų ordino veikla XVII-XVIII a., pagyrimo - Edukacinės
+    komisijos veikla.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]
 - [[objektai/grupes/Pijarų ordinas]]
 - [[objektai/grupes/Vyriausioji Lietuvos Mokykla]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/autoriai/Mykolas Balinskis]]
+- [[objektai/grupes/Targovicos konfederacija]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/grupes/Jėzuitų ordinas]]
+- [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Dalomoji Komisija]]

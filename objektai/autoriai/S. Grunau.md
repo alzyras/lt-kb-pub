@@ -72,5 +72,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]
 - [[objektai/daiktai/Dievų trejybės stabai]]
 - [[objektai/daiktai/Šventasis ąžuolas]]

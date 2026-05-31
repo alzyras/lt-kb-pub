@@ -53,3 +53,5 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/Antisemitizmas]]
+- [[objektai/paprociai/Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis]]

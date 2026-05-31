@@ -68,3 +68,4 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]
+- [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]

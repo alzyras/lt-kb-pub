@@ -70,3 +70,7 @@ tags:
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Varmiai]]

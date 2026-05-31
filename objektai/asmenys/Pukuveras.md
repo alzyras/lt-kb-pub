@@ -103,3 +103,4 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/vergai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lenkai]]

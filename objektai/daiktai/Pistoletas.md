@@ -67,9 +67,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/daiktai/Pistoletas Browning HP (Hi-Power)]]
 - [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18]]
 - [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40]]
+- [[objektai/daiktai/Vokiškas pistoletas Walther P38]]
+- [[objektai/daiktai/Vokiškas pistoletas Walther pp]]
 - [[objektai/daiktai/Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/ATAS]]

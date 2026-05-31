@@ -14,6 +14,8 @@ periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
+  - 'XVI'
+  - 'XVII'
   - 'XX'
   - 'XXI'
 date_start: '1936'
@@ -51,6 +53,14 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   teiginys: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Dusburgietis teigia, kad kaip ir anksčiau mūsų minėtas (Henriko iš Hohenlohės) taip ir šis „Pranešimas...“ aptiktas Vokiečių ordino archyve Vienoje, XVI a.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -135,3 +145,32 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
+    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
+    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Dusburgietis teigia, kad kaip ir anksčiau mūsų minėtas (Henriko iš Hohenlohės) taip ir šis „Pranešimas...“ aptiktas Vokiečių ordino archyve Vienoje, XVI a.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kaip ir anksčiau mūsų minėtas
+    (Henriko iš Hohenlohės) taip  ir šis „Pranešimas...“ aptiktas Vokiečių ordino archyve
+    Vienoje, XVI a. pradžios kodekse, parašytame Ordino archyvo Prūsijoje medžiagos
+    pagrindu.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

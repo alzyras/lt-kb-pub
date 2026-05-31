@@ -53,6 +53,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad sitai padaręs, magistras kitą dieną su savo kariuomene įsibrovė į Sūduvos valsčių, vardu Kimenava, ir taip smarkiai užpuolė to pat vardo pilį513, kad pilėnai netruko ją atiduoti sulygę, jog jiems bus leista netrukdomiems iš čia išeiti su visa manta.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­ mą Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią tikėjimo priešus.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -113,6 +117,27 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Dusburgietis teigia, kad apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­ mą Tuo metu tas pats brolis Konradas, magistras, rūpindamasis jam patikėtomis pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią tikėjimo priešus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Kimenavos pilies paėmimą ir tūkstančio šešių šimtų sūduvių atsiverti­
+                               mą
+
+      Tuo metu  tas  pats  brolis Konradas,  magistras, rūpindamasis jam  patikėtomis
+    pareigomis, ne vieną naktį praleido be miego, svarstydamas, kaip atvesti į tiesos kelią
+    tikėjimo priešus sūduvius. Siekdamas šio tikslo, subūrė daug brolių bei kitų karių;
+    kai traukė link Sūduvos, jį pasitiko brolis Liudvikas iš Libencelės, atsivedęs drauge su
+    savimi Kantigirdą, kurio kitados buvo paimtas į nelaisvę, ir tūkstantį šešis šimtus abiejų
+    lyčių sūduvių, kuriuos, būdamas nelaisvėje, atvertė  į Kristaus tikėjimą. Juos išvydęs,
+    magistras labai nudžiugo ir įsakė jiems žygiuoti link Sembos žemės512.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -120,3 +145,5 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Kantigirdas]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]]
+- [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

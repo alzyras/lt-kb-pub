@@ -224,3 +224,15 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ietis]]
+- [[objektai/grupes/Kazokai]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/daiktai/Šarvai]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]

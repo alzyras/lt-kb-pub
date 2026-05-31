@@ -136,6 +136,62 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginys: 'Kavarskas buvo nutolęs nuo Ukmergės per keturias mylias, o nuo Vilniaus per penkiolika mylių.'
   pagrindžia:
     - c-021
+- t-022
+  teiginys: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Čia prisijungė Livonijos magistro kariuomenė ir šios jungtinės pajėgos „Užnerio puse“ žygiavo į Vilkmergę (Ukmergę).'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, kariuomenės vadovybė įsakė tolimesnį puolimą sustabdyti, kad išsilygintų fronto linija.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: 'Ilgai Švitrigaila drumstė šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­ gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­ tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė netoli Ukmergės užbaigė šių dviejų, Lietuvai gal.'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: 'Priešininkas, persekio­ jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­ tosios upę ties Ukmerge, kur buvo nuskandinta labai daug jo kareivių.'
+  pagrindžia:
+    - c-029
+- t-030
+  teiginys: 'Ji stai­ ga įsiveržė Lietuvon ir nuteriojo Ukmergės sritį.'
+  pagrindžia:
+    - c-030
+- t-031
+  teiginys: 'Vy­ tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­ no), Ukmergės ir Kulvos srityse.'
+  pagrindžia:
+    - c-031
+- t-032
+  teiginys: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  pagrindžia:
+    - c-032
+- t-033
+  teiginys: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
+  pagrindžia:
+    - c-033
+- t-034
+  teiginys: '21, 125, 159, 198, 213, 225, 239-242, 263-266, 313, 321 ; Tverės kautynės 184 ; Tverės metraščiai 168 (^408) VARDYNAS Tveriškė Julijona, Algirdo žmona 259 Tvirbutas, bajoras 368 Ugra, upė 321, 322 Ugros taika 371 Ukmergė, ir pilis 197, 233, 245, 289, 307, 340.'
+  pagrindžia:
+    - c-034
+- t-035
+  teiginys: 'Ladygos vadovaujamai Ukmergės rinktinei žygiuoti UkmergėsDaugpilio plentu ir užimti Uteną.'
+  pagrindžia:
+    - c-035
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -547,3 +603,289 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-021
+- c-022
+  santrauka: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    jis sukvietė visus savo sąjungininkus
+    — Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė
+    į didelį žygį. Bet, pasiekus Šventąją, netoli Ukmergės (ties Pa-
+    baisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama
+    lietuvių ir į pagalbą atėjusių lenkų kariuomenė. Mūšį pralai-
+    mėjo Švitrigaila.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pijarai, niekuo daugiau neužsiimdami,
+    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
+    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
+    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
+    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
+    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
+    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
+
+    #### 6.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Švietimui padėjo lenkų kultūros organiza-
+    cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
+    gaudavusios pinigų iš Lenkijos. Jos rėmė lenkų pradines mokyklas ir Lie-
+    tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane-
+    vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų
+    mokyklų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Čia prisijungė Livonijos magistro kariuomenė ir šios jungtinės pajėgos „Užnerio puse“ žygiavo į Vilkmergę (Ukmergę).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Prieš mūšį
+
+    Žygiui į Lietuvą kunigaikštis Švitrigaila
+    savo ir pavaldžių rusų kunigaikščių pa-
+    jėgas sutelkė Vitebske, iš kur patraukė į
+    Breslaują. Čia prisijungė Livonijos ma-
+    gistro kariuomenė ir šios jungtinės pajė-
+    gos „Užnerio puse“ žygiavo į Vilkmergę
+    (Ukmergę). Toliau planavo pulti Trakų -
+    Vilniaus kryptimi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Buvo sukurtas
+    generalinis Lietuvos teritorijos nuo bolše-
+    vikų pajėgų išvadavimo planas. Ukmergės
+    rinktinė turėjo veržtis Ukmergės-Utenos-
+    Zarasų kryptimi, Panevėžio rinktinė -
+    Kėdainių-Panevėžio-Rokiškio kryptimi.
+
+    Atskirojo Joniškėlio partizanų, kitaip
+    vadinamojo mirties bataliono kariai
+
+    ## Puslapis 181
+
+    | 1881 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, kariuomenės vadovybė įsakė tolimesnį puolimą sustabdyti, kad išsilygintų fronto linija.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Paberžė.
+
+    Po mūšio
+    Kadangi Ukmergės rinktinė buvo per daug
+    išsiveržusi į priekį, kariuomenės vadovybė
+    įsakė tolimesnį puolimą sustabdyti, kad
+    išsilygintų fronto linija. Panevėžio rinktinė
+    nuo Ukmergės buvo atsilikusi apie 20 km.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Ilgai Švitrigaila drumstė šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­ gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­ tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė netoli Ukmergės užbaigė šių dviejų, Lietuvai gal.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Naudodamasis visuotine neapykanta, kurią per sa­
+    vo žiaurumą Lietuvoje buvo užsitraukęs Žygimantas, mi­
+    nėtas kunigaikštis tolydžio kėsinosi išplėšti iš jo valdžią ir į
+    šį kraštą kreipė įvairias totorių ir rusų ordas, todėl per visą
+    Žygimanto valdymo laiką Lietuva nepaliaujamai buvo nio­
+    kojama ir saviškių, ir svetimšalių. Ilgai Švitrigaila drumstė
+    šios nelaimingos žemės ramybę, kol pagaliau lemtinga Žy­
+    gimanto sūnaus kunigaikščio Mykolo, vedusio lenkų ir lie­
+    tuvių pulkus prieš Švitrigailą ir Livonijos magistrą, pergalė
+    netoli Ukmergės užbaigė šių dviejų, Lietuvai gal vienodai
+    pragaištingų konkurentų, varžybas. Tas įsimintinas mūšis
+    20
+    Kotzebue Switrigail, p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: 'Priešininkas, persekio­ jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­ tosios upę ties Ukmerge, kur buvo nuskandinta labai daug jo kareivių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Čia
+    žuvo daugybė livoniečių, tarp jų - Frankas Kirskorffas, Ka­
+    lavijuočių riterių ordino magistras. Priešininkas, persekio­
+    jamas nugalėtojų, naują nesėkmę patyrė brastoje per Šven­
+    tosios upę ties Ukmerge, kur buvo nuskandinta labai daug
+    jo kareivių. Čekų ir Silezijos savanorių vadai ir, gražiausia,
+    Jaroslavas Lingumas*, Mstislavlio kunigaikštis, pateko į ne­
+    laisvę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-030
+  santrauka: 'Ji stai­ ga įsiveržė Lietuvon ir nuteriojo Ukmergės sritį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    Ordino kariuomenė tuo pačiu laiku veikė ir ginklu. Ji stai­
+    ga įsiveržė Lietuvon ir nuteriojo Ukmergės sritį. Sujungtos Jo­
+    gailos ir Skirgailos kariuomenės gavo smūgį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-031
+  santrauka: 'Vy­ tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­ no), Ukmergės ir Kulvos srityse.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Prie jų atvykęs Vallenrodas, rado tik pelenų krūvą. Vy­
+    tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­
+    no), Ukmergės ir Kulvos srityse. Po užgrobimo poros nežymių
+    pilaičių, didžiulei Vallenrodo kariuomenei, kuri taip smarkiai
+
+    (^1) ) Apie Konradą Vallenrodą, kuris Lietuvos istorijoje yra gana po­
+    puliarus ir minimas A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-032
+  santrauka: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    vyres­
+    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
+    valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+- c-033
+  santrauka: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jogaila važinėjo ir
+    kitur, įsakydamas mesti pagonybę. Tada buvo įkurtos ir pirmosios
+    septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
+    kuose, Kriave, Ainoje, Obolcuose^15. Jeigu tarp pirmųjų parapijų
+    neminimi Trakai ir Kaunas, yra ženklas, kad ten iš anksčiau tu­
+
+    ```
+    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS 289
+    ```
+    (^11) **Plg.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-034
+  santrauka: '21, 125, 159, 198, 213, 225, 239-242, 263-266, 313, 321 ; Tverės kautynės 184 ; Tverės metraščiai 168 (^408) VARDYNAS Tveriškė Julijona, Algirdo žmona 259 Tvirbutas, bajoras 368 Ugra, upė 321, 322 Ugros taika 371 Ukmergė, ir pilis 197, 233, 245, 289, 307, 340.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    91, 167, 169, 210
+    Tureiskas 201
+    Turkija 23
+    Turovas 225, 242, 245, 297
+    Tverai Žemaičiuose, 171
+    Tverca, upė 158
+    Tverė (Kalininas), kng-ja ir kng. 21,
+    125, 159, 198, 213, 225, 239-242,
+    263-266, 313, 321 ; Tverės kautynės
+    184 ; Tverės metraščiai 168
+    ```
+
+    (^408) VARDYNAS
+    **Tveriškė Julijona, Algirdo žmona
+    259
+    Tvirbutas, bajoras 368
+    Ugra, upė 321, 322
+    Ugros taika 371
+    Ukmergė, ir pilis 197, 233, 245, 289,
+    307, 340
+    Ukraina 88, 89, 99, 150
+    Ula, upė 95
+    Upytė 108, 130
+    Upmale 183
+    Urachas-Mindaugas II 176
+    Uralas 96
+    Urbanavičius V.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-035
+  santrauka: 'Ladygos vadovaujamai Ukmergės rinktinei žygiuoti UkmergėsDaugpilio plentu ir užimti Uteną.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1919 m. gegužės 24 d. vyriausiasis
+    kariuomenės vadas gen. S. Žukauskas įsakė
+    karin. K. Ladygos vadovaujamai Ukmergės
+    rinktinei žygiuoti Ukmergės- Daugpilio
+    plentu ir užimti Uteną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035

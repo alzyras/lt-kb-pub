@@ -132,6 +132,15 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-021
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-019
+  teiginys: 'Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos.'
+  pagrindžia:
+    - c-022
+- t-020
+  teiginys: 'Tad turėjo laiko įgyti ir tobulinti savo laisves, bemaž prilygstančias laisviausiems Hanzos lygos miestams.'
+  pagrindžia:
+    - c-023
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'XIII amžiuje šiaurinės Europos prekybą į savo rankas perėmė vokiečių miestų sąjunga, vadinama Hanza.'
@@ -421,6 +430,44 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-022
+  santrauka: 'Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga
+    aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikė-
+    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.“ Nors
+    Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
+    ji dažnai laikoma Rytų Europos dalimi. Tokiais atvejais turima galvoje ne
+    tiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-023
+  santrauka: 'Tad turėjo laiko įgyti ir tobulinti savo laisves, bemaž prilygstančias laisviausiems Hanzos lygos miestams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Įsikūrusių toliau šiaurėje mongolų
+    antpuoliai jų ne tik nepalietė taip, kaip visos Rusios, bet ir nelei­
+    do įsigalėti jokiems smulkiems kunigaikščiams, valdžiusiems sa­
+    vo teritorijas, išsekintiems tarpusavio vaidų ir totorių atakų. Tad
+    turėjo laiko įgyti ir tobulinti savo laisves, bemaž prilygstančias
+    laisviausiems Hanzos lygos miestams.
+    Ne mažiau svarbi priežastis, lėmusi menką miestiečių luomo
+    reikšmę Lietuvoje, buvo tame krašte ilgai užsilikusi pagonybė, o
+    podraug šalinimasis nuo visos Europos, kuri jau keturis amžius
+    buvo krikščioniška, išskyrus Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Susiję objektai
@@ -435,3 +482,12 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - [[objektai/zodynas/lėnininkai]]
 - [[objektai/zodynas/pirklių kontora]]
 - [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/zodynas/pilgrimai]]

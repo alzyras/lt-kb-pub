@@ -53,5 +53,6 @@ Dusburgietis teigia, kad kunigaikščio kariaunos vadas susigrūmė su broliu Fr
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/ginklanešiai]]

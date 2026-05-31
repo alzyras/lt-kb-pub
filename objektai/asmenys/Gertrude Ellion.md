@@ -50,7 +50,15 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Bernardas]]
+- [[objektai/asmenys/Christiaan Barnard]]
+- [[objektai/asmenys/David Baltimore]]
+- [[objektai/grupes/Litvakai]]
+- [[objektai/asmenys/Louis Washkansky]]
+- [[objektai/asmenys/Marcinkevičius]]
 - [[objektai/asmenys/Sydney Brenner]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/asmenys/Aaron Klug]]
+- [[objektai/asmenys/Bernard Lown]]
 - [[objektai/asmenys/Bernardas Berensonas]]

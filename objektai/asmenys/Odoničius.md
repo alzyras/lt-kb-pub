@@ -83,4 +83,7 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 - [[objektai/asmenys/Brunonas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
 - [[objektai/asmenys/Samboras]]
+- [[objektai/asmenys/Sventopelkas]]

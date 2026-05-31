@@ -58,3 +58,4 @@ Pasiruošimas operacijai Įvertinusi situaciją vyriausioji Lietuvos karinė vad
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/K. Ladyga]]
+- [[objektai/grupes/brigada]]

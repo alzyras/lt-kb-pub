@@ -49,6 +49,10 @@ Nenurodyta
   pagrindžia:
     - c-002
     - c-004
+- t-003
+  teiginys: 'Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu Vaistotpilis389.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -124,6 +128,23 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
+- c-005
+  santrauka: 'Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu Vaistotpilis389.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
+
+      Toje pačioje Bartos žemėje, Gubros pakrantėje, pasak kai kurių, broliai turėjo pilį, vardu
+    Vaistotpilis389. Šios pilies broliai vieną dieną persekiojo prūsų kariuomenę, apiplėšusią
+    ten du kaimus. Vis dėlto prūsai, pasprukę nuo jiems ten paspęstų spąstų, nužudė šešis
+    brolius bei daugybę krikščionių.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

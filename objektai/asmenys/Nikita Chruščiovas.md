@@ -66,5 +66,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/rusinimas dvikalbystė]]

@@ -58,3 +58,6 @@ Andrius : Kng.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
+
+### Susiję objektai
+- [[objektai/grupes/Radvilos]]

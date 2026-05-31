@@ -114,4 +114,6 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Antantė]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/ivykiai/Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.)]]
+- [[objektai/zodynas/neutralizacija]]

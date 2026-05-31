@@ -69,5 +69,6 @@ Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/brigada]]
 - [[objektai/zodynas/demobilizacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

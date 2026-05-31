@@ -75,3 +75,4 @@ tags:
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/autoriai/Isaac Taylor]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

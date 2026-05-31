@@ -117,3 +117,4 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuvos bajorija]]

@@ -74,3 +74,17 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Chaim Soutin]]
+- [[objektai/daiktai/Gintaras]]
+- [[objektai/asmenys/Jascha Heifetz]]
+- [[objektai/asmenys/Victor David Brenner]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Donatas Katkus]]
+- [[objektai/asmenys/Gintaras Rinkevičius]]
+- [[objektai/asmenys/Jurgis Mačiūnas]]
+- [[objektai/asmenys/Saulius Sondeckis]]
+- [[objektai/asmenys/Violeta Urmana]]
+- [[objektai/posakiai/„idealiąją Lietuvą“]]

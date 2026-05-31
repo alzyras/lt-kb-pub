@@ -70,5 +70,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/daiktai/Vokiškojo tipo alebarda]]

@@ -48,3 +48,6 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]

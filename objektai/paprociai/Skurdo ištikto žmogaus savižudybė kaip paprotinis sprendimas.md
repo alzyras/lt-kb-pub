@@ -84,3 +84,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
+- [[objektai/paprociai/Kraujo keršto paprotys po žmogžudystės]]

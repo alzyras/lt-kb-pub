@@ -85,5 +85,8 @@ Nenurodyta
 - [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/brigada]]
 - [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]

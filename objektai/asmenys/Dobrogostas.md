@@ -50,6 +50,10 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   teiginys: '1389 m. pabaigoje Dobrogostas kaip Urbono VI pasiuntinys Vilniuje paskelbė bulę dėl Vilniaus katedros ir vyskupijos.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Netrukus Poznanės vys­ kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­ piežių išprašyti bulės, patvirtinančios naujo ganytojo išrinkimą ir Vilniaus vyskupijos fundaciją.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -133,9 +137,40 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Netrukus Poznanės vys­ kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­ piežių išprašyti bulės, patvirtinančios naujo ganytojo išrinkimą ir Vilniaus vyskupijos fundaciją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O keturi naujai įvesti prelatų ir aštuoni kanauninkų
+    titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
+    tiems Lietuvoje Kristaus tikėjimą. Netrukus Poznanės vys­
+    kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­
+    piežių išprašyti bulės, patvirtinančios naujo ganytojo
+    išrinkimą ir Vilniaus vyskupijos fundaciją. Karalius tuoj pat
+    aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
+    klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam
+    bet ir kai kuriais padavimais ar
+    užuominomis, kurias aptikau Vil­
+    niaus kapitulos ar Karaliauč.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/zodynas/brevė]]
 - [[objektai/zodynas/gurguolė]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/zodynas/klebonija]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/zodynas/fundacija]]
+- [[objektai/zodynas/prelatai ir kanauninkai]]

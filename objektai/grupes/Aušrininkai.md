@@ -58,6 +58,10 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Ap­ skritai šios asmenybės stovėjo prie Vilniaus ir urbanistinės Lietuvos istorijos ištakų, jų kūrybinį palikimą plačiai naudojo lietuvių nacionalinio judėjimo dalyviai - aušrininkai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 
@@ -116,7 +120,33 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-002
+- c-004
+  santrauka: 'Ap­ skritai šios asmenybės stovėjo prie Vilniaus ir urbanistinės Lietuvos istorijos ištakų, jų kūrybinį palikimą plačiai naudojo lietuvių nacionalinio judėjimo dalyviai - aušrininkai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kraševskio Vilniaus
+    istorijos pasitarnavo Lietuvos istoriografijai ne tik gausia fakti­
+    ne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų is-
+    torinio-geografinio, o ne nacionalinio, tautos supratimo". Ap­
+    skritai šios asmenybės stovėjo prie Vilniaus ir urbanistinės
+    Lietuvos istorijos ištakų, jų kūrybinį palikimą plačiai naudojo
+    lietuvių nacionalinio judėjimo dalyviai - aušrininkai. Nors M.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aušrininkų organizacija]]
+- [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/asmenys/J. Basanavičius]]
+- [[objektai/autoriai/Kraševskis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/istorinė Lietuva]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/tautinis atgimimas]]
+- [[objektai/autoriai/S. Daukantas]]

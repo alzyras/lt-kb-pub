@@ -63,3 +63,4 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
 ### Susiję objektai
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]

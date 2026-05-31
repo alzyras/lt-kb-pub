@@ -94,4 +94,5 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/asmenys/Birutė]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Patirgas]]
 - [[objektai/asmenys/Ringailė]]

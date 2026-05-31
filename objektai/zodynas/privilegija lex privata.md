@@ -65,5 +65,7 @@ Tai buvo vadinamosios privilegijos (lex privata). Lietuvoje, įvedus krikščion
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/zodynas/luomas]]

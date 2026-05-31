@@ -59,5 +59,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalvinai]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Kristupas Radvila]]
+- [[objektai/asmenys/Radvila (maršalka)]]

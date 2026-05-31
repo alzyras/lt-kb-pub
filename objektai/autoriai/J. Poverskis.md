@@ -259,3 +259,14 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/zodynas/krašto magistras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/daiktai/Šventasis ąžuolas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Kristijono kryžiaus žygio įteisinimas ir įvykdymas]]
+- [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]

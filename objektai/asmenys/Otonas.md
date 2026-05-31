@@ -58,4 +58,8 @@ Dusburgietis teigia, kad apie brolį Otoną, antrą magistrą Antras magistras b
 - [[objektai/asmenys/Ditrichas iš Ezbeko]]
 - [[objektai/asmenys/Otonas iš Bergo]]
 - [[objektai/asmenys/Otonas iš Cedlico]]
+- [[objektai/ivykiai/Pieštvės pilėnų apiplėšimas (1294 m.)]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/ginklanešys]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]
 - [[objektai/ivykiai/Braunšveigo kunigaikščio Otono atvykimas į Prūsiją]]

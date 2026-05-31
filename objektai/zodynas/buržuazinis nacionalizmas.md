@@ -52,3 +52,8 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vilniaus universiteto Lietuvių literatūros katedra]]

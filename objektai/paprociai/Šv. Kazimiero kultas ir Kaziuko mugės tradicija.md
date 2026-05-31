@@ -66,3 +66,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Šv. Stanislovas]]

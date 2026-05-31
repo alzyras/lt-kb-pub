@@ -9,6 +9,9 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "2007 m. lietuviško leidimo vertimo kontekstas"
+vaidmenys:
+  - vertėja
+susije_irasai: []
 datos:
   - '2007 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
@@ -18,9 +21,6 @@ amziai:
   - 'XXI'
 date_start: '2007'
 date_end: ''
-vaidmenys:
-  - vertėja
-susije_irasai: []
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags:
@@ -39,7 +39,10 @@ Jūratė Dalia Baronienė nurodyta kaip „Vilniaus miesto istorijos“ vertėja
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '2007.LT ## Puslapis 1 [tuščias arba OCR reikalingas puslapis] ## Puslapis 2 [tuščias arba OCR reikalingas puslapis] ## Puslapis 3 Iš lenkų kalbos vertė Ona Slavėnaitė, Irena Katilienė Iš lotynų kalbos vertė Jūratė Dalia Baronienė MINTIS ## Puslapis 4 UDK 947.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Jūratė Dalia Baronienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.'
@@ -78,9 +81,46 @@ Jūratė Dalia Baronienė nurodyta kaip „Vilniaus miesto istorijos“ vertėja
   patikimumo_pagrindimas: "Leidinio teisių įrašas tiesiogiai patvirtina vertimą ir metus."
   pagrindžia:
     - t-001
+- c-003
+  santrauka: '2007.LT ## Puslapis 1 [tuščias arba OCR reikalingas puslapis] ## Puslapis 2 [tuščias arba OCR reikalingas puslapis] ## Puslapis 3 Iš lenkų kalbos vertė Ona Slavėnaitė, Irena Katilienė Iš lotynų kalbos vertė Jūratė Dalia Baronienė MINTIS ## Puslapis 4 UDK 947.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    2007.LT
+
+    ## Puslapis 1
+
+    [tuščias arba OCR reikalingas puslapis]
+
+    ## Puslapis 2
+
+    [tuščias arba OCR reikalingas puslapis]
+
+    ## Puslapis 3
+
+    Iš lenkų kalbos vertė
+    Ona Slavėnaitė,
+    Irena Katilienė
+    Iš lotynų kalbos vertė
+    Jūratė Dalia Baronienė
+    MINTIS
+
+    ## Puslapis 4
+
+    UDK 947.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuvos Respublikos kultūros ministerija]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/grupes/MINTIS]]

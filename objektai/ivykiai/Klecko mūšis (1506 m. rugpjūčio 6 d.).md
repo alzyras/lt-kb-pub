@@ -21,13 +21,17 @@ dalyviai:
   - 'vietiniai gyventojai'
 susije_irasai: []
 datos:
+  - '1500 m.'
+  - '1503 m.'
   - '1506 m.'
 periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
+periodo_grupes:
+  - 'LDK'
 amziai:
+  - 'XV'
   - 'XVI'
-date_start: '1506'
-date_end: ''
+date_start: '1500'
+date_end: '1506'
 patikimumas: 'aukstas'
 atnaujinta: '2026-05-02'
 tags:
@@ -86,6 +90,14 @@ Nenurodyta
   teiginys: '[...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.'
   pagrindžia:
     - c-006
+- t-012
+  teiginys: 'Kita vertus, Klecko mūšis buvo pirmoji stambi lietuvių pergalė po skaudaus pralaimėjimo prieš rusus Vedrošos kautynėse ir pirmoji pergalė prieš ilgai Lietuvos žmones kamavusius Krymo totorius apskritai.'
+  pagrindžia:
+    - c-007
+- t-013
+  teiginys: 'Be to, Bychoveco kronikoje esančiame pasakojime apie Klecko mūšį galima atpažinti krikščionių kovos su kitatikiais motyvus: totoriai — „pagonijos“ atstovai, o pati pergalė prieš juos reiškė „neapsakomą Dievo gailestingumą Lietuvos Didžiajai Kunigaikštystei ir.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -201,8 +213,65 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-007
+  santrauka: 'Kita vertus, Klecko mūšis buvo pirmoji stambi lietuvių pergalė po skaudaus pralaimėjimo prieš rusus Vedrošos kautynėse ir pirmoji pergalė prieš ilgai Lietuvos žmones kamavusius Krymo totorius apskritai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kita vertus, Klecko mūšis buvo pirmoji
+
+    stambi lietuvių pergalė po skaudaus pralai-
+
+    mėjimo prieš rusus Vedrošos kautynėse ir
+    pirmoji pergalė prieš ilgai Lietuvos žmones
+
+    kamavusius Krymo totorius apskritai. Ši
+    pergalė buvo pasiekta po didelių teritorinių
+    nuostolių, kuriuos Lietuva patyrė Rusijos
+    naudai 1500-1503 m. kare.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-008
+  santrauka: 'Be to, Bychoveco kronikoje esančiame pasakojime apie Klecko mūšį galima atpažinti krikščionių kovos su kitatikiais motyvus: totoriai — „pagonijos“ atstovai, o pati pergalė prieš juos reiškė „neapsakomą Dievo gailestingumą Lietuvos Didžiajai Kunigaikštystei ir.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Bychoveco kro-
+    nikos minimas „neapsakomas džiaugsmas
+    ir linksmybė“ kaip tik ir perteikia tą ūpo pa-
+    kilimą, kuris leido toliau kovoti ir nepalūžti.
+    Be to, Bychoveco kronikoje esančiame pa-
+    sakojime apie Klecko mūšį galima atpažinti
+    krikščionių kovos su kitatikiais motyvus:
+    totoriai — „pagonijos“ atstovai, o pati pergalė
+    prieš juos reiškė „neapsakomą Dievo gailes-
+    tingumą Lietuvos Didžiajai Kunigaikštystei
+    ir neišreiškiamą musulmonų giminės kraujo
+    praliejimą.“ Vėlesnių kartų atmintyje Klec-
+    ko mūšis išliko kaip sektinas pavyzdys, pa-
+    siekęs epinės kovos mastus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Lankai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/kitatikiai]]
+- [[objektai/daiktai/Žirgai]]
+- [[objektai/autoriai/Auksė Ūsienė]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/autoriai/Vytautas Lesčius]]

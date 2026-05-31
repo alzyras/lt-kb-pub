@@ -80,3 +80,6 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
 ### Susiję objektai
 - [[objektai/grupes/Bartai]]
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Pagudėnai]]

@@ -72,7 +72,18 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   teiginys: 'Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.'
   pagrindžia:
     - c-008
-
+- t-009
+  teiginys: 'Ten buvo pradėta rūpintis liaudim, kuriai buvo spausdinamos lietuviškos protestantiškos knygos.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: ') L I E T U V O S I S T O R I J A 118 griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į Lietuvą nesustabdė.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: '), plėtojosi meno saviveikla, buvo kuriami chorai, JAV lietuviai finansiškai rėmė Lietuvos kultūrinį gyvenimą, rengė politines akcijas, atkreipdami dėmesį į tautinius suvaržymus Rusijos imperijoje.'
+  pagrindžia:
+    - c-011
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Daugelis lietuviškų raštų autorių buvo kilę iš Didžiosios Lietuvos ir joje skleidė protestantizmą.'
@@ -208,3 +219,63 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Ten buvo pradėta rūpintis liaudim, kuriai buvo spausdinamos lietuviškos protestantiškos knygos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ten buvo pradėta rūpintis liaudim, ku-
+    riai buvo spausdinamos lietuviškos protestantiškos knygos. Jas
+    rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
+    lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
+    buvo skleidę protestantizmą. Bet vis dėlto svarbiausi protestan-
+
+
+    tizmo skleidėjai Lietuvoje buvo didikai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: ') L I E T U V O S I S T O R I J A 118 griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į Lietuvą nesustabdė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    )
+
+    L I E T U V O S  I S T O R I J A
+    118
+    griežčiau, nei slaptų mokyklų mokytojus, lietuviškos spaudos srauto į
+    Lietuvą nesustabdė. Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose
+    išleista daugiau kaip 1 800 pavadinimų lietuviškų knygų, skirtų platin-
+    ti Didžiojoje Lietuvoje bendru 6 mln. egzempliorių tiražu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: '), plėtojosi meno saviveikla, buvo kuriami chorai, JAV lietuviai finansiškai rėmė Lietuvos kultūrinį gyvenimą, rengė politines akcijas, atkreipdami dėmesį į tautinius suvaržymus Rusijos imperijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ), plėtojosi meno saviveikla,
+    buvo kuriami chorai, JAV lietuviai finansiškai rėmė Lietuvos kultūrinį
+    gyvenimą, rengė politines akcijas, atkreipdami dėmesį į tautinius suvar-
+    žymus Rusijos imperijoje.
+    Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, po-
+    liglotas Georgas (liet. Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už
+    lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, kuriame
+    buvo eilutės: „Lietuviais esame mes gimę / Lietuviais norime ir būt/ Tą
+    garbę gavome užgimę/ Jai ir neturim leist pražūt“ – jis bemat išpopulia-
+    rėjo ir Didžiojoje Lietuvoje, tad lietuviai abipus Nemuno giedojo jį jau
+    tvirtai tikėdami, kad tikrai nebepražus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

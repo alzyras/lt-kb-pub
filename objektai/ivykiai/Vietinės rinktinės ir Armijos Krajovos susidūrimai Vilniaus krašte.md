@@ -8,6 +8,12 @@ aliases:
   - 'Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -40,6 +46,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,8 +66,27 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
+    Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
+    lenkų Armija Krajova daliniais. Lietuviai laikė, kad Vilnija yra Lietuvos
+    dalis, lenkai – kad Lenkijos, tad ir vieni, ir kiti keliais atvejais išliejo savo
+    įtūžį ant vietinių lietuvių ar lenkų kaimų gyventojų. Lenkų ir lietuvių
+    pogrindžio ryšiai nutrūko, lietuviai tebesilaikė pasyvios priešinimosi na-
+    ciams taktikos ir pagrindiniu priešu įvardijo SSRS, o lenkai – Vokietiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Armija Krajova]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

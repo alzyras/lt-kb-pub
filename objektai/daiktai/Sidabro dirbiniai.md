@@ -84,9 +84,12 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/autoriai/M. Michelbertas]]
+- [[objektai/asmenys/Matas (Pipino sūnus)]]
+- [[objektai/daiktai/Brūkšniuotoji keramika]]
 - [[objektai/autoriai/E. Danilaitė]]
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/daiktai/Geležiniai įrankiai]]
 - [[objektai/posakiai/O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs]]
+- [[objektai/daiktai/Skydai]]
 - [[objektai/autoriai/Vaitkunskienė L]]
 - [[objektai/autoriai/L. Nakaitė]]

@@ -83,6 +83,10 @@ Nenurodyta
   teiginys: 'Švedijos ir jos sąjungininko Brandenburgo besitraukiančias pajėgas ties Prostkais pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujamos pajėgos.'
   pagrindžia:
     - c-005
+- t-010
+  teiginys: 'Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -203,7 +207,48 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-006
+  santrauka: 'Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšis
+    Spalio 8 d. kariuomenės suartėjo ties
+    Prostkais skiriamos Elko upės. Lietuviai
+
+    E gf
+
+    apgaulingu atsitraukimo manevru išvi-
+    liojo brandenburgiečius persikelti į kita
+    krantą. Tuo tarpu G. Valdekas gavo žinią,
+    kad šiauriau Prostkų per upę keliasi toto-
+    riai. Juos sulaikyti jis pasiuntė B. Radvilos
+    kavaleriją. Taip pat jis įsakė generolo Wa-
+    lenrodto brandenburgiečiams keltis atgal,
+    tačiau staiga pasirodžiusios pagrindi-
+
+    nės V.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Walenrodto]]
+- [[objektai/zodynas/raitarai]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/autoriai/Arvydas Pociūnas]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
+- [[objektai/autoriai/Gintautas Sliesoriūnas]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]
+- [[objektai/autoriai/Vytautas Lesčius]]
 - [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]

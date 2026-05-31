@@ -132,6 +132,10 @@ Nenurodyta
   teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji gynėjų dalis turėjo aiškesnę uzduotį - pagal galimybes ginti AT rūmus ir jų išorinį perimetrą, siekiant užfiksuoti patį pasipriešinimo faktą, o daliai ginkluotų gynėjų AT šturmo metu atakuoti šturmuojančias.'
   pagrindžia:
     - c-013
+- t-022
+  teiginys: 'Lietuvos pasiryžimas ir kovos metodai tapo pavyzdžiu bei „Sausio 11-13 dienomis Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika padarė pradžią naujai atsiradusiai karinei organizacijai.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -399,9 +403,48 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-021
+- c-014
+  santrauka: 'Lietuvos pasiryžimas ir kovos metodai tapo pavyzdžiu bei „Sausio 11-13 dienomis Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika padarė pradžią naujai atsiradusiai karinei organizacijai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos pasiryži-
+    mas ir kovos metodai tapo pavyzdžiu bei
+
+    „Sausio 11-13 dienomis Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savano-
+    rio priesaika padarė pradžią naujai atsiradusiai karinei organizacijai. Tai buvo teisinis
+    pagrindas Lietuvos piliečiui ginti savo valstybę ginklu. Taip buvo nuspręsta gynybos
+    tarybos posėdyje - Lietuvos Aukščiausiosios Tarybos rūmus ginklu gins Lietuvos kariai
+    savanoriai. Po šia sąvoka sutilpo visi Aukščiausiosios Tarybos rūmuose buvę gynėjai -
+    Krašto apsaugos departamento darbuotojai, pasieniečiai, Aukščiausiosios Tarybos ap-
+    saugos pareigūnai, šauliai ir Lietuvos piliečiai, savanoriais atėję ginti savo valstybės
+    Laisvę ir Nepriklausomybę.“
+
+    įkvėpė kovai už savo ateitį ir kitas regiono
+    valstybes, įskaitant pačią Rusiją, taip pat
+    pagreitino Vakarų valstybių apsispren-
+    dimą pripažinti į laisvąją bendriją grįžu-
+    sių valstybių nepriklausomybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai|Aukščiausiosios Tarybos gynybos principai (institucija)]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Lietuvos atsikūrimas]]
+- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
+- [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Dariaus ir Girėno skraidymo klubas]]
+- [[objektai/asmenys/Virginijus Česnulevičius]]
 - [[objektai/asmenys/Vygantas Jocius]]
+- [[objektai/asmenys/Česlovas Jezerskas]]
 - [[objektai/autoriai/Švedas V]]
+- [[objektai/zodynas/Savanoris]]

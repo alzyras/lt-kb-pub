@@ -64,3 +64,5 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Gintaras]]
+- [[objektai/daiktai/JAV vieno cento moneta]]
+- [[objektai/posakiai/„idealiąją Lietuvą“]]

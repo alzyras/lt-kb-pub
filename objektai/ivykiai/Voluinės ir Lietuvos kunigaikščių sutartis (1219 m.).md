@@ -58,5 +58,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/paprociai/Žemių kunigaikščių veiksmų derinimas konfederacijoje]]

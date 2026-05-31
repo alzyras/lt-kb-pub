@@ -62,3 +62,4 @@ Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis, Lietuvos stačiatiki�
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]
+- [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]

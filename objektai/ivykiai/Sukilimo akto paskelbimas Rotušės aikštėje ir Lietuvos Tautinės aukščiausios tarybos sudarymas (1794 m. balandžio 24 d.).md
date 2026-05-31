@@ -47,6 +47,10 @@ Nenurodyta
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudarytas vykdomosios valdžios organas - Lietuvos Tautinė aukščiausia taryba (Roda Naididžiausia Naradaus Lietuvos).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,7 +78,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudarytas vykdomosios valdžios organas - Lietuvos Tautinė aukščiausia taryba (Roda Naididžiausia Naradaus Lietuvos).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Balandžio 24 d. Vilniuje,
+    Kovos Viln
+
+    Rotušės aikštėje, buvo paskelbtas
+
+    2328 sukilėlių pasirašytas sukilimo aktas
+
+    ir sudarytas vykdomosios valdžios orga-
+
+    nas - Lietuvos Tautinė aukščiausia taryba
+
+    (Roda Naididžiausia Naradaus Lietuvos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
+### Susiję objektai
+- [[objektai/zodynas/organas]]

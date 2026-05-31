@@ -88,7 +88,14 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
   teiginys: 'Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą, nebelaukė.'
   pagrindžia:
     - c-007
-
+- t-021
+  teiginys: 'Tiesa, nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų tautą, o Lietuvą laikė Lenkijos dalimi.'
+  pagrindžia:
+    - c-008
+- t-022
+  teiginys: 'Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per Lenkijos ir Lietuvos konfliktą dėl Vilniaus Vilniaus krašte buvo suformuota Vidurinė Lietuva.'
@@ -135,6 +142,7 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
   pagrindžia:
     - t-013
     - t-016
+    - t-022
 - c-004
   santrauka: '1922 m. sausį Vidurinėje Lietuvoje surengti rinkimai, po kurių ji formaliai prisijungė prie Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -197,7 +205,23 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
-
+- c-008
+  santrauka: 'Tiesa, nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų tautą, o Lietuvą laikė Lenkijos dalimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tiesa,
+    nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“
+    arba „senalietuviais“, tačiau dauguma jų vis labiau integravosi į lenkų
+    tautą, o Lietuvą laikė Lenkijos dalimi. Būtent ši samprata iškilo 1920 m.
+    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
+    suformuota „Vidurinė Lietuva“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
 ## Šaltiniai ir įrodymai
 
 ## Pastabos

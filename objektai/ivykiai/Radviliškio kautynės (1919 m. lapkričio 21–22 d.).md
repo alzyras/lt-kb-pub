@@ -150,5 +150,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/asmenys/K. Ladyga]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/asmenys/K. Škirpa]]
+- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/grupes/Panevėžio batalionas]]

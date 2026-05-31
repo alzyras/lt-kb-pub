@@ -59,6 +59,8 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/ginklanešiai]]
+- [[objektai/ivykiai/Stepono Batoro sprendimas dėl Vilniaus vyskupijos pavaldinių atleidimo nuo miesto cechų jurisdikcijos (1584 m.)]]
 - [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
 - [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

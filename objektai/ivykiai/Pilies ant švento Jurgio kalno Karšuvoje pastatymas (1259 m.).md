@@ -122,3 +122,4 @@ Nenurodyta
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Burchardas iš Hornhauzeno]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

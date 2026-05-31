@@ -43,13 +43,13 @@ tags:
   pagrindžia:
     - c-001
     - c-002
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: senasis bajoriškos netvarkos pateisinimo posakis
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiek vėliau įėjo į madą posakis: „Respublika laikosi netvarka"
     (t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti
@@ -65,7 +65,7 @@ tags:
     - t-001
 - c-002
   santrauka: senasis bajoriškos netvarkos pateisinimo posakis
-  šaltinis: [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O visa tai pirštu prikišamai rodė bajorijai, jog senasis posakis, kad Respublika laikantisi netvarka,
     yra neteisingas;
@@ -80,3 +80,8 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/paprociai/Aukso laisvės ideologija]]

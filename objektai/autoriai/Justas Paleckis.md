@@ -69,5 +69,6 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Liaudies vyriausybė]]

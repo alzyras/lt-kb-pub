@@ -45,6 +45,10 @@ Nenurodyta
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Dlugošas taip pat nurodo^4 ), kad žiauriai buvę pasielgta ir su kitais Kęstučio giminėmis: Birutės dėdė Vydimantas ir anūkas Butrimas buvę nukankinti su ratu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,11 +71,29 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dlugošas taip pat nurodo^4 ), kad žiauriai buvę pasielgta ir su kitais Kęstučio giminėmis: Birutės dėdė Vydimantas ir anūkas Butrimas buvę nukankinti su ratu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dlugošas taip pat nurodo^4 ), kad žiauriai buvę pasielgta
+    ir su kitais Kęstučio giminėmis: Birutės dėdė Vydimantas ir
+    anūkas Butrimas buvę nukankinti su ratu.
+    Kęstučio kūnas Vilniuje buvo senu papročiu iškilmingai su­
+    degintas kartu su jo mylimais arkliais, sakalais, šunimis ir gink­
+    lais^5 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/A. Butrimas]]
 - [[objektai/asmenys/Birutė]]
+- [[objektai/asmenys/Butrimas]]
 - [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vydimantas]]

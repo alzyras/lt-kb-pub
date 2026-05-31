@@ -87,3 +87,9 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bartai]]
+- [[objektai/asmenys/Divanas]]
+- [[objektai/zodynas/ginklanešiai]]

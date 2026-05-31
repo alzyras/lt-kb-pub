@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1831 m.'
+  - '1863 m.'
+  - '1864 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1831'
+date_end: '1864'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -32,6 +43,10 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   teiginys: '1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: '1863–1864 metų sukilimas 1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,3 +85,24 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '1863–1864 metų sukilimas 1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1863–1864 metų sukilimas
+    1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmi-
+    mas. „Raudoniesiems“ neliko nieko kita, kaip pradėti sukilimą, nors jam
+    dar nebuvo pasiruošta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/rekrutų prievolė]]

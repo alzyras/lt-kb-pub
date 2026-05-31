@@ -1,0 +1,72 @@
+---
+tipas: autorius
+pavadinimas: 'Walsinghamas'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1390 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1390'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - autorius
+  - karalius
+  - kunigaikštis
+  - pilis
+---
+# Walsinghamas
+
+## Santrauka
+
+IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskiria Derbio grafui, o užmuštų ir sužeistų lietuvių nurodo buvus apie 4 000.
+
+## Teiginiai
+- t-001
+  teiginys: 'IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskiria Derbio grafui, o užmuštų ir sužeistų lietuvių nurodo buvus apie 4 000.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'IV, p. 68, rašo, kad anglų kronikininkas Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskiria Derbio grafui, o užmuštų ir sužeistų lietuvių nurodo buvus apie 4 000.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    545, byloja, kad „per
+    pirmąjį puolimą kryžiuočių kariai
+    užėmė medinę pilį, kurioj daugiau
+    kaip tūkstantį žmonių nužudę; sude­
+    ginę šaunių raitelių bei pėstininkų ka­
+    rių, kelis ir Rusios kunigaikščius, bū­
+    tent vieną iš Lenkijos karaliaus brolių,
+    vardu Karigaila; toje pilyje iš viso bu­
+    vo sučiupę iki dviejų tūkstančių įvai­
+    raus amžiaus žmonių/'
+    30
+    D e W a 1 Histoire de Vordre Teut. T. IV,
+    p. 68, rašo, kad anglų kronikininkas
+    Walsinghamas  savo kronikoje
+    1390 m. Vilniaus užėmimo garbę
+    priskiria Derbio grafui, o užmuštų
+    ir sužeistų lietuvių nurodo buvus
+    apie 4 000.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]

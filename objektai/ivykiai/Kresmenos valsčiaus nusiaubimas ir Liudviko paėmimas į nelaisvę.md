@@ -128,3 +128,9 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/asmenys/Liudvikas]]
+- [[objektai/asmenys/Liudvikas iš Libencelės]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

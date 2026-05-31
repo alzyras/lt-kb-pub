@@ -86,5 +86,10 @@ Horodlės unijos (1413) aktu užtvirtintos visoms bažnyčioms, parapijoms, kole
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
+### Susiję objektai
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Apaštalų Sostas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/grupes/Radvilų giminė]]
+- [[objektai/zodynas/ekskomunikacija ekskomunika]]

@@ -11,6 +11,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1305 m.'
+  - '1317 m.'
   - '1328 m.'
   - '1329 m.'
   - '1330 m.'
@@ -58,6 +59,18 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Dusburgietis teigia, kad gedimino pilis kronikoje minima ne kartą (1305—1330 m. įvykiai, III, 332, 351; papildymų 15).'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: '(^11) SRP, I, 255 p. GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 1328 m. Gardino puolimu, Prūsų kry­ žiuočiai sudegino nuo Vytenio laikų pagarsėjusių Karšuvos pilių Putvės (Putenikos) ir Aukaimio priešpilius, teriojo Vėjukus.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 
@@ -140,3 +153,68 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-006
+  santrauka: 'Dusburgietis teigia, kad gedimino pilis kronikoje minima ne kartą (1305—1330 m. įvykiai, III, 332, 351; papildymų 15).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vis dėlto brolis Henrikas trypiamas įsikibo  į juodo žirgo pavadį, sutramdė
+      557 D.— castri Jedemine resp. castrum Gedemini (III, 332), Jer.— Gedeminnenhûse,
+    Gedeminnen [...] burg. Gedimino pilis kronikoje minima ne kartą (1305—1330 m. įvykiai,
+    III, 332, 351; papildymų 15). Ji tapatinta su Vilniumi, jos ieškota Minijos pakrantėje
+    prie Dovilų (Klaipėdos rj.), prie Kaltinėnų (Šilalės rj.), Girkalnio apylinkėse (Mortensen
+    H., Mortensen G., Die Besiedlung..., 2, p. 203—205). Patikimesni atrodo bandymai ją
+    lokalizuoti buv. Pagraudės teritorijoje, prie Graumenos, deš. Jūros aukštupio krante
+    (Zajączkowski S.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Dusburgietis teigia, kad apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais
+
+      Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su
+    broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę
+    į keturias dalis; brolis Hartmanas ir brolis Fridrichas Kvicas su 60 vyrų turėjo užpulti
+    kai kuriuos šio valsčiaus kaimus, bet žygiuodami pasiklydo ir nieko nenuveikė. Antra
+    kariuomenės dalis, būtent brolis Fridrichas iš Libencelės, Ragainės komtūras, turėjo su 150
+    vyrų prieiti slapta prie Gedimino pilies ir ją paimti, tačiau pilėnai — nežinia, kuriuo būdu
+    apie tai iš anksto įspėti,— pilį apgynė, nors papilį broliams ir pavyko visiškai sudeginti.
+    Trečia dalis, būtent brolis Albrechtas iš Hageno bei 60 vyrų, užpuolė vieno kilmingo
+    ir galingo vyro, vardu Sudargas, kiemą576,  jį pavertė pelenais drauge su aplinkiniais
+    kaimais, jo žmoną su vaikais bei šeimyną su daugybe kitų moterų bei kūdikių paėmė į
+    nelaisvę, o daugybę vyrų nukovė.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: '(^11) SRP, I, 255 p. GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 1328 m. Gardino puolimu, Prūsų kry­ žiuočiai sudegino nuo Vytenio laikų pagarsėjusių Karšuvos pilių Putvės (Putenikos) ir Aukaimio priešpilius, teriojo Vėjukus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^11) **SRP, I, 255 p.**
+
+
+    ```
+    GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235
+    ```
+    Savo žygius vėl pradėję 1328 m. Gardino puolimu, Prūsų kry­
+    žiuočiai sudegino nuo Vytenio laikų pagarsėjusių Karšuvos pilių
+    Putvės (Putenikos) ir Aukaimio priešpilius, teriojo Vėjukus (Way-
+    ken), puolė Gedimino pilį^12.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

@@ -72,3 +72,4 @@ Nenurodyta
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/spiritus movens]]
+- [[objektai/asmenys/Juozas Tumas-Vaižgantas]]

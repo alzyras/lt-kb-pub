@@ -10,17 +10,18 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 bukle: juodrastis
 laikotarpis: 'XVI a.'
-datos: []
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+datos:
+  - '1505 m.'
 periodas: 'ankstyvieji_naujieji_laikai'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-date_start: ''
+date_start: '1505'
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
 atnaujinta: '2026-05-27'
 tags: []
@@ -57,7 +58,10 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Kalyklos veikla siejama su Ulriko Hozijaus priežiūra ir iždo pajamomis.
@@ -103,3 +107,24 @@ Kalykla lokalizuojama Vilniuje ir minima Lietuvos Metrikos apskaitos išrašo ko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­ dėjus Vilniaus vaivadai Mikalojui Radvilai51.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­
+    matų grėsė griūtis, buvo per nauja pamūryta, dosniai prisi­
+    dėjus Vilniaus vaivadai Mikalojui Radvilai51. Vilniaus mo­
+    netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis
+    energingiau ir karaliaus iždui teikė nemaža pajamų, kaip ma­
+    tyti iš Lietuvos maršalkos Chreptavičiaus ataskaitos52. Pa-
+    49
+    Daug sutarčių su tuo Onka yra Lie­
+    tuvos Metrikoje, V knygoje, prie
+    1505 metų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

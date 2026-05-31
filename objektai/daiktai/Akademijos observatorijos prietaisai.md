@@ -10,18 +10,18 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "1766 m. Akademijos observatorijos fundacijos kontekstas"
-datos:
-  - "1766 m."
-periodas: ankstyvieji_naujieji_laikai
-periodo_grupes:
-  - LDK
-amziai:
-  - XVIII
-date_start: "1766"
-date_end: "1766"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1766 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1766'
+date_end: ''
 patikimumas: vidutinis
 atnaujinta: '2026-05-27'
 tags:
@@ -55,6 +55,10 @@ Nenurodyta
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,11 +85,34 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766 metais Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­ donųjų auksinų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš Joniškio - neturtingiems studentams kasdien Olia Cha-
+    ritatis [labdaringi pietūs] ir duonos kepalas.
+    Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­
+    telioniene 1766 metais Akademijos observatorijos įkūrimui,
+    prietaisams ir astronomijos profesorių dėlei užrašė 6 000 rau­
+    donųjų auksinų.
+    Akademijos keturkampės aikštės klasių vieną eilę tėvas
+    Riokuras, jėzuitas, davęs apie 20 000 auksinų, o kitą klasių ir
+    viešų susirinkimų salės eilę įvairūs Societatis nariai, išleidę apie
+    100 000 auks.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/įrankis]]
 
 ### Susiję objektai
-- [[objektai/daiktai/Duona]]
 - [[objektai/grupes/Oginskiai]]
+- [[objektai/daiktai/Duona]]
+- [[objektai/asmenys/Puzinienė iš Oginskių]]
+- [[objektai/zodynas/Olia Charitatis]]

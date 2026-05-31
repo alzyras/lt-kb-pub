@@ -129,6 +129,19 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   teiginys: 'Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiežiumi buvo Inocentas IV, kuris pirmaisiais savo pontifikato metais, tai yra 1243 viešpaties metais, supratęs iš garsių brolio Hermano iš Zalcos, Teutonų ordino generalinio magistro267, pareiškimų, kad naujas.'
   pagrindžia:
     - c-022
+- t-022
+  teiginys: 'Dusburgietis teigia, kad turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.'
+  pagrindžia:
+    - c-023
+- t-023
+  teiginys: 'Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157.'
+  pagrindžia:
+    - c-024
+- t-024
+  teiginys: 'Dusburgietis teigia, kad tada jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.'
+  pagrindžia:
+    - c-025
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -383,6 +396,69 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-021
+- c-023
+  santrauka: 'Dusburgietis teigia, kad turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    procesu, kuris vyko ir Romoje, popiežiaus kurijoje,
+    ir Pomeranijoje, popiežiaus legato akivaizdoje.
+      Turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.
+    Originale vardas, matyt, buvo pažymėtas kriptonimu „H“, kurią kopijuotojas suprato
+    kaip vardo „Herman“ santrumpą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-024
+  santrauka: 'Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolį Hermaną, trečią magistrą
+
+       Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė
+    gegužės 20 dieną ir palaidotas Akone157.
+
+
+
+
+                   5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą
+
+       Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
+    o mirė liepos 24 dieną  ir palaidotas Barletoje158.  Jis buvo iškalbingas, mandagus,
+    išmintingas, apdairus, atsargus, o  visi jo darbai rodo  jį buvus garbingą.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-025
+  santrauka: 'Dusburgietis teigia, kad tada jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tada
+    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
+    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
+    Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
+    turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
+    pasitarnavo, draugiškai vieną su kitu taikydamas.
+
+
+
+
+
+      159 D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
 
 ## Ryšiai
 ### Susiję objektai
@@ -391,6 +467,12 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/asmenys/Folkvinas]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Venedai]]
+- [[objektai/zodynas/legatas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
 - [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą]]
 - [[objektai/asmenys/Hermanas (Ordino magistras)]]
@@ -400,5 +482,14 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 - [[objektai/asmenys/Hermanas iš Lichtenburgo]]
 - [[objektai/posakiai/Jeigu tavo tėvas atsistos pas slenkstį, o tavo brolis pakibs tau ant kaklo, o tavo motina parodys tau krūtis, kurias tu esi žindęs, skubėk,]]
 - [[objektai/asmenys/Jeronimas]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/ivykiai/Kalavijuočių ordino prijungimas prie Teutonų ordino ir Hermano Balko siuntimas į Livoniją (1236-1237 m.)]]
+- [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
+- [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.)]]
+- [[objektai/autoriai/M. Perlbachas]]
 - [[objektai/asmenys/Mergelė Marija]]
+- [[objektai/autoriai/Perlbach M]]
+- [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]
+- [[objektai/daiktai/Ordino magistro valdžios žymenys]]
+- [[objektai/daiktai/Šventojo kryžiaus relikvija]]
+- [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]

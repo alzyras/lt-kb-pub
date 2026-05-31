@@ -76,3 +76,8 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
+- [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]

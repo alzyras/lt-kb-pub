@@ -76,6 +76,10 @@ Nenurodyta
   teiginys: 'Gediminas kvietė pirklius, amatininkus ir žemdirbius atvykti į jo valstybę, žadėdamas jiems mokestines lengvatas.'
   pagrindžia:
     - c-004
+- t-006
+  teiginys: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -164,3 +168,35 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-005
+  santrauka: 'Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gedimino krikšto akcija
+    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
+    Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
+    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    33
+    lonistus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Pranciškonų nužudymas Vilniuje Gedimino valdymo pabaigoje]]
+- [[objektai/grupes/Totoriai]]

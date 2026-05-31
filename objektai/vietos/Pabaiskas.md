@@ -68,6 +68,14 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   teiginys: 'Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Pabaisko vietovė kalvota, tačiau atvira, o ten, kur da­ bar iškilusi nauja mūrinė bažnyčia, netgi gana graži.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -225,3 +233,45 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Žygimantas, no­ rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­ torija ir toje vietoje pastatė parapijos bažnyčią22.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­
+    gaikščiu Jurgiu, išvengė sutriuškinimo21. Žygimantas, no­
+    rėdamas įamžinti šią didžią pergalę, laimėtą jo sūnaus
+    narsumo ir, žinoma, lenkų pulkų karingumo dėka, mūšio
+    lauką pavadino Pabaisku, o per jį tekantį mažą upelį - Vik­
+    torija ir toje vietoje pastatė parapijos bažnyčią22. Ši svarbi
+    Pabaisko pergalė, apsaugojusi nuo naujo antpuolio Lietu­
+    vos sostinę, turėjo didelės įtakos tolesniam visos Lietuvos
+    likimui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Pabaisko vietovė kalvota, tačiau atvira, o ten, kur da­ bar iškilusi nauja mūrinė bažnyčia, netgi gana graži.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pabaisko vietovė
+    kalvota, tačiau atvira, o ten, kur da­
+    bar iškilusi nauja mūrinė bažnyčia,
+    netgi gana graži. Žemė derlinga,
+    Viktorijos upelis, nors mažas, bet
+    vertas gražaus vardo. Pabaiskas yra
+    parapijos kaimas, priklausantis vie­
+    tiniam klebonui ir nutolęs nuo iš Vil­
+    niaus į Ukmergę einančio pašto trak­
+    to į kairę per 2 varstus, per pusę
+    mylios už Kščeniškių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

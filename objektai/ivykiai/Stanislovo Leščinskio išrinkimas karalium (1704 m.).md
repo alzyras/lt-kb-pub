@@ -64,6 +64,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Stanislovas Leščinskis]]
 - [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]

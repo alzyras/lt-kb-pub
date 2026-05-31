@@ -105,4 +105,5 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 ### Susiję objektai
 - [[objektai/grupes/1-oji pėstininkų divizija]]
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/brigada]]
 - [[objektai/grupes/11 brigada]]

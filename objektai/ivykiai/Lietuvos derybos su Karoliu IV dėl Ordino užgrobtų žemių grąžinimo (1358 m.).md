@@ -68,3 +68,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Karolis IV]]

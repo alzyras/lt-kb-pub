@@ -37,6 +37,10 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   teiginys: 'Pilaitė, buvusi jėzuitų nuosavybė, vėliau atiteko Vilniaus universitetui.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: '51 ## Puslapis 68 VILNIAUS MIESTO ISTORIJA I TOMAS nebūtų nuo tiesos nutolta, jeigu Vilnius, tokios palankios gamtos aplinkumoje stovėdamas, prie seniausių Lietuvos tvirtovių būtų priskirtas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,9 +87,43 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: '51 ## Puslapis 68 VILNIAUS MIESTO ISTORIJA I TOMAS nebūtų nuo tiesos nutolta, jeigu Vilnius, tokios palankios gamtos aplinkumoje stovėdamas, prie seniausių Lietuvos tvirtovių būtų priskirtas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    51
+
+    ## Puslapis 68
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    nebūtų nuo tiesos nutolta, jeigu Vilnius, tokios palankios
+    gamtos aplinkumoje stovėdamas, prie seniausių Lietuvos
+    tvirtovių būtų priskirtas. Pilaitė, jėzuitų buvusi, per mylią
+    nuo Vilniaus atstu, dešiniajame Vilijos krante, kur pastarai­
+    siais metais buvo agronomijos institutas, dabar priklauso
+    buvusiam to instituto direktoriui ponui Fričinskiui, yra vie­
+    na iš seniausių įtvirtintų vietovių prie Vilniaus. Nuo neat­
+    menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­
+    vanota Viršilų giminei, paskui perėjo Glebavičių paveldui,
+    po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­
+    versitetui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Lotynai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Vilniaus Akademija]]
+- [[objektai/asmenys/Fričinskis]]
+- [[objektai/grupes/Glebavičių giminė]]
+- [[objektai/daiktai/Pilaitės kunigaikščių pilis]]
+- [[objektai/grupes/Viršilų giminė]]

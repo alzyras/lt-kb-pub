@@ -91,3 +91,11 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/ponų įsigalėjimo laikotarpis]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]

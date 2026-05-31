@@ -17,17 +17,12 @@ vaidmenys:
   - 'kompozitorius'
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1875 m.'
-  - '1911 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
-date_start: '1875'
-date_end: '1911'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: aukštas
 atnaujinta: '2026-05-14'
 tags: []
@@ -71,7 +66,14 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
   pagrindžia:
     - c-006
-
+- t-017
+  teiginys: 'Čiurlionis, ir tautos Atgimimo dainius poetas Maironis, tautos patriarchas J.'
+  pagrindžia:
+    - c-001
+- t-018
+  teiginys: 'Čiurlionio kūrybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'M. K. Čiurlionis apibūdinamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius Lietuvos Respublikos ištakų kontekste.'
@@ -90,6 +92,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
+    - t-017
 - c-002
   santrauka: 'Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -136,6 +139,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
+    - t-018
 - c-005
   santrauka: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -173,5 +177,10 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio įkūrimas (1988 VI 3)]]
+- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/zodynas/atšilimas]]

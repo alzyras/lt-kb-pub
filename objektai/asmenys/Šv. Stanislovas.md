@@ -70,3 +70,11 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Altorius]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
+- [[objektai/paprociai/Šv. Kazimiero kultas ir Kaziuko mugės tradicija]]
+- [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]

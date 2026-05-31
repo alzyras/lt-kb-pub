@@ -57,3 +57,4 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

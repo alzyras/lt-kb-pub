@@ -100,3 +100,10 @@ Ona (Zigmanto Augusto sesuo): zigmanto Augusto seseriai Onai paliktų privatini�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Karolis IX]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]

@@ -9,6 +9,17 @@ saltiniai:
 datos:
   - '1586 m.'
   - '1587 m.'
+  - '1600 m.'
+  - '1629 m.'
+  - '1654 m.'
+  - '1655 m.'
+  - '1660 m.'
+  - '1667 m.'
+  - '1668 m.'
+  - '1697 m.'
+  - '1700 m.'
+  - '1721 m.'
+  - '1763 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
@@ -17,6 +28,8 @@ periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVI'
+  - 'XVII'
+  - 'XVIII'
   - 'XXI'
 date_start: '1586'
 date_end: '2026'
@@ -55,6 +68,10 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   teiginys: 'Vazų dinastijos valdymo gale labiau pastebima lenkų kultūros įtaka Lietuvoje^18.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -119,7 +136,35 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m. Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiškė pretenzijas į Švedijos sostą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ATR kariavo su Švedija du karus: 1600–1629 ir 1655–1660 m.
+    Karą komplikavo tai, kad švedų kilmės Vazų dinastijos ATR karaliai reiš-
+    kė pretenzijas į Švedijos sostą. Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/marksistinė periodizacija]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/posakiai/„tvanas“]]
+- [[objektai/ivykiai/Vedrošos kautynės]]
+- [[objektai/grupes/Saksų dinastija]]
+- [[objektai/ivykiai/Tvanas]]

@@ -47,5 +47,11 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Herbas]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/daiktai/Herbai]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]

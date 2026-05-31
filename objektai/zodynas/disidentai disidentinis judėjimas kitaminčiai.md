@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1968 m.'
+  - '1988 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1968'
+date_end: '1988'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -32,6 +42,10 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   teiginys: 'Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris suaktyvino kitaminčius.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Valdžiai svarbius klubus uždraudus, dalis jaunuolių suartėjo su disidentais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,7 +84,27 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Valdžiai svarbius klubus uždraudus, dalis jaunuolių suartėjo su disidentais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valdžiai
+    svarbius klubus uždraudus, dalis jaunuolių suartėjo su disidentais.
+    Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos
+    pavasaris suaktyvino kitaminčius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Pranas Morkus]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Lietuvos disidentai]]

@@ -55,3 +55,4 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Normanai]]

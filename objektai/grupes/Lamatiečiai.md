@@ -50,3 +50,4 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Skalviai]]

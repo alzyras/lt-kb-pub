@@ -73,4 +73,6 @@ Nenurodyta
 - [[objektai/asmenys/Sarkis]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/zodynas/Cechas]]
+- [[objektai/asmenys/Henrikas I Paukštininkas]]
+- [[objektai/ivykiai/Sartovicų pilies užėmimas ir šv. Barboros relikvijos išgabenimas į Kulmą (1242 m. gruodžio 3 d.)]]
 - [[objektai/asmenys/Šventoji Barbora]]

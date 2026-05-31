@@ -8,13 +8,16 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1385 m.'
+  - '1930 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
+  - 'XX'
 date_start: '1385'
-date_end: ''
+date_end: '1930'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -46,7 +49,10 @@ tags:
   teiginys: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
   pagrindžia:
     - c-003
-
+- t-004
+  teiginys: '7, 1930, 427 p. 246 ii skyrius: valstybės iškilimas Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
@@ -101,3 +107,25 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '7, 1930, 427 p. 246 ii skyrius: valstybės iškilimas Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    7, 1930, 427 p.**
+
+
+    ```
+    246 ii skyrius: valstybės iškilimas
+    ```
+    Algirdui, pačioje Lietuvoje įgijusiam Kriavą, o Rusijoje jau
+    nuo seniau valdančiam Vitebską, teko svarbus uždavinys rytuose
+    palaikyti santykius su Maskva ir kitomis rusų kunigaikštijomis.
+    Dar sunkesni uždaviniai atiteko Kęstučiui vakarinėje valstybės
+    dalyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

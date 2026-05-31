@@ -64,6 +64,18 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos.'
+  pagrindžia:
+    - c-008
+- t-007
+  teiginys: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
+  pagrindžia:
+    - c-009
+- t-008
+  teiginys: 'Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -202,3 +214,92 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-008
+  santrauka: 'Į Trakus (1430 metais), kur didysis kunigaikštis paprastai gyvendavo di­ džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­ gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­ vos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­
+    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
+    karalių Zigmantą nuo ketinimo ka­
+    rūnuoti Vytautą, ir Nr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-009
+  santrauka: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    kunigaikštijos^2 ). Kad ir po didelių pastangų, bet į gyvenimo galą
+    jam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­
+    gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo
+    nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
+    sūnus Vosylius, atsparumo nerodė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-010
+  santrauka: 'Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas
+    padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­
+    vo protežė, laimės nepaprastai daug ne tik santykiuose su pa­
+    čiais totoriais, bet ir su visa Rusija. Rusų kronikos aiškina, kad
+    su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
+    Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
+    tijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio
+    samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
+    yra teisingas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/saar]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]

@@ -44,5 +44,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Augustinas]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/grupes/Raudonoji armija]]

@@ -44,7 +44,3 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]

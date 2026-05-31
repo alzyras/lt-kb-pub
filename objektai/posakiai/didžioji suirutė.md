@@ -45,4 +45,5 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Teodoras]]
 - [[objektai/zodynas/didžioji suirutė smuta]]

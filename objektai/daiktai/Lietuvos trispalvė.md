@@ -83,6 +83,14 @@ Nenurodyta
   teiginys: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
   pagrindžia:
     - c-004
+- t-013
+  teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
+  pagrindžia:
+    - c-005
+- t-014
+  teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -158,9 +166,71 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-005
+  santrauka: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Stiprėjo Lietuvos žaliųjų
+    judėjimas.
+    LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
+    lankymas Lietuvoje rugpjūčio 11–12 dienomis. LKP vadovybei Aleksan-
+    dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
+    partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-
+    aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
+    parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
+    leisti laikraštį ir nuolatinę televizijos laidą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-006
+  santrauka: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Spalio 21 dieną LKP CK pirmuoju sekre-
+    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
+    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
+    arkikatedrą. Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
+    lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę,
+    V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
+    ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
+    demonstracijas įsakus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Romualdas Ozolas]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/de facto]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos žaliųjų judėjimas]]
+- [[objektai/asmenys/Aleksandras Jakovlevas]]
+- [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]
+- [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/daiktai/Lėktuvai]]
+- [[objektai/autoriai/V. Kudirka]]
+- [[objektai/asmenys/Vincas Kudirka]]
+- [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“]]

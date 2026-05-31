@@ -79,3 +79,15 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Jotvingai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/kunigaikštija]]

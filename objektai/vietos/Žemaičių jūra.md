@@ -84,6 +84,10 @@ tags: []
     - c-006
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
+- t-013
+  teiginys: '- publicnote: - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean - vietasaltinyje: Citata iš sujungto kandidato nebuvo mechaniškai patvirtinta darbiniame šaltinyje.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
@@ -166,5 +170,25 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
+- c-007
+  santrauka: '- publicnote: - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean - vietasaltinyje: Citata iš sujungto kandidato nebuvo mechaniškai patvirtinta darbiniame šaltinyje.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    ## customs-karinio-pasirengimo-ziemos-zygiams-tvarka-002
+    - status: reject
+    - claim_role: supports_existing_claim
+    - kategorija: paprotys
+    - kandidatas: Karinio pasirengimo žiemos žygiams tvarka
+    - potencialus_teiginys: Karo žygiai paprastai būdavo rengiami žiemą, kai versmės ir upės pašąla.
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: Citata iš sujungto kandidato nebuvo mechaniškai patvirtinta darbiniame šaltinyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 ## Pastabos
 galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta kaip atskiras jūros vardas.

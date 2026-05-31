@@ -69,6 +69,14 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: '28 Tas sandėris buvo sudarytas slapta girioje, prie dabartinių Daugų, Tra­ kų paviete, netoli nuo Alytaus, kaip manau (auf dem Felde Daudisken); tarp atvykusiųjų į tariamą medžiok­ lę buvo: Jogaila, lydimas Lietuvos kunigaikščių Vytauto ir Jono, bei Vaidilos.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau pripažino, negu jie patys per paskutines derybas buvo užsiprašę, suerzino tiek Vytautą tiek Jogailą.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -218,3 +226,45 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: '28 Tas sandėris buvo sudarytas slapta girioje, prie dabartinių Daugų, Tra­ kų paviete, netoli nuo Alytaus, kaip manau (auf dem Felde Daudisken); tarp atvykusiųjų į tariamą medžiok­ lę buvo: Jogaila, lydimas Lietuvos kunigaikščių Vytauto ir Jono, bei Vaidilos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+    28
+    Tas sandėris buvo sudarytas slapta
+    girioje, prie dabartinių Daugų, Tra­
+    kų paviete, netoli nuo Alytaus, kaip
+    manau (auf dem Felde Daudisken);
+    tarp atvykusiųjų į tariamą medžiok­
+    lę buvo: Jogaila, lydimas Lietuvos
+    kunigaikščių Vytauto ir Jono, bei
+    Vaidilos, ir didysis komtūras, ku­
+    ris jiems iškėlė puikias vaišes. Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau pripažino, negu jie patys per paskutines derybas buvo užsiprašę, suerzino tiek Vytautą tiek Jogailą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau
+    pripažino, negu jie patys per paskutines derybas buvo užsiprašę,
+    suerzino tiek Vytautą tiek Jogailą. Per susitikimą Dauguose patyrę
+    ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13. Pus­
+    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
+    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

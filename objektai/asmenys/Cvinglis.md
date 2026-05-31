@@ -1,0 +1,69 @@
+---
+tipas: asmuo
+pavadinimas: 'Cvinglis'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1557 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1557'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - asmuo
+  - miestas
+  - mokslininkas
+---
+# Cvinglis
+
+## Santrauka
+
+Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, vadinamo Juoduoju.
+
+## Teiginiai
+- t-001
+  teiginys: 'Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, vadinamo Juoduoju.'
+  pagrindžia:
+    - c-001
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Nors Viklifo sekėjas buvo ekskomuni­ kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos, vadinamo Juoduoju.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik po dvejų metų kapitula, patyrusi, kad
+    jau po visą sostinę pasklido kitatikystė, ėmė raginti vysku­
+    pą imtis visokeriopų priemonių, kokias tik jam tokiu atveju
+    leistų jo pareigos45. Nors Viklifo sekėjas buvo ekskomuni­
+    kuotas ir priverstas palikti miestą, bet Martyno Liuterio ir
+    Cvinglio mokslas, kur kas giliau įsišaknijęs Vilniuje, buvo
+    stipriai palaikomas Vilniaus vaivados Mikalojaus Radvilos,
+    vadinamo Juoduoju. Jo dvaras Lukiškėse, prie Vilijos, nuo
+    renkasi į savo sueigas Lukiškėse, Jo
+    Didenybės Vilniaus vaivados Mika­
+    lojaus Radvilos rūmuose; nutaria
+    (savo susirinkime 1557 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Radvilos]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/Puslapis 77]]
+- [[objektai/daiktai/Reformatų didieji maldos namai prie Šv. Mykolo bažnyčios]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/zodynas/disidentai reformatai reformatoriai]]

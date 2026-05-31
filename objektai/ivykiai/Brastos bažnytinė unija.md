@@ -59,7 +59,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Graikai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Graikų katalikų bažnyčia]]
 - [[objektai/zodynas/metropolija bažnytinė unija|metropolija bažnytinė unija (unija)]]

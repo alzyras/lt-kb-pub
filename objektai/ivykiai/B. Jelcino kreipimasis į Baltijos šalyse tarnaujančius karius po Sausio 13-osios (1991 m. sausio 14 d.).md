@@ -59,5 +59,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
 - [[objektai/asmenys/Borisas Jelcinas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Rusijos Federacija]]

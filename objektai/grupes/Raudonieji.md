@@ -73,3 +73,8 @@ tags:
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Markas (žydas kreditorius)]]
+- [[objektai/grupes/NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas]]
+- [[objektai/asmenys/Pekarskis]]
+- [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]
+- [[objektai/paprociai/„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams|„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams (sukilimas)]]

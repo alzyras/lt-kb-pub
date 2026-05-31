@@ -102,3 +102,4 @@ Nenurodyta
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/zodynas/ješiva]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/chasidizmas rabinizmas]]

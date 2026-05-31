@@ -74,4 +74,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Darius]]
+- [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]
+- [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]
+- [[objektai/asmenys/Stasys Girėnas]]
+- [[objektai/asmenys/V. Landsbergis-Žemkalnis]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]

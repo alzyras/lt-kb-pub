@@ -48,3 +48,7 @@ Papildomos aiškios formos neišskirtos.
 ## Pastabos
 
 - Tiksli ceremoninė pareiga iš teksto matosi tik bendrais bruožais.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

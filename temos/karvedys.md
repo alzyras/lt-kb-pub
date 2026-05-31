@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 23.
+Objektų skaičius: 25.
 
 ## Kaip naudoti
 
@@ -40,6 +40,7 @@ Objektų skaičius: 23.
 
 ### Daiktai
 - [[objektai/daiktai/Ringrafas]]
+- [[objektai/daiktai/Šalmas „Pappenheimer“]]
 
 ### Posakiai
 - [[objektai/posakiai/Kodėl siaubi mano žemę, aplaistytą daugybės krikščionių krauju Jeigu nepasitrauksi, žinok, kad netrukus susilauksi nelaimingos mirties]]
@@ -48,3 +49,6 @@ Objektų skaičius: 23.
 - [[objektai/ivykiai/Brandenburgo markgrafo Jono nesėkmingas žygis į Prūsiją (1255 m.)]]
 - [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]
 - [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]
+
+### Žodynas
+- [[objektai/zodynas/romėniškoji kilmė]]

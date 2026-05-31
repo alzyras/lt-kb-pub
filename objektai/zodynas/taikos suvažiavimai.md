@@ -82,4 +82,8 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras II]]
 - [[objektai/zodynas/Baudžiava]]
+- [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
+- [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]

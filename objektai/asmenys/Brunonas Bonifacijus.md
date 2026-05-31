@@ -86,6 +86,8 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
 - [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai]]
+- [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]

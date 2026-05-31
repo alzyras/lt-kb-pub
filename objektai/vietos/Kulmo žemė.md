@@ -11,6 +11,7 @@ datos:
   - '1222 m.'
   - '1223 m.'
   - '1230 m.'
+  - '1231 m.'
   - '1243 m.'
   - '1262 m.'
   - '1265 m.'
@@ -139,6 +140,10 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   teiginys: 'Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.'
   pagrindžia:
     - c-003
+- t-020
+  teiginys: '1231 m. Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 
@@ -472,3 +477,22 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-020
+  santrauka: '1231 m. Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos krante, persikėlė per upę į Kulmo žemę ir pastatė Torunės pilį, prasidėjo sisteminga agresija prieš prūsus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1231 m. Ordino magistras iš lenkų jam
+    dovanotų žemių, savo pilių kairiajame
+    Vyslos krante, persikėlė per upę į Kulmo
+    žemę ir pastatė Torunės pilį, prasidėjo
+    sisteminga agresija prieš prūsus. Daug
+    kunigaikščių iš Vokietijos ir Lenkijos tal-
+    kindavo Ordinui, kuris niokojo baltiš-
+    kąją Prūsiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020

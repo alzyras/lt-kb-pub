@@ -57,4 +57,12 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Jidiš]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/spiritus movens]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]
+- [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia]]

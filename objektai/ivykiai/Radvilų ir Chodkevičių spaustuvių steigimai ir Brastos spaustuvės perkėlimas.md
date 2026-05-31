@@ -59,5 +59,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/zodynas/reformacija]]
 - [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Ivanas Fiodorovas]]
 - [[objektai/daiktai/Spaustuvės]]

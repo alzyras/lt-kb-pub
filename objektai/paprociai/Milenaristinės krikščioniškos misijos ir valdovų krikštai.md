@@ -76,3 +76,4 @@ Nenurodyta
 - [[objektai/asmenys/Brunonas]]
 - [[objektai/asmenys/Brunonas Bonifacijus]]
 - [[objektai/asmenys/Netimeras]]
+- [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]

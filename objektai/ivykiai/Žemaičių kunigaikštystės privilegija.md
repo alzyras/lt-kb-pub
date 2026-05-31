@@ -86,11 +86,10 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]

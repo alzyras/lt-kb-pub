@@ -49,4 +49,6 @@ Dusburgietis teigia, kad ragainė siejama su lie.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/autoriai/Biržiška M]]
+- [[objektai/autoriai/Dovydaitis Pr]]
 - [[objektai/autoriai/Lasickis J]]

@@ -222,3 +222,4 @@ Nenurodyta
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]

@@ -47,4 +47,8 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/asmenys/Romanas Dmovskis]]
+- [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma]]

@@ -9,18 +9,19 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: "juodrastis"
 laikotarpis: "1991 m. sausio įvykių kontekstas"
-datos:
-  - "1991 m. sausio 10-13 d."
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "sąjūdis"
-amziai:
-  - "XX"
-date_start: "1991"
-date_end: "1991"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1991 m.'
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - 'sąjūdis'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+date_start: '1991'
+date_end: ''
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-13'
 tags:
@@ -85,6 +86,10 @@ Nenurodyta
   teiginys: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus L I E T U V O S I S T O R I J A 246 dainuoti.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,9 +154,37 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus L I E T U V O S I S T O R I J A 246 dainuoti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    .
+    Vilniaus televizijos bokšto šturmas – sovietų tankų
+    vikšrai traiško taikius gynėjus
+
+    L I E T U V O S  I S T O R I J A
+    246
+    dainuoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Sausio 13-osios gynybinės barikados]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Šarvuočiai]]
+- [[objektai/asmenys/Loreta Asanavičiūtė]]
+- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
+- [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
+- [[objektai/asmenys/Michailas Gorbačiovas]]

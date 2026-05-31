@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -31,7 +37,10 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per rinkimų agitaciją valdžia grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.'
@@ -64,7 +73,26 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp Lietuvos ir likusios SSRS dalies dar buvo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Visos Lietuvos įstaigos, ypač NKVD, prisipildė atvykusių
+    iš SSRS „specialistų“, kurie įvedė sovietinę tvarką, nors vidinė siena tarp
+    Lietuvos ir likusios SSRS dalies dar buvo.
+    Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-
+    ninkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies
+    priešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
 - [[objektai/zodynas/liaudies priešai]]

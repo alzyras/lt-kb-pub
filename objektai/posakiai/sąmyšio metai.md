@@ -70,3 +70,4 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
+- [[objektai/grupes/Romanovų dinastija]]

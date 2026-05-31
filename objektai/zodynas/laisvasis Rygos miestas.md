@@ -60,3 +60,9 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Rygiečiai]]

@@ -86,5 +86,6 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Barkauskas]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

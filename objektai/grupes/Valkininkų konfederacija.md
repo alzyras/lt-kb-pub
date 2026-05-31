@@ -55,6 +55,10 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   teiginys: 'Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipiškių priemiestyje įrengtoje stovykloje, vykdant Valkininkų nutarimą, buvo iš esmės suformuota nauja LDK kariuomenė - 7500 etatinių vienetų.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Jų alga - trisdešimt livry už ketvirtį.“ suvažiavimas, priėmęs „Valkininkų nutarimą“, kuriuo buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai, nutarta atimti iš Sapiegų jų turėtas pareigybes, o dvarus konfiskuoti.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -142,3 +146,42 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Jų alga - trisdešimt livry už ketvirtį.“ suvažiavimas, priėmęs „Valkininkų nutarimą“, kuriuo buvo įkurta LDK bajorijos generalinė konfederacija, suformuoti ypatingieji LDK valdžios organai, nutarta atimti iš Sapiegų jų turėtas pareigybes, o dvarus konfiskuoti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jų alga - trisdešimt livry už ketvirtį.“
+
+    suvažiavimas, priėmęs „Valkininkų nuta-
+    rimą“, kuriuo buvo įkurta LDK bajorijos
+    generalinė konfederacija, suformuoti ypa-
+    tingieji LDK valdžios organai, nutarta atimti
+    iš Sapiegų jų turėtas pareigybes, o dvarus
+    konfiskuoti. Priėmusi nutarimą respubli-
+    konų kariuomenė nužygiavo į Vilnių, kur
+    Šnipiškių priemiestyje įrengtoje stovykloje,
+
+    vykdant Valkininkų nutarimą, buvo iš
+    esmės suformuota nauja LDK kariuomenė -
+    7500 etatinių vienetų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Respublikonai]]
+- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/hegemonija]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/ivykiai/Valkininkų konfederacijos nutarimas (1700 m.)]]

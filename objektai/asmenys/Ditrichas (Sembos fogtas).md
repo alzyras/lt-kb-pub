@@ -221,4 +221,5 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 - [[objektai/asmenys/Derska]]
 - [[objektai/ivykiai/Ketvirtosios atskalūnybės sąmokslas]]
 - [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/Žirgų plauko spalvos tabu iš pagarbos dievams]]

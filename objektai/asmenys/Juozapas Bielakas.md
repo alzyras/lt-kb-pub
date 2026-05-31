@@ -56,3 +56,4 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/grupes/brigada]]

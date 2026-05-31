@@ -126,3 +126,16 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 ### Teminiai klasteriai
 - [[temos/karinis-terminas]]
 - [[temos/religinis-terminas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Danieliaus vainikavimas karaliumi Drogičine (1253 m.)]]
+- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

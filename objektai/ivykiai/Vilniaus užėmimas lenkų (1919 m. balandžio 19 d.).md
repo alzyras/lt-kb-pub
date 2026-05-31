@@ -61,6 +61,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/asmenys/Povilas Lukšys]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Adynos|adynos]]

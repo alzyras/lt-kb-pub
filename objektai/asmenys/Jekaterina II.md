@@ -53,6 +53,10 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   teiginys: 'Nuo Jekaterinos II laikų į vietinio valdymo grandį buvo įtrauktos atskirų luomų savivaldos institucijos.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,10 +153,43 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jam pavaldi
+    buvo ir šiose gubernijose dislokuota kariuomenė.
+
+    L I E T U V O S  I S T O R I J A
+    100
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]
-- [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/zodynas/jakobinizmas]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]
+- [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/ivykiai/Targovicos konfederacijos akto paskelbimas]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]
 - [[objektai/zodynas/jakobinizmas jakobinų klubas]]
+- [[objektai/asmenys/Liudvikas XVI]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/luomas subluomas]]

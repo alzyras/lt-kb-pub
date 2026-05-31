@@ -57,5 +57,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių krikščionys demokratai]]
 - [[objektai/grupes/Lietuvos demokratų partija]]

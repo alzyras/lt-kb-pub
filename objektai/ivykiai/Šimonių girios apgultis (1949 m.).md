@@ -148,3 +148,18 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albinas (Vilniaus sufraganas)]]
+- [[objektai/asmenys/Albinas Kubilius-Rūgštymas]]
+- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Slučka-Šarūnas]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/daiktai/Partizanų bunkeriai]]
+- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
+- [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]
+- [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis]]

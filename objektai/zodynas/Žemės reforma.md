@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -38,7 +44,10 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'Šalies valdžiai sunkiai sekėsi kapitalistiniais pagrindais pertvarkyti Lietuvos žemės ūkį, sparčiai kintant geopolitinei situacijai neparengta ekonominių reformų programa, nelengva buvo netgi įsivaizduoti jų apimtį, gylį ir padarinius – pasaulyje tiesiog.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pirmuosiuose žemės reformos teisės aktuose numatyta grąžinti žemę ir išlikusį turtą buvusiems savininkams ar jų įpėdiniams.'
@@ -83,6 +92,26 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Šalies valdžiai sunkiai sekėsi kapitalistiniais pagrindais pertvarkyti Lietuvos žemės ūkį, sparčiai kintant geopolitinei situacijai neparengta ekonominių reformų programa, nelengva buvo netgi įsivaizduoti jų apimtį, gylį ir padarinius – pasaulyje tiesiog.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šalies valdžiai sunkiai sekėsi kapitalistiniais pagrindais pertvarkyti Lie-
+    tuvos žemės ūkį, sparčiai kintant geopolitinei situacijai neparengta ekono-
+    minių reformų programa, nelengva buvo netgi įsivaizduoti jų apimtį, gylį ir
+    padarinius – pasaulyje tiesiog nebūta tokios patirties. Pati žemės reformos
+    strategija kuriama ir diegiama vadovaujantis iš viršaus į apačią nukreiptu
+    administravimu, nepaisant žemės ūkyje dirbusiųjų nuomonės. Pirmuo-
+    siuose įstatymų aktuose numatyta grąžinti žemę ir išlikusį turtą buvusiems
+    savininkams ar jų įpėdiniams, privatizuoti kolektyvinių ir valstybinių ūkių
+    turtą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

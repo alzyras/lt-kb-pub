@@ -45,7 +45,15 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas]]
 - [[objektai/zodynas/barokas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
+- [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]
+- [[objektai/ivykiai/Jėzuitų ordino panaikinimas]]
+- [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
+- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]

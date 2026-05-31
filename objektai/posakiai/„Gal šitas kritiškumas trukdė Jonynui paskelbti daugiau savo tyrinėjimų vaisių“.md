@@ -30,7 +30,10 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Lietu­ vos valstybės praeitį, jis nuolat savo tvirta logika parodė, kaip reikia analizuoti šaltinius, ir kvėpė klausytojams visapusiško kritiškumo.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų vaisių.'
@@ -52,3 +55,24 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lietu­ vos valstybės praeitį, jis nuolat savo tvirta logika parodė, kaip reikia analizuoti šaltinius, ir kvėpė klausytojams visapusiško kritiškumo.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietu­
+    vos valstybės praeitį, jis nuolat savo tvirta logika parodė, kaip reikia
+    analizuoti šaltinius, ir kvėpė klausytojams visapusiško kritiškumo.
+    «Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo
+    tyrinėjimų vaisių »^82.
+    Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo tyrinėjimų vaisių]]

@@ -90,6 +90,8 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Radvilos]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/raitarai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]

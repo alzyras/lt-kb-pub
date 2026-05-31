@@ -55,3 +55,4 @@ Dusburgietis teigia, kad neilgai trukus vadas Surminas paliko šią pilį prisie
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Surminas]]
 - [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]
+- [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.)]]

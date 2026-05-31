@@ -161,5 +161,18 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Machmetas]]
+- [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
+- [[objektai/grupes/Radvilos]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/ivykiai/Kriavo aktas]]
 - [[objektai/asmenys/Mykolas Borisovičius Šeina]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/asmenys/Vladislovas Vaza]]
+- [[objektai/asmenys/Devletberdi]]
+- [[objektai/grupes/Krimo totoriai]]
+- [[objektai/zodynas/saar]]

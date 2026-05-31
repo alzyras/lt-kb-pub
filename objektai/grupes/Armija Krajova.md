@@ -46,3 +46,5 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vietinė rinktinė]]
+- [[objektai/ivykiai/Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte|Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)]]

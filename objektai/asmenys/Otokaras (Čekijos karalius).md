@@ -57,9 +57,6 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Čekai]]

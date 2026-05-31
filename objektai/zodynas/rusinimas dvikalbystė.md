@@ -62,7 +62,10 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/rusinimas]]
+- [[objektai/asmenys/J. Stalinas]]
+- [[objektai/asmenys/Josifas Stalinas]]
+- [[objektai/asmenys/Nikita Chruščiovas]]
 - [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“|„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)]]

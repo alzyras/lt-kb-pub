@@ -68,5 +68,6 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/bojarinai]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/posakiai/vartais į Rusiją]]

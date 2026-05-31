@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -48,6 +54,10 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Augustas II susitarė su Rusijos valdovu Petru I dél jo paramos prieš Švediją.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -141,3 +151,36 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   priskyrimo_pagrindas: explicit_variant
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Augustas II susitarė su Rusijos valdovu Petru I dél jo paramos prieš Švediją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Todėl Augustas 11 nusprendė
+    išvyti iš Livonijos švedus ir ją užvaldyti.
+    Augustas II susitarė su Rusijos valdovu
+    Petru I dél jo paramos prieš Švediją. Augus-
+    tas II pripažino Prūsijos kunigaikštystės
+    “(kartu su Brandenburgu) statuso pakélima
+    _, į karalystės lygmenį, mainais į Prūsijos-
+    „ Brandenburgo įsipareigojimą per savo te-
+    ritoriją nepraleisti švedų kariuomenės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustas II]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Jaunutis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/santvarka]]

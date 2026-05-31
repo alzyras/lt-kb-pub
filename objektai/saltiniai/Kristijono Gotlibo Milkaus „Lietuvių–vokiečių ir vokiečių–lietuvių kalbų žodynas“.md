@@ -45,7 +45,10 @@ tags:
   teiginys: 'Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus.'
   pagrindžia:
     - c-002
-
+- t-004
+  teiginys: 'III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių pagyrimų kaip lietuvių kalba.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus.'
@@ -75,7 +78,7 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
+    - t-004
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją.'

@@ -75,4 +75,5 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Motiejus]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/ulonai]]
 - [[objektai/zodynas/murza]]

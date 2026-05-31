@@ -50,3 +50,4 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/asmenys/J. Aukštuolaitis]]
 - [[objektai/grupes/Tautinės darbo apsaugos batalionas]]
+- [[objektai/zodynas/zonderkomanda]]

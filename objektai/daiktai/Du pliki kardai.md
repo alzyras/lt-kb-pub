@@ -72,6 +72,10 @@ Nenurodyta
   teiginys: 'Ordino magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­ viram lauke, bet nesislapstyti giriose, kaip iki šiol.'
   pagrindžia:
     - c-004
+- t-009
+  teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -139,7 +143,31 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol. Jeigu per
+    maža esą kautynėms lauko, Ordinas sutinkąs kiek pasitraukti
+    ir užleisti vietos, tik pageidaująs, kad išlystų iš girios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

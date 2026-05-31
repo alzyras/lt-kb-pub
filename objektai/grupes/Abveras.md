@@ -45,5 +45,7 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/K. Škirpa]]
 - [[objektai/grupes/Nacių Vokietija]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]

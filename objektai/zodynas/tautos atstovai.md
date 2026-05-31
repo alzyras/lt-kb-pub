@@ -58,7 +58,13 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Valstybės Taryba]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/A. Hitleris]]
 - [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/ivykiai/Lietuvos Valstybės Konstitucijos priėmimas (1922 m. rugpjūčio 1 d.)]]
+- [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]
+- [[objektai/grupes/Ministerių kabinetas]]

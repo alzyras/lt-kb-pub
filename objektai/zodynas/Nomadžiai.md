@@ -58,3 +58,4 @@ Vartojamos formos: `nomadžiais`.
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Šaldros|šaldros]]
+- [[objektai/grupes/Žemaičių medininkai]]

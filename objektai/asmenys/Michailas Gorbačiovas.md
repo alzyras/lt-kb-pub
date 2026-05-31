@@ -7,14 +7,15 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1990 m.'
   - '1991 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-date_start: '1991'
-date_end: ''
+date_start: '1990'
+date_end: '1991'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -67,6 +68,14 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   teiginys: 'Gorbačiovo reformoms, o jį patį nuvers „vanagai“.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'demonstracijoje dalyvavusių maskviečių skandavo šūkius „Šalin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“ Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluotą.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -251,10 +260,64 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius VI s k y r i u s DAINUOJANTI REVOLIUCIJA SU SĄJŪDŽIU UŽ LIETUVĄ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar Gruzijoje, spengė tyla – pilki.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    gegužės 18 d. KGB numeriais pažymėjo eisenos lyderius
+
+    VI s k y r i u s
+    DAINUOJANTI
+    REVOLIUCIJA
+    SU SĄJŪDŽIU UŽ LIETUVĄ
+    S
+    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
+    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
+    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
+    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
+    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
+    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
+    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
+    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
+    liausiai ji pati ėmėsi iniciatyvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'demonstracijoje dalyvavusių maskviečių skandavo šūkius „Šalin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“ Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluotą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1991 m. kovą daugiau nei
+    200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo šūkius „Ša-
+    lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“
+    Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie
+    tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-
+    tą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/posakiai/Gorbis ar Lietuva]]
+- [[objektai/asmenys/Jelena Boner]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„kas buvo pavogta, turi būti grąžinta“]]
+- [[objektai/grupes/Jedinstvo]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]
+- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
+- [[objektai/posakiai/Šalin rankas nuo Lietuvos]]
+- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

@@ -9,18 +9,18 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "XIX a. antrasis dešimtmetis"
-datos: []
-periodas: "naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XIX"
-date_start: ""
-date_end: ""
 vaidmenys:
   - "kultūrinė draugija"
   - "švietėjiška draugija"
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: 'naujieji_laikai'
+periodo_grupes: []
+amziai:
+  - 'XIX'
+date_start: ''
+date_end: ''
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags: []
@@ -78,7 +78,10 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: 'Ypač pagarsėjo Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­ ventojai.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Draugijos sudėtis ir narių pasivadinimas senovės lietuvių dievybių vardais.
@@ -142,15 +145,43 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-004
+  santrauka: 'Ypač pagarsėjo Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­ ventojai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ypač pagarsėjo
+    Vilniuje veikusi šubravcų (nenaudėlių) draugija, kuriai priklausė
+    universiteto elitas - profesoriai, žymūs ir įtakingi miesto gy­
+    ventojai. Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­
+    matą bei netikrų krikščionių dievus, draugijos nariai pasivadino
+    senovės lietuvių dievybių vardais: Jokūbas Šimkevičius - Per­
+    kūnu, Kazimieras Kontrimas - Poklumi, Janas Chodzka - Vaiž­
+    gantu, Juozapas Zavadskis - Svaistiku, M. Balinskis - Aušla-
+    viu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Balinskis]]
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mykolas Balinskis]]
+- [[objektai/paprociai/Visuomenės būklės ir reformų aptarimas draugijose, salonuose ir vakaruose]]
 - [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]
 - [[objektai/paprociai/Šubravcų narių pasivadinimas senovės lietuvių dievybių vardais]]
 - [[objektai/paprociai/Šubravcų satyrinė spaudos kritika]]
+- [[objektai/asmenys/Janas Chodzka]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/asmenys/Jokūbas Šimkevičius]]
+- [[objektai/asmenys/Juozapas Zavadskis]]
+- [[objektai/asmenys/Kazimieras Kontrimas]]
+- [[objektai/asmenys/Matas (Pipino sūnus)]]
+- [[objektai/asmenys/Janas Lasickis]]
+- [[objektai/autoriai/Janas Lasickis Joh. Lasicius]]

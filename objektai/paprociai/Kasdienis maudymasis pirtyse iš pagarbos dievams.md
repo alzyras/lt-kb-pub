@@ -45,6 +45,10 @@ Nenurodyta
   pagrindžia:
     - c-001
     - c-002
+- t-002
+  teiginys: 'Dusburgietis teigia, kad kitą dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia tesėti susitarimą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,10 +86,27 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Dusburgietis teigia, kad kitą dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia tesėti susitarimą.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Kitą
+    dieną prideda dar vieną ženklą214 ir šitaip daro kasdien, iki prieina tą dieną, kurią reikia
+    tesėti susitarimą. Iš pagarbos savo dievams kurie ne kurie kasdien maudosi pirtyse, kiti
+    pirties tiesiog kęste nekenčia. Moterys ir vyrai pratę verpti, vieni — linus, kiti — vilnas,
+
+      211 Senovės paprotys reikalavo, kad jaunikis pinigais ar daiktais mokėtų jaunosios
+    tėvui, t.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/pinigai]]
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai

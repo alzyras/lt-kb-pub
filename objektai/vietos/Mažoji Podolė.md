@@ -39,7 +39,10 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mažoji Podolė buvo tarp Aukštutinio Pietinio Bugo ir Dniestro, į vakarus nuo minėtos mūšio vietos.'
@@ -95,3 +98,26 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Algirdo remiami Karijotaičiai,
+    įsitvirtinę Mažojoje Podolėje, vietiniams
+    gyventojams pritariant, organi-
+    zavo šio krašto gynybą nuo
+    totorių puolimų bei grobimų, statė minė-
+    tas Smotričo, Bakotos, Kameneco pilis.
+    Pietinių žemių (Kijevo, Mažosios Podolės
+    ir kt.) išėmimas iš tiesioginės Aukso ordos
+    valdžios vietiniams rusėnams, kaimyni-
+    nėms Rytų Europos šalims (Lenkijai, iš
+    dalies Moldavijai, Vengrijai) sudarė sau-
+    gesnę padėtį rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

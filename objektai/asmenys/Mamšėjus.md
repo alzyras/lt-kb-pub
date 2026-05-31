@@ -60,9 +60,9 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
-- [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
+- [[objektai/asmenys/Nogajus]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]

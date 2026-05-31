@@ -142,3 +142,21 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Druzigeris]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas iš Lichtenšteino]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/grupes/Pomeranai]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/legatas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/stalininkas]]
+- [[objektai/daiktai/Žirgai]]

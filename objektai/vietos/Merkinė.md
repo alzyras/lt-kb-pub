@@ -96,6 +96,22 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginys: 'Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju.'
   pagrindžia:
     - c-010
+- t-017
+  teiginys: 'Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.'
+  pagrindžia:
+    - c-011
+- t-018
+  teiginys: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  pagrindžia:
+    - c-012
+- t-019
+  teiginys: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
+  pagrindžia:
+    - c-013
+- t-020
+  teiginys: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -307,3 +323,86 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-011
+  santrauka: 'Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės, Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glinsko kunigaikščiui Mykolui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Atlikta ir duota Vilniuje, antradie­
+    nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai­
+    siais Viešpaties metais nuo jo gimimo, mūsų valdymo antrai­
+    siais. Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
+    ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems
+    LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės,
+    Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glins-
+    ko kunigaikščiui Mykolui, Polocko laikytojui Stanislovui Hle-
+    bavičiui, Kauno laikytojui, mūsų maršalkai ir jos šviesybės
+    rūmininkui Albertui Janavičiui, apaštališkojo sosto protono-
+    taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
+    Erazmo, dalyvavusio sprendime, ranka.
+
+    ## Puslapis 384
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    KARALIAUS ALEKSANDRO TESTAMENTAS
+    1506 METAI
+    (Iš Dogelio rankraščių buv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-012
+  santrauka: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
+    rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-013
+  santrauka: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    , 91, 97).
+    Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
+    link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­
+    mas. Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų
+    plote, arti Nemuno, išlikusi lietuvių kalbos sala — Lazūnai (į rytus
+    nuo Lydos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-014
+  santrauka: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
+    lys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-
+    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
+    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
+    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
+    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
+
+    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
+    sėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020

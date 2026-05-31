@@ -133,3 +133,9 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Švedai]]
+- [[objektai/ivykiai/Karolio XII žygis į Rusiją ir Poltavos mūšis (1709 m.)]]
+- [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]

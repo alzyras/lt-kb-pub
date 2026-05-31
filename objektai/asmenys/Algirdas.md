@@ -22,12 +22,16 @@ vaidmenys:
   - 'Lietuvos valdovas'
 dalyviai: []
 susije_irasai: []
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1365 m.'
+  - '1378 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1365'
+date_end: '1378'
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-24'
 tags:
@@ -229,6 +233,63 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - c-041
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-042
+  teiginys: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  pagrindžia:
+    - c-042
+- t-043
+  teiginys: 'Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­ dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios.'
+  pagrindžia:
+    - c-043
+- t-044
+  teiginys: 'Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Mazovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas.'
+  pagrindžia:
+    - c-044
+- t-045
+  teiginys: 'Tie politiniai pokyčiai Vilniu­ je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­ dymą, kaip ir patį miestą, perleido į Algirdo rankas.'
+  pagrindžia:
+    - c-045
+- t-046
+  teiginys: 'Jau Algirdo viešpatavimo pradžioje Šv.'
+  pagrindžia:
+    - c-046
+- t-047
+  teiginys: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
+  pagrindžia:
+    - c-047
+- t-048
+  teiginys: 'Algirdas buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­ bėje, pasakyta, kad tai yra senos lais­ vės, senolio Algirdo ir jo įpėdinių suteiktos Vilniui, atnaujinimas.'
+  pagrindžia:
+    - c-048
+- t-049
+  teiginys: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
+  pagrindžia:
+    - c-049
+- t-050
+  teiginys: 'Tikriausiai jau Algirdo laikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­ simindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­ nėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­ se miestuose, be to, išmanė, kiek naudos.'
+  pagrindžia:
+    - c-050
+- t-051
+  teiginys: 'Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­ tu ir Algirdo sostine, kai kurių autorių dvasininkų1 many­ mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats tapęs vienuoliu ir.'
+  pagrindžia:
+    - c-051
+- t-052
+  teiginys: 'Algirdas kartais gyvendavo Paneriuose, šiandien priklausančiuose Vilniaus kapitulai.'
+  pagrindžia:
+    - c-052
+- t-053
+  teiginys: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
+  pagrindžia:
+    - c-053
+- t-054
+  teiginys: 'Algirdas buvo gavęs Krėvę (be to, kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­ das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus sritį valdė jis pats.'
+  pagrindžia:
+    - c-054
+- t-055
+  teiginys: 'Algirdas pabėgo ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir gavo valdyti Zaslaulį.'
+  pagrindžia:
+    - c-055
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Algirdui priklausė Krėva ir Vitebskas.
@@ -946,6 +1007,372 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+- c-042
+  santrauka: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija. Ši Gediminaičių šaka vėliau (XV a. pab.–XVI a. pr.) pasiekė
+    įtakos viršūnę. Jos atstovai vienu metu sėdėjo Lietuvos, Lenkijos, Čekijos
+    (1471–1526) ir Vengrijos (1490–1506) sostuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-043
+  santrauka: 'Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­ dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1836
+
+    ## Puslapis 18
+
+    ĮVADAS
+    R  ašydamas istoriją miesto, kuris bemaž du amžius buvo vie­
+    nos galingiausių Šiaurės Europos šalių sostinė, o vėliau, net iki
+    mūsų laikų, svarbiausias mokslo ir vyriausiosios valdžios cen­
+    tras Lietuvoje, turėjau omenyje du tikslus: ne tik stengiausi iš
+    įvairių kronikų ir senųjų, archyvuose saugomų rankraščių iš­
+    rinkti padavimus, bylojančius apie Vilniaus kilmę, tas teises ir
+    daugybę privilegijų, kuriomis jo gyventojai nuo senų laikų nau­
+    dojosi, ne tik atgaivinti amžininkų atmintyje ankstesnius, kele­
+    to amžių, įvykius toje sostinėje, bet ir, kiek tema ir galimybės
+    man leido, prisidėti prie kai kurių Lietuvos istorijos įvykių aiški­
+    nimo. Mažai težinoma mums patiems, o Europai visai negirdė­
+    ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge­
+    dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija
+    menkame plote išsitenkančios Tautos, kuri pati viena, savosios
+    pagonybės atskirta nuo kitų Europos šalių, vien savo narsos dėka
+    įstengė atremti baisius mongolų antpuolius, pažaboti Rusią ir
+    nesileisti pavergiama godžiai grobuoniško Prūsijos Kryžiuočių
+    ordino. Tokie įvykiai civilizuotam pasauliui nėra neįdomūs, ta­
+    čiau, norint juos aiškiai nušviesti ir parašyti tokio vardo vertą
+    lietuvių Tautos Istoriją, be daugelio kitų sąlygų, pirmiausia rei-
+    2
+
+    ## Puslapis 19
+
+    ĮVADAS
+    kia detaliai išnarplioti atskirų šios šalies miestų, būtent jos sos­
+    tinės, istoriją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
+- c-044
+  santrauka: 'Jau­ nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis - Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Mazovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­ jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­ lygdamas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik neilgai Lietuvos
+    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­
+    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
+    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
+    riteriai, gviešęsi grobio ir valdžios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+- c-045
+  santrauka: 'Tie politiniai pokyčiai Vilniu­ je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­ dymą, kaip ir patį miestą, perleido į Algirdo rankas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­
+    rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu
+    nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
+    Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
+    galingiausiu valdovu Šiaurės Europoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
+- c-046
+  santrauka: 'Jau Algirdo viešpatavimo pradžioje Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas. Jau Algirdo viešpatavimo pradžioje Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-046
+- c-047
+  santrauka: 'Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­ kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­ menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o gal Rytų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    - medinės bažnyčios ir bazilijo­
+    nų vienuolyno įkūrimą Vilniuje pri­
+    skiria Vitebsko kunigaikštytei Juli-
+    27
+
+    ## Puslapis 44
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
+    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
+    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
+    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
+    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
+    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
+    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
+    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
+    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
+    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19. Šios
+    19
+    Waddyngas,  Mažesniųjų brolių
+    ordino istorijos autorius, ir jo komen­
+    tatorius Antoni Melissanius
+    de Macro pasakoja, kad dar 1333
+    metais (prieš Gedimino mirtį) Pet­
+    ras Goštautas, būdamas Podolės vai­
+    vada, iš Rusios ir Podolės atkvietęs
+    į Vilnių keturiolika Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-047
+- c-048
+  santrauka: 'Algirdas buvo dar Lie­ tuvos didysis kunigaikštis, privile­ gijoje, 1440 metais duotoje Romos katalikų ir stačiatikių tikėjimo Vil­ niaus miestiečiams, kuriems leidžia­ ma laisvai prekiauti nemokant mui­ to mokesčio visoje Lietuvos valsty­ bėje, pasakyta, kad tai yra senos lais­ vės, senolio Algirdo ir jo įpėdinių suteiktos Vilniui, atnaujinimas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Betgi yra ir
+    Rudamina, miestelis, arba bažnyt­
+    kaimis, pietryčiuose, už pusantros
+    mylios nuo miesto.
+    26
+    Kazimiero IV, kai jis buvo dar Lie­
+    tuvos didysis kunigaikštis, privile­
+    gijoje, 1440 metais duotoje Romos
+    katalikų ir stačiatikių tikėjimo Vil­
+    niaus miestiečiams, kuriems leidžia­
+    ma laisvai prekiauti nemokant mui­
+    to mokesčio visoje Lietuvos valsty­
+    bėje, pasakyta, kad tai yra senos lais­
+    vės, senolio Algirdo ir jo įpėdinių
+    suteiktos Vilniui, atnaujinimas. Con­
+    cedimus ac darnus hanc libertatem, quod
+    per totum nostrum Magnum Ducatum
+    Lithuaniae et Russiae nullum thelo-
+    neum a quibuscumque mercantiis darė
+    et solvere tenebuntur; sed juxta consu­
+    etudinem antiquam a Nostris Praede­
+    cessoribus et signanter Serenissimis
+    Principibus Avo videlicet Olgerdo,
+    olim Magno Duce Lithuaniae et Domi­
+    no Vladislao Rege Poloniae, tunc autem
+    32
+
+    ## Puslapis 49
+
+    I  KNYGA
+    padaugėjo gyventojų dėl čionai atvykstančių rusinu, kuriuos
+    ypač užtarė Marija, Algirdo žmona, pasinešusi lietuviams pa­
+    gonims skiepyti krikščionišką graikų apeigų tikėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-048
+- c-049
+  santrauka: 'Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitrijaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam nepanorus mokėti nuo Seversko duoklės kaipo viršesniam valdovui, sumušęs pradinėse.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Paminėsime tad tik
+    žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
+    Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­
+    ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri-
+    jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam
+    nepanorus mokėti nuo Seversko duoklės kaipo viršesniam
+    valdovui, sumušęs pradinėse kautynėse prie Nedokudo-
+    vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs
+    patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­
+    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
+    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
+    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
+    139
+
+    ## Puslapis 156
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
+    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-049
+- c-050
+  santrauka: 'Tikriausiai jau Algirdo laikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­ simindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­ nėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­ se miestuose, be to, išmanė, kiek naudos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Žydai, dar XI am­
+    žiuje paplitę kaimyninėje Lenkijoje, Lietuvoje irgi nuo seno
+    buvo ne naujiena, juk laisvai galėjo į ją atvykti, tiek Lenkijos
+    sieną kirsdami, tiek ir iš rytų pusės. Tikriausiai jau Algirdo
+    laikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­
+    simindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­
+    nėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­
+    se miestuose, be to, išmanė, kiek naudos gali duoti turtai, verslai
+    bei įgimti sugebėjimai prekiauti tos tautos, anuomet ne tokios
+    kenksmingos kaip dabar. Taigi siekdamas to, nes matė jau ga-
+    66
+    Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-050
+- c-051
+  santrauka: 'Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­ tu ir Algirdo sostine, kai kurių autorių dvasininkų1 many­ mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats tapęs vienuoliu ir.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-051
+- c-052
+  santrauka: 'Algirdas kartais gyvendavo Paneriuose, šiandien priklausančiuose Vilniaus kapitulai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tikra bent jau tai, kad iki jo nei istorijoje, nei
+    rašto paminkluose nėra jokio pėdsako, kad kuris nors Kazi­
+    miero pirmtakų būtų užsiminęs apie Rūdninkus. Algirdas
+    kartais gyvendavo Paneriuose, šiandien priklausančiuose
+    Vilniaus kapitulai. Pasiligojusi Vytauto žmona Julijona bu­
+    vo apsistojusi kažkokiame kunigaikščių kaime, vadinama­
+    me Memitz, prie Vilniaus, bet iš to pavadinimo, iškraipyto
+    vokiečių raštininko, šiandien negalima suprasti, kokia tai
+    buvo vieta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-052
+- c-053
+  santrauka: 'Dusburgietis teigia, kad 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį belaisvį (SRP, 2, 349); 1378 m.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-053
+- c-054
+  santrauka: 'Algirdas buvo gavęs Krėvę (be to, kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­ das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus sritį valdė jis pats.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    , 14.
+    (^4) ) Taip pat Gediminas pirmasis suprato reikalą Lietuvą civilizuoti,
+    pagerinti jos ekonomiškąjį vystymąsi ir tam reikalui kviesti žmonių iš
+
+
+    ```
+    — XXI —
+    ```
+    Dar gyvas Gediminas visą didžiulę savo valstybę buvo
+    padalinęs savo sūnums. Algirdas buvo gavęs Krėvę (be to,
+    kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­
+    das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis
+    — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus
+    sritį valdė jis pats.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-054
+- c-055
+  santrauka: 'Algirdas pabėgo ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir gavo valdyti Zaslaulį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tai buvo vyriausias brolių — Al­
+    girdas.
+    Jaunutis iš Vilniaus buvo išvytas jėga. Išsyk jis pabėgo
+    ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
+    gavo valdyti Zaslaulį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-055
 
 ## Ryšiai
 ### Susiję objektai
@@ -1047,17 +1474,122 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`]]
 - [[objektai/posakiai/„nuo jūros iki jūros“]]
 - [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/ivykiai/Kryžiaus karai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Narimantas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas Didysis]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/diecezija]]
+- [[objektai/zodynas/in partibus infidelium]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/tėviškė]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/paprociai/Algirdo religinio pakantumo norma ir krikščionių vienuolių nevaržymas]]
 - [[objektai/ivykiai/Algirdo sprendimas dėl krikščionių vienuolių ir tikėjimo laisvės]]
+- [[objektai/ivykiai/Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)]]
 - [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Antanas Valionis]]
+- [[objektai/zodynas/Arkikomtūras]]
+- [[objektai/asmenys/Arvydas Sabonis]]
+- [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
+- [[objektai/posakiai/Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kunigaikštį Vytautą, Tavo dėdę]]
+- [[objektai/ivykiai/Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas]]
+- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
+- [[objektai/ivykiai/Dmitrijaus Kaributo suėmimas ir įkalinimas Vilniaus Aukštutinėje pilyje]]
+- [[objektai/asmenys/Dmitrijus Doniškis]]
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
+- [[objektai/asmenys/Dmitrijus Kaributas]]
+- [[objektai/grupes/Dominikonų ordinas]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/grupes/Europos Parlamentas]]
+- [[objektai/grupes/Europos Sąjunga]]
+- [[objektai/zodynas/Feodalinė visuomenė lenas vienvaldystė]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
+- [[objektai/daiktai/Goštauto liepa]]
+- [[objektai/ivykiai/Goštauto naujos pranciškonų bažnyčios ir vienuolyno pastatydinimas Smėlynėje]]
+- [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]
+- [[objektai/asmenys/Jonas Lonei]]
+- [[objektai/asmenys/Jonas Paulius II]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/autoriai/Karamzinas]]
-- [[objektai/asmenys/Karijotas]]
+- [[objektai/autoriai/Karamzino]]
+- [[objektai/asmenys/Kazimieras IV]]
+- [[objektai/ivykiai/Kazimiero IV privilegijos Vilniaus miestiečiams suteikimas (1440 m.)]]
+- [[objektai/ivykiai/Kryžiuočių žygis iki Vilniaus tvirtovių (1375 m.)]]
+- [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]
+- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Lietuvos trispalvė]]
+- [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]
+- [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]
+- [[objektai/asmenys/Marija (Algirdo žmona)]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis]]
+- [[objektai/grupes/Naugardo, Pskovo, Rygos ir Maskvos pirkliai]]
+- [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]]
+- [[objektai/zodynas/Pataurininkis]]
+- [[objektai/asmenys/Patirgas]]
+- [[objektai/asmenys/Patrikas, arba Patricijus]]
 - [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/zodynas/Puslapis 67]]
+- [[objektai/paprociai/Riteriškas vaišinimas ir dovanojimas taikos bei politinių susitarimų aplinkoje]]
+- [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas]]
 - [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]
+- [[objektai/asmenys/Senda Berenson-Abbot]]
+- [[objektai/asmenys/Simonas Lengvenis]]
+- [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/ivykiai/Tverės kautynės]]
+- [[objektai/ivykiai/Ugros taika]]
+- [[objektai/asmenys/Vaidila]]
+- [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
+- [[objektai/daiktai/Varpai]]
+- [[objektai/asmenys/Vasilijus Čartoriskis]]
+- [[objektai/grupes/Venedai]]
 - [[objektai/ivykiai/Vilniaus apgultis ir miesto padegimas (1377 m.)]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miestiečių tarpregioninė prekyba ir muito laisvė]]
 - [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m.]]
 - [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
+- [[objektai/ivykiai/Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Zygfridas iš Da[he]nfeldo]]
+- [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]
+- [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/epas]]
+- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/regula]]
+- [[objektai/posakiai/rex` `bazileus]]
 - [[objektai/zodynas/talkininkas]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/posakiai/Čia pirmoji yra lietuvių tautos vieta]]
+- [[objektai/grupes/Šv. Bazilijaus ordinas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon]]
 - [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/asmenys/Jaunutis]]

@@ -9,7 +9,7 @@ susije_irasai:
   - '[[Žemaitija]]'
   - '[[Nemunas]]'
 saltiniai:
-  - '[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]'
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1236 m.'
@@ -41,6 +41,7 @@ periodo_grupes:
   - 'LDK'
   - 'modernioji Lietuva'
   - 'viduramžiai'
+  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIII'
   - 'XIV'
@@ -203,6 +204,38 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginys: 'Jis apvažiavo Že­ maičių kraštą, apklausė vietinių gyventojų, vokiečių liudininkų ir sudarė sienų raportą, kuriame į Žemaitijos ribas įskaitė ne tik Veliuoną, bet ir Klaipėdą.'
   pagrindžia:
     - c-033
+- t-039
+  teiginys: 'Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.'
+  pagrindžia:
+    - c-034
+- t-040
+  teiginys: 'Lietuvai suduotas ir didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc.'
+  pagrindžia:
+    - c-035
+- t-041
+  teiginys: 'Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje L I E T U V O S I S T O R I J A 218 Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietuviai sudarė apie 80 proc.'
+  pagrindžia:
+    - c-036
+- t-042
+  teiginys: 'Birželio 10 dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje.'
+  pagrindžia:
+    - c-037
+- t-043
+  teiginys: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O.'
+  pagrindžia:
+    - c-038
+- t-044
+  teiginys: 'Dusburgietis teigia, kad tuo pat metu „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.'
+  pagrindžia:
+    - c-039
+- t-045
+  teiginys: 'Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187.'
+  pagrindžia:
+    - c-040
+- t-046
+  teiginys: 'Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai, lamatiečiai, dar toliau į šiaurę, Klaipėdos apylinkėse (dab.'
+  pagrindžia:
+    - c-041
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -749,3 +782,141 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-038
+- c-034
+  santrauka: 'Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
+    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
+    Lietuviams mainų principas netiko, nes Vilnius – senoji sostinė, tačiau
+    uostas labai rūpėjo. Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
+    nistracija, remiama bataliono prancūzų pėstininkų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-035
+  santrauka: 'Lietuvai suduotas ir didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvai suduotas ir
+    didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc. Lietuvos
+    teritorijos ir 5 proc. gyventojų, prarasta trečdalis ekonomikos, o 70 proc.
+    šalies eksporto ėjo per Klaipėdą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-036
+  santrauka: 'Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje L I E T U V O S I S T O R I J A 218 Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietuviai sudarė apie 80 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors sovietmečiu daug rusakalbių apsi-
+    gyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje
+
+    L I E T U V O S  I S T O R I J A
+    218
+    Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietu-
+    viai sudarė apie 80 proc. visų gyventojų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-037
+  santrauka: 'Birželio 10 dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kadangi iniciatyvinę
+    grupę sudarė visoje šalyje žinomi in-
+    teligentai ir jų skelbiamas tautinio atgimimo idėjas parėmė daugelis garsių
+    visuomenės veikėjų (Vytautas Petkevičius, Justinas Marcinkevičius), žinia
+    apie LPS iniciatyvinę grupę žaibiškai pasklido po visą Lietuvą. Birželio 10
+    dieną LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 – Klaipėdoje. Pirmieji
+    tūkstantiniai mitingai pasisekė: birželio 24 dieną Gedimino (dab.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-038
+  santrauka: 'Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities, o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva L I E T U V O.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nujausdama kurlink judėjimas suka, Maskva darė viską, kad sustab-
+    dytų eventualų nepriklausomybės atkūrimą. Griebtasi šantažo – grasinta
+    prijungti jau lietuvišką Klaipėdos kraštą prie RSSFR Kaliningrado srities,
+    o iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomi-
+    ją ar net mini Lietuvos SSR (Transdnistrijos pavyzdžiu), jeigu Lietuva
+
+    L I E T U V O S  I S T O R I J A
+    240
+    Michailo Gorbačiovo nesėkmingas vizitas Vilniuje (1990 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
+- c-039
+  santrauka: 'Dusburgietis teigia, kad tuo pat metu „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    užpuolė danų vasalinėje
+    priklausomybėje buvusią Revelio žemę; kai sekantį mėnesį Pskovą puolė Livonijos
+    ordinas, Lietuvos ir pskoviečių jėgos atstūmė priešą nuo miesto sienų55. Tuo pat metu
+    „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias
+    pilis. Vasarą Lietuvos kariuomenė smogė Ordinui, puldama Sembą ties Vėluva, o rudenį
+    patraukė  į Dobrynės kunigaikštystę, gindama Mazoviją, kurią norėta  išlaikyti savo
+    pusėje56.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+- c-040
+  santrauka: 'Dusburgietis teigia, kad nemunas — taip pat upė, prasidedanti Rusios valdose, o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo187.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Vysla — tai upė, atitekanti nuo
+    Krokuvos į Pomeranijos žemę; prie Gdansko185 pilies įtekėdama į jūrą, ji atskiria Lenkiją
+    bei Pomeraniją nuo Prūsijos186. Nemunas — taip pat upė, prasidedanti Rusios valdose,
+    o prie Klaipėdos pilies bei miesto įtekanti į jūrą, ji taip pat atskiria Prūsiją nuo Rusios,
+    Lietuvos ir Kuršo187.
+      1236 m.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
+- c-041
+  santrauka: 'Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai, lamatiečiai, dar toliau į šiaurę, Klaipėdos apylinkėse (dab.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Į šiaurę nuo Nemuno žiočių, Minijos
+    žemupyje, gyveno skalviai, lamatiečiai, dar toliau  į šiaurę, Klaipėdos apylinkėse (dab.
+    Lietuvos TSR šiaurės vakarų kampas), prasidėjo kuršių gyvenama teritorija (LAA, t. 3,
+    p. 18, žemėl. Nr. 9; plg. Pakarklis P. Klaipėdos srities gyventojų tautybė..., p. 173; SŽM,
+    žemėl.).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-046

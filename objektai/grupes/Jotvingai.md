@@ -61,3 +61,14 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Brunonas]]
+- [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Sėliai]]
+- [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
+- [[objektai/asmenys/Vytenis]]

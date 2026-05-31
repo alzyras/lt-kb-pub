@@ -57,9 +57,14 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
+- [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/unija]]
 - [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas]]
 - [[objektai/posakiai/senovės negriauname, naujovių neįvedame]]
+- [[objektai/zodynas/ekspansija]]

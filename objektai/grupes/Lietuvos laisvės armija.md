@@ -49,6 +49,10 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   teiginys: '1943 m. įstojo į Lietuvos laisvės armijos (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Tarnavo Lietuvos kariuomenėje, buvo Šaulių sąjungos narys.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,3 +100,32 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tarnavo Lietuvos kariuomenėje, buvo Šaulių sąjungos narys.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tarnavo Lietuvos kariuomenėje,
+    buvo Šaulių sąjungos narys. 1943 m. įstojo į Lietuvos laisvės armijos
+    (LLA) organizaciją, jam suteiktas jaunesniojo leitenanto laipsnis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Kardas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
+- [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]
+- [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]
+- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]

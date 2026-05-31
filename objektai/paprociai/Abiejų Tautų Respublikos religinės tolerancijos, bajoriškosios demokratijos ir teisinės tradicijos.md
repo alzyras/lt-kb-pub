@@ -88,3 +88,7 @@ Nenurodyta
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
+- [[objektai/zodynas/bajoriškoji demokratija]]
+- [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
+- [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

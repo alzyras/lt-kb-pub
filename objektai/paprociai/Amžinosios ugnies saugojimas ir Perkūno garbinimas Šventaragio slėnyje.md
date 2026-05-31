@@ -141,5 +141,9 @@ Nenurodyta
 - [[temos/religinė-praktika]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Šventaragis]]
 - [[objektai/zodynas/gabija]]
+- [[objektai/paprociai/Amžinosios Gabijos ugnies ir Perkūno kulto apeigos Šventaragio slėnyje]]
+- [[objektai/zodynas/amžinoji ugnis Gabija]]

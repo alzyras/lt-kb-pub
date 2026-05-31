@@ -52,3 +52,5 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 
 ### Susiję objektai
 - [[objektai/grupes/Hanza]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]

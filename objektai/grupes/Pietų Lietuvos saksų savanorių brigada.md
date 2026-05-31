@@ -61,3 +61,4 @@ Pradžioje atvykę saksų savanoriai sudarė 46-ąją saksų savanorių divizij�
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/brigada]]

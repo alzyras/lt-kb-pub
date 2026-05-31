@@ -12,6 +12,15 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1360 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1360'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -68,6 +77,15 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Trisdešimt metų vėliau baisu­ sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­ jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­ galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus, nors ir smarkiai buvo pirmojo sumuštas.'
+  pagrindžia:
+    - c-012
+- t-009
+  teiginys: 'Tų žygių išdavos buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas - Aglenas ir jo įpėdinis Kotlogas-Timuras.'
+  pagrindžia:
+    - c-013
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą.'
@@ -236,37 +254,93 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-006
+- c-012
+  santrauka: 'Trisdešimt metų vėliau baisu­ sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­ jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­ galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus, nors ir smarkiai buvo pirmojo sumuštas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jų tarpe įvyko dideli skilimai,
+    prasidėję jau nuo 1360 metų. Trisdešimt metų vėliau baisu­
+    sis Vidurinės ir Vakarinės Azijos valdytojas Tamerlanas išvi­
+    jo Auksinės Ordos valdytoją Tochtamyšą, kuris dar pajėgė įsi­
+    galėti Rytų Europoje ir valdyti nemažus rusų žemių plotus,
+    nors ir smarkiai buvo pirmojo sumuštas. Pajutęs savo galy­
+    bę, jis įsigeidė atsisakyti nuo Tamerlano viršenybės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-013
+  santrauka: 'Tų žygių išdavos buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas - Aglenas ir jo įpėdinis Kotlogas-Timuras.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šis padarė
+    tris žygius sudrausti sukilusį Tochtamyšą. Tų žygių išdavos
+    buvo tokios, kad Auksinėj Ordoj buvo pasodintas Koiridžakas
+
+    - Aglenas ir jo įpėdinis Kotlogas-Timuras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Ediga]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Timuras]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]
 - [[objektai/asmenys/Burundajus]]
 - [[objektai/asmenys/Chudandachas]]
 - [[objektai/autoriai/Detmaro Liubeko]]
 - [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
 - [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
-- [[objektai/asmenys/Ediga]]
+- [[objektai/asmenys/Edyga]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
 - [[objektai/asmenys/Jonas Survila]]
 - [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]
+- [[objektai/asmenys/Kiprijonas]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
+- [[objektai/ivykiai/Lenkijos ir Lietuvos įsiveržimas į Brandenburgo valdas (1326 m.)]]
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]
 - [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
+- [[objektai/asmenys/Machmetas]]
 - [[objektai/asmenys/Mamšėjus]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]
+- [[objektai/grupes/Mongolų imperija]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
+- [[objektai/grupes/Pskovo respublika]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/asmenys/Tomas Survila]]
 - [[objektai/grupes/Totorių pajėgos]]
 - [[objektai/grupes/Užvolgio totoriai]]
 - [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
-- [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
+- [[objektai/zodynas/kondominiumas]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/daiktai/Šarvinės pirštinės]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
+- [[objektai/asmenys/Tochtamišas]]

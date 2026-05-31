@@ -90,5 +90,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/zodynas/vėliava]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokietijos maldininkai]]
 - [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/maldininkai maldininko įžadai|maldininkai / maldininko įžadai]]

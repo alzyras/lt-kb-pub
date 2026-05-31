@@ -54,6 +54,14 @@ tags:
   teiginys: 'Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­ čio dvare9.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vroclavo vyskupą, mylimą brolį, pa­ geidaudamas, kad didysis magistras lieptų jį palydėti į Kistriną ir pasi­ teirauti kunigaikščio Štolpenskio, ar minėtasis vyskupas turįs ar neturįs dėl ko.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,3 +145,55 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­ no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­ čio dvare9.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Jame pasakoja, kad „pasiunčiau nuo savęs maloningąjį poną Konradą, Vroclavo vyskupą, mylimą brolį, pa­ geidaudamas, kad didysis magistras lieptų jį palydėti į Kistriną ir pasi­ teirauti kunigaikščio Štolpenskio, ar minėtasis vyskupas turįs ar neturįs dėl ko.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jame pasakoja, kad „pasiunčiau nuo
+    savęs maloningąjį poną Konradą,
+    Vroclavo vyskupą, mylimą brolį, pa­
+    geidaudamas, kad didysis magistras
+    lieptų jį palydėti į Kistriną ir pasi­
+    teirauti kunigaikščio Štolpenskio, ar
+    minėtasis vyskupas turįs ar neturįs
+    dėl ko nuogąstauti iš jo ir tų, kurie
+    jam pavaldūs, pusės?" Tame pačia­
+    me laiške Švitrigaila prideda prašy­
+    mą: „kad Vroclavo gyventojams
+    duotų garantiją vykti per Ordino že­
+    mes, kad jie galėtų laisvai ir nevar­
+    žomai keliauti su savo prekėmis,
+    kadangi mums rodo daug palanku­
+    mo".
+    —  « —
+    213
+
+    ## Puslapis 230
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    miesto gyventojų prašymu, didysis kunigaikštis turėjo pa­
+    skirti valdytoją bei garantuoti jiems globą10.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

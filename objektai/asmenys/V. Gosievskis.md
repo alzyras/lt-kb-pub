@@ -54,3 +54,8 @@ Gosievskio pajėgas.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Radvilos]]
+- [[objektai/ivykiai/Kėdainių unija (1655 m. spalio 20 d.)]]

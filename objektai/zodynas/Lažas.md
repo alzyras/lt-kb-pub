@@ -78,5 +78,12 @@ Vartojamos formos: `lažu`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/daiktai/Duona]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/mezliava]]
+- [[objektai/zodynas/Valdymieras|valdymieras]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
 - [[objektai/zodynas/nuomininkas]]

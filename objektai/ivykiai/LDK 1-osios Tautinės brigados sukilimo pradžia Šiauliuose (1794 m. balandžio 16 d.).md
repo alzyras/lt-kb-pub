@@ -74,4 +74,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/LDK 1-oji Tautinė brigada]]
 - [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]
+- [[objektai/grupes/brigada]]
 - [[objektai/zodynas/husarai]]

@@ -78,4 +78,7 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Aukso orda]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/daiktai/Vytauto ženklas]]

@@ -87,3 +87,10 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/grupes/Oberostas]]
+- [[objektai/zodynas/separatinės taikos derybos]]

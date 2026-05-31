@@ -113,4 +113,5 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 ### Susiję objektai
 - [[objektai/daiktai/Pilys]]
 - [[objektai/grupes/Sembai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/ivykiai/Notangos pakraščio nuniokojimas ir Gadiko žūtis]]

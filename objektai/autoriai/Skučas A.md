@@ -57,3 +57,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
+- [[objektai/zodynas/pėstininkas]]

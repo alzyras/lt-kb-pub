@@ -74,6 +74,9 @@ rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]
+- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
 - [[objektai/zodynas/applicare prišlieti]]

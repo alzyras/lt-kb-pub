@@ -75,7 +75,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
-- [[objektai/asmenys/Kiprijonas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]

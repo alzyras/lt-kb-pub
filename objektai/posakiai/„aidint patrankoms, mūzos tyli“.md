@@ -54,3 +54,7 @@ Sakoma: aidint patrankoms, mūzos tyli.
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/grupes/Katalikų bažnyčia katalikai]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

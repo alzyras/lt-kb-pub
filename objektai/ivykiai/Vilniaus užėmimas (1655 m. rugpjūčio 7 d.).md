@@ -99,14 +99,17 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonušas (Mazovijos vyresnysis kunigaikštis)]]
+- [[objektai/asmenys/Jonušas Radvila]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/ivykiai/Tvanas]]
+- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
-- [[objektai/posakiai/„antilenkiškumas iš politikos pamažu virto kone religija“]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]

@@ -63,4 +63,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Antspaudai]]
 - [[objektai/zodynas/gubernija]]

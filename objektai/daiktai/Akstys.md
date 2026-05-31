@@ -89,3 +89,4 @@ Nenurodyta
 - [[objektai/daiktai/Brūklys]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
+- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]]

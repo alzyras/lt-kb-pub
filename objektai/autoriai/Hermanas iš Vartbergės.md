@@ -61,4 +61,7 @@ Dusburgietis teigia, kad epochai, kai vyko sunkus karas prieš Kryžiuočių ord
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/Henrikas Latvis]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/autoriai/Vygandas iš Marburgo]]

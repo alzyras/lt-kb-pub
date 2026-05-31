@@ -61,6 +61,10 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginys: 'Geremferdenas atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu.'
   pagrindžia:
     - c-006
+- t-010
+  teiginys: 'Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­ go valdovo rankų priimtų įvesdinimą, po to, globojamas maršalkos Radvilos, buvo išsiųstas į.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -172,6 +176,32 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-007
+  santrauka: 'Geremferdenas, Vytauto padedamas įvei­ kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­ go valdovo rankų priimtų įvesdinimą, po to, globojamas maršalkos Radvilos, buvo išsiųstas į.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    150
+
+    ## Puslapis 167
+
+    Il KNYGA
+    kailiu pamuštu apsiaustu ir prisegdamas kardą. Tačiau nau­
+    jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­
+    vo varžovu Kerimberdėjumi, kuris, savo ruožtu, irgi buvo
+    užmuštas brolio Geremferdeno, tad reikėjo inauguruoti Vil­
+    niuje naują chaną. Geremferdenas, Vytauto padedamas įvei­
+    kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės
+    sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­
+    go valdovo rankų priimtų įvesdinimą, po to, globojamas
+    maršalkos Radvilos, buvo išsiųstas į ordą, sėdo į tėvo sostą ir
+    liko ištikimas Lietuvai bei paslaugus75 iki pat mirties.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -182,5 +212,24 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Geremferdenas]]
+- [[objektai/posakiai/Herczog von Traken von Gottes Gnaden]]
+- [[objektai/asmenys/Kerimberdėjus]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Skomantas]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]
+- [[objektai/grupes/Krymo chanatas]]
+- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]

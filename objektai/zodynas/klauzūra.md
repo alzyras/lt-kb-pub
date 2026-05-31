@@ -48,3 +48,8 @@ Dusburgietis teigia, kad be to, jie sudegino du šimtus penkiasdešimt parapini�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/ivykiai/Lenkijos žemės nuniokojimas prūsų antpuoliais]]

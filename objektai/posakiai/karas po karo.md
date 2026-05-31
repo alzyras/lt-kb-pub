@@ -73,7 +73,18 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Blinkevičius]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/asmenys/J. Juška]]
+- [[objektai/asmenys/Josifas Stalinas]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/grupes/Lietuvos partizanai]]
+- [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]
+- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
+- [[objektai/asmenys/Petras Cernius-Tigras]]
+- [[objektai/asmenys/Petras Dilys-Tarzanas]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/posakiai/„karas po karo“]]

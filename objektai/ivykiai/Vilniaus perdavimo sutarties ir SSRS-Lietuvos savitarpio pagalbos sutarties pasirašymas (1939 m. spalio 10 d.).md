@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1939 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1939'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -56,6 +65,10 @@ Nenurodyta
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Jo kelionės išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žingsnis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -114,9 +127,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Jo kelionės išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žingsnis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jo kelionės išvakarėse
+    pradėta dalinė Lietuvos kariuomenės demobilizacija – rizikingas žings-
+    nis, nes kritinėje situacijoje sąlygų kariuomenei padidinti galėjo nebebūti.
+    Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Urbšį pasirašyti savitarpio
+    pagalbos sutartį, sutartį dėl Vilniaus ir Vilniaus krašto perdavimo ir sutartį
+    dėl dalies pietvakarių Lietuvos teritorijos perdavimo Vokietijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Josifas Stalinas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/demobilizacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Juozas Urbšys]]
+- [[objektai/asmenys/Viačeslavas Molotovas]]

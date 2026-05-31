@@ -46,3 +46,5 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/zodynas/jakobinizmas jakobinų klubas]]

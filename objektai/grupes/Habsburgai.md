@@ -229,8 +229,18 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas Augustas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Dobrogostas]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/asmenys/Inocentas VI]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/grupes/Lenkijos bajorų partija]]
+- [[objektai/ivykiai/Mohačo mūšis]]
 - [[objektai/asmenys/Mykolas Tromba]]
 - [[objektai/autoriai/Simono Grunau]]
+- [[objektai/asmenys/Vilhelmas Habsburgas]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

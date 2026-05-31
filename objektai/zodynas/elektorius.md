@@ -56,7 +56,11 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pacai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/asmenys/Henrikas von Plauenas]]
 - [[objektai/grupes/Karalaičio Jokūbo partija]]
 - [[objektai/asmenys/Karolis VI]]
+- [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
 - [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
 - [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/asmenys/Augustas III]]

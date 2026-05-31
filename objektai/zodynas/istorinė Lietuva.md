@@ -72,7 +72,14 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   teiginys: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
   pagrindžia:
     - c-004
-
+- t-011
+  teiginys: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
+  pagrindžia:
+    - c-005
+- t-012
+  teiginys: 'LDK bajorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos vardas kartu su LDK ribomis išplito toli į rytus ir apėmė plačias rytų slavų žemes.'
@@ -144,17 +151,86 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-005
+  santrauka: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Manoma, kad jei
+    ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos var-
+    das būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.
+    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
+    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
+    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
+    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
+    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
+    Lietuva, o šiandien ją vadiname istorine Lietuva.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-006
+  santrauka: 'LDK bajorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    XVI–XVIII a. LDK ba-
+    jorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais. Net oficialioji
+    valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis
+    siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lie-
+
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    15
+    tuvių kalba. Istorinės Lietuvos dainiumi tapo žymusis XIX a. lenkų poe-
+    tas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu
+    save laikė Nobelio premijos laureatas Česlovas Milošas (Czesław Miłosz).
+    Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-
+    viams“, kuriems XIX–XX a. sandūroje pradėjo oponuoti „jaunalietuviai“,
+    po poros dešimtmečių sukūrę Lietuvos Respubliką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
 - [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Adomas (auksakalys)]]
+- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Mickevičius]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/asmenys/Česlovas Milošas]]
+- [[objektai/asmenys/Andrius Sniadeckis]]
+- [[objektai/grupes/Aušrininkai]]
+- [[objektai/asmenys/Czesław Miłosz]]
+- [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
 - [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
+- [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/autoriai/Joachimas Lelevelis (istorikas)]]
+- [[objektai/asmenys/Johanas Pėteris Frankas]]
+- [[objektai/asmenys/Jozefas Frankas]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/zodynas/Lite litvakai]]
+- [[objektai/grupes/Litvakai]]
+- [[objektai/grupes/Senalietuviai]]
+- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/litvakai Lite litviš]]
 - [[objektai/zodynas/senalietuviai jaunalietuviai]]
-- [[objektai/asmenys/Česlovas Milošas]]
+- [[objektai/grupes/Žydai]]

@@ -70,7 +70,13 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/generalgubernatorius]]
+- [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/separatizmas]]
+- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
+- [[objektai/grupes/Rusų stačiatikių bažnyčia]]

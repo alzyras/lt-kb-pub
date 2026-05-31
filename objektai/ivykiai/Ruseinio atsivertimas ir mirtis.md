@@ -104,6 +104,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Ietis]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]
 - [[objektai/daiktai/Medinis kryžius]]

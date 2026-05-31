@@ -120,3 +120,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Sembai]]

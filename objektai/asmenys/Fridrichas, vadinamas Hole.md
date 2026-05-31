@@ -68,3 +68,4 @@ Dusburgietis teigia, kad apie brolio Fridricho Holės ir 30 vyrų žūtį Tais p
 - [[objektai/autoriai/H. Lowmiański]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
+- [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]

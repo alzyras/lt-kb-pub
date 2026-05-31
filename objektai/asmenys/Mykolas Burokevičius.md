@@ -55,3 +55,4 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Jedinstvo]]

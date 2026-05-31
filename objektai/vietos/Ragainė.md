@@ -121,6 +121,31 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   teiginys: 'Dusburgietis teigia, kad apie Ragainės pilies užpuolimą 1315 viešpaties metais, apie žolinę (rugpjūčio 15), lietuviai iš Žemaitijos574 slaptai ir netikėtai atžygiavo su visa savo kariuomene prie Ragainės pilies ir ją užpuolė.'
   pagrindžia:
     - c-023
+- t-024
+  teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Tačiau ordinas Ragainėje juos sulaikė.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Tą pačią žiemą kryžiuočiai iš Ragainės du kartus ėjo „prieš stabmeldžius“, žudė, degino ir plėšė.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: '387); anot jos, Ragainės komtūras Fridri­ chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė jos užimti, o tik sudegino papilį.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: 'Pav., Ragainės komtūras vienu puolimu išsivedė 100 žmonių nelaisvėn.'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: 'Šalia paties Vytauto būrių iš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­ chas^30.'
+  pagrindžia:
+    - c-029
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Citata fiksuoja 1412 m. lietuvių pretenziją į Ragainę.'
@@ -413,3 +438,107 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-023
+- c-024
+  santrauka: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ). Kryžiuočiai, atslinkę prie Nemuno, tuojau
+    pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės
+
+
+    pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo
+    ją atlaikyti).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Tačiau ordinas Ragainėje juos sulaikė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tais pačiais 1409 m. Lietuvoje buvo nederlius. Jogaila, norė-
+    damas padėti Lietuvai, siuntė jai javų. Tačiau ordinas Ragainėje
+    juos sulaikė. Tatai Vytauto santykius su ordinu visai nutraukė,
+    ir jis, jau nebesislėpdamas, nusiuntė į Žemaičius savo bajorų ir
+    paėmė juos į savo valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Tą pačią žiemą kryžiuočiai iš Ragainės du kartus ėjo „prieš stabmeldžius“, žudė, degino ir plėšė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    pradžioje, žiemą Ordino mar-
+    šalas su draugeliu kilmingų kryžininkų
+    žygiavo į pirmąjį žiemos žygį, tačiau buvo
+    priversti grįžti atgal, nes lietuviai „buvo
+    įspėti“ - puikiai veikė lietuvių žvalgyba. Tą
+    pačią žiemą kryžiuočiai iš Ragainės du kar-
+    tus ėjo „prieš stabmeldžius“, žudė, degino
+    ir plėšė.
+
+    Vasarą su gausiais svetimšalių būriais
+    ir savais kariais maršalas žygiavo Gardino
+    link, bandė pereiti Nemuną brasta, bet
+    jiems buvo sukliudyta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: '387); anot jos, Ragainės komtūras Fridri­ chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė jos užimti, o tik sudegino papilį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Pav., Ragainės komtūras vienu puolimu išsivedė 100 žmonių nelaisvėn.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pav., Ragainės komtūras vienu puolimu išsivedė 100
+    žmonių nelaisvėn. Kita kariuomenės dalis paėmė Naujapilį su
+    3000 žmonių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: 'Šalia paties Vytauto būrių iš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­ chas^30.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    prie gausių stalų
+    buvo susirinkusi didelė kariuomenė^29. Šalia paties Vytauto būrių
+    iš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų
+    riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­
+    chas^30. Atsiuntė savo karių ir Moldavijos « Gaspadorius » Stepo­
+    nas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029

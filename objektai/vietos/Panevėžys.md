@@ -82,7 +82,10 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginys: 'BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.'
   pagrindžia:
     - c-010
-
+- t-011
+  teiginys: 'Tačiau galiausiai Panevėžio batalionas turėjo apleisti savo miestą ir atsitraukti į Kėdainius.'
+  pagrindžia:
+    - c-011
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1919 m. sausio 9 d. bolševikų pajėgoms užimant Panevėžį, J. Variakojis su pirmuoju savanorių būriu paliko miestą.'
@@ -263,3 +266,21 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Tačiau galiausiai Panevėžio batalionas turėjo apleisti savo miestą ir atsitraukti į Kėdainius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau galiau-
+    siai Panevėžio batalionas turėjo apleisti
+    savo miestą ir atsitraukti į Kėdainius.
+
+    Gegužės 3 d. Panevėžio batalionas, re-
+    miamas saksų savanorių, atliko sėkmingą
+    operaciją ir iš bolševikų išvadavo Ukmergę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

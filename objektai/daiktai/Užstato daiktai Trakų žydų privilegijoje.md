@@ -14,20 +14,20 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "1388 m. privilegijos, patvirtintos 1507 m., kontekstas"
-datos:
-  - "1388 m."
-  - "1507 m."
-periodas: ""
-periodo_grupes:
-  - LDK
-amziai:
-  - XIV
-  - XVI
-date_start: "1388"
-date_end: "1507"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1388 m.'
+  - '1507 m.'
+periodas: ''
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XVI'
+date_start: '1388'
+date_end: '1507'
 patikimumas: aukštas
 atnaujinta: '2026-05-27'
 tags:
@@ -86,6 +86,10 @@ Nenurodyta
     - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Taip pat jei žydas krikščioniui be liudi­ ninkų pasakytų, kad užstato davęs, o anas gintųsi, už tai krikščionis turi sumokėti; arba su priesaika priėmęs žydas gali užstato vardu priimti visokius daiktus, kurie tik jam bū­ tų atnešti ir bet kokių pavadinimų.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -176,16 +180,48 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Taip pat jei žydas krikščioniui be liudi­ ninkų pasakytų, kad užstato davęs, o anas gintųsi, už tai krikščionis turi sumokėti; arba su priesaika priėmęs žydas gali užstato vardu priimti visokius daiktus, kurie tik jam bū­ tų atnešti ir bet kokių pavadinimų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O jei krikščionis žydui ir jo žodžiams
+    tikėjimo teikti nenorėtų, žydas prisiekęs savo ruožtu įparei­
+    gojamas; o jeigu prisiekęs krikščionis įrodytų, kad jam ne­
+    mokės ir išsigintų. Taip pat jei žydas krikščioniui be liudi­
+    ninkų pasakytų, kad užstato davęs, o anas gintųsi, už tai
+    krikščionis turi sumokėti; arba su priesaika priėmęs žydas
+    gali užstato vardu priimti visokius daiktus, kurie tik jam bū­
+    tų atnešti ir bet kokių pavadinimų, nieko apie juos neužsi­
+    mindamas, išskyrus kruvinas skaras, šlapius drabužius ir baž­
+    nytinius rykus, kurių niekada jokiu būdu imti negali. Taip
+    pat jeigu krikščionis apšmeižtų žydą dėl užstato, kurį žydas
+    turi, o iš jo būtų pavogtas arba jėga būtų paimtas, žydas
+    gali nežinoti, kadangi buvo pavogta arba atimta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/buities-daiktas]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Drabužiai]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/daiktai/Žirgai]]
+- [[objektai/asmenys/Markas (žydas kreditorius)]]
 - [[objektai/asmenys/Mstivojus]]
+- [[objektai/asmenys/Pekarskis]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]
 - [[objektai/asmenys/Vimaras [Gneomiras]]]
 - [[objektai/asmenys/Vojakas [Vojachas]]]
+- [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus]]
+- [[objektai/posakiai/metus ir dieną]]
+- [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas]]
+- [[objektai/paprociai/Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka]]
+- [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]
+- [[objektai/paprociai/Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka]]
+- [[objektai/daiktai/Rykai]]

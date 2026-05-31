@@ -141,4 +141,13 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
+- [[objektai/daiktai/Varpai]]
+- [[objektai/daiktai/Monetos]]
+- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
+- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
+- [[objektai/zodynas/misijų teorija]]
+- [[objektai/zodynas/vidaus kolonizacija]]

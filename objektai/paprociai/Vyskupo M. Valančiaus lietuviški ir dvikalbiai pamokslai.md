@@ -10,6 +10,12 @@ aliases:
   - 'Kandidatas Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -64,6 +70,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Lietuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo bene pirmą kartą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -106,6 +116,27 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Lietuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo bene pirmą kartą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lie-
+    tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
+    bene pirmą kartą.
+    M. Valančius pasirūpino, kad
+    kunigai turėtų pagarbų požiūrį į
+    lietuviškai kalbančią liaudį, gerai
+    išmoktų lietuviškai ir sakytų pa-
+    mokslus lietuviškai, davė nurody-
+    mą kunigams prie bažnyčių steigti
+    lietuviškas mokyklas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai

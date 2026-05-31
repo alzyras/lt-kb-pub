@@ -144,3 +144,9 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/grupes/Aisčiai]]

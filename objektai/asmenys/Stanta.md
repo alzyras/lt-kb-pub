@@ -51,3 +51,4 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)]]

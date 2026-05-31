@@ -193,4 +193,8 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/zodynas/jubiliejus]]
+- [[objektai/zodynas/monografija]]
+- [[objektai/posakiai/1930 — VYTAUTO DIDŽIOJO — METAI]]
 - [[objektai/grupes/Sakalo bendrovė]]

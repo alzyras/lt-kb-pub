@@ -93,3 +93,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Sventopelkas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

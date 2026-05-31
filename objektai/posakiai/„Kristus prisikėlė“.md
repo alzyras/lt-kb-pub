@@ -58,3 +58,4 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/flangas]]
+- [[objektai/daiktai/Vėliavos]]

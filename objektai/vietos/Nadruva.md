@@ -83,6 +83,15 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   teiginys: 'Dusburgietis teigia, kad apie įvykius prieš šį karą Iš dievo malonės užkariavę nadruvius, broliai nukreipė savo ginklus prieš skalvius, įsitikinę, kad tol nebus nieko padarę, kol dar jiems bus likę kas daro; beje, kurios ne kurios žemiau aprašytos kovos vyko po karo su nadruviais.'
   pagrindžia:
     - c-013
+- t-015
+  teiginys: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
+  pagrindžia:
+    - c-014
+- t-016
+  teiginys: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
+  pagrindžia:
+    - c-015
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Citata rodo 1274 m. puolimą prieš nadruvius ir dalies jų kilmingųjų perėjimą pas brolius.'
@@ -265,3 +274,35 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-014
+  santrauka: 'Šio proceso ankstyvąja apraiška reikėtų laikyti šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai-
+    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
+    institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
+    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
+    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-015
+  santrauka: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai jau turėtų būti savarankiška institucija, matyt, išlaikoma iš dovanų.
+    Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
+    (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių
+    sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti. Ro-
+    muvoje pagrindinis kulto objektas buvo ugnis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016

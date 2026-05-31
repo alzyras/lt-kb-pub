@@ -263,6 +263,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
+- [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/autoriai/Karolis Zikaras]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/daiktai/Tanketė]]

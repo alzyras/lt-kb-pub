@@ -246,6 +246,16 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/ATAS]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vora]]
+- [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]
 - [[objektai/ivykiai/Bandymas įsiveržti į parlamentą (1991 m. sausio 8 d.)]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/posakiai/„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“]]
+- [[objektai/ivykiai/1996 m. Seimo rinkimai ir konservatorių pergalė|1996 m. Seimo rinkimai ir konservatorių pergalė (seimas, XX a.)]]
+- [[objektai/zodynas/Brazauskininkai ir landsbergininkai]]
+- [[objektai/grupes/Tėvynės Sąjunga-Lietuvos konservatoriai]]

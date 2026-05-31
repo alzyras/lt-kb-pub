@@ -173,6 +173,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Anglai]]
+- [[objektai/autoriai/Hlebovičius]]
 - [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
@@ -183,4 +184,5 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/asmenys/Mikalojus Moskoževskis]]
+- [[objektai/grupes/Vilniaus gyventojai]]

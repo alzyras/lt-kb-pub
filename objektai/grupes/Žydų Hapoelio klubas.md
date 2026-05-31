@@ -7,14 +7,15 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1927 m.'
   - '1935 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
-date_start: '1935'
-date_end: ''
+date_start: '1927'
+date_end: '1935'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-18'
 tags:
@@ -32,6 +33,10 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
   teiginys: 'susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji sportininkai žygiuoja Kauno centrine gatve 1935 m. (Lietuvos žydų asociacijos Izraelyje archyvas) L I E T U V O S I S T O R I J A 170 nių tautybę.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Nuo 1927 m. susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji sportininkai žygiuoja Kauno centrine gatve 1935 m. (Lietuvos žydų asociacijos Izraelyje archyvas) L I E T U V O S I S T O R I J A 170 nių tautybę.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,3 +57,27 @@ susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Nuo 1927 m. susiklostė praktika, kad reikėdavo nurodyti mokiŽydų Hapoelio klubo jaunieji sportininkai žygiuoja Kauno centrine gatve 1935 m. (Lietuvos žydų asociacijos Izraelyje archyvas) L I E T U V O S I S T O R I J A 170 nių tautybę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo 1927 m. susiklostė praktika, kad reikėdavo nurodyti moki-
+    Žydų Hapoelio klubo jaunieji sportininkai žygiuoja Kauno centrine
+    gatve 1935 m. (Lietuvos žydų asociacijos Izraelyje archyvas)
+
+    L I E T U V O S  I S T O R I J A
+    170
+    nių tautybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žydai]]

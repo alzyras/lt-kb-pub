@@ -56,6 +56,18 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   teiginys: 'Gediminas apibūdintas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų Lietuvoje įkūrėjas.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Visuotinai sutelkus dėmesį į Šven­ tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­ formuotas riterių luomas - pati garbingiausioji viduramžių institucija.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų savininkams metus klajoklišką gyvenimo būdą, miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius ir nuo pat X.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Tokią Lietuvą rado kunigaikštis Gediminas, dar­ nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo šalyje įkūrėjas.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -152,6 +164,68 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Visuotinai sutelkus dėmesį į Šven­ tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­ formuotas riterių luomas - pati garbingiausioji viduramžių institucija.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jų įtaka
+    mūsuose ir Rytuose buvo neapsakoma, o pasekmės davė žmo­
+    nijai kuo didžiausios naudos. Visuotinai sutelkus dėmesį į Šven­
+    tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio
+    feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­
+    formuotas riterių luomas - pati garbingiausioji viduramžių
+    institucija. Tuo metu imtasi užmestos laivininkystės, iš Rytų plito
+    mokslai ir masino prekyba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų savininkams metus klajoklišką gyvenimo būdą, miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius ir nuo pat X.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Visi
+    be išimties kentėdavo nuo dažnų puldinėjimų ir smurto: tik vieni
+    vyskupai turėjo didesnės įtakos miestiečiams ir tikrai suteikda­
+    vo aniems globos, gelbėdami nuo nugalėtojų, trempusių žlugu­
+    sios Romos liekanas.
+    Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­
+    mės valdų savininkams metus klajoklišką gyvenimo būdą,
+    miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau
+    baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius
+    ir nuo pat X amžiaus pradžios savo žiauriais pasalūniškais iš­
+    puoliais žlugdė miestus. Šimtą metų tęsėsi vis aršesni ginčai
+    tarp tų dviejų luomų ir baigėsi miestų bendruomenių pergale
+    prieš jų feodalinius valdovus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Tokią Lietuvą rado kunigaikštis Gediminas, dar­ nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo šalyje įkūrėjas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dar Kaunas, gilios senovės laikais įkur­
+    tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
+    savo tvirtovėmis ir prekyba. Tačiau, tiesą sakant, ir visoje Lie­
+    tuvos žemėje, ir Žemaitijoje tik šen bei ten kilo vienišos pilys,
+    nevienodos galios feodalinių kunigaikščių ir bajorų gynybinės
+    gyvenvietės. Tokią Lietuvą rado kunigaikštis Gediminas, dar­
+    nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo
+    šalyje įkūrėjas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
@@ -164,5 +238,15 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
 - [[objektai/zodynas/sritinė kunigaikštystė]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/Riterių luomas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/suverenas]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Kovos kirviai]]
+- [[objektai/ivykiai/Kryžiaus karai]]
+- [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai]]
 - [[objektai/zodynas/marksistinė periodizacija]]
+- [[objektai/zodynas/santvarka]]

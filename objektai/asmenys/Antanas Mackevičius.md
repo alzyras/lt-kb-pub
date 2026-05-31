@@ -63,6 +63,10 @@ Mackevičius, vėliau K.
   teiginys: 'Po Z. Sierakausko mirties Antanas Mackevičius paskirtas Kauno gubernijos sukilėlių karo vadu.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija) sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 109 nas Mackevičius.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -206,8 +210,37 @@ Mackevičius, vėliau K.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija) sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 109 nas Mackevičius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sierakausko sukilėlių kariuomenė buvo sumušta, pats jos
+    vadas sužeistas pateko į nelaisvę ir netrukus buvo viešai pakartas Vilniuje.
+    Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
+    sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    109
+    nas Mackevičius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/palivarkas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
+- [[objektai/posakiai/Eikime, broliai, už vierą šventą]]
+- [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
+- [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
+- [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba]]

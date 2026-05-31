@@ -155,16 +155,22 @@ Politinė grupuotė.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Jaunieji tautininkai]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/grupes/Laikinoji vyriausybė]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/grupes/Lietuvių nacionalistų partija]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
+- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/ivykiai/Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)]]
 - [[objektai/zodynas/autoritatyvinis režimas]]
+- [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/asmenys/Petras Kubiliūnas]]
 - [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
+- [[objektai/grupes/Lietuvos šaulių sąjunga]]

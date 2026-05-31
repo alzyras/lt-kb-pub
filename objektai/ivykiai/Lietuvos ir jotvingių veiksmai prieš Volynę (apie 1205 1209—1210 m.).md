@@ -67,3 +67,4 @@ Nenurodyta
 - [[objektai/zodynas/priešmindauginė Lietuva]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

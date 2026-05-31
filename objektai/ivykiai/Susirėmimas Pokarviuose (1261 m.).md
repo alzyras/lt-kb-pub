@@ -122,4 +122,5 @@ Nenurodyta
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Hirtshalsas]]
+- [[objektai/grupes/Notangai]]
 - [[objektai/asmenys/Štenkelis iš Bentheimo]]

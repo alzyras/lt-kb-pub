@@ -82,6 +82,8 @@ Nenurodyta
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
 - [[objektai/daiktai/Varpai]]
+- [[objektai/daiktai/Monetos]]
 - [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
+- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
 - [[objektai/zodynas/misijų teorija]]
 - [[objektai/zodynas/vidaus kolonizacija]]

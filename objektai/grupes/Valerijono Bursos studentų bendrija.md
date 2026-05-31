@@ -12,19 +12,19 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "1579 m. fundacijos kontekstas"
-datos:
-  - "1579 m."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XVI"
-date_start: "1579"
-date_end: "1579"
 vaidmenys:
   - "studentų bendruomenė"
   - "akademinė bendrija"
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1579 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes: []
+amziai:
+  - 'XVI'
+date_start: '1579'
+date_end: ''
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags: []
@@ -77,7 +77,10 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-006
+  teiginys: 'Alteram vero ex altera parte domus eiusdem Sartoris nostri Tbomae, similiter impen­ sis nostris, in area antiquitus deserta extruximus, utramque in 414 ## Puslapis 431 IV KNYGA studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­ nimui mūsų akmeninį ar.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Paramos tikslas vargstantiems studentams.
@@ -176,12 +179,50 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   pagrindžia:
     - t-004
     - t-005
+- c-004
+  santrauka: 'Alteram vero ex altera parte domus eiusdem Sartoris nostri Tbomae, similiter impen­ sis nostris, in area antiquitus deserta extruximus, utramque in 414 ## Puslapis 431 IV KNYGA studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­ nimui mūsų akmeninį ar.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Alteram vero ex altera
+    parte domus eiusdem Sartoris nostri Tbomae, similiter impen­
+    sis nostris, in area antiquitus deserta extruximus, utramque in
+    414
+
+    ## Puslapis 431
+
+    IV KNYGA
+    studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­
+    nimui mūsų akmeninį ar kitaip išmūrytą namą mūsų Vil­
+    niaus mieste, Bernardinų gatvėje, specialiai mūsų lėšomis
+    pastatytą, tos pačios paskirties, kokios yra Bursa, su tokiais
+    papročiais ir įstatymais, t. y. tarp studentų turi būti koks
+    nors prefektas ar, kaip įprasta vadinti kitų akademikų*, sen­
+    joras, kuris budriai saugotų, kad tarp jų (studentų) būtų lai­
+    komasi pamaldumo, garbingumo taisyklių, broliškos san­
+    tarvės nuostatų ir papročių; be to, jis turės tos pačios kolegijos
+    didžiai gerbiamo tėvo, tuo metu vadovaujančio Rektoriaus,
+    suteiktus ir duotus įgaliojimus vykdyti pareigas, ir karštai
+    prašome, kad jo (Rektoriaus) vadovavimui ir tvarkai su vi­
+    sais studentais paklustų. Tikimės, kad didžiai gerbiamas tė­
+    vas Rektorius iš meilės brolijai ir geranoriškumo mums mie­
+    lai prisiims tokią nelengvą, bet pagyrimo vertą naštą -
+    nubaus nepaklusniuosius, apsileidusiuosius moksle paska­
+    tins stropumui, o geruosius apgaubs tėviška meile.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Ateitis]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/zodynas/bursa]]
+- [[objektai/paprociai/Valerijono Bursos studentų vidaus drausmė ir prefekto-senjoro priežiūra]]

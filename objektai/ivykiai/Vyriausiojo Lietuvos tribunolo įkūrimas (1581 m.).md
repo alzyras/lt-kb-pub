@@ -88,3 +88,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/tribunolas]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/seimelis]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]

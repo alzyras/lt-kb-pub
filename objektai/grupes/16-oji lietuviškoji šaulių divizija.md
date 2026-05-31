@@ -46,4 +46,5 @@ Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įs
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]

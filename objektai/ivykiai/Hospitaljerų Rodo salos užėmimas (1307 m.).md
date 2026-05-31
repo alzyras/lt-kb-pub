@@ -77,5 +77,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Turkai]]
+- [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/grupes/Švento Jono ligoninės ordinas]]

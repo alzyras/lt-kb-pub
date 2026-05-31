@@ -78,5 +78,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Darius]]
+- [[objektai/asmenys/V. Landsbergis-Žemkalnis]]
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - [[objektai/asmenys/Stasys Girėnas]]
+- [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]

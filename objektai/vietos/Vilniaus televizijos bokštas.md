@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1967 m.'
+  - '1991 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1967'
+date_end: '1991'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -26,6 +36,10 @@ tags:
   teiginys: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus L I E T U V O S I S T O R I J A 246 dainuoti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,3 +66,21 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus L I E T U V O S I S T O R I J A 246 dainuoti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    .
+    Vilniaus televizijos bokšto šturmas – sovietų tankų
+    vikšrai traiško taikius gynėjus
+
+    L I E T U V O S  I S T O R I J A
+    246
+    dainuoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

@@ -69,5 +69,6 @@ Nenurodyta
 - [[objektai/posakiai/negęstančiąją ugnį]]
 - [[objektai/zodynas/netikėliai]]
 - [[objektai/asmenys/Krivis]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/paprociai/Negęstančiosios ugnies garbinimas]]
 - [[objektai/zodynas/krivis krivė krivaitis]]

@@ -50,4 +50,5 @@ Dusburgietis teigia, kad su jais ir su visa Kulmo žemės bei gretimų žemių b
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]]

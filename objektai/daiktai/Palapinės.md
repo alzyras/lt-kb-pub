@@ -7,8 +7,13 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos: []
+periodas: 'viduramziai'
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
-periodas: viduramziai
 atnaujinta: '2026-04-28'
 tags:
   - daiktas
@@ -61,6 +66,10 @@ Nenurodyta
     - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Imta statyti palapinės ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms pasilsėti ir susitvarkyti.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -140,7 +149,26 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-008
+  santrauka: 'Imta statyti palapinės ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms pasilsėti ir susitvarkyti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tačiau vijosi netoli. Po 4—5 va­
+    landų atkaklaus mūšio reikėjo pasilsėti. Imta statyti palapinės
+    ir sustota, kaip tų laikų karo papročiai reikalavo, trims dienoms
+    pasilsėti ir susitvarkyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vežimai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]

@@ -57,4 +57,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Baltijos Valstybių Taryba|Baltijos Valstybių Taryba (institucija)]]

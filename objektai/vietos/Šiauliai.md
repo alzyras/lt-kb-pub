@@ -91,6 +91,10 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginys: 'Šiaulių žemėje pagrindinė strateginė kelių sankryža yra Šiauliuose (ties dab.'
   pagrindžia:
     - c-008
+- t-015
+  teiginys: '“ 1 1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MŪŠIS 23 nn a] oS a.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šiauliuose, ties dabartine Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.'
@@ -228,3 +232,24 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-009
+  santrauka: '“ 1 1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MŪŠIS 23 nn a] oS a.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “
+
+    1
+
+    1236 m. rugsėjo 22 d. SAULĖS (ŠIAULIŲ) MŪŠIS 23
+
+    nn
+    a]
+    oS
+    a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015

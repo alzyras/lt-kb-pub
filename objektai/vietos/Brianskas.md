@@ -13,6 +13,7 @@ datos:
   - '1408 m.'
   - '1936 m.'
   - '2026 m.'
+  - '1411 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
@@ -64,7 +65,10 @@ tags:
   teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: '— 63 — Dėl Vorsklos pralaimėjimo nukentėjo nuo totorių tik Kije­ vo ir Volynijos pasienio žemės, o viduje Vytauto padėtis susti­ prėjo, nes žuvusiu kunigaikščiu sritys atiteko betarpiškai į jo valdžią, kaip, pav., Dimitro Algirdaičio, Brianskas ir daug kt.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1263 m. prieš Briansko kunigaikštį buvo pasiųsta kariuomenė.'
@@ -167,3 +171,24 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: '— 63 — Dėl Vorsklos pralaimėjimo nukentėjo nuo totorių tik Kije­ vo ir Volynijos pasienio žemės, o viduje Vytauto padėtis susti­ prėjo, nes žuvusiu kunigaikščiu sritys atiteko betarpiškai į jo valdžią, kaip, pav., Dimitro Algirdaičio, Brianskas ir daug kt.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    233 nr.
+
+
+    ```
+    — 63 —
+    ```
+    Dėl Vorsklos pralaimėjimo nukentėjo nuo totorių tik Kije­
+    vo ir Volynijos pasienio žemės, o viduje Vytauto padėtis susti­
+    prėjo, nes žuvusiu kunigaikščiu sritys atiteko betarpiškai į jo
+    valdžią, kaip, pav., Dimitro Algirdaičio, Brianskas ir daug kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

@@ -9,16 +9,16 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-patikimumas: 'vidutinis'
-laikotarpis: '1392 m. rugpjūčio 5 d.'
 datos:
-  - '1392 m. rugpjūčio 5 d.'
+  - '1392 m.'
 periodas: 'viduramziai'
 periodo_grupes: []
 amziai:
   - 'XIV'
 date_start: '1392'
-date_end: '1392'
+date_end: ''
+patikimumas: 'vidutinis'
+laikotarpis: '1392 m. rugpjūčio 5 d.'
 atnaujinta: '2026-04-25'
 tags:
   - sutartis
@@ -79,6 +79,10 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Ir Vytautas, nesitikėdamas tuo tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -218,7 +222,44 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-005
+- c-008
+  santrauka: 'Ir Vytautas, nesitikėdamas tuo tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
+    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
+    mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
+    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
+    Lietuvą. Šitą Jogailos ir lenkų kapituliaciją padiktavo ne jų
+    simpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir
+
+    (^1) ) Tuo klausimu žiur. C. ep. V. 81—85 nr., 88—91 nr., 93, 95 nr. ir
+    104 nr.
+    (^2) ) C. ep. V. 94, 96 nr. nr. (^3) ) Jon., 46, 47, (^4) ) Kon., 157.
+
+
+    ```
+    153
+    ```
+    sustiprėjusi Vytauto padėtis. Ir Vytautas, nesitikėdamas tuo
+    tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą
+    kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Olesnickio]]
+- [[objektai/zodynas/kapituliacija]]
+- [[objektai/zodynas/vasalystė]]
+- [[objektai/zodynas/vietininkas]]

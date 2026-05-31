@@ -95,5 +95,9 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Romas Kalanta]]
+- [[objektai/daiktai/Tautinės vėliavos]]
+- [[objektai/posakiai/„Laisvę Lietuvai!“]]

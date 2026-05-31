@@ -1,0 +1,230 @@
+---
+tipas: paprotys
+pavadinimas: 'Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - miestas
+  - paprotys
+  - tauta
+  - vyskupas
+---
+# Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves
+
+## Santrauka
+
+Tuo me­ tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­ imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai bažnyčioje giedama Dei Cantate]. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas. ] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su totoriais gal persū­ dytas, tačiau negalima būtų nugin­ čyti, kad totoriai, Vytauto Lietuvoje įkurdinti, net iki mūsų laikų garsūs nepriekaištinga dora, narsa ir prie­ raišumu savo naujai tėvynei.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Tuo me­ tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­ imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai bažnyčioje giedama Dei Cantate].'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: 'Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: '] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su totoriais gal persū­ dytas, tačiau negalima būtų nugin­ čyti, kad totoriai, Vytauto Lietuvoje įkurdinti, net iki mūsų laikų garsūs nepriekaištinga dora, narsa ir prie­ raišumu savo naujai tėvynei.'
+  pagrindžia:
+    - c-003
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Tuo me­ tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­ imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai bažnyčioje giedama Dei Cantate].'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuo me­
+    tu Vilnius daug laimėjo per gyventojų pagausėjimą, mat
+    tiek pačiame mieste, tiek jo apylinkėse įsikūrė nemaža pa­
+    imtų į nelaisvę totorių60, kurių palikuonys vėliau tapo labai
+    bažnyčioje giedama Dei Cantate].
+    Ten, be kita ko, pasakyta: ...habito-
+    cfue respectu ad multae devotionis cons­
+    tantiam et fructuosorum salubriumque
+    operum solertiam, quibus venerabilis in
+    Christo Pater, D-nus Andraeas Eppus
+    Ecclesiae Vilnen. circa gentem Lituani-
+    cam, noviter de tenebris, gentilitatis, ad
+    agnitionem Catholicae unitatis educ­
+    tam, insudare studuit, se et sua bona
+    circa doctrinam neophitorum, et exem­
+    pla clarissima, omnibus periculis, et
+    cunctis defectibus, pro Christi nomine,
+    tanquam verus imitator exponendo. Ho­
+    rum intuitu sibi de Ducentis marcis,
+    ponderis et numeri Polonie, quadragin­
+    ta octo grossos computando pro quoli­
+    bet marca, centum vet. ad tempora vi­
+    tae suae, de thesauris nostris, et centum
+    donec pax habeatur inter terram nost­
+    ram Lithuaniae, et Cruciferos de Prus­
+    sia, similiter de tesauris nostris, singu­
+    lis annis in festo Nativitatis Christi
+    solvendis, ac decem pullis mellis alias
+    Stawna lukna dictis, de Castro nostro
+    Vilnensi, et ejus Cellariis, similiter in
+    festo nativitatis Christi, singulis annis,
+    etiam ad tempora suae vitae, gratiose
+    providimus, etc. [... ir atsižvelgę į ne­
+    blėstantį pasišventimą ir gausą vai­
+    singų bei naudingų darbų, kuriuos
+    garbingasis Tėvas Kristuje, ponas
+    Vilniaus bažnyčios vyskupas An­
+    drius nudirbo lietuvių tautos, nau­
+    jai iš pagonybės tamsybių į katali­
+    kiškosios vienybės pažinimą atves­
+    tos, naudai, skirdamas save ir savo
+    turtą naujakrikščių mokymui, ir
+    kaip tikras sekėjas, Kristaus vardu
+    rodydamas šlovingus pavyzdžius
+    visų pavojų ir ydų akivaizdoje. Tai
+    žinodami, kaip palankumo ženklą
+    skiriame jam du šimtus lenkiško
+    svorio ir skaičiaus grivinų, skaičiuo­
+    jant po keturiasdešimt aštuonis gra­
+    šius už kiekvieną griviną, šimtą iki
+    gyvos galvos iš mūsų iždo ir šimtą,
+    kol bus pasiekta taika tarp mūsų
+    Lietuvos žemių ir kryžiuočių iš Prū­
+    sijos, iš mūsų iždo kiekvienais me­
+    tais per Kalėdas išmokamas, taip
+    pat dešimt tošinių medaus, vadina­
+    mų Stawna lukna (medaus duoklė)
+    nustatytos talpos indas - tošinė, lie­
+    pinė], iš mūsų Vilniaus pilies ir jos
+    sandėlių, taip pat per Kalėdas, kiek­
+    vienais metais, taip pat iki gyvos
+    galvos, ir 1.1.].
+    60
+    Nors tie, kuriuos mes vadiname to­
+    toriais, iš tiesų yra mongolai, tik blo­
+    gas papratimas totorių vardą duoti
+    net turkų padermės atšakoms, ta­
+    čiau naudojame seniai jiems prigi-
+    jusį skaitytojams įprastą vardą. Kas
+    norėtų labiau įsigilinti, teskaito: Vo­
+    yage dans les Steps d'Astrakhan et du
+    Caucase, p. Jean P o t o c k i, T. I,
+    p. 24, T. Il, p. 125.
+    142
+
+    ## Puslapis 159
+
+    Il KNYGA
+    darbščiais ir naudą visuomenei teikiančiais jos nariais. Juos
+    Vytautas atsivežė nuo Azovo, kur sekdamas garbingais sa­
+    vo pirmtakais Gediminu ir Algirdu61, bemaž tuo metu užka­
+    riavęs neramias šios tautos ordas, buvo užėmęs ištisą jų ulu-
+    są, palikęs jiems valią išpažinti senąjį tikėjimą, davęs daug
+    žemės valdų ir laisvių, tėvynei iš jų gavo narsių ir ištikimų
+    gynėjų ir pavyzdingų piliečių62.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jie nuolat jodinė­
+    ja raiti, kariauja be vežimų, turi daug
+    arklių iš svetimų kraštų ir neturi
+    143
+
+    ## Puslapis 160
+
+    VILNIAUS MIESTO ISTORIJA I  TOMAS
+    dviejų mylių nuo miesto, prie Vokės upės, bet nemaža dalis
+    pasistatė namus šiaurinėje bei vakarinėje miesto dalyje ir
+    pagausino Vilniaus mieste gyventojų jo labui63. Pirmiausia jų,
+    regis, buvo įsikurta Lukiškėse, o gal net jie pirmieji ten statėsi
+    namus, juk iki šiol ten stovi mečetė jų tikėjimą išpažįstančioms
+    šeimoms. Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­
+    nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '] - Šitas, nepalankus lietuvių atžvilgiu palyginimas su totoriais gal persū­ dytas, tačiau negalima būtų nugin­ čyti, kad totoriai, Vytauto Lietuvoje įkurdinti, net iki mūsų laikų garsūs nepriekaištinga dora, narsa ir prie­ raišumu savo naujai tėvynei.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ]* -
+    Šitas, nepalankus lietuvių atžvilgiu
+    palyginimas su totoriais gal persū­
+    dytas, tačiau negalima būtų nugin­
+    čyti, kad totoriai, Vytauto Lietuvoje
+    įkurdinti, net iki mūsų laikų garsūs
+    nepriekaištinga dora, narsa ir prie­
+    raišumu savo naujai tėvynei. Jų dau­
+    gybę su visomis šeimomis į šiuos
+    kraštus turėjo būti atkėlęs šaunus
+    pergalingas karys Vytautas; be jų pa­
+    grindinės gyvenvietės prie Vokės
+    upės, be tų, kurie įsikūrė mieste ir
+    kurie apsigyveno vietovėje, vadinto­
+    je Nemėžiu, per mylią nuo Vilniaus į
+    rytus, daug jų įsikūrė pavietuose:
+    Lydos, Ašmenos ir Naugarduko ir
+    iš tiesų nėra valdos, ypač pasakyti­
+    na tai apie Vilniaus, Trakų ir Nau­
+    garduko pavietus, kur iki šiolei ne­
+    būtų išlikę totorių buveinių pėdsakų
+    pavadinimuose: Totoriškės, Totorių
+    kapinės ir 1.1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Bona]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/posakiai/Iki gyvos galvos]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/naujakrikščiai]]
+- [[objektai/zodynas/pagonybė]]

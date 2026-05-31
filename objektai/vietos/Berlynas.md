@@ -9,6 +9,7 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1385 m.'
+  - '1868 m.'
   - '1878 m.'
   - '1918 m.'
   - '1929 m.'
@@ -29,6 +30,8 @@ periodo_grupes:
   - 'naujieji laikai'
 amziai:
   - 'XIV'
+  - 'XVI'
+  - 'XVII'
   - 'XIX'
   - 'XX'
   - 'XXI'
@@ -120,6 +123,18 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginys: 'Jakštas, 1929 m. išvykęs į Berlyną ir Vieną specializuotis visuotinoje istorijoje (viduriniuose amžiuose), kuriuos jis docento teisėmis dėstė 1940-1943 [44] Vilniaus universitete.'
   pagrindžia:
     - c-017
+- t-018
+  teiginys: 'Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čempionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo garsenybė Johnny Unitas (Jonas.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -387,3 +402,47 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-018
+  santrauka: 'Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čempionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas), boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo garsenybė Johnny Unitas (Jonas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniuje 1868 m.),
+    olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europos čem-
+    pionas su Lietuvos rinktine krepšininkas Frank Lubin (Pranas Lubinas),
+    boksininkas Jack Sharkey (Juozas Žukauskas), amerikietiškojo futbolo
+    garsenybė Johnny Unitas (Jonas Jonaitis) ar tenisininkas Vitas Gerulaitis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Torunės nuorašo pagrindu padarytas  ir Elbingo nuorašas. Berlyno  karališkosios
+    bibliotekos Kodekse greta kitų yra nevisiškai pilnas Dusburgiečio kronikos nuorašas.
+    Kodeksas rašytas XVI a.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Dusburgietis teigia, kad vienos bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    viduryje, jame nestinga perrašymo netikslumų, bet šis tekstas,
+    papildydamas Karaliaučiaus nuorašą, leidžia atstatyti kai kurias originalo detales. Vienos
+    bibliotekos rankraštis (XVII a., gal net vėliau) nurašytas nuo Berlyno teksto74.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020

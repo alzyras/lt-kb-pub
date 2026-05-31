@@ -55,6 +55,14 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginys: 'Mikalojus Radvila Rudasis laiško užraše vadintas Dubingių ir Biržų kunigaikščiu, Vilniaus vaivada ir LDK vyriausiuoju kancleriu.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Radvila Rudasis galėjo turėti tik nuo “14, 4iki 6 tūkstančių raitelių.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Šuiskis pajudėjo sausio 23 d. Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -191,9 +199,55 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Radvila Rudasis galėjo turėti tik nuo “14, 4iki 6 tūkstančių raitelių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Skubėdami užkirsti artėjančiam
+    priešui kelią, raiteliai nelaukdami pėsti-
+    ninkų ir artilerijos pajudėjo greitu maršu.
+
+    M. Radvila Rudasis galėjo turėti tik nuo
+
+    “14, 4iki 6 tūkstančių raitelių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Šuiskis pajudėjo sausio 23 d. Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Iš Polocko su savo kariuomene kuni-
+    gaikštis P. Šuiskis pajudėjo sausio 23 d.
+    Apie tai Lietuvos didysis etmonas Myko-
+    las Radvila Rudasis žvalgų buvo greitai
+    informuotas, pats jis tuo metu buvo tik
+    apie 100 km nuo Polocko, Lukomlyje.
+    Nenorėdamas leisti maskvėnų pajėgoms
+    susijungti, jis nurodė nedelsiant pradėti
+    žygį siekiant užkirsti kelią P. Šuiskio ka-
+    riuomenei.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Livonijos kunigaikštystė]]

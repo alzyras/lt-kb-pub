@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1918'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -45,7 +54,10 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
+- t-005
+  teiginys: 'Clemenceau) rašte vokiečiams paaiškino, kad sąjungininkai nepažeidė tautų apsisprendimo principo, nes Klaipėdos regionas „visada buvo lietuviškas“, o Klaipėdos uostas tėra vienintelis Lietuvos išėjimas į jūrą.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Abi minimos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai.'
@@ -112,9 +124,19 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Socialdemokratai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/grupes/Tautininkai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
+- [[objektai/asmenys/Žoržas B. Klemansas]]
+- [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]
+- [[objektai/posakiai/„visada buvo lietuviškas“]]

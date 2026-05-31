@@ -63,3 +63,7 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kolektyvizacija]]

@@ -44,3 +44,14 @@ Voldemaro, o vėliau uždarė ir pusiau slaptą, ginkluotą radikaliausių tauti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/zodynas/in corpore]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/ivykiai/Gnievkovo suvažiavimas]]
+- [[objektai/asmenys/Augustinas Voldemaras]]

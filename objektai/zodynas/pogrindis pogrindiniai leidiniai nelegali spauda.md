@@ -85,8 +85,17 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Terleckas]]
+- [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuvos Helsinkio grupė]]
+- [[objektai/asmenys/Romaldas Juozas Ragaišis]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/asmenys/Tomas Venclova]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/maldininkai]]
 - [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
+- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
+- [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
 - [[objektai/daiktai/Religinės relikvijos]]

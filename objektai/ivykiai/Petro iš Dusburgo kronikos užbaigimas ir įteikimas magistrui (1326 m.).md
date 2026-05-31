@@ -109,3 +109,4 @@ Nenurodyta
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/autoriai/Petras Dusburgietis]]

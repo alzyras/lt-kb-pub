@@ -56,3 +56,5 @@ Papildomos aiškios formos neišskirtos.
 - [[objektai/asmenys/Dželad-Eddinas]]
 - [[objektai/paprociai/Kieminė auka Perūnui per audrą]]
 - [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
+- [[objektai/zodynas/saar]]
+- [[objektai/paprociai/Šventųjų paukščių laikymas namuose]]

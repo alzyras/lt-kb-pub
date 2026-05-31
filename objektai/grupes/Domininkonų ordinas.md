@@ -115,6 +115,22 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginys: 'Dusburgietis teigia, kad apie Benediktą XI, popiežių, ir Albrechtą, karalių 1303 viešpaties metais valdė Benediktas XI, popiežius, brolių pamokslininkų ordino vienuolis, ir Albrechtas, Romos karalius (Mart.'
   pagrindžia:
     - c-014
+- t-020
+  teiginys: 'Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­ nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras, [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­ daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo] sielas, ir iš.'
+  pagrindžia:
+    - c-015
+- t-021
+  teiginys: 'Mes su krikščionimis ka­ riaujame ne dėl to, kad sunaikintume katalikų tikėjimą, bet kad pasipriešintume mums [daromoms] skriaudoms, kaip tai daro krikščionių karaliai bei valdovai; tai matyti iš to, kad mes pas save turime brolių iš pranciškonų ordino ir iš.'
+  pagrindžia:
+    - c-016
+- t-022
+  teiginys: 'Jeigu su atida peržvelgsime laiškus, Gedimino vardu rašytus dominikonų ordinui, minoritams ir Vokietijos mies­ tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­ dijančių juos Rygos arkivyskupo prasimanymu ir klastote esant.'
+  pagrindžia:
+    - c-017
+- t-023
+  teiginys: 'Ordino gandus, kad Vytautas su turkais einąs prieš katalikus.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 
@@ -469,9 +485,142 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+- c-015
+  santrauka: 'Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­ nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras, [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­ daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo] sielas, ir iš.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
+    vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­
+    mo vertus vyrus; mes, be savo parašo ir be šio savo laiško,
+    sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­
+    mingai prižadame jums visiems, kad nustatysime tokią tar­
+    pusavio taiką, apie kokią krikščionys niekados nė negalvojo.
+    Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­
+    nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,
+    [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­
+    daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]
+    sielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­
+    do dvasininkus; patariame kiekvienam valdovui pasisaugoti
+    tokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­
+    kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka
+    malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­
+    lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­
+    jamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios
+    padėties amatininkams, būtent, meistrams, kurpiams, račiams,
+    akmenskaldžiams, druskininkams, malūnininkams, sidabra-
+    kaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­
+    tiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su
+    59
+
+    ## Puslapis 76
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    medio ipse (1) at omni opere regio sint exempti, termino pre-
+    dicto expirato et tantum (ü) secundum terre fertilitatem
+    datunt decimam prout in aliis regnis vėl provinciis (m) darė
+    consueverunt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-016
+  santrauka: 'Mes su krikščionimis ka­ riaujame ne dėl to, kad sunaikintume katalikų tikėjimą, bet kad pasipriešintume mums [daromoms] skriaudoms, kaip tai daro krikščionių karaliai bei valdovai; tai matyti iš to, kad mes pas save turime brolių iš pranciškonų ordino ir iš.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau jie sako, jog tai daro dėl to,
+    kad nori apginti krikščionis!
+    Šventasis ir garbingasis tėve! Mes su krikščionimis ka­
+    riaujame ne dėl to, kad sunaikintume katalikų tikėjimą, bet
+    kad pasipriešintume mums [daromoms] skriaudoms, kaip
+    tai daro krikščionių karaliai bei valdovai; tai matyti iš to,
+    kad mes pas save turime brolių iš pranciškonų ordino ir iš
+    dominikonų ordino ir jiems davėme visišką laisvę krikštyti,
+    sakyti pamokslus ir atlikinėti kitas šventąsias apeigas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-017
+  santrauka: 'Jeigu su atida peržvelgsime laiškus, Gedimino vardu rašytus dominikonų ordinui, minoritams ir Vokietijos mies­ tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­ dijančių juos Rygos arkivyskupo prasimanymu ir klastote esant.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vėliau viskas byloja, jog Gediminas per pasiun­
+    tinius nurodė, kaip sako Jerošinas, garantuoti, kad
+    niekados jo valia tiesiogiai ar netiesiogiai nebuvo siuntinė­
+    jami jokie laiškai kokiems nors miestams ar šalims, sykiu ir
+    popiežiui, ir kad, tikėdamas savo dievais, net mintyse nie­
+    kada nebuvo dėl jų suabejojęs.
+    Jeigu su atida peržvelgsime laiškus, Gedimino vardu
+    rašytus dominikonų ordinui, minoritams ir Vokietijos mies­
+    tams, pastebėsime daugybę vidinių ir išorinių įrodymų, liu­
+    dijančių juos Rygos arkivyskupo prasimanymu ir klastote
+    esant. Išorinį įrodymą randame pasakytą pirmiausia J e r o -
+    š i n o, p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-018
+  santrauka: 'Ordino gandus, kad Vytautas su turkais einąs prieš katalikus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ordino gandus, kad Vytautas su turkais einąs prieš katalikus.
+    Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
+    stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro
+    vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną
+    Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­
+    rėjo tame krašte labiau įsigalėti.
+    Iš čia matome, kad Liet.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
+- [[objektai/asmenys/Benediktas]]
+- [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Popiežius Honorijus III]]
+- [[objektai/grupes/Romai]]
+- [[objektai/zodynas/Romos karalius]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/klebonija]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/pilgrimai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Goštautas]]
+- [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Benediktas XI]]
+- [[objektai/grupes/Dominikonų ordinas]]
+- [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]
+- [[objektai/grupes/Livonijos ordinas]]

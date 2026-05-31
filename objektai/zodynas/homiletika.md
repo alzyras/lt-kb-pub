@@ -77,5 +77,7 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/Antanas Baranauskas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]

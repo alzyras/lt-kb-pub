@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1348 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1348'
 date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
@@ -36,6 +39,10 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   teiginys: 'Simonas Lengvenis citatoje vadinamas Lietuvos kunigaikščiu, Algirdo sūnumi ir Rusios bei Ladogos kunigaikščiu.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Simonas Lengvenis Didįjį Naugardą valdęs iki 1348 m.; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba Patricijus; po pastarojo tapo val­ dovu, arba Žečpospolitos vaivada, ir Rusios bei Ladogos kunigaikštis Simonas Lungvinas, arba tiksliau Lengvenis, Lietuvos kunigaikštis, Algirdo sūnus: žr.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,3 +87,39 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Simonas Lengvenis Didįjį Naugardą valdęs iki 1348 m.; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba Patricijus; po pastarojo tapo val­ dovu, arba Žečpospolitos vaivada, ir Rusios bei Ladogos kunigaikštis Simonas Lungvinas, arba tiksliau Lengvenis, Lietuvos kunigaikštis, Algirdo sūnus: žr.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Bent jau apie Narimantą kal­
+    bant, pirmiausia, Dlugošas, žinia,
+    apsirinka jį prie Algirdo brolių pri­
+    skirdamas, ir žinome iš Rusios met­
+    raštininkų, kad jis Didįjį Naugardą
+    valdęs iki 1348 m.; o po jo ten val­
+    džią perėmęs jo sūnus Patrikas, ar­
+    ba Patricijus; po pastarojo tapo val­
+    dovu, arba Žečpospolitos vaivada,
+    ir Rusios bei Ladogos kunigaikštis
+    Simonas Lungvinas, arba tiksliau
+    Lengvenis, Lietuvos kunigaikštis,
+    Algirdo sūnus: žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/asmenys/Narimantas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/asmenys/Lengvenis]]
+- [[objektai/asmenys/Patrikas, arba Patricijus]]

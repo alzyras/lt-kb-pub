@@ -58,3 +58,4 @@ Daškevič : Političeskije zamyśli Vitovta, Kiivskije UniversitetsLIETUVOS IST
 - [[objektai/grupes/Rusai]]
 - [[objektai/autoriai/E. I. Leontovičius]]
 - [[objektai/autoriai/M. F. Vladimirskij-Budanov]]
+- [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]

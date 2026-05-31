@@ -54,12 +54,17 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Šukys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/11 brigada]]
 - [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
 - [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]
+- [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
+- [[objektai/posakiai/Jų spalva, ženklai ar pavadinimas mums neturėjo jokios reikšmės]]
 - [[objektai/posakiai/MIRTIES AKIVAIZDOJE]]
 - [[objektai/grupes/Marijampolės batalionas]]
 - [[objektai/grupes/Mokomoji kuopa]]
+- [[objektai/grupes/asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
+- [[objektai/grupes/brigada]]

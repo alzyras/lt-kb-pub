@@ -41,6 +41,10 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   teiginys: 'Vasarį stovyklininkas Pavlikas buvo pasiųstas su pinigais, kad juos laiku nusiųstų Mlodyčiui į Leipcigą.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad 443 ## Puslapis 460 VILNIAUS MIESTO ISTORIJA II TOMAS juos laiku pasiųstų JMCPP : Mlodyčiui į Leipcigą ir ponui Plockiui sumokėti skolą iš.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,3 +98,25 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad 443 ## Puslapis 460 VILNIAUS MIESTO ISTORIJA II TOMAS juos laiku pasiųstų JMCPP : Mlodyčiui į Leipcigą ir ponui Plockiui sumokėti skolą iš.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    21 gr.
+    Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
+    aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
+    443
+
+    ## Puslapis 460
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
+    Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
+    lenkiškas, pridėjau 1310 flor.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

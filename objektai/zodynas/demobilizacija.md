@@ -72,5 +72,9 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kazys Ladyga]]
+- [[objektai/grupes/brigada]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Josifas Stalinas]]
+- [[objektai/asmenys/Juozas Urbšys]]
 - [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]
+- [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]

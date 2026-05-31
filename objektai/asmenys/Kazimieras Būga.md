@@ -44,6 +44,8 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Lituanistika]]
 - [[objektai/zodynas/Politrukai]]
 - [[objektai/zodynas/Aistuva]]

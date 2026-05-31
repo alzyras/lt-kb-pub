@@ -114,6 +114,7 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]

@@ -10,7 +10,6 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1316 m.'
-  - '1316 m. balandžio 4 d.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -56,6 +55,10 @@ Pilis sudeginta ir liko apleista.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Tad ir Christmemelyje palikta stipri įgula turėjo saugoti žemaičių Biseną, kurią pavyko sunaikinti 1316 m. Kryžiuočiai nesitenkino vien kariniais žygiais Lietuvon.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,8 +95,29 @@ Pilis sudeginta ir liko apleista.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tad ir Christmemelyje palikta stipri įgula turėjo saugoti žemaičių Biseną, kurią pavyko sunaikinti 1316 m. Kryžiuočiai nesitenkino vien kariniais žygiais Lietuvon.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ordinas Nemuno žemu­
+    pyje ėmė statytis savo pilis, kurių kiekviena vis buvo nukreipta
+    prieš kokią nors arti esančią lietuvių pilį. Tad ir Christmemelyje
+    palikta stipri įgula turėjo saugoti žemaičių Biseną, kurią pavyko
+    sunaikinti 1316 m.
+    Kryžiuočiai nesitenkino vien kariniais žygiais Lietuvon.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Fridrichas]]
+- [[objektai/asmenys/Fridrichas Kvicas]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/asmenys/Ditrichas iš Altenburgo]]

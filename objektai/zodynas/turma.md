@@ -79,3 +79,4 @@ Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių 
 - [[objektai/grupes/Pamarėnai]]
 - [[objektai/grupes/Romėnai]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Treniota]]

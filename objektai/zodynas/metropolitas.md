@@ -7,19 +7,21 @@ aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: "XIV a. pradžia – XV a. pradžia"
-datos: []
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XIII'
-date_start: "1300"
-date_end: "1415"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1300 m.'
+  - '1415 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+date_start: '1300'
+date_end: '1415'
 patikimumas: "aukštas"
 atnaujinta: '2026-04-28'
 tags: []
@@ -93,6 +95,14 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Lietuvos metropolijos Gediminui nepasisekė išlai­ kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo metropolito Teognosto.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -185,30 +195,94 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Lietuvos metropolijos Gediminui nepasisekė išlai­ kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo metropolito Teognosto.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
+    naujas įpėdinis. Lietuvos metropolijos Gediminui nepasisekė išlai­
+    kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo
+    metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
+    į Maskvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Naugarde,
+    Smolenske ir Tvėrėje. Ir Algirdas, ir Maskvos kunigaikštis tuo
+    pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
+    valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
+    gyventojams.
+    Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
+    Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
+    puolimų pavojuose, 1300 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Graikai]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Teofilis (arkivyskupas)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
+- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]]
 - [[objektai/asmenys/Ciprijonas]]
+- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
+- [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
+- [[objektai/asmenys/Fotijus]]
 - [[objektai/asmenys/Gr. Camblakas]]
 - [[objektai/autoriai/Grigorijus Camblakas]]
 - [[objektai/autoriai/J. Adamus]]
+- [[objektai/asmenys/Jonas Paulius II]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/asmenys/Jurgis Cemblakas]]
+- [[objektai/autoriai/Karamzin]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Katalikų bažnyčia katalikai]]
+- [[objektai/asmenys/Kiprijonas]]
 - [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
+- [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
 - [[objektai/grupes/Lietuvos stačiatikiai]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/grupes/Mazovijos kunigaikščiai]]
 - [[objektai/zodynas/Metropolija ir metropolitas]]
 - [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
 - [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
+- [[objektai/grupes/Romanovų dinastija]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
-- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Teodoras]]
 - [[objektai/asmenys/Teodosijus]]
-- [[objektai/asmenys/Teofilis (arkivyskupas)]]
+- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]]
+- [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]
+- [[objektai/asmenys/Vasilijus Vasiljevičius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
 - [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
 - [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]
+- [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
 - [[objektai/zodynas/pravoslavai]]

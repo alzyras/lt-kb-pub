@@ -61,3 +61,4 @@ Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūna
 ### Susiję objektai
 - [[objektai/grupes/Čekai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]

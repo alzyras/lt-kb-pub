@@ -9,13 +9,14 @@ saltiniai:
 datos:
   - '1253 m.'
   - '1263 m.'
+  - '1270 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIII'
 date_start: '1253'
-date_end: '1263'
+date_end: '1270'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-30'
 tags:
@@ -51,6 +52,10 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   teiginys: 'Dusburgietis teigia, kad apie Kroicburgo pilies sugriovimą Tais pačiais viešpaties metais, tai yra 1263, notangai, apsupę Kroicburgo pilį, trejus metus ją puolė įsirengę tris apgulos mašinas ir tris kuorus, o broliai su savo šeimyna, ilgai ir garbingai ten kovoję ir visiškai pristigę.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Dusburgietis teigia, kad , o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
@@ -129,3 +134,16 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Dusburgietis teigia, kad , o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    , o antroji 1270 m.138), o jau po to aprašoma, kaip broliai pasitraukė
+    iš Kroicburgo (įvykį kronikininkas datuoja 1263 m.) (III, 118).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

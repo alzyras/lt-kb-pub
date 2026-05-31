@@ -95,6 +95,10 @@ Nenurodyta
   teiginys: 'Tiesa, pačioje mūšio pradžioje kry­ žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­ gininkų kariuomenėj nesukėlė.'
   pagrindžia:
     - c-008
+- t-018
+  teiginys: 'Patrankos padarydavo daug triukšmo, bet maža nau­ dos.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -233,11 +237,51 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-009
+  santrauka: 'Patrankos padarydavo daug triukšmo, bet maža nau­ dos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Patrankos padarydavo daug triukšmo, bet maža nau­
+    dos. Nors Žalgirio mūšyje patrankų buvo, bet jas mažai, tik
+    pradžioje tevartojo.
+    Kautynėms kariuomenė rikiuodavosi įvairiai — eilėmis,
+    trikampiais, keturkampiais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Monetos]]
 - [[objektai/daiktai/Varpai]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/maršalka]]
 - [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka]]
+- [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys]]
+- [[objektai/zodynas/Kartečė]]
 - [[objektai/asmenys/M. Dejevas]]
 - [[objektai/daiktai/Patranka Hidra]]
+- [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas]]
+- [[objektai/posakiai/Prie ginklų!]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)]]
+- [[objektai/grupes/Vilniaus magistratas]]
+- [[objektai/daiktai/Vilniaus miestiečių gynybinė ginkluotė]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/asmenys/Vladislovas Jogaila]]
+- [[objektai/zodynas/miesto sargyba ir policija]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]
+- [[objektai/asmenys/Jokūbas Jasinskis]]
+- [[objektai/asmenys/V. Grigas]]
+- [[objektai/daiktai/Armotos]]
+- [[objektai/daiktai/Kardas]]

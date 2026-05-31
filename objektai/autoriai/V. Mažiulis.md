@@ -111,3 +111,16 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/autoriai/Endzelins J]]
+- [[objektai/autoriai/F. Bopas]]
+- [[objektai/autoriai/G. H. F. Neselmanas]]
+- [[objektai/autoriai/J. Endzelynas]]
+- [[objektai/zodynas/vakariniai baltai]]

@@ -31,7 +31,10 @@ Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsViri
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '.kuri nuo se­ no Pabaisko klebonams būdavo mokama, norime, kad, kaip įprasta ir seniai nustatyta, žmonės, gyvenantys už Vižintos upės (Virinta) šalia Daniūnų, dabartiniam klebonui ir jo įpė­ diniams duotų devynis pūdus.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į Šešuolės ir Virintos upių liniją.'
@@ -50,3 +53,20 @@ Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsViri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '.kuri nuo se­ no Pabaisko klebonams būdavo mokama, norime, kad, kaip įprasta ir seniai nustatyta, žmonės, gyvenantys už Vižintos upės (Virinta) šalia Daniūnų, dabartiniam klebonui ir jo įpė­ diniams duotų devynis pūdus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    .kuri nuo se­
+    no Pabaisko klebonams būdavo mokama, norime, kad, kaip
+    įprasta ir seniai nustatyta, žmonės, gyvenantys už Vižintos
+    upės (Virinta) šalia Daniūnų, dabartiniam klebonui ir jo įpė­
+    diniams duotų devynis pūdus. Taip ir Mikniškių žemė, nuo­
+    mojama Vepriuose, Liuteronių kaime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

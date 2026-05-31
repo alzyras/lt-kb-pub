@@ -59,9 +59,6 @@ Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Turkai]]

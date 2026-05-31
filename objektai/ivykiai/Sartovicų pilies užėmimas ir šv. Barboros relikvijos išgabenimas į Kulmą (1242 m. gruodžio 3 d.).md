@@ -58,6 +58,10 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad kad jos relikvijas nusineštumėte į Prūsijos žemę, o ten jas užlaikytumėte didesnėje pagarboje nei čia“.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad pakilę pasiėmė šią šventą relikviją ir džiūgaudami išėjo iš rūsio.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -133,3 +137,28 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad pakilę pasiėmė šią šventą relikviją ir džiūgaudami išėjo iš rūsio.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Pakilę pasiėmė šią šventą relikviją ir džiūgaudami
+    išėjo iš rūsio. Šitai pastebėjusi, viena sena moteris, stovėjusi drauge su kitomis surišta,
+    tarė broliams273: „Iš tiesų galite ir turite labai džiaugtis, nes pelnėte šventos Barboros
+    palankumą, kuris jums padėjo šiandien pasiekti tokios šlovės“.
+       Į tai broliai atsakė: „Kas tau šitai pasakė?
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/daiktai/Pančiai]]
+- [[objektai/asmenys/Sventopelkas]]
+- [[objektai/zodynas/ginklanešiai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/asmenys/Šventoji Barbora]]

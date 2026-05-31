@@ -63,4 +63,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vilius]]
 - [[objektai/asmenys/Vilius Gaigalaitis]]

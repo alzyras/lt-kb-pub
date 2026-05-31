@@ -78,6 +78,11 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   teiginys: 'Dusburgietis teigia, kad jis sugalvojo būdą, kaip jį pribaigti, ir, norėdamas savo sumanymą įgyvendinti, pakvietė jį pulti vienos pilies, stovėjusios Sembos žemėje, Gėlavandenių marių pakrantėje, beveik prieš Brandenburgo pilį412, 409 Konradas Vyresnysis iš Tirbergo (Frankonija).'
   pagrindžia:
     - c-011
+- t-015
+  teiginys: 'Per Prūsus, Lietuvai paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki Aistmarių.'
+  pagrindžia:
+    - c-012
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Citata lokalizuoja Elbingo pilį Aistmarių erdvėje.'
@@ -211,3 +216,22 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-012
+  santrauka: 'Per Prūsus, Lietuvai paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki Aistmarių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    , buvo reikalaujama, kad kryžiuo­
+    čių ordinas sugrąžintų Lietuvos užimtąsias žemes tarp Alnos, Prieg­
+    liaus ir Dauguvos. Hermano Wartberges kronikoje yra smulkiau
+    pažymėtos reikalaujamų žemių ribos : rubežiuodamasi su Mozūrija,
+    siena turėjo prasidėti nuo Alnos aukštupio. Per Prūsus, Lietuvai
+    paliekant daugiau kaip pusę Rytprūsių, aiški linija turėjo eiti upės
+    krantu iki pat Alnos įtekėjimo į Prieglių, o paskui šio tėkme iki
+    Aistmarių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015

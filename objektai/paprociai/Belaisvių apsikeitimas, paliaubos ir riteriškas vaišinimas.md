@@ -79,6 +79,10 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
   teiginys: 'Nors Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­ pukares, vienas kitą riteriškai pavaišinti.'
   pagrindžia:
     - c-005
+- t-009
+  teiginys: 'Livonijos kronikininkas Hermanas iš Vartbur­ go baigia savo kroniką žinute, kad kardininkai iš to žygio parsi­ vedę 500 lietuvių belaisvių ir 723 arklius.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -166,7 +170,39 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-006
+  santrauka: 'Livonijos kronikininkas Hermanas iš Vartbur­ go baigia savo kroniką žinute, kad kardininkai iš to žygio parsi­ vedę 500 lietuvių belaisvių ir 723 arklius.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Livonijos kronikininkas Hermanas iš Vartbur­
+    go baigia savo kroniką žinute, kad kardininkai iš to žygio parsi­
+    vedę 500 lietuvių belaisvių ir 723 arklius.
+
+
+    ```
+    — 8 —
+    ```
+    Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­
+    gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti
+    paliaubas. Čia reikia pastebėti, kad Vinrichas von Kniprodė,
+    būdamas gabus ir lankstus politikas, nuolat kariaudamas su
+    Kęstučiu, ėmėsi kitokios taktikos, negu jo pirmtakūnai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/žygis]]

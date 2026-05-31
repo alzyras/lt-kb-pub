@@ -112,9 +112,12 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Romas Ubartas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]
 - [[objektai/grupes/Tarptautinis olimpinis komitetas|Tarptautinis olimpinis komitetas (institucija)]]
 - [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
 - [[objektai/ivykiai/Lietuvos tautinio olimpinio komiteto tarptautinių teisių atkūrimas (1991 m. rugpjūtis)]]
 - [[objektai/grupes/Lietuvos tautinis olimpinis komitetas|Lietuvos tautinis olimpinis komitetas (institucija)]]
+- [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės olimpiniai bronzos medaliai (1992, 1996 ir 2000 m.)]]

@@ -80,3 +80,10 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/autokratinė monarchinė imperija]]
+- [[objektai/zodynas/interliudas]]
+- [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“]]

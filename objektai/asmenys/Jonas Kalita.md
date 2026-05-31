@@ -91,3 +91,5 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
+- [[objektai/ivykiai/Kališo taika]]
+- [[objektai/grupes/Riurikaičių dinastija]]

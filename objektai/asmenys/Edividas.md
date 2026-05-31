@@ -65,3 +65,4 @@ Tuo pat metu Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno Min
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Vikintas]]
+- [[objektai/asmenys/Tautvilas]]

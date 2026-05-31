@@ -51,8 +51,14 @@ Lietuva liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Kiška]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Lizdeika]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Netimeras]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/zodynas/civilizacinė monada]]

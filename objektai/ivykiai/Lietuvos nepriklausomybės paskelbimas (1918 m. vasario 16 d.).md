@@ -87,4 +87,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kompromisas]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]

@@ -11,6 +11,7 @@ datos:
   - '1104 m.'
   - '1112 m.'
   - '1187 m.'
+  - '1190 m.'
   - '1191 m.'
   - '1291 m.'
   - '1312 m.'
@@ -57,6 +58,11 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   teiginys: 'Dusburgietis teigia, kad bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos virto kariaujančiųjų riterių ordinais.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, šviesiausiasis Jeruzalės karalius, Nazareto, Tyro ir Cezarėjos arkivyskupai ir Betliejaus bei Akono vyskupai, švento Jono ligoninės magistras ir tamplierių ordino magistras, daugelis abiejų ordinų brolių ir.'
@@ -163,9 +169,49 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos virto kariaujančiųjų riterių ordinais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
+    turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
+    virto kariaujančiųjų riterių ordinais. Italai čia turėjo savo joanitų
+    ordiną, prancūzai — templininkų, o trečiojo kryžiaus žygio metu
+    vokiečiai įkūrė savo Marijos Mergelės ordiną (1190 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Albertas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/asmenys/Gardolfas]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/asmenys/Klemensas V]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Tamplierių ordinas]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/landgrafas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maldininkai]]
+- [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Švento Jono ligoninės ordinas]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
 - [[objektai/asmenys/Henrikas Valpotas]]
 - [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]
+- [[objektai/ivykiai/Hospitaljerų Rodo salos užėmimas (1307 m.)]]
+- [[objektai/grupes/Templininkų ordinas]]

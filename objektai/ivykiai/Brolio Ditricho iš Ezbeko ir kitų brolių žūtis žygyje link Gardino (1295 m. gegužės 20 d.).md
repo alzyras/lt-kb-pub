@@ -87,3 +87,12 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Ditrichas iš Ezbeko]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/netikėliai]]
+- [[objektai/asmenys/Heinmanas, vardu Kindas]]
+- [[objektai/asmenys/Listas]]

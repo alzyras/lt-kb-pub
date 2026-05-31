@@ -72,6 +72,7 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
 - [[objektai/asmenys/B. P. Sapiega]]
 - [[objektai/asmenys/J. P. Sapiega]]
 - [[objektai/asmenys/M. P. Sapiega]]
+- [[objektai/grupes/Valkininkų konfederacija]]
 - [[objektai/zodynas/etatiniai vienetai]]
 - [[objektai/zodynas/kontribucija]]
 - [[objektai/grupes/Sapiegų kariuomenė]]

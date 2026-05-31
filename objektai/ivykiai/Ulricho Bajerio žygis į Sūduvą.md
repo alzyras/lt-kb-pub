@@ -87,3 +87,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Sūduviai]]
 - [[objektai/zodynas/netikėliai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

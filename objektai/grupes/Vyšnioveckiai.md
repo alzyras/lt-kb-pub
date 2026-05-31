@@ -44,7 +44,12 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Sluckiai]]
+- [[objektai/grupes/Alšėnų kunigaikščiai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/grupes/Sanguškos]]
+- [[objektai/grupes/Sluckiai]]
+- [[objektai/grupes/Čartoriskiai]]

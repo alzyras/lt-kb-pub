@@ -156,3 +156,16 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Aušrėnai]]
+- [[objektai/daiktai/Duona]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/daiktai/Ragotinė]]
+- [[objektai/zodynas/Sūdas|sūdas]]
+- [[objektai/zodynas/Ūkės vilkėja|ūkės vilkėja]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
+- [[objektai/daiktai/Drabužiai]]

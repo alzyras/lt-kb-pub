@@ -59,6 +59,7 @@ Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktin
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Algimanto apygarda]]
+- [[objektai/asmenys/Vaižgantas]]
 - [[objektai/grupes/Kunigaikščio Margio rinktinė]]
 - [[objektai/grupes/Vytauto apygarda]]
 - [[objektai/grupes/Vyčio apygarda]]

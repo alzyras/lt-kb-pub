@@ -73,6 +73,7 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Liesys-Idenas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
@@ -82,5 +83,6 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 - [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
 - [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]
 - [[objektai/asmenys/Robertas Gedvilas-Remigijus]]
+- [[objektai/grupes/Tauro apygarda]]
 - [[objektai/autoriai/V. Daugudis]]
 - [[objektai/asmenys/Vytautas Gužas-Kardas]]

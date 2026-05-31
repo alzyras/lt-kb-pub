@@ -11,14 +11,6 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1253 m. liepos 6 d."
-datos:
-  - "1253 m. liepos 6 d."
-periodas: viduramziai
-periodo_grupes: []
-amziai:
-  - XIII
-date_start: "1253"
-date_end: "1253"
 vaidmenys: []
 dalyviai:
   - "Mindaugas"
@@ -26,6 +18,18 @@ dalyviai:
   - "Andrius Štirlandas"
   - "Kristijonas"
 susije_irasai: []
+datos:
+  - '1253 m.'
+  - '1952 m.'
+  - '1953 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XIII'
+  - 'XX'
+date_start: '1253'
+date_end: '1953'
 patikimumas: aukstas
 atnaujinta: '2026-05-13'
 tags:
@@ -93,6 +97,10 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Mindaugo vainikavimas Mindaugo karūnacija.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -172,6 +180,20 @@ Mindaugas patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą
     - t-004
     - t-005
     - t-006
+- c-004
+  santrauka: 'Mindaugo vainikavimas Mindaugo karūnacija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mindaugo vainikavimas
+    Mindaugo karūnacija.
+    Dail. A. Varnas, 1952–1953 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Data ir vieta
 - 1253 m. liepos 6 d.
@@ -184,5 +206,19 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
 - [[temos/karūnacija]]
 
 ### Susiję objektai
+- [[objektai/zodynas/Arkivyskupija]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Morta]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/A. Varno paveikslas „Mindaugo karūnacija“]]
+- [[objektai/ivykiai/Mindaugo karūnacija]]
+- [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
 - [[objektai/posakiai/„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“]]
+- [[objektai/zodynas/apsikarūnavimas]]

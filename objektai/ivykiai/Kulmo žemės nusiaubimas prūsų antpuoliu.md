@@ -101,3 +101,10 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kristijonas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/amžina vergovė]]
+- [[objektai/zodynas/amžina vergovė amžini vergai]]

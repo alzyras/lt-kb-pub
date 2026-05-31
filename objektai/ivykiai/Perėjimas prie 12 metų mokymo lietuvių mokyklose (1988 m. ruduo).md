@@ -57,4 +57,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Komjaunimas]]
 - [[objektai/grupes/Lietuviai]]

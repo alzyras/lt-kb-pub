@@ -46,5 +46,7 @@ Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vėliava]]
 - [[objektai/zodynas/Suverenitetas]]

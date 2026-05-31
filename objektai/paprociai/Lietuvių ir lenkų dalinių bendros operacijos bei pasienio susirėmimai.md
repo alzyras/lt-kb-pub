@@ -81,6 +81,10 @@ Nenurodyta
   teiginys: '1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino įvairiose vietose veržtis į Lietuvos teritorijos glumą.'
   pagrindžia:
     - c-005
+- t-011
+  teiginys: 'Tačiau Lietuvos vyriausybė maištą numalSino ir lenkai prarado pretekstą atviram Kauno puolimui.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -171,3 +175,28 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-006
+  santrauka: 'Tačiau Lietuvos vyriausybė maištą numalSino ir lenkai prarado pretekstą atviram Kauno puolimui.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau Lietuvos vyriausybė maištą numal-
+    Sino ir lenkai prarado pretekstą atviram Kauno puolimui. Įvairios
+    provokacijos ir smulkūs susirėmimai tarp lenkų ir lietuvių, nepaisant
+    to, vyko iki pat 1920 m. balandžio, kai lenkai pradėjo stambų puolimą
+    rytuose prieš bolševikus, sutelkdami visas kovingas pajėgas prieš rusus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]

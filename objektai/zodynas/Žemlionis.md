@@ -99,4 +99,10 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
+- [[objektai/zodynas/Rėda|rėda]]
+- [[objektai/grupes/Žemlionys]]
+- [[objektai/zodynas/vėliava]]
 - [[objektai/zodynas/Perveiza|perveiza]]
+- [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai]]

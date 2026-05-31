@@ -46,6 +46,7 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Grigorijus Camblakas]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
 - [[objektai/zodynas/konversija christianizacija europeizacija]]

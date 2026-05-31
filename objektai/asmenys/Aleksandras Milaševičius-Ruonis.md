@@ -74,3 +74,4 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/grupes/Tauro apygarda]]

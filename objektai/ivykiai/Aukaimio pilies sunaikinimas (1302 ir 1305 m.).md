@@ -96,3 +96,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Draika]]
+- [[objektai/zodynas/komtūras]]

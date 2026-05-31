@@ -116,5 +116,11 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
+### Susiję objektai
+- [[objektai/daiktai/Herbas]]
+- [[objektai/asmenys/Jonas]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Zigmantas]]
+- [[objektai/asmenys/Zigmantas Augustas]]

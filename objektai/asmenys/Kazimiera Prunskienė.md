@@ -71,5 +71,6 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/suma]]
 - [[objektai/ivykiai/M. Gorbačiovo ultimatumas ir sovietų kariuomenės veiksmai Lietuvoje (1991 m. sausio 10–11 d.)]]

@@ -182,3 +182,16 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/posakiai/kardinalinės teisės]]
+- [[objektai/zodynas/kitatikiai]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/zodynas/pacta conventa]]

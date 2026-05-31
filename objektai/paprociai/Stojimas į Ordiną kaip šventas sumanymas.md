@@ -47,6 +47,10 @@ Nenurodyta
   pagrindžia:
     - c-001
     - c-002
+- t-002
+  teiginys: 'Dusburgietis teigia, kad ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės politikos vykdytojo, Ordino, apologijai.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,9 +95,36 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Dusburgietis teigia, kad ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės politikos vykdytojo, Ordino, apologijai.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Ir šiuo atveju Petras iš Dusburgo yra ryškus Ordino interesų gynėjas, visas
+    pastangas sutelkęs kronikos pagrindinei idėjai — agresyvios vokiečių feodalų klasės
+    politikos vykdytojo, Ordino, apologijai.
+
+
+
+
+                        Kronikos idėjinė reikšmė ir mokslinė svarba
+
+      Kronikos tekstas ryškiai parodo jos autoriaus, kaip vokiečių feodalų karinės-religinės
+    organizacijos ideologo, siekimus išaukštinti ir pateisinti Ordino veiksmus krikščionybės
+    platinimu. Čia pabrėžiama, kad kryžiaus karui pats „viešpats pasirinko Prūsijos žemę“
+    (III, 8), todėl Ordino veiksmai yra dievo veiksmai (II, 6), Ordino broliai — tai viešpaties
+    dievo kariuomenė (III, 19), „dievo tauta“ („populus dei“) (III, 123), todėl stojimas  į
+    Ordiną — tai „šventas sumanymas“ (III,284).
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/viešpaties dievo kariuomenė dievo tauta]]

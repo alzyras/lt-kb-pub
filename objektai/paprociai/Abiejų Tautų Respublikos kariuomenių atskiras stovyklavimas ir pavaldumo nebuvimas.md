@@ -107,3 +107,9 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“]]

@@ -64,12 +64,17 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/asmenys/Jonas]]
 - [[objektai/asmenys/Jonas Kauneckas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Andrejus Sacharovas]]
+- [[objektai/asmenys/Eitanas Finkelšteinas]]
 - [[objektai/asmenys/Jurijus Orlovas]]
+- [[objektai/asmenys/Karolis Garuckas|Karolis Garuckas (kunigas)]]
+- [[objektai/grupes/Lietuvos Helsinkio grupė]]
+- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
+- [[objektai/asmenys/Ona Lukauskaitė-Poškienė]]
+- [[objektai/asmenys/Tomas Venclova]]
+- [[objektai/asmenys/Viktoras Petkus]]

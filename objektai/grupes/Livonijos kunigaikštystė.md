@@ -41,7 +41,10 @@ tags:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Karalius Steponas Batoras ir LDK didysis etmonas Mikalojus Radvila Rudasis suvokė, kad siekiant nutraukti rusų veržimąsi į Livoniją reikia atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus Vengriškasis-lenkiškasis kardas.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1561 m. Livonijos konfederacijos likusi dalis buvo padalinta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai.'
@@ -79,12 +82,49 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Karalius Steponas Batoras ir LDK didysis etmonas Mikalojus Radvila Rudasis suvokė, kad siekiant nutraukti rusų veržimąsi į Livoniją reikia atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus Vengriškasis-lenkiškasis kardas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Karalius Steponas Batoras ir LDK
+    didysis etmonas Mikalojus Radvila
+    Rudasis suvokė, kad
+    siekiant nutraukti rusų
+    veržimąsi į Livoniją rei-
+    kia atkirsti Livonijos teritoriją nuo
+    Rusijos ir perkelti karo veiksmus
+
+    Vengriškasis-lenkiškasis kardas. Tokie
+    kardai kilo iš Vengrijos, kur jie formavosi turkų
+
+    Po Liublino unijos Livonijos ir Kuršo
+    kunigaikštystės pripažintos bend-
+    romis Lenkijos ir LDK valdomis.
+
+    1572 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Livonijos konfederacija]]
 - [[objektai/grupes/Maskvėnai]]
+- [[objektai/asmenys/Mikalojus Radvila]]
+- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Turkai]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/unija]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]

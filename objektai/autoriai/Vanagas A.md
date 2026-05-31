@@ -131,3 +131,13 @@ Dusburgietis teigia, kad 238—239; Vanagas A. Dusburgietis teigia, kad laba, La
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Galindai]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Вилинбахов В. Б]]
+- [[objektai/autoriai/Топоров B. H]]
+- [[objektai/autoriai/Энговатов H. В]]

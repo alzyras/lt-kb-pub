@@ -52,5 +52,9 @@ N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Antantė]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje]]

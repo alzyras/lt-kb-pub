@@ -58,7 +58,10 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginys: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   pagrindžia:
     - c-005
-
+- t-006
+  teiginys: '134 netekusi po Melno taikos savo reikšmės, o Vytautas nutraukė ryšius su čekais, atšaukdamas į Lietuvą Kaributą ir patardamas jiems susitaikyti su Bažnyčia.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.'
@@ -149,10 +152,37 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '134 netekusi po Melno taikos savo reikšmės, o Vytautas nutraukė ryšius su čekais, atšaukdamas į Lietuvą Kaributą ir patardamas jiems susitaikyti su Bažnyčia.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    134
+    ```
+    netekusi po Melno taikos savo reikšmės, o Vytautas nutraukė
+    ryšius su čekais, atšaukdamas į Lietuvą Kaributą ir patardamas
+    jiems susitaikyti su Bažnyčia. Kaributas savo valia buvo dar
+    kartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­
+    riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas
+    su popiežium ir už tą buvo išvytas iš Čekijos. Tuo ir užsibaigė
+    šie lietuvių santykiai su husitais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Husitai]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/daiktai/Iždo ir pilių raktai]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]

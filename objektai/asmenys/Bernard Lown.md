@@ -48,4 +48,12 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Aaron Klug]]
+- [[objektai/asmenys/Bernardas]]
+- [[objektai/asmenys/David Baltimore]]
+- [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/asmenys/Sydney Brenner]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Czesław Miłosz]]
+- [[objektai/asmenys/Nadine Gordimer]]

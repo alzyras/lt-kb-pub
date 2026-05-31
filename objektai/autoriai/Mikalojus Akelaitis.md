@@ -40,6 +40,14 @@ tags:
   teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   pagrindžia:
     - c-001
+- t-005
+  teiginys: 'Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija turi būti kiekvieno piliečio lūpose, ir.'
+  pagrindžia:
+    - c-002
+- t-006
+  teiginys: 'Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­ tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­ tiečių kilęs švietėjas Mikalojus Akelaitis.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1859 m. lietuvių švietėjas Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė: „Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“'
@@ -61,11 +69,46 @@ tags:
   pagrindžia:
     - t-003
     - t-004
+- c-002
+  santrauka: 'Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija turi būti kiekvieno piliečio lūpose, ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
+    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
+    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
+    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-003
+  santrauka: 'Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­ tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­ tiečių kilęs švietėjas Mikalojus Akelaitis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Adomas Honorijus Kir­
+    koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­
+    tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
+    tiečių kilęs švietėjas Mikalojus Akelaitis. M. Balinskis atsakė į jo
+    laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­
+    kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­
+    mas pilietinio ir kultūrinio ugdymo teises.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
 - [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]
 - [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vilniaus Senienų muziejus]]

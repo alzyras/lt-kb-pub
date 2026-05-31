@@ -55,3 +55,4 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/sukilimo inscenizacija]]

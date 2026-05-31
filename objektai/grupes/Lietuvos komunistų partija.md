@@ -13,6 +13,7 @@ datos:
   - '1953 m.'
   - '1965 m.'
   - '1988 m.'
+  - '1989 m.'
   - '1990 m.'
   - '2013 m.'
   - '2026 m.'
@@ -127,6 +128,34 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę, V.'
   pagrindžia:
     - c-018
+- t-019
+  teiginys: 'Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruomenė, turinti daugelį partijų ir organizacijų.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Kiekvienas žmogus, dalyvaujantis tokioje akcijoje, jautė, kad nuo jo priklauso Lietuvos ateitis.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: '1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Komunistų partijos veiklai didelę įtaką turėjo 1989 m. gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: '1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjūdis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos Lietuvos valstybės atkūrimo idėją, ir.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Siekiant sumažinti Lietuvos žmonių paramą nepriklausomybei, buvo paskelbta ekonominė blokada, kurstant tautinę nesantaiką, buvo skatinamas atskirų Lietuvos regionų atsiskyrimas nuo nepriklausomos valstybės, tačiau tai lauktų rezultatų nedavė (ekonominiai.'
+  pagrindžia:
+    - c-025
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -465,9 +494,202 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-019
+  santrauka: 'Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruomenė, turinti daugelį partijų ir organizacijų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruome-
+    nė, turinti daugelį partijų ir organizacijų. Vykstant sekuliarizacijai, jauni-
+    mo modernizacijai, yrant uždaram žydų geto gyvenimui valdžia šnairavo
+    į gausėjančius žydų kairiuosius, akty­vius LKP, komunistinio pogrindžio
+    atstovus, kur žydai dominavo: jie sudarė daugiau kaip 70 proc. narių svar-
+    biausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR’e
+    (tarptautinė organizacija revoliucionieriams remti, diriguojama iš Mas-
+    kvos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Kiekvienas žmogus, dalyvaujantis tokioje akcijoje, jautė, kad nuo jo priklauso Lietuvos ateitis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kiekvienas žmogus, dalyvaujantis tokioje akcijoje,
+    jautė, kad nuo jo priklauso Lietuvos ateitis. Per keletą mėnesių LPS pa-
+    siekė akivaizdžių laimėjimų. Spalio 21 dieną LKP CK pirmuoju sekre-
+    toriumi tapo Algirdas Brazauskas, įgijęs didelį visuomenės pasitikėjimą,
+    ypač kai po LPS steigiamojo suvažiavimo tikintiesiems grąžino Vilniaus
+    arkikatedrą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: '1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį. Jau tų
+    metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai
+    laimėjo LPS kandidatai, o gruodžio 7 dienos konstitucijos pataisomis pa-
+    naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
+    sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
+    šalies politiniame gyvenime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Komunistų partijos veiklai didelę įtaką turėjo 1989 m. gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
+    gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.
+    lietuviai) XX suvažiavimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Suvažiavimo metu „už savarankišką LKP, tu-
+    rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
+    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
+    turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
+    pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
+    cialdemokratinę orientaciją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: '1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjūdis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos Lietuvos valstybės atkūrimo idėją, ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1990 m. sausį–vasarį per rinkimų į Lietuvos SSR Aukščiausiąją Tarybą
+    kampaniją susidūrė dvi pagrindinės jėgos: Lietuvos Persitvarkymo Sąjū-
+    dis – tautinis judėjimas, ryžtingai ir atvirai skleidžiantis nepriklausomos
+    Lietuvos valstybės atkūrimo idėją, ir savarankiška LKP, paskelbusi popu-
+    liarų, tačiau miglotą ir neapibrėžtą šūkį: „Lietuva be suvereniteto – Lietu-
+    va be ateities.“ Iš pirmo žvilgsnio konfrontacijos tarp abiejų politinių jėgų
+    nebuvo – LPS rengėsi Lietuvos nepriklausomybę atkurti parlamentiniu
+    būdu, o savarankiška LKP šiam planui nesipriešino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Siekiant sumažinti Lietuvos žmonių paramą nepriklausomybei, buvo paskelbta ekonominė blokada, kurstant tautinę nesantaiką, buvo skatinamas atskirų Lietuvos regionų atsiskyrimas nuo nepriklausomos valstybės, tačiau tai lauktų rezultatų nedavė (ekonominiai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Siekiant
+    sumažinti Lietuvos žmonių paramą nepriklausomybei, buvo
+    paskelbta ekonominė blokada, kurstant tautinę ne-
+    santaiką, buvo skatinamas atskirų Lietuvos regionų
+    atsiskyrimas nuo nepriklausomos valstybės, tačiau
+    tai lauktų rezultatų nedavė (ekonominiai sunkumai
+    tik dar labiau sutelkė Lietuvos žmones, o dauge-
+    lis Lietuvoje gyvenančių kitataučių palaikė laisvės
+    siekius) ir sovietai ėmė didinti įtampą, įvesdami į
+    Lietuvos teritoriją papildomus sovietinės kariuo-
+    menės dalinius, kurie buvo skirti Lietuvos gyven-
+    tojų, vengiančių tarnybos sovietinėje kariuomenėje,
+    gaudymui ir neva viešosios tvarkos užtikrinimui.
+
+    Sausio 13-osios
+    dienos brolijos
+    (organizacijos, vie-
+
+    Mėginimas įvykdyti perversmą
+
+    Sovietai pradėjo rengtis valstybiniam per-
+    versmui. Jį įgyvendinti turėjo prosovietiškos
+    Lietuvos komunistų partijos (nuo sovietų ko-
+    munistų partijos neatsiskyrusios partijos da-
+    lies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“
+    (Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų
+    darbininkai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/asmenys/J. Stalinas]]
+- [[objektai/grupes/Komjaunimas]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Liaudies vyriausybė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/asmenys/Michailas Gorbačiovas]]
+- [[objektai/asmenys/Rimgaudas Songaila]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/SSRS kariuomenė]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/asmenys/V. Krėvė-Mickevičius]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/aneksija]]
+- [[objektai/zodynas/getas]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
 - [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
 - [[objektai/zodynas/polpredas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
+- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/asmenys/Josifas Stalinas]]
+- [[objektai/ivykiai/Keturių LKP vadovų sušaudymas po 1926 m. perversmo]]
+- [[objektai/ivykiai/LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.)]]
+- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
+- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/daiktai/Lietuvos trispalvė]]
+- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]
+- [[objektai/grupes/MOPR]]
+- [[objektai/asmenys/Nikolajus Mitkinas]]
+- [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
+- [[objektai/asmenys/Petras Griškevičius]]
+- [[objektai/autoriai/V. Kudirka]]
+- [[objektai/asmenys/Vincas Kudirka]]
+- [[objektai/zodynas/baltosios dėmės]]
+- [[objektai/zodynas/eurokomunistinio tipo partija]]
+- [[objektai/zodynas/pertvarka perestroika]]
+- [[objektai/zodynas/sovietizacija sovietizavimas]]
+- [[objektai/posakiai/„Lietuva be suvereniteto – Lietuva be ateities.“]]
+- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

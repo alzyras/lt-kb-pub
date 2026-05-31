@@ -81,8 +81,13 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Augustinas]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Dovas Zaunius]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/posakiai/„Karas ar taika “]]

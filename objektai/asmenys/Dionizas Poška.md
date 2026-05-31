@@ -40,3 +40,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/MINTIS]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/grupes/Mokslo bičiulių draugija]]

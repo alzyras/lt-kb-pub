@@ -43,3 +43,8 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/gotika]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

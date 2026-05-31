@@ -57,6 +57,10 @@ Nenurodyta
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų snaiperiniuose šautuvuose ir kulkosvaidžiuose šovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario nešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant automatine ugnimi.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -104,8 +108,34 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų snaiperiniuose šautuvuose ir kulkosvaidžiuose šovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario nešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant automatine ugnimi.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Negana to, 7,62x54 mm R šoviniai buvo naudojami visuose sovietų
+    snaiperiniuose šautuvuose ir kulkosvaidžiuose
+
+    šovinys, tačiau trumpesne tūtele, tai sumažina jį naudojančio kario
+    nešiojamos amunicijos svorį ir nepageidautiną atatranką šaudant
+    automatine ugnimi (sutrumpinti šoviniai pradėti naudoti Antrojo
+    pasaulinio karo laikais jav (Garand) ir Vokietijoje (stG 44)).
+
+    Kalašnikovo konstrukcijos automatinis šautuvas pasižymėjo pa-
+    prasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba,
+    tai leido sovietams šių ginklų pagaminti labai daug ir jie plačiai
+    paplito po visą pasaulį.
+
+    1959 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Statybininkų šalmai]]
 - [[objektai/asmenys/M. Kalašnikovas]]
+- [[objektai/daiktai/Sovietų automatinis šautuvas AKM]]

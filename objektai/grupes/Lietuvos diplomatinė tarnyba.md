@@ -70,6 +70,12 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 - [[temos/drabužis]]
 
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
 - [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]
+- [[objektai/grupes/Lietuvos socialdemokratų partija]]
+- [[objektai/grupes/Raudonoji armija]]
 - [[objektai/ivykiai/Lietuvos diplomatinės tarnybos darbo pabaiga (1991 m. rugsėjo 6 d.)]]

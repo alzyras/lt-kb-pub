@@ -64,5 +64,5 @@ Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi�
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Edividas]]
 - [[objektai/asmenys/Tautvilas]]
+- [[objektai/asmenys/Edividas]]

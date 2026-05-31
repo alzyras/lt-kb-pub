@@ -50,6 +50,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/aneksija]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/posakiai/„Lithuania Propria“]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]

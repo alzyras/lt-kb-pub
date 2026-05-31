@@ -89,3 +89,4 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
 - [[objektai/daiktai/Duona]]
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/daiktai/Deficitinės vartojimo prekės]]
+- [[objektai/zodynas/deficitas talonai]]

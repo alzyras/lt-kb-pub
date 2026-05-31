@@ -49,6 +49,18 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
   teiginys: 'Dusburgo teigimu, Gedimino pasiuntinys Rygoje pareiškė, kad valdovas nesiuntė laiškų dėl savo ar valdinių krikšto.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemini, turbūt stovėjusią kur nors Lietuvos su Prūsija pasienyje ir tieka kartų Dusburgo minimą, taria esant Vil­ niumi: Ego puto hic intelligi urbem Vilnam, a Gedemino recens tum.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama; antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­ rum Gedemini jau.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -109,6 +121,72 @@ Kas liečia kopūstus, Dusburgo kronikoje yra pažymėta, jog jie prūsams buvę
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Hartknochas Dusburgoe kronikos pastabose Gedimino pilį, vadintą Castrum Gedemini, turbūt stovėjusią kur nors Lietuvos su Prūsija pasienyje ir tieka kartų Dusburgo minimą, taria esant Vil­ niumi: Ego puto hic intelligi urbem Vilnam, a Gedemino recens tum.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Hartknochas Dusbur-
+    goe kronikos pastabose Gedimino pilį, vadintą Castrum Ge-
+    demini, turbūt stovėjusią kur nors Lietuvos su Prūsija
+    pasienyje ir tieka kartų Dusburgo minimą, taria esant Vil­
+    niumi: Ego puto hic intelligi urbem Vilnam, a Gedemino recens
+    tum conditam nimirum anno 1322 [Aš manau, kad Vilniaus
+    miestas gali būti taip suprantamas - būtent Gedimino įkur­
+    tas tik 1322 metais]. Tačiau atkreipus dėmesį į tai, ką Dus-
+    burgas, aprašomų įvykių amžininkas, todėl labiausiai ver­
+    tas pasitikėjimo, apie tą pilį byloja, ta Hartknocho nuomonė
+    negali atlaikyti. Pirmą kartą jį Dusburgas mini prie 1304 metų
+    (356 lape), pasakodamas, kaip brolis Eberhardas de Virnem-
+    burgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­
+    provise intravit territorium Lettoviae, dictum Pograuden [neti­
+    kėtai įsiveržė į Lietuvos teritoriją, vadinamą Pagraudenę].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama; antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­ rum Gedemini jau.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį. Trečią kartą šis papilys bu­
+    vo sudegintas 1324 metais; rašo apie tai Dusburgas, kad bir­
+    želio Il dieną, švintant, Ragainės komtūras Tomas Alden-
+    burgas ir 44 broliai su 400 žmonių iš Sembos ir Natangos
+    netikėtai užpuolė Gedimino pilies papilį ir plėnimis palei­
+    do8. Iš to, kas Dusburgo sakoma, peršasi išvados: pirma, kad
+    ta Gedimino pilis, kiek galima susivokti, buvo Lietuvos ar
+    Žemaitijos pasienyje, dėl šito ir su Strijkovskiu sutariama;
+    antra, kad galėjo net prie Nemuno stovėti; pagaliau, kad Cast­
+    rum Gedemini jau 1304 metais buvo, o Vilniaus pilis tik 1322
+    metais pastatyta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Bibliografiniai įrodymai
 - c-001

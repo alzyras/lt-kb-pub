@@ -103,3 +103,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/gotika]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]
+- [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]

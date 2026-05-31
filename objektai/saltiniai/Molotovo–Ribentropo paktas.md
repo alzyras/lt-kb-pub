@@ -11,19 +11,23 @@ aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 laikotarpis: "1939 m. rugpjūčio 23 d.; 1987 m.; 1989 m."
-datos:
-  - "1939 m. rugpjūčio 23 d."
-  - "1987 m. rugpjūčio 23 d."
-  - "1989 m. rugpjūčio 23 d."
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1939"
-date_end: "1939"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1939 m.'
+  - '1940 m.'
+  - '1979 m.'
+  - '1987 m.'
+  - '1989 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1939'
+date_end: '1989'
 patikimumas: "aukštas"
 atnaujinta: '2026-05-13'
 tags: []
@@ -94,6 +98,10 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
   pagrindžia:
     - c-009
+- t-011
+  teiginys: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -193,3 +201,19 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-010
+  santrauka: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1940 VI 15
+    realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
+    ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
+    netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
+    publika. Sovietinio teroro ir trėmimų pradžia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

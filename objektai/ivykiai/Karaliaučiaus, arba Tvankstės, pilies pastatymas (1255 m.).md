@@ -129,4 +129,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/magistras]]

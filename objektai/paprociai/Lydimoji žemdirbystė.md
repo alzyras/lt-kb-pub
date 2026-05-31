@@ -69,6 +69,10 @@ Nenurodyta
   teiginys: 'Pradėjus Lietuvoje « va­ lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas žodis « lydimas » («lidim », «lidem ».'
   pagrindžia:
     - c-004
+- t-008
+  teiginys: 'Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė laisvės naudotis mišku ir daryti išdagas.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -150,6 +154,25 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė laisvės naudotis mišku ir daryti išdagas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tokia ekstensyvi žemdirbystė buvo galima tol, kol nebuvo
+    pradėta tvarkyti miškų ūkis ir kol stambieji žemvaldžiai nesuvaržė
+    laisvės naudotis mišku ir daryti išdagas. Pradėjus Lietuvoje « va­
+    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
+    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
+    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
+    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
+    ir kt.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -160,3 +183,4 @@ Nenurodyta
 - [[objektai/zodynas/Dvilaukė sistema]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]
+- [[objektai/grupes/Valakai]]

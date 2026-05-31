@@ -77,6 +77,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/ivykiai/Torno taika]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Žalgirio mūšis]]

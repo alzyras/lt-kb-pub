@@ -71,7 +71,14 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
   pagrindžia:
     - c-007
-
+- t-008
+  teiginys: 'Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžiagą.'
+  pagrindžia:
+    - c-005
+- t-009
+  teiginys: 'Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziškai, ištremti, bažnyčias paversti sandėliais, o N.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po J. Stalino mirties 1953 m. SSRS susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais.'
@@ -150,6 +157,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+    - t-008
 - c-006
   santrauka: 'J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -165,6 +173,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+    - t-009
 - c-007
   santrauka: 'Stalino statulų, prikabinėta komunistinių šūkių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -182,3 +191,18 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
+- [[objektai/asmenys/Josifas Stalinas]]
+- [[objektai/asmenys/Karlas Marksas]]
+- [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]
+- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/rusinimas dvikalbystė]]

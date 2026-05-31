@@ -97,3 +97,13 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/A. Merkys]]
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Augustinas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Antanas Merkys]]
+- [[objektai/asmenys/Juozas Urbšys]]
+- [[objektai/asmenys/Viačeslavas Molotovas]]

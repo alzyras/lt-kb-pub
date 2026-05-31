@@ -10,6 +10,9 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 bukle: juodrastis
 laikotarpis: 'XVI a.'
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos:
   - '1579 m.'
 periodas: 'ankstyvieji_naujieji_laikai'
@@ -19,9 +22,6 @@ amziai:
   - 'XVI'
 date_start: '1579'
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
 atnaujinta: '2026-05-27'
 tags: []
@@ -58,7 +58,10 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
     - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­ raliaus akyse liejo grėsmingus pabūklus pagal geriausius pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­ niaus gatvėmis traukė į stovyklą Svyre, šis didysis.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Aprašoma liejyklos vieta, žaliavų tiekimas ir gamyba.
@@ -100,3 +103,30 @@ Liejykla lokalizuojama prie Vilniaus pilies ir siejama su Stepono Batoro kariniu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kuo rimčiausiai rengian­ tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­ raliaus akyse liejo grėsmingus pabūklus pagal geriausius pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­ niaus gatvėmis traukė į stovyklą Svyre, šis didysis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Smig-
+    288
+
+    ## Puslapis 305
+
+    IV KNYGA
+    jo žmonai palikta išimtinė privilegija supirkinėti stiklą, o
+    po jų mirties palikuonims skirta teisė atiteko miestui56.
+    Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų
+    pavasarį buvo įsimintinas miestui. Kuo rimčiausiai rengian­
+    tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­
+    raliaus akyse liejo grėsmingus pabūklus pagal geriausius
+    pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­
+    niaus gatvėmis traukė į stovyklą Svyre, šis didysis karalius,
+    lecki Loik i Statysta [pasaulietis ir
+    valstybės veikėjas], gim.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

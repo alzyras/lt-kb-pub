@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -33,6 +39,10 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   teiginys: 'Pajaujo suėmimą, nepritarus vyriausybės deklaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas, o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 155 III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,10 +90,33 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 155 III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę demokratinę santvarką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    155
+    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
+    demokratinę santvarką. Birželio 17 d. panaikinta karo padėtis, amnestuo-
+    ti politiniai kaliniai, tarp kurių būta nemažai pogrindinės LKP narių, pa-
+    naikinti visi spaudos apribojimai, pirmą kartą šalies istorijoje leista laisvai
+    rengti susirinkimus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/ivykiai/III Seimo paleidimas (1927 m. balandžio 12 d.)]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]
+- [[objektai/grupes/Krikščionių demokratų blokas]]
+- [[objektai/zodynas/civilinė metrikacija]]

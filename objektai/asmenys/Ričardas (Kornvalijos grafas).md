@@ -55,3 +55,11 @@ Dusburgietis teigia, kad apie Alfonso, Kastilijos karaliaus, ir Ričardo, Kornva
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Henrikas Lankasteris]]
+- [[objektai/asmenys/Jonas de Gandas]]
+- [[objektai/autoriai/M. Strijkovskis Stryjkowski]]
+- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/asmenys/Ričardas II]]

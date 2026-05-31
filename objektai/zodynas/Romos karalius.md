@@ -81,17 +81,17 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Krokuvos profesoriai]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
+- [[objektai/asmenys/Albrechtas (Romos karalius)]]
 - [[objektai/asmenys/Benediktas XI]]
+- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Inocentas V]]
 - [[objektai/asmenys/Vaclovas (Čekijos karalius)]]
 - [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/ivykiai/Sicilijos prancūzų žudynės (1281 m.)]]
 - [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.)]]
 - [[objektai/grupes/Vienos universiteto profesoriai]]

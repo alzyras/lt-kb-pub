@@ -144,3 +144,5 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
+- [[objektai/zodynas/fraternitas]]

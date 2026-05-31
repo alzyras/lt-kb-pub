@@ -80,3 +80,4 @@ tags: []
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Rygos pirkliai]]

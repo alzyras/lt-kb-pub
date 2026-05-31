@@ -53,3 +53,7 @@ E., Žalys V., edit. Žalys V.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/diplomatija]]

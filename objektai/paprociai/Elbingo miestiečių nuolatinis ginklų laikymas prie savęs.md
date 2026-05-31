@@ -100,3 +100,4 @@ Nenurodyta
 - [[objektai/grupes/Varmiai]]
 - [[objektai/grupes/Elbingo miestiečiai]]
 - [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
+- [[objektai/grupes/Pagudėnai]]

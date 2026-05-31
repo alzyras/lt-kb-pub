@@ -80,5 +80,6 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Bartų sugrįžimas pas brolius ir lietuvių išžudymas]]
 - [[objektai/asmenys/Derska]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]

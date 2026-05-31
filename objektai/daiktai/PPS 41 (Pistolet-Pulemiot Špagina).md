@@ -74,4 +74,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Jonas]]
 - [[objektai/grupes/Lietuvos partizanai]]
+- [[objektai/posakiai/Lipdė laisvę ir lygybę iš sulūžusių tvorų]]
 - [[objektai/zodynas/pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis]]

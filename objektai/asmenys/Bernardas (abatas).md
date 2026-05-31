@@ -61,5 +61,6 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
+### Susiję objektai
+- [[objektai/zodynas/legatas]]
+- [[objektai/zodynas/popiežiaus legatas]]

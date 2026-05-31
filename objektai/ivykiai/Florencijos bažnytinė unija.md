@@ -77,3 +77,4 @@ Nenurodyta
 - [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Katalikų Bažnyčia]]

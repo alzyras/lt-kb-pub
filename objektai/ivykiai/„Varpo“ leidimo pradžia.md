@@ -66,3 +66,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/autoriai/V. Kudirka]]
+- [[objektai/asmenys/Vincas Kudirka]]

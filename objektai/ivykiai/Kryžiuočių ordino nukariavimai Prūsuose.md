@@ -216,3 +216,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/asmenys/Kristijonas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Pilys]]
+- [[objektai/zodynas/pagonybė]]

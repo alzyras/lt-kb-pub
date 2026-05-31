@@ -118,7 +118,9 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/zodynas/ginklanešiai]]
 - [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/asmenys/Henrikas Cutsvertas]]
+- [[objektai/grupes/Lietuviai]]

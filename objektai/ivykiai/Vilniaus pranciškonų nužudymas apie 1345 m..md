@@ -12,19 +12,20 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: "apie 1345 m.; šaltinyje taip pat aptariamos 1333 m. ir 1341 m. versijos"
-datos:
-  - "apie 1345 m."
-  - "1333 m."
-  - "1341 m. gegužės 24 d."
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIV"
-date_start: "1345"
-date_end: "1345"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1333 m.'
+  - '1341 m.'
+  - '1345 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1333'
+date_end: '1345'
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-27'
 tags: []
@@ -70,6 +71,10 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
     - c-003
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -123,18 +128,41 @@ Vienuolynas buvo užimtas, o pranciškonai nužudyti; šaltinyje kartu paliekama
   patikimumo_pagrindimas: "Citata pateikia šaltinyje referuojamą kitą versiją, ne tiesiogiai patvirtintą vieną datą."
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Grzybowski s, pranciško­ nas, anksčiau nurodytoje knygoje (8 p.) sako, kad Goštautas pranciš­ konu tapęs Krokuvoje, o paskui ap­ sigyvenęs Vilniuje, savo įkurtame vienuolyne, Vilniaus miestiečius vertęs į Kristaus tikėjimą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Grzybowski  s, pranciško­
+    nas, anksčiau nurodytoje knygoje
+    (8 p.) sako, kad Goštautas pranciš­
+    konu tapęs Krokuvoje, o paskui ap­
+    sigyvenęs Vilniuje, savo įkurtame
+    vienuolyne, Vilniaus miestiečius
+    vertęs į Kristaus tikėjimą. Tačiau
+    pastarieji 1341 metais, į Vilnių atvy­
+    kus totoriams, pažadėjusiems pagal­
+    bą Algirdui kažkokiame žygyje,
+    šiuos pagonis sukurstė pulti pran­
+    ciškonus ir kartu su jais užpuolę
+    naują vienuolyną, visus 36 vienuo­
+    lius ir su jais sykiu Goštautą nukan­
+    kino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/konfliktas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/autoriai/Grzybowski]]
+- [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- [[objektai/grupes/Vilniaus prastuomenė]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vilniaus miestiečių luomas]]
-- [[objektai/asmenys/Petras Goštautas]]
+- [[objektai/grupes/Vilniaus prastuomenė]]
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

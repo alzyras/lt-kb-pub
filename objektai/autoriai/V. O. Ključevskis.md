@@ -31,7 +31,10 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Ključevskis viena iš charakteringiausių jų istorijos vystymosi žyme ir laiko platų «kolonizavimąsi ».'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'V. O. Ključevskis šį faktą laikė svarbiausiu rusų istorijos periodizacijos rodikliu ir pagal jį skirstė rusų tautos istoriją į kolonizacijos periodus.'
@@ -54,6 +57,25 @@ V. O. Ključevskis šitą faktą laiko ir svarbiausiu visos rusų istorijos peri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Ključevskis viena iš charakteringiausių jų istorijos vystymosi žyme ir laiko platų «kolonizavimąsi ».'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ključevskis viena iš charakteringiausių jų istorijos
+    vystymosi žyme ir laiko platų «kolonizavimąsi ». Jis šitą faktą
+    laiko ir svarbiausiu visos rusų istorijos periodizacijos rodikliu, pagal
+    jį išskirstydamas rusų tautos istoriją į atskirus jos kolonizacijos
+    periodus^2.
+    Ir Lietuvos istorijoje susitinkame su faktu, kad baltų, o ypač
+    lietuvių gyvenamų ir jų kalbos plotų ribos istorinių laikų angoje
+    keitėsi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

@@ -59,3 +59,11 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aušrininkai]]
+- [[objektai/grupes/Lietuvių Mokslo Draugija]]
+- [[objektai/posakiai/« Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai. »]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]

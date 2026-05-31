@@ -98,4 +98,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Gudai]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Sutartinės|sutartinės]]
+- [[objektai/asmenys/Kopčius]]
+- [[objektai/paprociai/Kovų vietų neliečiamumas]]
+- [[objektai/asmenys/Mykolas Glinskis]]
+- [[objektai/asmenys/Štoberis]]

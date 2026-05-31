@@ -34,7 +34,10 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Lapkričio 21 d. atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke jis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atnaujintas „Gediminas“ netoli Kėdainių ties Gineičiais ir Apylauke ugnimi išblaškė prasiveržusius želigovskininkų kavalerijos padalinius.'
@@ -54,3 +57,19 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lapkričio 21 d. atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke jis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lapkričio 21 d.
+    atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gineičiais bei Apylauke
+    jis savo ugnimi išblaškė prasiveržusių želigovskininkų kavalerijos padalinius.
+
+    1921 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

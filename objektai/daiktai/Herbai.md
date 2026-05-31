@@ -7,6 +7,16 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1401 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XVI'
+date_start: '1401'
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -75,6 +85,18 @@ Nenurodyta
   teiginys: 'Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
   pagrindžia:
     - c-009
+- t-009
+  teiginys: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
+  pagrindžia:
+    - c-010
+- t-010
+  teiginys: 'Bet iš visų Horodlės unijos punktų lenkų labiausiai yra garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­ broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems savo nobiliteto pažymius — herbus.'
+  pagrindžia:
+    - c-011
+- t-011
+  teiginys: 'Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­ siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto luomu.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -222,14 +244,97 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-010
+  santrauka: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    pabaigos pa-
+    dalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija. Tačiau ir tomis su-
+    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
+    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
+    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
+    LDK herbas Vytis iš herbyno
+    „Stemmata Polonica“ (saugomo
+    Paryžiuje), XVI a. vid.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-011
+  santrauka: 'Bet iš visų Horodlės unijos punktų lenkų labiausiai yra garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­ broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems savo nobiliteto pažymius — herbus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1401 metų unijos aktai paliko
+    Lietuvą tik lig gyvos Vytauto galvos^3 ).
+    Bet iš visų Horodlės unijos punktų lenkų labiausiai yra
+    garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­
+    broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems
+    savo nobiliteto pažymius — herbus. Lenkų istorikai toje adap­
+    tacijoje įžiūri vieną svarbiausių Lietuvos kultūrinimo fakto­
+    rių^4 ), bet tie glaudesnieji Lietuvos - Lenkijos didikų santykiai
+    be abejo, tautiniu atžvilgiu lietuviams buvo labai ir labai kenks­
+    mingi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-012
+  santrauka: 'Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­ siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto luomu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ir ypatingai įsigalėti XVI—XVIII amž.
+    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
+    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
+    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
+    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
+    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
+    luomu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lietuvių bajorija]]
-- [[objektai/zodynas/nobilitetas]]
-- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Adomas (auksakalys)]]
+- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Gediminaičiai]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Herbas]]
+- [[objektai/asmenys/Julius Slovackis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Mickevičius]]
+- [[objektai/grupes/Romėnai]]
+- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
+- [[objektai/daiktai/Vytis]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/kultūrinimas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/nobilitetas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/šlėkta]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
+- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/daiktai/Žygimanto Senojo kalavijas su Lietuvos ir Lenkijos herbais]]
+- [[objektai/grupes/Vilniaus romantizmo mokykla]]

@@ -117,9 +117,8 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Zigmantas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/pastočiai]]

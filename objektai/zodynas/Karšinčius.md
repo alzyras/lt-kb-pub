@@ -70,3 +70,5 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/tėviškė]]
+- [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]

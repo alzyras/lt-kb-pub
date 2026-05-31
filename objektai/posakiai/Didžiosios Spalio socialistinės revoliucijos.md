@@ -57,9 +57,6 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]

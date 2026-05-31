@@ -238,14 +238,22 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Liubartas]]
-- [[objektai/asmenys/Ziemovitas]]
+- [[objektai/asmenys/Teodoras]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/Chadžibėjus]]
 - [[objektai/asmenys/Dmitrijus (totorių vadas)]]
+- [[objektai/autoriai/Karamzino]]
 - [[objektai/asmenys/Kutlubuga]]
+- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/daiktai/Vytauto vėliava]]

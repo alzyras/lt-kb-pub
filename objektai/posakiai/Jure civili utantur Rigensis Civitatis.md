@@ -9,18 +9,22 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: ""
-datos:
-  - "1323 m."
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIV"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1200 m.'
+  - '1323 m.'
+  - '1337 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XII'
+  - 'XIV'
+date_start: '1200'
+date_end: '1337'
 patikimumas: "aukštas"
 atnaujinta: '2026-05-27'
 tags: []
@@ -60,7 +64,10 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Jure civili utantur Rigensis Civitatis, omnis vul­ gus, nisi tunc melius fuerit inuentum de sano consilio discretorum [tad visi [tie] žmonės tesinaudoja civiline Ry­ gos miesto teise, jei paskui geriau ne­ bus sumanyta išmintingųjų tarybos].'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata pagrindžia teisinės formulės formą ir jos taikymą atvykstantiems kolonistams.
@@ -88,7 +95,49 @@ Ji reiškia pažadą taikyti Rygos miesto civilinę teisę kaip laikiną ar gali
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Jure civili utantur Rigensis Civitatis, omnis vul­ gus, nisi tunc melius fuerit inuentum de sano consilio discretorum [tad visi [tie] žmonės tesinaudoja civiline Ry­ gos miesto teise, jei paskui geriau ne­ bus sumanyta išmintingųjų tarybos].'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
+    14
+    Gedimino laiške Liubeko, Rostoko,
+    Zundo, Greifsvaldo, Štetino mies­
+    tams ir Gotlando salos gyventojams
+    šis valdovas praneša, kad į Vilnių at­
+    vykę kolonistai galės vadovautis ci­
+    viline teise, kokia naudojasi Rygos
+    miestas, kol teisėtvarkininkai nesu­
+    kurs geresnių įstatymų. Jure civili
+    utantur Rigensis Civitatis, omnis vul­
+    gus, nisi tunc melius fuerit inuentum
+    de sano consilio discretorum [tad visi
+    [tie] žmonės tesinaudoja civiline Ry­
+    gos miesto teise, jei paskui geriau ne­
+    bus sumanyta išmintingųjų tarybos].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Bremeno pirkliai]]
+- [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise]]
+- [[objektai/zodynas/Rygos miesto civilinė teisė vokiečių teisės]]

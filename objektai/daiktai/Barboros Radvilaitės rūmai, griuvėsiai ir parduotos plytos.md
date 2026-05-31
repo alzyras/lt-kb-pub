@@ -1,0 +1,126 @@
+---
+tipas: daiktas
+pavadinimas: 'Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos:
+  - '1828 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1828'
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - daiktas
+  - kraštas
+  - miestas
+  - pilis
+---
+# Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos
+
+## Santrauka
+
+272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­ teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­ lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio atrado kuklumą ir sulaukė prielankumo. 31 Dar prieš kelerius metus Vilnių puo­ šė Barboros rūmų griuvėsiai, stovė­ ję tarp Katedros ir Šv.
+
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: '272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­ teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­ lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio atrado kuklumą ir sulaukė prielankumo.'
+  pagrindžia:
+    - c-001
+- t-002
+  teiginys: '31 Dar prieš kelerius metus Vilnių puo­ šė Barboros rūmų griuvėsiai, stovė­ ję tarp Katedros ir Šv.'
+  pagrindžia:
+    - c-002
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '272 ## Puslapis 289 IV KNYGA Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­ teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­ lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio atrado kuklumą ir sulaukė prielankumo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    272
+
+    ## Puslapis 289
+
+    IV KNYGA
+    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
+    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
+    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
+    atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
+    stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+    Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
+    Barboros, kol pagaliau su ja susituokė30.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: '31 Dar prieš kelerius metus Vilnių puo­ šė Barboros rūmų griuvėsiai, stovė­ ję tarp Katedros ir Šv.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    31
+    Dar prieš kelerius metus Vilnių puo­
+    šė Barboros rūmų griuvėsiai, stovė­
+    ję tarp Katedros ir Šv. Jurgio bažny­
+    čios prie Vilijos. Su skausmu ir pa­
+    sibaisėjimu tenka pripažinti, kad
+    1828 metais tuometinė Radvilų pro-
+    kuratorija, pro pirštus žiūrėdama į
+    lietuviams brangius dingusios di­
+    dingos praeities paminklus, atėmė iš
+    miesto ir krašto, ir taip nedaug se­
+    novinių paminklų teturinčio, tuos
+    garbingus ir puikius griuvėsius, par­
+    duodama juos už 500 sidabrinių rub­
+    lių plytoms naujai statomam dvari­
+    ninko Kosobudžkio namui Nr.
+    priemiestyje už Aušros vartų. Dabar
+    jau nebeliko nieko, kas galėtų pri­
+    minti tą gražųjį Barboros būstą, iš­
+    skyrus tiktai iki šiol dar neužlygintų
+    tvenkinių žymes. Mūsų nuomone,
+    nebūtų buvę tinkamesnės vietos vi­
+    suomenės vaikštynėms kaip gražus
+    parkas Radvilų sklype, kur dabar
+    yra medinė krautuvė, ir toliau, kur
+    buvo karalienės Barboros rūmai,
+    tvenkiniai ir sodai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Skyrai]]
+- [[objektai/asmenys/Žygimantas Augustas]]

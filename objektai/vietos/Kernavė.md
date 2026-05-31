@@ -66,6 +66,26 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginys: 'Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio.'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: 'Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir Maišiagalos, priartėjo prie Vilniaus pilių.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Netrukus po to Ordino maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­ tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė aplinkines žemes.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'XVI amž. plačioji Lietuvos metraščio redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug žvėrienos.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -249,3 +269,104 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir Maišiagalos, priartėjo prie Vilniaus pilių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    , kai di­
+    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
+    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
+    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
+    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
+    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
+    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
+    Maišiagalos, priartėjo prie Vilniaus pilių. Tačiau keturių
+    Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į
+    Vilnių suardė didžiojo magistro karinius planus, ir šis pa­
+    būgęs, kad jo užmojai netikėtai užpulti gintis pasiryžusią
+    Lietuvą bus atskleisti, tuojau pat nutraukė apgultį ir bėgo,
+    klebonas, net jo laikais vešli, drūta
+    ir virš bažnyčios išsistiebusi buvo
+    matoma, ir visų buvo vadinama
+    Goštauto liepa.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Netrukus po to Ordino maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­ tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė aplinkines žemes.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tų karingų vienuolių viršininkas, greitas
+    pasinaudoti kaimynų nesutarimais, tik ir laukdamas pro­
+    gos išardyti Lietuvos ir Lenkijos sąjungą, vieną komtūrą at­
+    siuntė į Gardiną, kur tasai sausio 19 dieną netoli nuo šios
+    pilies sudarė sutartį su Vytautu. Netrukus po to Ordino
+    maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­
+    tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir
+    Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė
+    aplinkines žemes. Veidmainingas Ordino elgesys su Vytau­
+    tu, norint ne iškelti jį, o tik drumsti vandenį Lietuvoje ir
+    niokoti ją, šįsyk išgelbėjo Vilnių nuo nelaimės: mat kryžiuo­
+    čiai, paėmę du tūkstančius belaisvių, pargrįžo triumfuoda­
+    mi, Vytauto labui nieko nenuveikę, nė negalvodami apie
+    Vilniaus užėmimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    O
+    Vytautas, pasislėpęs miškuose, naikino atsiskyrusius Ordino
+    pulkus ir gurguoles. Nors ir smarkiai kryžiuočiai buvo perse­
+    kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).
+
+    (^1) ) C.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'XVI amž. plačioji Lietuvos metraščio redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug žvėrienos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gediminas stiprino Lietuvą, statydamas joje naujų pilių, tapu­
+    sių administracijos centrais. XVI amž. plačioji Lietuvos metraščio
+    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
+    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
+    žvėrienos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Yra paaiškėję, kad pradinė
+    Mindaugo « Lietuva » ir jo valdomos tėviškės pilys tebus apėmusios
+    plotą tarp Nemuno, Neries ir Merkio, t.y. pietvakarių Aukštaičių
+    sritį. H. Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso
+    pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016

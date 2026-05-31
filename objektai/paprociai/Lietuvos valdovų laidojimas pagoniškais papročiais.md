@@ -81,3 +81,4 @@ Nenurodyta
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/diecezija]]

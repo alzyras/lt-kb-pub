@@ -51,5 +51,5 @@ absoliučia balsų dauguma (124 deputatams balsavus už, nė vienam nebalsavus p
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
+### Susiję objektai
+- [[objektai/daiktai/Herbas]]

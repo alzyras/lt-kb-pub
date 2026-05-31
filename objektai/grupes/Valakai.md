@@ -7,8 +7,6 @@ variantai:
 aliases: []
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-bukle: 'juodrastis'
-laikotarpis: 'XV amžius; XVII amžius'
 datos: []
 periodas: ''
 periodo_grupes: []
@@ -17,6 +15,8 @@ amziai:
   - 'XVII'
 date_start: ''
 date_end: ''
+bukle: 'juodrastis'
+laikotarpis: 'XV amžius; XVII amžius'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -40,6 +40,10 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
     - c-002
   šaltinis: [[Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean]]
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,13 +103,47 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-005
+  santrauka: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Salzbachą su keliais tūkstančiais kariuomenės;
+    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas. Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
+    kunigaikščių joje buvo per penkiasdešimt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/zodynas/Ermyderiai|ermyderiai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Abramas (iždininkas)]]
+- [[objektai/grupes/Maskvos, totorių ir valakų pirkliai]]
+- [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
+- [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/zodynas/barokinė santvarka]]
 - [[objektai/zodynas/barokinė santvarka barokinis ūkis]]
 - [[objektai/zodynas/palivarkas]]
+- [[objektai/zodynas/valakas]]
 - [[objektai/zodynas/Dvilaukė sistema]]
+- [[objektai/paprociai/Lydimoji žemdirbystė]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]
 - [[objektai/grupes/Turkijos kariuomenė]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Mozūrai (XV amžius)]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Žuvėdai]]

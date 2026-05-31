@@ -49,7 +49,10 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-004
+  teiginys: 'Šis punk­ tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­ tekti Vytautui.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lenkų bajorų dokumentas buvo beveik lietuvių bajorų akto nuorašas.'
@@ -105,6 +108,24 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Šis punk­ tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­ tekti Vytautui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šis punk­
+    tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad
+    Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­
+    tekti Vytautui.
+    Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­
+    to nuorašas, todėl apie jį atskirai ir nebekalbėsim.
+    Svarbiausi 1401 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
@@ -115,6 +136,9 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/unija]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
+- [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
+- [[objektai/paprociai/Bajorų privilegijų reikalavimas karo stovykloje]]
 - [[objektai/grupes/Lenkijos bajorija]]

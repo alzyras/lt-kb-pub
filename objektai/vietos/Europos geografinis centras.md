@@ -58,7 +58,10 @@ Vieta apibrėžiama Lietuvos ir Vilniaus geografiniame kontekste.
   teiginys: 'Visai neseniai Prancūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pagal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra 25 km į šiaurę nuo Lietuvos sostinės Vilniaus.'
   pagrindžia:
     - c-003
-
+- t-009
+  teiginys: 'Europos žemėlapyje nubrėžus linijas, jungiančias Gibraltarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta Lietuvoje, kurioje ir yra geografinis Europos centras.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Geografinis Europos centras nurodomas Lietuvoje.'
@@ -109,7 +112,25 @@ Vieta apibrėžiama Lietuvos ir Vilniaus geografiniame kontekste.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
+- c-004
+  santrauka: 'Europos žemėlapyje nubrėžus linijas, jungiančias Gibraltarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta Lietuvoje, kurioje ir yra geografinis Europos centras.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
+    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
+    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
+    Lietuvoje, kurioje ir yra geografinis Europos centras. Visai neseniai Pran-
+    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
+    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
+    25 km į šiaurę nuo Lietuvos sostinės Vilniaus. Europos centro koordina-
+    tės 54o55’ šiaurės platumos, 25o19’ rytų ilgumos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 ## Šaltiniai ir įrodymai
 
 ## Pastabos

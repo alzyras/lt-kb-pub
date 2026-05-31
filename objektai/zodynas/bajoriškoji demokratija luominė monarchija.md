@@ -81,10 +81,17 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/santvarka]]
+- [[objektai/zodynas/unija]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
+- [[objektai/zodynas/bajoriškoji demokratija]]
+- [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

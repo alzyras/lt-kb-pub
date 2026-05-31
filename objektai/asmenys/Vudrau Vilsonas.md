@@ -44,4 +44,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/JAV lietuviai]]

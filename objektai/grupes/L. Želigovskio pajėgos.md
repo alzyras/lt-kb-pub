@@ -60,3 +60,4 @@ tags:
 - [[objektai/asmenys/L. Želigovskis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/1-oji pėstininkų divizija]]
+- [[objektai/grupes/oji pėstininkų divizija]]

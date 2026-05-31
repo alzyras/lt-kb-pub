@@ -87,6 +87,10 @@ Nenurodyta
   teiginys: '1387 m. lietuvių krikštas Aukštaičių žemėje šiame veikale aptariamas kaip papildomas krikšto aktas Lietuvos krikštijimo istorijoje.'
   pagrindžia:
     - c-014
+- t-014
+  teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -223,15 +227,32 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-015
+  santrauka: 'Ryškiausios permainos po krikšto buvo išorinės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ryškiausios permainos po krikšto buvo išorinės. Su krikštu Lietuvo-
+    je išplito pagonių visuomenei nežinomos institucijos – bažnyčios. Tai ne
+    tik naujos architektūros paminklai, paveikslų, kitų bažnytinės dailės kūri-
+    nių ir bažnytinių knygų „saugyklos“, bet ir rašto bei švietimo įstaigos. Per
+    šias institucijas į Lietuvą sklido naujos idėjos. Pasikeitė mirties samprata
+    ir laidojimo apeigos. XIV a. pabaigoje labai sumažėjo pagonybei būdingų
+    degintinių palaidojimų. Bažnyčios skleidžiamos vieno Dievo, prigimtinės
+    nuodėmės ir Kristaus atpirkimo idėjos, be abejonės, veikė žmogaus sąmo-
+    nę. Pagonybės išugdytam žmogui nauja turėjo būti ne tik atjautos ir labda-
+    ros, bet ir nuodėmės samprata, ypač tai, kad nusidėti galima ne tik veiks-
+    mais, bet ir mintimis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Krikščionys]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/marksistinė periodizacija]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/senjoras]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]
-- [[objektai/ivykiai/Nepriklausomybės pradžia]]
+- [[objektai/ivykiai/Lietuvos krikštas]]

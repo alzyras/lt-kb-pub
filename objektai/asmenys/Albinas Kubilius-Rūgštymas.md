@@ -65,3 +65,4 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
+- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]

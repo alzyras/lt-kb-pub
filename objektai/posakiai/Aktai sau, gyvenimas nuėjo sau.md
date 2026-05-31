@@ -95,3 +95,9 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Tame (Baigos brolis)]]
+- [[objektai/zodynas/unija]]

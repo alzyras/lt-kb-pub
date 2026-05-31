@@ -10,6 +10,7 @@ datos:
   - '1917 m.'
   - '1936 m.'
   - '2026 m.'
+  - '1916 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
@@ -51,7 +52,14 @@ tags:
   teiginys: 'Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio 2–10 d., kurioje dalyvavo ir visas Lietuvos Tarybos prezidiumas (A.'
   pagrindžia:
     - c-004
-
+- t-005
+  teiginys: 'Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio 2 — 10 d.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: '1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
+  pagrindžia:
+    - c-001
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1916 m. kovo 1-5 d. Berne sušaukta konferencija paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
@@ -115,3 +123,18 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio 2 — 10 d.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    pradžioj).
+    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
+    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
+    2 — 10 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

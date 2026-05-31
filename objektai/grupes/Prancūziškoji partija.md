@@ -86,4 +86,9 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkijos bajorų partija]]
+- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
+- [[objektai/grupes/Prancūzai]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
+- [[objektai/grupes/Pacai]]
+- [[objektai/grupes/Bajorai]]

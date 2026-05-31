@@ -71,4 +71,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/JAV Kongresas]]
 - [[objektai/grupes/Lietuviai]]

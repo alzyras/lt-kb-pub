@@ -149,3 +149,12 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/krivis krivė krivaitis]]
+- [[objektai/zodynas/viešė viešės pats]]

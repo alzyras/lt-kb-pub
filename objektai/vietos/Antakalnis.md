@@ -12,6 +12,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-04-25'
 tags:
@@ -60,6 +66,18 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
     - c-006
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Antakalnio pavadinimas, jeigu mes jį aiškintume taip, kaip to tūlas no­ rėtų, turėtų būti kilęs iš lotvniško žo­ džio ante - prieš ir collis - kalva, mat jis tarp kalnų išsidėstęs, bet vietovė, kur buvo lietuvių šventykla, turėjo būti nuo seno lietuviškai.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: '8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­ mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų stokodami, neturėjo kuo teisme įrodyti nuosavybę.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -184,3 +202,70 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Antakalnio pavadinimas, jeigu mes jį aiškintume taip, kaip to tūlas no­ rėtų, turėtų būti kilęs iš lotvniško žo­ džio ante - prieš ir collis - kalva, mat jis tarp kalnų išsidėstęs, bet vietovė, kur buvo lietuvių šventykla, turėjo būti nuo seno lietuviškai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    400.
+    Antakalnio pavadinimas, jeigu mes
+    jį aiškintume taip, kaip to tūlas no­
+    rėtų, turėtų būti kilęs iš lotvniško žo­
+    džio ante - prieš ir collis - kalva, mat
+    jis tarp kalnų išsidėstęs, bet vietovė,
+    kur buvo lietuvių šventykla, turėjo
+    būti nuo seno lietuviškai vadinama,
+    ne lotyniškai. Antakalnis yra pava­
+    dintas arba nuo žodžių: ant-to-Kal-
+    no, arba: ant-Pakalnės, pagal tai, kaip
+    pirmasis davęs pavadinimą, Ant­
+    akalnį stebėjo; juk plaukiančiam Vi­
+    lija atrodytų esantis ant aukštumos,
+    o stovintis ant upės kranto Antakal­
+    nį regėtų plokštumoje, kalno papė­
+    dėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Jo­ kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­ toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­ los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­ akalnio.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kazimiero bažnyčia; po Aukš­
+    tutinės ir Žemutinės pilių tai buvo tarsi trečia tvirtovė. Jo­
+    kių dabar žinomų priemiesčių tada dar nebuvo, tik vienišos
+    trobos, Lukiškėse išsibarsčiusios šventų girių kryptimi, o ki­
+    toje pusėje, tarp Aukštutinės pilies ir Antakalnio šventyk­
+    los, išsidėsčiusios palei Viliją - dabartinių Lukiškių ir Ant­
+    akalnio užuomazgos7.
+    kuris jau krikščionybės laikais atsi- tai yra esančiu ant kalno, vadiname],
+    rado.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: '8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­ mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų stokodami, neturėjo kuo teisme įrodyti nuosavybę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    2do, kad tėvai jėzuitai didelę aikštę prie bažnyčios, sodą
+    ir 4 užvažiuojamus namus, pritaikę vaistinei, spaustuvei ir
+    mokyklai, prie kolegijos prijungė.
+    8tio, plytinę su žemės sklypu ir lanka Antakalnyje paė­
+    mę, jie artylleryi judicialiter pralaimėjo, kadangi, dokumentų
+    stokodami, neturėjo kuo teisme įrodyti nuosavybę.
+    4to, Virogorų ežerą su žeme, miškais, lankomis tie patys
+    tėvai jėzuitai pasisavino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

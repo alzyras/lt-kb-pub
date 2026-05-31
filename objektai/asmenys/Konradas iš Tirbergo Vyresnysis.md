@@ -7,14 +7,14 @@ aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
-  - '1273 m.'
+  - '1271 m.'
   - '1279 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIII'
-date_start: '1273'
+date_start: '1271'
 date_end: '1279'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-30'
@@ -63,6 +63,14 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   teiginys: 'Dusburgietis teigia, kad šis brolis Konradas buvo minėtojo Konrado iš Tirbergo, magistro, tikrasis brolis, juodu garsėjo kaip ryžtingi vyrai, pelnę didelę šlovę ir karo žygiais, ir kitokiais darbais; jiems vadovaujant, taip sėkmingai kariauta su netikėliais, kad rodėsi, jog viskas.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Dusburgietis teigia, kad apie brolį Konradą iš Tirbergo, Prūsijos magistrą Brolis Konradas iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo pusšeštų metų.'
+  pagrindžia:
+    - c-010
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo Vyresnysis.'
@@ -206,6 +214,42 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolį Konradą, Prūsijos žemės magistrą 1279 viešpaties metais
+
+       Brolis Konradas iš Foichtvangeno, dešimtas Prūsijos magistras, vadovavo vienus metus.
+    Mirus broliui Konradui iš Tirbergo, Prūsijos žemės magistrui, bei žuvus broliui Ernestui,
+    Livonijos žemės magistrui, kurį nukovė netikėliai494, didysis magistras, abiejų žemių
+    pasiuntinių prašomas,  jį paskyrė Prūsijos ir Livonijos brolių magistru 1279 viešpaties
+    metais.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Dusburgietis teigia, kad apie brolį Konradą iš Tirbergo, Prūsijos magistrą Brolis Konradas iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo pusšeštų metų.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie brolį Konradą iš Tirbergo, Prūsijos magistrą
+
+       Brolis Konradas  iš Tirbergo Jaunesnysis, dvyliktas Prūsijos magistras, vadovavo
+    pusšeštų metų. Šis brolis Konradas buvo minėtojo Konrado iš Tirbergo, magistro, tikrasis
+    brolis, juodu garsėjo kaip ryžtingi vyrai, pelnę didelę šlovę ir karo žygiais, ir kitokiais
+    darbais; jiems vadovaujant, taip sėkmingai kariauta su netikėliais, kad rodėsi, jog viskas
+    susiklosto taip, kaip jie nori.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
@@ -219,4 +263,6 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 - [[objektai/asmenys/Ditrichas iš Gaterslebeno]]
 - [[objektai/asmenys/Ditrichas (Sembos fogtas)]]
 - [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Pagudėnai]]
 - [[objektai/zodynas/fogtas]]

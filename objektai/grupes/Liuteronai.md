@@ -92,10 +92,18 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Graikai]]
+- [[objektai/zodynas/Liberum veto]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/„tvanas“]]
+- [[objektai/paprociai/LDK didikų kalvinizmo rėmimas ir katalikų bažnyčių sekuliarizavimas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Oberostas]]
+- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Unitai]]
+- [[objektai/grupes/Unitų bažnyčia unitai]]

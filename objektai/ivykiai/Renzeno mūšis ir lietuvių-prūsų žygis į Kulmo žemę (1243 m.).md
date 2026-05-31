@@ -58,6 +58,14 @@ Nenurodyta
   teiginys: 'Dusburgietis teigia, kad šia proga jis kalba apie didžiulę prūsų ir sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas — nurodo „lietuvius ir prūsus“144.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dusburgietis teigia, kad 421 pabrėžti, jog prūsai griebiasi šitokio „nepaprasto ir pasaulyje negirdėto būdo“143.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad ), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -110,6 +118,39 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dusburgietis teigia, kad 421 pabrėžti, jog prūsai griebiasi šitokio „nepaprasto ir pasaulyje negirdėto būdo“143.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    421
+
+    pabrėžti, jog prūsai griebiasi šitokio „nepaprasto ir pasaulyje negirdėto būdo“143.
+      Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną
+    jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė  ir
+    Ordino pajėgos sutriuškintos mūšio lauke.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad ), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    ), kai buvo nusiaubta Kulmo žemė  ir
+    Ordino pajėgos sutriuškintos mūšio lauke. Šia proga jis kalba apie didžiulę prūsų  ir
+    sūduvių kariuomenę (III, 40), tuo tarpu jo šaltinis — Henriko iš Hohenlohės pranešimas
+    — nurodo „lietuvius ir prūsus“144. Šiuo atveju Dusburgietis akivaizdžiai stengiasi atsieti
+    prūsų kovą nuo Lietuvos, jos karinių pastangų.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -120,3 +161,4 @@ Nenurodyta
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Henrikas iš Hohenlohės]]
+- [[objektai/grupes/Lietuviai]]

@@ -83,5 +83,8 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
+### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/grupes/Liaudies vyriausybė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]

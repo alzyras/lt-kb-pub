@@ -93,6 +93,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Sventopelkas]]
 - [[objektai/zodynas/ginklanešiai]]

@@ -58,4 +58,5 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Turkai]]
+- [[objektai/daiktai/Vytis]]
 - [[objektai/zodynas/raitarai]]

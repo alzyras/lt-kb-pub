@@ -96,4 +96,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/Jidiš]]
 - [[objektai/zodynas/istorinė Lietuva]]
+- [[objektai/grupes/Litvakai]]
 - [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

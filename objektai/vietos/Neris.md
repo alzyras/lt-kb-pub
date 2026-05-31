@@ -49,6 +49,14 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   teiginys: 'Prūsijos dokumentuose Neris XIII a. buvo vadinama Neria.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi, kad glū­ dėjo tarp iškilių kalnų arba tikriausia, kad žiūrinčiajam nuo aukštų kalnų atrodė tarsi panirusi - lietuviškai - Panerta, nuo ko ją supantys kalnai ir mūsų laikais vadinami.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -124,3 +132,47 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Anksčiau kitaip buvo vadinama arba turėjo ir kitą vardą - Neris, nuo to rasi, kad glū­ dėjo tarp iškilių kalnų arba tikriausia, kad žiūrinčiajam nuo aukštų kalnų atrodė tarsi panirusi - lietuviškai - Panerta, nuo ko ją supantys kalnai ir mūsų laikais vadinami.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    II. Anksčiau kitaip
+    buvo vadinama arba turėjo ir kitą
+    vardą - Neris, nuo to rasi, kad glū­
+    dėjo tarp iškilių kalnų arba tikriausia,
+    kad žiūrinčiajam nuo aukštų kalnų
+    atrodė tarsi panirusi - lietuviškai -
+    Panerta, nuo ko ją supantys kalnai
+    ir mūsų laikais vadinami Paneriais.
+    Upė Nerige, dažnai minima senovi­
+    niame Lietuvos kelių aprašyme,
+    esančiame Kryžiuočių archyve, yra
+    dabartinė Vilija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Tad, manau, jog lietuviai seniau vadino Vilija, Neris arba Neria to­ dėl, kad ši upė išrausė sau gilią va­ gą, suformuodama aukštas smėlin­ gas pakrantes.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš kur kilo Nehrung arba Ne-
+    hring - vokiečių kalboje didžiulių
+    smėlio kaupų jūrų įlankose pavadi­
+    nimas [neringa]. Prūsijos dokumen­
+    tuose dar XIII amžiuje ji vadinta Ne­
+    ria. Tad, manau, jog lietuviai seniau
+    vadino Vilija, Neris arba Neria to­
+    dėl, kad ši upė išrausė sau gilią va­
+    gą, suformuodama aukštas smėlin­
+    gas pakrantes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006

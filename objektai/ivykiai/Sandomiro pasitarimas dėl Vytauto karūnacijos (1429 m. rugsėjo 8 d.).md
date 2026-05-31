@@ -65,4 +65,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Jogaila]]

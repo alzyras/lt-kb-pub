@@ -18,7 +18,6 @@ date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-30'
 tags:
-  - sutartis
   - ivykis
   - ordinas
   - valstybė
@@ -47,6 +46,10 @@ Nenurodyta
   pagrindžia:
     - c-001
     - c-002
+- t-002
+  teiginys: 'Dusburgietis teigia, kad lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas, pasiekė Frankfurtą prie Oderio (III, 361).'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,6 +87,22 @@ Nenurodyta
   patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Dusburgietis teigia, kad lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas, pasiekė Frankfurtą prie Oderio (III, 361).'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Lenkijos  ir Lietuvos kariuomenė įsiveržė  į Brandenburgo valdas, pasiekė
+    Frankfurtą prie Oderio (III, 361). Tvirtindama savo pozicijas prieš Kryžiuočių ordiną,
+    Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos
+    centru62.
+       Taigi Gedimino valdoma Lietuvos valstybė XIV a.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

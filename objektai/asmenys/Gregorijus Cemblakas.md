@@ -43,7 +43,10 @@ tags:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­ rūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet ir ji nieko nelaimėjo.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gregorijus Cemblakas buvo numatytas Focijaus vieton ir laikytas unijos su Katalikų Bažnyčia šalininku.'
@@ -79,12 +82,33 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­ rūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet ir ji nieko nelaimėjo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Naugarduko susirinkimas pasiuntė delegaciją, kad išsi­
+    rūpintų vietoj Cemblako kitą žmogų, patriarchui patinkamą, bet
+    ir ji nieko nelaimėjo. Tada pats Naugarduko susirinkimas Cem­
+    blaką paskyrė Kijevo metropolitu. Susirinkusieji stačiatikių
+    vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,
+    Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo
+    Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
+    tropolitų savo teises.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Katalikų Bažnyčia]]

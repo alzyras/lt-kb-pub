@@ -14,14 +14,14 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1917 m.'
-  - '1940 m.'
+  - '1944 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
 amziai:
   - 'XX'
 date_start: '1917'
-date_end: '1940'
+date_end: '1944'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -180,6 +180,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginys: 'Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų 1939 m. spalio 10 d. sutarties.'
   pagrindžia:
     - c-027
+    - c-035
 - t-028
   teiginys: 'A. Smetona buvo išvarytas iš gimnazijos.'
   pagrindžia:
@@ -304,6 +305,19 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   teiginys: 'Prezidentas A. Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.'
   pagrindžia:
     - c-026
+    - c-034
+- t-056
+  teiginys: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
+  pagrindžia:
+    - c-036
+- t-057
+  teiginys: 'Smetonai – ultimatumo akivaizdoje opozicija verčia jo paskirtą premjerą, nors S.'
+  pagrindžia:
+    - c-037
+- t-058
+  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  pagrindžia:
+    - c-038
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus.'
@@ -903,6 +917,63 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-027
+- c-036
+  santrauka: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-
+    mą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-
+    Klaipėdos nacių teismas Kaune (1934 m. gruodis)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    181
+    kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-056
+- c-037
+  santrauka: 'Smetonai – ultimatumo akivaizdoje opozicija verčia jo paskirtą premjerą, nors S.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
+    ar priešintis okupacijai, ar priimti ultimatumą. Ginkluoto pasipriešinimo
+    idėją stabdė tai, kad tokiu atveju būtų įstota į ateities Anglijos ir Pran-
+    cūzijos (ir JAV, gal ir SSRS) priešų bloką, o tokia Lietuva po karo būtų
+    skaudžiai nubausta. Krikščionys demokratai ir liaudininkai, prieš tai su-
+    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
+    krikščionims demokratams gen. S. Raštikį. Tai buvo dar vienas smūgis
+    A. Smetonai – ultimatumo akivaizdoje opozicija verčia jo paskirtą prem-
+    jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko
+    Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
+    tikio kandidatūrą atmetė. A. Smetonos siūlymą priešintis ginklu palaikė
+    vos du ministrai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-057
+- c-038
+  santrauka: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
+    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
+    tugaliją išvyko į JAV. Tačiau norėdamas gauti JAV vizą turėjo įsipareigoti
+    nevykdyti politinės veiklos, tad apsiribojo ryšiais su JAV lietuviais ir Lietu-
+    vos diplomatais. 1944 m. sausį A. Smetona žuvo Klivlande per gaisrą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-058
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -910,10 +981,13 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 
 ### Susiję objektai
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
 - [[objektai/grupes/Antantė]]
+- [[objektai/zodynas/Filosemitas]]
 - [[objektai/grupes/III Seimas]]
 - [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]
+- [[objektai/asmenys/J. Tūbelis]]
 - [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
@@ -921,22 +995,41 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/zodynas/Lituanistika]]
+- [[objektai/grupes/MINTIS]]
 - [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/grupes/Prancūzai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/grupes/Valstybės Taryba]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/de facto]]
+- [[objektai/zodynas/fait accompli]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tautos atstovai]]
 - [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
+- [[objektai/asmenys/Antanas (vaistininkas)]]
+- [[objektai/posakiai/Iki gyvos galvos]]
 - [[objektai/zodynas/Tautinės mažumos]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/posakiai/„vietos visiems užteks“]]
 - [[objektai/ivykiai/III Seimo paleidimas (1927 m. balandžio 12 d.)]]
 - [[objektai/daiktai/Kino kronikos kameros]]
+- [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
+- [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
+- [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]
+- [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/zodynas/Lietuviška Lietuva]]
+- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
+- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
+- [[objektai/daiktai/Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu]]
+- [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
+- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]
+- [[objektai/ivykiai/Žydų ministro be portfelio posto panaikinimas (1923 m.)]]
+- [[objektai/posakiai/„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“]]
+- [[objektai/posakiai/„teritoriniai patriotai“]]

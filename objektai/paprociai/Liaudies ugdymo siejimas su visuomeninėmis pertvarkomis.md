@@ -1,0 +1,80 @@
+---
+tipas: paprotys
+pavadinimas: 'Liaudies ugdymo siejimas su visuomeninėmis pertvarkomis'
+sukurta: '2026-05-31'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+atnaujinta: '2026-05-31'
+tags:
+  - paprotys
+  - tauta
+---
+# Liaudies ugdymo siejimas su visuomeninėmis pertvarkomis
+
+## Santrauka
+
+Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­ kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­ mas pilietinio ir kultūrinio ugdymo teises.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­ kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­ mas pilietinio ir kultūrinio ugdymo teises.'
+  pagrindžia:
+    - c-001
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Balinskis atsakė į jo laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­ kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­ mas pilietinio ir kultūrinio ugdymo teises.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    M. Balinskis atsakė į jo
+    laišką „Kreipimasis į tautiečius", kuriame lietuvių kultūros vei­
+    kėjas reikalavo lietuvių liaudžiai suteikti visas tautai pridera­
+    mas pilietinio ir kultūrinio ugdymo teises. „<...> negalime būti
+    abejingi mokėjimui ir vartojimui kalbos, kuria kalba apie pus­
+    antro milijono artojų, nors vien dėl to, kad, suteikiant jiems kas­
+    kart didesnį apšvietimą per pradinį mokymą ir vis geriau jiems
+    atliekant krikščionio ir piliečio pareigas, paduoti ranką gabiau­
+    siems iš jų veikti platesniame pasaulyje, išdėstyti savo mintis
+    labiau išplitusia kalba"11. Būdamas Archeologijos komisijos vi­
+    cepirmininku, M. Balinskis rėmė lietuvių, baltarusių švietėjų pa­
+    stangas paversti liaudies ugdymą sudėtine visuomeniųių per­
+    tvarkymų dalimi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras Balinskis]]
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/MINTIS]]
+- [[objektai/autoriai/Mykolas Balinskis]]

@@ -13,6 +13,7 @@ datos:
   - '1250 m.'
   - '1290 m.'
   - '1291 m.'
+  - '1958 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -21,8 +22,9 @@ amziai:
   - 'XI'
   - 'XII'
   - 'XIII'
+  - 'XX'
 date_start: '1190'
-date_end: '1291'
+date_end: '1958'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-30'
 tags:
@@ -89,6 +91,15 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   teiginys: 'Dusburgietis teigia, kad po to daug karalių ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę, tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties viešpaties 1290 metais pagonys iš pamatų sugriovė Akono.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikščionys, apsiautę Akono miestą153, atėmė jį, dievo malonei laiminant, iš netikėlių, buvo krikščionių kariuomenėje pamaldžių vyrų iš Bremeno ir Liubeko miestų, gailestingų vyrų, kurie, užjausdami šioje.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'KARALIUS MINDAUGAS IR JO PALIKIMAS 167 ordinas , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie Akonos apgulimo^74.'
+  pagrindžia:
+    - c-012
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Citata parodo Akoną kaip Jeruzalės karalystės sostinę ir jos žlugimo ašį.'
@@ -254,3 +265,45 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikščionys, apsiautę Akono miestą153, atėmė jį, dievo malonei laiminant, iš netikėlių, buvo krikščionių kariuomenėje pamaldžių vyrų iš Bremeno ir Liubeko miestų, gailestingų vyrų, kurie, užjausdami šioje.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1. Teutonų namų ordino įkūrimas
+
+      Viešpaties dievo vardu, amen. Nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikščionys,
+    apsiautę Akono miestą153, atėmė jį, dievo malonei laiminant, iš netikėlių, buvo krikščionių
+    kariuomenėje pamaldžių vyrų iš Bremeno ir Liubeko miestų, gailestingų vyrų, kurie,
+    užjausdami šioje kariuomenėje esančių ligonių visokiausius ir nepakeliamus vargus ir
+    sunkias paliegėlių dejones, įrengė ligoninę savo palapinėje  iš burių laivo, vokiškai
+    vadinamo Kogge, į kurią sunešdavo šiuos ligonius ir jiems dievobaimingai bei nuolankiai
+    patarnaudavo, meiliai juos aprūpindavo tomis gėrybėmis, kurių jiems teikė dievas, ir
+    gailestingai prižiūrėdavo, nes suprato, kad, priimdami kiekvieną ligonį ar vargšą, priima
+    patį Kristų, kuris tars paskutiniame teisme stovintiems dešinėje: „.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'KARALIUS MINDAUGAS IR JO PALIKIMAS 167 ordinas , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie Akonos apgulimo^74.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ivinskis,** **_Kristijonas, Prūsu vyskupas,_**
+    **LE XII, 1958, 145.**
+
+
+    ```
+    KARALIUS MINDAUGAS IR JO PALIKIMAS 167
+    ```
+    _ordinas_ , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie
+    Akonos apgulimo^74.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012

@@ -61,8 +61,5 @@ Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. J
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
 ### Susiję objektai
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]

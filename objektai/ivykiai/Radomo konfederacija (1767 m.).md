@@ -98,12 +98,11 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/zodynas/kitatikiai]]
+- [[objektai/posakiai/kardinalinės teisės]]

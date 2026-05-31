@@ -10,6 +10,12 @@ aliases:
   - 'Kandidatas Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -55,6 +61,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir lietuvių „suartinimo“ su rusų kultūra gija.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -93,8 +103,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir lietuvių „suartinimo“ su rusų kultūra gija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taip tikėtasi iš pačių lietuvių
+    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
+    lietuvių „suartinimo“ su rusų kultūra gija.
+    Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
+    žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių
+    rezultatų, kokių tikėjosi. Nors visuose apskrities centruose, didesniuo-
+    se miesteliuose buvo pastatytos cerkvės, bet.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/kirilika]]
+- [[objektai/asmenys/M. Muravjovas]]
+- [[objektai/asmenys/Michailas Muravjovas]]
+- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

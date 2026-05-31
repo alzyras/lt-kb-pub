@@ -79,6 +79,10 @@ Nenurodyta
   teiginys: 'Popiežiaus delegato pasiuntiniai savo platų pranešimą apie pokalbius Vilniuje (1324 gegužės gale) baigė desperatišku prierašu : « ...'
   pagrindžia:
     - c-004
+- t-009
+  teiginys: 'Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­ darytoji taika.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -154,7 +158,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­ darytoji taika.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
+    darytoji taika. Išvykdami iš Livonijos, popiežiaus legatai įsakė
+    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
+    kad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­
+    čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
+    taikos, ir karą tepradėjo 1328 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]

@@ -62,3 +62,7 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
 ### Susiję objektai
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/asmenys/Boucicaut]]
+- [[objektai/asmenys/Henrikas Lankasteris]]
+- [[objektai/grupes/Prancūzai]]

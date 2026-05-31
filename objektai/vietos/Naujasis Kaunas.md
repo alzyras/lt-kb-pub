@@ -41,7 +41,10 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Kareiviai, pamatę, kad mūras sugriuvo, Nuo pagoniškosios imperijos Vytauto ## Puslapis 44 2= al m < - | v m a = Po mūšio Situacija Kauno regione bei visoje Lietuvoje ir toliau buvo labai sudėtinga.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.'
@@ -85,3 +88,45 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kareiviai, pamatę, kad mūras sugriuvo, Nuo pagoniškosios imperijos Vytauto ## Puslapis 44 2= al m < - | v m a = Po mūšio Situacija Kauno regione bei visoje Lietuvoje ir toliau buvo labai sudėtinga.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kareiviai, pamatę, kad mūras sugriuvo,
+
+    Nuo pagoniškosios
+    imperijos
+
+    Vytauto
+
+    ## Puslapis 44
+
+    2=
+    al
+    m
+    <
+    -
+    |
+    v
+    m
+    a
+    =
+
+    Po mūšio
+
+    Situacija Kauno regione bei visoje
+    Lietuvoje ir toliau buvo labai sudėtinga.
+    Siekdamas atkurti gynybą Nemuno-
+    Neries-Nevėžio žiočių ruože, Kęstutis
+    statydino pilį Nevėžio žiočių Vyrgalės sa-
+    loje - Naująjį Kauną ir „tiltą per Nemuną“
+    (greičiausiai per Nemuno senvagę į salą).
+    Tiltas galuose turėjo du gynybinius bokš-
+    tus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

@@ -10,6 +10,7 @@ saltiniai:
 datos:
   - '1241 m.'
   - '1246 m.'
+  - '1260 m.'
   - '1274 m.'
   - '1277 m.'
 periodas: 'LDK laikotarpis'
@@ -82,6 +83,11 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   teiginys: 'Dusburgietis teigia, kad kai šitai sužinojo notangai ir varmiai, patys išsižadėjo piktų sumanymų, duodami žodį būti ištikimi broliams.'
   pagrindžia:
     - c-013
+- t-014
+  teiginys: 'Ordino pajėgos 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat.'
+  pagrindžia:
+    - c-014
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Dusburgietis teigia, kad ketvirta — Varmė194, kurioje [gyveno] varmiai.'
@@ -307,10 +313,61 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-014
+  santrauka: 'Ordino pajėgos 1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Glapas]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas Botelis]]
+- [[objektai/asmenys/Henrikas iš Svarcburgo]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/zodynas/Kilmingieji]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/asmenys/Maudelis]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pagudėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/asmenys/Steinavas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/posakiai/atsiteisė blogu už gera ir neapykanta už meilę]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui (krikštas, XIII a.)]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/markgrafas]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/Antrasis Bartenšteino pilies sugriovimas|Antrasis Bartenšteino pilies sugriovimas (pilis)]]
+- [[objektai/ivykiai/Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)]]
 - [[objektai/asmenys/Auktumas]]
 - [[objektai/ivykiai/Baigos pilies apgula ir Pijopo žūtis|Baigos pilies apgula ir Pijopo žūtis (pilis)]]
 - [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]
@@ -318,10 +375,17 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - [[objektai/grupes/Elbingo miestiečiai]]
 - [[objektai/paprociai/Elbingo miestiečių nuolatinis ginklų laikymas prie savęs]]
 - [[objektai/asmenys/Glanda]]
-- [[objektai/asmenys/Glapas]]
+- [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]
 - [[objektai/ivykiai/Liefardo malūno paėmimas ir Elbingo miestiečių žūtis]]
 - [[objektai/asmenys/Pijopas]]
-- [[objektai/asmenys/Steinavas]]
 - [[objektai/grupes/Sūduviai]]
-- [[objektai/posakiai/atsiteisė blogu už gera ir neapykanta už meilę]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/zodynas/atskalūnybė atskalūnai]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/ivykiai/Nadruvos karo pradžia ir kilmingųjų Nadruvos vyrų atsivertimas]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/asmenys/Tirskas]]
+- [[objektai/ivykiai/Varmių, notangų ir bartų pasidavimas ir kelių pilių pastatymas (1241 m.)]]
+- [[objektai/zodynas/bažnyčios visuotinybė]]
+- [[objektai/zodynas/šeimyna familia domus]]

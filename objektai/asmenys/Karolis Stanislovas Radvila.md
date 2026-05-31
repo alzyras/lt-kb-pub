@@ -62,5 +62,7 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Čartoriskiai]]
+- [[objektai/asmenys/Stanislovas (Plocko vyskupas)]]

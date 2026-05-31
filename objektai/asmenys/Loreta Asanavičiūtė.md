@@ -44,4 +44,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Sausio 13-osios gynybinės barikados]]
+- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Šarvuočiai]]
+- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
+- [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]

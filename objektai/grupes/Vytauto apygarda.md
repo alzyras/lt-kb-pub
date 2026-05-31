@@ -96,6 +96,8 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
 ### Susiję objektai
 - [[objektai/grupes/Algimanto apygarda]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/grupes/Rytų Lietuvos (Mindaugo) sritis]]
+- [[objektai/asmenys/Vaižgantas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Kunigaikščio Margio rinktinė]]
 - [[objektai/grupes/Tumo Vaižganto rinktinė]]

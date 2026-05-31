@@ -137,3 +137,10 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/pagonybė]]

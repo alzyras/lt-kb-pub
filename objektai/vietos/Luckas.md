@@ -18,18 +18,21 @@ susije_irasai: []
 datos:
   - '1384 m.'
   - '1385 m.'
+  - '1387 m.'
   - '1388 m.'
   - '1392 m.'
   - '1393 m.'
   - '1394 m.'
   - '1395 m.'
   - '1398 m.'
+  - '1408 m.'
   - '1429 m.'
   - '1432 m.'
   - '1452 m.'
   - '1470 m.'
   - '1506 m.'
   - '1507 m.'
+  - '1600 m.'
   - '1936 m.'
   - '1978 m.'
   - '2026 m.'
@@ -174,6 +177,67 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginys: 'Valentinas iš Pilzno buvo Vilniaus ir Lucko kanauninkas bei Pabaisko bažnyčios klebonas.'
   pagrindžia:
     - c-032
+- t-033
+  teiginys: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
+  pagrindžia:
+    - c-033
+- t-034
+  teiginys: 'Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zigmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d.'
+  pagrindžia:
+    - c-034
+- t-035
+  teiginys: 'Pats tuo metu už­ ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­ ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­ mu užėmė ano valdos sostinę Gardiną ir šiaip taip patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją.'
+  pagrindžia:
+    - c-035
+- t-036
+  teiginys: 'Neva krikščioniškųjų valstybių sąjungos prieš tur­ kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas atmintinas daugelio monarchų ir kunigaikščių suvažiavimas būtų sušauktas Lucke.'
+  pagrindžia:
+    - c-036
+- t-037
+  teiginys: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
+  pagrindžia:
+    - c-037
+- t-038
+  teiginys: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  pagrindžia:
+    - c-038
+- t-039
+  teiginys: '1452 metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­ venimas buvo sudrumstęs pusę Europos, vienus papiktin­ damas, kitiems keldamas gailestį, užbaigė savo klajokliškas dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­ niaus katedroje.'
+  pagrindžia:
+    - c-039
+- t-040
+  teiginys: 'Kai garbusis Valenti­ nas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­ nyčios, pastatytos šventos ir nedalomos Trejybės garbei ir, žinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų ir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­.'
+  pagrindžia:
+    - c-040
+- t-041
+  teiginys: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus .'
+  pagrindžia:
+    - c-041
+- t-042
+  teiginys: 'Jogaila dovanojo Vytautui ir jo šalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­ ką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t.'
+  pagrindžia:
+    - c-042
+- t-043
+  teiginys: 'Vytauto karūnacijos klausimas, iškeltas 1429 m. Lucko su­ važiavime, buvo nebe naujas.'
+  pagrindžia:
+    - c-043
+- t-044
+  teiginys: 'Jo valdymo metu buvo dar žymūs Trakai, Gardinas, Luckas.'
+  pagrindžia:
+    - c-044
+- t-045
+  teiginys: 'Šiaip, kaip minėjom, labai paprastas ir neišlaidus privatiniame gyvenime, Vytautas nesigailėdavo jokių išlaidų, kad reikėdavo parodyti savo galybę, užimponuoti: siunčia brangių dovanų, kelia puikias puotas (Lucke).'
+  pagrindžia:
+    - c-045
+- t-046
+  teiginys: 'Berods, to žygio metu paim­ tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.'
+  pagrindžia:
+    - c-046
+- t-047
+  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  pagrindžia:
+    - c-047
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Lucke būrėsi Jogaila nepatenkinti ir nuo jo nukentėję kunigaikščiai bei bajorai.'
@@ -668,6 +732,313 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-032
+- c-033
+  santrauka: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi politinis
+    lietuvių elitas – stačiatikiškos kultūros užsakovai. Vakarinė LDK dalis –
+    tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl re-
+    prezentacijos bei artumo Krokuvai kurs rezidencijas didikai. Būtent čia,
+    prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs
+
+    L I E T U V O S  I S T O R I J A
+    40
+    grūdais pagrindinį Europos duonos uostą  – Gdanską.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-034
+  santrauka: 'Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zigmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kadangi ryškėjo Lenkijos, o ne Lie-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    51
+    tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
+    svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
+    projektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo
+    galima išspręsti svarbesnių regiono klausimų.
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-035
+  santrauka: 'Pats tuo metu už­ ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­ ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­ mu užėmė ano valdos sostinę Gardiną ir šiaip taip patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kai visa tai vyko, karalius, matydamas
+    pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
+    mas pasikliauti ir Skirgailos pasiruošimu apsiginti, mat jis,
+    vos tik gavęs valdžią, aplaidumu ir žiauriu elgesiu didesnę
+    pusę Lietuvos prieš save nuteikė, išsiuntė į Vilnių Karūnos
+    pakanclerį Mikalojų Moskoževskį, naujais Lenkijos pulkais
+    vediną, ir liepė įsikurti Vilniaus pilyse. Pats tuo metu už­
+    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
+    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
+    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
+    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
+    Vilniaus diecezijos senųjų turto do- Vilnensis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-036
+  santrauka: 'Neva krikščioniškųjų valstybių sąjungos prieš tur­ kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas atmintinas daugelio monarchų ir kunigaikščių suvažiavimas būtų sušauktas Lucke.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    156
+
+    ## Puslapis 173
+
+    Il KNYGA
+    atplėštų. Neva krikščioniškųjų valstybių sąjungos prieš tur­
+    kus sudarymo dėlei, jis pribaudė Jogailą ir Vytautą, kad anas
+    atmintinas daugelio monarchų ir kunigaikščių suvažiavimas
+    būtų sušauktas Lucke. Tačiau kai ten išaiškėjo, kad, užuot
+    aptarus turkų klausimą, imperatoriaus imamasi gudrių už­
+    mačių siūlyti Vytautui Lietuvos karūną, lenkai tuo bemat
+    pasipiktino, svarstymai nutrūko ir visi skubinai išsivažinė-
+    jo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-037
+  santrauka: '## Puslapis 210 VILNIAUS MIESTO ISTORIJA / TOMAS V PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS, PIRMADIENI, PRIEŠ TRIS.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jurgis Radvila, Olykos ir Nesvyžiaus kunigaikštis, kar­
+    dinolas, dviejų popiežių - Inocento IX ir Klemenso VIII elek-
+    torius, pirma Vilniaus, o paskučiausiai Krokuvos vyskupas,
+    baigė dievobaimingo gyvenimo dienas Romoje, 1600 me­
+    tais.
+
+    ## Puslapis 210
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    V
+    PRIVILEGIJA, SUTEIKTA DIDŽIOJO LIETUVOS
+    KUNIGAIKŠČIO ALEKSANDRO VYTAUTO 1388 METŲ
+    VIEŠPATIES GIMIMO DIENĄ LUCKE TRAKŲ ŽYDAMS, O
+    ŽYGIMANTO SENOJO PATVIRTINTA MELNIKE 1507 METAIS,
+    PIRMADIENI, PRIEŠ TRIS KARALIUS
+    Viešpaties vardu Amen.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-038
+  santrauka: 'Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­ pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­ toje, Naugarduke.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+- c-039
+  santrauka: '1452 metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­ venimas buvo sudrumstęs pusę Europos, vienus papiktin­ damas, kitiems keldamas gailestį, užbaigė savo klajokliškas dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­ niaus katedroje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    226
+
+    ## Puslapis 243
+
+    III KNYGA
+    kilmės primindavo žmogiškosios didybės laikinumą. 1452
+    metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­
+    venimas buvo sudrumstęs pusę Europos, vienus papiktin­
+    damas, kitiems keldamas gailestį, užbaigė savo klajokliškas
+    dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­
+    niaus katedroje. Greta jo, stebėtina lemties valia, tuo pat me­
+    tu buvo palaidoti nelaimėlio jo sūnaus ir bendrininko kuni­
+    gaikščio Mykolo palaikai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-040
+  santrauka: 'Kai garbusis Valenti­ nas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­ nyčios, pastatytos šventos ir nedalomos Trejybės garbei ir, žinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų ir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiuo raštu skelbiame visiems,
+    kam dabar ar ateityje reikės tai žinoti. Kai garbusis Valenti­
+    nas iš Pilzno, Vilniaus ir Lucko kanauninkas, Pabaisko baž­
+    nyčios, pastatytos šventos ir nedalomos Trejybės garbei ir,
+    žinoma, švenčiausiosios Mergelės Marijos ėmimo į dangų
+    ir šventųjų Egidijaus, išpažinėjo, bei Jurgio, kankinio, at­
+    minimui, klebonas, pranešė, kad dėl šios bažnyčios gaisro
+    yra prarasta privilegija jos fundacijai ir pastatymui,'mes,
+    --- • ----
+    241
+
+    ## Puslapis 258
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Erectionis Suae, kujus Ecclesiae incendio esse perditum, Me­
+    mores Olim Eam ak illustrissimo Olim Principe Domino Si­
+    gismundo Magno Duce Litkvaniae Patruo Nostro desidera­
+    tissimo, in Memoriam Celekerrimi Triumpki, quem in Loco
+    illo ex Prutkenis et Livonikus Retulerat edificatam, et kones-
+    tis Reditikus dotatam.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-041
+  santrauka: 'Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­ kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­ pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus .'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Didžiosios Kunigaikštys­
+    tės valdymo trisdešimt aštuntaisiais. Dalyvaujant didžiai
+    gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vys­
+    kupui Povilui, Lucko vyskupui Jurgiui, Medininkų vysku­
+    pui Vaclovui ir didingiesiems bei kilmingiesiems Vilniaus
+    .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-042
+  santrauka: 'Jogaila dovanojo Vytautui ir jo šalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­ ką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ) įvyko taika. Jogaila dovanojo Vytautui ir jo
+    šalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­
+    ką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar
+    pridėjo kitas žemes, jų tarpe — Lucką, kuris vos neseniai, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-043
+  santrauka: 'Vytauto karūnacijos klausimas, iškeltas 1429 m. Lucko su­ važiavime, buvo nebe naujas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytauto mirtis.
+    ```
+    Vytauto karūnacijos klausimas, iškeltas 1429 m. Lucko su­
+    važiavime, buvo nebe naujas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
+- c-044
+  santrauka: 'Jo valdymo metu buvo dar žymūs Trakai, Gardinas, Luckas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    , minėjome, kad 1408
+    metais Vytautas suteikė Magdeburgo teises Kauno vokiečiams;
+    tokias pat teises turėjo jau Vilnius (1387) ir kiti miestai. Jo
+    valdymo metu buvo dar žymūs Trakai, Gardinas, Luckas.
+    Steigdamas daugiur Lietuvoje bažnyčias jau tuo pačiu spietė
+    apie jas žmones, nes tose vietose prasidėdavo judresnis apylin­
+    kės žmonių gyvenimas, palankus prekybai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+- c-045
+  santrauka: 'Šiaip, kaip minėjom, labai paprastas ir neišlaidus privatiniame gyvenime, Vytautas nesigailėdavo jokių išlaidų, kad reikėdavo parodyti savo galybę, užimponuoti: siunčia brangių dovanų, kelia puikias puotas (Lucke).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis nebuvo šykštus, priešingai reikale pinigų nesigailėdavo.
+    Šiaip, kaip minėjom, labai paprastas ir neišlaidus privatiniame
+    gyvenime, Vytautas nesigailėdavo jokių išlaidų, kad reikėdavo
+    parodyti savo galybę, užimponuoti: siunčia brangių dovanų,
+    kelia puikias puotas (Lucke).
+    Toks yra Vytautas kaip politikas, valstybės vyras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
+- c-046
+  santrauka: 'Berods, to žygio metu paim­ tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jono pilį)^21. Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+    Iš tų dviejų žygių trūksta smulkesnių versmių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-046
+- c-047
+  santrauka: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-047
+
 ## Pavadinimai šaltiniuose
 
 - Luckas

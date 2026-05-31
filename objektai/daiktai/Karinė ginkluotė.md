@@ -9,15 +9,15 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos: []
-periodas: viduramziai
+periodas: 'viduramziai'
 periodo_grupes: []
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
 atnaujinta: '2026-04-28'
 tags:
@@ -106,7 +106,10 @@ Nenurodyta
     - c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-011
+  teiginys: 'Didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas, po to, žinoma, viską reikėdavo grąžinti.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -277,3 +280,38 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas, po to, žinoma, viską reikėdavo grąžinti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuo metu Lietuva ilgą laiką dalyva-
+    vo intensyviuose kovos veiksmuose. Todėl ginklai ir ypač šarvai
+    buvo labai branginami, sugadinti perkalami. Didesnė dalis gin-
+    kluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš
+    operacijas, po to, žinoma, viską reikėdavo grąžinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Danielius]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/daiktai/Kalavijai]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Seidokas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/pėstininkas]]
+- [[objektai/daiktai/Šarvai]]
+- [[objektai/daiktai/Brūklys]]
+- [[objektai/daiktai/Skydas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/daiktai/Brangieji metalai]]

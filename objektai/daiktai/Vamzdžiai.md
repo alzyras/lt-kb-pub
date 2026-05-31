@@ -72,4 +72,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Eustachijus (raštininkas)]]
 - [[objektai/paprociai/Jaunuomenės vamzdžiavimas ir piemenėlių pypynės pavasarį]]
+- [[objektai/asmenys/Jonas Hozijus]]
+- [[objektai/asmenys/Kiščina (Vitebsko vaivadienė)]]
+- [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]
+- [[objektai/daiktai/Vilniaus vandentiekio vamzdžiai ir kanalai]]
+- [[objektai/asmenys/Žygimantas Senasis]]

@@ -76,3 +76,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kapituliacija]]
+- [[objektai/asmenys/M. Sleževičius]]

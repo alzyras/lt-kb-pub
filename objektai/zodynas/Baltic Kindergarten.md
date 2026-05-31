@@ -54,3 +54,4 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/daiktai/Lenino paminklas Vilniuje]]
 - [[objektai/posakiai/„Baltic Kindergarten“]]
+- [[objektai/ivykiai/Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)]]

@@ -65,3 +65,4 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
+- [[objektai/zodynas/santvarka]]

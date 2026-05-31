@@ -94,4 +94,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Endzelins J]]
+- [[objektai/autoriai/F. Bopas]]
 - [[objektai/autoriai/G. H. F. Neselmanas]]
+- [[objektai/autoriai/V. Mažiulis]]
+- [[objektai/zodynas/vakariniai baltai]]

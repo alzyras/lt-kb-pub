@@ -39,6 +39,10 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   teiginys: 'Urbonas VI per pasiuntinį Dobrogostą patvirtino Vilniaus katedrą ir vyskupą Andrių Vilniaus vyskupijoje.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,9 +85,32 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­ rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­ vygos prašymą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Rogėse pasislėpusiems žmonėms pavyko patekti į
+    pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
+    tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
+    pavertė anksčiau negu suspėjo Vytautas su kariauna19. Ne­
+    paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­
+    tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir
+    kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­
+    rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­
+    vygos prašymą, vietovė, vadinama Vilniumi ir laikytina mies­
+    tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių,
+    šv. Stanislovo garbei, iškilmingai pripažinta katedra.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/zodynas/brevė]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Lietuviai]]

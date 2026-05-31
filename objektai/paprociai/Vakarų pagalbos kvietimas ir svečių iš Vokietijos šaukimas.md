@@ -136,3 +136,11 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Turkai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/akcijos]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]

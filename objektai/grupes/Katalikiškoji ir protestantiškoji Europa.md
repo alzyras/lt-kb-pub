@@ -39,3 +39,8 @@ senoji Vakarų Europa skilo į dvi dalis – pietinę katalikiškąją ir šiaur
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/žygis]]

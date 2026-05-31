@@ -52,6 +52,7 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas (vaistininkas)]]
 - [[objektai/asmenys/Antanas Šukys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/viršila]]

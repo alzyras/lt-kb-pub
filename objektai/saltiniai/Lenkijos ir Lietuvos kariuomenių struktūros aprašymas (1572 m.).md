@@ -7,14 +7,15 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1561 m.'
   - '1572 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-date_start: '1572'
-date_end: ''
+date_start: '1561'
+date_end: '1572'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -36,9 +37,33 @@ Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: '1561 m. sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos tapo Lietuvos dalimi Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir Lietuvos kariuomenių struktūrą: „Kiekvienas vaivada tarp savų.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1561 m. sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos tapo Lietuvos dalimi Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir Lietuvos kariuomenių struktūrą: „Kiekvienas vaivada tarp savų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
+    didesnė dalis Livonijos tapo Lietuvos dalimi
 
+    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
+    Lietuvos kariuomenių struktūrą:
+
+    „Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-
+    tui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai
+    vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
+
+    Gardino vaizdas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Radvilos reidas „paralyžiavo“ Rusijos kariuomenę.'

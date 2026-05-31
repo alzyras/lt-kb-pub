@@ -62,3 +62,4 @@ Vytautas tai darė ne iš simpatijos pačiam husitizmui, bet iš pykčio ant cie
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]

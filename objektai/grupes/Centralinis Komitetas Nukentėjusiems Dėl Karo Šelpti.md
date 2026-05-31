@@ -55,8 +55,8 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - t-011
   teiginys: 'Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
   pagrindžia:
-    - c-008
     - c-003
+    - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-012
@@ -99,7 +99,10 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   teiginys: 'Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelpti.'
   pagrindžia:
     - c-012
-
+- t-020
+  teiginys: 'Partijų kovoms nė tuomet neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiūrų) nariai iš jo išstojo.'
+  pagrindžia:
+    - c-013
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Centralinio Komiteto pirmininku buvo M. Yčas, vicepirmininku A. Smetona, sekretoriumi St. Šilingas, o iždininku J. Kymantas.'
@@ -312,3 +315,36 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+- c-013
+  santrauka: 'Partijų kovoms nė tuomet neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiūrų) nariai iš jo išstojo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Partijų kovoms nė tuomet
+    neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū-
+    rų) nariai iš jo išstojo.
+
+    Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė
+    Rusiją, paėmė Kauną, o rugsėjo mėnesį Vilnių, — dalis Centra-
+    linio Komiteto narių pasiliko Vilniuje, o kita dalis pasitraukė į
+    Rusiją. Tuo būdu ta pati didžioji ir pastovioji lietuvių orga-
+    nizacija viena atstovavo to meto lietuvių reikalams tiek vokiečių
+    okupuotoje Lietuvoje, tiek Rusijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/A. Janulaitis]]
+- [[objektai/asmenys/Benediktas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)]]
+- [[objektai/asmenys/M. Sleževičius]]
+- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]

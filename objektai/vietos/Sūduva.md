@@ -9,13 +9,16 @@ saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1398 m.'
+  - '1421 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XIII'
   - 'XIV'
+  - 'XV'
 date_start: '1398'
-date_end: ''
+date_end: '1421'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -59,6 +62,26 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginys: 'Bet Melno sutartimi iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu Vytautas buvo ordinui užleidęs Salyno taika (1398).'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Dusburgietis teigia, kad 1421 m. Lietuvos atstovai pabrėžė, kad Žemaitija ir Sūduva esančios senovinės Lietuvos žemės, kur „...žmonės kalbėjo ir dabar kalba lietuvių kalba [...] neturi ir niekad neturėjo kitos kalbos kaip kad lietuvių, nes nebuvo ir šiandien bent nėra to, kad.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Dusburgietis teigia, kad taigi ir kalbant apie Sūduvą, senąją jotvingių žemę, akcentuojamas teritorijos bei kalbos bendrumas.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Dusburgietis šiuo kraštovardžiu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Dusburgietis teigia, kad suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių) teritorijos plačiąja prasme dalis.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,3 +172,75 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia), Bárta ir Plikoji Bárta (Bartha.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į 11 dalių,
+    atskirų žemių. Pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), toliau: Pamedẽ
+    (Pomesania), Pagudẽ (Pogesania), Varmė (Warmia), Nótanga (Nattangia), Sémba
+    (Sambia), Nadruvà (Nadrowia), Skalvà (Scalowia), Sūduvà (Sudowia), Galìnda (Galindia),
+    Bárta ir Plikoji Bárta (Bartha et Plicka Bartha) (III, 3)2.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Dusburgietis teigia, kad 1421 m. Lietuvos atstovai pabrėžė, kad Žemaitija ir Sūduva esančios senovinės Lietuvos žemės, kur „...žmonės kalbėjo ir dabar kalba lietuvių kalba [...] neturi ir niekad neturėjo kitos kalbos kaip kad lietuvių, nes nebuvo ir šiandien bent nėra to, kad.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    1421 m. Lietuvos atstovai pabrėžė, kad Žemaitija ir Sūduva
+    esančios senovinės Lietuvos žemės, kur „...žmonės kalbėjo ir dabar kalba lietuvių kalba
+    [...] neturi  ir niekad neturėjo kitos kalbos kaip kad lietuvių, nes nebuvo  ir šiandien
+    bent nėra to, kad lietuviai jos nesuprastų arba nebūtų supratę.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Dusburgietis teigia, kad taigi ir kalbant apie Sūduvą, senąją jotvingių žemę, akcentuojamas teritorijos bei kalbos bendrumas.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    “43. Taigi  ir kalbant
+    apie Sūduvą, senąją jotvingių žemę, akcentuojamas teritorijos bei kalbos bendrumas.
+    Ši tradicija buvo žinoma ir kaimyniniuose kraštuose.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Dusburgietis šiuo kraštovardžiu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    — Sudowen. Dusburgietis šiuo kraštovardžiu
+    vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a. Jo ribos su lietuvių gyvenamuoju
+    plotu nėra aiškios.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Dusburgietis teigia, kad suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių) teritorijos plačiąja prasme dalis.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    145). Dab. Suvalkų apylinkės (Vygrių ežerynas) buvo centrinė jotvingių (sūduvių)
+    teritorijos plačiąja prasme dalis.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

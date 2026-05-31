@@ -74,6 +74,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Aukso orda]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Riurikas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/kunigaikščiai]]

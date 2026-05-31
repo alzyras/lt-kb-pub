@@ -59,5 +59,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/reformacija]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]

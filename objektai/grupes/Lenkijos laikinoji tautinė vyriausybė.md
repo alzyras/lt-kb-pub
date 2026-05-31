@@ -54,3 +54,13 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/zodynas/tautinis atgimimas]]
+- [[objektai/paprociai/„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams|„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams (sukilimas)]]

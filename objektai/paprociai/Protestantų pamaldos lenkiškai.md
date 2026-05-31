@@ -77,3 +77,10 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Protestantai]]
+- [[objektai/asmenys/Radvila (maršalka)]]
+- [[objektai/zodynas/protestantizmas]]

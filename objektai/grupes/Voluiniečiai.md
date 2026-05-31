@@ -78,5 +78,7 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/grupes/Gudai]]
 - [[objektai/grupes/Skandinavai]]

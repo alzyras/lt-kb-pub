@@ -73,5 +73,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Sobolevskij]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/asmenys/Sofija]]
 - [[objektai/asmenys/Sofija Vytautaitė]]

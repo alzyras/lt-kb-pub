@@ -14,15 +14,15 @@ saltiniai:
   - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
 bukle: juodrastis
 laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-27'
 tags: []
@@ -59,7 +59,10 @@ Vartojama aptariant XIX a. Vilniaus istorijų reikšmę Lietuvos istoriografijai
     - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Kraševskio Vilniaus istorijos pasitarnavo Lietuvos istoriografijai ne tik gausia fakti­ ne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų istorinio-geografinio, o ne nacionalinio, tautos supratimo".'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata tiesiogiai pateikia istorinio-geografinio ir nacionalinio tautos supratimo priešpriešą.
@@ -82,6 +85,21 @@ Vartojama aptariant XIX a. Vilniaus istorijų reikšmę Lietuvos istoriografijai
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Kraševskio Vilniaus istorijos pasitarnavo Lietuvos istoriografijai ne tik gausia fakti­ ne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų istorinio-geografinio, o ne nacionalinio, tautos supratimo".'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir toliau: „M. Balinskio ir J. I. Kraševskio Vilniaus
+    istorijos pasitarnavo Lietuvos istoriografijai ne tik gausia fakti­
+    ne medžiaga, bet ir palankumu lietuvių tautai, nepaisant jų is-
+    torinio-geografinio, o ne nacionalinio, tautos supratimo".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

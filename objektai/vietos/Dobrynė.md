@@ -10,13 +10,15 @@ saltiniai:
 datos:
   - '1224 m.'
   - '1225 m.'
+  - '1300 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
+  - 'LDK'
   - 'viduramžiai'
 amziai:
   - 'XIII'
 date_start: '1224'
-date_end: '1225'
+date_end: '1300'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -82,6 +84,10 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 
@@ -229,3 +235,23 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-010
+  santrauka: 'Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Apie Dobrynės žemės apiplėšimą ir 70 lietuvių žūtį 1300 metais
+
+       Tais metais Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi. O šeši
+    tūkstančiai lietuvių apiplėšė Dobrynės kunigaikštystę, žudydami bei imdami  į nelaisvę
+    žmones  ir degindami viską, kas degė; be to, jie pagrobė visas žirgų kaimenes bei
+    kitą turtą,  kurį lenkai, prisibijodami anksčiau minėtojo karaliaus, buvo sugabenę į šią
+    kunigaikštystę. Šimtas šios kariuomenės rinktinių, tačiau per daug savimi pasikliaujančių
+    vyrų ryžosi persikelti per Drevantos upę ir Kulmo žemėje apiplėšti du kaimus; leidęsi iš
+      553 D.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

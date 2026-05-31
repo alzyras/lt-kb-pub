@@ -70,3 +70,20 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Protestantai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/reformacija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/zodynas/daugiakonfesiškumas]]
+- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
+- [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]

@@ -93,7 +93,50 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
     - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-012
+  teiginys: 'Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia gausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­ tojais, ir tai labiausiai iš Gediminaičių epochos.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Lietuvos istorijai daug palankaus dėmesio skyrė lenkų Vilniaus universiteto Lietuvos istorijos katedros prof. St.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais raštais yra palikęs O.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: '84 ĮVADAS Savo raštų gausumu apie XIV-XV amžiaus Lietuvą visus lenkų istorikus yra pralenkęs A.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Juos tyrinėjo teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici ir kt.) leidėjas O.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Daug dėmesio atskiriems Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams skyrė K.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra iš 1947 m.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Studyum z dziejów intrygi dyplomatycznej , Varšuva 1882, 346 p. LIETUVOS ISTORIOGRAFIJA^85 daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­ koje studijoje apie Rusiją (PaOR).'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip rodo gausus J.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Lietuvos Kuni­ gaikštystės istoriją 1647 m. išleido M.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių santykius su Lietuva iki vokiečių ordino žlugimo (1525); atskirai išleido dar Geschichte des deutschen Ritterordens (1857-1859) ir CDPr.'
+  pagrindžia:
+    - c-022
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Latkowskis pirmasis bandė nustatyti Lietuvos valstybės pradžios datą ir moksliškai tyrinėti karaliaus Mindaugo laikus.'
@@ -302,6 +345,186 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia gausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­ tojais, ir tai labiausiai iš Gediminaičių epochos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lenkų bibliografija įvairiais Lietuvos istorijos klausimais yra tokia
+    gausi, jog čia reikia pasitenkinti tik pačiais svarbiausiais tyrinė­
+    tojais, ir tai labiausiai iš Gediminaičių epochos.
+    J. Latkowskis buvo pirmasis, kuris bandė nustatyti
+    Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
+    Mindaugo laikus^126.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Lietuvos istorijai daug palankaus dėmesio skyrė lenkų Vilniaus universiteto Lietuvos istorijos katedros prof. St.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuvos istorijai daug palankaus dėmesio skyrė lenkų Vilniaus
+    universiteto Lietuvos istorijos katedros prof. St. Zajączkows­
+    kis, kuris žemaičių, jotvingių ir kitais Lietuvos XIII-XV amžių
+    klausimais parašė reikšmingų studijų ir lenkų istorijos kongresuose
+    ir periodikoje akylai sekė Lietuvos istorikų darbus 128 129.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais raštais yra palikęs O.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais
+    raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
+    dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
+    žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: '84 ĮVADAS Savo raštų gausumu apie XIV-XV amžiaus Lietuvą visus lenkų istorikus yra pralenkęs A.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+
+
+    84 ĮVADAS
+
+    Savo raštų gausumu apie XIV-XV amžiaus Lietuvą visus
+    lenkų istorikus yra pralenkęs A. Prochaska. Jis išleido ne tik
+    taip svarbų Vytauto D. aktų kodeksą (CeV), naujai perspausdintą
+    1965, ne tik parašė plačias Jogailos ir Vytauto monografijas (ProJa,
+    ProW), bet dar davė daug atskirų tyrinėjimų^131.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Juos tyrinėjo teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici ir kt.) leidėjas O.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Juos tyrinėjo
+    teisės istorikas ir taip pat svarbių šaltinių (Corpus iuris polonici
+    ir kt.) leidėjas O. Balzeris.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Daug dėmesio atskiriems Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams skyrė K.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Daug dėmesio atskiriems Gediminaičių laikų klausimams ir
+    Lietuvos seniesiems šaltiniams skyrė K. Chodynickis ir J.
+    Jakubowskis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra iš 1947 m.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Čia reikia paminėti ir
+    W. Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž.
+    visuomeninių-socialinių santykių eilę studijų, kurių paskutinė yra
+    iš 1947 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Studyum z dziejów intrygi dyplomatycznej , Varšuva 1882, 346 p. LIETUVOS ISTORIOGRAFIJA^85 daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­ koje studijoje apie Rusiją (PaOR).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^132) **A. Prochaska :** **_Zjazd monarchów w Lucku,_** **Przewodnik Nauk. i
+    Literacki, I, Lwów 1874, 58 p. ;** **_Ostatnie łata Witołda. Studyum z dziejów
+    intrygi dyplomatycznej_** **, Varšuva 1882, 346 p.**
+
+
+    ```
+    LIETUVOS ISTORIOGRAFIJA^85
+    ```
+    daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­
+    koje studijoje apie Rusiją (PaOR).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip rodo gausus J.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Po II pasaulinio karo dar labiau jaunoji lenkų istorikų generacija
+    ėmė darytis įžvalgesnė ir objektyvesnė link Lietuvos praeities, kaip
+    rodo gausus J. Ochmańskio raštai, P. Lossowskio ir
+    kitų darbai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Lietuvos Kuni­ gaikštystės istoriją 1647 m. išleido M.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš senesniųjų isto­
+    rikų. dar prieš minėtą A. L. Schlözerį, D. Lietuvos Kuni­
+    gaikštystės istoriją 1647 m. išleido M. Zeilleris 151 ; ta istorija
+    anuomet buvo labai vertinama ir susilaukė keletos laidų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių santykius su Lietuva iki vokiečių ordino žlugimo (1525); atskirai išleido dar Geschichte des deutschen Ritterordens (1857-1859) ir CDPr.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Buvęs
+    Karaliaučiaus univ. prof. J. Voigt 9 tomų veikale _Geschichte
+    Preusseus_ (1827-1838) nagrinėja kryžiuočių santykius su Lietuva
+    iki vokiečių ordino žlugimo (1525); atskirai išleido dar _Geschichte
+    des deutschen Ritterordens_ (1857-1859) ir CDPr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 ### Susiję objektai
@@ -309,4 +532,5 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/reformacija]]
 - [[objektai/zodynas/unija]]

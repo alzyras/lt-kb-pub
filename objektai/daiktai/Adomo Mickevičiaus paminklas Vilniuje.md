@@ -9,18 +9,19 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: "juodrastis"
 laikotarpis: "1987 m. rugpjūčio 23 d. protesto mitingo kontekstas"
-datos:
-  - "1987 m. rugpjūčio 23 d."
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "sovietmetis"
-amziai:
-  - "XX"
-date_start: "1987"
-date_end: "1987"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1987 m.'
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - 'XX a.'
+  - 'sovietmetis'
+amziai:
+  - 'XX'
+date_start: '1987'
+date_end: ''
 patikimumas: "vidutinis"
 atnaujinta: '2026-05-14'
 tags:
@@ -56,6 +57,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,12 +96,14 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Adomas (auksakalys)]]
 - [[objektai/autoriai/Mickevičius]]
 - [[objektai/asmenys/Tropas]]
 - [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]

@@ -54,3 +54,4 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
 - [[objektai/grupes/Mantiminų giminė]]
 - [[objektai/asmenys/Nameda]]
 - [[objektai/grupes/Sūduviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]

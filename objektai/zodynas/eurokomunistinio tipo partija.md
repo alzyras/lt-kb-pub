@@ -46,3 +46,5 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/statutas]]
+- [[objektai/grupes/Lietuvos demokratinė darbo partija]]
+- [[objektai/grupes/Lietuvos komunistų partija]]

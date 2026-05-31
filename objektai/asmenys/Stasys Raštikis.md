@@ -6,12 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1937 m.'
+  - '1940 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1937'
+date_end: '1940'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-14'
 tags:
@@ -76,7 +80,10 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   teiginys: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
   pagrindžia:
     - c-009
-
+- t-010
+  teiginys: 'Raštikis pareiškė, kad kariuomenė, gavusi tokį įsakymą, kovos, tačiau Lietuvos kariuomenės paradinė rikiuotė 1937 m.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.'
@@ -138,6 +145,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+    - t-010
 - c-005
   santrauka: 'Kariuomenės vadas Stasys Raštikis balandį dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -217,4 +225,23 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/grupes/Baltijos valstybės]]
+- [[objektai/asmenys/J. Tūbelis]]
+- [[objektai/grupes/Katalikų veikimo centras]]
 - [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Prancūzai]]
+- [[objektai/grupes/Tautininkai]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/Modus vivendi]]
+- [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]
+- [[objektai/posakiai/„nepriklausomybė svarbiausia“]]
+- [[objektai/asmenys/A. Hitleris]]
+- [[objektai/asmenys/Edvardas Rydzas-Smiglas]]
+- [[objektai/asmenys/Juozas Tūbelis]]
+- [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
+- [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]

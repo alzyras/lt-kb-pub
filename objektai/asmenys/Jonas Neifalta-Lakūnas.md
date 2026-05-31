@@ -8,14 +8,14 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1910 m.'
-  - '1945 m.'
+  - '1946 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
 amziai:
   - 'XX'
 date_start: '1910'
-date_end: '1945'
+date_end: '1946'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-20'
 tags:
@@ -41,7 +41,10 @@ tags:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
+- t-003
+  teiginys: 'Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš akis galimas partizanų negailestingas sankcijas.“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos kariuomenės ulonų puskarininkio Jono NeifaltoLakūno ir jam talkinančio Aleksandro.'
+  pagrindžia:
+    - c-003
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui.'
@@ -93,9 +96,29 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš akis galimas partizanų negailestingas sankcijas.“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos kariuomenės ulonų puskarininkio Jono NeifaltoLakūno ir jam talkinančio Aleksandro.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš
+    akis galimas partizanų negailestingas sankcijas.“
+
+    Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos
+    kariuomenės ulonų puskarininkio Jono
+    Neifalto- Lakūno ir jam talkinančio
+
+    Aleksandro Podemansko - Šarūno.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/ulonai]]

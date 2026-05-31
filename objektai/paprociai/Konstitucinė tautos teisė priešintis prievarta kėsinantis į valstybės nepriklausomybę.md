@@ -118,5 +118,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/zodynas/santvarka]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/konstitucijos]]

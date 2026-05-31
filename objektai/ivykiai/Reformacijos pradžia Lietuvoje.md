@@ -79,10 +79,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Abraomas Kulvietis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Liuteris]]
+- [[objektai/grupes/Lotynai]]
 - [[objektai/asmenys/Martynas iš Golino]]
+- [[objektai/grupes/Romėnai]]
+- [[objektai/zodynas/reformacija]]
 - [[objektai/asmenys/Abraomas]]
-- [[objektai/asmenys/Abraomas Kulvietis]]
 - [[objektai/asmenys/Martynas Liuteris]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]

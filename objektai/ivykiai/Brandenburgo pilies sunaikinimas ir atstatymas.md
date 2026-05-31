@@ -113,6 +113,7 @@ Nenurodyta
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Varmiai]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vergai]]

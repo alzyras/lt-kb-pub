@@ -55,4 +55,7 @@ Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno poli
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Daugirdas (Vilniaus vaivada)]]
 - [[objektai/zodynas/karyba]]
+- [[objektai/ivykiai/Chotino mūšis (1673 m.)]]
+- [[objektai/ivykiai/Salacgryvos jūrų mūšis (1609 m.)]]

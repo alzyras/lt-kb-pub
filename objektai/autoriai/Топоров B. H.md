@@ -47,6 +47,10 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   teiginys: 'Dusburgietis teigia, kad letto-Preussische..., Apie Krivį— Топоров B.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Dusburgietis teigia, kad vanagas A., Lietuvių hidronimų..., p. 221) ir prūsų asmenvardžius Mucko, Mucke (ТАР, p. 62; Топоров B.'
+  pagrindžia:
+    - c-006
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad galindai, p. 29; Топоров B.'
@@ -128,11 +132,30 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Dusburgietis teigia, kad vanagas A., Lietuvių hidronimų..., p. 221) ir prūsų asmenvardžius Mucko, Mucke (ТАР, p. 62; Топоров B.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Jie mat labai pasitarnavo
+    (Dotnuvos apyl. upė), Dubysos intaką Mukė, resp. Mūkė (lie. mukti ’tižti’, mukus ‘klampus’,
+    lat, muka ‘klampynė, pelkė’; žr. Vanagas A., Lietuvių hidronimų..., p. 221)  ir prūsų
+    asmenvardžius Mucko, Mucke (ТАР, p. 62; Топоров B. H., K фракийско-балтийским...,
+    c. 70). Upėvardis galėtų būti baltiškos kilmės.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Galindai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/autoriai/Vanagas A]]
 - [[objektai/zodynas/krivis krivė krivaitis]]
+- [[objektai/autoriai/Вилинбахов В. Б]]
 - [[objektai/autoriai/Энговатов H. В]]

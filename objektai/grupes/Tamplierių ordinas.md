@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
+  - '1104 m.'
   - '1112 m.'
   - '1190 m.'
   - '1236 m.'
@@ -24,7 +25,7 @@ amziai:
   - 'XII'
   - 'XIII'
   - 'XIV'
-date_start: '1112'
+date_start: '1104'
 date_end: '1324'
 patikimumas: 'vidutinis'
 atnaujinta: '2026-05-30'
@@ -57,6 +58,10 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   teiginys: 'Dusburgietis teigia, kad apie tamplierių ordino panaikinimą 1312 viešpaties metais, kovo 22 dieną, imperatoriaus Henriko VII laikais, Klemensas V, popiežius, Vieno sinode pasmerkė — nors šitai nebuvo galutinis sprendimas, bet apaštališkojo sosto parengiamasis veiksmas — tamplierių.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
+  pagrindžia:
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams keliami kaltinimai turėję tam tikrų padarinių.'
@@ -126,6 +131,24 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.'
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+      Tamplierių ordinas — 1112 viešpaties metais popiežiaus Paskalio II laikais; jį panaikino
+    popiežius Klemensas V Vieno suvažiavime 1312 viešpaties metais kovo 23 dieną savo
+    pontifikato 7-ais metais, imperatoriaus Henriko VII laikais, tiesa, šitai nebuvo galutinis
+    sprendimas, bet apaštališkojo sosto parengiamasis veiksmas.
+      Teutonų namų ordinas — 1190 viešpaties metais popiežiaus Celestino III ir imperatoriaus
+    Henriko VI laikais (Dusb.
+  citata_rodoma: ''
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
@@ -138,13 +161,15 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 - [[objektai/zodynas/ekskomunikuoti]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Švento Jono ligoninės ordinas]]
 - [[objektai/grupes/Cistersų ordinas]]
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
 - [[objektai/asmenys/Henrikas Valpotas]]
+- [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
 - [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]
 - [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]
 - [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje]]
 - [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]
-- [[objektai/grupes/Švento Jono ligoninės ordinas]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/ivykiai/Popiežiaus Jono XXII grasinimas ekskomunikuoti Kryžiuočių ordiną (1324 m.)]]
